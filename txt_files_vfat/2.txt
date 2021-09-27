@@ -1,0 +1,75 @@
+*************** 👨‍🌾 UNOFFICIAL ALPHADEX FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://kitten.finance/
+***************************************************************************************
+
+Mon Sep 13 2021 10:02:49 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+[DEX]-[WETH] Uni LP [+] [-] [<=>] Price: $151.28 TVL: $113,110.34
+DEX Price: $1.36
+WETH Price: $3,285.41
+Staked: 741.1884 UNI-V2 ($112,124.70)
+DEX Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 undefined $0.00 (0.00% of the pool).
+Stake 0.000000 undefined
+Unstake 0.000000 undefined
+Claim 0.000000 DEX
+Exit
+
+DEX Price: $1.36 Market Cap: $571,200.00 [%]
+Staked: 22778.6645 DEX ($30,978.98)
+DEX Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 undefined $0.00 (0.00% of the pool).
+Stake 0.000000 undefined
+Unstake 0.000000 undefined
+Claim 0.000000 DEX
+Exit
+
+KIF Price: $39.94 Market Cap: $1,637,539.87 [%]
+Staked: 16275.0099 KIF ($650,023.90)
+DEX Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 undefined $0.00 (0.00% of the pool).
+Stake 0.000000 undefined
+Unstake 0.000000 undefined
+Claim 0.000000 DEX
+Exit
+
+[KIF]-[WETH] Uni LP [+] [-] [<=>] Price: $912.13 TVL: $222,488.31
+KIF Price: $39.94
+WETH Price: $3,285.41
+Staked: 109.1835 UNI-V2 ($99,588.99)
+DEX Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 undefined $0.00 (0.00% of the pool).
+Stake 0.000000 undefined
+Unstake 0.000000 undefined
+Claim 0.000000 DEX
+Exit
+
+[kBASEv0]-[USDC] Uni LP [+] [-] [<=>] Price: $1,152,816.19 TVL: $18,879.35
+kBASEv0 Price: $0.17
+USDC Price: $1.00
+Staked: 0.0080 UNI-V2 ($9,253.78)
+DEX Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 undefined $0.00 (0.00% of the pool).
+Stake 0.000000 undefined
+Unstake 0.000000 undefined
+Claim 0.000000 DEX
+Exit
+
+kBASEv0 Price: $0.17 Market Cap: $29,552.84 [%]
+Staked: 83628.5018 kBASEv0 ($14,198.52)
+DEX Per Week: 42.05 ($57.19)
+APR: Day 0.06% Week 0.40% Year 20.95%
+You are staking 0.000000 undefined $0.00 (0.00% of the pool).
+Stake 0.000000 undefined
+Unstake 0.000000 undefined
+Claim 0.000000 DEX
+Exit

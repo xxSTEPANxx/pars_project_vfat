@@ -1,0 +1,376 @@
+*************** 👨‍🌾 UNOFFICIAL XDEFI FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://farm.xdefi.com
+**************************************************************************
+
+Mon Sep 13 2021 10:18:30 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 51 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [XDEX 36%]-[DAI 32%]-[WETH 32%] BPT Price: $4.85 TVL: $196,744.44
+XDEX Price: $0.04
+DAI Price: $1.00
+WETH Price: $3,282.35
+Staked: 37313.1930 [XDEX 36%]-[DAI 32%]-[WETH 32%] ($180,867.49)
+XDEX Per Week: 697728.75 ($25,493.62)
+APR: Day 2.01% Week 14.10% Year 732.95%
+You are staking 0.00 [XDEX 36%]-[DAI 32%]-[WETH 32%] ($0.00), 0.00% of the pool.
+Stake 0.00 [XDEX 36%]-[DAI 32%]-[WETH 32%]
+Unstake 0.00 [XDEX 36%]-[DAI 32%]-[WETH 32%]
+Claim 0.00 XDEX ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [XDEX 4%]-[DAI 32%]-[ZKS 32%]-[WETH 32%] BPT Price: $0.00 TVL: $0.00
+XDEX Price: $0.04
+DAI Price: $1.00
+ZKS Price: $0.81
+WETH Price: $3,282.35
+Staked: 0.0000 [XDEX 4%]-[DAI 32%]-[ZKS 32%]-[WETH 32%] ($0.00)
+XDEX Per Week: 9303.05 ($339.91)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [XDEX 4%]-[DAI 32%]-[ZKS 32%]-[WETH 32%] ($0.00), NaN% of the pool.
+Stake 0.00 [XDEX 4%]-[DAI 32%]-[ZKS 32%]-[WETH 32%]
+Unstake 0.00 [XDEX 4%]-[DAI 32%]-[ZKS 32%]-[WETH 32%]
+Claim 0.00 XDEX ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [XDEX 4%]-[UNI 32%]-[DAI 32%]-[WETH 32%] BPT Price: $9.37 TVL: $1,295.91
+XDEX Price: $0.04
+UNI Price: $22.61
+DAI Price: $1.00
+WETH Price: $3,282.35
+Staked: 138.3112 [XDEX 4%]-[UNI 32%]-[DAI 32%]-[WETH 32%] ($1,295.91)
+XDEX Per Week: 9303.05 ($339.91)
+APR: Day 3.75% Week 26.23% Year 1363.95%
+You are staking 0.00 [XDEX 4%]-[UNI 32%]-[DAI 32%]-[WETH 32%] ($0.00), 0.00% of the pool.
+Stake 0.00 [XDEX 4%]-[UNI 32%]-[DAI 32%]-[WETH 32%]
+Unstake 0.00 [XDEX 4%]-[UNI 32%]-[DAI 32%]-[WETH 32%]
+Claim 0.00 XDEX ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [XDEX 4%]-[DAI 32%]-[ZRX 32%]-[WETH 32%] BPT Price: $0.00 TVL: $0.00
+XDEX Price: $0.04
+DAI Price: $1.00
+ZRX Price: $1.00
+WETH Price: $3,282.35
+Staked: 0.0000 [XDEX 4%]-[DAI 32%]-[ZRX 32%]-[WETH 32%] ($0.00)
+XDEX Per Week: 9303.05 ($339.91)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [XDEX 4%]-[DAI 32%]-[ZRX 32%]-[WETH 32%] ($0.00), NaN% of the pool.
+Stake 0.00 [XDEX 4%]-[DAI 32%]-[ZRX 32%]-[WETH 32%]
+Unstake 0.00 [XDEX 4%]-[DAI 32%]-[ZRX 32%]-[WETH 32%]
+Claim 0.00 XDEX ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [XDEX 4%]-[DAI 32%]-[CRV 32%]-[WETH 32%] BPT Price: $10.32 TVL: $21,066.79
+XDEX Price: $0.04
+DAI Price: $1.00
+CRV Price: $2.23
+WETH Price: $3,282.35
+Staked: 2041.3803 [XDEX 4%]-[DAI 32%]-[CRV 32%]-[WETH 32%] ($21,066.79)
+XDEX Per Week: 9303.05 ($339.91)
+APR: Day 0.23% Week 1.61% Year 83.90%
+You are staking 0.00 [XDEX 4%]-[DAI 32%]-[CRV 32%]-[WETH 32%] ($0.00), 0.00% of the pool.
+Stake 0.00 [XDEX 4%]-[DAI 32%]-[CRV 32%]-[WETH 32%]
+Unstake 0.00 [XDEX 4%]-[DAI 32%]-[CRV 32%]-[WETH 32%]
+Claim 0.00 XDEX ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [XDEX 4%]-[DAI 32%]-[BAL 32%]-[WETH 32%] BPT Price: $8.49 TVL: $623.06
+XDEX Price: $0.04
+DAI Price: $1.00
+BAL Price: $25.44
+WETH Price: $3,282.35
+Staked: 73.3481 [XDEX 4%]-[DAI 32%]-[BAL 32%]-[WETH 32%] ($623.06)
+XDEX Per Week: 9303.05 ($339.91)
+APR: Day 7.79% Week 54.56% Year 2836.91%
+You are staking 0.00 [XDEX 4%]-[DAI 32%]-[BAL 32%]-[WETH 32%] ($0.00), 0.00% of the pool.
+Stake 0.00 [XDEX 4%]-[DAI 32%]-[BAL 32%]-[WETH 32%]
+Unstake 0.00 [XDEX 4%]-[DAI 32%]-[BAL 32%]-[WETH 32%]
+Claim 0.00 XDEX ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [XDEX 4%]-[DAI 32%]-[SUSHI 32%]-[WETH 32%] BPT Price: $9.11 TVL: $1,166.32
+XDEX Price: $0.04
+DAI Price: $1.00
+SUSHI Price: $10.74
+WETH Price: $3,282.35
+Staked: 128.0445 [XDEX 4%]-[DAI 32%]-[SUSHI 32%]-[WETH 32%] ($1,166.31)
+XDEX Per Week: 9303.05 ($339.91)
+APR: Day 4.16% Week 29.14% Year 1515.51%
+You are staking 0.00 [XDEX 4%]-[DAI 32%]-[SUSHI 32%]-[WETH 32%] ($0.00), 0.00% of the pool.
+Stake 0.00 [XDEX 4%]-[DAI 32%]-[SUSHI 32%]-[WETH 32%]
+Unstake 0.00 [XDEX 4%]-[DAI 32%]-[SUSHI 32%]-[WETH 32%]
+Claim 0.00 XDEX ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [XDEX 4%]-[DAI 32%]-[USDT 32%]-[WETH 32%] BPT Price: $10.97 TVL: $2.27
+XDEX Price: $0.04
+DAI Price: $1.00
+USDT Price: $1.00
+WETH Price: $3,282.35
+Staked: 0.2072 [XDEX 4%]-[DAI 32%]-[USDT 32%]-[WETH 32%] ($2.27)
+XDEX Per Week: 23257.62 ($849.79)
+APR: Day 5337.79% Week 37364.56% Year 1942957.30%
+You are staking 0.00 [XDEX 4%]-[DAI 32%]-[USDT 32%]-[WETH 32%] ($0.00), 0.00% of the pool.
+Stake 0.00 [XDEX 4%]-[DAI 32%]-[USDT 32%]-[WETH 32%]
+Unstake 0.00 [XDEX 4%]-[DAI 32%]-[USDT 32%]-[WETH 32%]
+Claim 0.00 XDEX ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [XDEX 4%]-[DAI 32%]-[MEME 32%]-[WETH 32%] BPT Price: $6.42 TVL: $12,207.14
+XDEX Price: $0.04
+DAI Price: $1.00
+MEME Price: $520.88
+WETH Price: $3,282.35
+Staked: 1900.6730 [XDEX 4%]-[DAI 32%]-[MEME 32%]-[WETH 32%] ($12,207.14)
+XDEX Per Week: 9303.05 ($339.91)
+APR: Day 0.40% Week 2.78% Year 144.80%
+You are staking 0.00 [XDEX 4%]-[DAI 32%]-[MEME 32%]-[WETH 32%] ($0.00), 0.00% of the pool.
+Stake 0.00 [XDEX 4%]-[DAI 32%]-[MEME 32%]-[WETH 32%]
+Unstake 0.00 [XDEX 4%]-[DAI 32%]-[MEME 32%]-[WETH 32%]
+Claim 0.00 XDEX ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [XDEX 4%]-[DAI 32%]-[USDC 32%]-[WETH 32%] BPT Price: $0.00 TVL: $0.00
+XDEX Price: $0.04
+DAI Price: $1.00
+USDC Price: $1.00
+WETH Price: $3,282.35
+Staked: 0.0000 [XDEX 4%]-[DAI 32%]-[USDC 32%]-[WETH 32%] ($0.00)
+XDEX Per Week: 9303.05 ($339.91)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [XDEX 4%]-[DAI 32%]-[USDC 32%]-[WETH 32%] ($0.00), NaN% of the pool.
+Stake 0.00 [XDEX 4%]-[DAI 32%]-[USDC 32%]-[WETH 32%]
+Unstake 0.00 [XDEX 4%]-[DAI 32%]-[USDC 32%]-[WETH 32%]
+Claim 0.00 XDEX ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - [XDEX 4%]-[DAI 32%]-[MKR 32%]-[WETH 32%] BPT Price: $0.00 TVL: $0.00
+XDEX Price: $0.04
+DAI Price: $1.00
+MKR Price: $2,768.25
+WETH Price: $3,282.35
+Staked: 0.0000 [XDEX 4%]-[DAI 32%]-[MKR 32%]-[WETH 32%] ($0.00)
+XDEX Per Week: 9303.05 ($339.91)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [XDEX 4%]-[DAI 32%]-[MKR 32%]-[WETH 32%] ($0.00), NaN% of the pool.
+Stake 0.00 [XDEX 4%]-[DAI 32%]-[MKR 32%]-[WETH 32%]
+Unstake 0.00 [XDEX 4%]-[DAI 32%]-[MKR 32%]-[WETH 32%]
+Claim 0.00 XDEX ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [XDEX 4%]-[WBTC 32%]-[DAI 32%]-[WETH 32%] BPT Price: $20.21 TVL: $0.14
+XDEX Price: $0.04
+WBTC Price: $44,876.00
+DAI Price: $1.00
+WETH Price: $3,282.35
+Staked: 0.0067 [XDEX 4%]-[WBTC 32%]-[DAI 32%]-[WETH 32%] ($0.14)
+XDEX Per Week: 9303.05 ($339.91)
+APR: Day 35614.84% Week 249303.89% Year 12963802.13%
+You are staking 0.00 [XDEX 4%]-[WBTC 32%]-[DAI 32%]-[WETH 32%] ($0.00), 0.00% of the pool.
+Stake 0.00 [XDEX 4%]-[WBTC 32%]-[DAI 32%]-[WETH 32%]
+Unstake 0.00 [XDEX 4%]-[WBTC 32%]-[DAI 32%]-[WETH 32%]
+Claim 0.00 XDEX ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - [XDEX 4%]-[DAI 32%]-[COMP 32%]-[WETH 32%] BPT Price: $0.00 TVL: $0.00
+XDEX Price: $0.04
+DAI Price: $1.00
+COMP Price: $386.26
+WETH Price: $3,282.35
+Staked: 0.0000 [XDEX 4%]-[DAI 32%]-[COMP 32%]-[WETH 32%] ($0.00)
+XDEX Per Week: 23257.62 ($849.79)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [XDEX 4%]-[DAI 32%]-[COMP 32%]-[WETH 32%] ($0.00), NaN% of the pool.
+Stake 0.00 [XDEX 4%]-[DAI 32%]-[COMP 32%]-[WETH 32%]
+Unstake 0.00 [XDEX 4%]-[DAI 32%]-[COMP 32%]-[WETH 32%]
+Claim 0.00 XDEX ($0.00)
+Staking or unstaking also claims rewards.
+
+29 - [XDEX 4%]-[YFI 32%]-[DAI 32%]-[WETH 32%] BPT Price: $0.00 TVL: $0.00
+XDEX Price: $0.04
+YFI Price: $32,111.00
+DAI Price: $1.00
+WETH Price: $3,282.35
+Staked: 0.0000 [XDEX 4%]-[YFI 32%]-[DAI 32%]-[WETH 32%] ($0.00)
+XDEX Per Week: 9303.05 ($339.91)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [XDEX 4%]-[YFI 32%]-[DAI 32%]-[WETH 32%] ($0.00), NaN% of the pool.
+Stake 0.00 [XDEX 4%]-[YFI 32%]-[DAI 32%]-[WETH 32%]
+Unstake 0.00 [XDEX 4%]-[YFI 32%]-[DAI 32%]-[WETH 32%]
+Claim 0.00 XDEX ($0.00)
+Staking or unstaking also claims rewards.
+
+30 - [XDEX 4%]-[CELR 32%]-[DAI 32%]-[WETH 32%] BPT Price: $0.00 TVL: $0.00
+XDEX Price: $0.04
+CELR Price: $0.08
+DAI Price: $1.00
+WETH Price: $3,282.35
+Staked: 0.0000 [XDEX 4%]-[CELR 32%]-[DAI 32%]-[WETH 32%] ($0.00)
+XDEX Per Week: 23257.62 ($849.79)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [XDEX 4%]-[CELR 32%]-[DAI 32%]-[WETH 32%] ($0.00), NaN% of the pool.
+Stake 0.00 [XDEX 4%]-[CELR 32%]-[DAI 32%]-[WETH 32%]
+Unstake 0.00 [XDEX 4%]-[CELR 32%]-[DAI 32%]-[WETH 32%]
+Claim 0.00 XDEX ($0.00)
+Staking or unstaking also claims rewards.
+
+31 - [XDEX 4%]-[REN 32%]-[DAI 32%]-[WETH 32%] BPT Price: $0.00 TVL: $0.00
+XDEX Price: $0.04
+REN Price: $0.68
+DAI Price: $1.00
+WETH Price: $3,282.35
+Staked: 0.0000 [XDEX 4%]-[REN 32%]-[DAI 32%]-[WETH 32%] ($0.00)
+XDEX Per Week: 23257.62 ($849.79)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [XDEX 4%]-[REN 32%]-[DAI 32%]-[WETH 32%] ($0.00), NaN% of the pool.
+Stake 0.00 [XDEX 4%]-[REN 32%]-[DAI 32%]-[WETH 32%]
+Unstake 0.00 [XDEX 4%]-[REN 32%]-[DAI 32%]-[WETH 32%]
+Claim 0.00 XDEX ($0.00)
+Staking or unstaking also claims rewards.
+
+32 - [XDEX 4%]-[DAI 32%]-[MFT 32%]-[WETH 32%] BPT Price: $0.00 TVL: $0.00
+XDEX Price: $0.04
+DAI Price: $1.00
+MFT Price: $0.01
+WETH Price: $3,282.35
+Staked: 0.0000 [XDEX 4%]-[DAI 32%]-[MFT 32%]-[WETH 32%] ($0.00)
+XDEX Per Week: 23257.62 ($849.79)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [XDEX 4%]-[DAI 32%]-[MFT 32%]-[WETH 32%] ($0.00), NaN% of the pool.
+Stake 0.00 [XDEX 4%]-[DAI 32%]-[MFT 32%]-[WETH 32%]
+Unstake 0.00 [XDEX 4%]-[DAI 32%]-[MFT 32%]-[WETH 32%]
+Claim 0.00 XDEX ($0.00)
+Staking or unstaking also claims rewards.
+
+33 - [XDEX 4%]-[DAI 32%]-[CRO 32%]-[WETH 32%] BPT Price: $0.00 TVL: $0.00
+XDEX Price: $0.04
+DAI Price: $1.00
+CRO Price: $0.18
+WETH Price: $3,282.35
+Staked: 0.0000 [XDEX 4%]-[DAI 32%]-[CRO 32%]-[WETH 32%] ($0.00)
+XDEX Per Week: 23257.62 ($849.79)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [XDEX 4%]-[DAI 32%]-[CRO 32%]-[WETH 32%] ($0.00), NaN% of the pool.
+Stake 0.00 [XDEX 4%]-[DAI 32%]-[CRO 32%]-[WETH 32%]
+Unstake 0.00 [XDEX 4%]-[DAI 32%]-[CRO 32%]-[WETH 32%]
+Claim 0.00 XDEX ($0.00)
+Staking or unstaking also claims rewards.
+
+36 - [XDEX 4%]-[DAI 32%]-[ANKR 32%]-[WETH 32%] BPT Price: $0.00 TVL: $0.00
+XDEX Price: $0.04
+DAI Price: $1.00
+ANKR Price: $0.10
+WETH Price: $3,282.35
+Staked: 0.0000 [XDEX 4%]-[DAI 32%]-[ANKR 32%]-[WETH 32%] ($0.00)
+XDEX Per Week: 23257.62 ($849.79)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [XDEX 4%]-[DAI 32%]-[ANKR 32%]-[WETH 32%] ($0.00), NaN% of the pool.
+Stake 0.00 [XDEX 4%]-[DAI 32%]-[ANKR 32%]-[WETH 32%]
+Unstake 0.00 [XDEX 4%]-[DAI 32%]-[ANKR 32%]-[WETH 32%]
+Claim 0.00 XDEX ($0.00)
+Staking or unstaking also claims rewards.
+
+40 - [XDEX 4%]-[SAND 32%]-[DAI 32%]-[WETH 32%] BPT Price: $0.00 TVL: $0.00
+XDEX Price: $0.04
+SAND Price: $0.77
+DAI Price: $1.00
+WETH Price: $3,282.35
+Staked: 0.0000 [XDEX 4%]-[SAND 32%]-[DAI 32%]-[WETH 32%] ($0.00)
+XDEX Per Week: 9303.05 ($339.91)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [XDEX 4%]-[SAND 32%]-[DAI 32%]-[WETH 32%] ($0.00), NaN% of the pool.
+Stake 0.00 [XDEX 4%]-[SAND 32%]-[DAI 32%]-[WETH 32%]
+Unstake 0.00 [XDEX 4%]-[SAND 32%]-[DAI 32%]-[WETH 32%]
+Claim 0.00 XDEX ($0.00)
+Staking or unstaking also claims rewards.
+
+43 - [XDEX 4%]-[DAI 32%]-[WETH 32%]-[AXS 32%] BPT Price: $0.00 TVL: $0.00
+XDEX Price: $0.04
+DAI Price: $1.00
+WETH Price: $3,282.35
+AXS Price: $0.00
+Staked: 0.0000 [XDEX 4%]-[DAI 32%]-[WETH 32%]-[AXS 32%] ($0.00)
+XDEX Per Week: 9303.05 ($339.91)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [XDEX 4%]-[DAI 32%]-[WETH 32%]-[AXS 32%] ($0.00), NaN% of the pool.
+Stake 0.00 [XDEX 4%]-[DAI 32%]-[WETH 32%]-[AXS 32%]
+Unstake 0.00 [XDEX 4%]-[DAI 32%]-[WETH 32%]-[AXS 32%]
+Claim 0.00 XDEX ($0.00)
+Staking or unstaking also claims rewards.
+
+45 - [XDEX 4%]-[DAI 32%]-[  32%]-[WETH 32%] BPT Price: $0.00 TVL: $0.00
+XDEX Price: $0.04
+DAI Price: $1.00
+  Price: $0.24
+WETH Price: $3,282.35
+Staked: 0.0000 [XDEX 4%]-[DAI 32%]-[  32%]-[WETH 32%] ($0.00)
+XDEX Per Week: 9303.05 ($339.91)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [XDEX 4%]-[DAI 32%]-[  32%]-[WETH 32%] ($0.00), NaN% of the pool.
+Stake 0.00 [XDEX 4%]-[DAI 32%]-[  32%]-[WETH 32%]
+Unstake 0.00 [XDEX 4%]-[DAI 32%]-[  32%]-[WETH 32%]
+Claim 0.00 XDEX ($0.00)
+Staking or unstaking also claims rewards.
+
+46 - [XDEX 4%]-[FXS 32%]-[FRAX 32%]-[WETH 32%] BPT Price: $8.75 TVL: $874.93
+XDEX Price: $0.04
+FXS Price: $5.12
+FRAX Price: $1.00
+WETH Price: $3,282.35
+Staked: 100.0000 [XDEX 4%]-[FXS 32%]-[FRAX 32%]-[WETH 32%] ($874.93)
+XDEX Per Week: 9303.05 ($339.91)
+APR: Day 5.55% Week 38.85% Year 2020.23%
+You are staking 0.00 [XDEX 4%]-[FXS 32%]-[FRAX 32%]-[WETH 32%] ($0.00), 0.00% of the pool.
+Stake 0.00 [XDEX 4%]-[FXS 32%]-[FRAX 32%]-[WETH 32%]
+Unstake 0.00 [XDEX 4%]-[FXS 32%]-[FRAX 32%]-[WETH 32%]
+Claim 0.00 XDEX ($0.00)
+Staking or unstaking also claims rewards.
+
+47 - [XDEX 4%]-[sUSD 32%]-[SNX 32%]-[WETH 32%] BPT Price: $0.00 TVL: $0.00
+XDEX Price: $0.04
+sUSD Price: $1.00
+SNX Price: $10.61
+WETH Price: $3,282.35
+Staked: 0.0000 [XDEX 4%]-[sUSD 32%]-[SNX 32%]-[WETH 32%] ($0.00)
+XDEX Per Week: 9303.05 ($339.91)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [XDEX 4%]-[sUSD 32%]-[SNX 32%]-[WETH 32%] ($0.00), NaN% of the pool.
+Stake 0.00 [XDEX 4%]-[sUSD 32%]-[SNX 32%]-[WETH 32%]
+Unstake 0.00 [XDEX 4%]-[sUSD 32%]-[SNX 32%]-[WETH 32%]
+Claim 0.00 XDEX ($0.00)
+Staking or unstaking also claims rewards.
+
+48 - [XDEX 4%]-[USDC 48%]-[DORA 48%] BPT Price: $0.00 TVL: $0.00
+XDEX Price: $0.04
+USDC Price: $1.00
+DORA Price: $7.14
+Staked: 0.0000 [XDEX 4%]-[USDC 48%]-[DORA 48%] ($0.00)
+XDEX Per Week: 9303.05 ($339.91)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [XDEX 4%]-[USDC 48%]-[DORA 48%] ($0.00), NaN% of the pool.
+Stake 0.00 [XDEX 4%]-[USDC 48%]-[DORA 48%]
+Unstake 0.00 [XDEX 4%]-[USDC 48%]-[DORA 48%]
+Claim 0.00 XDEX ($0.00)
+Staking or unstaking also claims rewards.
+
+49 - [XDEX 4%]-[DAI 32%]-[WETH 64%] BPT Price: $11.97 TVL: $2,393.03
+XDEX Price: $0.04
+DAI Price: $1.00
+WETH Price: $3,282.35
+Staked: 200.0000 [XDEX 4%]-[DAI 32%]-[WETH 64%] ($2,393.03)
+XDEX Per Week: 9303.05 ($339.91)
+APR: Day 2.03% Week 14.20% Year 738.63%
+You are staking 0.00 [XDEX 4%]-[DAI 32%]-[WETH 64%] ($0.00), 0.00% of the pool.
+Stake 0.00 [XDEX 4%]-[DAI 32%]-[WETH 64%]
+Unstake 0.00 [XDEX 4%]-[DAI 32%]-[WETH 64%]
+Claim 0.00 XDEX ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $220,497.08

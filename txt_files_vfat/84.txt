@@ -1,0 +1,118 @@
+*************** 👨‍🌾 UNOFFICIAL CVI PROTOCOL FARMING CALCULATOR 👨‍🌾 ************
+INFO  : https://cvi.finance
+******************************************************************************
+
+Mon Sep 13 2021 10:18:21 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+[USDT Platform] Price: $1.00 TVL: $873,071.26
+Positions Locked: 55594.0851 USDT ($55,594.09)
+Liquidity Locked: 817477.1788 USDT ($817,477.18)
+Your Position: 0.0000 USDT [0] [+] [-]
+Your Liquidity: 0.0000 USDT-LP [$0.00] [+] [-]
+Claim Position Reward 0.0000 GOVI [Nothing to claim]
+Etherscan
+
+[ETH Platform] Price: $3,285.83 TVL: $3,459,841.38
+Positions Locked: 249.3419 ETH ($819,295.18)
+Liquidity Locked: 803.6162 ETH ($2,640,546.20)
+Your Position: 0.0000 ETH [0] [+] [-]
+Your Liquidity: 0.0000 ETH-LP-V2 [$0.00] [+] [-]
+Claim Position Reward 0.0000 GOVI [Nothing to claim]
+Etherscan
+
+[GOVI Staking] Price: $2.70 TVL: $5,996,404.20
+Total Staked: 2220890.4439 ($5,996,404.20)
+Your Stake: 0.0000 GOVI ($0.00) (0.00% of the pool)
+Stake 0 GOVI
+Unstake 0 GOVI
+Claim Token Profit 0 USDT
+Claim Token Profit 0 WETH
+Claim Token Profit 0 USDC
+Claim All Profits
+Etherscan
+
+USDT-LP Price: $0.77 Market Cap: $817,477.18 [%]
+Staked: 1017564.4745 USDT-LP ($780,434.09)
+GOVI Per Week: 4849.92 ($13,094.79)
+APR: Day 0.24% Week 1.68% Year 87.25%
+You are staking 0.000000 USDT-LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 USDT-LP
+Unstake 0.000000 USDT-LP
+Claim 0.000000 GOVI ($0.00)
+Revoke (set approval to 0)
+Exit
+
+ETH-LP-V2 Price: $2.49 Market Cap: $2,640,546.20 [%]
+Staked: 994514.4926 ETH-LP-V2 ($2,476,091.20)
+GOVI Per Week: 13649.70 ($36,854.19)
+APR: Day 0.21% Week 1.49% Year 77.40%
+You are staking 0.000000 ETH-LP-V2 $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 ETH-LP-V2
+Unstake 0.000000 ETH-LP-V2
+Claim 0.000000 GOVI ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[WETH]-[COTI] Uni LP [+] [-] [<=>] Price: $77.81 TVL: $3,562,267.99
+WETH Price: $3,282.35
+COTI Price: $0.32
+Staked: 39560.0754 UNI-V2 ($3,078,277.71)
+GOVI Per Week: 5269.90 ($14,228.74)
+APR: Day 0.07% Week 0.46% Year 24.04%
+You are staking 0.000000 [WETH]-[COTI] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [WETH]-[COTI] Uni LP
+Unstake 0.000000 [WETH]-[COTI] Uni LP
+Claim 0.000000 GOVI ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[WETH]-[GOVI] Uni LP [+] [-] [<=>] Price: $207.56 TVL: $12,184,354.45
+WETH Price: $3,282.35
+GOVI Price: $2.70
+Staked: 57280.6330 UNI-V2 ($11,888,895.25)
+GOVI Per Week: 40859.39 ($110,320.36)
+APR: Day 0.13% Week 0.93% Year 48.25%
+You are staking 0.000000 [WETH]-[GOVI] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [WETH]-[GOVI] Uni LP
+Unstake 0.000000 [WETH]-[GOVI] Uni LP
+Claim 0.000000 GOVI ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[WETH]-[COTI] SLP [+] [-] [<=>] Price: $68.21 TVL: $497,653.87
+WETH Price: $3,282.35
+COTI Price: $0.32
+Staked: 6718.0318 SLP ($458,270.34)
+GOVI Per Week: 839.96 ($2,267.89)
+APR: Day 0.07% Week 0.49% Year 25.73%
+You are staking 0.000000 [WETH]-[COTI] SLP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [WETH]-[COTI] SLP
+Unstake 0.000000 [WETH]-[COTI] SLP
+Claim 0.000000 GOVI ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[WETH]-[GOVI] SLP [+] [-] [<=>] Price: $190.25 TVL: $1,479,099.25
+WETH Price: $3,282.35
+GOVI Price: $2.70
+Staked: 7024.0991 SLP ($1,336,349.64)
+GOVI Per Week: 4599.70 ($12,419.18)
+APR: Day 0.13% Week 0.93% Year 48.33%
+You are staking 0.000000 [WETH]-[GOVI] SLP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [WETH]-[GOVI] SLP
+Unstake 0.000000 [WETH]-[GOVI] SLP
+Claim 0.000000 GOVI ($0.00)
+Revoke (set approval to 0)
+Exit
+
+Total staked: $20,018,318.23

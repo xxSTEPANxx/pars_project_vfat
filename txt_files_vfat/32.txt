@@ -1,0 +1,59 @@
+*************** 👨‍🌾 UNOFFICIAL TRUE FI YIELD FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://app.truefi.io/farm
+***************************************************************************************
+
+Mon Sep 13 2021 10:10:28 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+[TRU]-[WETH] Uni LP [+] [-] [<=>] Price: $10,167,405.92 TVL: $249,080.58
+TRU Price: $0.47
+WETH Price: $3,287.04
+Staked: 0.0187 UNI-V2 ($190,448.82)
+TRU Per Week: 353787.00 ($166,162.79)
+APR: Day 12.46% Week 87.25% Year 4536.90%
+You are staking 0.000000 undefined $0.00 (0.00% of the pool).
+Your LP tokens comprise of 0.0000 TRU + 0.0000 WETH
+Stake 0.000000 undefined
+Unstake 0.000000 undefined
+Claim 0.000000 TRU
+Exit
+
+[DAI 40%]-[BAL 57.99999999999999%]-[TRU 2%] BPT Price: $1.47 TVL: $16,006.03
+DAI Price: $1.00
+BAL Price: $25.50
+TRU Price: $0.47
+Staked: 9297.9796 [DAI 40%]-[BAL 57.99999999999999%]-[TRU 2%] ($13,655.21)
+TRU Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 undefined $0.00 (0.00% of the pool).
+Your LP tokens comprise of 0.0000 DAI + 0.0000 BAL + 0.0000 TRU
+Stake 0.000000 undefined
+Unstake 0.000000 undefined
+Claim 0.000000 TRU
+Exit
+
+[TUSD]-[Legacy tfTUSD] Uni LP [+] [-] [<=>] Price: $1.84 TVL: $3,020.13
+TUSD Price: $1.00
+Legacy tfTUSD Price: $0.83
+Staked: 159.6723 UNI-V2 ($294.53)
+TRU Per Week: 82404.00 ($38,702.60)
+APR: Day 1877.18% Week 13140.29% Year 683295.00%
+You are staking 0.000000 undefined $0.00 (0.00% of the pool).
+Your LP tokens comprise of 0.0000 TUSD + 0.0000 Legacy tfTUSD
+Stake 0.000000 undefined
+Unstake 0.000000 undefined
+Claim 0.000000 TRU
+Exit
+
+Legacy tfTUSD Price: $0.83 Market Cap: $40,817,668.77 [%]
+Staked: 49111812.5947 Legacy tfTUSD ($40,659,008.46)
+TRU Per Week: 70000.00 ($32,876.83)
+APR: Day 0.01% Week 0.08% Year 4.20%
+You are staking 0.000000 undefined $0.00 (0.00% of the pool).
+Stake 0.000000 undefined
+Unstake 0.000000 undefined
+Claim 0.000000 TRU
+Exit

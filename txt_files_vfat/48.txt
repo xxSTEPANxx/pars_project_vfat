@@ -1,0 +1,115 @@
+*************** 👨‍🌾 UNOFFICIAL ETHIC FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://ethic.money
+**************************************************************************
+
+Mon Sep 13 2021 10:12:40 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Current Epoch: 382
+Epoch Period: 04:00:00
+ETHC Price: $0.05
+ETHC Total Supply: 3225065.65, $173,665.78
+ETHC Total Staged: 388403.10, $20,915.03
+ETHC Total Bonded: 1895792.63, $102,086.08
+Your DAO status is Frozen
+You have 0.00 unstaked ETHC, $0.00
+You have 0.00 staged ETHC, $0.00, 0.0000% of the pool
+You have 0.00 bonded ETHC, $0.00, 0.0000% of the pool
+Deposit 0.00 ETHC
+Withdraw 0.00 ETHC
+Bond 0.00 ETHC
+Unbond 0.00 ETHC
+
+
+[ETHC]-[DAI] Uni LP [+] [-] [<=>] Price: $0.49 TVL: $40,835.84
+ETHC Price: $0.05
+DAI Price: $1.00
+Staked: 83074.1897 UNI-V2 ($40,638.96)
+DAI-ETHC Total Staged: 20480.49, $10,018.82
+DAI-ETHC Total Bonded: 62593.70, $30,620.13
+Your LP status is Frozen
+You have 0.00000000 unstaked DAI-ETHC, $0.00
+You have 0.00000000 staged DAI-ETHC, $0.00, 0.0000% of the pool
+You have 0.00000000 bonded DAI-ETHC, $0.00, 0.0000% of the pool
+You have 0.00 rewarded ETHC ($0.00)
+You have 0.00 claimable ETHC ($0.00)
+Deposit 0.000000 DAI-ETHC
+Withdraw 0.000000 DAI-ETHC
+Bond 0.000000 DAI-ETHC
+Unbond 0.000000 DAI-ETHC
+Claim 0.00 ETHC
+Provide 0.00 ETHC
+
+DAO APY: Day 0% Week 0% Year 0%
+LP APR: Day 0% Week 0% Year 0%
+DAO Unbonds
+Unbonding at epoch 383: 0.00 ($0.00)
+Unbonding at epoch 384: 0.00 ($0.00)
+Unbonding at epoch 385: 0.00 ($0.00)
+Unbonding at epoch 386: 0.00 ($0.00)
+Unbonding at epoch 387: 0.00 ($0.00)
+Unbonding at epoch 388: 0.00 ($0.00)
+Unbonding at epoch 389: 0.00 ($0.00)
+Unbonding at epoch 390: 0.00 ($0.00)
+Unbonding at epoch 391: 0.00 ($0.00)
+Unbonding at epoch 392: 0.00 ($0.00)
+Unbonding at epoch 393: 0.00 ($0.00)
+Unbonding at epoch 394: 0.00 ($0.00)
+Unbonding at epoch 395: 0.00 ($0.00)
+Unbonding at epoch 396: 0.00 ($0.00)
+Unbonding at epoch 397: 0.00 ($0.00)
+Unbonding at epoch 398: 0.00 ($0.00)
+Unbonding at epoch 399: 0.00 ($0.00)
+Unbonding at epoch 400: 0.00 ($0.00)
+Unbonding at epoch 401: 0.00 ($0.00)
+Unbonding at epoch 402: 0.00 ($0.00)
+Unbonding at epoch 403: 0.00 ($0.00)
+Unbonding at epoch 404: 0.00 ($0.00)
+Unbonding at epoch 405: 0.00 ($0.00)
+Unbonding at epoch 406: 0.00 ($0.00)
+Unbonding at epoch 407: 0.00 ($0.00)
+Unbonding at epoch 408: 0.00 ($0.00)
+Unbonding at epoch 409: 0.00 ($0.00)
+Unbonding at epoch 410: 0.00 ($0.00)
+Unbonding at epoch 411: 0.00 ($0.00)
+Unbonding at epoch 412: 0.00 ($0.00)
+Unbonding at epoch 413: 0.00 ($0.00)
+Unbonding at epoch 414: 0.00 ($0.00)
+Unbonding at epoch 415: 0.00 ($0.00)
+Unbonding at epoch 416: 0.00 ($0.00)
+Unbonding at epoch 417: 0.00 ($0.00)
+Unbonding at epoch 418: 0.00 ($0.00)
+Unbonding at epoch 419: 0.00 ($0.00)
+Unbonding at epoch 420: 0.00 ($0.00)
+Unbonding at epoch 421: 0.00 ($0.00)
+Unbonding at epoch 422: 0.00 ($0.00)
+Unbonding at epoch 423: 0.00 ($0.00)
+Unbonding at epoch 424: 0.00 ($0.00)
+LP Unbonds
+Unbonding at epoch 383: 0.0000 LPT - Cycling: 0.0000 LPT - Claimable: 0.00 ETHC ($0.00)
+Unbonding at epoch 384: 0.0000 LPT - Cycling: 0.0000 LPT - Claimable: 0.00 ETHC ($0.00)
+Unbonding at epoch 385: 0.0000 LPT - Cycling: 0.0000 LPT - Claimable: 0.00 ETHC ($0.00)
+Unbonding at epoch 386: 0.0000 LPT - Cycling: 0.0000 LPT - Claimable: 0.00 ETHC ($0.00)
+Unbonding at epoch 387: 0.0000 LPT - Cycling: 0.0000 LPT - Claimable: 0.00 ETHC ($0.00)
+Unbonding at epoch 388: 0.0000 LPT - Cycling: 0.0000 LPT - Claimable: 0.00 ETHC ($0.00)
+Unbonding at epoch 389: 0.0000 LPT - Cycling: 0.0000 LPT - Claimable: 0.00 ETHC ($0.00)
+Unbonding at epoch 390: 0.0000 LPT - Cycling: 0.0000 LPT - Claimable: 0.00 ETHC ($0.00)
+Unbonding at epoch 391: 0.0000 LPT - Cycling: 0.0000 LPT - Claimable: 0.00 ETHC ($0.00)
+Unbonding at epoch 392: 0.0000 LPT - Cycling: 0.0000 LPT - Claimable: 0.00 ETHC ($0.00)
+Unbonding at epoch 393: 0.0000 LPT - Cycling: 0.0000 LPT - Claimable: 0.00 ETHC ($0.00)
+Unbonding at epoch 394: 0.0000 LPT - Cycling: 0.0000 LPT - Claimable: 0.00 ETHC ($0.00)
+Unbonding at epoch 395: 0.0000 LPT - Cycling: 0.0000 LPT - Claimable: 0.00 ETHC ($0.00)
+Unbonding at epoch 396: 0.0000 LPT - Cycling: 0.0000 LPT - Claimable: 0.00 ETHC ($0.00)
+Unbonding at epoch 397: 0.0000 LPT - Cycling: 0.0000 LPT - Claimable: 0.00 ETHC ($0.00)
+Unbonding at epoch 398: 0.0000 LPT - Cycling: 0.0000 LPT - Claimable: 0.00 ETHC ($0.00)
+Unbonding at epoch 399: 0.0000 LPT - Cycling: 0.0000 LPT - Claimable: 0.00 ETHC ($0.00)
+Unbonding at epoch 400: 0.0000 LPT - Cycling: 0.0000 LPT - Claimable: 0.00 ETHC ($0.00)
+Unbonding at epoch 401: 0.0000 LPT - Cycling: 0.0000 LPT - Claimable: 0.00 ETHC ($0.00)
+Unbonding at epoch 402: 0.0000 LPT - Cycling: 0.0000 LPT - Claimable: 0.00 ETHC ($0.00)
+Unbonding at epoch 403: 0.0000 LPT - Cycling: 0.0000 LPT - Claimable: 0.00 ETHC ($0.00)
+Unbonding at epoch 404: 0.0000 LPT - Cycling: 0.0000 LPT - Claimable: 0.00 ETHC ($0.00)
+Unbonding at epoch 405: 0.0000 LPT - Cycling: 0.0000 LPT - Claimable: 0.00 ETHC ($0.00)
+Unbonding at epoch 406: 0.0000 LPT - Cycling: 0.0000 LPT - Claimable: 0.00 ETHC ($0.00)

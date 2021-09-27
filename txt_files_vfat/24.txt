@@ -1,0 +1,37 @@
+*************** 👨‍🌾 UNOFFICIAL PEGS CASH CALCULATOR 👨‍🌾 ******************
+INFO  : https://pegs.cash
+*************************************************************************
+
+Mon Sep 13 2021 10:06:39 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+[PUSD]-[PEGS] Uni LP [+] [-] [<=>] Price: $5.34 TVL: $727,732.88
+PUSD Price: $0.02
+PEGS Price: $0.84
+Staked: 134767.1165 UNI-V2 ($719,093.54)
+PEGS Per Week: 115068.49 ($96,245.82)
+APR: Day 1.91% Week 13.38% Year 695.98%
+You are staking 0.000000 [PUSD]-[PEGS] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [PUSD]-[PEGS] Uni LP
+Unstake 0.000000 [PUSD]-[PEGS] Uni LP
+Claim 0.000000 PEGS ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[PUSD]-[USDC] Uni LP [+] [-] [<=>] Price: $447,667.70 TVL: $4,173.04
+PUSD Price: $0.02
+USDC Price: $1.00
+Staked: 0.0090 UNI-V2 ($4,024.26)
+PEGS Per Week: 115068.49 ($96,245.82)
+APR: Day 341.66% Week 2391.64% Year 124365.15%
+You are staking 0.000000 [PUSD]-[USDC] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [PUSD]-[USDC] Uni LP
+Unstake 0.000000 [PUSD]-[USDC] Uni LP
+Claim 0.000000 PEGS ($0.00)
+Revoke (set approval to 0)
+Exit

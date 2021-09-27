@@ -1,0 +1,92 @@
+*************** 👨‍🌾 UNOFFICIAL PIEDAO FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://www.piedao.org
+***************************************************************************
+
+ALL Pools: 80% of rewards are escrowed.
+
+A 0.5% withdrawal fee applies.
+
+Mon Sep 13 2021 10:19:21 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Finished reading smart contracts.
+[PLAY]-[DOUGH] SLP [+] [-] [<=>] Price: $1.66 TVL: $1,420,030.68
+PLAY Price: $2.25
+DOUGH Price: $0.30
+Staked: 824963.1068 SLP ($1,369,943.75)
+DOUGH Per Week: 141393.14 ($42,643.61)
+APR: Day 0.44% Week 3.11% Year 161.87%
+You are staking 0.00 [PLAY]-[DOUGH] SLP ($0.00), 0.00% of the pool.
+Staking Contract
+Deposit 0.00 [PLAY]-[DOUGH] SLP
+Withdraw 0.00 [PLAY]-[DOUGH] SLP
+Claim 0.00 DOUGH ($0.00)
+Staking or unstaking also claims rewards.
+
+[DOUGH]-[WETH] SLP [+] [-] [<=>] Price: $64.72 TVL: $1,819,028.48
+DOUGH Price: $0.30
+WETH Price: $3,281.54
+Staked: 15469.5699 SLP ($1,001,223.69)
+DOUGH Per Week: 94262.10 ($28,429.07)
+APR: Day 0.41% Week 2.84% Year 147.65%
+You are staking 0.00 [DOUGH]-[WETH] SLP ($0.00), 0.00% of the pool.
+Staking Contract
+Deposit 0.00 [DOUGH]-[WETH] SLP
+Withdraw 0.00 [DOUGH]-[WETH] SLP
+Claim 0.00 DOUGH ($0.00)
+Staking or unstaking also claims rewards.
+
+[WETH 20%]-[DOUGH 80%] BPT Price: $9,964.04 TVL: $1,457,748.60
+WETH Price: $3,281.54
+DOUGH Price: $0.30
+Staked: 35.5647 [WETH 20%]-[DOUGH 80%] ($354,367.95)
+DOUGH Per Week: 18332.14 ($5,528.90)
+APR: Day 0.22% Week 1.56% Year 81.13%
+You are staking 0.00 [WETH 20%]-[DOUGH 80%] ($0.00), 0.00% of the pool.
+Staking Contract
+Deposit 0.00 [WETH 20%]-[DOUGH 80%]
+Withdraw 0.00 [WETH 20%]-[DOUGH 80%]
+Claim 0.00 DOUGH ($0.00)
+Staking or unstaking also claims rewards.
+
+[DEFI+S 70%]-[WETH 30%] BPT Price: $83.02 TVL: $584,540.51
+DEFI+S Price: $3.45
+WETH Price: $3,281.54
+Staked: 6573.7675 [DEFI+S 70%]-[WETH 30%] ($545,758.23)
+DOUGH Per Week: 10999.28 ($3,317.34)
+APR: Day 0.09% Week 0.61% Year 31.61%
+You are staking 0.00 [DEFI+S 70%]-[WETH 30%] ($0.00), 0.00% of the pool.
+Staking Contract
+Deposit 0.00 [DEFI+S 70%]-[WETH 30%]
+Withdraw 0.00 [DEFI+S 70%]-[WETH 30%]
+Claim 0.00 DOUGH ($0.00)
+Staking or unstaking also claims rewards.
+
+[DEFI+L 70%]-[WETH 30%] BPT Price: $14.15 TVL: $1,276,476.16
+DEFI+L Price: $4.05
+WETH Price: $3,281.54
+Staked: 85726.8905 [DEFI+L 70%]-[WETH 30%] ($1,213,171.28)
+DOUGH Per Week: 10999.28 ($3,317.34)
+APR: Day 0.04% Week 0.27% Year 14.22%
+You are staking 0.00 [DEFI+L 70%]-[WETH 30%] ($0.00), 0.00% of the pool.
+Staking Contract
+Deposit 0.00 [DEFI+L 70%]-[WETH 30%]
+Withdraw 0.00 [DEFI+L 70%]-[WETH 30%]
+Claim 0.00 DOUGH ($0.00)
+Staking or unstaking also claims rewards.
+
+BCP Price: $3.51 Market Cap: $3,126,654.75 [%]
+Staked: 514443.3400 BCP ($1,805,696.12)
+DOUGH Per Week: 18332.14 ($5,528.90)
+APR: Day 0.04% Week 0.31% Year 15.92%
+You are staking 0.00 BCP ($0.00), 0.00% of the pool.
+Staking Contract
+Deposit 0.00 BCP
+Withdraw 0.00 BCP
+Claim 0.00 DOUGH ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $6,290,161.02

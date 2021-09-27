@@ -1,0 +1,37 @@
+*************** 👨‍🌾 UNOFFICIAL FEI FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://fei.money
+********************************************************************************
+
+Mon Sep 13 2021 10:19:09 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 2 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [FEI]-[TRIBE] Uni LP [+] [-] [<=>] Price: $1.02 TVL: $329,972,432.56
+FEI Price: $1.00
+TRIBE Price: $0.63
+Staked: 80122148.3926 UNI-V2 ($81,468,542.00)
+TRIBE Per Week: 1680000.00 ($1,053,200.40)
+APR: Day 0.18% Week 1.29% Year 67.22%
+You are staking 0.00 [FEI]-[TRIBE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FEI]-[TRIBE] Uni LP
+Unstake 0.00 [FEI]-[TRIBE] Uni LP
+Claim 0.00 TRIBE ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - FEI3CRV3CRV-f Price: $1.00 Market Cap: $122,600,645.51 
+Staked: 121613759.8542 FEI3CRV3CRV-f ($121,676,999.94)
+TRIBE Per Week: 1680000.00 ($1,053,200.40)
+APR: Day 0.12% Week 0.87% Year 45.01%
+You are staking 0.00 FEI3CRV3CRV-f ($0.00), 0.00% of the pool.
+Stake 0.00 FEI3CRV3CRV-f
+Unstake 0.00 FEI3CRV3CRV-f
+Claim 0.00 TRIBE ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $203,145,541.94

@@ -1,0 +1,79 @@
+*************** 👨‍🌾 UNOFFICIAL FRAX FINANCE CALCULATOR 👨‍🌾 ***************
+INFO  : https://app.frax.finance/
+*************************************************************************
+
+Mon Sep 13 2021 10:04:12 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+[FXS]-[WETH] Uni LP [+] [-] [<=>] Price: $516.77 TVL: $362,285.25
+FXS Price: $5.13
+WETH Price: $3,283.13
+Staked: 0.0006 UNI-V2 ($0.29)
+FXS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [FXS]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [FXS]-[WETH] Uni LP
+Unstake 0.000000 [FXS]-[WETH] Uni LP
+Claim 0.000000 FXS ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[FRAX]-[WETH] Uni LP [+] [-] [<=>] Price: $127.91 TVL: $1,492,422.47
+FRAX Price: $1.00
+WETH Price: $3,283.13
+Staked: 3391.7864 UNI-V2 ($433,828.22)
+FXS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [FRAX]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [FRAX]-[WETH] Uni LP
+Unstake 0.000000 [FRAX]-[WETH] Uni LP
+Claim 0.000000 FXS ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[FRAX]-[USDC] Uni LP [+] [-] [<=>] Price: $2,102,462.02 TVL: $1,108,555.80
+FRAX Price: $1.00
+USDC Price: $1.00
+Staked: 0.4534 UNI-V2 ($953,290.96)
+FXS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [FRAX]-[USDC] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [FRAX]-[USDC] Uni LP
+Unstake 0.000000 [FRAX]-[USDC] Uni LP
+Claim 0.000000 FXS ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[FXS]-[FRAX] Uni LP [+] [-] [<=>] Price: $5.09 TVL: $43,014,743.53
+FXS Price: $5.13
+FRAX Price: $1.00
+Staked: 8377030.3188 UNI-V2 ($42,622,582.01)
+FXS Per Week: 115068.49 ($590,301.37)
+APR: Day 0.20% Week 1.38% Year 72.02%
+You are staking 0.000000 [FXS]-[FRAX] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [FXS]-[FRAX] Uni LP
+Unstake 0.000000 [FXS]-[FRAX] Uni LP
+Claim 0.000000 FXS ($0.00)
+Revoke (set approval to 0)
+Exit
+
+FRAX3CRV-f Price: $1.01 Market Cap: $305,136,031.32 
+Staked: 157430.7037 FRAX3CRV-f ($158,369.06)
+FXS Per Week: 0.00 ($0.00)
+FXS APR: Day 0.00% Week 0.00% Year 0.00%
+CRV Per Week: 0.00 ($0.00)
+CRV APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 FRAX3CRV-f $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 FRAX3CRV-f
+Unstake 0.000000 FRAX3CRV-f
+Claim 0.000000 FXS ($0.00)
+Revoke (set approval to 0)
+Exit

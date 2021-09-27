@@ -1,0 +1,20 @@
+*************** 👨‍🌾 UNOFFICIAL MOCHI.MARKET FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://mochi.market
+*********************************************************************************
+
+Farming rewards have a 6 month linear (per-block) vesting from the moment of harvesting.
+
+Mon Sep 13 2021 10:20:23 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+
+{
+  "readyState": 0,
+  "status": 0,
+  "statusText": "error"
+}
+Oops something went wrong. Try refreshing the page.

@@ -1,0 +1,56 @@
+*************** 👨‍🌾 UNOFFICIAL NAOS FARMING CALCULATOR 👨‍🌾 ****************
+INFO  : https://app.naos.finance/farms
+***************************************************************************
+
+Mon Sep 13 2021 10:22:00 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+
+--- Earn NAOS Rewards ---
+0 - NAOSToken Pool
+NAOS Price: $1.22
+Current Staked: 8013440.7013 NAOS ($9,776,397.66)
+Rewards: 19600 NAOS ($23912) Per Week
+APR: 12.72%
+
+You are staking 0.00 NAOS
+Stake 0.00 NAOS
+Unstake 0.00 NAOS
+Claim 0.00 NAOS
+
+1 - NAOS-WETH UNI_V2 LP Pool
+UNI-V2 Price: $155.60 [+] [-] [<=>]
+Current Staked: 6999.3956 UNI-V2 ($1,089,134.00)
+Rewards: 24500 NAOS ($29890) Per Week
+APR: 142.71%
+
+You are staking 0.00 UNI-V2
+Stake 0.00 UNI-V2
+Unstake 0.00 UNI-V2
+Claim 0.00 NAOS
+
+3 - Curve.fi Factory USD Metapool: NAOS USD Pool
+nUSD3CRV-f Price: $1.00 [+]
+Current Staked: 6039738.4173 nUSD3CRV-f ($6,045,633.34)
+Rewards: 63700 NAOS ($77714) Per Week
+APR: 66.84%
+
+You are staking 0.00 nUSD3CRV-f
+Stake 0.00 nUSD3CRV-f
+Unstake 0.00 nUSD3CRV-f
+Claim 0.00 NAOS
+
+--- Earn SUSHI Rewards ---
+255 - [NAOS]-[WETH] SLP [+] [-] [<=>] Price: $141.41 TVL: $193,835.21
+NAOS Price: $1.22
+WETH Price: $3,273.78
+Staked: 1231.0886 SLP ($174,087.23)
+SUSHI Per Week: 56.71 ($603.92)
+APR: Day 0.05% Week 0.35% Year 18.04%
+You are staking 0.00 [NAOS]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [NAOS]-[WETH] SLP
+Unstake 0.00 [NAOS]-[WETH] SLP
+Claim 0.00 SUSHI ($0.00)
+Staking or unstaking also claims rewards.

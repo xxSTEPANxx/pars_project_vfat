@@ -1,0 +1,67 @@
+*************** 👨‍🌾 UNOFFICIAL PENGUINSWAP FARMING CALCULATOR 👨‍🌾 ******************
+INFO  : https://penguinswap.eth.link
+***********************************************************************************
+
+Mon Sep 13 2021 10:18:54 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+[🐟]-[WETH] Uni LP [+] [-] [<=>] Price: $476.90 TVL: $125,956.60
+🐟 Price: $5.70
+WETH Price: $3,281.54
+Staked: 22.3629 UNI-V2 ($10,664.92)
+🐟 Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [🐟]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [🐟]-[WETH] Uni LP
+Unstake 0.000000 [🐟]-[WETH] Uni LP
+Claim 0.000000 🐟 ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[UNI]-[🐟] Uni LP [+] [-] [<=>] Price: $25.06 TVL: $21,225.73
+UNI Price: $22.59
+🐟 Price: $5.70
+Staked: 67.1606 UNI-V2 ($1,682.80)
+🐟 Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [UNI]-[🐟] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [UNI]-[🐟] Uni LP
+Unstake 0.000000 [UNI]-[🐟] Uni LP
+Claim 0.000000 🐟 ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[🐟]-[USDC] Uni LP [+] [-] [<=>] Price: $129,116,675.47 TVL: $8,873.44
+🐟 Price: $5.70
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($1,790.95)
+🐟 Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [🐟]-[USDC] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [🐟]-[USDC] Uni LP
+Unstake 0.000000 [🐟]-[USDC] Uni LP
+Claim 0.000000 🐟 ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[⛩️]-[🐟] Uni LP [+] [-] [<=>] Price: $4.63 TVL: $18,195.12
+⛩️ Price: $0.90
+🐟 Price: $5.70
+Staked: 99.6295 UNI-V2 ($461.77)
+🐟 Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [⛩️]-[🐟] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [⛩️]-[🐟] Uni LP
+Unstake 0.000000 [⛩️]-[🐟] Uni LP
+Claim 0.000000 🐟 ($0.00)
+Revoke (set approval to 0)
+Exit
+
+Total staked: $14,600.43

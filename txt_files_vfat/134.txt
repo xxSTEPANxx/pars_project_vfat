@@ -1,0 +1,37 @@
+*************** 👨‍🌾 UNOFFICIAL YEL.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://yel.finance
+********************************************************************************
+
+Mon Sep 13 2021 10:21:50 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 2 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - YEL Price: $0.01 Market Cap: $4,313,760.00 [%]
+Staked: 12411926.0470 YEL ($133,855.18)
+YEL Per Week: 157342.66 ($1,696.85)
+APR: Day 0.18% Week 1.27% Year 65.92%
+You are staking 0.00 YEL ($0.00), 0.00% of the pool.
+Stake 0.00 YEL
+Unstake 0.00 YEL
+Claim 0.00 YEL ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [YEL]-[WETH] SLP [+] [-] [<=>] Price: $12.13 TVL: $374,687.58
+YEL Price: $0.01
+WETH Price: $3,273.78
+Staked: 18139.8609 SLP ($219,991.13)
+YEL Per Week: 1573426.57 ($16,968.46)
+APR: Day 1.10% Week 7.71% Year 401.09%
+You are staking 0.00 [YEL]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [YEL]-[WETH] SLP
+Unstake 0.00 [YEL]-[WETH] SLP
+Claim 0.00 YEL ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $353,846.31

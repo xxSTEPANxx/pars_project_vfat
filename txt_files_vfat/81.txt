@@ -1,0 +1,98 @@
+*************** 👨‍🌾 UNOFFICIAL POPSICLE.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://popsicle.finance
+*************************************************************************************
+
+Mon Sep 13 2021 10:18:04 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+0 - [WETH]-[ICE] Uni LP [+] [-] [<=>] Price: $202.83 TVL: $1,331,045.27
+WETH Price: $3,282.35
+ICE Price: $2.18
+Staked: 6377.2634 UNI-V2 ($1,293,511.41)
+ICE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WETH]-[ICE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[ICE] Uni LP
+Unstake 0.00 [WETH]-[ICE] Uni LP
+Claim 0.00 ICE ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WETH]-[ICE] SLP [+] [-] [<=>] Price: $178.45 TVL: $1,551,317.10
+WETH Price: $3,282.35
+ICE Price: $2.18
+Staked: 8659.6437 SLP ($1,545,344.50)
+ICE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WETH]-[ICE] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[ICE] SLP
+Unstake 0.00 [WETH]-[ICE] SLP
+Claim 0.00 ICE ($0.00)
+Staking or unstaking also claims rewards.
+
+The following farms have been DISCONTINUED. You can unstake at any time.
+0 - ICE Price: $2.18 Market Cap: $139,577,157.10 [%]
+Staked: 33136.3955 ICE ($72,237.34)
+ICE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 ICE ($0.00), 0.00% of the pool.
+Stake 0.00 ICE
+Unstake 0.00 ICE
+Claim 0.00 ICE ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WETH]-[ICE] Uni LP [+] [-] [<=>] Price: $202.83 TVL: $1,331,045.27
+WETH Price: $3,282.35
+ICE Price: $2.18
+Staked: 63.5623 UNI-V2 ($12,892.46)
+ICE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WETH]-[ICE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[ICE] Uni LP
+Unstake 0.00 [WETH]-[ICE] Uni LP
+Claim 0.00 ICE ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - yUSDT (Wrapped Tether USD) Price: $1.10 TVL: $2,175,347.96
+Staked: 73.7780 yUSDT ($81.32)
+ICE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 yUSDT ($0.00), 0.00% of the pool.
+Stake 0.00 yUSDT
+Unstake 0.00 yUSDT
+Claim 0.00 ICE ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - yvUSDT Price: $0.00 Market Cap: $0.00 
+Staked: 10.0000 yvUSDT ($0.00)
+ICE Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 yvUSDT ($0.00), NaN% of the pool.
+Stake 0.00 yvUSDT
+Unstake 0.00 yvUSDT
+Claim 0.00 ICE ($0.00)
+Staking or unstaking also claims rewards.
+
+0 - ICE Price: $2.18 Market Cap: $139,577,157.10 [%]
+Staked: 0.0000 ICE ($0.00)
+ICE Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 ICE ($0.00), NaN% of the pool.
+Stake 0.00 ICE
+Unstake 0.00 ICE
+Claim 0.00 ICE ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - USDT Price: $1.00 Market Cap: $33,873,006,368.95 [%]
+Staked: 4468.0805 USDT ($4,468.08)
+ICE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT
+Unstake 0.00 USDT
+Claim 0.00 ICE ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $2,928,535.12

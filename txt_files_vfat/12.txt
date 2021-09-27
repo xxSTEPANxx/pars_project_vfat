@@ -1,0 +1,46 @@
+*************** 👨‍🌾 UNOFFICIAL DYNAMIC SET DOLLAR CALCULATOR 👨‍🌾 ***************
+INFO  : https://dsd.finance
+*******************************************************************************
+
+Mon Sep 13 2021 10:04:01 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Current Epoch: 3495
+DSD Price: $0.01
+DSD Total Supply: 128913804.17, $1,771,262.78
+DSD Total Staged: 4379340.58, $60,171.70
+DSD Total Bonded: 20401687.36, $280,317.14
+Your DAO status is Frozen
+You have 0.00 unstaked DSD, $0.00
+You have 0.00 staged DSD, $0.00, 0.0000% of the pool
+You have 0.00 bonded DSD, $0.00, 0.0000% of the pool
+Deposit 0.00 DSD
+Withdraw 0.00 DSD
+Bond 0.00 DSD
+Unbond 0.00 DSD
+
+
+[USDC]-[DSD] Uni LP [+] [-] [<=>] Price: $313,361.97 TVL: $190,727.96
+USDC Price: $1.00
+DSD Price: $0.01
+Staked: 0.0630 UNI-V2 ($19,741.48)
+DSD-USDC LP Total Staged: 0.04, $13,688.92
+DSD-USDC LP Total Bonded: 0.02, $6,052.56
+Your LP status is Frozen
+You have 0.00000000 unstaked DSD-USDC LP, $0.00
+You have 0.00000000 staged DSD-USDC LP, $0.00, 0.0000% of the pool
+You have 0.00000000 bonded DSD-USDC LP, $0.00, 0.0000% of the pool
+You have 0.00 rewarded DSD ($0.00)
+You have 0.00 claimable DSD ($0.00)
+Deposit 0.000000 DSD-USDC LP
+Withdraw 0.000000 DSD-USDC LP
+Bond 0.000000 DSD-USDC LP
+Unbond 0.000000 DSD-USDC LP
+Claim 0.00 DSD
+Provide 0.00 DSD
+
+{}
+Oops something went wrong. Try refreshing the page.

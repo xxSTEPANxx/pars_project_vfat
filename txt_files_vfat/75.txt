@@ -1,0 +1,53 @@
+*************** 👨‍🌾 UNOFFICIAL KINE FINANCE CALCULATOR 👨‍🌾 ************
+INFO  : https://kine.finance
+**********************************************************************
+
+Mon Sep 13 2021 10:17:32 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+[WETH]-[KINE] Uni LP [+] [-] [<=>] Price: $207.47 TVL: $3,666,166.48
+WETH Price: $3,285.83
+KINE Price: $3.01
+Staked: 9756.5011 UNI-V2 ($2,024,189.05)
+KINE Per Week: 10000.00 ($30,100.00)
+APR: Day 0.21% Week 1.49% Year 77.32%
+You are staking 0.000000 [WETH]-[KINE] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [WETH]-[KINE] Uni LP
+Unstake 0.000000 [WETH]-[KINE] Uni LP
+Claim 0.000000 KINE ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[WETH]-[kUSD] Uni LP [+] [-] [<=>] Price: $116.06 TVL: $333.30
+WETH Price: $3,285.83
+kUSD Price: $0.98
+Staked: 0.6389 UNI-V2 ($74.15)
+KINE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [WETH]-[kUSD] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [WETH]-[kUSD] Uni LP
+Unstake 0.000000 [WETH]-[kUSD] Uni LP
+Claim 0.000000 KINE ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[kUSD]-[USDT] Uni LP [+] [-] [<=>] Price: $2,073,803.22 TVL: $1,066.48
+kUSD Price: $0.98
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.00)
+KINE Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 [kUSD]-[USDT] Uni LP $0.00 (NaN% of the pool).
+Etherscan
+Stake 0.000000 [kUSD]-[USDT] Uni LP
+Unstake 0.000000 [kUSD]-[USDT] Uni LP
+Claim 0.000000 KINE ($0.00)
+Revoke (set approval to 0)
+Exit
+
+Total staked: $2,024,263.20

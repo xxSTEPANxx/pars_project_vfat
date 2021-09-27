@@ -1,0 +1,48 @@
+*************** 👨‍🌾 UNOFFICIAL BASIS GOLD FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://basis.gold
+*******************************************************************************
+
+Mon Sep 13 2021 10:03:32 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+[DAI]-[BSGS] Uni LP [+] [-] [<=>] Price: $0.85 TVL: $7,175.82
+DAI Price: $1.00
+BSGS Price: $0.06
+Staked: 6506.3224 UNI-V2 ($5,512.62)
+BSGS Per Week: 4794.52 ($295.78)
+APR: Day 0.77% Week 5.37% Year 279.01%
+You are staking 0.000000 [DAI]-[BSGS] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [DAI]-[BSGS] Uni LP
+Unstake 0.000000 [DAI]-[BSGS] Uni LP
+Claim 0.000000 BSGS ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[DAI]-[BSG] Uni LP [+] [-] [<=>] Price: $17.64 TVL: $5,245.10
+DAI Price: $1.00
+BSG Price: $64.39
+Staked: 186.0090 UNI-V2 ($3,280.58)
+BSGS Per Week: 14383.56 ($887.34)
+APR: Day 3.86% Week 27.05% Year 1406.50%
+You are staking 0.000000 [DAI]-[BSG] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [DAI]-[BSG] Uni LP
+Unstake 0.000000 [DAI]-[BSG] Uni LP
+Claim 0.000000 BSGS ($0.00)
+Revoke (set approval to 0)
+Exit
+
+Boardroom
+There is a total 30248.56 BSGS ($1,866.06) staked in the Boardroom.
+You are staking 0 BSGS ($0.00), 0.00% of the pool.
+Stake 0.0000 BSGS
+Unstake 0.0000 BSGS
+Claim 0.0000 BSG
+Revoke (set approval to 0)
+Exit
+
+Total staked: $10,659.26

@@ -1,0 +1,39 @@
+*************** 👨‍🌾 UNOFFICIAL YAM-ETH SLP YIELD FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://yam.finance/farm
+POOL  : https://app.sushi.com/pair/0x0f82e57804d0b1f6fab2370a43dcfad3c7cb239c
+***************************************************************************************
+
+Mon Sep 13 2021 10:11:00 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+WARNING: DO NOT USE STAKE IN THIS POOL UNLESS YOU HAVE REVIEWED THE CONTRACTS.
+         YOU ARE RESPONSIBLE FOR ANY FUNDS THAT YOU LOSE BY INTERACTING WITH THIS CONTRACT.
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+YAM Address: 0x0aacfbec6a24756c20d41914f2caba817c0d8521
+Reward Pool Address: 0xD67c05523D8ec1c60760Fd017Ef006b9F6e496D0
+Finished reading smart contracts... Looking up prices... 
+========== PRICES ==========
+1 YAM    = $0.701437
+1 SLP  = $862886149.5141218
+========== STAKING =========
+There are total   : 0.00239151 SLP.
+There are total   : 0.00197714 SLP staked in YAM's SLP staking pool.
+                  = $1,706,053.54
+You are staking   : 0 SLP (0% of the pool)
+                  = $0.00
+======== YAM REWARDS ========
+Claimable Rewards : 0 YAM = $0
+Hourly estimate   : 0 YAM = $0.00 (out of total 74.44 YAM)
+Daily estimate    : 0 YAM = $0.00 (out of total 1786.65 YAM)
+Weekly estimate   : 0 YAM = $0.00 (out of total 12506.617254485343 YAM)
+Hourly ROI in USD : 0.0030%
+Daily ROI in USD  : 0.0734%
+Weekly ROI in USD : 0.5142%
+APR (unstable)    : 26.7386% 
+Period ending     : in 3 days 3 hours 24 minutes 4 seconds 
+Stake 0 SLP
+Unstake 0 SLP
+Claim 0 YAM
+Exit

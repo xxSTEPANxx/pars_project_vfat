@@ -1,0 +1,61 @@
+*************** 👨‍🌾 UNOFFICIAL ONECASH.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://onecash.finance
+************************************************************************************
+
+Mon Sep 13 2021 10:06:29 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+[ONS]-[DAI] Uni LP [+] [-] [<=>] Price: $6.63 TVL: $24,619.90
+ONS Price: $6.87
+DAI Price: $1.00
+Staked: 1037.6070 UNI-V2 ($6,883.85)
+ONS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [ONS]-[DAI] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [ONS]-[DAI] Uni LP
+Unstake 0.000000 [ONS]-[DAI] Uni LP
+Claim 0.000000 ONS ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[DAI]-[ONC] Uni LP [+] [-] [<=>] Price: $1.25 TVL: $66,093.55
+DAI Price: $1.00
+ONC Price: $0.32
+Staked: 17406.5280 UNI-V2 ($21,812.03)
+ONS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [DAI]-[ONC] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [DAI]-[ONC] Uni LP
+Unstake 0.000000 [DAI]-[ONC] Uni LP
+Claim 0.000000 ONS ($0.00)
+Revoke (set approval to 0)
+Exit
+
+Boardroom
+There is a total 3783.33 ONS ($25,991.47) staked in the Boardroom.
+You are staking 0 ONS ($0.00), 0.00% of the pool.
+There will be 91916.83 ONC issued at next expansion.
+Boardroom APR: Day 335.55% Week 2348.87% Year 122476.88%
+Stake 0.00 ONS
+Unstake 0.00 ONS
+Claim 0.00 ONC ($0.00)
+Revoke (set approval to 0)
+Exit
+
+Boardroom
+There is a total 202.12 ONS ($1,340.95) staked in the Boardroom.
+You are staking 0 ONS ($0.00), 0.00% of the pool.
+There will be 61277.89 ONC issued at next expansion.
+Boardroom APR: Day 4336.00% Week 30352.03% Year 1582641.71%
+Stake 0.00 ONS
+Unstake 0.00 ONS
+Claim 0.00 ONC ($0.00)
+Revoke (set approval to 0)
+Exit
+
+Total staked: $56,028.29

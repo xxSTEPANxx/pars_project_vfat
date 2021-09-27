@@ -1,0 +1,205 @@
+*************** 👨‍🌾 UNOFFICIAL SAKESWAP FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://sakeswap.finance
+*************************************************************************************
+
+Mon Sep 13 2021 10:15:30 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 33 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [LINK]-[WETH] SLP [+] [-] [<=>] Price: $734.74 TVL: $11,264,797.86
+LINK Price: $27.78
+WETH Price: $3,285.96
+Staked: 25.8840 SLP ($19,017.96)
+SAKE Per Week: 2695.76 ($82.73)
+APR: Day 0.06% Week 0.44% Year 22.62%
+You are staking 0.00 [LINK]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [LINK]-[WETH] SLP
+Unstake 0.00 [LINK]-[WETH] SLP
+Claim 0.00 SAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [COMP]-[WETH] SLP [+] [-] [<=>] Price: $3,093.57 TVL: $34,492.02
+COMP Price: $386.98
+WETH Price: $3,285.96
+Staked: 0.0390 SLP ($120.78)
+SAKE Per Week: 215.66 ($6.62)
+APR: Day 0.78% Week 5.48% Year 284.94%
+You are staking 0.00 [COMP]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [COMP]-[WETH] SLP
+Unstake 0.00 [COMP]-[WETH] SLP
+Claim 0.00 SAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [SAKE]-[WETH] SLP [+] [-] [<=>] Price: $26.81 TVL: $289,809.39
+SAKE Price: $0.03
+WETH Price: $3,285.96
+Staked: 7600.9718 SLP ($203,800.97)
+SAKE Per Week: 35943.52 ($1,103.08)
+APR: Day 0.08% Week 0.54% Year 28.15%
+You are staking 0.00 [SAKE]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [SAKE]-[WETH] SLP
+Unstake 0.00 [SAKE]-[WETH] SLP
+Claim 0.00 SAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [DAI]-[WETH] SLP [+] [-] [<=>] Price: $138.18 TVL: $66,460.50
+DAI Price: $1.00
+WETH Price: $3,285.96
+Staked: 463.2395 SLP ($64,010.41)
+SAKE Per Week: 11681.64 ($358.50)
+APR: Day 0.08% Week 0.56% Year 29.12%
+You are staking 0.00 [DAI]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[WETH] SLP
+Unstake 0.00 [DAI]-[WETH] SLP
+Claim 0.00 SAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [LINK]-[USDT] SLP [+] [-] [<=>] Price: $10,675,897.99 TVL: $14,517.19
+LINK Price: $27.78
+USDT Price: $1.00
+Staked: 0.0014 SLP ($14,480.74)
+SAKE Per Week: 269.58 ($8.27)
+APR: Day 0.01% Week 0.06% Year 2.97%
+You are staking 0.00 [LINK]-[USDT] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [LINK]-[USDT] SLP
+Unstake 0.00 [LINK]-[USDT] SLP
+Claim 0.00 SAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [WBTC]-[WETH] SLP [+] [-] [<=>] Price: $2,742,946,876.59 TVL: $223,306.99
+WBTC Price: $44,914.00
+WETH Price: $3,285.96
+Staked: 0.0001 SLP ($222,898.36)
+SAKE Per Week: 16174.58 ($496.39)
+APR: Day 0.03% Week 0.22% Year 11.58%
+You are staking 0.00 [WBTC]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[WETH] SLP
+Unstake 0.00 [WBTC]-[WETH] SLP
+Claim 0.00 SAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [WETH]-[USDT] SLP [+] [-] [<=>] Price: $148,746,330.48 TVL: $80,255.69
+WETH Price: $3,285.96
+USDT Price: $1.00
+Staked: 0.0004 SLP ($63,883.88)
+SAKE Per Week: 12580.23 ($386.08)
+APR: Day 0.09% Week 0.60% Year 31.43%
+You are staking 0.00 [WETH]-[USDT] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[USDT] SLP
+Unstake 0.00 [WETH]-[USDT] SLP
+Claim 0.00 SAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [USDC]-[WETH] SLP [+] [-] [<=>] Price: $118,421,584.14 TVL: $76,207.59
+USDC Price: $1.00
+WETH Price: $3,285.96
+Staked: 0.0006 SLP ($74,724.92)
+SAKE Per Week: 12580.23 ($386.08)
+APR: Day 0.07% Week 0.52% Year 26.87%
+You are staking 0.00 [USDC]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] SLP
+Unstake 0.00 [USDC]-[WETH] SLP
+Claim 0.00 SAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [BIKI]-[USDT] SLP [+] [-] [<=>] Price: $24,684,225,429.88 TVL: $2,554.56
+BIKI Price: $0.01
+USDT Price: $1.00
+Staked: 0.0000 SLP ($2,485.68)
+SAKE Per Week: 3594.35 ($110.31)
+APR: Day 0.63% Week 4.44% Year 230.76%
+You are staking 0.00 [BIKI]-[USDT] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [BIKI]-[USDT] SLP
+Unstake 0.00 [BIKI]-[USDT] SLP
+Claim 0.00 SAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - [WETH]-[vETH] SLP [+] [-] [<=>] Price: $5,614.35 TVL: $284,294.23
+WETH Price: $3,285.96
+vETH Price: $2,326.55
+Staked: 50.3856 SLP ($282,882.13)
+SAKE Per Week: 8985.88 ($275.77)
+APR: Day 0.01% Week 0.10% Year 5.07%
+You are staking 0.00 [WETH]-[vETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[vETH] SLP
+Unstake 0.00 [WETH]-[vETH] SLP
+Claim 0.00 SAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - [WETH]-[FOTO] SLP [+] [-] [<=>] Price: $12.75 TVL: $3,609.39
+WETH Price: $3,285.96
+FOTO Price: $0.01
+Staked: 186.9672 SLP ($2,383.55)
+SAKE Per Week: 89.86 ($2.76)
+APR: Day 0.02% Week 0.12% Year 6.02%
+You are staking 0.00 [WETH]-[FOTO] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[FOTO] SLP
+Unstake 0.00 [WETH]-[FOTO] SLP
+Claim 0.00 SAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [ECAT]-[WETH] SLP [+] [-] [<=>] Price: $12.27 TVL: $75,586.32
+ECAT Price: $0.01
+WETH Price: $3,285.96
+Staked: 4075.4211 SLP ($50,019.41)
+SAKE Per Week: 89.86 ($2.76)
+APR: Day 0.00% Week 0.01% Year 0.29%
+You are staking 0.00 [ECAT]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [ECAT]-[WETH] SLP
+Unstake 0.00 [ECAT]-[WETH] SLP
+Claim 0.00 SAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - [USDC]-[USDT] SLP [+] [-] [<=>] Price: $2,180,856,875,989.50 TVL: $7,890.04
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 SLP ($299.58)
+SAKE Per Week: 89.86 ($2.76)
+APR: Day 0.13% Week 0.92% Year 47.87%
+You are staking 0.00 [USDC]-[USDT] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[USDT] SLP
+Unstake 0.00 [USDC]-[USDT] SLP
+Claim 0.00 SAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - [WBTC]-[USDT] SLP [+] [-] [<=>] Price: $42,698,771,275,665.75 TVL: $4,605.22
+WBTC Price: $44,914.00
+USDT Price: $1.00
+Staked: 0.0000 SLP ($4,476.63)
+SAKE Per Week: 3594.35 ($110.31)
+APR: Day 0.35% Week 2.46% Year 128.13%
+You are staking 0.00 [WBTC]-[USDT] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[USDT] SLP
+Unstake 0.00 [WBTC]-[USDT] SLP
+Claim 0.00 SAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - SakeLock Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 SakeLock ($0.00)
+SAKE Per Week: 115324.78 ($3,539.24)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SakeLock ($0.00), NaN% of the pool.
+Stake 0.00 SakeLock
+Unstake 0.00 SakeLock
+Claim 0.00 SAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+31 - [WETH]-[FANS] SLP [+] [-] [<=>] Price: $70.09 TVL: $26,576.03
+WETH Price: $3,285.96
+FANS Price: $0.37
+Staked: 75.2960 SLP ($5,277.77)
+SAKE Per Week: 89.86 ($2.76)
+APR: Day 0.01% Week 0.05% Year 2.72%
+You are staking 0.00 [WETH]-[FANS] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[FANS] SLP
+Unstake 0.00 [WETH]-[FANS] SLP
+Claim 0.00 SAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $1,010,762.78

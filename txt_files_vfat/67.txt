@@ -1,0 +1,63 @@
+*************** 👨‍🌾 UNOFFICIAL BELLA PROTOCOL FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://bella.fi
+***********************************************************************************
+
+Mon Sep 13 2021 10:16:46 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 6 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - bUSDT (Wrapped Tether USD) Price: $1.02 TVL: $6,151,033.32
+Staked: 5884916.1392 bUSDT ($6,013,373.80)
+BEL Per Week: 7119.14 ($13,597.56)
+APR: Day 0.03% Week 0.23% Year 11.76%
+You are staking 0.00 bUSDT ($0.00), 0.00% of the pool.
+Stake 0.00 bUSDT
+Unstake 0.00 bUSDT
+Claim 0.00 BEL ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - bUSDC (Wrapped USD Coin) Price: $1.02 TVL: $5,296,973.98
+Staked: 5072129.4321 bUSDC ($5,182,579.77)
+BEL Per Week: 4711.20 ($8,998.39)
+APR: Day 0.02% Week 0.17% Year 9.03%
+You are staking 0.00 bUSDC ($0.00), 0.00% of the pool.
+Stake 0.00 bUSDC
+Unstake 0.00 bUSDC
+Claim 0.00 BEL ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - bARPA (Wrapped ARPA Token) Price: $0.07 TVL: $6,645,993.01
+Staked: 88653460.2046 bARPA ($6,482,155.92)
+BEL Per Week: 9422.39 ($17,996.77)
+APR: Day 0.04% Week 0.28% Year 14.44%
+You are staking 0.00 bARPA ($0.00), 0.00% of the pool.
+Stake 0.00 bARPA
+Unstake 0.00 bARPA
+Claim 0.00 BEL ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - bWBTC (Wrapped Wrapped BTC) Price: $45,439.42 TVL: $7,556,974.93
+Staked: 164.1020 bWBTC ($7,456,698.08)
+BEL Per Week: 16750.92 ($31,994.26)
+APR: Day 0.06% Week 0.43% Year 22.31%
+You are staking 0.00 bWBTC ($0.00), 0.00% of the pool.
+Stake 0.00 bWBTC
+Unstake 0.00 bWBTC
+Claim 0.00 BEL ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - bHBTC (Wrapped Huobi BTC) Price: $45,535.76 TVL: $1,060,991.48
+Staked: 22.9841 bHBTC ($1,046,597.58)
+BEL Per Week: 2093.87 ($3,999.28)
+APR: Day 0.05% Week 0.38% Year 19.87%
+You are staking 0.00 bHBTC ($0.00), 0.00% of the pool.
+Stake 0.00 bHBTC
+Unstake 0.00 bHBTC
+Claim 0.00 BEL ($0.00)
+Staking or unstaking also claims rewards.

@@ -1,0 +1,73 @@
+*************** 👨‍🌾 UNOFFICIAL BENCHMARK FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://launchpad.benchmarkprotocol.finance/pools
+******************************************************************************
+
+Benchmark is now also on BSC and MATIC as xMARK, please check the Pancake and Quick pages.
+
+You will need to set your Metamask to the BSC or MATIC network for those to work.
+
+Mon Sep 13 2021 10:15:41 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 2 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [MARK 80%]-[WETH 20%] BPT Price: $0.16 TVL: $125,728.89
+MARK Price: $1.22
+WETH Price: $3,285.96
+Staked: 770994.9457 [MARK 80%]-[WETH 20%] ($125,711.12)
+MARK Per Week: 801.21 ($977.48)
+APR: Day 0.11% Week 0.78% Year 40.43%
+You are staking 0.00 [MARK 80%]-[WETH 20%] ($0.00), 0.00% of the pool.
+Stake 0.00 [MARK 80%]-[WETH 20%]
+Unstake 0.00 [MARK 80%]-[WETH 20%]
+Claim 0.00 MARK ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [MARK 80%]-[USDC 20%] BPT Price: $0.01 TVL: $45,370.37
+MARK Price: $1.22
+USDC Price: $1.00
+Staked: 4786224.1031 [MARK 80%]-[USDC 20%] ($44,933.62)
+MARK Per Week: 572.30 ($698.20)
+APR: Day 0.22% Week 1.55% Year 80.80%
+You are staking 0.00 [MARK 80%]-[USDC 20%] ($0.00), 0.00% of the pool.
+Stake 0.00 [MARK 80%]-[USDC 20%]
+Unstake 0.00 [MARK 80%]-[USDC 20%]
+Claim 0.00 MARK ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $170,644.74
+
+Staking Contract
+Found 5 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [MARK]-[WETH] Uni LP [+] [-] [<=>] Price: $1,751,957.88 TVL: $1,379,669.45
+MARK Price: $1.22
+WETH Price: $3,285.96
+Staked: 0.7756 UNI-V2 ($1,358,888.93)
+MARK Per Week: 16279.50 ($19,860.99)
+APR: Day 0.21% Week 1.46% Year 76.00%
+You are staking 0.00 [MARK]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MARK]-[WETH] Uni LP
+Unstake 0.00 [MARK]-[WETH] Uni LP
+Claim 0.00 MARK ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [MARK]-[USDC] Uni LP [+] [-] [<=>] Price: $27,701,708,095.97 TVL: $567,601.44
+MARK Price: $1.22
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($564,370.62)
+MARK Per Week: 7660.94 ($9,346.35)
+APR: Day 0.24% Week 1.66% Year 86.12%
+You are staking 0.00 [MARK]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MARK]-[USDC] Uni LP
+Unstake 0.00 [MARK]-[USDC] Uni LP
+Claim 0.00 MARK ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $1,923,259.56

@@ -1,0 +1,289 @@
+*************** 👨‍🌾 UNOFFICIAL PICKLE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://pickle.finance/farms
+***************************************************************************************
+
+Mon Sep 13 2021 10:07:00 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+[PICKLE]-[WETH] Uni LP [+] [-] [<=>] Price: $447.29 TVL: $1,393,611.49
+PICKLE Price: $10.29
+WETH Price: $3,286.86
+Staked: 1593.0172 UNI-V2 ($712,538.95)
+PICKLE Per Week: 844.31 ($8,687.93)
+APR: Day 0.17% Week 1.22% Year 63.40%
+You are staking 0.000000 [PICKLE]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [PICKLE]-[WETH] Uni LP
+Unstake 0.000000 [PICKLE]-[WETH] Uni LP
+Claim 0.000000 PICKLE ($0.00)
+Revoke (set approval to 0)
+Exit
+
+pSLP (Wrapped [WETH]-[yveCRV-DAO] SLP) Price: $132.61 TVL: $886,841.31
+Staked: 2455.8066 pSLP ($325,666.45)
+PICKLE Per Week: 9.99 ($102.84)
+APR: Day 0.00% Week 0.03% Year 1.64%
+You are staking 0.000000 pSLP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 pSLP
+Unstake 0.000000 pSLP
+Claim 0.000000 PICKLE ($0.00)
+Revoke (set approval to 0)
+Exit
+
+p3Crv (Wrapped Curve.fi DAI/USDC/USDT) Price: $1.10 TVL: $407,276.48
+Staked: 314533.9960 p3Crv ($344,931.66)
+PICKLE Per Week: 184.09 ($1,894.30)
+APR: Day 0.08% Week 0.55% Year 28.56%
+You are staking 0.000000 p3Crv $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 p3Crv
+Unstake 0.000000 p3Crv
+Claim 0.000000 PICKLE ($0.00)
+Revoke (set approval to 0)
+Exit
+
+pSLP (Wrapped [DAI]-[WETH] SLP) Price: $170.93 TVL: $1,272,887.35
+Staked: 6478.9220 pSLP ($1,107,461.80)
+PICKLE Per Week: 163.76 ($1,685.06)
+APR: Day 0.02% Week 0.15% Year 7.91%
+You are staking 0.000000 pSLP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 pSLP
+Unstake 0.000000 pSLP
+Claim 0.000000 PICKLE ($0.00)
+Revoke (set approval to 0)
+Exit
+
+pSLP (Wrapped [USDC]-[WETH] SLP) Price: $176,500,452.58 TVL: $92,095.89
+Staked: 0.0005 pSLP ($86,129.15)
+PICKLE Per Week: 0.74 ($7.64)
+APR: Day 0.00% Week 0.01% Year 0.46%
+You are staking 0.000000 pSLP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 pSLP
+Unstake 0.000000 pSLP
+Claim 0.000000 PICKLE ($0.00)
+Revoke (set approval to 0)
+Exit
+
+pSLP (Wrapped [WETH]-[USDT] SLP) Price: $176,408,513.65 TVL: $1,911,773.89
+Staked: 0.0100 pSLP ($1,759,900.64)
+PICKLE Per Week: 1869.45 ($19,236.63)
+APR: Day 0.16% Week 1.09% Year 56.84%
+You are staking 0.000000 pSLP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 pSLP
+Unstake 0.000000 pSLP
+Claim 0.000000 PICKLE ($0.00)
+Revoke (set approval to 0)
+Exit
+
+pSLP (Wrapped [WBTC]-[WETH] SLP) Price: $61,815,858,756.46 TVL: $59,683.28
+Staked: 0.0000 pSLP ($44,856.26)
+PICKLE Per Week: 0.67 ($6.89)
+APR: Day 0.00% Week 0.02% Year 0.80%
+You are staking 0.000000 pSLP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 pSLP
+Unstake 0.000000 pSLP
+Claim 0.000000 PICKLE ($0.00)
+Revoke (set approval to 0)
+Exit
+
+pSLP (Wrapped [YFI]-[WETH] SLP) Price: $38,861.07 TVL: $287,960.83
+Staked: 6.5336 pSLP ($253,903.51)
+PICKLE Per Week: 0.68 ($7.04)
+APR: Day 0.00% Week 0.00% Year 0.14%
+You are staking 0.000000 pSLP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 pSLP
+Unstake 0.000000 pSLP
+Claim 0.000000 PICKLE ($0.00)
+Revoke (set approval to 0)
+Exit
+
+psteCRV (Wrapped Curve.fi ETH/stETH) Price: $0.00 TVL: $0.00
+Staked: 4358.6068 psteCRV ($0.00)
+PICKLE Per Week: 1355.66 ($13,949.79)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 psteCRV $0.00 (NaN% of the pool).
+Etherscan
+Stake 0.000000 psteCRV
+Unstake 0.000000 psteCRV
+Claim 0.000000 PICKLE ($0.00)
+Revoke (set approval to 0)
+Exit
+
+pUNI-V2 (Wrapped [MIR]-[UST] Uni LP) Price: $6.05 TVL: $637,925.41
+Staked: 54332.0069 pUNI-V2 ($328,955.19)
+PICKLE Per Week: 38.41 ($395.29)
+APR: Day 0.02% Week 0.12% Year 6.25%
+You are staking 0.000000 pUNI-V2 $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 pUNI-V2
+Unstake 0.000000 pUNI-V2
+Claim 0.000000 PICKLE ($0.00)
+Revoke (set approval to 0)
+Exit
+
+pUNI-V2 (Wrapped [mTSLA]-[UST] Uni LP) Price: $66.09 TVL: $853,517.80
+Staked: 10925.6668 pUNI-V2 ($722,080.50)
+PICKLE Per Week: 6.47 ($66.59)
+APR: Day 0.00% Week 0.01% Year 0.48%
+You are staking 0.000000 pUNI-V2 $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 pUNI-V2
+Unstake 0.000000 pUNI-V2
+Claim 0.000000 PICKLE ($0.00)
+Revoke (set approval to 0)
+Exit
+
+pUNI-V2 (Wrapped [UST]-[mAAPL] Uni LP) Price: $29.78 TVL: $1,047,215.52
+Staked: 29052.6734 pUNI-V2 ($865,284.34)
+PICKLE Per Week: 782.46 ($8,051.48)
+APR: Day 0.13% Week 0.93% Year 48.39%
+You are staking 0.000000 pUNI-V2 $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 pUNI-V2
+Unstake 0.000000 pUNI-V2
+Claim 0.000000 PICKLE ($0.00)
+Revoke (set approval to 0)
+Exit
+
+pUNI-V2 (Wrapped [mQQQ]-[UST] Uni LP) Price: $49.22 TVL: $2,981,699.31
+Staked: 48852.0768 pUNI-V2 ($2,404,681.85)
+PICKLE Per Week: 95.65 ($984.24)
+APR: Day 0.01% Week 0.04% Year 2.13%
+You are staking 0.000000 pUNI-V2 $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 pUNI-V2
+Unstake 0.000000 pUNI-V2
+Claim 0.000000 PICKLE ($0.00)
+Revoke (set approval to 0)
+Exit
+
+pUNI-V2 (Wrapped [mSLV]-[UST] Uni LP) Price: $11.32 TVL: $1,115,353.92
+Staked: 85015.7406 pUNI-V2 ($962,442.50)
+PICKLE Per Week: 267.36 ($2,751.17)
+APR: Day 0.04% Week 0.29% Year 14.86%
+You are staking 0.000000 pUNI-V2 $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 pUNI-V2
+Unstake 0.000000 pUNI-V2
+Claim 0.000000 PICKLE ($0.00)
+Revoke (set approval to 0)
+Exit
+
+pUNI-V2 (Wrapped [mBABA]-[UST] Uni LP) Price: $34.30 TVL: $861,400.43
+Staked: 19485.2475 pUNI-V2 ($668,423.48)
+PICKLE Per Week: 845.15 ($8,696.57)
+APR: Day 0.19% Week 1.30% Year 67.65%
+You are staking 0.000000 pUNI-V2 $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 pUNI-V2
+Unstake 0.000000 pUNI-V2
+Claim 0.000000 PICKLE ($0.00)
+Revoke (set approval to 0)
+Exit
+
+pSLP (Wrapped [SUSHI]-[WETH] SLP) Price: $515.42 TVL: $998,356.87
+Staked: 1683.8139 pSLP ($867,868.57)
+PICKLE Per Week: 64.77 ($666.46)
+APR: Day 0.01% Week 0.08% Year 3.99%
+You are staking 0.000000 pSLP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 pSLP
+Unstake 0.000000 pSLP
+Claim 0.000000 PICKLE ($0.00)
+Revoke (set approval to 0)
+Exit
+
+pUNI-V2 (Wrapped [FEI]-[TRIBE] Uni LP) Price: $1.47 TVL: $4,442,946.03
+Staked: 2061426.7276 pUNI-V2 ($3,024,892.60)
+PICKLE Per Week: 362.61 ($3,731.21)
+APR: Day 0.02% Week 0.12% Year 6.41%
+You are staking 0.000000 pUNI-V2 $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 pUNI-V2
+Unstake 0.000000 pUNI-V2
+Claim 0.000000 PICKLE ($0.00)
+Revoke (set approval to 0)
+Exit
+
+pSLP (Wrapped [yvBOOST]-[WETH] SLP) Price: $132.20 TVL: $8,207,256.08
+Staked: 54532.6220 pSLP ($7,209,077.52)
+PICKLE Per Week: 518.36 ($5,333.97)
+APR: Day 0.01% Week 0.07% Year 3.85%
+You are staking 0.000000 pSLP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 pSLP
+Unstake 0.000000 pSLP
+Claim 0.000000 PICKLE ($0.00)
+Revoke (set approval to 0)
+Exit
+
+pSLP (Wrapped [WETH]-[ALCX] SLP) Price: $3,332.56 TVL: $22,691,856.50
+Staked: 3579.0686 pSLP ($11,927,468.02)
+PICKLE Per Week: 2327.01 ($23,944.97)
+APR: Day 0.03% Week 0.20% Year 10.44%
+You are staking 0.000000 pSLP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 pSLP
+Unstake 0.000000 pSLP
+Claim 0.000000 PICKLE ($0.00)
+Revoke (set approval to 0)
+Exit
+
+pUSDC (Wrapped USD Coin) Price: $0.96 TVL: $5,620,238.57
+Staked: 5973211.8178 pUSDC ($5,752,568.25)
+PICKLE Per Week: 1647.13 ($16,948.97)
+APR: Day 0.04% Week 0.29% Year 15.32%
+You are staking 0.000000 pUSDC $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 pUSDC
+Unstake 0.000000 pUSDC
+Claim 0.000000 PICKLE ($0.00)
+Revoke (set approval to 0)
+Exit
+
+pLUSD3CRV-f (Wrapped Curve.fi Factory USD Metapool: Liquity) Price: $1.04 TVL: $580,847.05
+Staked: 532774.0742 pLUSD3CRV-f ($555,702.00)
+PICKLE Per Week: 39.65 ($407.99)
+APR: Day 0.01% Week 0.07% Year 3.82%
+You are staking 0.000000 pLUSD3CRV-f $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 pLUSD3CRV-f
+Unstake 0.000000 pLUSD3CRV-f
+Claim 0.000000 PICKLE ($0.00)
+Revoke (set approval to 0)
+Exit
+
+pSLP (Wrapped [CVX]-[WETH] SLP) Price: $447.26 TVL: $1,950,737.16
+Staked: 3489.4236 pSLP ($1,560,678.69)
+PICKLE Per Week: 489.95 ($5,041.63)
+APR: Day 0.05% Week 0.32% Year 16.80%
+You are staking 0.000000 pSLP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 pSLP
+Unstake 0.000000 pSLP
+Claim 0.000000 PICKLE ($0.00)
+Revoke (set approval to 0)
+Exit
+
+pLQTY (Wrapped LQTY) Price: $5.25 TVL: $4,262,223.74
+Staked: 782534.6392 pLQTY ($4,107,381.37)
+PICKLE Per Week: 208.61 ($2,146.56)
+APR: Day 0.01% Week 0.05% Year 2.72%
+You are staking 0.000000 pLQTY $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 pLQTY
+Unstake 0.000000 pLQTY
+Claim 0.000000 PICKLE ($0.00)
+Revoke (set approval to 0)
+Exit
+
+Total staked: $45,592,893.30

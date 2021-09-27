@@ -1,0 +1,198 @@
+*************** 👨‍🌾 UNOFFICIAL INDEXED FINANCE CALCULATOR 👨‍🌾 ************
+INFO  : https://indexed.finance
+*************************************************************************
+
+Mon Sep 13 2021 10:05:38 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 10 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - DEFI5 Price: $83.77 Market Cap: $12,429,517.77 [%]
+Staked: 45571.2596 DEFI5 ($3,817,504.42)
+NDX Per Week: 958.38 ($2,827.23)
+APR: Day 0.01% Week 0.07% Year 3.85%
+You are staking 0.00 DEFI5 ($0.00), 0.00% of the pool.
+Stake 0.00 DEFI5
+Unstake 0.00 DEFI5
+Claim 0.00 NDX ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - CC10 Price: $61.35 Market Cap: $4,242,406.60 [%]
+Staked: 16114.5247 CC10 ($988,626.09)
+NDX Per Week: 393.37 ($1,160.43)
+APR: Day 0.02% Week 0.12% Year 6.10%
+You are staking 0.00 CC10 ($0.00), 0.00% of the pool.
+Stake 0.00 CC10
+Unstake 0.00 CC10
+Claim 0.00 NDX ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - DEGEN Price: $4.82 Market Cap: $11,974,706.24 [%]
+Staked: 571950.0502 DEGEN ($2,756,799.24)
+NDX Per Week: 772.43 ($2,278.66)
+APR: Day 0.01% Week 0.08% Year 4.30%
+You are staking 0.00 DEGEN ($0.00), 0.00% of the pool.
+Stake 0.00 DEGEN
+Unstake 0.00 DEGEN
+Claim 0.00 NDX ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WETH]-[DEFI5] Uni LP [+] [-] [<=>] Price: $1,103.34 TVL: $10,726,698.36
+WETH Price: $3,285.98
+DEFI5 Price: $83.77
+Staked: 9605.7547 UNI-V2 ($10,598,405.00)
+NDX Per Week: 7423.89 ($21,900.47)
+APR: Day 0.03% Week 0.21% Year 10.75%
+You are staking 0.00 [WETH]-[DEFI5] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[DEFI5] Uni LP
+Unstake 0.00 [WETH]-[DEFI5] Uni LP
+Claim 0.00 NDX ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [CC10]-[WETH] Uni LP [+] [-] [<=>] Price: $954.66 TVL: $2,378,202.13
+CC10 Price: $61.35
+WETH Price: $3,285.98
+Staked: 2292.9890 UNI-V2 ($2,189,022.62)
+NDX Per Week: 2210.00 ($6,519.50)
+APR: Day 0.04% Week 0.30% Year 15.49%
+You are staking 0.00 [CC10]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CC10]-[WETH] Uni LP
+Unstake 0.00 [CC10]-[WETH] Uni LP
+Claim 0.00 NDX ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WETH]-[ORCL5] Uni LP [+] [-] [<=>] Price: $406.15 TVL: $314,516.95
+WETH Price: $3,285.98
+ORCL5 Price: $11.09
+Staked: 766.7668 UNI-V2 ($311,418.92)
+NDX Per Week: 386.21 ($1,139.33)
+APR: Day 0.05% Week 0.37% Year 19.02%
+You are staking 0.00 [WETH]-[ORCL5] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[ORCL5] Uni LP
+Unstake 0.00 [WETH]-[ORCL5] Uni LP
+Claim 0.00 NDX ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [DEGEN]-[WETH] Uni LP [+] [-] [<=>] Price: $286.50 TVL: $2,159,690.43
+DEGEN Price: $4.82
+WETH Price: $3,285.98
+Staked: 6707.0197 UNI-V2 ($1,921,561.89)
+NDX Per Week: 4713.24 ($13,904.05)
+APR: Day 0.10% Week 0.72% Year 37.63%
+You are staking 0.00 [DEGEN]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DEGEN]-[WETH] Uni LP
+Unstake 0.00 [DEGEN]-[WETH] Uni LP
+Claim 0.00 NDX ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [FFF]-[WETH] Uni LP [+] [-] [<=>] Price: $1,188.19 TVL: $1,893,582.86
+FFF Price: $103.99
+WETH Price: $3,285.98
+Staked: 1589.6765 UNI-V2 ($1,888,838.37)
+NDX Per Week: 2317.28 ($6,835.98)
+APR: Day 0.05% Week 0.36% Year 18.82%
+You are staking 0.00 [FFF]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FFF]-[WETH] Uni LP
+Unstake 0.00 [FFF]-[WETH] Uni LP
+Claim 0.00 NDX ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [NFTP]-[WETH] Uni LP [+] [-] [<=>] Price: $676.49 TVL: $784,170.71
+NFTP Price: $29.93
+WETH Price: $3,285.98
+Staked: 803.0089 UNI-V2 ($543,224.72)
+NDX Per Week: 1501.94 ($4,430.73)
+APR: Day 0.12% Week 0.82% Year 42.41%
+You are staking 0.00 [NFTP]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [NFTP]-[WETH] Uni LP
+Unstake 0.00 [NFTP]-[WETH] Uni LP
+Claim 0.00 NDX ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $25,015,401.26
+[DEGEN]-[WETH] Uni LP [+] [-] [<=>] Price: $286.50 TVL: $2,159,690.43
+DEGEN Price: $4.82
+WETH Price: $3,285.98
+Staked: 541.0538 UNI-V2 ($155,011.98)
+NDX Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 [DEGEN]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [DEGEN]-[WETH] Uni LP
+Unstake 0.000000 [DEGEN]-[WETH] Uni LP
+Claim 0.000000 NDX ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[WETH]-[ORCL5] Uni LP [+] [-] [<=>] Price: $406.15 TVL: $314,516.95
+WETH Price: $3,285.98
+ORCL5 Price: $11.09
+Staked: 2.5824 UNI-V2 ($1,048.83)
+NDX Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 [WETH]-[ORCL5] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [WETH]-[ORCL5] Uni LP
+Unstake 0.000000 [WETH]-[ORCL5] Uni LP
+Claim 0.000000 NDX ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[WETH]-[DEFI5] Uni LP [+] [-] [<=>] Price: $1,103.34 TVL: $10,726,698.36
+WETH Price: $3,285.98
+DEFI5 Price: $83.77
+Staked: 82.5113 UNI-V2 ($91,037.90)
+NDX Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 [WETH]-[DEFI5] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [WETH]-[DEFI5] Uni LP
+Unstake 0.000000 [WETH]-[DEFI5] Uni LP
+Claim 0.000000 NDX ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[CC10]-[WETH] Uni LP [+] [-] [<=>] Price: $954.66 TVL: $2,378,202.13
+CC10 Price: $61.35
+WETH Price: $3,285.98
+Staked: 146.8075 UNI-V2 ($140,151.13)
+NDX Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 [CC10]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [CC10]-[WETH] Uni LP
+Unstake 0.000000 [CC10]-[WETH] Uni LP
+Claim 0.000000 NDX ($0.00)
+Revoke (set approval to 0)
+Exit
+
+DEFI5 Price: $83.77 Market Cap: $12,429,517.77 [%]
+Staked: 7822.8881 DEFI5 ($655,323.34)
+NDX Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 DEFI5 $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 DEFI5
+Unstake 0.000000 DEFI5
+Claim 0.000000 NDX ($0.00)
+Revoke (set approval to 0)
+Exit
+
+CC10 Price: $61.35 Market Cap: $4,242,406.60 [%]
+Staked: 9800.9153 CC10 ($601,286.15)
+NDX Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 CC10 $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 CC10
+Unstake 0.000000 CC10
+Claim 0.000000 NDX ($0.00)
+Revoke (set approval to 0)
+Exit
+
+Total staked: $1,643,859.33

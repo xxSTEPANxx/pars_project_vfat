@@ -1,0 +1,79 @@
+*************** 👨‍🌾 UNOFFICIAL CNTR.FINANCE CALCULATOR 👨‍🌾 ************
+INFO  : https://cntr.finance
+**********************************************************************
+
+Mon Sep 13 2021 10:19:48 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 9 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - WHEY Price: $0.003115 Market Cap: $238,641.42 [%]
+Staked: 28972488.9128 WHEY ($90,253.07)
+WHEY Per Week: 244363.64 ($761.22)
+APR: Day 0.12% Week 0.84% Year 43.86%
+You are staking 0.00 WHEY ($0.00), 0.00% of the pool.
+Stake 0.00 WHEY
+Unstake 0.00 WHEY
+Claim 0.00 WHEY ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WETH]-[WHEY] SLP [+] [-] [<=>] Price: $6.59 TVL: $31,045.04
+WETH Price: $3,277.39
+WHEY Price: $0.003115
+Staked: 3093.3333 SLP ($20,378.39)
+WHEY Per Week: 366545.45 ($1,141.84)
+APR: Day 0.80% Week 5.60% Year 291.37%
+You are staking 0.00 [WETH]-[WHEY] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[WHEY] SLP
+Unstake 0.00 [WETH]-[WHEY] SLP
+Claim 0.00 WHEY ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [CNTR]-[WETH] Uni LP [+] [-] [<=>] Price: $7.17 TVL: $561,069.21
+CNTR Price: $0.002816
+WETH Price: $3,277.39
+Staked: 17659.4788 UNI-V2 ($126,693.54)
+WHEY Per Week: 366545.45 ($1,141.84)
+APR: Day 0.13% Week 0.90% Year 46.87%
+You are staking 0.00 [CNTR]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CNTR]-[WETH] Uni LP
+Unstake 0.00 [CNTR]-[WETH] Uni LP
+Claim 0.00 WHEY ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - CS-WETH Price: $3,277.39 Market Cap: $107,672.09 [%]
+Staked: 22.7530 CS-WETH ($74,570.45)
+WHEY Per Week: 122181.82 ($380.61)
+APR: Day 0.07% Week 0.51% Year 26.54%
+You are staking 0.00 CS-WETH ($0.00), 0.00% of the pool.
+Stake 0.00 CS-WETH
+Unstake 0.00 CS-WETH
+Claim 0.00 WHEY ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - CS-DAI Price: $1.00 Market Cap: $66,548.82 [%]
+Staked: 41398.8189 CS-DAI ($41,398.82)
+WHEY Per Week: 122181.82 ($380.61)
+APR: Day 0.13% Week 0.92% Year 47.81%
+You are staking 0.00 CS-DAI ($0.00), 0.00% of the pool.
+Stake 0.00 CS-DAI
+Unstake 0.00 CS-DAI
+Claim 0.00 WHEY ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - CS-USDT Price: $1.00 Market Cap: $65,100.00 [%]
+Staked: 40000.0000 CS-USDT ($40,000.00)
+WHEY Per Week: 122181.82 ($380.61)
+APR: Day 0.14% Week 0.95% Year 49.48%
+You are staking 0.00 CS-USDT ($0.00), 0.00% of the pool.
+Stake 0.00 CS-USDT
+Unstake 0.00 CS-USDT
+Claim 0.00 WHEY ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $393,294.28

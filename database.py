@@ -127,8 +127,21 @@ class Data_base:
                 print(tmp, 'not found')
         self.con.commit()
 
+    def select_by_token(self, token):
+        id_token = self.cur.execute(f"""SELECT id FROM tokens WHERE name = '{token}'""").fetchone()[0]
 
+        data = self.cur.execute(f"""SELECT id, id_project, name FROM pairs 
+                             WHERE id_token_one = {id_token} OR id_token_two = {id_token}""").fetchall()
+        all_pairs = []
+        for pair in data:
+            tvl = self.cur.execute(f"""SELECT tvl FROM pair_info WHERE id_pair = {pair[0]}""").fetchone()[0]
+            print(tvl, pair)
+            project = self.cur.execute(f"""SELECT name FROM projects WHERE id = {pair[1]} """).fetchone()[0]
+            k =(pair[2], project, tvl)
+            all_pairs.append(k)
+        all_pairs.sort(key=lambda x: x[2], reverse=True)
+        print(*all_pairs, sep='\n')
 
-# d = Data_base()
-#
-# d.creat_tables()
+d = Data_base()
+# d.select_by_token('DAI')
+d.creat_tables()

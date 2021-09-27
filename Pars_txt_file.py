@@ -26,7 +26,7 @@ for i in range(1,136):
 
             pair = (sorted([token_1, token_2]))
             pair = '%'.join(pair)
-            if pair == 'DAI%DAIQ':
+            if pair == 'DAI%DEBASE':
                 print(i)
             k = a[j].find(']')
 
@@ -61,14 +61,14 @@ for i in range(1,136):
 #             print(exact_pair, i, pair_plus_project_aprs[i], sep='\n')
 #             print()
 
-with open(r'D:\PycharmProjects\Pars_project\pars_project_vfat\alltokens.json', 'w') as file:
-    dump(token_in_pairs, file, indent=4)
-
-
-with open(r'D:\PycharmProjects\Pars_project\pars_project_vfat\all_pairs.json', 'w') as file:
-    dump(pair_to_projects, file, indent=4)
-with open(r'D:\PycharmProjects\Pars_project\pars_project_vfat\all_APRS.json', 'w') as file:
-    dump(pair_plus_project_aprs, file, indent=4)
+# with open(r'D:\PycharmProjects\Pars_project\pars_project_vfat\alltokens.json', 'w') as file:
+#     dump(token_in_pairs, file, indent=4)
+#
+#
+# with open(r'D:\PycharmProjects\Pars_project\pars_project_vfat\all_pairs.json', 'w') as file:
+#     dump(pair_to_projects, file, indent=4)
+# with open(r'D:\PycharmProjects\Pars_project\pars_project_vfat\all_APRS.json', 'w') as file:
+#     dump(pair_plus_project_aprs, file, indent=4)
 # with open ('D:\PycharmProjects\Pars_project\pars files\parameterssss.json', 'w') as file:
 #     dump(parameterssss, file, indent=4)
 

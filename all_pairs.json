@@ -6,15 +6,15 @@
         "USDC%kBASEv0%Uni%https://kitten.finance/"
     ],
     "ARMOR%DAI": [
-        "ARMOR%DAI%Uni%https://armor.fi",
         "ARMOR%DAI%SLP%https://armor.fi",
-        "ARMOR%DAI%1INCH%https://armor.fi",
-        "ARMOR%DAI%BPT%https://armor.fi"
+        "ARMOR%DAI%Uni%https://armor.fi",
+        "ARMOR%DAI%BPT%https://armor.fi",
+        "ARMOR%DAI%1INCH%https://armor.fi"
     ],
     "ARMOR%WBTC": [
+        "ARMOR%WBTC%1INCH%https://armor.fi",
         "ARMOR%WBTC%Uni%https://armor.fi",
-        "ARMOR%WBTC%SLP%https://armor.fi",
-        "ARMOR%WBTC%1INCH%https://armor.fi"
+        "ARMOR%WBTC%SLP%https://armor.fi"
     ],
     "ARMOR%WETH": [
         "ARMOR%WETH%SLP%https://armor.fi",
@@ -27,16 +27,16 @@
         "ARMOR%arNXM%Uni%https://armor.fi"
     ],
     "WETH%arNXM": [
+        "WETH%arNXM%BPT%https://armor.fi",
         "WETH%arNXM%Uni%https://armor.fi",
-        "WETH%arNXM%SLP%https://armor.fi",
-        "WETH%arNXM%BPT%https://armor.fi"
+        "WETH%arNXM%SLP%https://armor.fi"
     ],
     "ETH%arNXM": [
         "ETH%arNXM%1INCH%https://armor.fi"
     ],
     "arNXM%wNXM": [
-        "arNXM%wNXM%Uni%https://armor.fi",
-        "arNXM%wNXM%SLP%https://armor.fi"
+        "arNXM%wNXM%SLP%https://armor.fi",
+        "arNXM%wNXM%Uni%https://armor.fi"
     ],
     "ARTH%DAI": [
         "ARTH%DAI%Uni%https://www.arthcoin.com"
@@ -51,8 +51,6 @@
         "DAI%DAIQ%Uni%https://daiq.io"
     ],
     "DAI%DEBASE": [
-        "DAI%DEBASE%Uni%https://debaseonomics.io/",
-        "DAI%DEBASE%Uni%https://debaseonomics.io/",
         "DAI%DEBASE%Uni%https://debaseonomics.io/"
     ],
     "FRAX%WETH": [
@@ -86,7 +84,6 @@
         "CC10%WETH%Uni%https://indexed.finance"
     ],
     "MIS2%USDT": [
-        "MIS2%USDT%SLP%https://mith.cash",
         "MIS2%USDT%SLP%https://mith.cash"
     ],
     "MIS%USDT": [
@@ -108,9 +105,6 @@
         "1%DAI%BPT%https://percent.finance/"
     ],
     "1%WETH": [
-        "1%WETH%BPT%https://percent.finance/",
-        "1%WETH%BPT%https://percent.finance/",
-        "1%WETH%BPT%https://percent.finance/",
         "1%WETH%BPT%https://percent.finance/"
     ],
     "1%COMP": [
@@ -156,7 +150,6 @@
         "WETH%YFLUSD%LSLP%https://yflusd.linkswap.app"
     ],
     "SGT%WETH": [
-        "SGT%WETH%Uni%https://www.sharedstake.org/earn",
         "SGT%WETH%Uni%https://www.sharedstake.org/earn"
     ],
     "SGT%vETH2": [
@@ -203,8 +196,8 @@
         "BADGER%WBTC%Uni%https://app.badger.finance"
     ],
     "DIGG%WBTC": [
-        "DIGG%WBTC%Uni%https://app.badger.finance",
-        "DIGG%WBTC%SLP%https://app.badger.finance"
+        "DIGG%WBTC%SLP%https://app.badger.finance",
+        "DIGG%WBTC%Uni%https://app.badger.finance"
     ],
     "WBTC%WETH": [
         "WBTC%WETH%SLP%https://app.badger.finance"
@@ -216,11 +209,10 @@
         "USF%WETH%Uni%https://app.unslashed.finance/"
     ],
     "SI%WETH": [
-        "SI%WETH%1INCH%https://app.sirenmarkets.com/stake",
-        "SI%WETH%SLP%https://app.sirenmarkets.com/stake"
+        "SI%WETH%SLP%https://app.sirenmarkets.com/stake",
+        "SI%WETH%1INCH%https://app.sirenmarkets.com/stake"
     ],
     "BANK%WETH": [
-        "BANK%WETH%SLP%https://floatprotocol.com/#/stake",
         "BANK%WETH%SLP%https://floatprotocol.com/#/stake"
     ],
     "FLOAT%WETH": [
@@ -281,8 +273,8 @@
         "Total%Your%Price:%https://cvi.finance"
     ],
     "COTI%WETH": [
-        "COTI%WETH%Uni%https://cvi.finance",
-        "COTI%WETH%SLP%https://cvi.finance"
+        "COTI%WETH%SLP%https://cvi.finance",
+        "COTI%WETH%Uni%https://cvi.finance"
     ],
     "GOVI%WETH": [
         "GOVI%WETH%Uni%https://cvi.finance",
@@ -326,8 +318,8 @@
         "DOUGH%PLAY%SLP%https://www.piedao.org"
     ],
     "DOUGH%WETH": [
-        "DOUGH%WETH%SLP%https://www.piedao.org",
-        "DOUGH%WETH%BPT%https://www.piedao.org"
+        "DOUGH%WETH%BPT%https://www.piedao.org",
+        "DOUGH%WETH%SLP%https://www.piedao.org"
     ],
     "DEFI+S%WETH": [
         "DEFI+S%WETH%BPT%https://www.piedao.org"

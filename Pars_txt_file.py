@@ -50,25 +50,27 @@ for i in range(1,136):
             pair_plus_project_aprs[pair + '%' + where_pair + '%' + project] = [apr, tvl]
             token_in_pairs[token_1] = token_in_pairs.get(token_1, []) +[pair]
             token_in_pairs[token_2] = token_in_pairs.get(token_2, []) +[pair]
+    for key, values in pair_to_projects.items():
+        pair_to_projects[key] = list(set(values))
 
 
-# for token in token_in_pairs:
-#     print(token, token_in_pairs[token], sep='\n')
-#
-#     for exact_pair in token_in_pairs[token]:
-#         key = pair_to_projects[exact_pair]
-#         for i in key:
-#             print(exact_pair, i, pair_plus_project_aprs[i], sep='\n')
-#             print()
+for token in token_in_pairs:
+    print(token, token_in_pairs[token], sep='\n')
 
-# with open(r'D:\PycharmProjects\Pars_project\pars_project_vfat\alltokens.json', 'w') as file:
-#     dump(token_in_pairs, file, indent=4)
-#
-#
-# with open(r'D:\PycharmProjects\Pars_project\pars_project_vfat\all_pairs.json', 'w') as file:
-#     dump(pair_to_projects, file, indent=4)
-# with open(r'D:\PycharmProjects\Pars_project\pars_project_vfat\all_APRS.json', 'w') as file:
-#     dump(pair_plus_project_aprs, file, indent=4)
+    for exact_pair in token_in_pairs[token]:
+        key = pair_to_projects[exact_pair]
+        for i in key:
+            print(exact_pair, i, pair_plus_project_aprs[i], sep='\n')
+            print()
+
+with open(r'D:\PycharmProjects\Pars_project\pars_project_vfat\alltokens.json', 'w') as file:
+    dump(token_in_pairs, file, indent=4)
+
+
+with open(r'D:\PycharmProjects\Pars_project\pars_project_vfat\all_pairs.json', 'w') as file:
+    dump(pair_to_projects, file, indent=4)
+with open(r'D:\PycharmProjects\Pars_project\pars_project_vfat\all_APRS.json', 'w') as file:
+    dump(pair_plus_project_aprs, file, indent=4)
 # with open ('D:\PycharmProjects\Pars_project\pars files\parameterssss.json', 'w') as file:
 #     dump(parameterssss, file, indent=4)
 

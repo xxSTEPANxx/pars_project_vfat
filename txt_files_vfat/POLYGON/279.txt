@@ -1,0 +1,110 @@
+***************************** POLYGON NETWORK *************************************
+
+*************** 👨‍🌾 UNOFFICIAL POLYFLOWER.FINANCE FARMING CALCULATOR 👨‍🌾 *************
+INFO: https://t.me/polyflower
+***********************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Thu Dec 16 2021 05:09:56 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 9 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - USDT Price: $1.00 Market Cap: $313,439,913.37 [%]
+Staked: 0.0097 USDT ($0.01)
+FLOWER Per Week: 16.94 ($1.44)
+APR: Day 2115.83% Week 14810.83% Year 770163.15%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 2.5%
+Unstake 0.00 USDT
+Claim 0.00 FLOWER ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - DAI Price: $1.00 Market Cap: $374,104,303.43 [%]
+Staked: 0.0097 DAI ($0.01)
+FLOWER Per Week: 16.94 ($1.44)
+APR: Day 2115.83% Week 14810.83% Year 770163.15%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 2.5%
+Unstake 0.00 DAI
+Claim 0.00 FLOWER ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - WETH Price: $4,051.05 Market Cap: $1,797,982,281.13 [%]
+Staked: 0.0000 WETH ($0.01)
+FLOWER Per Week: 16.94 ($1.44)
+APR: Day 1936.07% Week 13552.51% Year 704730.75%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 2.5%
+Unstake 0.00 WETH
+Claim 0.00 FLOWER ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - WBTC Price: $49,124.00 Market Cap: $498,258,930.56 [%]
+Staked: 0.0000 WBTC ($0.01)
+FLOWER Per Week: 16.94 ($1.44)
+APR: Day 2210.24% Week 15471.65% Year 804525.89%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 2.5%
+Unstake 0.00 WBTC
+Claim 0.00 FLOWER ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - WMATIC Price: $2.16 Market Cap: $656,189,237.30 [%]
+Staked: 0.0000 WMATIC ($0.00)
+FLOWER Per Week: 16.94 ($1.44)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 WMATIC ($0.00), NaN% of the pool.
+Stake 0.00 WMATIC - Fee 2.5%
+Unstake 0.00 WMATIC
+Claim 0.00 FLOWER ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - LINK Price: $20.02 Market Cap: $34,722,752.08 [%]
+Staked: 0.0000 LINK ($0.00)
+FLOWER Per Week: 16.94 ($1.44)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 LINK ($0.00), NaN% of the pool.
+Stake 0.00 LINK - Fee 2.5%
+Unstake 0.00 LINK
+Claim 0.00 FLOWER ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - PolyDoge Price: $0.0000000240 Market Cap: $24,039,000.00 [%]
+Staked: 2396030.0242 PolyDoge ($0.06)
+FLOWER Per Week: 16.94 ($1.44)
+APR: Day 358.16% Week 2507.12% Year 130370.31%
+You are staking 0.00 PolyDoge ($0.00), 0.00% of the pool.
+Stake 0.00 PolyDoge - Fee 2.5%
+Unstake 0.00 PolyDoge
+Claim 0.00 FLOWER ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [USDC]-[PolyFlower] Uni LP [+] [-] [<=>] Price: $589,107.32 TVL: $0.03
+USDC Price: $1.00
+PolyFlower Price: $0.09
+Staked: 0.0000 UNI-V2 ($0.00)
+FLOWER Per Week: 84.71 ($7.22)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[PolyFlower] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[PolyFlower] Uni LP - Fee 2.5%
+Unstake 0.00 [USDC]-[PolyFlower] Uni LP
+Claim 0.00 FLOWER ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - PolyFlower Price: $0.09 Market Cap: $43.55 [%]
+Staked: 97.5000 PolyFlower ($8.31)
+FLOWER Per Week: 84.71 ($7.22)
+APR: Day 12.41% Week 86.88% Year 4517.65%
+You are staking 0.00 PolyFlower ($0.00), 0.00% of the pool.
+Stake 0.00 PolyFlower - Fee 2.5%
+Unstake 0.00 PolyFlower
+Claim 0.00 FLOWER ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $8.41

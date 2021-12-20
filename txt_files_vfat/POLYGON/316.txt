@@ -1,0 +1,64 @@
+***************************** POLYGON NETWORK *****************************************
+
+*************** 👨‍🌾 UNOFFICIAL EUROBALLZ.FINANCE FARMING CALCULATOR 👨‍🌾 ********************
+INFO  : https://evo-matic.com
+***************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Thu Dec 16 2021 05:28:44 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 16 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - GENX Price: $0.15 Market Cap: $369,194.04 [%]
+Staked: 1137438.2506 GENX ($170,582.92)
+GENX Per Week: 1107.69 ($166.12)
+APR: Day 0.01% Week 0.10% Year 5.06%
+You are staking 0.00 GENX ($0.00), 0.00% of the pool.
+Stake 0.00 GENX
+Unstake 0.00 GENX
+Claim 0.00 GENX ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [USDC]-[GENX] Uni LP [+] [-] [<=>] Price: $909,910.29 TVL: $20,241.65
+USDC Price: $1.00
+GENX Price: $0.15
+Staked: 0.0198 UNI-V2 ($18,041.83)
+GENX Per Week: 2215.38 ($332.24)
+APR: Day 0.26% Week 1.84% Year 95.76%
+You are staking 0.00 [USDC]-[GENX] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[GENX] Uni LP
+Unstake 0.00 [USDC]-[GENX] Uni LP
+Claim 0.00 GENX ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WMATIC]-[GENX] Uni LP [+] [-] [<=>] Price: $1.29 TVL: $22,270.41
+WMATIC Price: $2.14
+GENX Price: $0.15
+Staked: 16468.8463 UNI-V2 ($21,166.01)
+GENX Per Week: 1772.31 ($265.80)
+APR: Day 0.18% Week 1.26% Year 65.30%
+You are staking 0.00 [WMATIC]-[GENX] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[GENX] Uni LP
+Unstake 0.00 [WMATIC]-[GENX] Uni LP
+Claim 0.00 GENX ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [FISH]-[GENX] PolyCat LP [+] [-] [<=>] Price: $0.62 TVL: $4,000.27
+FISH Price: $0.62
+GENX Price: $0.15
+Staked: 6156.0421 CAT-LP ($3,821.61)
+GENX Per Week: 664.62 ($99.67)
+APR: Day 0.37% Week 2.61% Year 135.62%
+You are staking 0.00 [FISH]-[GENX] PolyCat LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FISH]-[GENX] PolyCat LP
+Unstake 0.00 [FISH]-[GENX] PolyCat LP
+Claim 0.00 GENX ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $213,612.37

@@ -1,0 +1,384 @@
+*************** 👨‍🌾 UNOFFICIAL TANGOSWAP FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://tangoswap.cash
+******************************************************************************
+
+Mon Dec 20 2021 09:46:51 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 28 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [TANGO]-[xTANGO] TangoSwap LP [+] [-] [<=>] Price: $0.14 TVL: $84,924.92
+TANGO Price: $0.07
+xTANGO Price: $0.07
+Staked: 609836.7046 TLP ($84,924.91)
+TANGO Per Week: 10835.76 ($751.29)
+APR: Day 0.13% Week 0.88% Year 46.00%
+You are staking 0.00 [TANGO]-[xTANGO] TangoSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TANGO]-[xTANGO] TangoSwap LP
+Unstake 0.00 [TANGO]-[xTANGO] TangoSwap LP
+Claim 0.00 TANGO ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [TANGO]-[flexUSD] TangoSwap LP [+] [-] [<=>] Price: $0.53 TVL: $225,106.05
+TANGO Price: $0.07
+flexUSD Price: $0.99
+Staked: 420434.0629 TLP ($224,800.17)
+TANGO Per Week: 222891.51 ($15,454.14)
+APR: Day 0.98% Week 6.87% Year 357.48%
+You are staking 0.00 [TANGO]-[flexUSD] TangoSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TANGO]-[flexUSD] TangoSwap LP
+Unstake 0.00 [TANGO]-[flexUSD] TangoSwap LP
+Claim 0.00 TANGO ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBCH]-[TANGO] TangoSwap LP [+] [-] [<=>] Price: $11.11 TVL: $768,367.11
+WBCH Price: $427.63
+TANGO Price: $0.07
+Staked: 69148.1194 TLP ($768,262.60)
+TANGO Per Week: 552623.58 ($38,316.04)
+APR: Day 0.71% Week 4.99% Year 259.34%
+You are staking 0.00 [WBCH]-[TANGO] TangoSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[TANGO] TangoSwap LP
+Unstake 0.00 [WBCH]-[TANGO] TangoSwap LP
+Claim 0.00 TANGO ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WBCH]-[flexUSD] TangoSwap LP [+] [-] [<=>] Price: $41.64 TVL: $1,581,550.57
+WBCH Price: $427.63
+flexUSD Price: $0.99
+Staked: 37931.0351 TLP ($1,579,392.39)
+TANGO Per Week: 227821.79 ($15,795.98)
+APR: Day 0.14% Week 1.00% Year 52.01%
+You are staking 0.00 [WBCH]-[flexUSD] TangoSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[flexUSD] TangoSwap LP
+Unstake 0.00 [WBCH]-[flexUSD] TangoSwap LP
+Claim 0.00 TANGO ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [WBCH]-[FLEX] TangoSwap LP [+] [-] [<=>] Price: $101.75 TVL: $90,203.67
+WBCH Price: $427.63
+FLEX Price: $5.96
+Staked: 883.2204 TLP ($89,864.57)
+TANGO Per Week: 16253.63 ($1,126.94)
+APR: Day 0.18% Week 1.25% Year 65.21%
+You are staking 0.00 [WBCH]-[FLEX] TangoSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[FLEX] TangoSwap LP
+Unstake 0.00 [WBCH]-[FLEX] TangoSwap LP
+Claim 0.00 TANGO ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WBCH]-[MIST] TangoSwap LP [+] [-] [<=>] Price: $5.85 TVL: $8,792.47
+WBCH Price: $427.63
+MIST Price: $0.02
+Staked: 1503.1280 TLP ($8,792.47)
+TANGO Per Week: 2708.94 ($187.82)
+APR: Day 0.31% Week 2.14% Year 111.08%
+You are staking 0.00 [WBCH]-[MIST] TangoSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[MIST] TangoSwap LP
+Unstake 0.00 [WBCH]-[MIST] TangoSwap LP
+Claim 0.00 TANGO ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [WBCH]-[EBEN] TangoSwap LP [+] [-] [<=>] Price: $32.87 TVL: $7,283.12
+WBCH Price: $427.63
+EBEN Price: $0.63
+Staked: 220.1523 TLP ($7,236.63)
+TANGO Per Week: 2708.94 ($187.82)
+APR: Day 0.37% Week 2.60% Year 134.96%
+You are staking 0.00 [WBCH]-[EBEN] TangoSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[EBEN] TangoSwap LP
+Unstake 0.00 [WBCH]-[EBEN] TangoSwap LP
+Claim 0.00 TANGO ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [WBCH]-[MILK] TangoSwap LP [+] [-] [<=>] Price: $7.90 TVL: $2,697.25
+WBCH Price: $427.63
+MILK Price: $0.04
+Staked: 341.2783 TLP ($2,697.25)
+TANGO Per Week: 2708.94 ($187.82)
+APR: Day 0.99% Week 6.96% Year 362.10%
+You are staking 0.00 [WBCH]-[MILK] TangoSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[MILK] TangoSwap LP
+Unstake 0.00 [WBCH]-[MILK] TangoSwap LP
+Claim 0.00 TANGO ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [WBCH]-[ARG] TangoSwap LP [+] [-] [<=>] Price: $0.01 TVL: $33,661.67
+WBCH Price: $427.63
+ARG Price: $0.0000000801
+Staked: 2867109.9795 TLP ($33,661.67)
+TANGO Per Week: 5417.88 ($375.65)
+APR: Day 0.16% Week 1.12% Year 58.03%
+You are staking 0.00 [WBCH]-[ARG] TangoSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[ARG] TangoSwap LP
+Unstake 0.00 [WBCH]-[ARG] TangoSwap LP
+Claim 0.00 TANGO ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [WBCH]-[KTH] TangoSwap LP [+] [-] [<=>] Price: $1.27 TVL: $41,891.12
+WBCH Price: $427.63
+KTH Price: $0.000926
+Staked: 32992.9184 TLP ($41,891.06)
+TANGO Per Week: 5417.88 ($375.65)
+APR: Day 0.13% Week 0.90% Year 46.63%
+You are staking 0.00 [WBCH]-[KTH] TangoSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[KTH] TangoSwap LP
+Unstake 0.00 [WBCH]-[KTH] TangoSwap LP
+Claim 0.00 TANGO ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [WBCH]-[SPICE] TangoSwap LP [+] [-] [<=>] Price: $0.78 TVL: $10,929.40
+WBCH Price: $427.63
+SPICE Price: $0.000354
+Staked: 14029.6027 TLP ($10,928.02)
+TANGO Per Week: 2708.94 ($187.82)
+APR: Day 0.25% Week 1.72% Year 89.37%
+You are staking 0.00 [WBCH]-[SPICE] TangoSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[SPICE] TangoSwap LP
+Unstake 0.00 [WBCH]-[SPICE] TangoSwap LP
+Claim 0.00 TANGO ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [LAW]-[WBCH] TangoSwap LP [+] [-] [<=>] Price: $31.40 TVL: $6,379.86
+LAW Price: $0.57
+WBCH Price: $427.63
+Staked: 203.1593 TLP ($6,379.86)
+TANGO Per Week: 5417.88 ($375.65)
+APR: Day 0.84% Week 5.89% Year 306.18%
+You are staking 0.00 [LAW]-[WBCH] TangoSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LAW]-[WBCH] TangoSwap LP
+Unstake 0.00 [LAW]-[WBCH] TangoSwap LP
+Claim 0.00 TANGO ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [WBCH]-[ORB] TangoSwap LP [+] [-] [<=>] Price: $4.03 TVL: $6,185.47
+WBCH Price: $427.63
+ORB Price: $0.009471
+Staked: 1533.6361 TLP ($6,185.47)
+TANGO Per Week: 2708.94 ($187.82)
+APR: Day 0.43% Week 3.04% Year 157.90%
+You are staking 0.00 [WBCH]-[ORB] TangoSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[ORB] TangoSwap LP
+Unstake 0.00 [WBCH]-[ORB] TangoSwap LP
+Claim 0.00 TANGO ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [$CATS]-[WBCH] TangoSwap LP [+] [-] [<=>] Price: $219,936,071.21 TVL: $12,696.59
+$CATS Price: $0.002779
+WBCH Price: $427.63
+Staked: 0.0001 TLP ($12,696.59)
+TANGO Per Week: 5417.88 ($375.65)
+APR: Day 0.42% Week 2.96% Year 153.85%
+You are staking 0.00 [$CATS]-[WBCH] TangoSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [$CATS]-[WBCH] TangoSwap LP
+Unstake 0.00 [$CATS]-[WBCH] TangoSwap LP
+Claim 0.00 TANGO ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [WBCH]-[JOY] TangoSwap LP [+] [-] [<=>] Price: $9.04 TVL: $8,170.77
+WBCH Price: $427.63
+JOY Price: $0.05
+Staked: 903.7327 TLP ($8,170.71)
+TANGO Per Week: 2708.94 ($187.82)
+APR: Day 0.33% Week 2.30% Year 119.53%
+You are staking 0.00 [WBCH]-[JOY] TangoSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[JOY] TangoSwap LP
+Unstake 0.00 [WBCH]-[JOY] TangoSwap LP
+Claim 0.00 TANGO ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [WBCH]-[CLY] TangoSwap LP [+] [-] [<=>] Price: $1.43 TVL: $24,217.66
+WBCH Price: $427.63
+CLY Price: $0.001186
+Staked: 16897.6748 TLP ($24,217.61)
+TANGO Per Week: 2708.94 ($187.82)
+APR: Day 0.11% Week 0.78% Year 40.33%
+You are staking 0.00 [WBCH]-[CLY] TangoSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[CLY] TangoSwap LP
+Unstake 0.00 [WBCH]-[CLY] TangoSwap LP
+Claim 0.00 TANGO ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [WBCH]-[DAO] TangoSwap LP [+] [-] [<=>] Price: $41,744.59 TVL: $4,174.46
+WBCH Price: $427.63
+DAO Price: $0.0000098157
+Staked: 0.1000 TLP ($4,174.46)
+TANGO Per Week: 1083.57 ($75.13)
+APR: Day 0.26% Week 1.80% Year 93.59%
+You are staking 0.00 [WBCH]-[DAO] TangoSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[DAO] TangoSwap LP
+Unstake 0.00 [WBCH]-[DAO] TangoSwap LP
+Claim 0.00 TANGO ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [WBCH]-[AXIEBCH] TangoSwap LP [+] [-] [<=>] Price: $3.21 TVL: $3,503.98
+WBCH Price: $427.63
+AXIEBCH Price: $0.005920
+Staked: 1092.4270 TLP ($3,503.98)
+TANGO Per Week: 1083.57 ($75.13)
+APR: Day 0.31% Week 2.14% Year 111.49%
+You are staking 0.00 [WBCH]-[AXIEBCH] TangoSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[AXIEBCH] TangoSwap LP
+Unstake 0.00 [WBCH]-[AXIEBCH] TangoSwap LP
+Claim 0.00 TANGO ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [CandyMan]-[WBCH] TangoSwap LP [+] [-] [<=>] Price: $166,952,558.48 TVL: $1,210.18
+CandyMan Price: $0.001606
+WBCH Price: $427.63
+Staked: 0.0000 TLP ($1,168.44)
+TANGO Per Week: 1083.57 ($75.13)
+APR: Day 0.92% Week 6.43% Year 334.35%
+You are staking 0.00 [CandyMan]-[WBCH] TangoSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CandyMan]-[WBCH] TangoSwap LP
+Unstake 0.00 [CandyMan]-[WBCH] TangoSwap LP
+Claim 0.00 TANGO ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [FIRE]-[WBCH] TangoSwap LP [+] [-] [<=>] Price: $0.18 TVL: $9,479.66
+FIRE Price: $0.0000162476
+WBCH Price: $427.63
+Staked: 51438.4137 TLP ($9,479.66)
+TANGO Per Week: 1083.57 ($75.13)
+APR: Day 0.11% Week 0.79% Year 41.21%
+You are staking 0.00 [FIRE]-[WBCH] TangoSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FIRE]-[WBCH] TangoSwap LP
+Unstake 0.00 [FIRE]-[WBCH] TangoSwap LP
+Claim 0.00 TANGO ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - [WBCH]-[$KITTEN] TangoSwap LP [+] [-] [<=>] Price: $8,085,969.23 TVL: $1,730.43
+WBCH Price: $427.63
+$KITTEN Price: $0.0000038129
+Staked: 0.0002 TLP ($1,730.43)
+TANGO Per Week: 1083.57 ($75.13)
+APR: Day 0.62% Week 4.34% Year 225.77%
+You are staking 0.00 [WBCH]-[$KITTEN] TangoSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[$KITTEN] TangoSwap LP
+Unstake 0.00 [WBCH]-[$KITTEN] TangoSwap LP
+Claim 0.00 TANGO ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - [WBCH]-[BPAD] TangoSwap LP [+] [-] [<=>] Price: $6.01 TVL: $2,831.24
+WBCH Price: $427.63
+BPAD Price: $0.02
+Staked: 470.9378 TLP ($2,831.14)
+TANGO Per Week: 1083.57 ($75.13)
+APR: Day 0.38% Week 2.65% Year 137.99%
+You are staking 0.00 [WBCH]-[BPAD] TangoSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[BPAD] TangoSwap LP
+Unstake 0.00 [WBCH]-[BPAD] TangoSwap LP
+Claim 0.00 TANGO ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - [WBCH]-[UAT] TangoSwap LP [+] [-] [<=>] Price: $0.76 TVL: $1,947.07
+WBCH Price: $427.63
+UAT Price: $0.000333
+Staked: 2578.4750 TLP ($1,947.07)
+TANGO Per Week: 1083.57 ($75.13)
+APR: Day 0.55% Week 3.86% Year 200.65%
+You are staking 0.00 [WBCH]-[UAT] TangoSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[UAT] TangoSwap LP
+Unstake 0.00 [WBCH]-[UAT] TangoSwap LP
+Claim 0.00 TANGO ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [WBCH]-[KONRA] TangoSwap LP [+] [-] [<=>] Price: $145.87 TVL: $2,527.53
+WBCH Price: $427.63
+KONRA Price: $12.19
+Staked: 12.3937 TLP ($1,807.92)
+TANGO Per Week: 1083.57 ($75.13)
+APR: Day 0.59% Week 4.16% Year 216.09%
+You are staking 0.00 [WBCH]-[KONRA] TangoSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[KONRA] TangoSwap LP
+Unstake 0.00 [WBCH]-[KONRA] TangoSwap LP
+Claim 0.00 TANGO ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - [WBCH]-[xTANGO] TangoSwap LP [+] [-] [<=>] Price: $11.27 TVL: $1,597.30
+WBCH Price: $427.63
+xTANGO Price: $0.07
+Staked: 141.7865 TLP ($1,597.30)
+TANGO Per Week: 1083.57 ($75.13)
+APR: Day 0.67% Week 4.70% Year 244.58%
+You are staking 0.00 [WBCH]-[xTANGO] TangoSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[xTANGO] TangoSwap LP
+Unstake 0.00 [WBCH]-[xTANGO] TangoSwap LP
+Claim 0.00 TANGO ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - [WBCH]-[RMZ] TangoSwap LP [+] [-] [<=>] Price: $70.65 TVL: $1,514.78
+WBCH Price: $427.63
+RMZ Price: $2.90
+Staked: 21.0441 TLP ($1,486.76)
+TANGO Per Week: 541.79 ($37.56)
+APR: Day 0.36% Week 2.53% Year 131.38%
+You are staking 0.00 [WBCH]-[RMZ] TangoSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[RMZ] TangoSwap LP
+Unstake 0.00 [WBCH]-[RMZ] TangoSwap LP
+Claim 0.00 TANGO ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - [TANGO]-[FLEX] TangoSwap LP [+] [-] [<=>] Price: $1.29 TVL: $8,329.25
+TANGO Price: $0.07
+FLEX Price: $5.96
+Staked: 6455.9176 TLP ($8,329.25)
+TANGO Per Week: 1083.57 ($75.13)
+APR: Day 0.13% Week 0.90% Year 46.90%
+You are staking 0.00 [TANGO]-[FLEX] TangoSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TANGO]-[FLEX] TangoSwap LP
+Unstake 0.00 [TANGO]-[FLEX] TangoSwap LP
+Claim 0.00 TANGO ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - [flexUSD]-[xTANGO] TangoSwap LP [+] [-] [<=>] Price: $0.53 TVL: $1,198.67
+flexUSD Price: $0.99
+xTANGO Price: $0.07
+Staked: 2248.3977 TLP ($1,198.67)
+TANGO Per Week: 1083.57 ($75.13)
+APR: Day 0.90% Week 6.27% Year 325.92%
+You are staking 0.00 [flexUSD]-[xTANGO] TangoSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [flexUSD]-[xTANGO] TangoSwap LP
+Unstake 0.00 [flexUSD]-[xTANGO] TangoSwap LP
+Claim 0.00 TANGO ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $2,949,357.06
+.--------------------------------------------------------------------------------------------------------------.
+|                                                    TANGO                                                     |
+|--------------------------------------------------------------------------------------------------------------|
+| #  |              Pair              | Total Staked | Total $ Staked | Reward |   APR   |      My Stake       |
+|----|--------------------------------|--------------|----------------|--------|---------|---------------------|
+|  0 | [TANGO]-[xTANGO] TangoSwap LP  |  609836.7046 |     $84,924.91 | TANGO  |  46.00% | 0.00 ($0.00), 0.00% |
+|  1 | [TANGO]-[flexUSD] TangoSwap LP |  420434.0629 |    $224,800.17 | TANGO  | 357.48% | 0.00 ($0.00), 0.00% |
+|  2 | [WBCH]-[TANGO] TangoSwap LP    |   69148.1194 |    $768,262.60 | TANGO  | 259.34% | 0.00 ($0.00), 0.00% |
+|  3 | [WBCH]-[flexUSD] TangoSwap LP  |   37931.0351 |  $1,579,392.39 | TANGO  |  52.01% | 0.00 ($0.00), 0.00% |
+|  4 | [WBCH]-[FLEX] TangoSwap LP     |     883.2204 |     $89,864.57 | TANGO  |  65.21% | 0.00 ($0.00), 0.00% |
+|  5 | [WBCH]-[MIST] TangoSwap LP     |    1503.1280 |      $8,792.47 | TANGO  | 111.08% | 0.00 ($0.00), 0.00% |
+|  6 | [WBCH]-[EBEN] TangoSwap LP     |     220.1523 |      $7,236.63 | TANGO  | 134.96% | 0.00 ($0.00), 0.00% |
+|  7 | [WBCH]-[MILK] TangoSwap LP     |     341.2783 |      $2,697.25 | TANGO  | 362.10% | 0.00 ($0.00), 0.00% |
+|  8 | [WBCH]-[ARG] TangoSwap LP      | 2867109.9795 |     $33,661.67 | TANGO  |  58.03% | 0.00 ($0.00), 0.00% |
+|  9 | [WBCH]-[KTH] TangoSwap LP      |   32992.9184 |     $41,891.06 | TANGO  |  46.63% | 0.00 ($0.00), 0.00% |
+| 10 | [WBCH]-[SPICE] TangoSwap LP    |   14029.6027 |     $10,928.02 | TANGO  |  89.37% | 0.00 ($0.00), 0.00% |
+| 11 | [LAW]-[WBCH] TangoSwap LP      |     203.1593 |      $6,379.86 | TANGO  | 306.18% | 0.00 ($0.00), 0.00% |
+| 12 | [WBCH]-[ORB] TangoSwap LP      |    1533.6361 |      $6,185.47 | TANGO  | 157.90% | 0.00 ($0.00), 0.00% |
+| 13 | [$CATS]-[WBCH] TangoSwap LP    |       0.0001 |     $12,696.59 | TANGO  | 153.85% | 0.00 ($0.00), 0.00% |
+| 14 | [WBCH]-[JOY] TangoSwap LP      |     903.7327 |      $8,170.71 | TANGO  | 119.53% | 0.00 ($0.00), 0.00% |
+| 15 | [WBCH]-[CLY] TangoSwap LP      |   16897.6748 |     $24,217.61 | TANGO  |  40.33% | 0.00 ($0.00), 0.00% |
+| 16 | [WBCH]-[DAO] TangoSwap LP      |       0.1000 |      $4,174.46 | TANGO  |  93.59% | 0.00 ($0.00), 0.00% |
+| 17 | [WBCH]-[AXIEBCH] TangoSwap LP  |    1092.4270 |      $3,503.98 | TANGO  | 111.49% | 0.00 ($0.00), 0.00% |
+| 18 | [CandyMan]-[WBCH] TangoSwap LP |       0.0000 |      $1,168.44 | TANGO  | 334.35% | 0.00 ($0.00), 0.00% |
+| 19 | [FIRE]-[WBCH] TangoSwap LP     |   51438.4137 |      $9,479.66 | TANGO  |  41.21% | 0.00 ($0.00), 0.00% |
+| 20 | [WBCH]-[$KITTEN] TangoSwap LP  |       0.0002 |      $1,730.43 | TANGO  | 225.77% | 0.00 ($0.00), 0.00% |
+| 21 | [WBCH]-[BPAD] TangoSwap LP     |     470.9378 |      $2,831.14 | TANGO  | 137.99% | 0.00 ($0.00), 0.00% |
+| 22 | [WBCH]-[UAT] TangoSwap LP      |    2578.4750 |      $1,947.07 | TANGO  | 200.65% | 0.00 ($0.00), 0.00% |
+| 23 | [WBCH]-[KONRA] TangoSwap LP    |      12.3937 |      $1,807.92 | TANGO  | 216.09% | 0.00 ($0.00), 0.00% |
+| 24 | [WBCH]-[xTANGO] TangoSwap LP   |     141.7865 |      $1,597.30 | TANGO  | 244.58% | 0.00 ($0.00), 0.00% |
+| 25 | [WBCH]-[RMZ] TangoSwap LP      |      21.0441 |      $1,486.76 | TANGO  | 131.38% | 0.00 ($0.00), 0.00% |
+| 26 | [TANGO]-[FLEX] TangoSwap LP    |    6455.9176 |      $8,329.25 | TANGO  |  46.90% | 0.00 ($0.00), 0.00% |
+| 27 | [flexUSD]-[xTANGO] TangoSwa... |    2248.3977 |      $1,198.67 | TANGO  | 325.92% | 0.00 ($0.00), 0.00% |
+'--------------------------------------------------------------------------------------------------------------'

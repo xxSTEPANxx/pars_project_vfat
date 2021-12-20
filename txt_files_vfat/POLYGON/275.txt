@@ -1,0 +1,72 @@
+*************** 👨‍🌾 UNOFFICIAL DAIKIRI FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://daikiri.finance/#
+**************************************************************************************
+
+Thu Dec 16 2021 05:06:43 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 5 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - DAIKI Price: $0.02 Market Cap: $17,765.63 [%]
+Staked: 596615.8117 DAIKI ($13,029.99)
+DAIKI Per Week: 2749.09 ($60.04)
+APR: Day 0.07% Week 0.46% Year 23.96%
+You are staking 0.00 DAIKI ($0.00), 0.00% of the pool.
+Stake 0.00 DAIKI
+Unstake 0.00 DAIKI
+Claim 0.00 DAIKI ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [USDC]-[DAIKI] SLP [+] [-] [<=>] Price: $330,105.41 TVL: $2,782.50
+USDC Price: $1.00
+DAIKI Price: $0.02
+Staked: 0.0084 SLP ($2,758.54)
+DAIKI Per Week: 10996.36 ($240.16)
+APR: Day 1.24% Week 8.71% Year 452.71%
+You are staking 0.00 [USDC]-[DAIKI] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAIKI] SLP
+Unstake 0.00 [USDC]-[DAIKI] SLP
+Claim 0.00 DAIKI ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WMATIC]-[DAIKI] SLP [+] [-] [<=>] Price: $0.48 TVL: $3,548.49
+WMATIC Price: $2.16
+DAIKI Price: $0.02
+Staked: 7336.3946 SLP ($3,528.25)
+DAIKI Per Week: 10996.36 ($240.16)
+APR: Day 0.97% Week 6.81% Year 353.95%
+You are staking 0.00 [WMATIC]-[DAIKI] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[DAIKI] SLP
+Unstake 0.00 [WMATIC]-[DAIKI] SLP
+Claim 0.00 DAIKI ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDC]-[USDT] Uni LP [+] [-] [<=>] Price: $2,624,537,874,399.47 TVL: $24,545,795.04
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($15,335.66)
+DAIKI Per Week: 2749.09 ($60.04)
+APR: Day 0.06% Week 0.39% Year 20.36%
+You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[USDT] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[USDT] Uni LP
+Claim 0.00 DAIKI ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDC]-[DINO] SLP [+] [-] [<=>] Price: $639,098.50 TVL: $3,921,257.45
+USDC Price: $1.00
+DINO Price: $0.09
+Staked: 0.0003 SLP ($192.26)
+DAIKI Per Week: 2749.09 ($60.04)
+APR: Day 4.46% Week 31.23% Year 1623.88%
+You are staking 0.00 [USDC]-[DINO] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DINO] SLP - Fee 4%
+Unstake 0.00 [USDC]-[DINO] SLP
+Claim 0.00 DAIKI ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $34,844.70

@@ -1,0 +1,58 @@
+***************************** POLYGON NETWORK ***************************************
+
+Website -
+Twitter -
+Telegram
+
+
+Website Farming Launching Soon: https://bullionfinance.xyz
+
+LINKS:
+  * BUY GOLD FROM QUICKSWAP
+  * BUY GOLD FROM DFYN
+  * BUY GOLD FROM SUSHI
+  * ADD LIQUIDITY QUICKSWAP (MATIC - GOLD)
+  * ADD LIQUIDITY QUICKSWAP (USDC - GOLD)
+  * ADD LIQUIDITY DFYN (MATIC - GOLD)
+  * ADD LIQUIDITY DFYN (USDC - GOLD)
+  * ADD LIQUIDITY SUSHI (MATIC - GOLD)
+  * ADD LIQUIDITY SUSHI (USDC - GOLD)
+
+
+TOKEN:
+  * Symbol: GOLD
+  * No Transfer Fee
+
+FARMING:
+  * Masterchef: 0x8c18b6e5ED35Ec3Bfde9fbd6fF62a518E2221a44
+  * Farming Starts on Block: 16939517 — Mon July 12 2021 04:30:00 GMT
+  * First Harvest Start: block 16939517
+  * Harvest Cooldowns:
+      - Native:     2 Hours
+      - Non-Native: 2 Hours
+
+DEPOSIT FEES:
+  * No Fees On Native Farms
+  * 3% Fees On Non-Native Farms
+
+NOTES:
+  * Use 6% slippage when swapping tokens due to transfer fee.
+
+
+                          *** IMPORTANT ***
+*** ATTEMPTING TO HARVEST EARLY WILL MINT GOLD AND STORE IN MASTERCHEF ***
+*** NO GOLD IS LOST!!!                                                 ***
+*** YOU WILL BE PAID YOUR FULL BALANCE ON NEXT SUCCESSFUL HARVEST      ***
+
+*************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Fri Dec 17 2021 09:05:43 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 28 pools.
+Showing incentivized pools only.

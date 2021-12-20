@@ -1,0 +1,164 @@
+***************************** POLYGON NETWORK ***************************************
+
+*************** 👨‍🌾 UNOFFICIAL POLYBASS FARMING CALCULATOR 👨‍🌾 ***********************
+INFO  : https://polybass.farm
+*************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Fri Dec 17 2021 11:04:15 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 14 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [BASS]-[USDC] Uni LP [+] [-] [<=>] Price: $5,832.07 TVL: $0.16
+BASS Price: $0.0000077068
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.16)
+BASS Per Week: 2335.14 ($0.02)
+APR: Day 1.65% Week 11.55% Year 600.63%
+You are staking 0.00 [BASS]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BASS]-[USDC] Uni LP
+Unstake 0.00 [BASS]-[USDC] Uni LP
+Claim 0.00 BASS ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WMATIC]-[BASS] Uni LP [+] [-] [<=>] Price: $0.01 TVL: $0.06
+WMATIC Price: $2.04
+BASS Price: $0.0000077068
+Staked: 6.7652 UNI-V2 ($0.06)
+BASS Per Week: 2335.14 ($0.02)
+APR: Day 4.59% Week 32.11% Year 1669.76%
+You are staking 0.00 [WMATIC]-[BASS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[BASS] Uni LP
+Unstake 0.00 [WMATIC]-[BASS] Uni LP
+Claim 0.00 BASS ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - BASS Price: $0.0000077068 Market Cap: $0.27 [%]
+Staked: 10883.7612 BASS ($0.08)
+BASS Per Week: 1167.57 ($0.01)
+APR: Day 1.53% Week 10.73% Year 557.84%
+You are staking 0.00 BASS ($0.00), 0.00% of the pool.
+Stake 0.00 BASS
+Unstake 0.00 BASS
+Claim 0.00 BASS ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,725,780.45 TVL: $51,038,497.96
+WMATIC Price: $2.04
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.00)
+BASS Per Week: 155.68 ($0.00)
+APR: Day 900.68% Week 6304.77% Year 327847.83%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 BASS ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - WMATIC Price: $2.04 Market Cap: $622,367,070.96 [%]
+Staked: 0.0100 WMATIC ($0.02)
+BASS Per Week: 155.68 ($0.00)
+APR: Day 0.84% Week 5.88% Year 305.82%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 BASS ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - QUICK Price: $239.78 Market Cap: $229,119,000.28 [%]
+Staked: 0.0000 QUICK ($0.00)
+BASS Per Week: 116.76 ($0.00)
+APR: Day 67.01% Week 469.09% Year 24392.67%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 BASS ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - WETH Price: $3,880.00 Market Cap: $1,722,885,312.17 [%]
+Staked: 0.0000 WETH ($0.00)
+BASS Per Week: 116.76 ($0.00)
+APR: Day 655.12% Week 4585.86% Year 238464.51%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 BASS ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - WBTC Price: $47,023.00 Market Cap: $475,427,551.49 [%]
+Staked: 0.0000 WBTC ($0.00)
+BASS Per Week: 116.76 ($0.00)
+APR: Day 27.34% Week 191.36% Year 9950.66%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 BASS ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - AAVE Price: $170.67 Market Cap: $46,446,957.72 [%]
+Staked: 0.0000 AAVE ($0.00)
+BASS Per Week: 116.76 ($0.00)
+APR: Day 1339.47% Week 9376.32% Year 487568.88%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 BASS ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - DAI Price: $1.00 Market Cap: $367,653,897.80 [%]
+Staked: 0.0000 DAI ($0.00)
+BASS Per Week: 116.76 ($0.00)
+APR: Day 12854668015056544.00% Week 89982676105395808.00% Year 4679099157480582144.00%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 BASS ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - USDT Price: $1.00 Market Cap: $319,712,128.27 [%]
+Staked: 0.0000 USDT ($0.00)
+BASS Per Week: 116.76 ($0.00)
+APR: Day 12856.21% Week 89993.48% Year 4679660.72%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 BASS ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - USDC Price: $1.00 Market Cap: $952,294,882.74 [%]
+Staked: 0.0000 USDC ($0.00)
+BASS Per Week: 116.76 ($0.00)
+APR: Day 12854.67% Week 89982.68% Year 4679099.16%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 BASS ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - SUSHI Price: $5.62 Market Cap: $3,171,257.00 [%]
+Staked: 1.9433 SUSHI ($10.92)
+BASS Per Week: 116.76 ($0.00)
+APR: Day 0.00% Week 0.01% Year 0.43%
+You are staking 0.00 SUSHI ($0.00), 0.00% of the pool.
+Stake 0.00 SUSHI - Fee 4%
+Unstake 0.00 SUSHI
+Claim 0.00 BASS ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - FISH Price: $0.00 Market Cap: $0.00 
+Staked: 2.4674 FISH ($0.00)
+BASS Per Week: 116.76 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FISH ($0.00), NaN% of the pool.
+Stake 0.00 FISH - Fee 4%
+Unstake 0.00 FISH
+Claim 0.00 BASS ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $11.24

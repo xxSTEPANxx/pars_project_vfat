@@ -1,0 +1,114 @@
+*************** 👨‍🌾 UNOFFICIAL FARMWIKI FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://poly.farmwiki.xyz
+*****************************************************************************
+
+Thu Dec 16 2021 05:40:56 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 25 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [USDC]-[WIKI] Uni LP [+] [-] [<=>] Price: $68,197.87 TVL: $16.17
+USDC Price: $1.00
+WIKI Price: $0.001082
+Staked: 0.0001 UNI-V2 ($6.10)
+WIKI Per Week: 106.01 ($0.11)
+APR: Day 0.27% Week 1.88% Year 97.89%
+You are staking 0.00 [USDC]-[WIKI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WIKI] Uni LP
+Unstake 0.00 [USDC]-[WIKI] Uni LP
+Claim 0.00 WIKI ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WMATIC]-[WIKI] Uni LP [+] [-] [<=>] Price: $0.10 TVL: $0.99
+WMATIC Price: $2.14
+WIKI Price: $0.001082
+Staked: 10.0000 UNI-V2 ($0.99)
+WIKI Per Week: 53.01 ($0.06)
+APR: Day 0.83% Week 5.81% Year 301.97%
+You are staking 0.00 [WMATIC]-[WIKI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[WIKI] Uni LP
+Unstake 0.00 [WMATIC]-[WIKI] Uni LP
+Claim 0.00 WIKI ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WIKI]-[WETH] Uni LP [+] [-] [<=>] Price: $4.27 TVL: $0.93
+WIKI Price: $0.001082
+WETH Price: $4,037.06
+Staked: 0.0831 UNI-V2 ($0.36)
+WIKI Per Week: 53.01 ($0.06)
+APR: Day 2.31% Week 16.16% Year 840.33%
+You are staking 0.00 [WIKI]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WIKI]-[WETH] Uni LP
+Unstake 0.00 [WIKI]-[WETH] Uni LP
+Claim 0.00 WIKI ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,859,104.21 TVL: $52,196,270.93
+WMATIC Price: $2.14
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($11.97)
+WIKI Per Week: 10.60 ($0.01)
+APR: Day 0.01% Week 0.10% Year 4.98%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 WIKI ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [WMATIC]-[WETH] Uni LP [+] [-] [<=>] Price: $245.84 TVL: $110,175,964.71
+WMATIC Price: $2.14
+WETH Price: $4,037.06
+Staked: 0.0000 UNI-V2 ($0.00)
+WIKI Per Week: 10.60 ($0.01)
+APR: Day 66.26% Week 463.82% Year 24118.55%
+You are staking 0.00 [WMATIC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[WETH] Uni LP
+Claim 0.00 WIKI ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - WMATIC Price: $2.14 Market Cap: $651,468,092.33 [%]
+Staked: 9.6000 WMATIC ($20.54)
+WIKI Per Week: 7.07 ($0.01)
+APR: Day 0.01% Week 0.04% Year 1.94%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 WIKI ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - WETH Price: $4,037.06 Market Cap: $1,791,833,837.44 [%]
+Staked: 0.0304 WETH ($122.55)
+WIKI Per Week: 7.07 ($0.01)
+APR: Day 0.00% Week 0.01% Year 0.32%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 WIKI ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - USDC Price: $1.00 Market Cap: $943,395,526.17 [%]
+Staked: 19.2000 USDC ($19.20)
+WIKI Per Week: 5.30 ($0.01)
+APR: Day 0.00% Week 0.03% Year 1.55%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 WIKI ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - WIKI Price: $0.001082 Market Cap: $111.10 [%]
+Staked: 8481.7261 WIKI ($9.18)
+WIKI Per Week: 35.34 ($0.04)
+APR: Day 0.06% Week 0.42% Year 21.66%
+You are staking 0.00 WIKI ($0.00), 0.00% of the pool.
+Stake 0.00 WIKI
+Unstake 0.00 WIKI
+Claim 0.00 WIKI ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $190.89

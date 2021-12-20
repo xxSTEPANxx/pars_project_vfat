@@ -1,0 +1,62 @@
+***************************** MATIC NETWORK **********************
+    
+*************** 👨‍🌾 UNOFFICIAL AAVE CALCULATOR 👨‍🌾 ****************
+INFO  : https://aave.com
+******************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Dec 20 2021 10:07:48 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+DAI ($1.00)
+Supplied : 1,285,704,611.13 ($1,285,704,611.13) at 3.54% APR
+Borrowed : 1,031,658,625.45 ($1,031,658,625.45) at 4.90% APR
+Reserves : 254,045,986.47 ($254,045,986.47)
+Farming APR Supply 1.89% Borrow 3.52%
+Net APR Supply 5.43% Borrow -1.38%
+
+USDC ($1.00)
+Supplied : 1,702,046,743.13 ($1,702,046,743.13) at 3.08% APR
+Borrowed : 1,493,914,344.30 ($1,493,914,344.30) at 3.90% APR
+Reserves : 208,132,903.56 ($208,132,903.56)
+Farming APR Supply 1.29% Borrow 2.21%
+Net APR Supply 4.38% Borrow -1.69%
+
+USDT ($1.00)
+Supplied : 197,126,265.46 ($197,126,265.46) at 10.39% APR
+Borrowed : 180,248,928.05 ($180,248,928.05) at 12.63% APR
+Reserves : 16,877,340.33 ($16,877,340.33)
+Farming APR Supply 4.47% Borrow 7.34%
+Net APR Supply 14.87% Borrow -5.29%
+
+WBTC ($46,714.00)
+Supplied : 7,289.14 ($340,505,056.78) at 0.05% APR
+Borrowed : 543.36 ($25,382,419.40) at 0.92% APR
+Reserves : 6,745.79 ($315,122,620.79)
+Farming APR Supply 0.73% Borrow 1.09%
+Net APR Supply 0.78% Borrow 0.17%
+
+WETH ($3,873.02)
+Supplied : 329,176.65 ($1,274,907,743.02) at 0.51% APR
+Borrowed : 70,873.13 ($274,493,063.02) at 2.65% APR
+Reserves : 258,305.49 ($1,000,422,332.97)
+Farming APR Supply 1.94% Borrow 1.00%
+Net APR Supply 2.46% Borrow -1.65%
+
+WMATIC ($2.12)
+Supplied : 211,443,679.58 ($448,260,600.71) at 0.27% APR
+Borrowed : 31,340,598.09 ($66,442,067.95) at 2.31% APR
+Reserves : 180,103,081.90 ($381,818,533.64)
+Farming APR Supply 2.95% Borrow 2.21%
+Net APR Supply 3.22% Borrow -0.09%
+
+AAVE ($175.83)
+Supplied : 165,278.35 ($29,060,891.62) at 0.00% APR
+Borrowed : 0.00 ($0.00) at 0.00% APR
+Reserves : 165,278.35 ($29,060,891.62)
+Farming APR Supply 3.16% Borrow NaN%
+Net APR Supply 3.16% Borrow NaN%

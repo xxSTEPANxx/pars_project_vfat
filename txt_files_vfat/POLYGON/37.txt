@@ -1,0 +1,186 @@
+***************************** POLYGON NETWORK ***************************************
+    
+*************** 👨‍🌾 UNOFFICIAL MONOPOLYFINANCE FARMING CALCULATOR 👨‍🌾 ****************
+INFO  : https://monopolyfinance.xyz
+*************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Fri Dec 17 2021 09:23:41 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 18 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [USDC]-[MONO] Uni LP [+] [-] [<=>] Price: $52,207.48 TVL: $336.96
+USDC Price: $1.00
+MONO Price: $0.000519
+Staked: 0.0055 UNI-V2 ($288.68)
+MONO Per Week: 21818.18 ($11.33)
+APR: Day 0.56% Week 3.93% Year 204.15%
+You are staking 0.00 [USDC]-[MONO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[MONO] Uni LP
+Unstake 0.00 [USDC]-[MONO] Uni LP
+Claim 0.00 MONO ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - MONO Price: $0.000519 Market Cap: $2,162.83 [%]
+Staked: 2226203.4277 MONO ($1,156.39)
+MONO Per Week: 13090.91 ($6.80)
+APR: Day 0.08% Week 0.59% Year 30.58%
+You are staking 0.00 MONO ($0.00), 0.00% of the pool.
+Stake 0.00 MONO - Fee 1%
+Unstake 0.00 MONO
+Claim 0.00 MONO ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - WMATIC Price: $2.10 Market Cap: $639,571,153.96 [%]
+Staked: 1733.8001 WMATIC ($3,640.98)
+MONO Per Week: 2181.82 ($1.13)
+APR: Day 0.00% Week 0.03% Year 1.62%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 3.5%
+Unstake 0.00 WMATIC
+Claim 0.00 MONO ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - QUICK Price: $244.96 Market Cap: $234,068,689.25 [%]
+Staked: 6.1757 QUICK ($1,512.79)
+MONO Per Week: 2181.82 ($1.13)
+APR: Day 0.01% Week 0.07% Year 3.90%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 3.5%
+Unstake 0.00 QUICK
+Claim 0.00 MONO ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - WETH Price: $3,955.24 Market Cap: $1,755,804,323.56 [%]
+Staked: 61.1559 WETH ($241,886.36)
+MONO Per Week: 2181.82 ($1.13)
+APR: Day 0.00% Week 0.00% Year 0.02%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 3.5%
+Unstake 0.00 WETH
+Claim 0.00 MONO ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - USDC Price: $1.00 Market Cap: $951,730,542.63 [%]
+Staked: 226.6828 USDC ($226.57)
+MONO Per Week: 2181.82 ($1.13)
+APR: Day 0.07% Week 0.50% Year 26.01%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 3.5%
+Unstake 0.00 USDC
+Claim 0.00 MONO ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [WMATIC]-[MONO] Uni LP [+] [-] [<=>] Price: $0.08 TVL: $157.78
+WMATIC Price: $2.10
+MONO Price: $0.000519
+Staked: 1528.8231 UNI-V2 ($116.28)
+MONO Per Week: 13090.91 ($6.80)
+APR: Day 0.84% Week 5.85% Year 304.09%
+You are staking 0.00 [WMATIC]-[MONO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[MONO] Uni LP - Fee 3%
+Unstake 0.00 [WMATIC]-[MONO] Uni LP
+Claim 0.00 MONO ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [MONO]-[PolyDoge] Uni LP [+] [-] [<=>] Price: $0.00 TVL: $196.16
+MONO Price: $0.000519
+PolyDoge Price: $0.0000000231
+Staked: 5308967.9363 UNI-V2 ($180.58)
+MONO Per Week: 4363.64 ($2.27)
+APR: Day 0.18% Week 1.26% Year 65.27%
+You are staking 0.00 [MONO]-[PolyDoge] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MONO]-[PolyDoge] Uni LP - Fee 4%
+Unstake 0.00 [MONO]-[PolyDoge] Uni LP
+Claim 0.00 MONO ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [MONO]-[DFYN] DFYN LP [+] [-] [<=>] Price: $0.03 TVL: $45.94
+MONO Price: $0.000519
+DFYN Price: $0.34
+Staked: 1100.2627 DFYNLP ($32.01)
+MONO Per Week: 13090.91 ($6.80)
+APR: Day 3.03% Week 21.24% Year 1104.72%
+You are staking 0.00 [MONO]-[DFYN] DFYN LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MONO]-[DFYN] DFYN LP - Fee 2%
+Unstake 0.00 [MONO]-[DFYN] DFYN LP
+Claim 0.00 MONO ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [MONO]-[QUICK] Uni LP [+] [-] [<=>] Price: $0.76 TVL: $60.20
+MONO Price: $0.000519
+QUICK Price: $244.96
+Staked: 78.5701 UNI-V2 ($59.41)
+MONO Per Week: 13090.91 ($6.80)
+APR: Day 1.64% Week 11.45% Year 595.15%
+You are staking 0.00 [MONO]-[QUICK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MONO]-[QUICK] Uni LP - Fee 3%
+Unstake 0.00 [MONO]-[QUICK] Uni LP
+Claim 0.00 MONO ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [MONO]-[PZAP] Uni LP [+] [-] [<=>] Price: $0.00 TVL: $17.07
+MONO Price: $0.000519
+PZAP Price: $0.006661
+Staked: 1912.9442 PolyZap-LP ($7.29)
+MONO Per Week: 13090.91 ($6.80)
+APR: Day 13.32% Week 93.24% Year 4848.34%
+You are staking 0.00 [MONO]-[PZAP] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MONO]-[PZAP] Uni LP - Fee 3%
+Unstake 0.00 [MONO]-[PZAP] Uni LP
+Claim 0.00 MONO ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [MONO]-[UNI] Uni LP [+] [-] [<=>] Price: $0.18 TVL: $36.97
+MONO Price: $0.000519
+UNI Price: $14.43
+Staked: 208.0950 UNI-V2 ($36.97)
+MONO Per Week: 13090.91 ($6.80)
+APR: Day 2.63% Week 18.39% Year 956.39%
+You are staking 0.00 [MONO]-[UNI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MONO]-[UNI] Uni LP - Fee 3%
+Unstake 0.00 [MONO]-[UNI] Uni LP
+Claim 0.00 MONO ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [MONO]-[miMATIC] Uni LP [+] [-] [<=>] Price: $0.05 TVL: $15.56
+MONO Price: $0.000519
+miMATIC Price: $0.99
+Staked: 333.0606 UNI-V2 ($15.53)
+MONO Per Week: 13090.91 ($6.80)
+APR: Day 6.26% Week 43.79% Year 2277.03%
+You are staking 0.00 [MONO]-[miMATIC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MONO]-[miMATIC] Uni LP - Fee 3%
+Unstake 0.00 [MONO]-[miMATIC] Uni LP
+Claim 0.00 MONO ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [UFT]-[MONO] Uni LP [+] [-] [<=>] Price: $0.04 TVL: $38.65
+UFT Price: $0.64
+MONO Price: $0.000519
+Staked: 713.1697 UNI-V2 ($26.72)
+MONO Per Week: 13090.91 ($6.80)
+APR: Day 3.64% Week 25.45% Year 1323.58%
+You are staking 0.00 [UFT]-[MONO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UFT]-[MONO] Uni LP - Fee 3%
+Unstake 0.00 [UFT]-[MONO] Uni LP
+Claim 0.00 MONO ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - UFT Price: $0.64 Market Cap: $539,805.65 [%]
+Staked: 100.4825 UFT ($64.45)
+MONO Per Week: 4363.64 ($2.27)
+APR: Day 0.50% Week 3.52% Year 182.89%
+You are staking 0.00 UFT ($0.00), 0.00% of the pool.
+Stake 0.00 UFT - Fee 4%
+Unstake 0.00 UFT
+Claim 0.00 MONO ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $249,251.01

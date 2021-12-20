@@ -1,0 +1,198 @@
+***************************** POLYGON NETWORK *************************************
+    
+*************** 👨‍🌾 UNOFFICIAL TOM FINANCE FARMING CALCULATOR 👨‍🌾 *********************
+INFO  : https://tomfinance.app
+***********************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Thu Dec 16 2021 05:25:48 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 17 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [USDC]-[TOM] Uni LP [+] [-] [<=>] Price: $21,130.53 TVL: $0.10
+USDC Price: $1.00
+TOM Price: $0.000105
+Staked: 0.0000 UNI-V2 ($0.10)
+TOM Per Week: 177.23 ($0.02)
+APR: Day 2.62% Week 18.37% Year 955.00%
+You are staking 0.00 [USDC]-[TOM] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[TOM] Uni LP
+Unstake 0.00 [USDC]-[TOM] Uni LP
+Claim 0.00 TOM ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WMATIC]-[TOM] Uni LP [+] [-] [<=>] Price: $0.03 TVL: $0.11
+WMATIC Price: $2.16
+TOM Price: $0.000105
+Staked: 3.5015 UNI-V2 ($0.11)
+TOM Per Week: 177.23 ($0.02)
+APR: Day 2.47% Week 17.30% Year 899.54%
+You are staking 0.00 [WMATIC]-[TOM] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[TOM] Uni LP
+Unstake 0.00 [WMATIC]-[TOM] Uni LP
+Claim 0.00 TOM ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WETH]-[TOM] Uni LP [+] [-] [<=>] Price: $1.34 TVL: $0.12
+WETH Price: $4,040.48
+TOM Price: $0.000105
+Staked: 0.0853 UNI-V2 ($0.11)
+TOM Per Week: 177.23 ($0.02)
+APR: Day 2.33% Week 16.31% Year 848.22%
+You are staking 0.00 [WETH]-[TOM] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[TOM] Uni LP
+Unstake 0.00 [WETH]-[TOM] Uni LP
+Claim 0.00 TOM ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,886,519.27 TVL: $52,440,498.11
+WMATIC Price: $2.16
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.01)
+TOM Per Week: 37.98 ($0.00)
+APR: Day 7.23% Week 50.64% Year 2633.37%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 TOM ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDC]-[WETH] Uni LP [+] [-] [<=>] Price: $188,038,270.73 TVL: $79,047,755.52
+USDC Price: $1.00
+WETH Price: $4,040.48
+Staked: 0.0000 UNI-V2 ($0.01)
+TOM Per Week: 37.98 ($0.00)
+APR: Day 7.06% Week 49.45% Year 2571.59%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 TOM ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - TOM Price: $0.000105 Market Cap: $0.95 [%]
+Staked: 4237.7066 TOM ($0.45)
+TOM Per Week: 126.59 ($0.01)
+APR: Day 0.43% Week 2.99% Year 155.34%
+You are staking 0.00 TOM ($0.00), 0.00% of the pool.
+Stake 0.00 TOM
+Unstake 0.00 TOM
+Claim 0.00 TOM ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - WMATIC Price: $2.16 Market Cap: $657,603,943.94 [%]
+Staked: 295.1089 WMATIC ($637.44)
+TOM Per Week: 37.98 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.03%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 TOM ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - PolyDoge Price: $0.0000000238 Market Cap: $23,828,000.00 [%]
+Staked: 1691926548.4892 PolyDoge ($40.32)
+TOM Per Week: 37.98 ($0.00)
+APR: Day 0.00% Week 0.01% Year 0.52%
+You are staking 0.00 PolyDoge ($0.00), 0.00% of the pool.
+Stake 0.00 PolyDoge - Fee 4%
+Unstake 0.00 PolyDoge
+Claim 0.00 TOM ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - WETH Price: $4,040.48 Market Cap: $1,793,337,332.38 [%]
+Staked: 0.0000 WETH ($0.00)
+TOM Per Week: 37.98 ($0.00)
+APR: Day 13.76% Week 96.29% Year 5007.17%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 TOM ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - WBTC Price: $49,019.00 Market Cap: $497,242,931.33 [%]
+Staked: 0.0003 WBTC ($16.00)
+TOM Per Week: 37.98 ($0.00)
+APR: Day 0.00% Week 0.03% Year 1.30%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 TOM ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - AAVE Price: $175.46 Market Cap: $47,763,608.65 [%]
+Staked: 0.0001 AAVE ($0.02)
+TOM Per Week: 37.98 ($0.00)
+APR: Day 3.26% Week 22.85% Year 1188.09%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 TOM ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - QUICK Price: $252.30 Market Cap: $241,082,138.66 [%]
+Staked: 0.0000 QUICK ($0.01)
+TOM Per Week: 37.98 ($0.00)
+APR: Day 9.79% Week 68.53% Year 3563.73%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 TOM ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - FISH Price: $0.00 Market Cap: $0.00 
+Staked: 0.0114 FISH ($0.00)
+TOM Per Week: 37.98 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FISH ($0.00), NaN% of the pool.
+Stake 0.00 FISH - Fee 4%
+Unstake 0.00 FISH
+Claim 0.00 TOM ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - LINK Price: $19.94 Market Cap: $34,583,999.82 [%]
+Staked: 0.3481 LINK ($6.94)
+TOM Per Week: 37.98 ($0.00)
+APR: Day 0.01% Week 0.06% Year 3.00%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 TOM ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - USDC Price: $1.00 Market Cap: $943,569,936.81 [%]
+Staked: 1.4496 USDC ($1.45)
+TOM Per Week: 37.98 ($0.00)
+APR: Day 0.04% Week 0.28% Year 14.37%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 TOM ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - DAI Price: $1.00 Market Cap: $374,067,417.09 [%]
+Staked: 1.8521 DAI ($1.85)
+TOM Per Week: 37.98 ($0.00)
+APR: Day 0.03% Week 0.22% Year 11.25%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 TOM ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - USDT Price: $1.00 Market Cap: $313,324,254.04 [%]
+Staked: 0.0193 USDT ($0.02)
+TOM Per Week: 37.98 ($0.00)
+APR: Day 2.96% Week 20.74% Year 1078.43%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 TOM ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $704.83

@@ -1,0 +1,96 @@
+***************************** POLYGON NETWORK *************************************
+    
+*************** 👨‍🌾 POLYMON FARMING CALCULATOR 👨‍🌾 **********************************
+INFO  : https://polymon.finance
+***********************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Thu Dec 16 2021 05:02:31 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 7 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [USDC]-[WETH] Uni LP [+] [-] [<=>] Price: $188,247,120.72 TVL: $79,126,895.65
+USDC Price: $1.00
+WETH Price: $4,049.53
+Staked: 0.0000 UNI-V2 ($312.94)
+PYM Per Week: 1372.55 ($9.11)
+APR: Day 0.42% Week 2.91% Year 151.33%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP - Fee 1%
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 PYM ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,886,131.56 TVL: $52,401,926.38
+WMATIC Price: $2.16
+USDC Price: $1.00
+Staked: 0.0009 UNI-V2 ($5,370.51)
+PYM Per Week: 1372.55 ($9.11)
+APR: Day 0.02% Week 0.17% Year 8.82%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 1%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 PYM ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [VBTC]-[WETH] Uni LP [+] [-] [<=>] Price: $16,842.02 TVL: $855.31
+VBTC Price: $16,175.05
+WETH Price: $4,049.53
+Staked: 0.0016 UNI-V2 ($26.26)
+PYM Per Week: 1372.55 ($9.11)
+APR: Day 4.95% Week 34.68% Year 1803.34%
+You are staking 0.00 [VBTC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [VBTC]-[WETH] Uni LP - Fee 1%
+Unstake 0.00 [VBTC]-[WETH] Uni LP
+Claim 0.00 PYM ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - PYM Price: $0.00 Market Cap: $0.00 
+Staked: 290260.6185 PYM ($0.00)
+PYM Per Week: 13725.49 ($91.07)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 PYM ($0.00), NaN% of the pool.
+Stake 0.00 PYM
+Unstake 0.00 PYM
+Claim 0.00 PYM ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - VBTC Price: $16,175.05 Market Cap: $30,740.69 [%]
+Staked: 0.0084 VBTC ($136.27)
+PYM Per Week: 686.27 ($4.55)
+APR: Day 0.48% Week 3.34% Year 173.76%
+You are staking 0.00 VBTC ($0.00), 0.00% of the pool.
+Stake 0.00 VBTC - Fee 1%
+Unstake 0.00 VBTC
+Claim 0.00 PYM ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - WETH Price: $4,049.53 Market Cap: $1,797,298,724.51 [%]
+Staked: 0.0300 WETH ($121.47)
+PYM Per Week: 686.27 ($4.55)
+APR: Day 0.54% Week 3.75% Year 194.94%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 1%
+Unstake 0.00 WETH
+Claim 0.00 PYM ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [WMATIC]-[PYM] Uni LP [+] [-] [<=>] Price: $0.24 TVL: $10,192.21
+WMATIC Price: $2.16
+PYM Price: $0.006635
+Staked: 10638.8839 UNI-V2 ($2,568.21)
+PYM Per Week: 27450.98 ($182.14)
+APR: Day 1.01% Week 7.09% Year 368.79%
+You are staking 0.00 [WMATIC]-[PYM] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[PYM] Uni LP
+Unstake 0.00 [WMATIC]-[PYM] Uni LP
+Claim 0.00 PYM ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $8,535.64

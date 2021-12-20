@@ -1,0 +1,100 @@
+***************************** POLYGON NETWORK ******************************************
+    
+*************** 👨‍🌾 UNOFFICIAL SAFEDOLLAR.FINANCE FARMING CALCULATOR 👨‍🌾 ****************
+INFO  : https://app.safedollar.fi
+****************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Fri Dec 17 2021 10:00:01 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 7 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [USDC]-[SDS] Uni LP [+] [-] [<=>] Price: $614,781.47 TVL: $4,979.71
+USDC Price: $1.00
+SDS Price: $0.07
+Staked: 0.0064 UNI-V2 ($3,957.56)
+SDS Per Week: 2379.11 ($168.49)
+APR: Day 0.61% Week 4.26% Year 221.38%
+You are staking 0.00 [USDC]-[SDS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[SDS] Uni LP
+Unstake 0.00 [USDC]-[SDS] Uni LP
+Claim 0.00 SDS ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [USDC]-[sUSDC] Uni LP [+] [-] [<=>] Price: $2,001,955.97 TVL: $31,682.92
+USDC Price: $1.00
+sUSDC Price: $0.97
+Staked: 0.0158 UNI-V2 ($31,659.12)
+SDS Per Week: 1189.56 ($84.24)
+APR: Day 0.04% Week 0.27% Year 13.84%
+You are staking 0.00 [USDC]-[sUSDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[sUSDC] Uni LP
+Unstake 0.00 [USDC]-[sUSDC] Uni LP
+Claim 0.00 SDS ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [USDC]-[SDO] Uni LP [+] [-] [<=>] Price: $1,275,193.24 TVL: $113,368.32
+USDC Price: $1.00
+SDO Price: $0.34
+Staked: 0.0827 UNI-V2 ($105,421.22)
+SDS Per Week: 1586.08 ($112.32)
+APR: Day 0.02% Week 0.11% Year 5.54%
+You are staking 0.00 [USDC]-[SDO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[SDO] Uni LP
+Unstake 0.00 [USDC]-[SDO] Uni LP
+Claim 0.00 SDS ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDC]-[WETH] Uni LP [+] [-] [<=>] Price: $185,844,260.99 TVL: $80,881,185.80
+USDC Price: $1.00
+WETH Price: $3,944.72
+Staked: 0.0000 UNI-V2 ($106.85)
+SDS Per Week: 79.30 ($5.62)
+APR: Day 0.75% Week 5.26% Year 273.32%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 SDS ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [WMATIC]-[sMATIC] Uni LP [+] [-] [<=>] Price: $4.00 TVL: $27,386.04
+WMATIC Price: $2.08
+sMATIC Price: $1.91
+Staked: 6161.0615 FLP ($24,625.34)
+SDS Per Week: 793.04 ($56.16)
+APR: Day 0.03% Week 0.23% Year 11.86%
+You are staking 0.00 [WMATIC]-[sMATIC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[sMATIC] Uni LP
+Unstake 0.00 [WMATIC]-[sMATIC] Uni LP
+Claim 0.00 SDS ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [SDO]-[sMATIC] Uni LP [+] [-] [<=>] Price: $1.76 TVL: $11,132.06
+SDO Price: $0.34
+sMATIC Price: $1.91
+Staked: 6017.2933 FLP ($10,566.78)
+SDS Per Week: 396.52 ($28.08)
+APR: Day 0.04% Week 0.27% Year 13.82%
+You are staking 0.00 [SDO]-[sMATIC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SDO]-[sMATIC] Uni LP
+Unstake 0.00 [SDO]-[sMATIC] Uni LP
+Claim 0.00 SDS ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - SLP Price: $0.00 Market Cap: $0.00 
+Staked: 29001.5440 SLP ($0.00)
+SDS Per Week: 396.52 ($28.08)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SLP ($0.00), NaN% of the pool.
+Stake 0.00 SLP - Fee 0.5%
+Unstake 0.00 SLP
+Claim 0.00 SDS ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $176,336.86

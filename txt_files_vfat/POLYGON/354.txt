@@ -1,0 +1,304 @@
+***************************** POLYGON NETWORK *************************************
+
+*************** 👨‍🌾 UNOFFICIAL KAVIAN L2 FINANCE FARMING CALCULATOR 👨‍🌾 *********************
+INFO  : https://kavian.finance
+***********************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Thu Dec 16 2021 05:50:14 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 26 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [USDC]-[KAVIANL2] Uni LP [+] [-] [<=>] Price: $290,520.44 TVL: $2,251.73
+USDC Price: $1.00
+KAVIANL2 Price: $0.02
+Staked: 0.0020 UNI-V2 ($572.86)
+KAVIANL2 Per Week: 5217.32 ($87.93)
+APR: Day 2.19% Week 15.35% Year 798.13%
+You are staking 0.00 [USDC]-[KAVIANL2] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[KAVIANL2] Uni LP
+Unstake 0.00 [USDC]-[KAVIANL2] Uni LP
+Claim 0.00 KAVIANL2 ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WMATIC]-[KAVIANL2] Uni LP [+] [-] [<=>] Price: $0.43 TVL: $2,611.53
+WMATIC Price: $2.15
+KAVIANL2 Price: $0.02
+Staked: 1670.3134 UNI-V2 ($724.05)
+KAVIANL2 Per Week: 5217.32 ($87.93)
+APR: Day 1.73% Week 12.14% Year 631.47%
+You are staking 0.00 [WMATIC]-[KAVIANL2] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[KAVIANL2] Uni LP
+Unstake 0.00 [WMATIC]-[KAVIANL2] Uni LP
+Claim 0.00 KAVIANL2 ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,872,786.98 TVL: $52,318,328.78
+WMATIC Price: $2.15
+USDC Price: $1.00
+Staked: 0.0001 UNI-V2 ($518.85)
+KAVIANL2 Per Week: 266.58 ($4.49)
+APR: Day 0.12% Week 0.87% Year 45.03%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 KAVIANL2 ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDC]-[WETH] Uni LP [+] [-] [<=>] Price: $187,979,501.83 TVL: $79,023,665.35
+USDC Price: $1.00
+WETH Price: $4,037.95
+Staked: 0.0000 UNI-V2 ($117.82)
+KAVIANL2 Per Week: 266.58 ($4.49)
+APR: Day 0.54% Week 3.81% Year 198.27%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 KAVIANL2 ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [WBTC]-[WETH] Uni LP [+] [-] [<=>] Price: $1,422,779,984,025.83 TVL: $53,005,817.93
+WBTC Price: $49,044.00
+WETH Price: $4,037.95
+Staked: 0.0000 UNI-V2 ($71.14)
+KAVIANL2 Per Week: 266.58 ($4.49)
+APR: Day 0.90% Week 6.32% Year 328.39%
+You are staking 0.00 [WBTC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [WBTC]-[WETH] Uni LP
+Claim 0.00 KAVIANL2 ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [USDC]-[DAI] Uni LP [+] [-] [<=>] Price: $76,278,406.83 TVL: $7,329,458.67
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.0000 UNI-V2 ($140.00)
+KAVIANL2 Per Week: 266.58 ($4.49)
+APR: Day 0.46% Week 3.21% Year 166.86%
+You are staking 0.00 [USDC]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAI] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[DAI] Uni LP
+Claim 0.00 KAVIANL2 ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [WMATIC]-[WETH] Uni LP [+] [-] [<=>] Price: $246.44 TVL: $110,447,001.90
+WMATIC Price: $2.15
+WETH Price: $4,037.95
+Staked: 1.0665 UNI-V2 ($262.81)
+KAVIANL2 Per Week: 266.58 ($4.49)
+APR: Day 0.24% Week 1.71% Year 88.89%
+You are staking 0.00 [WMATIC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[WETH] Uni LP
+Claim 0.00 KAVIANL2 ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [USDC]-[USDT] Uni LP [+] [-] [<=>] Price: $2,624,551,669,579.75 TVL: $24,542,811.32
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($578.00)
+KAVIANL2 Per Week: 266.58 ($4.49)
+APR: Day 0.11% Week 0.78% Year 40.42%
+You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[USDT] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[USDT] Uni LP
+Claim 0.00 KAVIANL2 ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [LINK]-[WETH] Uni LP [+] [-] [<=>] Price: $593.37 TVL: $14,198,644.98
+LINK Price: $19.96
+WETH Price: $4,037.95
+Staked: 0.1162 UNI-V2 ($68.94)
+KAVIANL2 Per Week: 266.58 ($4.49)
+APR: Day 0.93% Week 6.52% Year 338.86%
+You are staking 0.00 [LINK]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LINK]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [LINK]-[WETH] Uni LP
+Claim 0.00 KAVIANL2 ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [WETH]-[DAI] Uni LP [+] [-] [<=>] Price: $159.35 TVL: $18,412,819.77
+WETH Price: $4,037.95
+DAI Price: $1.00
+Staked: 6.8777 UNI-V2 ($1,095.94)
+KAVIANL2 Per Week: 266.58 ($4.49)
+APR: Day 0.06% Week 0.41% Year 21.32%
+You are staking 0.00 [WETH]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[DAI] Uni LP - Fee 4%
+Unstake 0.00 [WETH]-[DAI] Uni LP
+Claim 0.00 KAVIANL2 ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [WETH]-[USDT] Uni LP [+] [-] [<=>] Price: $3,142,304,492.70 TVL: $25,042,647.49
+WETH Price: $4,037.95
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($142.90)
+KAVIANL2 Per Week: 266.58 ($4.49)
+APR: Day 0.45% Week 3.14% Year 163.48%
+You are staking 0.00 [WETH]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[USDT] Uni LP - Fee 4%
+Unstake 0.00 [WETH]-[USDT] Uni LP
+Claim 0.00 KAVIANL2 ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [USDC]-[miMATIC] Uni LP [+] [-] [<=>] Price: $2,113,124.87 TVL: $28,751,796.96
+USDC Price: $1.00
+miMATIC Price: $0.99
+Staked: 0.0006 UNI-V2 ($1,168.41)
+KAVIANL2 Per Week: 266.58 ($4.49)
+APR: Day 0.05% Week 0.38% Year 19.99%
+You are staking 0.00 [USDC]-[miMATIC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[miMATIC] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[miMATIC] Uni LP
+Claim 0.00 KAVIANL2 ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [SUSHI]-[WETH] SLP [+] [-] [<=>] Price: $383.52 TVL: $623,482.82
+SUSHI Price: $5.92
+WETH Price: $4,037.95
+Staked: 0.4289 SLP ($164.49)
+KAVIANL2 Per Week: 266.58 ($4.49)
+APR: Day 0.39% Week 2.73% Year 142.02%
+You are staking 0.00 [SUSHI]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [SUSHI]-[WETH] SLP - Fee 4%
+Unstake 0.00 [SUSHI]-[WETH] SLP
+Claim 0.00 KAVIANL2 ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - KAVIAN Price: $0.00 Market Cap: $0.00 
+Staked: 21076.6215 KAVIAN ($0.00)
+KAVIANL2 Per Week: 2132.63 ($35.94)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 KAVIAN ($0.00), NaN% of the pool.
+Stake 0.00 KAVIAN
+Unstake 0.00 KAVIAN
+Claim 0.00 KAVIANL2 ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - KAVIANL2 Price: $0.02 Market Cap: $5,083.60 [%]
+Staked: 88498.6652 KAVIANL2 ($1,491.44)
+KAVIANL2 Per Week: 4950.74 ($83.43)
+APR: Day 0.80% Week 5.59% Year 290.90%
+You are staking 0.00 KAVIANL2 ($0.00), 0.00% of the pool.
+Stake 0.00 KAVIANL2
+Unstake 0.00 KAVIANL2
+Claim 0.00 KAVIANL2 ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - WMATIC Price: $2.15 Market Cap: $654,552,050.29 [%]
+Staked: 151.5337 WMATIC ($325.80)
+KAVIANL2 Per Week: 243.73 ($4.11)
+APR: Day 0.18% Week 1.26% Year 65.56%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 KAVIANL2 ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - USDC Price: $1.00 Market Cap: $943,395,526.17 [%]
+Staked: 569.0551 USDC ($569.06)
+KAVIANL2 Per Week: 243.73 ($4.11)
+APR: Day 0.10% Week 0.72% Year 37.53%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 KAVIANL2 ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - QUICK Price: $251.14 Market Cap: $239,971,321.83 [%]
+Staked: 1.3228 QUICK ($332.21)
+KAVIANL2 Per Week: 243.73 ($4.11)
+APR: Day 0.18% Week 1.24% Year 64.29%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 KAVIANL2 ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - DAI Price: $1.00 Market Cap: $374,131,149.78 [%]
+Staked: 836.3219 DAI ($836.32)
+KAVIANL2 Per Week: 243.73 ($4.11)
+APR: Day 0.07% Week 0.49% Year 25.54%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 KAVIANL2 ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - WETH Price: $4,037.95 Market Cap: $1,792,255,239.53 [%]
+Staked: 0.0683 WETH ($275.75)
+KAVIANL2 Per Week: 243.73 ($4.11)
+APR: Day 0.21% Week 1.49% Year 77.46%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 KAVIANL2 ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - WBTC Price: $49,044.00 Market Cap: $497,496,528.37 [%]
+Staked: 0.0039 WBTC ($190.66)
+KAVIANL2 Per Week: 243.73 ($4.11)
+APR: Day 0.31% Week 2.15% Year 112.02%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 KAVIANL2 ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - AAVE Price: $175.89 Market Cap: $47,880,662.98 [%]
+Staked: 1.8862 AAVE ($331.76)
+KAVIANL2 Per Week: 243.73 ($4.11)
+APR: Day 0.18% Week 1.24% Year 64.38%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 KAVIANL2 ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - ONYX Price: $0.00 Market Cap: $0.00 
+Staked: 13266.4687 ONYX ($0.00)
+KAVIANL2 Per Week: 152.33 ($2.57)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 ONYX ($0.00), NaN% of the pool.
+Stake 0.00 ONYX - Fee 2%
+Unstake 0.00 ONYX
+Claim 0.00 KAVIANL2 ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - LINK Price: $19.96 Market Cap: $34,618,687.89 [%]
+Staked: 9.0282 LINK ($180.20)
+KAVIANL2 Per Week: 243.73 ($4.11)
+APR: Day 0.33% Week 2.28% Year 118.53%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 KAVIANL2 ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - USDT Price: $1.00 Market Cap: $313,461,279.68 [%]
+Staked: 164.6231 USDT ($164.62)
+KAVIANL2 Per Week: 243.73 ($4.11)
+APR: Day 0.36% Week 2.50% Year 129.74%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 KAVIANL2 ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - miMATIC Price: $0.99 Market Cap: $154,089,514.68 [%]
+Staked: 125.2766 miMATIC ($123.74)
+KAVIANL2 Per Week: 243.73 ($4.11)
+APR: Day 0.47% Week 3.32% Year 172.61%
+You are staking 0.00 miMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 miMATIC - Fee 4%
+Unstake 0.00 miMATIC
+Claim 0.00 KAVIANL2 ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $10,447.76

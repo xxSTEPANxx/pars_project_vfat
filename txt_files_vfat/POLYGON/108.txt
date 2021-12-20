@@ -1,0 +1,120 @@
+***************************** POLYGON NETWORK *****************************************
+
+*************** 👨‍🌾 UNOFFICIAL XBULL.FINANCE FARMING CALCULATOR 👨‍🌾 ****************
+INFO  : https://docs.xbull.finance
+***************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Fri Dec 17 2021 10:06:11 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 9 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [USDC]-[XBULL] Uni LP [+] [-] [<=>] Price: $1,032,177.59 TVL: $2,122.93
+USDC Price: $1.00
+XBULL Price: $0.24
+Staked: 0.0000 BULL-LP ($42.68)
+XBULL Per Week: 738.46 ($176.02)
+APR: Day 58.91% Week 412.38% Year 21443.77%
+You are staking 0.00 [USDC]-[XBULL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[XBULL] Uni LP
+Unstake 0.00 [USDC]-[XBULL] Uni LP
+Claim 0.00 XBULL ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WMATIC]-[XBULL] Uni LP [+] [-] [<=>] Price: $1.49 TVL: $6.79
+WMATIC Price: $2.08
+XBULL Price: $0.24
+Staked: 3.9509 BULL-LP ($5.89)
+XBULL Per Week: 738.46 ($176.02)
+APR: Day 426.82% Week 2987.72% Year 155361.29%
+You are staking 0.00 [WMATIC]-[XBULL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[XBULL] Uni LP
+Unstake 0.00 [WMATIC]-[XBULL] Uni LP
+Claim 0.00 XBULL ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [USDC]-[GBULL] Uni LP [+] [-] [<=>] Price: $50,608.03 TVL: $264.88
+USDC Price: $1.00
+GBULL Price: $0.000515
+Staked: 0.0002 BULL-LP ($9.37)
+XBULL Per Week: 147.69 ($35.20)
+APR: Day 53.66% Week 375.59% Year 19530.77%
+You are staking 0.00 [USDC]-[GBULL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[GBULL] Uni LP
+Unstake 0.00 [USDC]-[GBULL] Uni LP
+Claim 0.00 XBULL ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WMATIC]-[GBULL] Uni LP [+] [-] [<=>] Price: $0.07 TVL: $229.16
+WMATIC Price: $2.08
+GBULL Price: $0.000515
+Staked: 5.4945 BULL-LP ($0.41)
+XBULL Per Week: 147.69 ($35.20)
+APR: Day 1233.23% Week 8632.58% Year 448894.31%
+You are staking 0.00 [WMATIC]-[GBULL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[GBULL] Uni LP
+Unstake 0.00 [WMATIC]-[GBULL] Uni LP
+Claim 0.00 XBULL ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [BULL]-[USDC] Uni LP [+] [-] [<=>] Price: $38,166.04 TVL: $63.23
+BULL Price: $0.000302
+USDC Price: $1.00
+Staked: 0.0000 BULL-LP ($0.49)
+XBULL Per Week: 73.85 ($17.60)
+APR: Day 517.26% Week 3620.80% Year 188281.43%
+You are staking 0.00 [BULL]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BULL]-[USDC] Uni LP
+Unstake 0.00 [BULL]-[USDC] Uni LP
+Claim 0.00 XBULL ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WMATIC]-[BULL] Uni LP [+] [-] [<=>] Price: $0.06 TVL: $200.71
+WMATIC Price: $2.08
+BULL Price: $0.000302
+Staked: 3120.6699 BULL-LP ($173.31)
+XBULL Per Week: 73.85 ($17.60)
+APR: Day 1.45% Week 10.16% Year 528.15%
+You are staking 0.00 [WMATIC]-[BULL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[BULL] Uni LP
+Unstake 0.00 [WMATIC]-[BULL] Uni LP
+Claim 0.00 XBULL ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - XBULL Price: $0.24 Market Cap: $2,383.34 [%]
+Staked: 1121.0293 XBULL ($267.22)
+XBULL Per Week: 738.46 ($176.02)
+APR: Day 9.41% Week 65.87% Year 3425.42%
+You are staking 0.00 XBULL ($0.00), 0.00% of the pool.
+Stake 0.00 XBULL
+Unstake 0.00 XBULL
+Claim 0.00 XBULL ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - GBULL Price: $0.000515 Market Cap: $1,757.62 [%]
+Staked: 27963.6642 GBULL ($14.39)
+XBULL Per Week: 147.69 ($35.20)
+APR: Day 34.95% Week 244.64% Year 12721.40%
+You are staking 0.00 GBULL ($0.00), 0.00% of the pool.
+Stake 0.00 GBULL
+Unstake 0.00 GBULL
+Claim 0.00 XBULL ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - BULL Price: $0.000302 Market Cap: $2,490.44 [%]
+Staked: 16210.6163 BULL ($4.90)
+XBULL Per Week: 73.85 ($17.60)
+APR: Day 51.33% Week 359.32% Year 18684.42%
+You are staking 0.00 BULL ($0.00), 0.00% of the pool.
+Stake 0.00 BULL
+Unstake 0.00 BULL
+Claim 0.00 XBULL ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $518.66

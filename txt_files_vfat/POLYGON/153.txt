@@ -1,0 +1,134 @@
+***************************** POLYGON NETWORK **********************************************
+
+*************** 👨‍🌾 UNOFFICIAL BISON FINANCE FARMING CALCULATOR 👨‍🌾 *************************
+INFO  : https://bisonfinance.online
+********************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Fri Dec 17 2021 10:33:54 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 11 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [USDC]-[Bison] Uni LP [+] [-] [<=>] Price: $523.46 TVL: $0.95
+USDC Price: $1.00
+Bison Price: $0.0000000448
+Staked: 0.0011 UNI-V2 ($0.58)
+BISON Per Week: 360000.00 ($0.02)
+APR: Day 0.39% Week 2.76% Year 143.28%
+You are staking 0.00 [USDC]-[Bison] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[Bison] Uni LP
+Unstake 0.00 [USDC]-[Bison] Uni LP
+Claim 0.00 BISON ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,722,288.78 TVL: $51,009,498.25
+WMATIC Price: $2.04
+USDC Price: $1.00
+Staked: 0.0002 UNI-V2 ($1,063.19)
+BISON Per Week: 254117.65 ($0.01)
+APR: Day 0.00% Week 0.00% Year 0.06%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 BISON ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [USDC]-[DAI] Uni LP [+] [-] [<=>] Price: $76,206,651.76 TVL: $7,268,234.72
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.62)
+BISON Per Week: 275294.12 ($0.01)
+APR: Day 0.28% Week 1.98% Year 103.18%
+You are staking 0.00 [USDC]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAI] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[DAI] Uni LP
+Claim 0.00 BISON ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - Bison Price: $0.0000000448 Market Cap: $1.45 [%]
+Staked: 9100633.0098 Bison ($0.41)
+BISON Per Week: 360000.00 ($0.02)
+APR: Day 0.57% Week 3.96% Year 205.70%
+You are staking 0.00 Bison ($0.00), 0.00% of the pool.
+Stake 0.00 Bison
+Unstake 0.00 Bison
+Claim 0.00 BISON ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - WMATIC Price: $2.04 Market Cap: $622,634,761.34 [%]
+Staked: 41.5360 WMATIC ($84.73)
+BISON Per Week: 211764.71 ($0.01)
+APR: Day 0.00% Week 0.01% Year 0.58%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 BISON ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - DAI Price: $1.00 Market Cap: $367,225,783.89 [%]
+Staked: 0.0000 DAI ($0.00)
+BISON Per Week: 190588.24 ($0.01)
+APR: Day 121997808075609840.00% Week 853984656529268864.00% Year 44407202139521982464.00%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 BISON ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - WETH Price: $3,892.09 Market Cap: $1,728,127,592.93 [%]
+Staked: 0.0046 WETH ($17.96)
+BISON Per Week: 211764.71 ($0.01)
+APR: Day 0.01% Week 0.05% Year 2.74%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 BISON ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - QUICK Price: $241.10 Market Cap: $230,380,310.98 [%]
+Staked: 0.0000 QUICK ($0.00)
+BISON Per Week: 275294.12 ($0.01)
+APR: Day 730057057788472.75% Week 5110399404519309.00% Year 265740769035004064.00%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 BISON ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - WBTC Price: $46,989.00 Market Cap: $474,769,152.24 [%]
+Staked: 0.0038 WBTC ($180.42)
+BISON Per Week: 169411.76 ($0.01)
+APR: Day 0.00% Week 0.00% Year 0.22%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 BISON ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - PolyDoge Price: $0.0000000230 Market Cap: $22,971,000.00 [%]
+Staked: 463427951.8095 PolyDoge ($10.65)
+BISON Per Week: 275294.12 ($0.01)
+APR: Day 0.02% Week 0.12% Year 6.02%
+You are staking 0.00 PolyDoge ($0.00), 0.00% of the pool.
+Stake 0.00 PolyDoge - Fee 4%
+Unstake 0.00 PolyDoge
+Claim 0.00 BISON ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - AAVE Price: $171.37 Market Cap: $46,637,459.10 [%]
+Staked: 0.0000 AAVE ($0.00)
+BISON Per Week: 296470.59 ($0.01)
+APR: Day 1106124217441887.38% Week 7742869522093212.00% Year 402629215148847040.00%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 BISON ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $1,358.56

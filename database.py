@@ -1,4 +1,5 @@
 import sqlite3
+import datetime
 
 class Data_base:
 
@@ -26,8 +27,8 @@ class Data_base:
         if not data_to_chek:
             self.cur.execute("""INSERT INTO main_table (net, project, token1, token2, pair, parameter, tvl, apr)
                 VALUES (?, ?, ?, ?, ?, ?, ?, ?)""", data)
-        else:
 
+        else:
             self.cur.execute(f"""UPDATE main_table SET tvl ={data[6]}, apr = {data[7]} WHERE id = {data_to_chek[0]} """)
         self.con.commit()
 
@@ -36,7 +37,15 @@ class Data_base:
         project TEXT, net TEXT, total_staked INTEGER)""")
 
     def setdata_project_net_table(self, data):
-        self.cur.execute(f"""INSERT INTO project_net (project, net, total_staked) VALUES (?, ?, ?) """, data)
+        data_to_chek = self.cur.execute(f"""SELECT id FROM project_net 
+        WHERE project = '{data[0]}' AND net = '{data[1]}'""").fetchone()
+        if not data_to_chek:
+            self.cur.execute(f"""INSERT INTO project_net (project, net, total_staked) VALUES (?, ?, ?) """, data)
+            with open(r'all_json_files/new_projects.txt', 'a') as file:
+                file.write(data[1] + ' - ' + data[0] + '\n' + datetime.datetime.today().strftime('%d-%m-%Y-%H.%M.%S') + '\n')
+        else: self.cur.execute(f"""UPDATE project_net SET total_staked ={data[2]} WHERE id = {data_to_chek[0]} """)
+        self.con.commit()
+
 
     def show_data_by_token(self, token):
         list_pairs = self.cur.execute(f"""SELECT net, project, pair, tvl, apr FROM  main_table 
@@ -82,13 +91,6 @@ class Data_base:
         main_table.project = project_net.project""").fetchall()
         return list_all
 
-
-
-d = Data_base()
-# list = d.show_pair_by_project('https://pancakeswap.finance')
-# tvl_sum = sum([i[1] for i in list ])
-# print(tvl_sum)
-# print(*list, sep='\n')
 
 
 

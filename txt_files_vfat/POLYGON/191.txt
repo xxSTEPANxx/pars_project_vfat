@@ -1,0 +1,144 @@
+***************************** POLYGON NETWORK ******************************************
+    
+*************** 👨‍🌾 UNOFFICIAL YEARNIT.FINANCE FARMING CALCULATOR 👨‍🌾 *******************
+INFO  : https://yearnit.finance
+****************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Fri Dec 17 2021 10:51:30 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 13 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+1 - [USDC]-[YEARNIT] Uni LP [+] [-] [<=>] Price: $24,504.57 TVL: $0.25
+USDC Price: $1.00
+YEARNIT Price: $0.000135
+Staked: 0.0000 UNI-V2 ($0.05)
+YEARNIT Per Week: 266.67 ($0.04)
+APR: Day 11.07% Week 77.51% Year 4030.36%
+You are staking 0.00 [USDC]-[YEARNIT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[YEARNIT] Uni LP
+Unstake 0.00 [USDC]-[YEARNIT] Uni LP
+Claim 0.00 YEARNIT ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - YEARNIT Price: $0.000135 Market Cap: $6.38 [%]
+Staked: 20754.9423 YEARNIT ($2.81)
+YEARNIT Per Week: 200.00 ($0.03)
+APR: Day 0.14% Week 0.96% Year 50.11%
+You are staking 0.00 YEARNIT ($0.00), 0.00% of the pool.
+Stake 0.00 YEARNIT
+Unstake 0.00 YEARNIT
+Claim 0.00 YEARNIT ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,711,677.66 TVL: $50,914,820.70
+WMATIC Price: $2.03
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($38.07)
+YEARNIT Per Week: 13.33 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.25%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 YEARNIT ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - WETH Price: $3,881.68 Market Cap: $1,723,504,457.38 [%]
+Staked: 0.0003 WETH ($1.19)
+YEARNIT Per Week: 133.33 ($0.02)
+APR: Day 0.22% Week 1.52% Year 78.85%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 YEARNIT ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - USDC Price: $1.00 Market Cap: $952,298,882.74 [%]
+Staked: 0.0000 USDC ($0.00)
+YEARNIT Per Week: 133.33 ($0.02)
+APR: Day 257816.59% Week 1804716.16% Year 93845240.16%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 YEARNIT ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - WMATIC Price: $2.03 Market Cap: $619,485,628.67 [%]
+Staked: 29.8746 WMATIC ($60.65)
+YEARNIT Per Week: 133.33 ($0.02)
+APR: Day 0.00% Week 0.03% Year 1.55%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 YEARNIT ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - USDT Price: $1.00 Market Cap: $319,505,889.20 [%]
+Staked: 0.9385 USDT ($0.94)
+YEARNIT Per Week: 133.33 ($0.02)
+APR: Day 0.27% Week 1.92% Year 100.07%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 YEARNIT ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - DAI Price: $1.00 Market Cap: $367,280,931.07 [%]
+Staked: 0.0000 DAI ($0.00)
+YEARNIT Per Week: 133.33 ($0.02)
+APR: Day 258074151843552608.00% Week 1806519062904868352.00% Year 93938991271053148160.00%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 YEARNIT ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - WBTC Price: $47,002.00 Market Cap: $475,215,230.32 [%]
+Staked: 0.0000 WBTC ($0.00)
+YEARNIT Per Week: 133.33 ($0.02)
+APR: Day 548.52% Week 3839.66% Year 199662.23%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 YEARNIT ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - QUICK Price: $240.41 Market Cap: $229,720,989.48 [%]
+Staked: 0.0000 QUICK ($0.00)
+YEARNIT Per Week: 133.33 ($0.02)
+APR: Day 75.48% Week 528.35% Year 27474.31%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 YEARNIT ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - AAVE Price: $170.88 Market Cap: $46,504,108.14 [%]
+Staked: 0.0014 AAVE ($0.24)
+YEARNIT Per Week: 133.33 ($0.02)
+APR: Day 1.09% Week 7.64% Year 397.15%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 YEARNIT ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [WMATIC]-[YEARNIT] Uni LP [+] [-] [<=>] Price: $0.03 TVL: $5.39
+WMATIC Price: $2.03
+YEARNIT Price: $0.000135
+Staked: 5.5657 UNI-V2 ($0.19)
+YEARNIT Per Week: 1333.33 ($0.18)
+APR: Day 13.46% Week 94.24% Year 4900.44%
+You are staking 0.00 [WMATIC]-[YEARNIT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[YEARNIT] Uni LP
+Unstake 0.00 [WMATIC]-[YEARNIT] Uni LP
+Claim 0.00 YEARNIT ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $104.13

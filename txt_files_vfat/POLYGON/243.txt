@@ -1,0 +1,164 @@
+***************************** POLYGON NETWORK ***************************
+    
+*************** 👨‍🌾 UNOFFICIAL POLYGLASS FARMING CALCULATOR 👨‍🌾 ****************
+INFO  : https://polyglass.farm
+*************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-dekiwis/network/ ***
+
+Thu Dec 16 2021 04:50:31 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 14 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [USDC]-[GLASS] Uni LP [+] [-] [<=>] Price: $7,025.05 TVL: $0.16
+USDC Price: $1.00
+GLASS Price: $0.0000113233
+Staked: 0.0000 UNI-V2 ($0.15)
+GLASS Per Week: 9340.54 ($0.11)
+APR: Day 9.84% Week 68.91% Year 3583.07%
+You are staking 0.00 [USDC]-[GLASS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[GLASS] Uni LP
+Unstake 0.00 [USDC]-[GLASS] Uni LP
+Claim 0.00 GLASS ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WMATIC]-[GLASS] Uni LP [+] [-] [<=>] Price: $0.01 TVL: $0.49
+WMATIC Price: $2.15
+GLASS Price: $0.0000113233
+Staked: 46.9938 UNI-V2 ($0.49)
+GLASS Per Week: 9340.54 ($0.11)
+APR: Day 3.10% Week 21.68% Year 1127.38%
+You are staking 0.00 [WMATIC]-[GLASS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[GLASS] Uni LP
+Unstake 0.00 [WMATIC]-[GLASS] Uni LP
+Claim 0.00 GLASS ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - GLASS Price: $0.0000113233 Market Cap: $1.06 [%]
+Staked: 38511.7380 GLASS ($0.44)
+GLASS Per Week: 4670.27 ($0.05)
+APR: Day 1.73% Week 12.13% Year 630.60%
+You are staking 0.00 GLASS ($0.00), 0.00% of the pool.
+Stake 0.00 GLASS
+Unstake 0.00 GLASS
+Claim 0.00 GLASS ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,872,019.87 TVL: $52,278,338.72
+WMATIC Price: $2.15
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.00)
+GLASS Per Week: 622.70 ($0.01)
+APR: Day 302.99% Week 2120.90% Year 110286.80%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 GLASS ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - WMATIC Price: $2.15 Market Cap: $653,077,079.41 [%]
+Staked: 0.0096 WMATIC ($0.02)
+GLASS Per Week: 622.70 ($0.01)
+APR: Day 4.88% Week 34.16% Year 1776.43%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 GLASS ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - QUICK Price: $251.86 Market Cap: $240,661,702.12 [%]
+Staked: 0.0000 QUICK ($0.00)
+GLASS Per Week: 467.03 ($0.01)
+APR: Day 71.99% Week 503.91% Year 26203.44%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 GLASS ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - WETH Price: $4,044.56 Market Cap: $1,795,071,534.86 [%]
+Staked: 0.0048 WETH ($19.41)
+GLASS Per Week: 467.03 ($0.01)
+APR: Day 0.00% Week 0.03% Year 1.42%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 GLASS ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - WBTC Price: $48,915.00 Market Cap: $496,139,068.24 [%]
+Staked: 0.0000 WBTC ($0.00)
+GLASS Per Week: 467.03 ($0.01)
+APR: Day 154.45% Week 1081.12% Year 56218.22%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 GLASS ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - AAVE Price: $174.29 Market Cap: $47,445,112.00 [%]
+Staked: 0.0000 AAVE ($0.00)
+GLASS Per Week: 467.03 ($0.01)
+APR: Day 434.45% Week 3041.17% Year 158140.70%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 GLASS ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - DAI Price: $1.00 Market Cap: $374,104,232.00 [%]
+Staked: 0.0010 DAI ($0.00)
+GLASS Per Week: 467.03 ($0.01)
+APR: Day 74.27% Week 519.87% Year 27033.19%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 GLASS ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - USDT Price: $1.00 Market Cap: $313,197,937.75 [%]
+Staked: 0.0000 USDT ($0.00)
+GLASS Per Week: 467.03 ($0.01)
+APR: Day 75605.46% Week 529238.22% Year 27520387.44%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 GLASS ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - USDC Price: $1.00 Market Cap: $943,277,686.55 [%]
+Staked: 0.0001 USDC ($0.00)
+GLASS Per Week: 467.03 ($0.01)
+APR: Day 1280.65% Week 8964.57% Year 466157.54%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 GLASS ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - SUSHI Price: $5.92 Market Cap: $3,231,699.24 [%]
+Staked: 0.0000 SUSHI ($0.00)
+GLASS Per Week: 467.03 ($0.01)
+APR: Day 1117.96% Week 7825.69% Year 406936.10%
+You are staking 0.00 SUSHI ($0.00), 0.00% of the pool.
+Stake 0.00 SUSHI - Fee 4%
+Unstake 0.00 SUSHI
+Claim 0.00 GLASS ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - FISH Price: $0.00 Market Cap: $0.00 
+Staked: 0.7283 FISH ($0.00)
+GLASS Per Week: 467.03 ($0.01)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FISH ($0.00), NaN% of the pool.
+Stake 0.00 FISH - Fee 4%
+Unstake 0.00 FISH
+Claim 0.00 GLASS ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $20.52

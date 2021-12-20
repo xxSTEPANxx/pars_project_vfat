@@ -1,0 +1,180 @@
+***************************** POLYGON NETWORK ******************************************
+    
+*************** 👨‍🌾 UNOFFICIAL HAMSTERPARTY FARMING CALCULATOR 👨‍🌾 **********************
+INFO  : https://hamsterparty.club
+****************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Fri Dec 17 2021 11:12:20 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 15 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [USDC]-[HAMSTER] Uni LP [+] [-] [<=>] Price: $560.32 TVL: $0.05
+USDC Price: $1.00
+HAMSTER Price: $0.0000000705
+Staked: 0.0001 UNI-V2 ($0.05)
+HAMSTER Per Week: 36000.00 ($0.00)
+APR: Day 0.68% Week 4.75% Year 246.86%
+You are staking 0.00 [USDC]-[HAMSTER] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[HAMSTER] Uni LP
+Unstake 0.00 [USDC]-[HAMSTER] Uni LP
+Claim 0.00 HAMSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WMATIC]-[HAMSTER] Uni LP [+] [-] [<=>] Price: $0.00 TVL: $0.05
+WMATIC Price: $2.04
+HAMSTER Price: $0.0000000705
+Staked: 67.4446 UNI-V2 ($0.05)
+HAMSTER Per Week: 28800.00 ($0.00)
+APR: Day 0.55% Week 3.85% Year 200.09%
+You are staking 0.00 [WMATIC]-[HAMSTER] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[HAMSTER] Uni LP
+Unstake 0.00 [WMATIC]-[HAMSTER] Uni LP
+Claim 0.00 HAMSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,725,841.97 TVL: $51,030,242.01
+WMATIC Price: $2.04
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.00)
+HAMSTER Per Week: 25200.00 ($0.00)
+APR: Day 4431700545.99% Week 31021903821.91% Year 1613138998739.48%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 HAMSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - HAMSTER Price: $0.0000000705 Market Cap: $0.09 [%]
+Staked: 407727.7249 HAMSTER ($0.03)
+HAMSTER Per Week: 18000.00 ($0.00)
+APR: Day 0.63% Week 4.41% Year 229.56%
+You are staking 0.00 HAMSTER ($0.00), 0.00% of the pool.
+Stake 0.00 HAMSTER
+Unstake 0.00 HAMSTER
+Claim 0.00 HAMSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDC]-[WETH] Uni LP [+] [-] [<=>] Price: $184,478,691.38 TVL: $80,305,173.96
+USDC Price: $1.00
+WETH Price: $3,886.61
+Staked: 0.0000 UNI-V2 ($0.89)
+HAMSTER Per Week: 21600.00 ($0.00)
+APR: Day 0.02% Week 0.17% Year 8.93%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 HAMSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [USDC]-[miMATIC] Uni LP [+] [-] [<=>] Price: $2,108,277.93 TVL: $28,400,284.89
+USDC Price: $1.00
+miMATIC Price: $0.98
+Staked: 0.0000 UNI-V2 ($27.93)
+HAMSTER Per Week: 21600.00 ($0.00)
+APR: Day 0.00% Week 0.01% Year 0.28%
+You are staking 0.00 [USDC]-[miMATIC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[miMATIC] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[miMATIC] Uni LP
+Claim 0.00 HAMSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [USDC]-[DAI] Uni LP [+] [-] [<=>] Price: $76,296,233.43 TVL: $7,276,812.36
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.0000 UNI-V2 ($3.89)
+HAMSTER Per Week: 21600.00 ($0.00)
+APR: Day 0.01% Week 0.04% Year 2.03%
+You are staking 0.00 [USDC]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAI] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[DAI] Uni LP
+Claim 0.00 HAMSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - WMATIC Price: $2.04 Market Cap: $622,318,376.30 [%]
+Staked: 0.0029 WMATIC ($0.01)
+HAMSTER Per Week: 14400.00 ($0.00)
+APR: Day 2.47% Week 17.28% Year 898.36%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 HAMSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - DAI Price: $1.00 Market Cap: $367,653,897.80 [%]
+Staked: 0.0010 DAI ($0.00)
+HAMSTER Per Week: 14400.00 ($0.00)
+APR: Day 14.52% Week 101.63% Year 5284.72%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 HAMSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - WETH Price: $3,886.61 Market Cap: $1,725,844,225.29 [%]
+Staked: 0.0003 WETH ($1.05)
+HAMSTER Per Week: 14400.00 ($0.00)
+APR: Day 0.01% Week 0.10% Year 5.05%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 HAMSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - WBTC Price: $47,088.00 Market Cap: $476,084,736.08 [%]
+Staked: 0.0000 WBTC ($0.63)
+HAMSTER Per Week: 14400.00 ($0.00)
+APR: Day 0.02% Week 0.16% Year 8.36%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 HAMSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - AAVE Price: $171.09 Market Cap: $46,561,258.55 [%]
+Staked: 0.0004 AAVE ($0.08)
+HAMSTER Per Week: 14400.00 ($0.00)
+APR: Day 0.19% Week 1.33% Year 69.34%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 HAMSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - QUICK Price: $239.86 Market Cap: $229,195,443.35 [%]
+Staked: 0.0000 QUICK ($0.00)
+HAMSTER Per Week: 14400.00 ($0.00)
+APR: Day 60452447232246.02% Week 423167130625722.13% Year 22004690792537552.00%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 HAMSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - USDT Price: $1.00 Market Cap: $319,750,498.33 [%]
+Staked: 0.0000 USDT ($0.00)
+HAMSTER Per Week: 14400.00 ($0.00)
+APR: Day 14500.12% Week 101500.87% Year 5278045.13%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 HAMSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - miMATIC Price: $0.98 Market Cap: $154,852,026.52 [%]
+Staked: 0.0000 miMATIC ($0.00)
+HAMSTER Per Week: 14400.00 ($0.00)
+APR: Day 14748669432886176.00% Week 103240686030203232.00% Year 5368515673570568192.00%
+You are staking 0.00 miMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 miMATIC - Fee 4%
+Unstake 0.00 miMATIC
+Claim 0.00 HAMSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $34.61

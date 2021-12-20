@@ -1,0 +1,224 @@
+***************************** POLYGON NETWORK *************************************
+
+*************** 👨‍🌾 UNOFFICIAL ONYX FARMS CALCULATOR 👨‍🌾 ***************************
+INFO  : https://polygon.onyx.farm/
+***********************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Thu Dec 16 2021 05:51:17 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 19 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [USDC]-[ONYX] Uni LP [+] [-] [<=>] Price: $69,243.95 TVL: $119.75
+USDC Price: $1.00
+ONYX Price: $0.000852
+Staked: 0.0006 UNI-V2 ($43.99)
+ONYX Per Week: 7592.73 ($6.47)
+APR: Day 2.10% Week 14.71% Year 764.97%
+You are staking 0.00 [USDC]-[ONYX] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[ONYX] Uni LP
+Unstake 0.00 [USDC]-[ONYX] Uni LP
+Claim 0.00 ONYX ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WMATIC]-[ONYX] Uni LP [+] [-] [<=>] Price: $0.10 TVL: $134.83
+WMATIC Price: $2.15
+ONYX Price: $0.000852
+Staked: 386.0007 UNI-V2 ($39.19)
+ONYX Per Week: 7592.73 ($6.47)
+APR: Day 2.36% Week 16.51% Year 858.63%
+You are staking 0.00 [WMATIC]-[ONYX] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[ONYX] Uni LP
+Unstake 0.00 [WMATIC]-[ONYX] Uni LP
+Claim 0.00 ONYX ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WMATIC]-[WETH] Uni LP [+] [-] [<=>] Price: $246.44 TVL: $110,447,031.35
+WMATIC Price: $2.15
+WETH Price: $4,037.95
+Staked: 0.0906 UNI-V2 ($22.33)
+ONYX Per Week: 366.55 ($0.31)
+APR: Day 0.20% Week 1.40% Year 72.76%
+You are staking 0.00 [WMATIC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[WETH] Uni LP
+Claim 0.00 ONYX ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,872,787.39 TVL: $52,318,332.42
+WMATIC Price: $2.15
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($36.05)
+ONYX Per Week: 366.55 ($0.31)
+APR: Day 0.12% Week 0.87% Year 45.07%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 ONYX ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDC]-[DAI] Uni LP [+] [-] [<=>] Price: $76,278,406.83 TVL: $7,329,458.67
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.0000 UNI-V2 ($25.19)
+ONYX Per Week: 366.55 ($0.31)
+APR: Day 0.18% Week 1.24% Year 64.50%
+You are staking 0.00 [USDC]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAI] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[DAI] Uni LP
+Claim 0.00 ONYX ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [USDC]-[WETH] Uni LP [+] [-] [<=>] Price: $187,979,511.60 TVL: $79,023,669.53
+USDC Price: $1.00
+WETH Price: $4,037.95
+Staked: 0.0000 UNI-V2 ($17.61)
+ONYX Per Week: 366.55 ($0.31)
+APR: Day 0.25% Week 1.77% Year 92.24%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 ONYX ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [WBTC]-[WETH] Uni LP [+] [-] [<=>] Price: $1,422,779,984,036.91 TVL: $53,005,817.93
+WBTC Price: $49,044.00
+WETH Price: $4,037.95
+Staked: 0.0000 UNI-V2 ($29.31)
+ONYX Per Week: 366.55 ($0.31)
+APR: Day 0.15% Week 1.07% Year 55.44%
+You are staking 0.00 [WBTC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [WBTC]-[WETH] Uni LP
+Claim 0.00 ONYX ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [WETH]-[USDT] Uni LP [+] [-] [<=>] Price: $3,142,304,492.75 TVL: $25,042,647.49
+WETH Price: $4,037.95
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($1,671.72)
+ONYX Per Week: 366.55 ($0.31)
+APR: Day 0.00% Week 0.02% Year 0.97%
+You are staking 0.00 [WETH]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[USDT] Uni LP - Fee 4%
+Unstake 0.00 [WETH]-[USDT] Uni LP
+Claim 0.00 ONYX ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - ONYX Price: $0.000852 Market Cap: $297.17 [%]
+Staked: 121750.9868 ONYX ($103.77)
+ONYX Per Week: 7330.91 ($6.25)
+APR: Day 0.86% Week 6.02% Year 313.10%
+You are staking 0.00 ONYX ($0.00), 0.00% of the pool.
+Stake 0.00 ONYX
+Unstake 0.00 ONYX
+Claim 0.00 ONYX ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - WMATIC Price: $2.15 Market Cap: $654,544,564.26 [%]
+Staked: 28.8000 WMATIC ($61.92)
+ONYX Per Week: 314.18 ($0.27)
+APR: Day 0.06% Week 0.43% Year 22.49%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 ONYX ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - USDC Price: $1.00 Market Cap: $943,395,526.17 [%]
+Staked: 36.9424 USDC ($36.94)
+ONYX Per Week: 314.18 ($0.27)
+APR: Day 0.10% Week 0.72% Year 37.69%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 ONYX ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - QUICK Price: $251.12 Market Cap: $239,952,211.27 [%]
+Staked: 0.0774 QUICK ($19.44)
+ONYX Per Week: 314.18 ($0.27)
+APR: Day 0.20% Week 1.38% Year 71.62%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 ONYX ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - DAI Price: $1.00 Market Cap: $374,131,149.78 [%]
+Staked: 180.5600 DAI ($180.56)
+ONYX Per Week: 314.18 ($0.27)
+APR: Day 0.02% Week 0.15% Year 7.71%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 ONYX ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - WETH Price: $4,037.95 Market Cap: $1,792,253,465.36 [%]
+Staked: 0.0084 WETH ($33.94)
+ONYX Per Week: 314.18 ($0.27)
+APR: Day 0.11% Week 0.79% Year 41.02%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 ONYX ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - WBTC Price: $49,044.00 Market Cap: $497,496,528.37 [%]
+Staked: 0.0103 WBTC ($505.71)
+ONYX Per Week: 314.18 ($0.27)
+APR: Day 0.01% Week 0.05% Year 2.75%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 ONYX ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - AAVE Price: $175.89 Market Cap: $47,880,662.98 [%]
+Staked: 0.1157 AAVE ($20.34)
+ONYX Per Week: 314.18 ($0.27)
+APR: Day 0.19% Week 1.32% Year 68.45%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 ONYX ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - miMATIC Price: $0.00 Market Cap: $0.00 
+Staked: 96.8472 miMATIC ($0.00)
+ONYX Per Week: 314.18 ($0.27)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 miMATIC ($0.00), NaN% of the pool.
+Stake 0.00 miMATIC - Fee 4%
+Unstake 0.00 miMATIC
+Claim 0.00 ONYX ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - KAVIAN Price: $0.00 Market Cap: $0.00 
+Staked: 1991.5643 KAVIAN ($0.00)
+ONYX Per Week: 785.45 ($0.67)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 KAVIAN ($0.00), NaN% of the pool.
+Stake 0.00 KAVIAN - Fee 2%
+Unstake 0.00 KAVIAN
+Claim 0.00 ONYX ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - KAVIANL2 Price: $0.00 Market Cap: $0.00 
+Staked: 2530.9881 KAVIANL2 ($0.00)
+ONYX Per Week: 785.45 ($0.67)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 KAVIANL2 ($0.00), NaN% of the pool.
+Stake 0.00 KAVIANL2 - Fee 2%
+Unstake 0.00 KAVIANL2
+Claim 0.00 ONYX ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $2,848.01

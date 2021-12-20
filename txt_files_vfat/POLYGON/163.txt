@@ -1,0 +1,122 @@
+***************************** POLYGON NETWORK ****************************************
+    
+*************** 👨‍🌾 UNOFFICIAL POLYGARDEN.FINANCE FARMING CALCULATOR 👨‍🌾 **************
+INFO  : https://www.polygarden.finance
+**************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Fri Dec 17 2021 10:38:24 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 13 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - APPLE Price: $0.0000568728 Market Cap: $580.08 [%]
+Staked: 5910162.7269 APPLE ($336.13)
+APPLE Per Week: 46601.94 ($2.65)
+APR: Day 0.11% Week 0.79% Year 41.00%
+You are staking 0.00 APPLE ($0.00), 0.00% of the pool.
+Stake 0.00 APPLE
+Unstake 0.00 APPLE
+Claim 0.00 APPLE ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - WMATIC Price: $2.03 Market Cap: $619,577,510.01 [%]
+Staked: 2968.2172 WMATIC ($6,025.48)
+APPLE Per Week: 22368.93 ($1.27)
+APR: Day 0.00% Week 0.02% Year 1.10%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 APPLE ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - AAVE Price: $171.04 Market Cap: $46,547,651.31 [%]
+Staked: 3.3510 AAVE ($573.16)
+APPLE Per Week: 22368.93 ($1.27)
+APR: Day 0.03% Week 0.22% Year 11.54%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 APPLE ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - WETH Price: $3,892.00 Market Cap: $1,728,084,262.83 [%]
+Staked: 0.0145 WETH ($56.43)
+APPLE Per Week: 22368.93 ($1.27)
+APR: Day 0.32% Week 2.25% Year 117.22%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 APPLE ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - WBTC Price: $47,008.00 Market Cap: $475,275,893.51 [%]
+Staked: 0.0131 WBTC ($614.73)
+APPLE Per Week: 22368.93 ($1.27)
+APR: Day 0.03% Week 0.21% Year 10.76%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 APPLE ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - QUICK Price: $240.88 Market Cap: $230,170,092.53 [%]
+Staked: 22.2252 QUICK ($5,353.60)
+APPLE Per Week: 22368.93 ($1.27)
+APR: Day 0.00% Week 0.02% Year 1.24%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 APPLE ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - USDC Price: $1.00 Market Cap: $951,398,866.26 [%]
+Staked: 64.3238 USDC ($64.26)
+APPLE Per Week: 22368.93 ($1.27)
+APR: Day 0.28% Week 1.98% Year 102.94%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 APPLE ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - LINK Price: $18.85 Market Cap: $32,779,234.32 [%]
+Staked: 119.8849 LINK ($2,259.83)
+APPLE Per Week: 22368.93 ($1.27)
+APR: Day 0.01% Week 0.06% Year 2.93%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 APPLE ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [WMATIC]-[APPLE] Uni LP [+] [-] [<=>] Price: $0.02 TVL: $251.44
+WMATIC Price: $2.03
+APPLE Price: $0.0000568728
+Staked: 6235.6838 UNI-V2 ($141.44)
+APPLE Per Week: 186407.77 ($10.60)
+APR: Day 1.07% Week 7.50% Year 389.77%
+You are staking 0.00 [WMATIC]-[APPLE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[APPLE] Uni LP
+Unstake 0.00 [WMATIC]-[APPLE] Uni LP
+Claim 0.00 APPLE ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [USDC]-[APPLE] Uni LP [+] [-] [<=>] Price: $15,935.42 TVL: $228.91
+USDC Price: $1.00
+APPLE Price: $0.0000568728
+Staked: 0.0076 UNI-V2 ($120.83)
+APPLE Per Week: 186407.77 ($10.60)
+APR: Day 1.25% Week 8.77% Year 456.23%
+You are staking 0.00 [USDC]-[APPLE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[APPLE] Uni LP
+Unstake 0.00 [USDC]-[APPLE] Uni LP
+Claim 0.00 APPLE ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $15,545.90

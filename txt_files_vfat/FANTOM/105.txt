@@ -1,0 +1,177 @@
+*************** 👨‍🌾 UNOFFICIAL MUN.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://mun-swap.com/
+*********************************************************************************
+
+Thu Dec 16 2021 07:58:21 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 15 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [WFTM]-[MUN] SPOOKY LP [+] [-] [<=>] Price: $1.10 TVL: $144.79
+WFTM Price: $1.52
+MUN Price: $0.19
+Staked: 13.8715 spLP ($15.28)
+MUN Per Week: 307.05 ($58.68)
+APR: Day 54.87% Week 384.09% Year 19972.79%
+You are staking 0.00 [WFTM]-[MUN] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[MUN] SPOOKY LP
+Unstake 0.00 [WFTM]-[MUN] SPOOKY LP
+Claim 0.00 MUN ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [USDC]-[MUN] SPOOKY LP [+] [-] [<=>] Price: $892,995.66 TVL: $228.31
+USDC Price: $1.00
+MUN Price: $0.19
+Staked: 0.0001 spLP ($72.49)
+MUN Per Week: 307.05 ($58.68)
+APR: Day 11.56% Week 80.95% Year 4209.26%
+You are staking 0.00 [USDC]-[MUN] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[MUN] SPOOKY LP
+Unstake 0.00 [USDC]-[MUN] SPOOKY LP
+Claim 0.00 MUN ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WFTM]-[BOO] SPOOKY LP [+] [-] [<=>] Price: $9.54 TVL: $51,307,758.41
+WFTM Price: $1.52
+BOO Price: $13.84
+Staked: 0.0000 spLP ($0.00)
+MUN Per Week: 92.12 ($17.60)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WFTM]-[BOO] SPOOKY LP ($0.00), NaN% of the pool.
+Stake 0.00 [WFTM]-[BOO] SPOOKY LP - Fee 3%
+Unstake 0.00 [WFTM]-[BOO] SPOOKY LP
+Claim 0.00 MUN ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WFTM]-[ETH] SPOOKY LP [+] [-] [<=>] Price: $172.90 TVL: $30,439,305.88
+WFTM Price: $1.52
+ETH Price: $4,018.21
+Staked: 0.0000 spLP ($0.00)
+MUN Per Week: 92.12 ($17.60)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WFTM]-[ETH] SPOOKY LP ($0.00), NaN% of the pool.
+Stake 0.00 [WFTM]-[ETH] SPOOKY LP - Fee 3%
+Unstake 0.00 [WFTM]-[ETH] SPOOKY LP
+Claim 0.00 MUN ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDC]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $3,547,146.52 TVL: $61,845,953.25
+USDC Price: $1.00
+WFTM Price: $1.52
+Staked: 0.0000 spLP ($7.57)
+MUN Per Week: 92.12 ($17.60)
+APR: Day 33.21% Week 232.45% Year 12087.53%
+You are staking 0.00 [USDC]-[WFTM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WFTM] SPOOKY LP - Fee 3%
+Unstake 0.00 [USDC]-[WFTM] SPOOKY LP
+Claim 0.00 MUN ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WFTM]-[BTC] SPOOKY LP [+] [-] [<=>] Price: $11,144,857,163.69 TVL: $18,497,329.83
+WFTM Price: $1.52
+BTC Price: $48,832.00
+Staked: 0.0000 spLP ($471.23)
+MUN Per Week: 92.12 ($17.60)
+APR: Day 0.53% Week 3.74% Year 194.24%
+You are staking 0.00 [WFTM]-[BTC] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BTC] SPOOKY LP - Fee 3%
+Unstake 0.00 [WFTM]-[BTC] SPOOKY LP
+Claim 0.00 MUN ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - MUN Price: $0.19 Market Cap: $611.50 
+Staked: 213.7994 MUN ($40.86)
+MUN Per Week: 276.35 ($52.81)
+APR: Day 18.47% Week 129.26% Year 6721.28%
+You are staking 0.00 MUN ($0.00), 0.00% of the pool.
+Stake 0.00 MUN
+Unstake 0.00 MUN
+Claim 0.00 MUN ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - WFTM Price: $1.52 Market Cap: $842,908,521.25 
+Staked: 0.0000 WFTM ($0.00)
+MUN Per Week: 92.12 ($17.60)
+APR: Day 6825046.99% Week 47775328.93% Year 2484317104.34%
+You are staking 0.00 WFTM ($0.00), 0.00% of the pool.
+Stake 0.00 WFTM - Fee 3%
+Unstake 0.00 WFTM
+Claim 0.00 MUN ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - USDC Price: $1.00 Market Cap: $391,121,598.40 
+Staked: 0.0000 USDC ($0.00)
+MUN Per Week: 92.12 ($17.60)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 USDC ($0.00), NaN% of the pool.
+Stake 0.00 USDC - Fee 3%
+Unstake 0.00 USDC
+Claim 0.00 MUN ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - ETH Price: $4,018.21 Market Cap: $371,016,164.75 
+Staked: 0.0031 ETH ($12.53)
+MUN Per Week: 92.12 ($17.60)
+APR: Day 20.07% Week 140.48% Year 7304.75%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 3%
+Unstake 0.00 ETH
+Claim 0.00 MUN ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - BTC Price: $48,832.00 Market Cap: $287,715,860.59 
+Staked: 0.0003 BTC ($16.51)
+MUN Per Week: 92.12 ($17.60)
+APR: Day 15.23% Week 106.60% Year 5543.34%
+You are staking 0.00 BTC ($0.00), 0.00% of the pool.
+Stake 0.00 BTC - Fee 3%
+Unstake 0.00 BTC
+Claim 0.00 MUN ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - DAI Price: $1.00 Market Cap: $306,209,780.22 
+Staked: 0.0000 DAI ($0.00)
+MUN Per Week: 92.12 ($17.60)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 DAI ($0.00), NaN% of the pool.
+Stake 0.00 DAI - Fee 3%
+Unstake 0.00 DAI
+Claim 0.00 MUN ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - fUSDT Price: $1.00 Market Cap: $222,058,102.00 
+Staked: 0.0970 fUSDT ($0.10)
+MUN Per Week: 92.12 ($17.60)
+APR: Day 2592.46% Week 18147.24% Year 943656.57%
+You are staking 0.00 fUSDT ($0.00), 0.00% of the pool.
+Stake 0.00 fUSDT - Fee 3%
+Unstake 0.00 fUSDT
+Claim 0.00 MUN ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - BNB Price: $531.99 Market Cap: $12,275,570.88 
+Staked: 0.0330 BNB ($17.56)
+MUN Per Week: 92.12 ($17.60)
+APR: Day 14.32% Week 100.26% Year 5213.44%
+You are staking 0.00 BNB ($0.00), 0.00% of the pool.
+Stake 0.00 BNB - Fee 3%
+Unstake 0.00 BNB
+Claim 0.00 MUN ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - BOO Price: $13.84 Market Cap: $109,263,531.23 
+Staked: 2.9201 BOO ($40.41)
+MUN Per Week: 92.12 ($17.60)
+APR: Day 6.22% Week 43.56% Year 2264.91%
+You are staking 0.00 BOO ($0.00), 0.00% of the pool.
+Stake 0.00 BOO - Fee 3%
+Unstake 0.00 BOO
+Claim 0.00 MUN ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $694.54

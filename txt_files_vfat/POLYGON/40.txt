@@ -1,0 +1,80 @@
+***************************** POLYGON NETWORK ********************************************
+
+*************** 👨‍🌾 UNOFFICIAL POLYPUNK FINANCE FARMING CALCULATOR 👨‍🌾 ****************
+INFO  : https://polypunk.finance
+******************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Fri Dec 17 2021 09:26:09 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 6 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [USDC]-[PPNK] Uni LP [+] [-] [<=>] Price: $6,929.83 TVL: $29.11
+USDC Price: $1.00
+PPNK Price: $0.0000105228
+Staked: 0.0041 UNI-V2 ($28.58)
+PP Per Week: 159157.89 ($1.67)
+APR: Day 0.84% Week 5.86% Year 304.74%
+You are staking 0.00 [USDC]-[PPNK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[PPNK] Uni LP
+Unstake 0.00 [USDC]-[PPNK] Uni LP
+Claim 0.00 PP ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - WETH Price: $3,955.04 Market Cap: $1,755,716,651.72 [%]
+Staked: 0.0027 WETH ($10.78)
+PP Per Week: 31831.58 ($0.33)
+APR: Day 0.44% Week 3.11% Year 161.53%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 PP ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - USDC Price: $1.00 Market Cap: $951,679,123.32 [%]
+Staked: 817.6280 USDC ($817.17)
+PP Per Week: 31831.58 ($0.33)
+APR: Day 0.01% Week 0.04% Year 2.13%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 PP ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - QUICK Price: $244.93 Market Cap: $234,040,023.10 [%]
+Staked: 0.0245 QUICK ($5.99)
+PP Per Week: 23873.68 ($0.25)
+APR: Day 0.60% Week 4.19% Year 217.98%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 PP ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - WMATIC Price: $2.10 Market Cap: $639,987,181.35 [%]
+Staked: 1008.3351 WMATIC ($2,117.50)
+PP Per Week: 31831.58 ($0.33)
+APR: Day 0.00% Week 0.02% Year 0.82%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 PP ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - DAI Price: $1.00 Market Cap: $367,631,170.58 [%]
+Staked: 970.2858 DAI ($970.29)
+PP Per Week: 23873.68 ($0.25)
+APR: Day 0.00% Week 0.03% Year 1.35%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 PP ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $3,950.32

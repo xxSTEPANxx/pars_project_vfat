@@ -1,12 +1,13 @@
 from selenium import webdriver
+from selenium.webdriver.common.by import By
 from json import dump, load
 
 def get_all_projects(driver):
-    nets_to_find = driver.find_element_by_xpath('/html/body/div[3]')
+    nets_to_find = driver.find_element(By.XPATH, '/html/body/div[3]')
+    # nets_to_find = driver.find_element_by_xpath('/html/body/div[3]')
     net_names = nets_to_find.text.split(' - ')[1:]
 
-    net_links = []
-    links_10 = driver.find_elements_by_tag_name('a')
+    links_10 = driver.find_elements(By.TAG_NAME, 'a')
 
     net_links = [links_10[i].get_attribute('href') for i in range(2, len(net_names) + 2)]
 
@@ -15,8 +16,9 @@ def get_all_projects(driver):
         url = net_links[i]
         driver.get(url)
 
-        b = driver.find_element_by_xpath('//*[@id="log"]')
-        b = (b.find_elements_by_link_text('Various'))
+        b = driver.find_element(By.XPATH, '//*[@id="log"]')
+        b = (b.find_elements(By.LINK_TEXT, 'Various'))
+        # b = (b.find_elements_by_link_text('Various'))
         b = [i.get_attribute('href') for i in b]
         all_projects_all_nets[net_names[i]] = b
 

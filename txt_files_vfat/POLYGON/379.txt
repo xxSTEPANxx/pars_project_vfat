@@ -1,0 +1,186 @@
+*************** 👨‍🌾 UNOFFICIAL FLEROVIUM.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://flerovium.finance
+**************************************************************************************
+
+Thu Dec 16 2021 06:01:39 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 16 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - FLEROVIUM Price: $0.00 Market Cap: $0.00 
+Staked: 8448.7306 FLEROVIUM ($0.00)
+FLEROVIUM Per Week: 626.09 ($0.05)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FLEROVIUM ($0.00), NaN% of the pool.
+Stake 0.00 FLEROVIUM
+Unstake 0.00 FLEROVIUM
+Claim 0.00 FLEROVIUM ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [USDC]-[FLEROVIUM] Uni LP [+] [-] [<=>] Price: $18,520.15 TVL: $0.83
+USDC Price: $1.00
+FLEROVIUM Price: $0.0000833187
+Staked: 0.0000 UNI-V2 ($0.07)
+FLEROVIUM Per Week: 626.09 ($0.05)
+APR: Day 9.97% Week 69.76% Year 3627.75%
+You are staking 0.00 [USDC]-[FLEROVIUM] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[FLEROVIUM] Uni LP
+Unstake 0.00 [USDC]-[FLEROVIUM] Uni LP
+Claim 0.00 FLEROVIUM ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,872,818.12 TVL: $52,321,428.80
+WMATIC Price: $2.15
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.00)
+FLEROVIUM Per Week: 75.13 ($0.01)
+APR: Day 15226986938.27% Week 106588908567.91% Year 5542623245531.18%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 FLEROVIUM ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WMATIC]-[FLEROVIUM] Uni LP [+] [-] [<=>] Price: $0.03 TVL: $0.09
+WMATIC Price: $2.15
+FLEROVIUM Price: $0.0000833187
+Staked: 2.3818 UNI-V2 ($0.06)
+FLEROVIUM Per Week: 626.09 ($0.05)
+APR: Day 11.58% Week 81.04% Year 4214.29%
+You are staking 0.00 [WMATIC]-[FLEROVIUM] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[FLEROVIUM] Uni LP
+Unstake 0.00 [WMATIC]-[FLEROVIUM] Uni LP
+Claim 0.00 FLEROVIUM ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - WMATIC Price: $2.15 Market Cap: $654,645,370.10 [%]
+Staked: 0.4820 WMATIC ($1.04)
+FLEROVIUM Per Week: 100.17 ($0.01)
+APR: Day 0.12% Week 0.81% Year 41.88%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 FLEROVIUM ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - USDT Price: $1.00 Market Cap: $313,461,279.68 [%]
+Staked: 0.0000 USDT ($0.00)
+FLEROVIUM Per Week: 100.17 ($0.01)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 USDT ($0.00), NaN% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 FLEROVIUM ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - USDC Price: $1.00 Market Cap: $943,519,201.53 [%]
+Staked: 0.0000 USDC ($0.00)
+FLEROVIUM Per Week: 100.17 ($0.01)
+APR: Day 119233.77% Week 834636.36% Year 43401090.95%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 FLEROVIUM ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - WBTC Price: $49,051.00 Market Cap: $497,567,535.54 [%]
+Staked: 0.0000 WBTC ($0.11)
+FLEROVIUM Per Week: 75.13 ($0.01)
+APR: Day 0.80% Week 5.60% Year 291.06%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 FLEROVIUM ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - WETH Price: $4,038.49 Market Cap: $1,792,575,186.94 [%]
+Staked: 0.0001 WETH ($0.39)
+FLEROVIUM Per Week: 75.13 ($0.01)
+APR: Day 0.23% Week 1.61% Year 83.96%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 FLEROVIUM ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - LINK Price: $19.98 Market Cap: $34,653,375.95 [%]
+Staked: 0.0000 LINK ($0.00)
+FLEROVIUM Per Week: 62.61 ($0.01)
+APR: Day 3729784983670584.50% Week 26108494885694092.00% Year 1357641734056092672.00%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 FLEROVIUM ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - QUICK Price: $251.15 Market Cap: $239,980,877.11 [%]
+Staked: 0.0003 QUICK ($0.09)
+FLEROVIUM Per Week: 62.61 ($0.01)
+APR: Day 0.86% Week 5.99% Year 311.37%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 FLEROVIUM ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - AAVE Price: $175.91 Market Cap: $47,886,107.36 [%]
+Staked: 0.0000 AAVE ($0.00)
+FLEROVIUM Per Week: 62.61 ($0.01)
+APR: Day 423631993483817.19% Week 2965423954386720.50% Year 154202045628109472.00%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 FLEROVIUM ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - DAI Price: $1.00 Market Cap: $374,131,149.78 [%]
+Staked: 0.1424 DAI ($0.14)
+FLEROVIUM Per Week: 37.57 ($0.00)
+APR: Day 0.31% Week 2.20% Year 114.27%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 FLEROVIUM ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [USDC]-[USDT] Uni LP [+] [-] [<=>] Price: $2,624,552,950,347.75 TVL: $24,542,822.79
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.54)
+FLEROVIUM Per Week: 100.17 ($0.01)
+APR: Day 0.22% Week 1.53% Year 79.64%
+You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[USDT] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[USDT] Uni LP
+Claim 0.00 FLEROVIUM ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [USDC]-[WETH] Uni LP [+] [-] [<=>] Price: $187,992,124.62 TVL: $79,028,974.36
+USDC Price: $1.00
+WETH Price: $4,038.49
+Staked: 0.0000 UNI-V2 ($0.84)
+FLEROVIUM Per Week: 75.13 ($0.01)
+APR: Day 0.11% Week 0.74% Year 38.53%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 FLEROVIUM ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [USDC]-[DAI] Uni LP [+] [-] [<=>] Price: $76,278,628.74 TVL: $7,329,485.13
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.51)
+FLEROVIUM Per Week: 75.13 ($0.01)
+APR: Day 0.18% Week 1.23% Year 63.95%
+You are staking 0.00 [USDC]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAI] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[DAI] Uni LP
+Claim 0.00 FLEROVIUM ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $3.80

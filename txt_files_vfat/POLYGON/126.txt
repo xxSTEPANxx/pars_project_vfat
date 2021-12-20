@@ -1,0 +1,134 @@
+***************************** POLYGON NETWORK *****************************************
+
+*************** 👨‍🌾 UNOFFICIAL FAIRY FARMING CALCULATOR 👨‍🌾 *************************
+INFO  : https://fairyfarming.world/
+***************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Fri Dec 17 2021 10:19:28 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 12 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [Fairy]-[USDC] Uni LP [+] [-] [<=>] Price: $2,119.61 TVL: $6.42
+Fairy Price: $0.0000006221
+USDC Price: $1.00
+Staked: 0.0030 UNI-V2 ($6.26)
+FAIRY Per Week: 373740.46 ($0.23)
+APR: Day 0.53% Week 3.72% Year 193.21%
+You are staking 0.00 [Fairy]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Fairy]-[USDC] Uni LP
+Unstake 0.00 [Fairy]-[USDC] Uni LP
+Claim 0.00 FAIRY ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - UNI-V2 Price: $0.00 Market Cap: $0.00 
+Staked: 1261.0497 UNI-V2 ($0.00)
+FAIRY Per Week: 351755.73 ($0.22)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 UNI-V2 ($0.00), NaN% of the pool.
+Stake 0.00 UNI-V2
+Unstake 0.00 UNI-V2
+Claim 0.00 FAIRY ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,725,467.46 TVL: $51,037,750.61
+WMATIC Price: $2.05
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($148.24)
+FAIRY Per Week: 219847.33 ($0.14)
+APR: Day 0.01% Week 0.09% Year 4.80%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 FAIRY ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - Fairy Price: $0.0000006221 Market Cap: $27.71 [%]
+Staked: 26301567.8584 Fairy ($16.36)
+FAIRY Per Week: 263816.79 ($0.16)
+APR: Day 0.14% Week 1.00% Year 52.16%
+You are staking 0.00 Fairy ($0.00), 0.00% of the pool.
+Stake 0.00 Fairy
+Unstake 0.00 Fairy
+Claim 0.00 FAIRY ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - WMATIC Price: $2.05 Market Cap: $625,768,885.20 [%]
+Staked: 143.4551 WMATIC ($294.08)
+FAIRY Per Week: 219847.33 ($0.14)
+APR: Day 0.01% Week 0.05% Year 2.42%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 FAIRY ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - DAI Price: $1.00 Market Cap: $366,279,090.69 [%]
+Staked: 1.1040 DAI ($1.10)
+FAIRY Per Week: 197862.60 ($0.12)
+APR: Day 1.60% Week 11.19% Year 581.96%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 FAIRY ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - USDC Price: $1.00 Market Cap: $947,443,749.82 [%]
+Staked: 0.0000 USDC ($0.00)
+FAIRY Per Week: 285801.53 ($0.18)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 USDC ($0.00), NaN% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 FAIRY ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - WETH Price: $3,896.25 Market Cap: $1,729,957,186.53 [%]
+Staked: 0.0131 WETH ($51.16)
+FAIRY Per Week: 219847.33 ($0.14)
+APR: Day 0.04% Week 0.27% Year 13.90%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 FAIRY ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - QUICK Price: $241.20 Market Cap: $230,475,864.82 [%]
+Staked: 0.0096 QUICK ($2.32)
+FAIRY Per Week: 197862.60 ($0.12)
+APR: Day 0.76% Week 5.32% Year 276.43%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 FAIRY ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - USDT Price: $1.00 Market Cap: $318,202,586.16 [%]
+Staked: 0.0000 USDT ($0.00)
+FAIRY Per Week: 263816.79 ($0.16)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 USDT ($0.00), NaN% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 FAIRY ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [USDC]-[DAI] Uni LP [+] [-] [<=>] Price: $75,962,689.33 TVL: $7,244,956.71
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.0000 UNI-V2 ($5.50)
+FAIRY Per Week: 285801.53 ($0.18)
+APR: Day 0.46% Week 3.23% Year 168.02%
+You are staking 0.00 [USDC]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAI] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[DAI] Uni LP
+Claim 0.00 FAIRY ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $525.02

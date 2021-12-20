@@ -1,0 +1,96 @@
+***************************** POLYGON NETWORK *****************************************
+    
+*************** 👨‍🌾 POLYCACTUS FARMING CALCULATOR 👨‍🌾 ****************
+INFO  : https://polycactus.com
+***************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Fri Dec 17 2021 10:25:35 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 7 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [CACTUS]-[USDC] Uni LP [+] [-] [<=>] Price: $7,633.40 TVL: $0.09
+CACTUS Price: $0.0000131105
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.04)
+CACTUS Per Week: 546.84 ($0.01)
+APR: Day 2.61% Week 18.24% Year 948.68%
+You are staking 0.00 [CACTUS]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CACTUS]-[USDC] Uni LP
+Unstake 0.00 [CACTUS]-[USDC] Uni LP
+Claim 0.00 CACTUS ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [CACTUS]-[WMATIC] Uni LP [+] [-] [<=>] Price: $0.01 TVL: $0.11
+CACTUS Price: $0.0000131105
+WMATIC Price: $2.04
+Staked: 9.2064 UNI-V2 ($0.10)
+CACTUS Per Week: 546.84 ($0.01)
+APR: Day 1.02% Week 7.13% Year 370.50%
+You are staking 0.00 [CACTUS]-[WMATIC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CACTUS]-[WMATIC] Uni LP
+Unstake 0.00 [CACTUS]-[WMATIC] Uni LP
+Claim 0.00 CACTUS ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - CACTUS Price: $0.0000131105 Market Cap: $0.36 [%]
+Staked: 10418.2936 CACTUS ($0.14)
+CACTUS Per Week: 546.84 ($0.01)
+APR: Day 0.75% Week 5.25% Year 272.94%
+You are staking 0.00 CACTUS ($0.00), 0.00% of the pool.
+Stake 0.00 CACTUS
+Unstake 0.00 CACTUS
+Claim 0.00 CACTUS ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,712,280.57 TVL: $50,920,236.92
+WMATIC Price: $2.04
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.00)
+CACTUS Per Week: 255.19 ($0.00)
+APR: Day 31.77% Week 222.39% Year 11564.18%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 CACTUS ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - WMATIC Price: $2.04 Market Cap: $622,663,062.28 [%]
+Staked: 0.1450 WMATIC ($0.30)
+CACTUS Per Week: 546.84 ($0.01)
+APR: Day 0.35% Week 2.42% Year 126.02%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 CACTUS ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [USDC]-[USDT] Uni LP [+] [-] [<=>] Price: $2,614,190,907,795.46 TVL: $23,998,600.11
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($19.64)
+CACTUS Per Week: 255.19 ($0.00)
+APR: Day 0.00% Week 0.02% Year 0.89%
+You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[USDT] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[USDT] Uni LP
+Claim 0.00 CACTUS ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - WETH Price: $3,889.56 Market Cap: $1,726,992,611.69 [%]
+Staked: 0.0000 WETH ($0.00)
+CACTUS Per Week: 182.28 ($0.00)
+APR: Day 1809.97% Week 12669.77% Year 658827.92%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 CACTUS ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $20.22

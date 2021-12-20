@@ -1,0 +1,144 @@
+***************************** POLYGON NETWORK *********************************
+    
+*************** 👨‍🌾 UNOFFICIAL SUNCRYPTO FARMING CALCULATOR 👨‍🌾 ******************
+INFO  :  https://suncrypto.finance/
+*******************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Thu Dec 16 2021 04:47:37 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 12 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - SUN Price: $0.00 Market Cap: $0.00 
+Staked: 5850.0625 SUN ($0.00)
+SUN Per Week: 232.26 ($0.75)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SUN ($0.00), NaN% of the pool.
+Stake 0.00 SUN
+Unstake 0.00 SUN
+Claim 0.00 SUN ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - WETH Price: $4,045.59 Market Cap: $1,795,525,917.00 [%]
+Staked: 0.0008 WETH ($3.40)
+SUN Per Week: 77.42 ($0.25)
+APR: Day 1.05% Week 7.37% Year 383.28%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 SUN ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - CAP Price: $0.00 Market Cap: $0.00 
+Staked: 2400.2527 CAP ($0.00)
+SUN Per Week: 77.42 ($0.25)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 CAP ($0.00), NaN% of the pool.
+Stake 0.00 CAP
+Unstake 0.00 CAP
+Claim 0.00 SUN ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - WBTC Price: $48,941.00 Market Cap: $496,402,783.17 [%]
+Staked: 0.0003 WBTC ($14.71)
+SUN Per Week: 77.42 ($0.25)
+APR: Day 0.24% Week 1.70% Year 88.58%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 SUN ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - SUSHI Price: $5.92 Market Cap: $3,231,699.24 [%]
+Staked: 0.4855 SUSHI ($2.87)
+SUN Per Week: 46.45 ($0.15)
+APR: Day 0.75% Week 5.23% Year 271.92%
+You are staking 0.00 SUSHI ($0.00), 0.00% of the pool.
+Stake 0.00 SUSHI - Fee 4%
+Unstake 0.00 SUSHI
+Claim 0.00 SUN ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - QUICK Price: $252.13 Market Cap: $240,919,697.27 [%]
+Staked: 0.0112 QUICK ($2.81)
+SUN Per Week: 46.45 ($0.15)
+APR: Day 0.76% Week 5.34% Year 277.80%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 SUN ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - AAVE Price: $174.39 Market Cap: $47,472,333.94 [%]
+Staked: 0.0633 AAVE ($11.03)
+SUN Per Week: 46.45 ($0.15)
+APR: Day 0.19% Week 1.36% Year 70.83%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 SUN ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - USDC Price: $1.00 Market Cap: $943,428,768.41 [%]
+Staked: 110.1664 USDC ($110.17)
+SUN Per Week: 30.97 ($0.10)
+APR: Day 0.01% Week 0.09% Year 4.73%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 SUN ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - DAI Price: $1.00 Market Cap: $374,104,232.00 [%]
+Staked: 6.7391 DAI ($6.74)
+SUN Per Week: 30.97 ($0.10)
+APR: Day 0.21% Week 1.49% Year 77.32%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 SUN ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [WBTC]-[WETH] Uni LP [+] [-] [<=>] Price: $1,422,629,497,038.38 TVL: $52,999,776.89
+WBTC Price: $48,941.00
+WETH Price: $4,045.59
+Staked: 0.0000 UNI-V2 ($196.34)
+SUN Per Week: 154.84 ($0.50)
+APR: Day 0.04% Week 0.26% Year 13.27%
+You are staking 0.00 [WBTC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [WBTC]-[WETH] Uni LP
+Claim 0.00 SUN ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [USDC]-[SUN] Uni LP [+] [-] [<=>] Price: $131,702.28 TVL: $40.67
+USDC Price: $1.00
+SUN Price: $0.003236
+Staked: 0.0001 UNI-V2 ($10.05)
+SUN Per Week: 309.68 ($1.00)
+APR: Day 1.42% Week 9.97% Year 518.42%
+You are staking 0.00 [USDC]-[SUN] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[SUN] Uni LP
+Unstake 0.00 [USDC]-[SUN] Uni LP
+Claim 0.00 SUN ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [WMATIC]-[SUN] Uni LP [+] [-] [<=>] Price: $0.19 TVL: $14.94
+WMATIC Price: $2.15
+SUN Price: $0.003236
+Staked: 30.0034 UNI-V2 ($5.55)
+SUN Per Week: 309.68 ($1.00)
+APR: Day 2.58% Week 18.04% Year 938.00%
+You are staking 0.00 [WMATIC]-[SUN] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[SUN] Uni LP
+Unstake 0.00 [WMATIC]-[SUN] Uni LP
+Claim 0.00 SUN ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $363.68

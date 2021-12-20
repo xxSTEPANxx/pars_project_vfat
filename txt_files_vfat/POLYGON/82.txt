@@ -1,0 +1,55 @@
+***************************** POLYGON NETWORK *********************************************
+    
+*************** 👨‍🌾 UNOFFICIAL MUSEUMOFCRYPTOART FARMING CALCULATOR 👨‍🌾 ********************
+INFO  : https://museumofcryptoart.com
+*******************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Fri Dec 17 2021 09:49:32 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+MOCA Price: $5.77 Market Cap: $26,051,489.24 [%]
+Staked: 10209.1984 MOCA ($58,903.64)
+MOCA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 MOCA $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 MOCA
+Unstake 0.000000 MOCA
+Claim 0.000000 MOCA ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[WETH]-[MOCA] Uni LP [+] [-] [<=>] Price: $307.25 TVL: $1,203,803.13
+WETH Price: $3,948.79
+MOCA Price: $5.77
+Staked: 1.7798 UNI-V2 ($546.86)
+MOCA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [WETH]-[MOCA] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [WETH]-[MOCA] Uni LP
+Unstake 0.000000 [WETH]-[MOCA] Uni LP
+Claim 0.000000 MOCA ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[USDC]-[MOCA] Uni LP [+] [-] [<=>] Price: $4,886,714.08 TVL: $885,946.61
+USDC Price: $1.00
+MOCA Price: $5.77
+Staked: 0.0010 UNI-V2 ($4,933.48)
+MOCA Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [USDC]-[MOCA] Uni LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [USDC]-[MOCA] Uni LP
+Unstake 0.000000 [USDC]-[MOCA] Uni LP
+Claim 0.000000 MOCA ($0.00)
+Revoke (set approval to 0)
+Exit
+
+Total staked: $64,383.98

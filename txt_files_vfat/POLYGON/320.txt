@@ -1,0 +1,104 @@
+***************************** POLYGON NETWORK ***********************************************
+    
+*************** 👨‍🌾 UNOFFICIAL WATERSPORTS.FINANCE FARMING CALCULATOR 👨‍🌾 ********************
+INFO  : https://watersports.finance
+*********************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Thu Dec 16 2021 05:31:41 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 8 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - WATER Price: $0.007055 Market Cap: $23.62 [%]
+Staked: 391.9012 WATER ($2.76)
+WATER Per Week: 110.77 ($0.78)
+APR: Day 4.04% Week 28.26% Year 1469.76%
+You are staking 0.00 WATER ($0.00), 0.00% of the pool.
+Stake 0.00 WATER
+Unstake 0.00 WATER
+Claim 0.00 WATER ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WATER]-[USDC] Uni LP [+] [-] [<=>] Price: $170,190.84 TVL: $37.87
+WATER Price: $0.007055
+USDC Price: $1.00
+Staked: 0.0002 UNI-V2 ($37.20)
+WATER Per Week: 110.77 ($0.78)
+APR: Day 0.30% Week 2.10% Year 109.23%
+You are staking 0.00 [WATER]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WATER]-[USDC] Uni LP
+Unstake 0.00 [WATER]-[USDC] Uni LP
+Claim 0.00 WATER ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - WBTC Price: $49,019.00 Market Cap: $497,242,931.33 [%]
+Staked: 0.0000 WBTC ($0.04)
+WATER Per Week: 11.08 ($0.08)
+APR: Day 25.03% Week 175.18% Year 9109.59%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 WATER ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,859,086.90 TVL: $52,195,570.80
+WMATIC Price: $2.14
+USDC Price: $1.00
+Staked: 0.0001 UNI-V2 ($376.49)
+WATER Per Week: 11.08 ($0.08)
+APR: Day 0.00% Week 0.02% Year 1.08%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 WATER ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - USDC Price: $1.00 Market Cap: $943,569,936.81 [%]
+Staked: 0.9742 USDC ($0.97)
+WATER Per Week: 11.08 ($0.08)
+APR: Day 1.15% Week 8.02% Year 417.12%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 WATER ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [USDC]-[USDT] Uni LP [+] [-] [<=>] Price: $2,623,986,228,465.50 TVL: $24,540,643.87
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.20)
+WATER Per Week: 11.08 ($0.08)
+APR: Day 5.62% Week 39.33% Year 2045.13%
+You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[USDT] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[USDT] Uni LP
+Claim 0.00 WATER ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - USDT Price: $1.00 Market Cap: $313,305,761.08 [%]
+Staked: 13.4026 USDT ($13.40)
+WATER Per Week: 11.08 ($0.08)
+APR: Day 0.08% Week 0.58% Year 30.33%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 WATER ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - WETH Price: $4,039.20 Market Cap: $1,792,771,238.84 [%]
+Staked: 0.0000 WETH ($0.01)
+WATER Per Week: 11.08 ($0.08)
+APR: Day 99.81% Week 698.69% Year 36332.01%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 WATER ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $431.09

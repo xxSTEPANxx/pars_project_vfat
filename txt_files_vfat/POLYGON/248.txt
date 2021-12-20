@@ -1,0 +1,124 @@
+***************************** POLYGON NETWORK *******************************************
+
+*************** 👨‍🌾 UNOFFICIAL TIMELEAP.FINANCE FARMING CALCULATOR 👨‍🌾 ******************
+INFO  : https://timeleap.finance
+*****************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Thu Dec 16 2021 04:52:39 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 29 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+1 - [WMATIC]-[TIME] Uni LP [+] [-] [<=>] Price: $2.14 TVL: $8,706.05
+WMATIC Price: $2.15
+TIME Price: $0.44
+Staked: 158.4063 UNI-V2 ($339.31)
+TIME Per Week: 29.39 ($12.80)
+APR: Day 0.54% Week 3.77% Year 196.20%
+You are staking 0.00 [WMATIC]-[TIME] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[TIME] Uni LP
+Unstake 0.00 [WMATIC]-[TIME] Uni LP
+Claim 0.00 TIME ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - WMATIC Price: $2.15 Market Cap: $653,267,981.98 [%]
+Staked: 0.0052 WMATIC ($0.01)
+TIME Per Week: 29.39 ($12.80)
+APR: Day 16254.43% Week 113781.01% Year 5916612.44%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 TIME ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - USDC Price: $1.00 Market Cap: $943,422,203.65 [%]
+Staked: 958.8508 USDC ($958.85)
+TIME Per Week: 29.39 ($12.80)
+APR: Day 0.19% Week 1.34% Year 69.43%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 TIME ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - USDT Price: $1.00 Market Cap: $313,197,937.75 [%]
+Staked: 4.3550 USDT ($4.35)
+TIME Per Week: 29.39 ($12.80)
+APR: Day 42.03% Week 294.20% Year 15298.33%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 TIME ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - DAI Price: $1.00 Market Cap: $374,104,232.00 [%]
+Staked: 48.3356 DAI ($48.34)
+TIME Per Week: 29.39 ($12.80)
+APR: Day 3.78% Week 26.49% Year 1377.30%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 TIME ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - WETH Price: $4,045.71 Market Cap: $1,795,582,939.07 [%]
+Staked: 0.0036 WETH ($14.40)
+TIME Per Week: 29.39 ($12.80)
+APR: Day 12.70% Week 88.90% Year 4622.71%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 TIME ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - WBTC Price: $48,915.00 Market Cap: $496,139,068.24 [%]
+Staked: 0.0011 WBTC ($56.24)
+TIME Per Week: 29.39 ($12.80)
+APR: Day 3.25% Week 22.76% Year 1183.68%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 TIME ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - LINK Price: $19.96 Market Cap: $34,618,687.89 [%]
+Staked: 0.0220 LINK ($0.44)
+TIME Per Week: 7.35 ($3.20)
+APR: Day 104.26% Week 729.85% Year 37952.06%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 TIME ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - [TIME]-[WETH] Uni LP [+] [-] [<=>] Price: $85.21 TVL: $14,779.41
+TIME Price: $0.44
+WETH Price: $4,045.71
+Staked: 0.0000 pWINGS-LP ($0.00)
+TIME Per Week: 73.47 ($32.01)
+APR: Day 1420702.16% Week 9944915.09% Year 517135584.64%
+You are staking 0.00 [TIME]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TIME]-[WETH] Uni LP
+Unstake 0.00 [TIME]-[WETH] Uni LP
+Claim 0.00 TIME ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - [USDC]-[TIME] Uni LP [+] [-] [<=>] Price: $29,822,606.46 TVL: $20,630.28
+USDC Price: $1.00
+TIME Price: $0.44
+Staked: 0.0000 pWINGS-LP ($22.94)
+TIME Per Week: 73.47 ($32.01)
+APR: Day 19.93% Week 139.54% Year 7255.84%
+You are staking 0.00 [USDC]-[TIME] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[TIME] Uni LP
+Unstake 0.00 [USDC]-[TIME] Uni LP
+Claim 0.00 TIME ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $1,444.88

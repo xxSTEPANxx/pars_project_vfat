@@ -1,0 +1,92 @@
+***************************** POLYGON NETWORK ********************************************
+
+*************** 👨‍🌾 UNOFFICIAL PIRATE DICE FARMING CALCULATOR 👨‍🌾 ****************
+INFO  : https://piratedice.xyz
+******************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Fri Dec 17 2021 09:42:07 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 10 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [USDC]-[BOOTY] Uni LP [+] [-] [<=>] Price: $471,487.45 TVL: $12,315.32
+USDC Price: $1.00
+BOOTY Price: $0.04
+Staked: 0.0252 UNI-V2 ($11,865.61)
+booty Per Week: 1128.36 ($46.56)
+APR: Day 0.06% Week 0.39% Year 20.41%
+You are staking 0.00 [USDC]-[BOOTY] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BOOTY] Uni LP
+Unstake 0.00 [USDC]-[BOOTY] Uni LP
+Claim 0.00 booty ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - USDC Price: $1.00 Market Cap: $951,441,189.55 [%]
+Staked: 7427.3141 USDC ($7,421.44)
+booty Per Week: 180.54 ($7.45)
+APR: Day 0.01% Week 0.10% Year 5.22%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 booty ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - WETH Price: $3,947.17 Market Cap: $1,752,396,941.16 [%]
+Staked: 0.1757 WETH ($693.67)
+booty Per Week: 180.54 ($7.45)
+APR: Day 0.15% Week 1.07% Year 55.85%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 booty ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - WMATIC Price: $2.09 Market Cap: $636,969,289.87 [%]
+Staked: 2574.0333 WMATIC ($5,379.73)
+booty Per Week: 135.40 ($5.59)
+APR: Day 0.01% Week 0.10% Year 5.40%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 booty ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [WMATIC]-[BOOTY] Uni LP [+] [-] [<=>] Price: $0.65 TVL: $7,955.40
+WMATIC Price: $2.09
+BOOTY Price: $0.04
+Staked: 11501.6676 UNI-V2 ($7,455.83)
+booty Per Week: 902.69 ($37.25)
+APR: Day 0.07% Week 0.50% Year 25.98%
+You are staking 0.00 [WMATIC]-[BOOTY] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[BOOTY] Uni LP
+Unstake 0.00 [WMATIC]-[BOOTY] Uni LP
+Claim 0.00 booty ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - BOOTY Price: $0.04 Market Cap: $38,819.27 [%]
+Staked: 332987.9215 BOOTY ($13,741.51)
+booty Per Week: 315.94 ($13.04)
+APR: Day 0.01% Week 0.09% Year 4.93%
+You are staking 0.00 BOOTY ($0.00), 0.00% of the pool.
+Stake 0.00 BOOTY
+Unstake 0.00 BOOTY
+Claim 0.00 booty ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - DFYN Price: $0.34 Market Cap: $20,334,963.04 [%]
+Staked: 5913.1428 DFYN ($2,005.03)
+booty Per Week: 180.54 ($7.45)
+APR: Day 0.05% Week 0.37% Year 19.32%
+You are staking 0.00 DFYN ($0.00), 0.00% of the pool.
+Stake 0.00 DFYN - Fee 4%
+Unstake 0.00 DFYN
+Claim 0.00 booty ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $48,562.84

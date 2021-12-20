@@ -1,0 +1,52 @@
+***************************** POLYGON NETWORK *******************************************
+
+*************** 👨‍🌾 UNOFFICIAL PEARZAP FARMING CALCULATOR 👨‍🌾 ******************
+INFO  : https://pearzap.com
+*****************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Fri Dec 17 2021 11:06:57 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 16 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+2 - PEAR Price: $0.00 Market Cap: $0.00 
+Staked: 3404388.7248 PEAR ($0.00)
+PEAR Per Week: 83076.92 ($336.28)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 PEAR ($0.00), NaN% of the pool.
+Stake 0.00 PEAR
+Unstake 0.00 PEAR
+Claim 0.00 PEAR ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [USDC]-[PEAR] Uni LP [+] [-] [<=>] Price: $127,886.80 TVL: $21,209.43
+USDC Price: $1.00
+PEAR Price: $0.004048
+Staked: 0.1203 PEARZAP-LP ($15,383.62)
+PEAR Per Week: 276923.08 ($1,120.95)
+APR: Day 1.04% Week 7.29% Year 378.91%
+You are staking 0.00 [USDC]-[PEAR] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[PEAR] Uni LP
+Unstake 0.00 [USDC]-[PEAR] Uni LP
+Claim 0.00 PEAR ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [WMATIC]-[PEAR] Uni LP [+] [-] [<=>] Price: $0.18 TVL: $15,996.53
+WMATIC Price: $2.04
+PEAR Price: $0.004048
+Staked: 74521.9321 PEARZAP-LP ($13,635.67)
+PEAR Per Week: 360000.00 ($1,457.23)
+APR: Day 1.53% Week 10.69% Year 555.72%
+You are staking 0.00 [WMATIC]-[PEAR] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[PEAR] Uni LP
+Unstake 0.00 [WMATIC]-[PEAR] Uni LP
+Claim 0.00 PEAR ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $29,019.29

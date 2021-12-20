@@ -1,0 +1,120 @@
+***************************** POLYGON NETWORK *************************************
+    
+*************** 👨‍🌾 UNOFFICIAL POLYFOX.FINANCE FARMING CALCULATOR 👨‍🌾 **************
+INFO  : https://polyfox.finance
+***********************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Fri Dec 17 2021 09:06:47 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 10 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+[USDC]-[FOX] Uni LP [+] [-] [<=>] Price: $103,949.98 TVL: $3,988.45
+USDC Price: $1.00
+FOX Price: $0.001911
+Staked: 0.03740559 UNI-V2 ($3,888.31)
+FOX Per Week: 121141.59 ($231.51)
+APR: Day 0.85% Week 5.95% Year 309.61%
+You are staking 0.00 [USDC]-[FOX] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[FOX] Uni LP
+Unstake 0.00 [USDC]-[FOX] Uni LP
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+
+WMATIC Price: $2.10 Market Cap: $639,027,155.67 [%]
+Staked: 7128.1894 WMATIC ($14,969.20)
+FOX Per Week: 12114.16 ($23.15)
+APR: Day 0.02% Week 0.15% Year 8.04%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC
+Unstake 0.00 WMATIC
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+
+WBTC Price: $47,741.00 Market Cap: $481,716,668.25 [%]
+Staked: 0.3954 WBTC ($18,877.09)
+FOX Per Week: 12114.16 ($23.15)
+APR: Day 0.02% Week 0.12% Year 6.38%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC
+Unstake 0.00 WBTC
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+
+WETH Price: $3,960.45 Market Cap: $1,758,062,996.60 [%]
+Staked: 1.2656 WETH ($5,012.19)
+FOX Per Week: 24228.32 ($46.30)
+APR: Day 0.13% Week 0.92% Year 48.04%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH
+Unstake 0.00 WETH
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+
+QUICK Price: $244.90 Market Cap: $234,011,356.94 [%]
+Staked: 9.6569 QUICK ($2,364.98)
+FOX Per Week: 24228.32 ($46.30)
+APR: Day 0.28% Week 1.96% Year 101.81%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK
+Unstake 0.00 QUICK
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+
+Krill Price: $0.04 Market Cap: $420,184.22 [%]
+Staked: 2289.6154 Krill ($89.53)
+FOX Per Week: 6057.08 ($11.58)
+APR: Day 1.85% Week 12.93% Year 672.30%
+You are staking 0.00 Krill ($0.00), 0.00% of the pool.
+Stake 0.00 Krill
+Unstake 0.00 Krill
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+
+USDT Price: $1.00 Market Cap: $319,744,445.29 [%]
+Staked: 19796.6748 USDT ($19,796.67)
+FOX Per Week: 14536.99 ($27.78)
+APR: Day 0.02% Week 0.14% Year 7.30%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT
+Unstake 0.00 USDT
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+
+USDC Price: $1.00 Market Cap: $952,089,526.97 [%]
+Staked: 17501.9336 USDC ($17,499.69)
+FOX Per Week: 14536.99 ($27.78)
+APR: Day 0.02% Week 0.16% Year 8.26%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC
+Unstake 0.00 USDC
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+
+DAI Price: $1.00 Market Cap: $367,631,170.58 [%]
+Staked: 3952.3105 DAI ($3,952.31)
+FOX Per Week: 14536.99 ($27.78)
+APR: Day 0.10% Week 0.70% Year 36.55%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI
+Unstake 0.00 DAI
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+
+FOX Price: $0.001911 Market Cap: $13,814.09 [%]
+Staked: 5926433.7484 FOX ($11,325.74)
+FOX Per Week: 30285.40 ($57.88)
+APR: Day 0.07% Week 0.51% Year 26.57%
+You are staking 0.00 FOX ($0.00), 0.00% of the pool.
+Stake 0.00 FOX
+Unstake 0.00 FOX
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $97,775.73

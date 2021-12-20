@@ -1,0 +1,100 @@
+***************************** POLYGON NETWORK ******************************
+    
+*************** 👨‍🌾 UNOFFICIAL ICECOLONY FARMING CALCULATOR 👨‍🌾 *************
+INFO  : https://www.icecolony.com
+****************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Thu Dec 16 2021 06:13:37 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 9 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - ICE Price: $0.00 Market Cap: $0.00 
+Staked: 3543.7073 ICE ($0.00)
+ICE Per Week: 480.00 ($540.90)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 ICE ($0.00), NaN% of the pool.
+Stake 0.00 ICE
+Unstake 0.00 ICE
+Claim 0.00 ICE ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - USDC Price: $1.00 Market Cap: $943,538,799.91 [%]
+Staked: 44315.8412 USDC ($44,315.84)
+ICE Per Week: 288.00 ($324.54)
+APR: Day 0.10% Week 0.73% Year 38.08%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 ICE ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - WETH Price: $4,036.95 Market Cap: $1,791,907,824.63 [%]
+Staked: 16.8727 WETH ($68,114.18)
+ICE Per Week: 288.00 ($324.54)
+APR: Day 0.07% Week 0.48% Year 24.78%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 ICE ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - WMATIC Price: $2.14 Market Cap: $651,094,718.05 [%]
+Staked: 23432.7594 WMATIC ($50,146.11)
+ICE Per Week: 288.00 ($324.54)
+APR: Day 0.09% Week 0.65% Year 33.65%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 ICE ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - PolyDoge Price: $0.0000000240 Market Cap: $24,031,000.00 [%]
+Staked: 3928108326789.9492 PolyDoge ($94,396.37)
+ICE Per Week: 288.00 ($324.54)
+APR: Day 0.05% Week 0.34% Year 17.88%
+You are staking 0.00 PolyDoge ($0.00), 0.00% of the pool.
+Stake 0.00 PolyDoge - Fee 4%
+Unstake 0.00 PolyDoge
+Claim 0.00 ICE ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - USDT Price: $1.00 Market Cap: $313,461,279.68 [%]
+Staked: 22417.5402 USDT ($22,417.54)
+ICE Per Week: 192.00 ($216.36)
+APR: Day 0.14% Week 0.97% Year 50.19%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 ICE ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - GBNT Price: $0.00 Market Cap: $0.00 
+Staked: 1026398.2968 GBNT ($0.00)
+ICE Per Week: 96.00 ($108.18)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 GBNT ($0.00), NaN% of the pool.
+Stake 0.00 GBNT - Fee 4%
+Unstake 0.00 GBNT
+Claim 0.00 ICE ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [WMATIC]-[ICE] Uni LP [+] [-] [<=>] Price: $3.28 TVL: $11,454.31
+WMATIC Price: $2.14
+ICE Price: $1.13
+Staked: 1047.7335 UNI-V2 ($3,441.71)
+ICE Per Week: 960.00 ($1,081.81)
+APR: Day 4.49% Week 31.43% Year 1634.48%
+You are staking 0.00 [WMATIC]-[ICE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[ICE] Uni LP
+Unstake 0.00 [WMATIC]-[ICE] Uni LP
+Claim 0.00 ICE ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $282,831.75

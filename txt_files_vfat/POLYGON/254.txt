@@ -1,0 +1,428 @@
+*************** 👨‍🌾 UNOFFICIAL POLYTOPIA WONSTER FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://wonster.polytopia.farm
+**************************************************************************************
+
+Thu Dec 16 2021 04:55:14 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 38 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [USDC]-[WONSTER] SLP [+] [-] [<=>] Price: $1,338,779.38 TVL: $647.79
+USDC Price: $1.00
+WONSTER Price: $0.40
+Staked: 0.0000 SLP ($26.17)
+WONSTER Per Week: 338.25 ($135.29)
+APR: Day 73.85% Week 516.97% Year 26882.46%
+You are staking 0.00 [USDC]-[WONSTER] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WONSTER] SLP
+Unstake 0.00 [USDC]-[WONSTER] SLP
+Claim 0.00 WONSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - WONSTER Price: $0.40 Market Cap: $1,679.88 [%]
+Staked: 496.2486 WONSTER ($198.49)
+WONSTER Per Week: 253.69 ($101.47)
+APR: Day 7.30% Week 51.12% Year 2658.27%
+You are staking 0.00 WONSTER ($0.00), 0.00% of the pool.
+Stake 0.00 WONSTER
+Unstake 0.00 WONSTER
+Claim 0.00 WONSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [USDC]-[miMATIC] Uni LP [+] [-] [<=>] Price: $2,111,669.65 TVL: $28,731,768.54
+USDC Price: $1.00
+miMATIC Price: $0.99
+Staked: 0.0000 UNI-V2 ($0.00)
+WONSTER Per Week: 16.91 ($6.76)
+APR: Day 45762337882888.02% Week 320336365180216.19% Year 16657490989371242.00%
+You are staking 0.00 [USDC]-[miMATIC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[miMATIC] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[miMATIC] Uni LP
+Claim 0.00 WONSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,872,471.42 TVL: $52,280,075.31
+WMATIC Price: $2.15
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.01)
+WONSTER Per Week: 16.91 ($6.76)
+APR: Day 17141.23% Week 119988.62% Year 6239408.49%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 WONSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDC]-[DAI] Uni LP [+] [-] [<=>] Price: $76,277,632.59 TVL: $7,329,398.02
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.01)
+WONSTER Per Week: 16.91 ($6.76)
+APR: Day 6598.36% Week 46188.49% Year 2401801.60%
+You are staking 0.00 [USDC]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAI] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[DAI] Uni LP
+Claim 0.00 WONSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WETH]-[AAVE] Uni LP [+] [-] [<=>] Price: $1,777.05 TVL: $8,057,620.63
+WETH Price: $4,047.03
+AAVE Price: $174.77
+Staked: 0.0000 UNI-V2 ($0.00)
+WONSTER Per Week: 16.91 ($6.76)
+APR: Day 701904.44% Week 4913331.07% Year 255493215.47%
+You are staking 0.00 [WETH]-[AAVE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[AAVE] Uni LP - Fee 4%
+Unstake 0.00 [WETH]-[AAVE] Uni LP
+Claim 0.00 WONSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [WETH]-[DAI] Uni LP [+] [-] [<=>] Price: $159.53 TVL: $18,433,428.05
+WETH Price: $4,047.03
+DAI Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.00)
+WONSTER Per Week: 16.91 ($6.76)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WETH]-[DAI] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [WETH]-[DAI] Uni LP - Fee 4%
+Unstake 0.00 [WETH]-[DAI] Uni LP
+Claim 0.00 WONSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [LINK]-[WETH] Uni LP [+] [-] [<=>] Price: $594.04 TVL: $14,215,567.42
+LINK Price: $19.96
+WETH Price: $4,047.03
+Staked: 0.0000 UNI-V2 ($0.00)
+WONSTER Per Week: 16.91 ($6.76)
+APR: Day 538033.09% Week 3766231.66% Year 195844046.21%
+You are staking 0.00 [LINK]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LINK]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [LINK]-[WETH] Uni LP
+Claim 0.00 WONSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [WMATIC]-[QUICK] Uni LP [+] [-] [<=>] Price: $66.02 TVL: $9,833,661.23
+WMATIC Price: $2.15
+QUICK Price: $251.99
+Staked: 0.0000 UNI-V2 ($0.00)
+WONSTER Per Week: 16.91 ($6.76)
+APR: Day 30496.11% Week 213472.79% Year 11100584.82%
+You are staking 0.00 [WMATIC]-[QUICK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[QUICK] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[QUICK] Uni LP
+Claim 0.00 WONSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - USDC Price: $1.00 Market Cap: $943,417,203.65 [%]
+Staked: 0.0000 USDC ($0.00)
+WONSTER Per Week: 8.46 ($3.38)
+APR: Day 48317469.92% Week 338222289.41% Year 17587559049.14%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 WONSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - WETH Price: $4,047.03 Market Cap: $1,796,211,873.01 [%]
+Staked: 0.0000 WETH ($0.00)
+WONSTER Per Week: 8.46 ($3.38)
+APR: Day 11938994748052790.00% Week 83572963236369536.00% Year 4345794088291215872.00%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 WONSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - WMATIC Price: $2.15 Market Cap: $653,278,152.91 [%]
+Staked: 0.0085 WMATIC ($0.02)
+WONSTER Per Week: 8.46 ($3.38)
+APR: Day 2655.75% Week 18590.26% Year 966693.60%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 WONSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - miMATIC Price: $0.99 Market Cap: $153,877,135.40 [%]
+Staked: 0.0000 miMATIC ($0.00)
+WONSTER Per Week: 8.46 ($3.38)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 miMATIC ($0.00), NaN% of the pool.
+Stake 0.00 miMATIC - Fee 4%
+Unstake 0.00 miMATIC
+Claim 0.00 WONSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - DAI Price: $1.00 Market Cap: $374,104,232.00 [%]
+Staked: 0.0000 DAI ($0.00)
+WONSTER Per Week: 8.46 ($3.38)
+APR: Day 5028051.81% Week 35196362.69% Year 1830210859.66%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 WONSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - QUICK Price: $251.99 Market Cap: $240,785,922.00 [%]
+Staked: 0.0000 QUICK ($0.00)
+WONSTER Per Week: 8.46 ($3.38)
+APR: Day 19973.29% Week 139813.04% Year 7270278.19%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 WONSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - AAVE Price: $174.77 Market Cap: $47,575,777.29 [%]
+Staked: 0.0384 AAVE ($6.71)
+WONSTER Per Week: 8.46 ($3.38)
+APR: Day 7.20% Week 50.40% Year 2620.64%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 WONSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - LINK Price: $19.96 Market Cap: $34,618,687.89 [%]
+Staked: 0.0096 LINK ($0.19)
+WONSTER Per Week: 8.46 ($3.38)
+APR: Day 252.16% Week 1765.10% Year 91785.44%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 WONSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - TEL Price: $0.00 Market Cap: $0.00 
+Staked: 246.2400 TEL ($0.00)
+WONSTER Per Week: 8.46 ($3.38)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 TEL ($0.00), NaN% of the pool.
+Stake 0.00 TEL - Fee 4%
+Unstake 0.00 TEL
+Claim 0.00 WONSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [USDC]-[UTOPIA] Uni LP [+] [-] [<=>] Price: $670,380.57 TVL: $1,271.62
+USDC Price: $1.00
+UTOPIA Price: $0.08
+Staked: 0.0000 UNI-V2 ($0.09)
+WONSTER Per Week: 169.12 ($67.64)
+APR: Day 11215.36% Week 78507.50% Year 4082389.90%
+You are staking 0.00 [USDC]-[UTOPIA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[UTOPIA] Uni LP
+Unstake 0.00 [USDC]-[UTOPIA] Uni LP
+Claim 0.00 WONSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [WMATIC]-[UTOPIA] Uni LP [+] [-] [<=>] Price: $0.95 TVL: $596.06
+WMATIC Price: $2.15
+UTOPIA Price: $0.08
+Staked: 0.0000 UNI-V2 ($0.00)
+WONSTER Per Week: 169.12 ($67.64)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WMATIC]-[UTOPIA] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [WMATIC]-[UTOPIA] Uni LP
+Unstake 0.00 [WMATIC]-[UTOPIA] Uni LP
+Claim 0.00 WONSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - UTOPIA Price: $0.08 Market Cap: $5,024.05 [%]
+Staked: 4.4439 UTOPIA ($0.36)
+WONSTER Per Week: 84.56 ($33.82)
+APR: Day 1344.33% Week 9410.33% Year 489337.31%
+You are staking 0.00 UTOPIA ($0.00), 0.00% of the pool.
+Stake 0.00 UTOPIA
+Unstake 0.00 UTOPIA
+Claim 0.00 WONSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - [USDC]-[ELYSM] DFYN LP [+] [-] [<=>] Price: $64,196.59 TVL: $894.92
+USDC Price: $1.00
+ELYSM Price: $0.000925
+Staked: 0.0028 DFYNLP ($182.06)
+WONSTER Per Week: 253.69 ($101.47)
+APR: Day 7.96% Week 55.73% Year 2898.04%
+You are staking 0.00 [USDC]-[ELYSM] DFYN LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[ELYSM] DFYN LP
+Unstake 0.00 [USDC]-[ELYSM] DFYN LP
+Claim 0.00 WONSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - ELYSM Price: $0.000925 Market Cap: $1,849.02 [%]
+Staked: 2660.5207 ELYSM ($2.46)
+WONSTER Per Week: 169.12 ($67.64)
+APR: Day 392.88% Week 2750.16% Year 143008.42%
+You are staking 0.00 ELYSM ($0.00), 0.00% of the pool.
+Stake 0.00 ELYSM
+Unstake 0.00 ELYSM
+Claim 0.00 WONSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - xUSD Price: $1.04 Market Cap: $402,726.11 [%]
+Staked: 0.0001 xUSD ($0.00)
+WONSTER Per Week: 33.82 ($13.53)
+APR: Day 2145677.01% Week 15019739.06% Year 781026431.02%
+You are staking 0.00 xUSD ($0.00), 0.00% of the pool.
+Stake 0.00 xUSD - Fee 2%
+Unstake 0.00 xUSD
+Claim 0.00 WONSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - [USDC]-[xUSD] DFYN LP [+] [-] [<=>] Price: $2,136,896.20 TVL: $3,881.70
+USDC Price: $1.00
+xUSD Price: $1.04
+Staked: 0.0000 DFYNLP ($0.00)
+WONSTER Per Week: 50.74 ($20.29)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[xUSD] DFYN LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[xUSD] DFYN LP - Fee 2%
+Unstake 0.00 [USDC]-[xUSD] DFYN LP
+Claim 0.00 WONSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - DFYN Price: $0.34 Market Cap: $20,411,833.27 [%]
+Staked: 10.3507 DFYN ($3.52)
+WONSTER Per Week: 16.91 ($6.76)
+APR: Day 27.42% Week 191.97% Year 9982.48%
+You are staking 0.00 DFYN ($0.00), 0.00% of the pool.
+Stake 0.00 DFYN - Fee 4%
+Unstake 0.00 DFYN
+Claim 0.00 WONSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - DINO Price: $0.00 Market Cap: $0.00 
+Staked: 157.5923 DINO ($0.00)
+WONSTER Per Week: 25.37 ($10.15)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 DINO ($0.00), NaN% of the pool.
+Stake 0.00 DINO - Fee 2%
+Unstake 0.00 DINO
+Claim 0.00 WONSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - [USDC]-[DINO] SLP [+] [-] [<=>] Price: $639,072.71 TVL: $3,920,471.06
+USDC Price: $1.00
+DINO Price: $0.09
+Staked: 0.0000 SLP ($5.42)
+WONSTER Per Week: 25.37 ($10.15)
+APR: Day 26.76% Week 187.32% Year 9740.57%
+You are staking 0.00 [USDC]-[DINO] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DINO] SLP - Fee 2%
+Unstake 0.00 [USDC]-[DINO] SLP
+Claim 0.00 WONSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - PUSD Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 PUSD ($0.00)
+WONSTER Per Week: 16.91 ($6.76)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 PUSD ($0.00), NaN% of the pool.
+Stake 0.00 PUSD - Fee 3%
+Unstake 0.00 PUSD
+Claim 0.00 WONSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+29 - [USDC]-[PUSD] SLP [+] [-] [<=>] Price: $2,111,058.34 TVL: $68,323.70
+USDC Price: $1.00
+PUSD Price: $1.01
+Staked: 0.0000 SLP ($2.05)
+WONSTER Per Week: 16.91 ($6.76)
+APR: Day 47.06% Week 329.40% Year 17128.73%
+You are staking 0.00 [USDC]-[PUSD] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[PUSD] SLP - Fee 3%
+Unstake 0.00 [USDC]-[PUSD] SLP
+Claim 0.00 WONSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+30 - SUSHI Price: $5.92 Market Cap: $3,231,699.24 [%]
+Staked: 0.0000 SUSHI ($0.00)
+WONSTER Per Week: 16.91 ($6.76)
+APR: Day 2317791.10% Week 16224537.68% Year 843675959.40%
+You are staking 0.00 SUSHI ($0.00), 0.00% of the pool.
+Stake 0.00 SUSHI - Fee 2%
+Unstake 0.00 SUSHI
+Claim 0.00 WONSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+31 - ICE Price: $0.00 Market Cap: $0.00 
+Staked: 34.0433 ICE ($0.00)
+WONSTER Per Week: 16.91 ($6.76)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 ICE ($0.00), NaN% of the pool.
+Stake 0.00 ICE - Fee 2%
+Unstake 0.00 ICE
+Claim 0.00 WONSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+32 - [USDC]-[ICE] DFYN LP [+] [-] [<=>] Price: $122,784.50 TVL: $123,507.84
+USDC Price: $1.00
+ICE Price: $0.002325
+Staked: 0.0000 DFYNLP ($0.01)
+WONSTER Per Week: 16.91 ($6.76)
+APR: Day 6637.64% Week 46463.46% Year 2416099.99%
+You are staking 0.00 [USDC]-[ICE] DFYN LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[ICE] DFYN LP - Fee 2%
+Unstake 0.00 [USDC]-[ICE] DFYN LP
+Claim 0.00 WONSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+33 - SUN Price: $0.00 Market Cap: $0.00 
+Staked: 1.7231 SUN ($0.00)
+WONSTER Per Week: 33.82 ($13.53)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SUN ($0.00), NaN% of the pool.
+Stake 0.00 SUN
+Unstake 0.00 SUN
+Claim 0.00 WONSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+34 - [USDC]-[SUN] Uni LP [+] [-] [<=>] Price: $131,702.28 TVL: $40.67
+USDC Price: $1.00
+SUN Price: $0.003236
+Staked: 0.0000 UNI-V2 ($0.03)
+WONSTER Per Week: 33.82 ($13.53)
+APR: Day 6037.86% Week 42265.02% Year 2197780.79%
+You are staking 0.00 [USDC]-[SUN] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[SUN] Uni LP
+Unstake 0.00 [USDC]-[SUN] Uni LP
+Claim 0.00 WONSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+35 - CRV Price: $3.75 Market Cap: $9,200,066.12 [%]
+Staked: 0.0000 CRV ($0.00)
+WONSTER Per Week: 16.91 ($6.76)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 CRV ($0.00), NaN% of the pool.
+Stake 0.00 CRV - Fee 4%
+Unstake 0.00 CRV
+Claim 0.00 WONSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+36 - BONE Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 BONE ($0.00)
+WONSTER Per Week: 16.91 ($6.76)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BONE ($0.00), NaN% of the pool.
+Stake 0.00 BONE - Fee 3%
+Unstake 0.00 BONE
+Claim 0.00 WONSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+37 - [USDC]-[BONE] Uni LP [+] [-] [<=>] Price: $2,175,131.15 TVL: $18,717.93
+USDC Price: $1.00
+BONE Price: $0.79
+Staked: 0.0000 UNI-V2 ($0.00)
+WONSTER Per Week: 16.91 ($6.76)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[BONE] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[BONE] Uni LP - Fee 3%
+Unstake 0.00 [USDC]-[BONE] Uni LP
+Claim 0.00 WONSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $427.61

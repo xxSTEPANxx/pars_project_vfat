@@ -1,0 +1,150 @@
+***************************** POLYGON NETWORK *******************************
+    
+*************** 👨‍🌾 UNOFFICIAL SWAP NET FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://swap.net
+*****************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Fri Dec 17 2021 10:56:58 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 11 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [WMATIC]-[USDC] SLP [+] [-] [<=>] Price: $2,927,370.70 TVL: $43.09
+WMATIC Price: $2.03
+USDC Price: $1.00
+Staked: 0.0000 SLP ($0.00)
+SWP Per Week: 0.44 ($6.14)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WMATIC]-[USDC] SLP ($0.00), NaN% of the pool.
+Stake 0.00 [WMATIC]-[USDC] SLP
+Unstake 0.00 [WMATIC]-[USDC] SLP
+Claim 0.00 SWP ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WMATIC]-[WETH] SLP [+] [-] [<=>] Price: $179.93 TVL: $85.28
+WMATIC Price: $2.03
+WETH Price: $3,884.43
+Staked: 0.4677 SLP ($84.16)
+SWP Per Week: 0.59 ($8.19)
+APR: Day 1.39% Week 9.74% Year 506.23%
+You are staking 0.00 [WMATIC]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[WETH] SLP
+Unstake 0.00 [WMATIC]-[WETH] SLP
+Claim 0.00 SWP ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [USDC]-[AAVE] SLP [+] [-] [<=>] Price: $26,426,345.22 TVL: $25.81
+USDC Price: $1.00
+AAVE Price: $170.92
+Staked: 0.0000 SLP ($0.00)
+SWP Per Week: 0.44 ($6.14)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[AAVE] SLP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[AAVE] SLP
+Unstake 0.00 [USDC]-[AAVE] SLP
+Claim 0.00 SWP ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDC]-[DAI] SLP [+] [-] [<=>] Price: $2,003,634.88 TVL: $3.01
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.0000 SLP ($0.00)
+SWP Per Week: 0.30 ($4.10)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[DAI] SLP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[DAI] SLP
+Unstake 0.00 [USDC]-[DAI] SLP
+Claim 0.00 SWP ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDC]-[USDT] SLP [+] [-] [<=>] Price: $2,002,500,501,000.00 TVL: $0.00
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 SLP ($0.00)
+SWP Per Week: 0.30 ($4.10)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[USDT] SLP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[USDT] SLP
+Unstake 0.00 [USDC]-[USDT] SLP
+Claim 0.00 SWP ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [USDC]-[WETH] SLP [+] [-] [<=>] Price: $126,006,510.35 TVL: $0.06
+USDC Price: $1.00
+WETH Price: $3,884.43
+Staked: 0.0000 SLP ($0.00)
+SWP Per Week: 0.44 ($6.14)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[WETH] SLP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[WETH] SLP
+Unstake 0.00 [USDC]-[WETH] SLP
+Claim 0.00 SWP ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [WBTC]-[USDC] SLP [+] [-] [<=>] Price: $44,097,018,943,170.49 TVL: $0.04
+WBTC Price: $47,017.00
+USDC Price: $1.00
+Staked: 0.0000 SLP ($0.00)
+SWP Per Week: 0.44 ($6.14)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WBTC]-[USDC] SLP ($0.00), NaN% of the pool.
+Stake 0.00 [WBTC]-[USDC] SLP
+Unstake 0.00 [WBTC]-[USDC] SLP
+Claim 0.00 SWP ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [WBTC]-[WETH] SLP [+] [-] [<=>] Price: $2,710,269,848.85 TVL: $2.81
+WBTC Price: $47,017.00
+WETH Price: $3,884.43
+Staked: 0.0000 SLP ($0.00)
+SWP Per Week: 0.44 ($6.14)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WBTC]-[WETH] SLP ($0.00), NaN% of the pool.
+Stake 0.00 [WBTC]-[WETH] SLP
+Unstake 0.00 [WBTC]-[WETH] SLP
+Claim 0.00 SWP ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [WETH]-[SWP] SLP [+] [-] [<=>] Price: $466.13 TVL: $0.00
+WETH Price: $3,884.43
+SWP Price: $13.89
+Staked: 0.0000 SLP ($0.00)
+SWP Per Week: 0.89 ($12.29)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WETH]-[SWP] SLP ($0.00), NaN% of the pool.
+Stake 0.00 [WETH]-[SWP] SLP
+Unstake 0.00 [WETH]-[SWP] SLP
+Claim 0.00 SWP ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [WMATIC]-[SWP] SLP [+] [-] [<=>] Price: $10.91 TVL: $0.00
+WMATIC Price: $2.03
+SWP Price: $13.89
+Staked: 0.0000 SLP ($0.00)
+SWP Per Week: 0.89 ($12.29)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WMATIC]-[SWP] SLP ($0.00), NaN% of the pool.
+Stake 0.00 [WMATIC]-[SWP] SLP
+Unstake 0.00 [WMATIC]-[SWP] SLP
+Claim 0.00 SWP ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [USDC]-[SWP] SLP [+] [-] [<=>] Price: $1,003,953,338.46 TVL: $0.00
+USDC Price: $1.00
+SWP Price: $13.89
+Staked: 0.0000 SLP ($0.00)
+SWP Per Week: 0.89 ($12.29)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[SWP] SLP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[SWP] SLP
+Unstake 0.00 [USDC]-[SWP] SLP
+Claim 0.00 SWP ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $84.16

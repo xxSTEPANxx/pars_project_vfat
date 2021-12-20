@@ -1,0 +1,183 @@
+*************** 👨‍🌾 UNOFFICIAL ANCHORSWAP FINANCE FARMING CALCULATOR 👨‍🌾 *****************
+INFO  : https://anchorswap.app
+*****************************************************************************************
+
+Thu Dec 16 2021 02:24:30 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 16 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [ANCHOR]-[WBNB] Cake LP [+] [-] [<=>] Price: $14.96 TVL: $907,847.91
+ANCHOR Price: $0.08
+WBNB Price: $538.94
+Staked: 60247.3862 Cake-LP ($901,135.34)
+ANCHOR Per Week: 756000.00 ($58,611.76)
+APR: Day 0.93% Week 6.50% Year 338.22%
+You are staking 0.00 [ANCHOR]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ANCHOR]-[WBNB] Cake LP
+Unstake 0.00 [ANCHOR]-[WBNB] Cake LP
+Claim 0.00 ANCHOR ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [ANCHOR]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.65 TVL: $1,233,590.69
+ANCHOR Price: $0.08
+BUSD Price: $1.00
+Staked: 1889149.8326 Cake-LP ($1,227,192.12)
+ANCHOR Per Week: 1092000.00 ($84,661.43)
+APR: Day 0.99% Week 6.90% Year 358.74%
+You are staking 0.00 [ANCHOR]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ANCHOR]-[BUSD] Cake LP
+Unstake 0.00 [ANCHOR]-[BUSD] Cake LP
+Claim 0.00 ANCHOR ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - ANCHOR Price: $0.08 Market Cap: $12,510,927.51 [%]
+Staked: 110059753.1017 ANCHOR ($8,532,798.45)
+ANCHOR Per Week: 1680000.00 ($130,248.35)
+APR: Day 0.22% Week 1.53% Year 79.38%
+You are staking 0.00 ANCHOR ($0.00), 0.00% of the pool.
+Stake 0.00 ANCHOR
+Unstake 0.00 ANCHOR
+Claim 0.00 ANCHOR ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - BUSD Price: $1.00 Market Cap: $4,850,999,388.63 [%]
+Staked: 229852.8875 BUSD ($229,852.89)
+ANCHOR Per Week: 42000.00 ($3,256.21)
+APR: Day 0.20% Week 1.42% Year 73.67%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 ANCHOR ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - WBNB Price: $538.94 Market Cap: $2,881,597,285.41 [%]
+Staked: 472.6723 WBNB ($254,742.00)
+ANCHOR Per Week: 42000.00 ($3,256.21)
+APR: Day 0.18% Week 1.28% Year 66.47%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 ANCHOR ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - ETH Price: $4,026.78 Market Cap: $5,657,625,899.99 [%]
+Staked: 44.9042 ETH ($180,819.37)
+ANCHOR Per Week: 42000.00 ($3,256.21)
+APR: Day 0.26% Week 1.80% Year 93.64%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 ANCHOR ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - BTCB Price: $52,537.00 Market Cap: $5,910,465,037.00 [%]
+Staked: 10.8124 BTCB ($568,052.29)
+ANCHOR Per Week: 42000.00 ($3,256.21)
+APR: Day 0.08% Week 0.57% Year 29.81%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 ANCHOR ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - Cake Price: $13.10 Market Cap: $7,357,120,840.29 [%]
+Staked: 9666.4150 Cake ($126,630.04)
+ANCHOR Per Week: 42000.00 ($3,256.21)
+APR: Day 0.37% Week 2.57% Year 133.71%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 ANCHOR ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $56.25 TVL: $487,090,436.76
+WBNB Price: $538.94
+BUSD Price: $1.00
+Staked: 1685.3396 Cake-LP ($94,808.34)
+ANCHOR Per Week: 42000.00 ($3,256.21)
+APR: Day 0.49% Week 3.43% Year 178.59%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 ANCHOR ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $375,530,483.34
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 199305.3174 Cake-LP ($415,909.03)
+ANCHOR Per Week: 42000.00 ($3,256.21)
+APR: Day 0.11% Week 0.78% Year 40.71%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 ANCHOR ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $3,142.55 TVL: $114,801,997.61
+ETH Price: $4,026.78
+WBNB Price: $538.94
+Staked: 47.8737 Cake-LP ($150,445.39)
+ANCHOR Per Week: 42000.00 ($3,256.21)
+APR: Day 0.31% Week 2.16% Year 112.55%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 ANCHOR ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $11,229.71 TVL: $90,241,961.97
+BTCB Price: $52,537.00
+WBNB Price: $538.94
+Staked: 8.8578 Cake-LP ($99,470.71)
+ANCHOR Per Week: 42000.00 ($3,256.21)
+APR: Day 0.47% Week 3.27% Year 170.22%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 ANCHOR ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [DOT]-[WBNB] Cake LP [+] [-] [<=>] Price: $253.50 TVL: $22,085,267.93
+DOT Price: $26.81
+WBNB Price: $538.94
+Staked: 370.4834 Cake-LP ($93,918.39)
+ANCHOR Per Week: 42000.00 ($3,256.21)
+APR: Day 0.50% Week 3.47% Year 180.29%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 ANCHOR ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [ADA]-[WBNB] Cake LP [+] [-] [<=>] Price: $57.14 TVL: $16,175,755.63
+ADA Price: $1.31
+WBNB Price: $538.94
+Staked: 2538.2823 Cake-LP ($145,025.32)
+ANCHOR Per Week: 42000.00 ($3,256.21)
+APR: Day 0.32% Week 2.25% Year 116.75%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 ANCHOR ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [TRX]-[WBNB] Cake LP [+] [-] [<=>] Price: $14.65 TVL: $365,503.10
+TRX Price: $0.09
+WBNB Price: $538.94
+Staked: 4260.6882 Cake-LP ($62,429.82)
+ANCHOR Per Week: 42000.00 ($3,256.21)
+APR: Day 0.75% Week 5.22% Year 271.22%
+You are staking 0.00 [TRX]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TRX]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [TRX]-[WBNB] Cake LP
+Claim 0.00 ANCHOR ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $13,083,229.48

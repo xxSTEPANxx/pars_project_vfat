@@ -1,0 +1,110 @@
+***************************** POLYGON NETWORK *************************************
+    
+*************** 👨‍🌾 UNOFFICIAL POLYION FARMING CALCULATOR 👨‍🌾 **********************
+INFO  : https://www.polyion.net
+***********************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Fri Dec 17 2021 09:40:54 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 10 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+1 - WMATIC Price: $2.09 Market Cap: $636,966,778.65 [%]
+Staked: 704.3501 WMATIC ($1,472.09)
+LION Per Week: 13935.48 ($0.19)
+APR: Day 0.00% Week 0.01% Year 0.66%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 LION ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - WETH Price: $3,948.09 Market Cap: $1,752,805,387.01 [%]
+Staked: 0.0002 WETH ($0.71)
+LION Per Week: 9290.32 ($0.12)
+APR: Day 2.50% Week 17.50% Year 909.76%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 LION ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - Lion Price: $0.0000133911 Market Cap: $12.39 [%]
+Staked: 239146.3394 Lion ($3.20)
+LION Per Week: 37161.29 ($0.50)
+APR: Day 2.22% Week 15.54% Year 808.04%
+You are staking 0.00 Lion ($0.00), 0.00% of the pool.
+Stake 0.00 Lion
+Unstake 0.00 Lion
+Claim 0.00 LION ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - WBTC Price: $47,530.00 Market Cap: $479,587,634.15 [%]
+Staked: 0.0000 WBTC ($0.52)
+LION Per Week: 9290.32 ($0.12)
+APR: Day 3.41% Week 23.90% Year 1242.99%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 LION ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - USDT Price: $1.00 Market Cap: $318,714,150.62 [%]
+Staked: 190.9015 USDT ($190.28)
+LION Per Week: 9290.32 ($0.12)
+APR: Day 0.01% Week 0.07% Year 3.40%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 LION ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [USDC]-[Lion] Uni LP [+] [-] [<=>] Price: $8,218.19 TVL: $15.75
+USDC Price: $1.00
+Lion Price: $0.0000133911
+Staked: 0.0017 UNI-V2 ($13.62)
+LION Per Week: 18580.65 ($0.25)
+APR: Day 0.26% Week 1.83% Year 94.97%
+You are staking 0.00 [USDC]-[Lion] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[Lion] Uni LP
+Unstake 0.00 [USDC]-[Lion] Uni LP
+Claim 0.00 LION ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - DAI Price: $1.00 Market Cap: $367,476,519.72 [%]
+Staked: 4.8000 DAI ($4.80)
+LION Per Week: 9290.32 ($0.12)
+APR: Day 0.37% Week 2.59% Year 134.84%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 LION ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - QUICK Price: $244.58 Market Cap: $233,705,584.65 [%]
+Staked: 0.0056 QUICK ($1.36)
+LION Per Week: 9290.32 ($0.12)
+APR: Day 1.31% Week 9.16% Year 476.45%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 LION ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - Krill Price: $0.04 Market Cap: $421,011.51 [%]
+Staked: 5.1481 Krill ($0.20)
+LION Per Week: 9290.32 ($0.12)
+APR: Day 8.81% Week 61.68% Year 3207.26%
+You are staking 0.00 Krill ($0.00), 0.00% of the pool.
+Stake 0.00 Krill - Fee 4%
+Unstake 0.00 Krill
+Claim 0.00 LION ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $1,686.79

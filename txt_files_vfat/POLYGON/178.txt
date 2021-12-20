@@ -1,0 +1,266 @@
+***************************** POLYGON NETWORK ********************************************
+    
+*************** 👨‍🌾 UNOFFICIAL JETSWAP.FINANCE FARMING CALCULATOR 👨‍🌾 *********************
+INFO  : https://polygon.jetswap.finance
+******************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Fri Dec 17 2021 10:45:56 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 26 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - pWINGS Price: $0.00 Market Cap: $0.00 
+Staked: 3417522.2112 pWINGS ($0.00)
+pWINGS Per Week: 115200.00 ($2,268.74)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 pWINGS ($0.00), NaN% of the pool.
+Stake 0.00 pWINGS
+Unstake 0.00 pWINGS
+Claim 0.00 pWINGS ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WMATIC]-[pWINGS] Uni LP [+] [-] [<=>] Price: $0.43 TVL: $207,370.69
+WMATIC Price: $2.04
+pWINGS Price: $0.02
+Staked: 473363.3737 pWINGS-LP ($201,275.51)
+pWINGS Per Week: 278400.00 ($5,482.79)
+APR: Day 0.39% Week 2.72% Year 141.65%
+You are staking 0.00 [WMATIC]-[pWINGS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[pWINGS] Uni LP
+Unstake 0.00 [WMATIC]-[pWINGS] Uni LP
+Claim 0.00 pWINGS ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [WMATIC]-[WETH] Uni LP [+] [-] [<=>] Price: $222.78 TVL: $411,969.90
+WMATIC Price: $2.04
+WETH Price: $3,889.92
+Staked: 1841.3676 pWINGS-LP ($410,220.05)
+pWINGS Per Week: 12000.00 ($236.33)
+APR: Day 0.01% Week 0.06% Year 3.00%
+You are staking 0.00 [WMATIC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[WETH] Uni LP
+Unstake 0.00 [WMATIC]-[WETH] Uni LP
+Claim 0.00 pWINGS ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [USDC]-[WETH] Uni LP [+] [-] [<=>] Price: $143,281,098.38 TVL: $81,685.65
+USDC Price: $1.00
+WETH Price: $3,889.92
+Staked: 0.0004 pWINGS-LP ($62,796.09)
+pWINGS Per Week: 12000.00 ($236.33)
+APR: Day 0.05% Week 0.38% Year 19.57%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 pWINGS ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [WETH]-[USDT] Uni LP [+] [-] [<=>] Price: $134,301,581.44 TVL: $51,526.90
+WETH Price: $3,889.92
+USDT Price: $1.00
+Staked: 0.0004 pWINGS-LP ($51,414.26)
+pWINGS Per Week: 12000.00 ($236.33)
+APR: Day 0.07% Week 0.46% Year 23.90%
+You are staking 0.00 [WETH]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[USDT] Uni LP
+Unstake 0.00 [WETH]-[USDT] Uni LP
+Claim 0.00 pWINGS ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $4,088,312.05 TVL: $328,848.44
+WMATIC Price: $2.04
+USDC Price: $1.00
+Staked: 0.0760 pWINGS-LP ($310,689.73)
+pWINGS Per Week: 12000.00 ($236.33)
+APR: Day 0.01% Week 0.08% Year 3.96%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 pWINGS ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [WMATIC]-[USDT] Uni LP [+] [-] [<=>] Price: $3,443,456.06 TVL: $104,170.61
+WMATIC Price: $2.04
+USDT Price: $1.00
+Staked: 0.0298 pWINGS-LP ($102,541.80)
+pWINGS Per Week: 12000.00 ($236.33)
+APR: Day 0.03% Week 0.23% Year 11.98%
+You are staking 0.00 [WMATIC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDT] Uni LP
+Unstake 0.00 [WMATIC]-[USDT] Uni LP
+Claim 0.00 pWINGS ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [WBTC]-[USDT] Uni LP [+] [-] [<=>] Price: $44,544,795,589,944.20 TVL: $55,420.74
+WBTC Price: $47,029.00
+USDT Price: $1.00
+Staked: 0.0000 pWINGS-LP ($52,784.81)
+pWINGS Per Week: 12000.00 ($236.33)
+APR: Day 0.06% Week 0.45% Year 23.28%
+You are staking 0.00 [WBTC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[USDT] Uni LP
+Unstake 0.00 [WBTC]-[USDT] Uni LP
+Claim 0.00 pWINGS ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [WMATIC]-[PAUTO] Uni LP [+] [-] [<=>] Price: $72.49 TVL: $28,197.19
+WMATIC Price: $2.04
+PAUTO Price: $621.03
+Staked: 388.4577 pWINGS-LP ($28,161.18)
+pWINGS Per Week: 4800.00 ($94.53)
+APR: Day 0.05% Week 0.34% Year 17.46%
+You are staking 0.00 [WMATIC]-[PAUTO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[PAUTO] Uni LP
+Unstake 0.00 [WMATIC]-[PAUTO] Uni LP
+Claim 0.00 pWINGS ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [WBTC]-[WETH] Uni LP [+] [-] [<=>] Price: $2,757,744,962.40 TVL: $337,080.91
+WBTC Price: $47,029.00
+WETH Price: $3,889.92
+Staked: 0.0001 pWINGS-LP ($319,756.37)
+pWINGS Per Week: 24000.00 ($472.65)
+APR: Day 0.02% Week 0.15% Year 7.69%
+You are staking 0.00 [WBTC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[WETH] Uni LP
+Unstake 0.00 [WBTC]-[WETH] Uni LP
+Claim 0.00 pWINGS ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [USDC]-[USDT] Uni LP [+] [-] [<=>] Price: $2,027,569,215,083.29 TVL: $668,737.49
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 pWINGS-LP ($668,408.72)
+pWINGS Per Week: 12000.00 ($236.33)
+APR: Day 0.01% Week 0.04% Year 1.84%
+You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[USDT] Uni LP
+Unstake 0.00 [USDC]-[USDT] Uni LP
+Claim 0.00 pWINGS ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [USDC]-[DAI] Uni LP [+] [-] [<=>] Price: $2,008,065.23 TVL: $161,602.45
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.0804 pWINGS-LP ($161,542.85)
+pWINGS Per Week: 12000.00 ($236.33)
+APR: Day 0.02% Week 0.15% Year 7.61%
+You are staking 0.00 [USDC]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAI] Uni LP
+Unstake 0.00 [USDC]-[DAI] Uni LP
+Claim 0.00 pWINGS ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [WMATIC]-[PFORCE] Uni LP [+] [-] [<=>] Price: $83,224.29 TVL: $597,345.42
+WMATIC Price: $2.04
+PFORCE Price: $0.76
+Staked: 3.6666 pWINGS-LP ($305,148.91)
+pWINGS Per Week: 14400.00 ($283.59)
+APR: Day 0.01% Week 0.09% Year 4.83%
+You are staking 0.00 [WMATIC]-[PFORCE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[PFORCE] Uni LP
+Unstake 0.00 [WMATIC]-[PFORCE] Uni LP
+Claim 0.00 pWINGS ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [USDC]-[pSWAMP] Uni LP [+] [-] [<=>] Price: $430,949.33 TVL: $2,981.01
+USDC Price: $1.00
+pSWAMP Price: $0.04
+Staked: 0.0067 pWINGS-LP ($2,871.95)
+pWINGS Per Week: 2400.00 ($47.27)
+APR: Day 0.24% Week 1.65% Year 85.58%
+You are staking 0.00 [USDC]-[pSWAMP] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[pSWAMP] Uni LP
+Unstake 0.00 [USDC]-[pSWAMP] Uni LP
+Claim 0.00 pWINGS ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - PFORCE Price: $0.76 Market Cap: $759,216.53 [%]
+Staked: 72691.8081 PFORCE ($55,188.82)
+pWINGS Per Week: 7200.00 ($141.80)
+APR: Day 0.04% Week 0.26% Year 13.36%
+You are staking 0.00 PFORCE ($0.00), 0.00% of the pool.
+Stake 0.00 PFORCE
+Unstake 0.00 PFORCE
+Claim 0.00 pWINGS ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - [WMATIC]-[PIRATEP] Uni LP [+] [-] [<=>] Price: $1.20 TVL: $3,871.34
+WMATIC Price: $2.04
+PIRATEP Price: $0.17
+Staked: 3137.4355 pWINGS-LP ($3,761.16)
+pWINGS Per Week: 2400.00 ($47.27)
+APR: Day 0.18% Week 1.26% Year 65.35%
+You are staking 0.00 [WMATIC]-[PIRATEP] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[PIRATEP] Uni LP
+Unstake 0.00 [WMATIC]-[PIRATEP] Uni LP
+Claim 0.00 pWINGS ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - [TIME]-[WETH] Uni LP [+] [-] [<=>] Price: $80.99 TVL: $14,066.67
+TIME Price: $0.41
+WETH Price: $3,889.92
+Staked: 116.5187 pWINGS-LP ($9,437.32)
+pWINGS Per Week: 4800.00 ($94.53)
+APR: Day 0.14% Week 1.00% Year 52.09%
+You are staking 0.00 [TIME]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TIME]-[WETH] Uni LP
+Unstake 0.00 [TIME]-[WETH] Uni LP
+Claim 0.00 pWINGS ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - [USDC]-[TIME] Uni LP [+] [-] [<=>] Price: $28,905,582.65 TVL: $19,567.84
+USDC Price: $1.00
+TIME Price: $0.41
+Staked: 0.0006 pWINGS-LP ($18,750.77)
+pWINGS Per Week: 4800.00 ($94.53)
+APR: Day 0.07% Week 0.50% Year 26.22%
+You are staking 0.00 [USDC]-[TIME] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[TIME] Uni LP
+Unstake 0.00 [USDC]-[TIME] Uni LP
+Claim 0.00 pWINGS ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [WMATIC]-[$AVTO] Uni LP [+] [-] [<=>] Price: $0.92 TVL: $453,525.60
+WMATIC Price: $2.04
+$AVTO Price: $0.10
+Staked: 35157.9001 pWINGS-LP ($32,426.01)
+pWINGS Per Week: 12000.00 ($236.33)
+APR: Day 0.10% Week 0.73% Year 37.90%
+You are staking 0.00 [WMATIC]-[$AVTO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[$AVTO] Uni LP
+Unstake 0.00 [WMATIC]-[$AVTO] Uni LP
+Claim 0.00 pWINGS ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - [WMATIC]-[pNAUT] Uni LP [+] [-] [<=>] Price: $0.83 TVL: $240,816.44
+WMATIC Price: $2.04
+pNAUT Price: $0.08
+Staked: 3104.7429 pWINGS-LP ($2,571.33)
+pWINGS Per Week: 4800.00 ($94.53)
+APR: Day 0.53% Week 3.68% Year 191.17%
+You are staking 0.00 [WMATIC]-[pNAUT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[pNAUT] Uni LP
+Unstake 0.00 [WMATIC]-[pNAUT] Uni LP
+Claim 0.00 pWINGS ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - [WMATIC]-[pBREW] Uni LP [+] [-] [<=>] Price: $0.27 TVL: $1,612.42
+WMATIC Price: $2.04
+pBREW Price: $0.008406
+Staked: 6040.3773 pWINGS-LP ($1,607.31)
+pWINGS Per Week: 4800.00 ($94.53)
+APR: Day 0.84% Week 5.88% Year 305.83%
+You are staking 0.00 [WMATIC]-[pBREW] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[pBREW] Uni LP
+Unstake 0.00 [WMATIC]-[pBREW] Uni LP
+Claim 0.00 pWINGS ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $2,801,354.97

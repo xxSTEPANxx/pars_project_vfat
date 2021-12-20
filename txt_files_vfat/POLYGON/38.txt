@@ -1,0 +1,152 @@
+***************************** POLYGON NETWORK *****************************************
+    
+*************** 👨‍🌾 UNOFFICIAL POLYCE FINANCE FARMING CALCULATOR 👨‍🌾 *******************
+INFO  : https://polyce.io
+***************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Fri Dec 17 2021 09:24:30 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 15 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [WMATIC]-[CSI] Uni LP [+] [-] [<=>] Price: $0.02 TVL: $44.22
+WMATIC Price: $2.10
+CSI Price: $0.0000314681
+Staked: 1447.3424 UNI-V2 ($29.00)
+CSI Per Week: 64719.10 ($2.04)
+APR: Day 1.00% Week 7.02% Year 365.19%
+You are staking 0.00 [WMATIC]-[CSI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[CSI] Uni LP
+Unstake 0.00 [WMATIC]-[CSI] Uni LP
+Claim 0.00 CSI ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [USDC]-[CSI] Uni LP [+] [-] [<=>] Price: $13,531.24 TVL: $21.78
+USDC Price: $1.00
+CSI Price: $0.0000314681
+Staked: 0.0016 UNI-V2 ($21.28)
+CSI Per Week: 64719.10 ($2.04)
+APR: Day 1.37% Week 9.57% Year 497.62%
+You are staking 0.00 [USDC]-[CSI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[CSI] Uni LP
+Unstake 0.00 [USDC]-[CSI] Uni LP
+Claim 0.00 CSI ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - WMATIC Price: $2.10 Market Cap: $639,571,757.68 [%]
+Staked: 179.4969 WMATIC ($376.94)
+CSI Per Week: 19415.73 ($0.61)
+APR: Day 0.02% Week 0.16% Year 8.43%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 CSI ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - WBTC Price: $47,640.00 Market Cap: $480,697,557.14 [%]
+Staked: 0.0011 WBTC ($52.54)
+CSI Per Week: 19415.73 ($0.61)
+APR: Day 0.17% Week 1.16% Year 60.47%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 CSI ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - WETH Price: $3,955.24 Market Cap: $1,755,805,902.21 [%]
+Staked: 0.9605 WETH ($3,799.08)
+CSI Per Week: 19415.73 ($0.61)
+APR: Day 0.00% Week 0.02% Year 0.84%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 CSI ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - USDT Price: $1.00 Market Cap: $319,349,560.90 [%]
+Staked: 481.6420 USDT ($481.05)
+CSI Per Week: 9707.87 ($0.31)
+APR: Day 0.01% Week 0.06% Year 3.30%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 CSI ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - USDC Price: $1.00 Market Cap: $951,730,542.63 [%]
+Staked: 86.4000 USDC ($86.36)
+CSI Per Week: 9707.87 ($0.31)
+APR: Day 0.05% Week 0.35% Year 18.40%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 CSI ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - DAI Price: $1.00 Market Cap: $367,631,170.58 [%]
+Staked: 1.9200 DAI ($1.92)
+CSI Per Week: 9707.87 ($0.31)
+APR: Day 2.27% Week 15.91% Year 827.36%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 CSI ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - QUICK Price: $244.96 Market Cap: $234,068,689.25 [%]
+Staked: 0.0838 QUICK ($20.52)
+CSI Per Week: 6471.91 ($0.20)
+APR: Day 0.14% Week 0.99% Year 51.60%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 CSI ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - SUSHI Price: $5.71 Market Cap: $3,222,042.26 [%]
+Staked: 4.3818 SUSHI ($25.02)
+CSI Per Week: 6471.91 ($0.20)
+APR: Day 0.12% Week 0.81% Year 42.33%
+You are staking 0.00 SUSHI ($0.00), 0.00% of the pool.
+Stake 0.00 SUSHI - Fee 4%
+Unstake 0.00 SUSHI
+Claim 0.00 CSI ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - LINK Price: $19.03 Market Cap: $33,130,381.34 [%]
+Staked: 0.1819 LINK ($3.46)
+CSI Per Week: 6471.91 ($0.20)
+APR: Day 0.84% Week 5.88% Year 305.92%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 CSI ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - CSI Price: $0.0000314681 Market Cap: $194.63 [%]
+Staked: 3653065.5388 CSI ($114.96)
+CSI Per Week: 48539.33 ($1.53)
+APR: Day 0.19% Week 1.33% Year 69.09%
+You are staking 0.00 CSI ($0.00), 0.00% of the pool.
+Stake 0.00 CSI
+Unstake 0.00 CSI
+Claim 0.00 CSI ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - PolyDoge Price: $0.0000000231 Market Cap: $23,145,000.00 [%]
+Staked: 4466353524.6830 PolyDoge ($103.37)
+CSI Per Week: 3235.96 ($0.10)
+APR: Day 0.01% Week 0.10% Year 5.12%
+You are staking 0.00 PolyDoge ($0.00), 0.00% of the pool.
+Stake 0.00 PolyDoge - Fee 5%
+Unstake 0.00 PolyDoge
+Claim 0.00 CSI ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $5,115.50

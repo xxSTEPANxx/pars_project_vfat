@@ -1,0 +1,308 @@
+***************************** POLYGON NETWORK *************************************
+    
+*************** 👨‍🌾 UNOFFICIAL ASTROFARMS - NEPTUNE FARMING CALCULATOR 👨‍🌾 *********************
+INFO  : https://neptune.astrofarms.finance
+***********************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Fri Dec 17 2021 11:07:18 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 27 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [USDC]-[NEPTUNE] Uni LP [+] [-] [<=>] Price: $247,030.43 TVL: $557.29
+USDC Price: $1.00
+NEPTUNE Price: $0.01
+Staked: 0.0001 UNI-V2 ($28.35)
+NEPTUNE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDC]-[NEPTUNE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[NEPTUNE] Uni LP
+Unstake 0.00 [USDC]-[NEPTUNE] Uni LP
+Claim 0.00 NEPTUNE ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - NEPTUNE Price: $0.01 Market Cap: $1,623.40 [%]
+Staked: 1684.1347 NEPTUNE ($20.50)
+NEPTUNE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 NEPTUNE ($0.00), 0.00% of the pool.
+Stake 0.00 NEPTUNE
+Unstake 0.00 NEPTUNE
+Claim 0.00 NEPTUNE ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WMATIC]-[NEPTUNE] Uni LP [+] [-] [<=>] Price: $0.35 TVL: $700.93
+WMATIC Price: $2.04
+NEPTUNE Price: $0.01
+Staked: 100.2889 UNI-V2 ($34.94)
+NEPTUNE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WMATIC]-[NEPTUNE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[NEPTUNE] Uni LP
+Unstake 0.00 [WMATIC]-[NEPTUNE] Uni LP
+Claim 0.00 NEPTUNE ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - LEO Price: $0.00 Market Cap: $0.00 
+Staked: 0.0004 LEO ($0.00)
+NEPTUNE Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 LEO ($0.00), NaN% of the pool.
+Stake 0.00 LEO
+Unstake 0.00 LEO
+Claim 0.00 NEPTUNE ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - CANCER Price: $0.00 Market Cap: $0.00 
+Staked: 80.8896 CANCER ($0.00)
+NEPTUNE Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 CANCER ($0.00), NaN% of the pool.
+Stake 0.00 CANCER
+Unstake 0.00 CANCER
+Claim 0.00 NEPTUNE ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - WMATIC Price: $2.04 Market Cap: $622,258,171.25 [%]
+Staked: 323.2950 WMATIC ($659.52)
+NEPTUNE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC
+Unstake 0.00 WMATIC
+Claim 0.00 NEPTUNE ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [USDC]-[LEO] Uni LP [+] [-] [<=>] Price: $37,267,027.25 TVL: $12,716.76
+USDC Price: $1.00
+LEO Price: $294.95
+Staked: 0.0000 UNI-V2 ($0.00)
+NEPTUNE Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [USDC]-[LEO] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[LEO] Uni LP
+Unstake 0.00 [USDC]-[LEO] Uni LP
+Claim 0.00 NEPTUNE ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [WMATIC]-[LEO] Uni LP [+] [-] [<=>] Price: $53.88 TVL: $503.95
+WMATIC Price: $2.04
+LEO Price: $294.95
+Staked: 1.1910 UNI-V2 ($64.17)
+NEPTUNE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WMATIC]-[LEO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[LEO] Uni LP
+Unstake 0.00 [WMATIC]-[LEO] Uni LP
+Claim 0.00 NEPTUNE ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [CANCER]-[USDC] Uni LP [+] [-] [<=>] Price: $22,235.03 TVL: $26.47
+CANCER Price: $0.0000884739
+USDC Price: $1.00
+Staked: 0.0001 UNI-V2 ($1.27)
+NEPTUNE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [CANCER]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CANCER]-[USDC] Uni LP
+Unstake 0.00 [CANCER]-[USDC] Uni LP
+Claim 0.00 NEPTUNE ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [CANCER]-[WMATIC] Uni LP [+] [-] [<=>] Price: $0.03 TVL: $17.18
+CANCER Price: $0.0000884739
+WMATIC Price: $2.04
+Staked: 202.3405 UNI-V2 ($6.23)
+NEPTUNE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [CANCER]-[WMATIC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CANCER]-[WMATIC] Uni LP
+Unstake 0.00 [CANCER]-[WMATIC] Uni LP
+Claim 0.00 NEPTUNE ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [USDC]-[USDT] Uni LP [+] [-] [<=>] Price: $2,624,788,260,493.22 TVL: $24,094,854.81
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.00)
+NEPTUNE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[USDT] Uni LP
+Unstake 0.00 [USDC]-[USDT] Uni LP
+Claim 0.00 NEPTUNE ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,725,815.50 TVL: $51,038,830.06
+WMATIC Price: $2.04
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($42.06)
+NEPTUNE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 NEPTUNE ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [WBTC]-[USDC] Uni LP [+] [-] [<=>] Price: $50,940,199,834,249.78 TVL: $11,407,907.51
+WBTC Price: $47,043.00
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($1.50)
+NEPTUNE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WBTC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[USDC] Uni LP
+Unstake 0.00 [WBTC]-[USDC] Uni LP
+Claim 0.00 NEPTUNE ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [WMATIC]-[WETH] Uni LP [+] [-] [<=>] Price: $235.46 TVL: $108,350,308.30
+WMATIC Price: $2.04
+WETH Price: $3,882.30
+Staked: 0.0101 UNI-V2 ($2.37)
+NEPTUNE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WMATIC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[WETH] Uni LP
+Unstake 0.00 [WMATIC]-[WETH] Uni LP
+Claim 0.00 NEPTUNE ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - WETH Price: $3,882.30 Market Cap: $1,723,906,926.57 [%]
+Staked: 0.0480 WETH ($186.35)
+NEPTUNE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH
+Unstake 0.00 WETH
+Claim 0.00 NEPTUNE ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - WBTC Price: $47,043.00 Market Cap: $475,629,762.13 [%]
+Staked: 0.0000 WBTC ($0.00)
+NEPTUNE Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 WBTC ($0.00), NaN% of the pool.
+Stake 0.00 WBTC
+Unstake 0.00 WBTC
+Claim 0.00 NEPTUNE ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - USDT Price: $1.00 Market Cap: $319,712,128.27 [%]
+Staked: 0.0000 USDT ($0.00)
+NEPTUNE Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 USDT ($0.00), NaN% of the pool.
+Stake 0.00 USDT
+Unstake 0.00 USDT
+Claim 0.00 NEPTUNE ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - USDC Price: $1.00 Market Cap: $952,294,882.74 [%]
+Staked: 85.9918 USDC ($85.99)
+NEPTUNE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC
+Unstake 0.00 USDC
+Claim 0.00 NEPTUNE ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - DAI Price: $1.00 Market Cap: $367,653,897.80 [%]
+Staked: 0.0000 DAI ($0.00)
+NEPTUNE Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 DAI ($0.00), NaN% of the pool.
+Stake 0.00 DAI
+Unstake 0.00 DAI
+Claim 0.00 NEPTUNE ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - QUICK Price: $239.80 Market Cap: $229,138,111.05 [%]
+Staked: 0.0000 QUICK ($0.00)
+NEPTUNE Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 QUICK ($0.00), NaN% of the pool.
+Stake 0.00 QUICK
+Unstake 0.00 QUICK
+Claim 0.00 NEPTUNE ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - LINK Price: $18.95 Market Cap: $32,953,129.47 [%]
+Staked: 7.2836 LINK ($138.02)
+NEPTUNE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK
+Unstake 0.00 LINK
+Claim 0.00 NEPTUNE ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - CRYSTL Price: $0.00 Market Cap: $0.00 
+Staked: 7.4841 CRYSTL ($0.00)
+NEPTUNE Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 CRYSTL ($0.00), NaN% of the pool.
+Stake 0.00 CRYSTL
+Unstake 0.00 CRYSTL
+Claim 0.00 NEPTUNE ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - DMND Price: $0.00 Market Cap: $0.00 
+Staked: 37.9157 DMND ($0.00)
+NEPTUNE Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 DMND ($0.00), NaN% of the pool.
+Stake 0.00 DMND
+Unstake 0.00 DMND
+Claim 0.00 NEPTUNE ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - FISH Price: $0.00 Market Cap: $0.00 
+Staked: 44.7514 FISH ($0.00)
+NEPTUNE Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FISH ($0.00), NaN% of the pool.
+Stake 0.00 FISH
+Unstake 0.00 FISH
+Claim 0.00 NEPTUNE ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - PolyDoge Price: $0.0000000224 Market Cap: $22,447,000.00 [%]
+Staked: 96.1000 PolyDoge ($0.00)
+NEPTUNE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 PolyDoge ($0.00), 0.00% of the pool.
+Stake 0.00 PolyDoge
+Unstake 0.00 PolyDoge
+Claim 0.00 NEPTUNE ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - BANANA Price: $0.00 Market Cap: $0.00 
+Staked: 1.0943 BANANA ($0.00)
+NEPTUNE Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BANANA ($0.00), NaN% of the pool.
+Stake 0.00 BANANA
+Unstake 0.00 BANANA
+Claim 0.00 NEPTUNE ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - BONE Price: $0.00 Market Cap: $0.00 
+Staked: 0.9680 BONE ($0.00)
+NEPTUNE Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BONE ($0.00), NaN% of the pool.
+Stake 0.00 BONE
+Unstake 0.00 BONE
+Claim 0.00 NEPTUNE ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $1,271.27

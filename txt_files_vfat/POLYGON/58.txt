@@ -1,0 +1,135 @@
+***************************** POLYGON NETWORK ***************************************
+
+*************** 👨‍🌾 OFFICIAL POLYMAPLE FARMING CALCULATOR 👨‍🌾 ***********************
+INFO  : 
+A simple and growing project on Polygon. Good things starts small and grows organically
+
+🍁🍁🍁 NEWS 🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁
+
+Website is LIVE! -https://www.polymaple.com/
+
+MAPLE Token Value & Future - https://polymaple.medium.com/maple-token-value-future-9d41d8b449de
+
+🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁
+
+Buy MAPLE: https://quickswap.exchange/#/swap?outputCurrency=0x67F0e196fF54A624E4063fa3619D483Be336d5DB
+
+Farming
+ - Farming has started on block: 15378402 — Sat, Jun 5th 10 PM UTC
+ - Harvest Lockup Timers on Pool - 24 Hrs non-native, 12 hrs native (Maple token pools. Lazy apes don't want to harvest so often.)
+ - Pre-mine to only add funds to liquidity pool and marketing cost
+
+Deposit fees
+ - 3% on Non-native farms
+ - 0% on Native farms
+
+ Token
+ - Maple: 0x67F0e196fF54A624E4063fa3619D483Be336d5DB
+ - Max Supply Capped: Stop emissions of MAPLE on June 30th 4pm UTC (Approx. and burn minting capabilities.
+ - Anti-whale - 0.5% Max total supply transfer amount
+ - 5% Transfer fees - 5% Burned
+
+ Website - https://www.polymaple.com/
+ Medium - https://polymaple.medium.com/
+ Twitter - https://twitter.com/poly_maple/
+ Telegram - https://t.me/PolyMaple (Announcements) & https://t.me/PolyMapleChat (Friendly chat only)
+*************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Fri Dec 17 2021 09:38:57 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 8 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - MAPLE Price: $0.003758 Market Cap: $2,644.38 [%]
+Staked: 54376.9195 MAPLE ($204.35)
+MAPLE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 MAPLE ($0.00), 0.00% of the pool.
+Stake 0.00 MAPLE
+Unstake 0.00 MAPLE
+Claim 0.00 MAPLE ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - USDC Price: $1.00 Market Cap: $951,578,305.54 [%]
+Staked: 247.0928 USDC ($246.93)
+MAPLE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 3%
+Unstake 0.00 USDC
+Claim 0.00 MAPLE ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - WMATIC Price: $2.09 Market Cap: $636,968,108.36 [%]
+Staked: 118.1519 WMATIC ($246.94)
+MAPLE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 3%
+Unstake 0.00 WMATIC
+Claim 0.00 MAPLE ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - WETH Price: $3,948.09 Market Cap: $1,752,803,656.76 [%]
+Staked: 0.0451 WETH ($178.02)
+MAPLE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 3%
+Unstake 0.00 WETH
+Claim 0.00 MAPLE ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - WBTC Price: $47,530.00 Market Cap: $479,587,634.15 [%]
+Staked: 0.0010 WBTC ($48.50)
+MAPLE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 3%
+Unstake 0.00 WBTC
+Claim 0.00 MAPLE ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WMATIC]-[MAPLE] Uni LP [+] [-] [<=>] Price: $0.21 TVL: $1,324.36
+WMATIC Price: $2.09
+MAPLE Price: $0.003758
+Staked: 2722.8138 UNI-V2 ($582.89)
+MAPLE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WMATIC]-[MAPLE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[MAPLE] Uni LP
+Unstake 0.00 [WMATIC]-[MAPLE] Uni LP
+Claim 0.00 MAPLE ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [USDC]-[WETH] Uni LP [+] [-] [<=>] Price: $185,862,762.50 TVL: $80,886,517.63
+USDC Price: $1.00
+WETH Price: $3,948.09
+Staked: 0.0000 UNI-V2 ($0.00)
+MAPLE Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP - Fee 3%
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 MAPLE ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,793,079.84 TVL: $51,618,514.97
+WMATIC Price: $2.09
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($4.38)
+MAPLE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 3%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 MAPLE ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $1,512.01

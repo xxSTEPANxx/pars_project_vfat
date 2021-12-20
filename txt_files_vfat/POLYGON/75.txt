@@ -1,0 +1,134 @@
+***************************** POLYGON NETWORK ***************************************
+    
+*************** 👨‍🌾 UNOFFICIAL POLYMOUSEFINANCE FARMING CALCULATOR 👨‍🌾 ****************
+INFO  : https://polymouse.finance
+*************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Fri Dec 17 2021 09:46:43 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 12 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [USDC]-[MICE] Uni LP [+] [-] [<=>] Price: $5,709.41 TVL: $4.37
+USDC Price: $1.00
+MICE Price: $0.0000065435
+Staked: 0.0004 UNI-V2 ($2.47)
+MICE Per Week: 35409.84 ($0.23)
+APR: Day 1.34% Week 9.40% Year 488.75%
+You are staking 0.00 [USDC]-[MICE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[MICE] Uni LP
+Unstake 0.00 [USDC]-[MICE] Uni LP
+Claim 0.00 MICE ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WMATIC]-[MICE] Uni LP [+] [-] [<=>] Price: $0.01 TVL: $8.35
+WMATIC Price: $2.08
+MICE Price: $0.0000065435
+Staked: 968.4427 UNI-V2 ($7.74)
+MICE Per Week: 28327.87 ($0.19)
+APR: Day 0.34% Week 2.39% Year 124.49%
+You are staking 0.00 [WMATIC]-[MICE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[MICE] Uni LP
+Unstake 0.00 [WMATIC]-[MICE] Uni LP
+Claim 0.00 MICE ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - MICE Price: $0.0000065435 Market Cap: $18.30 [%]
+Staked: 1484689.2177 MICE ($9.72)
+MICE Per Week: 24786.89 ($0.16)
+APR: Day 0.24% Week 1.67% Year 86.81%
+You are staking 0.00 MICE ($0.00), 0.00% of the pool.
+Stake 0.00 MICE
+Unstake 0.00 MICE
+Claim 0.00 MICE ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - WMATIC Price: $2.08 Market Cap: $633,906,100.80 [%]
+Staked: 1.2843 WMATIC ($2.67)
+MICE Per Week: 14163.93 ($0.09)
+APR: Day 0.50% Week 3.47% Year 180.41%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 MICE ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - QUICK Price: $244.67 Market Cap: $233,791,583.11 [%]
+Staked: 0.0034 QUICK ($0.83)
+MICE Per Week: 14163.93 ($0.09)
+APR: Day 1.60% Week 11.17% Year 580.91%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 MICE ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - USDC Price: $1.00 Market Cap: $952,172,474.83 [%]
+Staked: 45.4490 USDC ($45.45)
+MICE Per Week: 14163.93 ($0.09)
+APR: Day 0.03% Week 0.20% Year 10.60%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 MICE ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - WETH Price: $3,949.34 Market Cap: $1,753,361,456.44 [%]
+Staked: 0.0000 WETH ($0.03)
+MICE Per Week: 14163.93 ($0.09)
+APR: Day 49.94% Week 349.61% Year 18179.87%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 MICE ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - LINK Price: $19.05 Market Cap: $33,165,200.44 [%]
+Staked: 0.0100 LINK ($0.19)
+MICE Per Week: 14163.93 ($0.09)
+APR: Day 6.96% Week 48.69% Year 2531.94%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 MICE ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - AAVE Price: $174.42 Market Cap: $47,467,500.83 [%]
+Staked: 0.0026 AAVE ($0.46)
+MICE Per Week: 14163.93 ($0.09)
+APR: Day 2.90% Week 20.29% Year 1055.22%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 MICE ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - SUSHI Price: $5.70 Market Cap: $3,216,399.45 [%]
+Staked: 0.0105 SUSHI ($0.06)
+MICE Per Week: 14163.93 ($0.09)
+APR: Day 22.08% Week 154.53% Year 8035.55%
+You are staking 0.00 SUSHI ($0.00), 0.00% of the pool.
+Stake 0.00 SUSHI - Fee 4%
+Unstake 0.00 SUSHI
+Claim 0.00 MICE ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [QUICK]-[MICE] Uni LP [+] [-] [<=>] Price: $0.08 TVL: $0.11
+QUICK Price: $244.67
+MICE Price: $0.0000065435
+Staked: 1.2309 UNI-V2 ($0.10)
+MICE Per Week: 28327.87 ($0.19)
+APR: Day 26.38% Week 184.68% Year 9603.38%
+You are staking 0.00 [QUICK]-[MICE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [QUICK]-[MICE] Uni LP
+Unstake 0.00 [QUICK]-[MICE] Uni LP
+Claim 0.00 MICE ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $69.71

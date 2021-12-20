@@ -1,0 +1,172 @@
+***************************** POLYGON NETWORK ****************************************
+
+*************** 🥩 UNOFFICIAL STEAKHOUSE.FINANCE FARMING CALCULATOR 🥩 **************
+INFO  : https://steakhouse.finance
+**************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Fri Dec 17 2021 09:27:12 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 13 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - Steak Price: $0.000161 Market Cap: $496.00 [%]
+Staked: 560847.4960 Steak ($90.21)
+STEAK Per Week: 36000.00 ($5.79)
+APR: Day 0.92% Week 6.42% Year 333.78%
+You are staking 0.00 Steak ($0.00), 0.00% of the pool.
+Stake 0.00 Steak
+Unstake 0.00 Steak
+Claim 0.00 STEAK ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [USDC]-[Steak] STEAK LP [+] [-] [<=>] Price: $27,535.40 TVL: $62.68
+USDC Price: $1.00
+Steak Price: $0.000161
+Staked: 0.0022 Lv1 ($61.14)
+STEAK Per Week: 18305.08 ($2.94)
+APR: Day 0.69% Week 4.82% Year 250.41%
+You are staking 0.00 [USDC]-[Steak] STEAK LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[Steak] STEAK LP
+Unstake 0.00 [USDC]-[Steak] STEAK LP
+Claim 0.00 STEAK ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WMATIC]-[Steak] STEAK LP [+] [-] [<=>] Price: $0.04 TVL: $89.41
+WMATIC Price: $2.10
+Steak Price: $0.000161
+Staked: 1216.9507 Lv1 ($49.95)
+STEAK Per Week: 30508.47 ($4.91)
+APR: Day 1.40% Week 9.82% Year 510.82%
+You are staking 0.00 [WMATIC]-[Steak] STEAK LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[Steak] STEAK LP
+Unstake 0.00 [WMATIC]-[Steak] STEAK LP
+Claim 0.00 STEAK ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WMATIC]-[USDC] STEAK LP [+] [-] [<=>] Price: $3,321,858.84 TVL: $235.61
+WMATIC Price: $2.10
+USDC Price: $1.00
+Staked: 0.0001 Lv1 ($227.35)
+STEAK Per Week: 6101.69 ($0.98)
+APR: Day 0.06% Week 0.43% Year 22.45%
+You are staking 0.00 [WMATIC]-[USDC] STEAK LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] STEAK LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] STEAK LP
+Claim 0.00 STEAK ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [WMATIC]-[WETH] STEAK LP [+] [-] [<=>] Price: $192.09 TVL: $68.10
+WMATIC Price: $2.10
+WETH Price: $3,954.76
+Staked: 0.0823 Lv1 ($15.81)
+STEAK Per Week: 6101.69 ($0.98)
+APR: Day 0.89% Week 6.21% Year 322.82%
+You are staking 0.00 [WMATIC]-[WETH] STEAK LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[WETH] STEAK LP - Fee 4%
+Unstake 0.00 [WMATIC]-[WETH] STEAK LP
+Claim 0.00 STEAK ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WBTC]-[USDC] STEAK LP [+] [-] [<=>] Price: $44,708,795,014,344.87 TVL: $2,067.58
+WBTC Price: $47,641.00
+USDC Price: $1.00
+Staked: 0.0000 Lv1 ($305.84)
+STEAK Per Week: 6101.69 ($0.98)
+APR: Day 0.05% Week 0.32% Year 16.69%
+You are staking 0.00 [WBTC]-[USDC] STEAK LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[USDC] STEAK LP - Fee 4%
+Unstake 0.00 [WBTC]-[USDC] STEAK LP
+Claim 0.00 STEAK ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [DAI]-[USDT] STEAK LP [+] [-] [<=>] Price: $63,501,360.73 TVL: $8.30
+DAI Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 Lv1 ($0.00)
+STEAK Per Week: 4881.36 ($0.79)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [DAI]-[USDT] STEAK LP ($0.00), NaN% of the pool.
+Stake 0.00 [DAI]-[USDT] STEAK LP - Fee 4%
+Unstake 0.00 [DAI]-[USDT] STEAK LP
+Claim 0.00 STEAK ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [USDC]-[DAI] STEAK LP [+] [-] [<=>] Price: $2,008,751.63 TVL: $2,515.57
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.0000 Lv1 ($97.88)
+STEAK Per Week: 4881.36 ($0.79)
+APR: Day 0.11% Week 0.80% Year 41.71%
+You are staking 0.00 [USDC]-[DAI] STEAK LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAI] STEAK LP - Fee 4%
+Unstake 0.00 [USDC]-[DAI] STEAK LP
+Claim 0.00 STEAK ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [USDC]-[USDT] STEAK LP [+] [-] [<=>] Price: $2,011,916,030,299.73 TVL: $27.31
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 Lv1 ($9.20)
+STEAK Per Week: 4881.36 ($0.79)
+APR: Day 1.22% Week 8.53% Year 443.81%
+You are staking 0.00 [USDC]-[USDT] STEAK LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[USDT] STEAK LP - Fee 4%
+Unstake 0.00 [USDC]-[USDT] STEAK LP
+Claim 0.00 STEAK ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [USDC]-[LINK] STEAK LP [+] [-] [<=>] Price: $8,937,059.50 TVL: $26.94
+USDC Price: $1.00
+LINK Price: $19.03
+Staked: 0.0000 Lv1 ($26.81)
+STEAK Per Week: 3050.85 ($0.49)
+APR: Day 0.26% Week 1.83% Year 95.18%
+You are staking 0.00 [USDC]-[LINK] STEAK LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[LINK] STEAK LP - Fee 4%
+Unstake 0.00 [USDC]-[LINK] STEAK LP
+Claim 0.00 STEAK ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [USDC]-[AAVE] STEAK LP [+] [-] [<=>] Price: $27,591,863.33 TVL: $1,656.65
+USDC Price: $1.00
+AAVE Price: $174.86
+Staked: 0.0001 Lv1 ($1,633.54)
+STEAK Per Week: 1830.51 ($0.29)
+APR: Day 0.00% Week 0.02% Year 0.94%
+You are staking 0.00 [USDC]-[AAVE] STEAK LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[AAVE] STEAK LP - Fee 4%
+Unstake 0.00 [USDC]-[AAVE] STEAK LP
+Claim 0.00 STEAK ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [USDC]-[WETH] STEAK LP [+] [-] [<=>] Price: $130,340,040.88 TVL: $108.20
+USDC Price: $1.00
+WETH Price: $3,954.76
+Staked: 0.0000 Lv1 ($58.05)
+STEAK Per Week: 3050.85 ($0.49)
+APR: Day 0.12% Week 0.85% Year 43.96%
+You are staking 0.00 [USDC]-[WETH] STEAK LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] STEAK LP - Fee 4%
+Unstake 0.00 [USDC]-[WETH] STEAK LP
+Claim 0.00 STEAK ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [Steak]-[USDT] STEAK LP [+] [-] [<=>] Price: $41,363,959.81 TVL: $61.81
+Steak Price: $0.000161
+USDT Price: $1.00
+Staked: 0.0000 Lv1 ($61.45)
+STEAK Per Week: 18305.08 ($2.94)
+APR: Day 0.68% Week 4.79% Year 249.17%
+You are staking 0.00 [Steak]-[USDT] STEAK LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Steak]-[USDT] STEAK LP
+Unstake 0.00 [Steak]-[USDT] STEAK LP
+Claim 0.00 STEAK ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $2,637.23

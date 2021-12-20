@@ -1,0 +1,166 @@
+***************************** POLYGON NETWORK *************************************
+
+*************** 👨‍🌾 UNOFFICIAL POLYGAMMA.FINANCE FARMING CALCULATOR 👨‍🌾 *************
+INFO  : https://polygamma.finance
+***********************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Thu Dec 16 2021 06:07:39 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 14 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - GAMMA Price: $0.00 Market Cap: $0.00 
+Staked: 18103.0284 GAMMA ($0.00)
+GAMMA Per Week: 656.64 ($57.25)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 GAMMA ($0.00), NaN% of the pool.
+Stake 0.00 GAMMA
+Unstake 0.00 GAMMA
+Claim 0.00 GAMMA ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - BETA Price: $0.00 Market Cap: $0.00 
+Staked: 1849.7151 BETA ($0.00)
+GAMMA Per Week: 207.36 ($18.08)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BETA ($0.00), NaN% of the pool.
+Stake 0.00 BETA
+Unstake 0.00 BETA
+Claim 0.00 GAMMA ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - ALPHA Price: $0.90 Market Cap: $8,410.98 [%]
+Staked: 646.0081 ALPHA ($584.25)
+GAMMA Per Week: 115.20 ($10.04)
+APR: Day 0.25% Week 1.72% Year 89.39%
+You are staking 0.00 ALPHA ($0.00), 0.00% of the pool.
+Stake 0.00 ALPHA
+Unstake 0.00 ALPHA
+Claim 0.00 GAMMA ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - SPADE Price: $0.00 Market Cap: $0.00 
+Staked: 6673.7044 SPADE ($0.00)
+GAMMA Per Week: 172.80 ($15.07)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SPADE ($0.00), NaN% of the pool.
+Stake 0.00 SPADE
+Unstake 0.00 SPADE
+Claim 0.00 GAMMA ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - USDC Price: $1.00 Market Cap: $943,523,274.91 [%]
+Staked: 4012.5706 USDC ($4,012.57)
+GAMMA Per Week: 391.68 ($34.15)
+APR: Day 0.12% Week 0.85% Year 44.25%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 GAMMA ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - USDT Price: $1.00 Market Cap: $313,461,279.68 [%]
+Staked: 1155.5115 USDT ($1,155.51)
+GAMMA Per Week: 380.16 ($33.14)
+APR: Day 0.41% Week 2.87% Year 149.15%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 GAMMA ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - DAI Price: $1.00 Market Cap: $374,131,149.78 [%]
+Staked: 3886.4546 DAI ($3,886.45)
+GAMMA Per Week: 380.16 ($33.14)
+APR: Day 0.12% Week 0.85% Year 44.35%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 GAMMA ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - WMATIC Price: $2.14 Market Cap: $651,045,716.04 [%]
+Staked: 397.2322 WMATIC ($850.08)
+GAMMA Per Week: 345.60 ($30.13)
+APR: Day 0.51% Week 3.54% Year 184.31%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 GAMMA ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - WETH Price: $4,040.21 Market Cap: $1,793,330,836.98 [%]
+Staked: 0.0077 WETH ($31.19)
+GAMMA Per Week: 345.60 ($30.13)
+APR: Day 13.80% Week 96.61% Year 5023.78%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 GAMMA ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - WBTC Price: $49,074.00 Market Cap: $497,800,844.82 [%]
+Staked: 0.0019 WBTC ($94.26)
+GAMMA Per Week: 345.60 ($30.13)
+APR: Day 4.57% Week 31.96% Year 1662.16%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 GAMMA ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [USDC]-[BETA] Uni LP [+] [-] [<=>] Price: $2,070,129.61 TVL: $4,293.97
+USDC Price: $1.00
+BETA Price: $0.79
+Staked: 0.0005 UNI-V2 ($994.13)
+GAMMA Per Week: 345.60 ($30.13)
+APR: Day 0.43% Week 3.03% Year 157.60%
+You are staking 0.00 [USDC]-[BETA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BETA] Uni LP
+Unstake 0.00 [USDC]-[BETA] Uni LP
+Claim 0.00 GAMMA ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [ALPHA]-[USDC] Uni LP [+] [-] [<=>] Price: $2,140,973.03 TVL: $697.49
+ALPHA Price: $0.90
+USDC Price: $1.00
+Staked: 0.0001 UNI-V2 ($215.79)
+GAMMA Per Week: 230.40 ($20.09)
+APR: Day 1.33% Week 9.31% Year 484.04%
+You are staking 0.00 [ALPHA]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ALPHA]-[USDC] Uni LP
+Unstake 0.00 [ALPHA]-[USDC] Uni LP
+Claim 0.00 GAMMA ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [USDC]-[GAMMA] Uni LP [+] [-] [<=>] Price: $644,363.61 TVL: $3,834.06
+USDC Price: $1.00
+GAMMA Price: $0.09
+Staked: 0.0039 UNI-V2 ($2,532.01)
+GAMMA Per Week: 4608.00 ($401.74)
+APR: Day 2.27% Week 15.87% Year 825.06%
+You are staking 0.00 [USDC]-[GAMMA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[GAMMA] Uni LP
+Unstake 0.00 [USDC]-[GAMMA] Uni LP
+Claim 0.00 GAMMA ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [WMATIC]-[GAMMA] Uni LP [+] [-] [<=>] Price: $0.92 TVL: $3,176.50
+WMATIC Price: $2.14
+GAMMA Price: $0.09
+Staked: 1946.5949 UNI-V2 ($1,800.19)
+GAMMA Per Week: 2995.20 ($261.13)
+APR: Day 2.07% Week 14.51% Year 754.30%
+You are staking 0.00 [WMATIC]-[GAMMA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[GAMMA] Uni LP
+Unstake 0.00 [WMATIC]-[GAMMA] Uni LP
+Claim 0.00 GAMMA ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $16,156.43

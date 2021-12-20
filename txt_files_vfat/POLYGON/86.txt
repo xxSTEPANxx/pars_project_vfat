@@ -1,0 +1,67 @@
+***************************** POLYGON NETWORK **********************************
+    
+*************** 👨‍🌾 UNOFFICIAL XDOLLAR FARMING CALCULATOR 👨‍🌾 *******************
+INFO  : https://xdollar.mcn.ventures
+********************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Fri Dec 17 2021 09:51:39 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+[USDC]-[XUSD] DMM-LP USDC-XUSD [+] [-] [<=>] LP Price: $2,025,781.76 TVL: $126,518.27
+USDC/XUSD Price: 3.04439398
+XUSD/USDC Price: 0.32847260
+Reward Tokens: KNC $1.30 XDO $0.00
+Rewards Per Week: KNC 0.00000000 ($0.00) XDO 0.00000000 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+Total Staked: 0.061850624006804585 DMM-LP USDC-xUSD ($125,295.87)
+You are staking 0.000000000000000000 DMM-LP USDC-xUSD $0.00 (0.00% of the pool).
+Vesting rewards: 0.00000000 KNC ($0.00) 0.00000000 XDO ($0.00)
+Vested rewards: 0.00000000 KNC ($0.00) 0.00000000 XDO ($0.00)
+Polygon Explorer
+Stake 0.000000000000000000 DMM-LP USDC-xUSD
+Withdraw 0.000000000000000000 DMM-LP USDC-xUSD
+Harvest 0.0000 KNC ($0.00) 0.0000 XDO ($0.00)
+Claim 0.00000000 KNC ($0.00) 0.00000000 XDO ($0.00)
+Revoke (set approval to 0)
+
+[IS3USD]-[xUSD] IRON-LP Price: $1.25 TVL: $2,250.76
+IS3USD Price: $1.00
+xUSD Price: $1.02
+Staked: 1,652.47 [IS3USD]-[xUSD] IRON-LP ($2,250.76)
+XDO Per Week: 0.00 ($0.00)
+APR (avg. GYSR multipliers 1.83x): Day 0.00% Week 0.00% Year 0.00%
+APR (w/o GYSR multipliers 1x): Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [IS3USD]-[xUSD] IRON-LP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [IS3USD]-[xUSD] IRON-LP
+Unstake 0.000000 [IS3USD]-[xUSD] IRON-LP
+Claim 0.000000 XDO ($0.00)
+Revoke (set approval to 0)
+Exit
+
+xUSD Price: $1.02 Market Cap: $424,785.02 [%]
+Staked: 286773.9794 xUSD ($292,509.46)
+XDO Per Week: 92592.59 ($80.38)
+APR: Day 0.00% Week 0.03% Year 1.43%
+You are staking 0.000000 xUSD $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 xUSD
+Unstake 0.000000 xUSD
+Claim 0.000000 XDO ($0.00) + 0.000000 WMATIC ($0.00)
+Revoke (set approval to 0)
+Exit
+
+XDO Price: $0.000868 Market Cap: $55,556.48 [%]
+Staked: 1694881.8670 XDO ($1,471.28)
+You are staking 0.000000 XDO $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 XDO
+Unstake 0.000000 XDO
+Claim 0.000000 xUSD ($0.00) + 0.000000 WMATIC ($0.00)
+Revoke (set approval to 0)
+Exit

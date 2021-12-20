@@ -1,0 +1,26 @@
+***************************** POLYGON NETWORK *****************************************
+
+*************** 👨‍🌾 UNOFFICIAL PICKLE.FINANCE FARMING CALCULATOR 👨‍🌾 ******************
+INFO  : https://app.pickle.finance/
+***************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Fri Dec 17 2021 10:26:52 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 17 pools.
+Showing incentivized pools only.
+{
+  "code": -32603,
+  "message": "Non-200 status code: '404'",
+  "data": {
+    "message": "Not Found",
+    "url": "/v3/295cce92179b4be498665b1b16dfee34",
+    "status": "404"
+  }
+}
+Oops something went wrong. Try refreshing the page.

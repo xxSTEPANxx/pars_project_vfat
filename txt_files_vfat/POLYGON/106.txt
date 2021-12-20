@@ -1,0 +1,40 @@
+***************************** POLYGON NETWORK ********************************
+    
+*************** 👨‍🌾 UNOFFICIAL KOGEFARM FARMING CALCULATOR 👨‍🌾 ****************
+INFO  : https://kogefarm.io
+******************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Fri Dec 17 2021 10:04:20 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 2 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [WMATIC]-[KOGECOIN] Uni LP [+] [-] [<=>] Price: $47,805.99 TVL: $1,735,972.92
+WMATIC Price: $2.08
+KOGECOIN Price: $0.17
+Staked: 35.9379 UNI-V2 ($1,718,046.15)
+KOGETOKEN Per Week: 403200.00 ($70,049.71)
+APR: Day 0.58% Week 4.08% Year 212.02%
+You are staking 0.00 [WMATIC]-[KOGECOIN] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[KOGECOIN] Uni LP
+Unstake 0.00 [WMATIC]-[KOGECOIN] Uni LP
+Claim 0.00 KOGETOKEN ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - KOGECOIN Price: $0.17 Market Cap: $8,686,719.91 [%]
+Staked: 18016415.6491 KOGECOIN ($3,130,071.13)
+KOGETOKEN Per Week: 403200.00 ($70,049.71)
+APR: Day 0.32% Week 2.24% Year 116.37%
+You are staking 0.00 KOGECOIN ($0.00), 0.00% of the pool.
+Stake 0.00 KOGECOIN
+Unstake 0.00 KOGECOIN
+Claim 0.00 KOGETOKEN ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $4,848,117.28

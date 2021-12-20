@@ -1,0 +1,204 @@
+***************************** POLYGON NETWORK *****************************************
+    
+*************** 👨‍🌾 UNOFFICIAL POLYVERYEX.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://polyvertex.finance/farms
+***************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Fri Dec 17 2021 09:54:04 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 18 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [USDC]-[VERT] Uni LP [+] [-] [<=>] Price: $402,630.93 TVL: $1,738.42
+USDC Price: $1.00
+VERT Price: $0.02
+Staked: 0.0041 UNI-V2 ($1,665.38)
+VERT Per Week: 2539.68 ($53.66)
+APR: Day 0.46% Week 3.22% Year 167.56%
+You are staking 0.00 [USDC]-[VERT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[VERT] Uni LP
+Unstake 0.00 [USDC]-[VERT] Uni LP
+Claim 0.00 VERT ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WMATIC]-[VERT] Uni LP [+] [-] [<=>] Price: $0.57 TVL: $1,515.06
+WMATIC Price: $2.08
+VERT Price: $0.02
+Staked: 2095.8609 UNI-V2 ($1,188.74)
+VERT Per Week: 2539.68 ($53.66)
+APR: Day 0.64% Week 4.51% Year 234.75%
+You are staking 0.00 [WMATIC]-[VERT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[VERT] Uni LP
+Unstake 0.00 [WMATIC]-[VERT] Uni LP
+Claim 0.00 VERT ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,780,419.76 TVL: $51,526,772.82
+WMATIC Price: $2.08
+USDC Price: $1.00
+Staked: 0.0002 UNI-V2 ($919.00)
+VERT Per Week: 126.98 ($2.68)
+APR: Day 0.04% Week 0.29% Year 15.18%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 3.5%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 VERT ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - VERT Price: $0.02 Market Cap: $7,998.62 [%]
+Staked: 165073.6786 VERT ($3,488.09)
+VERT Per Week: 2539.68 ($53.66)
+APR: Day 0.22% Week 1.54% Year 80.00%
+You are staking 0.00 VERT ($0.00), 0.00% of the pool.
+Stake 0.00 VERT
+Unstake 0.00 VERT
+Claim 0.00 VERT ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [VERT]-[WETH] Uni LP [+] [-] [<=>] Price: $21.36 TVL: $1,137.89
+VERT Price: $0.02
+WETH Price: $3,943.93
+Staked: 50.8576 UNI-V2 ($1,086.11)
+VERT Per Week: 2539.68 ($53.66)
+APR: Day 0.71% Week 4.94% Year 256.93%
+You are staking 0.00 [VERT]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [VERT]-[WETH] Uni LP
+Unstake 0.00 [VERT]-[WETH] Uni LP
+Claim 0.00 VERT ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - USDC Price: $1.00 Market Cap: $951,973,466.21 [%]
+Staked: 853.3157 USDC ($853.12)
+VERT Per Week: 126.98 ($2.68)
+APR: Day 0.04% Week 0.31% Year 16.36%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 3.5%
+Unstake 0.00 USDC
+Claim 0.00 VERT ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - WMATIC Price: $2.08 Market Cap: $633,961,552.39 [%]
+Staked: 693.7559 WMATIC ($1,443.01)
+VERT Per Week: 126.98 ($2.68)
+APR: Day 0.03% Week 0.19% Year 9.67%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 3.5%
+Unstake 0.00 WMATIC
+Claim 0.00 VERT ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - USDT Price: $1.00 Market Cap: $318,650,200.66 [%]
+Staked: 490.3258 USDT ($488.64)
+VERT Per Week: 126.98 ($2.68)
+APR: Day 0.08% Week 0.55% Year 28.55%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 3.5%
+Unstake 0.00 USDT
+Claim 0.00 VERT ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [USDC]-[WETH] Uni LP [+] [-] [<=>] Price: $185,803,808.85 TVL: $80,863,547.40
+USDC Price: $1.00
+WETH Price: $3,943.93
+Staked: 0.0000 UNI-V2 ($1,583.16)
+VERT Per Week: 126.98 ($2.68)
+APR: Day 0.02% Week 0.17% Year 8.81%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP - Fee 3.5%
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 VERT ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - WBTC Price: $47,467.00 Market Cap: $478,951,950.98 [%]
+Staked: 0.0041 WBTC ($196.51)
+VERT Per Week: 126.98 ($2.68)
+APR: Day 0.20% Week 1.37% Year 71.00%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 3.5%
+Unstake 0.00 WBTC
+Claim 0.00 VERT ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [WBTC]-[USDC] Uni LP [+] [-] [<=>] Price: $51,162,269,345,849.45 TVL: $11,458,571.46
+WBTC Price: $47,467.00
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($169.84)
+VERT Per Week: 126.98 ($2.68)
+APR: Day 0.23% Week 1.58% Year 82.15%
+You are staking 0.00 [WBTC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[USDC] Uni LP - Fee 3.5%
+Unstake 0.00 [WBTC]-[USDC] Uni LP
+Claim 0.00 VERT ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - WETH Price: $3,943.93 Market Cap: $1,751,060,889.25 [%]
+Staked: 0.0525 WETH ($206.98)
+VERT Per Week: 126.98 ($2.68)
+APR: Day 0.19% Week 1.30% Year 67.41%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 3.5%
+Unstake 0.00 WETH
+Claim 0.00 VERT ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [ROUTE (PoS)]-[VERT] DFYN LP [+] [-] [<=>] Price: $0.59 TVL: $1,245.05
+ROUTE (PoS) Price: $3.94
+VERT Price: $0.02
+Staked: 1592.4195 DFYNLP ($941.18)
+VERT Per Week: 2539.68 ($53.66)
+APR: Day 0.81% Week 5.70% Year 296.50%
+You are staking 0.00 [ROUTE (PoS)]-[VERT] DFYN LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ROUTE (PoS)]-[VERT] DFYN LP
+Unstake 0.00 [ROUTE (PoS)]-[VERT] DFYN LP
+Claim 0.00 VERT ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - KOGECOIN Price: $0.00 Market Cap: $0.00 
+Staked: 2467.9428 KOGECOIN ($0.00)
+VERT Per Week: 304.76 ($6.44)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 KOGECOIN ($0.00), NaN% of the pool.
+Stake 0.00 KOGECOIN
+Unstake 0.00 KOGECOIN
+Claim 0.00 VERT ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [ROUTE (PoS)]-[DFYN] DFYN LP [+] [-] [<=>] Price: $2.56 TVL: $4,642,296.17
+ROUTE (PoS) Price: $3.94
+DFYN Price: $0.34
+Staked: 18.3374 DFYNLP ($46.95)
+VERT Per Week: 126.98 ($2.68)
+APR: Day 0.82% Week 5.72% Year 297.19%
+You are staking 0.00 [ROUTE (PoS)]-[DFYN] DFYN LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ROUTE (PoS)]-[DFYN] DFYN LP - Fee 3.5%
+Unstake 0.00 [ROUTE (PoS)]-[DFYN] DFYN LP
+Claim 0.00 VERT ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - AVAX Price: $0.00 Market Cap: $0.00 
+Staked: 1.7703 AVAX ($0.00)
+VERT Per Week: 126.98 ($2.68)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 AVAX ($0.00), NaN% of the pool.
+Stake 0.00 AVAX - Fee 3.5%
+Unstake 0.00 AVAX
+Claim 0.00 VERT ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - LINK Price: $19.06 Market Cap: $33,182,610.00 [%]
+Staked: 5.6453 LINK ($107.60)
+VERT Per Week: 126.98 ($2.68)
+APR: Day 0.36% Week 2.49% Year 129.67%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 3.5%
+Unstake 0.00 LINK
+Claim 0.00 VERT ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $14,384.30

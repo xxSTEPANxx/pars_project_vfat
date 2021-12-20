@@ -1,0 +1,97 @@
+***************************** POLYGON NETWORK *********************************************
+
+*************** 👨‍🌾 UNOFFICIAL HONEST.WORK.FINANCE FARMING CALCULATOR 👨‍🌾 ***********************
+
+Welcome to the first deflationary, fixed supply yield farm in polygon! It ain't much but it's honest work!!!
+
+INFO  : https://www.honestwork.farm/
+        
+
+Telegram  : https://t.me/honestworkfarms
+
+🚜 Token Contract Address : 0x4dA646B71014332AE8370017d05205346d3ca50A
+
+👨‍🌾 HonestChef Address : 0xf43261d712cCa4aE55b34B77d9157e773254D1dF
+
+
+After all the farms of the inflationary tokens bring their price to 0 we wanted to create a farm where you know for sure the native token has a floor!
+
+This floor is calculated based on the 33% supply allocated to the farms, considering this in the worst case cenario the token drops 50% of the initial 
+price if ALL the tokens are farmed and sold with NO Buys.
+
+the initial 🚜 APR's will be low and will be increased in a logaritmic model based on the fibonnacci sequence!
+
+Thank y'all in advance it ain't much but you know it!!
+this ain't no financial advise consider this as a Meme farmable Token please Ape only what your degen minds consider SAFU 
+*******************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Fri Dec 17 2021 10:11:23 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 10 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [USDC]-[🚜] Uni LP [+] [-] [<=>] Price: $263,356.97 TVL: $639.24
+USDC Price: $1.00
+🚜 Price: $0.006570
+Staked: 0.0022 UNI-V2 ($579.27)
+HONEST Per Week: 68520282.35 ($450,205.27)
+APR: Day 11102.77% Week 77719.41% Year 4041409.26%
+You are staking 0.00 [USDC]-[🚜] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[🚜] Uni LP
+Unstake 0.00 [USDC]-[🚜] Uni LP
+Claim 0.00 HONEST ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,766,046.26 TVL: $51,398,873.77
+WMATIC Price: $2.07
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($2.92)
+HONEST Per Week: 97886117.65 ($643,150.39)
+APR: Day 3150698.96% Week 22054892.71% Year 1146854420.87%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 3.9%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 HONEST ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WMATIC]-[🚜] Uni LP [+] [-] [<=>] Price: $0.25 TVL: $3,488.35
+WMATIC Price: $2.07
+🚜 Price: $0.006570
+Staked: 334.0639 UNI-V2 ($84.55)
+HONEST Per Week: 97886117.65 ($643,150.39)
+APR: Day 108673.51% Week 760714.57% Year 39557157.78%
+You are staking 0.00 [WMATIC]-[🚜] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[🚜] Uni LP - Fee 3.9%
+Unstake 0.00 [WMATIC]-[🚜] Uni LP
+Claim 0.00 HONEST ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - 🚜 Price: $0.006570 Market Cap: $2,839.36 [%]
+Staked: 11103.5575 🚜 ($72.95)
+HONEST Per Week: 9788611.76 ($64,315.04)
+APR: Day 12593.92% Week 88157.44% Year 4584186.77%
+You are staking 0.00 🚜 ($0.00), 0.00% of the pool.
+Stake 0.00 🚜
+Unstake 0.00 🚜
+Claim 0.00 HONEST ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDC]-[DAI] Uni LP [+] [-] [<=>] Price: $76,196,156.92 TVL: $7,267,205.43
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.0000 UNI-V2 ($599.10)
+HONEST Per Week: 3262870.59 ($21,438.35)
+APR: Day 511.21% Week 3578.44% Year 186078.97%
+You are staking 0.00 [USDC]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAI] Uni LP - Fee 2.33%
+Unstake 0.00 [USDC]-[DAI] Uni LP
+Claim 0.00 HONEST ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $1,338.78

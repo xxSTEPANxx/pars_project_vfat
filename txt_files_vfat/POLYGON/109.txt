@@ -1,0 +1,195 @@
+***************************** POLYGON NETWORK *********************************************
+
+*************** 👨‍🌾 UNOFFICIAL AUGURY.FINANCE FARMING CALCULATOR 👨‍🌾 ***********************
+INFO  : https://augury.finance
+*******************************************************************************************
+
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Fri Dec 17 2021 10:06:44 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 19 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - OMEN Price: $0.01 Market Cap: $516,187.24 [%]
+Staked: 26893355.2187 OMEN ($271,943.59)
+OMEN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 OMEN ($0.00), 0.00% of the pool.
+Stake 0.00 OMEN
+Unstake 0.00 OMEN
+Claim 0.00 OMEN ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [USDC]-[OMEN] Uni LP [+] [-] [<=>] Price: $255,981.09 TVL: $79,265.70
+USDC Price: $1.00
+OMEN Price: $0.01
+Staked: 0.2838 UNI-V2 ($72,659.03)
+OMEN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDC]-[OMEN] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[OMEN] Uni LP
+Unstake 0.00 [USDC]-[OMEN] Uni LP
+Claim 0.00 OMEN ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - WMATIC Price: $2.08 Market Cap: $634,288,971.53 [%]
+Staked: 63211.5249 WMATIC ($131,479.97)
+OMEN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC
+Unstake 0.00 WMATIC
+Claim 0.00 OMEN ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - WBTC Price: $47,416.00 Market Cap: $478,437,350.32 [%]
+Staked: 3.1806 WBTC ($150,809.61)
+OMEN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC
+Unstake 0.00 WBTC
+Claim 0.00 OMEN ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - WETH Price: $3,931.27 Market Cap: $1,745,503,601.16 [%]
+Staked: 5.5847 WETH ($21,955.03)
+OMEN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH
+Unstake 0.00 WETH
+Claim 0.00 OMEN ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - QUICK Price: $242.80 Market Cap: $232,004,726.28 [%]
+Staked: 103.0025 QUICK ($25,009.01)
+OMEN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK
+Unstake 0.00 QUICK
+Claim 0.00 OMEN ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - FISH Price: $0.00 Market Cap: $0.00 
+Staked: 1592.6856 FISH ($0.00)
+OMEN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FISH ($0.00), NaN% of the pool.
+Stake 0.00 FISH
+Unstake 0.00 FISH
+Claim 0.00 OMEN ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - USDC Price: $1.00 Market Cap: $950,101,653.83 [%]
+Staked: 10282.4358 USDC ($10,259.77)
+OMEN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC
+Unstake 0.00 USDC
+Claim 0.00 OMEN ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - USDT Price: $1.00 Market Cap: $319,147,443.50 [%]
+Staked: 2424.1191 USDT ($2,419.55)
+OMEN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT
+Unstake 0.00 USDT
+Claim 0.00 OMEN ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - DAI Price: $1.00 Market Cap: $367,202,989.72 [%]
+Staked: 1291.1288 DAI ($1,289.57)
+OMEN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI
+Unstake 0.00 DAI
+Claim 0.00 OMEN ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - PolyDoge Price: $0.0000000233 Market Cap: $23,263,000.00 [%]
+Staked: 5686298432877.1055 PolyDoge ($132,280.36)
+OMEN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 PolyDoge ($0.00), 0.00% of the pool.
+Stake 0.00 PolyDoge
+Unstake 0.00 PolyDoge
+Claim 0.00 OMEN ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - LINK Price: $19.04 Market Cap: $33,109,635.09 [%]
+Staked: 21.3521 LINK ($406.54)
+OMEN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK
+Unstake 0.00 LINK
+Claim 0.00 OMEN ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - AGA Price: $0.00 Market Cap: $0.00 
+Staked: 4705.3204 AGA ($0.00)
+OMEN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 AGA ($0.00), NaN% of the pool.
+Stake 0.00 AGA
+Unstake 0.00 AGA
+Claim 0.00 OMEN ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - AGAr Price: $0.00 Market Cap: $0.00 
+Staked: 7.3926 AGAr ($0.00)
+OMEN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 AGAr ($0.00), NaN% of the pool.
+Stake 0.00 AGAr
+Unstake 0.00 AGAr
+Claim 0.00 OMEN ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - SUSHI Price: $5.66 Market Cap: $3,193,828.23 [%]
+Staked: 128.2749 SUSHI ($726.04)
+OMEN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 SUSHI ($0.00), 0.00% of the pool.
+Stake 0.00 SUSHI
+Unstake 0.00 SUSHI
+Claim 0.00 OMEN ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [OMEN]-[WETH] SLP [+] [-] [<=>] Price: $13.29 TVL: $36,859.15
+OMEN Price: $0.01
+WETH Price: $3,931.27
+Staked: 2236.0432 SLP ($29,717.56)
+OMEN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [OMEN]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [OMEN]-[WETH] SLP
+Unstake 0.00 [OMEN]-[WETH] SLP
+Claim 0.00 OMEN ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [WMATIC]-[OMEN] SLP [+] [-] [<=>] Price: $0.36 TVL: $37,619.87
+WMATIC Price: $2.08
+OMEN Price: $0.01
+Staked: 81580.5459 SLP ($29,692.28)
+OMEN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WMATIC]-[OMEN] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[OMEN] SLP
+Unstake 0.00 [WMATIC]-[OMEN] SLP
+Claim 0.00 OMEN ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $880,647.91

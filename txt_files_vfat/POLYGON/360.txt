@@ -1,0 +1,180 @@
+***************************** POLYGON NETWORK ********************************************
+
+*************** 👨‍🌾 UNOFFICIAL SANDMAN FARMING FARMING CALCULATOR 👨‍🌾 *********************
+INFO  : https://delirium.sandman.finance
+******************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Thu Dec 16 2021 05:52:55 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 15 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [DELIRIUM]-[USDC] Uni LP [+] [-] [<=>] Price: $214,405.54 TVL: $1,749.94
+DELIRIUM Price: $0.009608
+USDC Price: $1.00
+Staked: 0.0003 UNI-V2 ($61.20)
+delirium Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [DELIRIUM]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DELIRIUM]-[USDC] Uni LP
+Unstake 0.00 [DELIRIUM]-[USDC] Uni LP
+Claim 0.00 delirium ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WMATIC]-[DELIRIUM] Uni LP [+] [-] [<=>] Price: $0.32 TVL: $2,763.66
+WMATIC Price: $2.15
+DELIRIUM Price: $0.009608
+Staked: 178.0292 UNI-V2 ($57.29)
+delirium Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WMATIC]-[DELIRIUM] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[DELIRIUM] Uni LP
+Unstake 0.00 [WMATIC]-[DELIRIUM] Uni LP
+Claim 0.00 delirium ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - DELIRIUM Price: $0.009608 Market Cap: $4,804.14 [%]
+Staked: 2608.8695 DELIRIUM ($25.07)
+delirium Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 DELIRIUM ($0.00), 0.00% of the pool.
+Stake 0.00 DELIRIUM
+Unstake 0.00 DELIRIUM
+Claim 0.00 delirium ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,872,775.90 TVL: $52,318,441.99
+WMATIC Price: $2.15
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($116.81)
+delirium Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 delirium ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDC]-[USDT] Uni LP [+] [-] [<=>] Price: $2,624,551,848,014.19 TVL: $24,542,808.52
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($810.09)
+delirium Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[USDT] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[USDT] Uni LP
+Claim 0.00 delirium ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [USDC]-[DAI] Uni LP [+] [-] [<=>] Price: $76,278,407.73 TVL: $7,329,458.75
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.00)
+delirium Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [USDC]-[DAI] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[DAI] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[DAI] Uni LP
+Claim 0.00 delirium ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [USDC]-[WETH] Uni LP [+] [-] [<=>] Price: $187,985,340.12 TVL: $79,026,118.39
+USDC Price: $1.00
+WETH Price: $4,038.20
+Staked: 0.0000 UNI-V2 ($2,865.00)
+delirium Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 delirium ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - WMATIC Price: $2.15 Market Cap: $654,569,406.74 [%]
+Staked: 9604.9015 WMATIC ($20,650.54)
+delirium Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 delirium ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - USDC Price: $1.00 Market Cap: $943,395,526.17 [%]
+Staked: 799.7280 USDC ($799.73)
+delirium Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 delirium ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - WETH Price: $4,038.20 Market Cap: $1,792,422,556.17 [%]
+Staked: 0.1184 WETH ($478.02)
+delirium Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 delirium ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - WBTC Price: $49,041.00 Market Cap: $497,466,096.73 [%]
+Staked: 0.0011 WBTC ($53.11)
+delirium Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 delirium ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - DAI Price: $1.00 Market Cap: $374,131,149.78 [%]
+Staked: 106.2381 DAI ($106.24)
+delirium Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 delirium ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - USDT Price: $1.00 Market Cap: $313,461,279.68 [%]
+Staked: 48.0000 USDT ($48.00)
+delirium Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 delirium ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - LINK Price: $19.96 Market Cap: $34,618,687.89 [%]
+Staked: 3.5203 LINK ($70.27)
+delirium Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 delirium ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - QUICK Price: $251.12 Market Cap: $239,952,211.27 [%]
+Staked: 0.0000 QUICK ($0.00)
+delirium Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 delirium ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $26,141.35

@@ -1,0 +1,226 @@
+***************************** POLYGON NETWORK *************************************
+    
+*************** 👨‍🌾 UNOFFICIAL KUNAIFARM FARMING CALCULATOR 👨‍🌾 *********************
+INFO  : https://kunai.dojofarm.finance
+***********************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Fri Dec 17 2021 11:03:12 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 19 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [WMATIC]-[KUNAI] Uni LP [+] [-] [<=>] Price: $0.08 TVL: $2,657.77
+WMATIC Price: $2.04
+KUNAI Price: $0.000706
+Staked: 2493.3750 UNI-V2 ($194.87)
+KUNAI Per Week: 20752.94 ($14.65)
+APR: Day 1.07% Week 7.52% Year 390.92%
+You are staking 0.00 [WMATIC]-[KUNAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[KUNAI] Uni LP
+Unstake 0.00 [WMATIC]-[KUNAI] Uni LP
+Claim 0.00 KUNAI ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [USDC]-[KUNAI] Uni LP [+] [-] [<=>] Price: $55,336.46 TVL: $1,212.22
+USDC Price: $1.00
+KUNAI Price: $0.000706
+Staked: 0.0025 UNI-V2 ($139.09)
+KUNAI Per Week: 20752.94 ($14.65)
+APR: Day 1.50% Week 10.53% Year 547.68%
+You are staking 0.00 [USDC]-[KUNAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[KUNAI] Uni LP
+Unstake 0.00 [USDC]-[KUNAI] Uni LP
+Claim 0.00 KUNAI ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - KUNAI Price: $0.000706 Market Cap: $3,028.27 [%]
+Staked: 788882.1108 KUNAI ($556.89)
+KUNAI Per Week: 20752.94 ($14.65)
+APR: Day 0.38% Week 2.63% Year 136.80%
+You are staking 0.00 KUNAI ($0.00), 0.00% of the pool.
+Stake 0.00 KUNAI
+Unstake 0.00 KUNAI
+Claim 0.00 KUNAI ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - WMATIC Price: $2.04 Market Cap: $622,374,402.53 [%]
+Staked: 72.4032 WMATIC ($147.70)
+KUNAI Per Week: 4150.59 ($2.93)
+APR: Day 0.28% Week 1.98% Year 103.15%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 KUNAI ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - USDC Price: $1.00 Market Cap: $952,294,882.74 [%]
+Staked: 570.5314 USDC ($570.53)
+KUNAI Per Week: 4150.59 ($2.93)
+APR: Day 0.07% Week 0.51% Year 26.70%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 KUNAI ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,725,777.34 TVL: $51,038,466.45
+WMATIC Price: $2.04
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($243.25)
+KUNAI Per Week: 4150.59 ($2.93)
+APR: Day 0.17% Week 1.20% Year 62.64%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 KUNAI ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - WBTC Price: $47,011.00 Market Cap: $475,306,225.11 [%]
+Staked: 0.0015 WBTC ($69.79)
+KUNAI Per Week: 4150.59 ($2.93)
+APR: Day 0.60% Week 4.20% Year 218.33%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 KUNAI ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - USDT Price: $1.00 Market Cap: $319,648,497.92 [%]
+Staked: 238.7632 USDT ($238.69)
+KUNAI Per Week: 4150.59 ($2.93)
+APR: Day 0.18% Week 1.23% Year 63.83%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 KUNAI ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - DAI Price: $1.00 Market Cap: $367,647,843.61 [%]
+Staked: 271.0982 DAI ($271.10)
+KUNAI Per Week: 4150.59 ($2.93)
+APR: Day 0.15% Week 1.08% Year 56.20%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 KUNAI ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - LINK Price: $18.95 Market Cap: $32,953,129.47 [%]
+Staked: 5.8464 LINK ($110.79)
+KUNAI Per Week: 4150.59 ($2.93)
+APR: Day 0.38% Week 2.64% Year 137.52%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 KUNAI ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - AAVE Price: $170.65 Market Cap: $46,441,514.83 [%]
+Staked: 0.7587 AAVE ($129.47)
+KUNAI Per Week: 4150.59 ($2.93)
+APR: Day 0.32% Week 2.26% Year 117.68%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 KUNAI ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [USDC]-[USDT] Uni LP [+] [-] [<=>] Price: $2,624,526,586,686.72 TVL: $24,092,714.69
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($205.55)
+KUNAI Per Week: 4150.59 ($2.93)
+APR: Day 0.20% Week 1.43% Year 74.12%
+You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[USDT] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[USDT] Uni LP
+Claim 0.00 KUNAI ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [USDC]-[WETH] Uni LP [+] [-] [<=>] Price: $184,413,240.56 TVL: $80,258,830.20
+USDC Price: $1.00
+WETH Price: $3,883.86
+Staked: 0.0000 UNI-V2 ($160.31)
+KUNAI Per Week: 4150.59 ($2.93)
+APR: Day 0.26% Week 1.83% Year 95.04%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 KUNAI ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [WMATIC]-[WETH] Uni LP [+] [-] [<=>] Price: $235.51 TVL: $108,371,979.40
+WMATIC Price: $2.04
+WETH Price: $3,883.86
+Staked: 0.5431 UNI-V2 ($127.91)
+KUNAI Per Week: 4150.59 ($2.93)
+APR: Day 0.33% Week 2.29% Year 119.11%
+You are staking 0.00 [WMATIC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[WETH] Uni LP
+Claim 0.00 KUNAI ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [WMATIC]-[QUICK] Uni LP [+] [-] [<=>] Price: $62.75 TVL: $9,308,557.96
+WMATIC Price: $2.04
+QUICK Price: $239.78
+Staked: 1.4238 UNI-V2 ($89.35)
+KUNAI Per Week: 4150.59 ($2.93)
+APR: Day 0.47% Week 3.28% Year 170.53%
+You are staking 0.00 [WMATIC]-[QUICK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[QUICK] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[QUICK] Uni LP
+Claim 0.00 KUNAI ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [USDC]-[DOJO] Uni LP [+] [-] [<=>] Price: $128,784.31 TVL: $804.62
+USDC Price: $1.00
+DOJO Price: $0.002331
+Staked: 0.0009 UNI-V2 ($118.83)
+KUNAI Per Week: 10376.47 ($7.32)
+APR: Day 0.88% Week 6.16% Year 320.53%
+You are staking 0.00 [USDC]-[DOJO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DOJO] Uni LP
+Unstake 0.00 [USDC]-[DOJO] Uni LP
+Claim 0.00 KUNAI ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [WMATIC]-[DOJO] Uni LP [+] [-] [<=>] Price: $0.17 TVL: $3,791.19
+WMATIC Price: $2.04
+DOJO Price: $0.002331
+Staked: 3027.3404 UNI-V2 ($500.22)
+KUNAI Per Week: 10376.47 ($7.32)
+APR: Day 0.21% Week 1.46% Year 76.15%
+You are staking 0.00 [WMATIC]-[DOJO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[DOJO] Uni LP
+Unstake 0.00 [WMATIC]-[DOJO] Uni LP
+Claim 0.00 KUNAI ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - WETH Price: $3,883.86 Market Cap: $1,724,600,292.24 [%]
+Staked: 0.0328 WETH ($127.39)
+KUNAI Per Week: 4150.59 ($2.93)
+APR: Day 0.33% Week 2.30% Year 119.60%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 KUNAI ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - QUICK Price: $239.78 Market Cap: $229,119,000.28 [%]
+Staked: 0.0642 QUICK ($15.39)
+KUNAI Per Week: 4150.59 ($2.93)
+APR: Day 2.72% Week 19.04% Year 990.16%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 KUNAI ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $4,017.11

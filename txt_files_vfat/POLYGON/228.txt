@@ -1,0 +1,40 @@
+***************************** POLYGON NETWORK *****************************************
+    
+*************** 👨‍🌾 UNOFFICIAL STONK SHARE FARMING CALCULATOR 👨‍🌾 ****************
+INFO  : https://shares.stonk.farm/
+***************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Fri Dec 17 2021 11:09:52 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 2 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - StonkS Price: $0.005728 Market Cap: $453.58 [%]
+Staked: 39493.6399 StonkS ($226.22)
+STONKS Per Week: 960.00 ($5.50)
+APR: Day 0.35% Week 2.43% Year 126.40%
+You are staking 0.00 StonkS ($0.00), 0.00% of the pool.
+Stake 0.00 StonkS - Fee 0.5%
+Unstake 0.00 StonkS
+Claim 0.00 STONKS ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [USDC]-[StonkS] Uni LP [+] [-] [<=>] Price: $154,597.53 TVL: $94.84
+USDC Price: $1.00
+StonkS Price: $0.005728
+Staked: 0.0006 UNI-V2 ($94.60)
+STONKS Per Week: 1920.00 ($11.00)
+APR: Day 1.66% Week 11.63% Year 604.51%
+You are staking 0.00 [USDC]-[StonkS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[StonkS] Uni LP
+Unstake 0.00 [USDC]-[StonkS] Uni LP
+Claim 0.00 STONKS ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $320.82

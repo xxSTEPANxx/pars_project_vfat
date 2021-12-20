@@ -1,0 +1,189 @@
+***************************** POLYGON NETWORK **************************************
+
+*************** 👨‍🌾 UNOFFICIAL PARROTDEFI FARMING CALCULATOR 👨‍🌾 ********************
+INFO  : https://polygon.parrotdefi.com
+************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Mon Dec 20 2021 10:03:24 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 16 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [USDC]-[pPEGG] Uni LP [+] [-] [<=>] Price: $466,879.18 TVL: $1,952.04
+USDC Price: $1.00
+pPEGG Price: $0.05
+Staked: 0.0042 UNI-V2 ($1,942.29)
+PPEGG Per Week: 651.64 ($33.65)
+APR: Day 0.25% Week 1.73% Year 90.09%
+You are staking 0.00 [USDC]-[pPEGG] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[pPEGG] Uni LP
+Unstake 0.00 [USDC]-[pPEGG] Uni LP
+Claim 0.00 PPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WMATIC]-[pPEGG] Uni LP [+] [-] [<=>] Price: $0.69 TVL: $4,812.20
+WMATIC Price: $2.12
+pPEGG Price: $0.05
+Staked: 3761.3827 UNI-V2 ($2,602.56)
+PPEGG Per Week: 651.64 ($33.65)
+APR: Day 0.18% Week 1.29% Year 67.24%
+You are staking 0.00 [WMATIC]-[pPEGG] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[pPEGG] Uni LP
+Unstake 0.00 [WMATIC]-[pPEGG] Uni LP
+Claim 0.00 PPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,852,891.24 TVL: $49,694,743.72
+WMATIC Price: $2.12
+USDC Price: $1.00
+Staked: 0.0007 UNI-V2 ($3,982.04)
+PPEGG Per Week: 162.91 ($8.41)
+APR: Day 0.03% Week 0.21% Year 10.99%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 2.9%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 PPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - pPEGG Price: $0.05 Market Cap: $10,718.74 [%]
+Staked: 62242.3044 pPEGG ($3,214.29)
+PPEGG Per Week: 407.27 ($21.03)
+APR: Day 0.09% Week 0.65% Year 34.03%
+You are staking 0.00 pPEGG ($0.00), 0.00% of the pool.
+Stake 0.00 pPEGG
+Unstake 0.00 pPEGG
+Claim 0.00 PPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - USDC Price: $1.00 Market Cap: $979,609,943.10 [%]
+Staked: 1646.2656 USDC ($1,646.27)
+PPEGG Per Week: 16.29 ($0.84)
+APR: Day 0.01% Week 0.05% Year 2.66%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 0.5%
+Unstake 0.00 USDC
+Claim 0.00 PPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - WMATIC Price: $2.12 Market Cap: $677,711,250.41 [%]
+Staked: 6543.5159 WMATIC ($13,872.25)
+PPEGG Per Week: 16.29 ($0.84)
+APR: Day 0.00% Week 0.01% Year 0.32%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 0.5%
+Unstake 0.00 WMATIC
+Claim 0.00 PPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - WETH Price: $3,863.88 Market Cap: $1,705,915,317.62 [%]
+Staked: 1.4251 WETH ($5,506.38)
+PPEGG Per Week: 16.29 ($0.84)
+APR: Day 0.00% Week 0.02% Year 0.79%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 0.5%
+Unstake 0.00 WETH
+Claim 0.00 PPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - PolyDoge Price: $0.0000000199 Market Cap: $19,948,000.00 [%]
+Staked: 115016434532.8518 PolyDoge ($2,294.35)
+PPEGG Per Week: 114.04 ($5.89)
+APR: Day 0.04% Week 0.26% Year 13.35%
+You are staking 0.00 PolyDoge ($0.00), 0.00% of the pool.
+Stake 0.00 PolyDoge - Fee 2.9%
+Unstake 0.00 PolyDoge
+Claim 0.00 PPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - USDT Price: $1.00 Market Cap: $314,828,419.65 [%]
+Staked: 9212.1037 USDT ($9,212.10)
+PPEGG Per Week: 162.91 ($8.41)
+APR: Day 0.01% Week 0.09% Year 4.75%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 2.9%
+Unstake 0.00 USDT
+Claim 0.00 PPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - DAI Price: $1.00 Market Cap: $364,325,129.78 [%]
+Staked: 10771.3532 DAI ($10,771.35)
+PPEGG Per Week: 162.91 ($8.41)
+APR: Day 0.01% Week 0.08% Year 4.06%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 2.9%
+Unstake 0.00 DAI
+Claim 0.00 PPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - WBTC Price: $46,680.00 Market Cap: $471,685,092.28 [%]
+Staked: 0.1287 WBTC ($6,009.54)
+PPEGG Per Week: 162.91 ($8.41)
+APR: Day 0.02% Week 0.14% Year 7.28%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 2.9%
+Unstake 0.00 WBTC
+Claim 0.00 PPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - QUICK Price: $225.75 Market Cap: $215,752,705.37 [%]
+Staked: 16.1419 QUICK ($3,644.04)
+PPEGG Per Week: 162.91 ($8.41)
+APR: Day 0.03% Week 0.23% Year 12.01%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 2.9%
+Unstake 0.00 QUICK
+Claim 0.00 PPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - miMATIC Price: $0.00 Market Cap: $0.00 
+Staked: 3808.6714 miMATIC ($0.00)
+PPEGG Per Week: 162.91 ($8.41)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 miMATIC ($0.00), NaN% of the pool.
+Stake 0.00 miMATIC - Fee 2.9%
+Unstake 0.00 miMATIC
+Claim 0.00 PPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [QUICK]-[pPEGG] Uni LP [+] [-] [<=>] Price: $6.87 TVL: $1,023.93
+QUICK Price: $225.75
+pPEGG Price: $0.05
+Staked: 149.1034 UNI-V2 ($1,023.90)
+PPEGG Per Week: 488.73 ($25.24)
+APR: Day 0.35% Week 2.46% Year 128.18%
+You are staking 0.00 [QUICK]-[pPEGG] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [QUICK]-[pPEGG] Uni LP
+Unstake 0.00 [QUICK]-[pPEGG] Uni LP
+Claim 0.00 PPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - BPEGG Price: $0.00 Market Cap: $0.00 
+Staked: 11739.1083 BPEGG ($0.00)
+PPEGG Per Week: 488.73 ($25.24)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BPEGG ($0.00), NaN% of the pool.
+Stake 0.00 BPEGG
+Unstake 0.00 BPEGG
+Claim 0.00 PPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [USDC]-[BPEGG] Uni LP [+] [-] [<=>] Price: $630,282.17 TVL: $1,545.99
+USDC Price: $1.00
+BPEGG Price: $0.10
+Staked: 0.0019 UNI-V2 ($1,213.27)
+PPEGG Per Week: 651.64 ($33.65)
+APR: Day 0.40% Week 2.77% Year 144.23%
+You are staking 0.00 [USDC]-[BPEGG] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BPEGG] Uni LP
+Unstake 0.00 [USDC]-[BPEGG] Uni LP
+Claim 0.00 PPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $66,934.63

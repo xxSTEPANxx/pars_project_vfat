@@ -1,0 +1,138 @@
+***************************** POLYGON NETWORK ******************************************
+
+*************** 👨‍🌾 UNOFFICIAL KYBER-DMM FARMING CALCULATOR 👨‍🌾 *************
+INFO  : https://dmm.exchange/
+***************************************************************************
+
+Mon Dec 20 2021 10:04:26 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+NOTE: Once rewards are harvested, they vest for 30 days before they can be claimable.
+      Each time you harvest, that amount harvested starts vesting for 30 days.
+[WMATIC]-[DAI] DMM-LP WMATIC-DAI [+] [-] [<=>] LP Price: $3.18 TVL: $133,029.88
+WMATIC/DAI Price: 2.83517407
+DAI/WMATIC Price: 0.35271203
+Reward Tokens: KNC $1.24 MATIC $2.12
+Rewards Per Week: KNC 0.00000000 ($0.00) MATIC 0.00000000 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+Total Staked: 40028.176520110857381951 DMM-LP WMATIC-DAI ($127,162.80)
+You are staking 0.000000000000000000 DMM-LP WMATIC-DAI $0.00 (0.00% of the pool).
+Vesting rewards: 0.00000000 KNC ($0.00) 0.00000000 MATIC ($0.00)
+Vested rewards: 0.00000000 KNC ($0.00) 0.00000000 MATIC ($0.00)
+Polygonscan
+Stake 0.000000000000000000 DMM-LP WMATIC-DAI
+Withdraw 0.000000000000000000 DMM-LP WMATIC-DAI
+Harvest 0.0000 KNC ($0.00) 0.0000 MATIC ($0.00)
+Claim 0.00000000 KNC ($0.00) 0.00000000 MATIC ($0.00)
+Revoke (set approval to 0)
+
+
+[WMATIC]-[KNC] DMM-LP WMATIC-KNC [+] [-] [<=>] LP Price: $3.39 TVL: $250,834.58
+WMATIC/KNC Price: 2.96549544
+KNC/WMATIC Price: 0.33721178
+Reward Tokens: KNC $1.24 MATIC $2.12
+Rewards Per Week: KNC 0.00000000 ($0.00) MATIC 0.00000000 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+Total Staked: 44278.641635880121611990 DMM-LP WMATIC-KNC ($150,151.71)
+You are staking 0.000000000000000000 DMM-LP WMATIC-KNC $0.00 (0.00% of the pool).
+Vesting rewards: 0.00000000 KNC ($0.00) 0.00000000 MATIC ($0.00)
+Vested rewards: 0.00000000 KNC ($0.00) 0.00000000 MATIC ($0.00)
+Polygonscan
+Stake 0.000000000000000000 DMM-LP WMATIC-KNC
+Withdraw 0.000000000000000000 DMM-LP WMATIC-KNC
+Harvest 0.0000 KNC ($0.00) 0.0000 MATIC ($0.00)
+Claim 0.00000000 KNC ($0.00) 0.00000000 MATIC ($0.00)
+Revoke (set approval to 0)
+
+
+[USDC]-[USDT] DMM-LP USDC-USDT [+] [-] [<=>] LP Price: $2,029,607,502,860.88 TVL: $1,930,645.80
+USDC/USDT Price: 0.96075899
+USDT/USDC Price: 1.04084377
+Reward Tokens: KNC $1.24
+Rewards Per Week: KNC 0.00000000 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+Total Staked: 0.000000951041458031 DMM-LP USDC-USDT ($1,930,240.88)
+You are staking 0.000000000000000000 DMM-LP USDC-USDT $0.00 (0.00% of the pool).
+Vesting rewards: 0.00000000 KNC ($0.00)
+Vested rewards: 0.00000000 KNC ($0.00)
+Polygonscan
+Stake 0.000000000000000000 DMM-LP USDC-USDT
+Withdraw 0.000000000000000000 DMM-LP USDC-USDT
+Harvest 0.0000 KNC ($0.00)
+Claim 0.00000000 KNC ($0.00)
+Revoke (set approval to 0)
+
+
+[USDC]-[DAI] DMM-LP USDC-DAI [+] [-] [<=>] LP Price: $2,009,935.66 TVL: $1,922,801.17
+USDC/DAI Price: 1.00998917
+DAI/USDC Price: 0.99010963
+Reward Tokens: KNC $1.24
+Rewards Per Week: KNC 0.00000000 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+Total Staked: 0.956565471505665843 DMM-LP USDC-DAI ($1,922,635.06)
+You are staking 0.000000000000000000 DMM-LP USDC-DAI $0.00 (0.00% of the pool).
+Vesting rewards: 0.00000000 KNC ($0.00)
+Vested rewards: 0.00000000 KNC ($0.00)
+Polygonscan
+Stake 0.000000000000000000 DMM-LP USDC-DAI
+Withdraw 0.000000000000000000 DMM-LP USDC-DAI
+Harvest 0.0000 KNC ($0.00)
+Claim 0.00000000 KNC ($0.00)
+Revoke (set approval to 0)
+
+
+[USDC]-[WETH] DMM-LP USDC-WETH [+] [-] [<=>] LP Price: $132,122,652.97 TVL: $108,862.91
+USDC/WETH Price: 0.00018334
+WETH/USDC Price: 5454.30820134
+Reward Tokens: KNC $1.24
+Rewards Per Week: KNC 0.00000000 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+Total Staked: 0.000815616778525938 DMM-LP USDC-WETH ($107,761.45)
+You are staking 0.000000000000000000 DMM-LP USDC-WETH $0.00 (0.00% of the pool).
+Vesting rewards: 0.00000000 KNC ($0.00)
+Vested rewards: 0.00000000 KNC ($0.00)
+Polygonscan
+Stake 0.000000000000000000 DMM-LP USDC-WETH
+Withdraw 0.000000000000000000 DMM-LP USDC-WETH
+Harvest 0.0000 KNC ($0.00)
+Claim 0.00000000 KNC ($0.00)
+Revoke (set approval to 0)
+
+
+[KNC]-[WETH] DMM-LP KNC-WETH [+] [-] [<=>] LP Price: $141.73 TVL: $192,476.28
+KNC/WETH Price: 0.00016038
+WETH/KNC Price: 6235.09218206
+Reward Tokens: KNC $1.24
+Rewards Per Week: KNC 0.00000000 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+Total Staked: 1127.997354408297951522 DMM-LP KNC-WETH ($159,869.37)
+You are staking 0.000000000000000000 DMM-LP KNC-WETH $0.00 (0.00% of the pool).
+Vesting rewards: 0.00000000 KNC ($0.00)
+Vested rewards: 0.00000000 KNC ($0.00)
+Polygonscan
+Stake 0.000000000000000000 DMM-LP KNC-WETH
+Withdraw 0.000000000000000000 DMM-LP KNC-WETH
+Harvest 0.0000 KNC ($0.00)
+Claim 0.00000000 KNC ($0.00)
+Revoke (set approval to 0)
+
+
+[USDC]-[XUSD] DMM-LP USDC-XUSD [+] [-] [<=>] LP Price: $2,011,025.74 TVL: $125,596.70
+USDC/XUSD Price: 3.23781784
+XUSD/USDC Price: 0.30884999
+Reward Tokens: KNC $1.24 XDO $0.00
+Rewards Per Week: KNC 0.00000000 ($0.00) XDO 0.00000000 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+Total Staked: 0.061850624006804585 DMM-LP USDC-xUSD ($124,383.20)
+You are staking 0.000000000000000000 DMM-LP USDC-xUSD $0.00 (0.00% of the pool).
+Vesting rewards: 0.00000000 KNC ($0.00) 0.00000000 XDO ($0.00)
+Vested rewards: 0.00000000 KNC ($0.00) 0.00000000 XDO ($0.00)
+Polygonscan
+Stake 0.000000000000000000 DMM-LP USDC-xUSD
+Withdraw 0.000000000000000000 DMM-LP USDC-xUSD
+Harvest 0.0000 KNC ($0.00) 0.0000 XDO ($0.00)
+Claim 0.00000000 KNC ($0.00) 0.00000000 XDO ($0.00)
+Revoke (set approval to 0)

@@ -1,0 +1,116 @@
+***************************** POLYGON NETWORK ********************************************
+
+****************** 🥷 OFFICIAL 0xPOLYGON NINJA FARMING CALCULATOR 🥷 ***********************
+
+INFO  : https://0xpolygon.ninja
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Thu Dec 16 2021 05:16:40 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 9 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - NINJA Price: $0.00 Market Cap: $0.00 
+Staked: 17.1254 NINJA ($0.00)
+NINJA Per Week: 389.19 ($7.16)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 NINJA ($0.00), NaN% of the pool.
+Stake 0.00 NINJA
+Unstake 0.00 NINJA
+Claim 0.00 NINJA ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [USDC]-[NINJA] Uni LP [+] [-] [<=>] Price: $273,678.10 TVL: $0.85
+USDC Price: $1.00
+NINJA Price: $0.02
+Staked: 0.0000 UNI-V2 ($0.06)
+NINJA Per Week: 194.59 ($3.58)
+APR: Day 881.65% Week 6171.54% Year 320920.28%
+You are staking 0.00 [USDC]-[NINJA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[NINJA] Uni LP
+Unstake 0.00 [USDC]-[NINJA] Uni LP
+Claim 0.00 NINJA ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,886,170.58 TVL: $52,401,789.54
+WMATIC Price: $2.16
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.36)
+NINJA Per Week: 19.46 ($0.36)
+APR: Day 14.33% Week 100.33% Year 5217.36%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 NINJA ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - WBTC Price: $49,094.00 Market Cap: $497,954,644.10 [%]
+Staked: 0.0000 WBTC ($0.00)
+NINJA Per Week: 19.46 ($0.36)
+APR: Day 1488.86% Week 10422.04% Year 541946.32%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 NINJA ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [WBTC]-[WETH] Uni LP [+] [-] [<=>] Price: $1,426,025,544,850.78 TVL: $53,126,312.33
+WBTC Price: $49,094.00
+WETH Price: $4,052.27
+Staked: 0.0000 UNI-V2 ($0.00)
+NINJA Per Week: 19.46 ($0.36)
+APR: Day 448501.66% Week 3139511.60% Year 163254602.96%
+You are staking 0.00 [WBTC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [WBTC]-[WETH] Uni LP
+Claim 0.00 NINJA ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [USDC]-[USDT] Uni LP [+] [-] [<=>] Price: $2,624,541,145,350.45 TVL: $24,545,829.37
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.00)
+NINJA Per Week: 19.46 ($0.36)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[USDT] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[USDT] Uni LP
+Claim 0.00 NINJA ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - WETH Price: $4,052.27 Market Cap: $1,798,547,732.87 [%]
+Staked: 0.0000 WETH ($0.00)
+NINJA Per Week: 19.46 ($0.36)
+APR: Day 431699.57% Week 3021896.99% Year 157138643.55%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 NINJA ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - USDT Price: $1.00 Market Cap: $313,439,913.37 [%]
+Staked: 0.0000 USDT ($0.00)
+NINJA Per Week: 19.46 ($0.36)
+APR: Day 511659.86% Week 3581618.99% Year 186244187.30%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 NINJA ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - USDC Price: $1.00 Market Cap: $943,569,356.81 [%]
+Staked: 0.0000 USDC ($0.00)
+NINJA Per Week: 19.46 ($0.36)
+APR: Day 5116598.55% Week 35816189.87% Year 1862441873.03%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 NINJA ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $0.42

@@ -1,0 +1,164 @@
+***************************** POLYGON NETWORK ***************************
+    
+*************** 👨‍🌾 UNOFFICIAL POLYKIWI FARMING CALCULATOR 👨‍🌾 ****************
+INFO  : https://polykiwi.farm
+*************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-dekiwis/network/ ***
+
+Thu Dec 16 2021 04:49:36 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 14 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [KIWI]-[USDC] Uni LP [+] [-] [<=>] Price: $19,741.30 TVL: $0.09
+KIWI Price: $0.0000879245
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.05)
+KIWI Per Week: 934.05 ($0.08)
+APR: Day 25.32% Week 177.23% Year 9216.13%
+You are staking 0.00 [KIWI]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KIWI]-[USDC] Uni LP
+Unstake 0.00 [KIWI]-[USDC] Uni LP
+Claim 0.00 KIWI ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [KIWI]-[WMATIC] Uni LP [+] [-] [<=>] Price: $0.03 TVL: $0.19
+KIWI Price: $0.0000879245
+WMATIC Price: $2.15
+Staked: 6.5731 UNI-V2 ($0.19)
+KIWI Per Week: 934.05 ($0.08)
+APR: Day 6.21% Week 43.45% Year 2259.38%
+You are staking 0.00 [KIWI]-[WMATIC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KIWI]-[WMATIC] Uni LP
+Unstake 0.00 [KIWI]-[WMATIC] Uni LP
+Claim 0.00 KIWI ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - KIWI Price: $0.0000879245 Market Cap: $0.44 [%]
+Staked: 1780.5189 KIWI ($0.16)
+KIWI Per Week: 467.03 ($0.04)
+APR: Day 3.75% Week 26.23% Year 1363.95%
+You are staking 0.00 KIWI ($0.00), 0.00% of the pool.
+Stake 0.00 KIWI
+Unstake 0.00 KIWI
+Claim 0.00 KIWI ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,872,019.90 TVL: $52,278,337.02
+WMATIC Price: $2.15
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.00)
+KIWI Per Week: 62.27 ($0.01)
+APR: Day 13320032379.94% Week 93240226659.56% Year 4848491786297.38%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 KIWI ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - WMATIC Price: $2.15 Market Cap: $653,077,747.14 [%]
+Staked: 10.5600 WMATIC ($22.70)
+KIWI Per Week: 62.27 ($0.01)
+APR: Day 0.00% Week 0.02% Year 1.25%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 KIWI ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - QUICK Price: $252.13 Market Cap: $240,919,697.27 [%]
+Staked: 0.0017 QUICK ($0.43)
+KIWI Per Week: 46.70 ($0.00)
+APR: Day 0.14% Week 0.96% Year 50.10%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 KIWI ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - WETH Price: $4,045.59 Market Cap: $1,795,526,184.01 [%]
+Staked: 0.0000 WETH ($0.00)
+KIWI Per Week: 46.70 ($0.00)
+APR: Day 14500140001153.67% Week 101500980008075.70% Year 5278050960419937.00%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 KIWI ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - WBTC Price: $48,941.00 Market Cap: $496,402,783.17 [%]
+Staked: 0.0000 WBTC ($0.00)
+KIWI Per Week: 46.70 ($0.00)
+APR: Day 119.86% Week 839.03% Year 43629.74%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 KIWI ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - AAVE Price: $174.29 Market Cap: $47,445,112.00 [%]
+Staked: 0.0000 AAVE ($0.00)
+KIWI Per Week: 46.70 ($0.00)
+APR: Day 336574797104063.94% Week 2356023579728447.50% Year 122513226145879264.00%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 KIWI ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - DAI Price: $1.00 Market Cap: $374,104,232.00 [%]
+Staked: 0.0000 DAI ($0.00)
+KIWI Per Week: 46.70 ($0.00)
+APR: Day 58661621387267280.00% Week 410631349710870976.00% Year 21352830184965292032.00%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 KIWI ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - USDT Price: $1.00 Market Cap: $313,188,142.55 [%]
+Staked: 0.0000 USDT ($0.00)
+KIWI Per Week: 46.70 ($0.00)
+APR: Day 58706.94% Week 410948.60% Year 21369327.31%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 KIWI ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - USDC Price: $1.00 Market Cap: $943,277,686.55 [%]
+Staked: 0.1264 USDC ($0.13)
+KIWI Per Week: 46.70 ($0.00)
+APR: Day 0.46% Week 3.25% Year 168.93%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 KIWI ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - SUSHI Price: $5.92 Market Cap: $3,231,699.24 [%]
+Staked: 0.0000 SUSHI ($0.00)
+KIWI Per Week: 46.70 ($0.00)
+APR: Day 817.10% Week 5719.70% Year 297424.44%
+You are staking 0.00 SUSHI ($0.00), 0.00% of the pool.
+Stake 0.00 SUSHI - Fee 4%
+Unstake 0.00 SUSHI
+Claim 0.00 KIWI ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - FISH Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 FISH ($0.00)
+KIWI Per Week: 46.70 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FISH ($0.00), NaN% of the pool.
+Stake 0.00 FISH - Fee 4%
+Unstake 0.00 FISH
+Claim 0.00 KIWI ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $23.65

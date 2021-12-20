@@ -1,0 +1,152 @@
+***************************** POLYGON NETWORK *************************************
+    
+*************** 👨‍🌾 UNOFFICIAL POLYPINGU FARMING CALCULATOR 👨‍🌾 ********************
+INFO  : https://polypingu.finance
+***********************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Fri Dec 17 2021 09:42:32 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 15 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [WMATIC]-[PINGU] Uni LP [+] [-] [<=>] Price: $0.08 TVL: $645.01
+WMATIC Price: $2.08
+PINGU Price: $0.000410
+Staked: 6974.8456 UNI-V2 ($537.26)
+PINGU Per Week: 57994.52 ($23.77)
+APR: Day 0.63% Week 4.42% Year 230.07%
+You are staking 0.00 [WMATIC]-[PINGU] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[PINGU] Uni LP
+Unstake 0.00 [WMATIC]-[PINGU] Uni LP
+Claim 0.00 PINGU ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [USDC]-[PINGU] Uni LP [+] [-] [<=>] Price: $55,394.67 TVL: $223.34
+USDC Price: $1.00
+PINGU Price: $0.000410
+Staked: 0.0037 UNI-V2 ($207.63)
+PINGU Per Week: 57994.52 ($23.77)
+APR: Day 1.64% Week 11.45% Year 595.34%
+You are staking 0.00 [USDC]-[PINGU] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[PINGU] Uni LP
+Unstake 0.00 [USDC]-[PINGU] Uni LP
+Claim 0.00 PINGU ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - PINGU Price: $0.000410 Market Cap: $2,163.16 [%]
+Staked: 3057682.0267 PINGU ($1,253.29)
+PINGU Per Week: 20298.08 ($8.32)
+APR: Day 0.09% Week 0.66% Year 34.52%
+You are staking 0.00 PINGU ($0.00), 0.00% of the pool.
+Stake 0.00 PINGU
+Unstake 0.00 PINGU
+Claim 0.00 PINGU ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - WMATIC Price: $2.08 Market Cap: $633,917,261.20 [%]
+Staked: 725.0448 WMATIC ($1,508.09)
+PINGU Per Week: 14498.63 ($5.94)
+APR: Day 0.06% Week 0.39% Year 20.49%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 PINGU ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - WBTC Price: $47,517.00 Market Cap: $479,456,461.43 [%]
+Staked: 0.0033 WBTC ($156.20)
+PINGU Per Week: 8699.18 ($3.57)
+APR: Day 0.33% Week 2.28% Year 118.70%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 PINGU ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - WETH Price: $3,947.17 Market Cap: $1,752,397,349.77 [%]
+Staked: 1.1809 WETH ($4,661.07)
+PINGU Per Week: 8699.18 ($3.57)
+APR: Day 0.01% Week 0.08% Year 3.98%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 PINGU ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - USDT Price: $1.00 Market Cap: $318,730,138.11 [%]
+Staked: 1154.8800 USDT ($1,151.20)
+PINGU Per Week: 8699.18 ($3.57)
+APR: Day 0.04% Week 0.31% Year 16.11%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 PINGU ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - USDC Price: $1.00 Market Cap: $951,441,189.55 [%]
+Staked: 9699.5290 USDC ($9,691.86)
+PINGU Per Week: 8699.18 ($3.57)
+APR: Day 0.01% Week 0.04% Year 1.91%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 PINGU ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - DAI Price: $1.00 Market Cap: $367,647,843.61 [%]
+Staked: 166.4963 DAI ($166.50)
+PINGU Per Week: 8699.18 ($3.57)
+APR: Day 0.31% Week 2.14% Year 111.36%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 PINGU ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - QUICK Price: $244.55 Market Cap: $233,676,918.50 [%]
+Staked: 0.0940 QUICK ($22.99)
+PINGU Per Week: 5799.45 ($2.38)
+APR: Day 1.48% Week 10.34% Year 537.70%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 PINGU ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - SUSHI Price: $5.70 Market Cap: $3,216,399.45 [%]
+Staked: 2.3749 SUSHI ($13.54)
+PINGU Per Week: 2899.73 ($1.19)
+APR: Day 1.25% Week 8.78% Year 456.55%
+You are staking 0.00 SUSHI ($0.00), 0.00% of the pool.
+Stake 0.00 SUSHI - Fee 4%
+Unstake 0.00 SUSHI
+Claim 0.00 PINGU ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - LINK Price: $19.03 Market Cap: $33,130,381.34 [%]
+Staked: 38.1561 LINK ($726.11)
+PINGU Per Week: 5799.45 ($2.38)
+APR: Day 0.05% Week 0.33% Year 17.02%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 PINGU ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - AAVE Price: $174.34 Market Cap: $47,445,729.24 [%]
+Staked: 0.0866 AAVE ($15.11)
+PINGU Per Week: 2899.73 ($1.19)
+APR: Day 1.12% Week 7.87% Year 409.15%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 PINGU ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $20,110.84

@@ -1,0 +1,198 @@
+***************************** POLYGON NETWORK *************************************
+
+*************** 👨‍🌾 UNOFFICIAL WHEEL FINANCE FARMING CALCULATOR 👨‍🌾 *********************
+INFO  : https://wheelfinance.xyz
+***********************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Thu Dec 16 2021 06:13:04 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 17 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [USDC]-[WHEEL] Uni LP [+] [-] [<=>] Price: $83,055.85 TVL: $0.94
+USDC Price: $1.00
+WHEEL Price: $0.001666
+Staked: 0.0000 UNI-V2 ($0.94)
+WHEEL Per Week: 126.59 ($0.21)
+APR: Day 3.20% Week 22.40% Year 1164.64%
+You are staking 0.00 [USDC]-[WHEEL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WHEEL] Uni LP
+Unstake 0.00 [USDC]-[WHEEL] Uni LP
+Claim 0.00 WHEEL ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WMATIC]-[WHEEL] Uni LP [+] [-] [<=>] Price: $0.12 TVL: $0.04
+WMATIC Price: $2.14
+WHEEL Price: $0.001666
+Staked: 0.3547 UNI-V2 ($0.04)
+WHEEL Per Week: 126.59 ($0.21)
+APR: Day 70.26% Week 491.80% Year 25573.48%
+You are staking 0.00 [WMATIC]-[WHEEL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[WHEEL] Uni LP
+Unstake 0.00 [WMATIC]-[WHEEL] Uni LP
+Claim 0.00 WHEEL ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WHEEL]-[WETH] Uni LP [+] [-] [<=>] Price: $1,328,130.39 TVL: $0.00
+WHEEL Price: $0.001666
+WETH Price: $4,036.95
+Staked: 0.0000 UNI-V2 ($0.00)
+WHEEL Per Week: 126.59 ($0.21)
+APR: Day 43856.18% Week 306993.28% Year 15963650.62%
+You are staking 0.00 [WHEEL]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WHEEL]-[WETH] Uni LP
+Unstake 0.00 [WHEEL]-[WETH] Uni LP
+Claim 0.00 WHEEL ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,859,150.15 TVL: $52,197,308.51
+WMATIC Price: $2.14
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($2.65)
+WHEEL Per Week: 63.30 ($0.11)
+APR: Day 0.57% Week 3.98% Year 206.83%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 WHEEL ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDC]-[WETH] Uni LP [+] [-] [<=>] Price: $187,956,296.94 TVL: $79,013,850.03
+USDC Price: $1.00
+WETH Price: $4,036.95
+Staked: 0.0000 UNI-V2 ($0.00)
+WHEEL Per Week: 63.30 ($0.11)
+APR: Day 8015209558.16% Week 56106466907.15% Year 2917536279171.67%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 WHEEL ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - WHEEL Price: $0.001666 Market Cap: $1.70 [%]
+Staked: 423.9669 WHEEL ($0.71)
+WHEEL Per Week: 88.62 ($0.15)
+APR: Day 2.99% Week 20.90% Year 1086.88%
+You are staking 0.00 WHEEL ($0.00), 0.00% of the pool.
+Stake 0.00 WHEEL
+Unstake 0.00 WHEEL
+Claim 0.00 WHEEL ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - WMATIC Price: $2.14 Market Cap: $651,095,663.07 [%]
+Staked: 0.0628 WMATIC ($0.13)
+WHEEL Per Week: 50.64 ($0.08)
+APR: Day 8.97% Week 62.76% Year 3263.75%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 WHEEL ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - PolyDoge Price: $0.0000000240 Market Cap: $24,031,000.00 [%]
+Staked: 15966953.4980 PolyDoge ($0.38)
+WHEEL Per Week: 50.64 ($0.08)
+APR: Day 3.14% Week 21.99% Year 1143.32%
+You are staking 0.00 PolyDoge ($0.00), 0.00% of the pool.
+Stake 0.00 PolyDoge - Fee 4%
+Unstake 0.00 PolyDoge
+Claim 0.00 WHEEL ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - WETH Price: $4,036.95 Market Cap: $1,791,907,824.63 [%]
+Staked: 0.0000 WETH ($0.00)
+WHEEL Per Week: 50.64 ($0.08)
+APR: Day 298544021149171.69% Week 2089808148044202.00% Year 108670023698298496.00%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 WHEEL ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - WBTC Price: $49,076.00 Market Cap: $497,821,132.58 [%]
+Staked: 0.0000 WBTC ($0.00)
+WHEEL Per Week: 50.64 ($0.08)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 WBTC ($0.00), NaN% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 WHEEL ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - AAVE Price: $175.63 Market Cap: $47,809,885.94 [%]
+Staked: 0.0000 AAVE ($0.00)
+WHEEL Per Week: 50.64 ($0.08)
+APR: Day 6862194876605072.00% Week 48035364136235504.00% Year 2497838935084246016.00%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 WHEEL ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - QUICK Price: $251.30 Market Cap: $240,124,206.32 [%]
+Staked: 0.0000 QUICK ($0.00)
+WHEEL Per Week: 50.64 ($0.08)
+APR: Day 4795890514039589.00% Week 33571233598277124.00% Year 1745704147110410496.00%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 WHEEL ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - FISH Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 FISH ($0.00)
+WHEEL Per Week: 50.64 ($0.08)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FISH ($0.00), NaN% of the pool.
+Stake 0.00 FISH - Fee 4%
+Unstake 0.00 FISH
+Claim 0.00 WHEEL ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - LINK Price: $20.00 Market Cap: $34,688,064.01 [%]
+Staked: 0.0000 LINK ($0.00)
+WHEEL Per Week: 50.64 ($0.08)
+APR: Day 12052.07% Week 84364.51% Year 4386954.52%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 WHEEL ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - USDC Price: $1.00 Market Cap: $943,538,799.91 [%]
+Staked: 0.0000 USDC ($0.00)
+WHEEL Per Week: 50.64 ($0.08)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 USDC ($0.00), NaN% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 WHEEL ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - DAI Price: $1.00 Market Cap: $374,131,149.78 [%]
+Staked: 0.0000 DAI ($0.00)
+WHEEL Per Week: 50.64 ($0.08)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 DAI ($0.00), NaN% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 WHEEL ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - USDT Price: $1.00 Market Cap: $313,461,279.68 [%]
+Staked: 0.0000 USDT ($0.00)
+WHEEL Per Week: 50.64 ($0.08)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 USDT ($0.00), NaN% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 WHEEL ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $4.86

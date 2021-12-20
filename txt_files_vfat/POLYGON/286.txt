@@ -1,0 +1,152 @@
+***************************** POLYGON NETWORK *****************************
+    
+*************** 👨‍🌾 UNOFFICIAL PLAGUE DOCTOR FARMING CALCULATOR 👨‍🌾 ****************
+INFO  : https://doc.plaguefactory.com
+**************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Thu Dec 16 2021 05:15:16 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 12 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [USDC]-[DOCTOR] Uni LP [+] [-] [<=>] Price: $0.06 TVL: $0.00
+USDC Price: $1.00
+DOCTOR Price: $0.0000000000
+Staked: 0.0000 UNI-V2 ($0.00)
+DOCTOR Per Week: 2.70 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDC]-[DOCTOR] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DOCTOR] Uni LP
+Unstake 0.00 [USDC]-[DOCTOR] Uni LP
+Claim 0.00 DOCTOR ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WMATIC]-[DOCTOR] Uni LP [+] [-] [<=>] Price: $0.00 TVL: $0.00
+WMATIC Price: $2.16
+DOCTOR Price: $0.0000000000
+Staked: 1.0560 UNI-V2 ($0.00)
+DOCTOR Per Week: 2.70 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WMATIC]-[DOCTOR] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[DOCTOR] Uni LP
+Unstake 0.00 [WMATIC]-[DOCTOR] Uni LP
+Claim 0.00 DOCTOR ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,886,170.41 TVL: $52,401,788.05
+WMATIC Price: $2.16
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($272.07)
+DOCTOR Per Week: 1.35 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 DOCTOR ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [PLAGUE]-[DOCTOR] Uni LP [+] [-] [<=>] Price: $0.00 TVL: $0.00
+PLAGUE Price: $0.30
+DOCTOR Price: $0.0000000000
+Staked: 45.0883 UNI-V2 ($0.00)
+DOCTOR Per Week: 1.35 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [PLAGUE]-[DOCTOR] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PLAGUE]-[DOCTOR] Uni LP
+Unstake 0.00 [PLAGUE]-[DOCTOR] Uni LP
+Claim 0.00 DOCTOR ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - DOCTOR Price: $0.0000000000 Market Cap: $0.00 [%]
+Staked: 29.1864 DOCTOR ($0.00)
+DOCTOR Per Week: 1.89 ($0.00)
+APR: Day 0.92% Week 6.47% Year 336.28%
+You are staking 0.00 DOCTOR ($0.00), 0.00% of the pool.
+Stake 0.00 DOCTOR
+Unstake 0.00 DOCTOR
+Claim 0.00 DOCTOR ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - WMATIC Price: $2.16 Market Cap: $656,179,675.67 [%]
+Staked: 208.3281 WMATIC ($449.99)
+DOCTOR Per Week: 1.35 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 DOCTOR ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - DAI Price: $1.00 Market Cap: $374,104,453.43 [%]
+Staked: 0.0000 DAI ($0.00)
+DOCTOR Per Week: 1.62 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 DAI ($0.00), NaN% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 DOCTOR ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - USDT Price: $1.00 Market Cap: $313,439,913.37 [%]
+Staked: 674.9775 USDT ($674.98)
+DOCTOR Per Week: 1.62 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 DOCTOR ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - USDC Price: $1.00 Market Cap: $943,569,356.81 [%]
+Staked: 0.0000 USDC ($0.00)
+DOCTOR Per Week: 269.64 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 USDC ($0.00), NaN% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 DOCTOR ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [USDC]-[USDT] Uni LP [+] [-] [<=>] Price: $2,624,538,497,304.14 TVL: $24,545,802.30
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($32.94)
+DOCTOR Per Week: 1.89 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[USDT] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[USDT] Uni LP
+Claim 0.00 DOCTOR ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [USDC]-[DAI] Uni LP [+] [-] [<=>] Price: $76,277,942.31 TVL: $7,329,402.24
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.00)
+DOCTOR Per Week: 1.89 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDC]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAI] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[DAI] Uni LP
+Claim 0.00 DOCTOR ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [DAI]-[USDT] Uni LP [+] [-] [<=>] Price: $27,501,111.24 TVL: $3,074,563.52
+DAI Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($13.98)
+DOCTOR Per Week: 0.03 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [DAI]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[USDT] Uni LP - Fee 4%
+Unstake 0.00 [DAI]-[USDT] Uni LP
+Claim 0.00 DOCTOR ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $1,443.96

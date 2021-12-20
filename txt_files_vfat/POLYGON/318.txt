@@ -1,0 +1,217 @@
+***************************** POLYGON NETWORK **********************************************
+
+*************** 👨‍🌾 UNOFFICIAL COTTONCANDY FARMING CALCULATOR 👨‍🌾 *************************
+
+
+INFO  : https://cottoncandydefi.com/
+********************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+Thu Dec 16 2021 05:29:43 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 18 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [WMATIC]-[CANDY] Uni LP [+] [-] [<=>] Price: $0.78 TVL: $454.79
+WMATIC Price: $2.14
+CANDY Price: $0.0000059300
+Staked: 14.8117 UNI-V2 ($11.50)
+CANDY Per Week: 2258.82 ($0.01)
+APR: Day 0.02% Week 0.12% Year 6.06%
+You are staking 0.00 [WMATIC]-[CANDY] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[CANDY] Uni LP
+Unstake 0.00 [WMATIC]-[CANDY] Uni LP
+Claim 0.00 CANDY ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - CANDY Price: $0.0000059300 Market Cap: $0.61 [%]
+Staked: 0.0000 CANDY ($0.00)
+CANDY Per Week: 1129.41 ($0.01)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 CANDY ($0.00), NaN% of the pool.
+Stake 0.00 CANDY
+Unstake 0.00 CANDY
+Claim 0.00 CANDY ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,859,076.06 TVL: $52,195,474.29
+WMATIC Price: $2.14
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.57)
+CANDY Per Week: 451.76 ($0.00)
+APR: Day 0.07% Week 0.47% Year 24.37%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 CANDY ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WMATIC]-[WETH] Uni LP [+] [-] [<=>] Price: $245.91 TVL: $110,208,708.16
+WMATIC Price: $2.14
+WETH Price: $4,039.50
+Staked: 0.0085 UNI-V2 ($2.10)
+CANDY Per Week: 225.88 ($0.00)
+APR: Day 0.01% Week 0.06% Year 3.32%
+You are staking 0.00 [WMATIC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[WETH] Uni LP
+Claim 0.00 CANDY ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [WBTC]-[WETH] Uni LP [+] [-] [<=>] Price: $1,422,473,615,393.59 TVL: $52,994,403.92
+WBTC Price: $49,004.00
+WETH Price: $4,039.50
+Staked: 0.0000 UNI-V2 ($0.00)
+CANDY Per Week: 225.88 ($0.00)
+APR: Day 13452.24% Week 94165.71% Year 4896616.82%
+You are staking 0.00 [WBTC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [WBTC]-[WETH] Uni LP
+Claim 0.00 CANDY ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WETH]-[AAVE] Uni LP [+] [-] [<=>] Price: $1,779.01 TVL: $8,066,519.28
+WETH Price: $4,039.50
+AAVE Price: $175.48
+Staked: 0.0000 UNI-V2 ($0.00)
+CANDY Per Week: 225.88 ($0.00)
+APR: Day 10756243386204.65% Week 75293703703432.58% Year 3915272592578494.00%
+You are staking 0.00 [WETH]-[AAVE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[AAVE] Uni LP - Fee 4%
+Unstake 0.00 [WETH]-[AAVE] Uni LP
+Claim 0.00 CANDY ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [WMATIC]-[QUICK] Uni LP [+] [-] [<=>] Price: $65.80 TVL: $9,801,335.92
+WMATIC Price: $2.14
+QUICK Price: $251.50
+Staked: 0.0000 UNI-V2 ($0.00)
+CANDY Per Week: 225.88 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WMATIC]-[QUICK] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [WMATIC]-[QUICK] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[QUICK] Uni LP
+Claim 0.00 CANDY ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [USDC]-[WETH] Uni LP [+] [-] [<=>] Price: $188,015,431.70 TVL: $79,038,724.89
+USDC Price: $1.00
+WETH Price: $4,039.50
+Staked: 0.0000 UNI-V2 ($0.00)
+CANDY Per Week: 112.94 ($0.00)
+APR: Day 50888009.60% Week 356216067.18% Year 18523235493.17%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 CANDY ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [WBTC]-[USDC] Uni LP [+] [-] [<=>] Price: $51,981,033,681,775.70 TVL: $11,708,939.19
+WBTC Price: $49,004.00
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.00)
+CANDY Per Week: 112.94 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WBTC]-[USDC] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBTC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WBTC]-[USDC] Uni LP
+Claim 0.00 CANDY ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [USDC]-[DAI] Uni LP [+] [-] [<=>] Price: $76,278,238.65 TVL: $7,329,430.72
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.00)
+CANDY Per Week: 56.47 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[DAI] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[DAI] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[DAI] Uni LP
+Claim 0.00 CANDY ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - WMATIC Price: $2.14 Market Cap: $651,518,374.41 [%]
+Staked: 19.9224 WMATIC ($42.63)
+CANDY Per Week: 112.94 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.08%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 CANDY ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - WETH Price: $4,039.50 Market Cap: $1,792,902,819.01 [%]
+Staked: 0.0000 WETH ($0.00)
+CANDY Per Week: 112.94 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 WETH ($0.00), NaN% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 CANDY ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - WBTC Price: $49,004.00 Market Cap: $497,090,773.11 [%]
+Staked: 0.0000 WBTC ($0.00)
+CANDY Per Week: 112.94 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 WBTC ($0.00), NaN% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 CANDY ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - QUICK Price: $251.50 Market Cap: $240,317,708.58 [%]
+Staked: 0.0000 QUICK ($0.00)
+CANDY Per Week: 112.94 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 QUICK ($0.00), NaN% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 CANDY ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - AAVE Price: $175.48 Market Cap: $47,769,053.04 [%]
+Staked: 0.0000 AAVE ($0.00)
+CANDY Per Week: 112.94 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 AAVE ($0.00), NaN% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 CANDY ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - LINK Price: $19.94 Market Cap: $34,583,999.82 [%]
+Staked: 0.0000 LINK ($0.00)
+CANDY Per Week: 112.94 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 LINK ($0.00), NaN% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 CANDY ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - DAI Price: $1.00 Market Cap: $374,127,661.57 [%]
+Staked: 0.0000 DAI ($0.00)
+CANDY Per Week: 28.24 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 DAI ($0.00), NaN% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 CANDY ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - USDC Price: $1.00 Market Cap: $943,569,936.81 [%]
+Staked: 0.0000 USDC ($0.00)
+CANDY Per Week: 28.24 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 USDC ($0.00), NaN% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 CANDY ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $56.81

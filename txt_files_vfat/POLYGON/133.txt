@@ -1,0 +1,122 @@
+***************************** POLYGON NETWORK *************************************
+    
+*************** 👨‍🌾 POLYMER FARMING CALCULATOR 👨‍🌾 **********************************
+INFO  : https://polymeryield.finance
+***********************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Fri Dec 17 2021 10:23:43 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 10 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [WMATIC]-[OIL] Uni LP [+] [-] [<=>] Price: $0.01 TVL: $10.89
+WMATIC Price: $2.04
+OIL Price: $0.0000115382
+Staked: 889.9849 UNI-V2 ($9.57)
+OIL Per Week: 88615.38 ($1.02)
+APR: Day 1.53% Week 10.68% Year 555.55%
+You are staking 0.00 [WMATIC]-[OIL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[OIL] Uni LP
+Unstake 0.00 [WMATIC]-[OIL] Uni LP
+Claim 0.00 OIL ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [OIL]-[USDC] Uni LP [+] [-] [<=>] Price: $7,494.04 TVL: $10.95
+OIL Price: $0.0000115382
+USDC Price: $1.00
+Staked: 0.0011 UNI-V2 ($8.38)
+OIL Per Week: 88615.38 ($1.02)
+APR: Day 1.74% Week 12.20% Year 634.40%
+You are staking 0.00 [OIL]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [OIL]-[USDC] Uni LP
+Unstake 0.00 [OIL]-[USDC] Uni LP
+Claim 0.00 OIL ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - OIL Price: $0.0000115382 Market Cap: $52.64 [%]
+Staked: 3120868.5418 OIL ($36.01)
+OIL Per Week: 35446.15 ($0.41)
+APR: Day 0.16% Week 1.14% Year 59.06%
+You are staking 0.00 OIL ($0.00), 0.00% of the pool.
+Stake 0.00 OIL
+Unstake 0.00 OIL
+Claim 0.00 OIL ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - WMATIC Price: $2.04 Market Cap: $622,710,789.63 [%]
+Staked: 82.6043 WMATIC ($168.51)
+OIL Per Week: 13292.31 ($0.15)
+APR: Day 0.01% Week 0.09% Year 4.73%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 OIL ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - WBTC Price: $46,951.00 Market Cap: $474,385,206.47 [%]
+Staked: 0.0002 WBTC ($10.05)
+OIL Per Week: 13292.31 ($0.15)
+APR: Day 0.22% Week 1.53% Year 79.35%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 OIL ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - WETH Price: $3,892.79 Market Cap: $1,728,427,236.15 [%]
+Staked: 0.0060 WETH ($23.36)
+OIL Per Week: 13292.31 ($0.15)
+APR: Day 0.09% Week 0.66% Year 34.15%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 OIL ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - USDC Price: $1.00 Market Cap: $947,472,315.93 [%]
+Staked: 29.0333 USDC ($28.89)
+OIL Per Week: 8861.54 ($0.10)
+APR: Day 0.05% Week 0.35% Year 18.40%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 OIL ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - USDT Price: $1.00 Market Cap: $318,632,011.08 [%]
+Staked: 1642.6204 USDT ($1,636.87)
+OIL Per Week: 8861.54 ($0.10)
+APR: Day 0.00% Week 0.01% Year 0.32%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 OIL ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - DAI Price: $1.00 Market Cap: $366,867,694.89 [%]
+Staked: 0.9780 DAI ($0.98)
+OIL Per Week: 8861.54 ($0.10)
+APR: Day 1.50% Week 10.48% Year 544.80%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 OIL ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - QUICK Price: $241.03 Market Cap: $230,313,423.29 [%]
+Staked: 0.1794 QUICK ($43.24)
+OIL Per Week: 8861.54 ($0.10)
+APR: Day 0.03% Week 0.24% Year 12.29%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 OIL ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $1,965.86

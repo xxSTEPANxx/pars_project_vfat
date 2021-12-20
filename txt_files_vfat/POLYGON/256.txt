@@ -1,0 +1,170 @@
+***************************** POLYGON NETWORK ***************************************
+    
+*************** 🍰 UNOFFICIAL POLY BAKERY CAKE FARMING CALCULATOR 🍰 *********************
+*************************🍰  A LAYER FROM POLY BAKERY-SWAP  🍰******************************
+
+INFO  : https://www.bakerycake.finance
+*************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Thu Dec 16 2021 04:56:46 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 14 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [CAKE]-[USDC] Uni LP [+] [-] [<=>] Price: $84,621.17 TVL: $31.70
+CAKE Price: $0.001601
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($1.23)
+CAKE Per Week: 818.81 ($1.31)
+APR: Day 15.25% Week 106.75% Year 5550.93%
+You are staking 0.00 [CAKE]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CAKE]-[USDC] Uni LP
+Unstake 0.00 [CAKE]-[USDC] Uni LP
+Claim 0.00 CAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [USDC]-[BAKE] Uni LP [+] [-] [<=>] Price: $304,480.52 TVL: $68.03
+USDC Price: $1.00
+BAKE Price: $0.02
+Staked: 0.0000 UNI-V2 ($4.20)
+CAKE Per Week: 170.58 ($0.27)
+APR: Day 0.93% Week 6.50% Year 338.17%
+You are staking 0.00 [USDC]-[BAKE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BAKE] Uni LP
+Unstake 0.00 [USDC]-[BAKE] Uni LP
+Claim 0.00 CAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WMATIC]-[BAKE] Uni LP [+] [-] [<=>] Price: $0.46 TVL: $303.20
+WMATIC Price: $2.16
+BAKE Price: $0.02
+Staked: 34.8026 UNI-V2 ($15.90)
+CAKE Per Week: 170.58 ($0.27)
+APR: Day 0.25% Week 1.72% Year 89.31%
+You are staking 0.00 [WMATIC]-[BAKE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[BAKE] Uni LP
+Unstake 0.00 [WMATIC]-[BAKE] Uni LP
+Claim 0.00 CAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [CREAM]-[USDC] Uni LP [+] [-] [<=>] Price: $163,411.03 TVL: $50.10
+CREAM Price: $0.006059
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($1.11)
+CAKE Per Week: 68.23 ($0.11)
+APR: Day 1.41% Week 9.86% Year 512.69%
+You are staking 0.00 [CREAM]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CREAM]-[USDC] Uni LP
+Unstake 0.00 [CREAM]-[USDC] Uni LP
+Claim 0.00 CAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [BISCUIT]-[USDC] Uni LP [+] [-] [<=>] Price: $94,365.58 TVL: $27.87
+BISCUIT Price: $0.001668
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.00)
+CAKE Per Week: 68.23 ($0.11)
+APR: Day 1858.85% Week 13011.94% Year 676620.71%
+You are staking 0.00 [BISCUIT]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BISCUIT]-[USDC] Uni LP
+Unstake 0.00 [BISCUIT]-[USDC] Uni LP
+Claim 0.00 CAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - CAKE Price: $0.001601 Market Cap: $28.91 [%]
+Staked: 3596.1848 CAKE ($5.76)
+CAKE Per Week: 272.94 ($0.44)
+APR: Day 1.08% Week 7.59% Year 394.66%
+You are staking 0.00 CAKE ($0.00), 0.00% of the pool.
+Stake 0.00 CAKE
+Unstake 0.00 CAKE
+Claim 0.00 CAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - BREAD Price: $0.00 Market Cap: $0.00 
+Staked: 175.5532 BREAD ($0.00)
+CAKE Per Week: 136.47 ($0.22)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BREAD ($0.00), NaN% of the pool.
+Stake 0.00 BREAD
+Unstake 0.00 BREAD
+Claim 0.00 CAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - WMATIC Price: $2.16 Market Cap: $656,313,119.12 [%]
+Staked: 17.6725 WMATIC ($38.17)
+CAKE Per Week: 102.35 ($0.16)
+APR: Day 0.06% Week 0.43% Year 22.32%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 CAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - USDC Price: $1.00 Market Cap: $943,417,203.65 [%]
+Staked: 5.9600 USDC ($5.96)
+CAKE Per Week: 68.23 ($0.11)
+APR: Day 0.26% Week 1.83% Year 95.31%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 CAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - WBTC Price: $48,954.00 Market Cap: $496,534,640.64 [%]
+Staked: 0.0001 WBTC ($3.66)
+CAKE Per Week: 68.23 ($0.11)
+APR: Day 0.43% Week 2.98% Year 155.07%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 CAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - WETH Price: $4,047.03 Market Cap: $1,796,211,873.01 [%]
+Staked: 0.0003 WETH ($1.26)
+CAKE Per Week: 68.23 ($0.11)
+APR: Day 1.24% Week 8.69% Year 451.93%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 CAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - QUICK Price: $252.11 Market Cap: $240,900,586.52 [%]
+Staked: 0.0045 QUICK ($1.13)
+CAKE Per Week: 68.23 ($0.11)
+APR: Day 1.38% Week 9.63% Year 500.57%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 CAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - USDT Price: $1.00 Market Cap: $313,236,490.86 [%]
+Staked: 5.9600 USDT ($5.96)
+CAKE Per Week: 68.23 ($0.11)
+APR: Day 0.26% Week 1.83% Year 95.37%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 CAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - DAI Price: $1.00 Market Cap: $374,104,232.00 [%]
+Staked: 3.8796 DAI ($3.88)
+CAKE Per Week: 68.23 ($0.11)
+APR: Day 0.40% Week 2.82% Year 146.42%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 CAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $88.22

@@ -1,0 +1,206 @@
+***************************** POLYGON NETWORK *************************************
+    
+************ 🌮🎉 UNOFFICIAL TACOPARTY FARMING CALCULATOR 🌮🎉 ******************
+INFO  : https://app.tacoparty.finance
+***********************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Thu Dec 16 2021 06:01:11 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 18 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [USDC]-[TACO] Uni LP [+] [-] [<=>] Price: $287,968.49 TVL: $1,788.37
+USDC Price: $1.00
+TACO Price: $0.02
+Staked: 0.0012 UNI-V2 ($337.15)
+TACO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDC]-[TACO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[TACO] Uni LP
+Unstake 0.00 [USDC]-[TACO] Uni LP
+Claim 0.00 TACO ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WMATIC]-[TACO] Uni LP [+] [-] [<=>] Price: $0.42 TVL: $217.95
+WMATIC Price: $2.15
+TACO Price: $0.02
+Staked: 0.4763 UNI-V2 ($0.20)
+TACO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WMATIC]-[TACO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[TACO] Uni LP
+Unstake 0.00 [WMATIC]-[TACO] Uni LP
+Claim 0.00 TACO ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - TACO Price: $0.02 Market Cap: $3,522.60 [%]
+Staked: 3577.7922 TACO ($63.02)
+TACO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 TACO ($0.00), 0.00% of the pool.
+Stake 0.00 TACO
+Unstake 0.00 TACO
+Claim 0.00 TACO ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - USDC Price: $1.00 Market Cap: $943,519,201.53 [%]
+Staked: 14.6129 USDC ($14.61)
+TACO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 TACO ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - USDT Price: $1.00 Market Cap: $313,461,279.68 [%]
+Staked: 0.0000 USDT ($0.00)
+TACO Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 USDT ($0.00), NaN% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 TACO ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - WMATIC Price: $2.15 Market Cap: $654,651,203.60 [%]
+Staked: 1.6608 WMATIC ($3.57)
+TACO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 TACO ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - WETH Price: $4,038.49 Market Cap: $1,792,575,186.94 [%]
+Staked: 0.0000 WETH ($0.15)
+TACO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 TACO ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - WBTC Price: $49,051.00 Market Cap: $497,567,535.54 [%]
+Staked: 0.0000 WBTC ($0.00)
+TACO Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 WBTC ($0.00), NaN% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 TACO ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - QUICK Price: $251.15 Market Cap: $239,980,877.11 [%]
+Staked: 0.0000 QUICK ($0.00)
+TACO Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 QUICK ($0.00), NaN% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 TACO ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - LINK Price: $19.98 Market Cap: $34,653,375.95 [%]
+Staked: 0.0487 LINK ($0.97)
+TACO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 TACO ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - DAI Price: $1.00 Market Cap: $374,131,149.78 [%]
+Staked: 0.0099 DAI ($0.01)
+TACO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 TACO ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - NFTM Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 NFTM ($0.00)
+TACO Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 NFTM ($0.00), NaN% of the pool.
+Stake 0.00 NFTM - Fee 4%
+Unstake 0.00 NFTM
+Claim 0.00 TACO ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - ELK Price: $0.00 Market Cap: $0.00 
+Staked: 14.3474 ELK ($0.00)
+TACO Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 ELK ($0.00), NaN% of the pool.
+Stake 0.00 ELK - Fee 4%
+Unstake 0.00 ELK
+Claim 0.00 TACO ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [FISH]-[TACO] PolyCat LP [+] [-] [<=>] Price: $0.21 TVL: $44.17
+FISH Price: $0.62
+TACO Price: $0.02
+Staked: 0.0000 CAT-LP ($0.00)
+TACO Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [FISH]-[TACO] PolyCat LP ($0.00), NaN% of the pool.
+Stake 0.00 [FISH]-[TACO] PolyCat LP
+Unstake 0.00 [FISH]-[TACO] PolyCat LP
+Claim 0.00 TACO ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [TACO]-[PAW] PolyCat LP [+] [-] [<=>] Price: $0.03 TVL: $13.90
+TACO Price: $0.02
+PAW Price: $0.009314
+Staked: 17.8491 CAT-LP ($0.47)
+TACO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [TACO]-[PAW] PolyCat LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TACO]-[PAW] PolyCat LP
+Unstake 0.00 [TACO]-[PAW] PolyCat LP
+Claim 0.00 TACO ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - FISH Price: $0.62 Market Cap: $1,855,563.12 [%]
+Staked: 98.3274 FISH ($60.82)
+TACO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 FISH ($0.00), 0.00% of the pool.
+Stake 0.00 FISH - Fee 3%
+Unstake 0.00 FISH
+Claim 0.00 TACO ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - PAW Price: $0.009314 Market Cap: $382,410.00 [%]
+Staked: 69.8987 PAW ($0.65)
+TACO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 PAW ($0.00), 0.00% of the pool.
+Stake 0.00 PAW - Fee 3%
+Unstake 0.00 PAW
+Claim 0.00 TACO ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - ICE Price: $0.00 Market Cap: $0.00 
+Staked: 388.0433 ICE ($0.00)
+TACO Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 ICE ($0.00), NaN% of the pool.
+Stake 0.00 ICE - Fee 3%
+Unstake 0.00 ICE
+Claim 0.00 TACO ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $481.62

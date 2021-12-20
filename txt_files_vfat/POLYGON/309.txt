@@ -1,0 +1,155 @@
+***************************** POLYGON NETWORK *********************************
+
+*************************** 👨‍🌾 SUNRISE FARM 👨‍🌾 *******************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Previous farm layer review (same MasterChef and Token contracts): RugDoc
+A RugDoc review for Sunrise will be posted, prior to or shortly after farming starts, in the Telegram channel below.
+
+MasterChef Contract: 0xd7f44ee5e90915dba8725b7cf6bdb3e69881b418
+SUNRISE Token Contract: 0x17b87678026208ec3b4cec49b4116e80e5f700d8
+
+Tokenomics: 
+    20k max token supply / 0.0015 emission per block
+    5% transfer tax used to automatically provide liquidity for SUNRISE/WMATIC LP
+
+Feenomics: 
+    10% additional rewards minted to dev wallet
+    0% deposit fee on native and partner pools / 4% deposit fee on non-native pools
+    Note: Deposit fee will be split amongst the dev team for future development, expenses, and new features.
+
+Proof of burned liquidity: tx hash
+
+Farming start (estimated): Sat Aug 21 2021 18:30:00 UTC
+
+SUNRISE/WMATIC Chart: defined.fi
+
+Telegram channel: Sunset Finance
+
+NOTE: MasterChef and Token ownership will be renounced at or before the farming start block. Proof will be posted in the Telegram channel linked above.
+
+Thu Dec 16 2021 05:24:47 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 12 pools.
+0 - [WMATIC]-[SUNRISE] Uni LP [+] [-] [<=>] Price: $0.75 TVL: $563.54
+WMATIC Price: $2.16
+SUNRISE Price: $0.06
+Staked: 58.8269 UNI-V2 ($44.05)
+SUNRISE Per Week: 117.15884632 ($7.28)
+APR: Day 2.36% Week 16.52% Year 858.80%
+You are staking 0.00000000 [WMATIC]-[SUNRISE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00000000 [WMATIC]-[SUNRISE] Uni LP
+Unstake 0.00000000 [WMATIC]-[SUNRISE] Uni LP
+Claim 0.00000000 SUNRISE ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBTC]-[WETH] Uni LP [+] [-] [<=>] Price: $1,423,360,287,805.34 TVL: $53,027,220.26
+WBTC Price: $49,039.00
+WETH Price: $4,041.65
+Staked: 0.0000 UNI-V2 ($125.00)
+SUNRISE Per Week: 31.24235902 ($1.94)
+APR: Day 0.22% Week 1.55% Year 80.71%
+You are staking 0.00000000 [WBTC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00000000 [WBTC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00000000 [WBTC]-[WETH] Uni LP
+Claim 0.00000000 SUNRISE ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDC]-[WETH] Uni LP [+] [-] [<=>] Price: $188,065,563.25 TVL: $79,059,228.77
+USDC Price: $1.00
+WETH Price: $4,041.65
+Staked: 0.0000 UNI-V2 ($73.69)
+SUNRISE Per Week: 27.33706414 ($1.70)
+APR: Day 0.33% Week 2.30% Year 119.80%
+You are staking 0.00000000 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00000000 [USDC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00000000 [USDC]-[WETH] Uni LP
+Claim 0.00000000 SUNRISE ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - SUNRISE Price: $0.06 Market Cap: $483.19 [%]
+Staked: 2399.9446 SUNRISE ($149.04)
+SUNRISE Per Week: 78.10589755 ($4.85)
+APR: Day 0.46% Week 3.25% Year 169.23%
+You are staking 0.00000000 SUNRISE ($0.00), 0.00% of the pool.
+Stake 0.00000000 SUNRISE
+Unstake 0.00000000 SUNRISE
+Claim 0.00000000 SUNRISE ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - WMATIC Price: $2.16 Market Cap: $657,604,488.42 [%]
+Staked: 27.2000 WMATIC ($58.75)
+SUNRISE Per Week: 7.81058975 ($0.49)
+APR: Day 0.12% Week 0.83% Year 42.93%
+You are staking 0.00000000 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00000000 WMATIC - Fee 4%
+Unstake 0.00000000 WMATIC
+Claim 0.00000000 SUNRISE ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - WETH Price: $4,041.65 Market Cap: $1,793,839,463.08 [%]
+Staked: 0.0033 WETH ($13.28)
+SUNRISE Per Week: 7.81058975 ($0.49)
+APR: Day 0.52% Week 3.65% Year 189.94%
+You are staking 0.00000000 WETH ($0.00), 0.00% of the pool.
+Stake 0.00000000 WETH - Fee 4%
+Unstake 0.00000000 WETH
+Claim 0.00000000 SUNRISE ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - WBTC Price: $49,039.00 Market Cap: $497,396,785.60 [%]
+Staked: 0.0004 WBTC ($21.90)
+SUNRISE Per Week: 7.81058975 ($0.49)
+APR: Day 0.32% Week 2.21% Year 115.16%
+You are staking 0.00000000 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00000000 WBTC - Fee 4%
+Unstake 0.00000000 WBTC
+Claim 0.00000000 SUNRISE ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - LINK Price: $19.96 Market Cap: $34,618,687.89 [%]
+Staked: 1.0256 LINK ($20.47)
+SUNRISE Per Week: 7.81058975 ($0.49)
+APR: Day 0.34% Week 2.37% Year 123.21%
+You are staking 0.00000000 LINK ($0.00), 0.00% of the pool.
+Stake 0.00000000 LINK - Fee 4%
+Unstake 0.00000000 LINK
+Claim 0.00000000 SUNRISE ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - RGEM Price: $1.04 Market Cap: $5,189.36 [%]
+Staked: 28.3912 RGEM ($29.46)
+SUNRISE Per Week: 15.62117951 ($0.97)
+APR: Day 0.47% Week 3.29% Year 171.21%
+You are staking 0.00000000 RGEM ($0.00), 0.00% of the pool.
+Stake 0.00000000 RGEM
+Unstake 0.00000000 RGEM
+Claim 0.00000000 SUNRISE ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - USDC Price: $1.00 Market Cap: $943,569,936.81 [%]
+Staked: 35.6000 USDC ($35.60)
+SUNRISE Per Week: 7.81058975 ($0.49)
+APR: Day 0.19% Week 1.36% Year 70.85%
+You are staking 0.00000000 USDC ($0.00), 0.00% of the pool.
+Stake 0.00000000 USDC - Fee 4%
+Unstake 0.00000000 USDC
+Claim 0.00000000 SUNRISE ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - SUN Price: $0.003236 Market Cap: $60.56 [%]
+Staked: 1173.9833 SUN ($3.80)
+SUNRISE Per Week: 27.33706414 ($1.70)
+APR: Day 6.38% Week 44.69% Year 2323.97%
+You are staking 0.00000000 SUN ($0.00), 0.00% of the pool.
+Stake 0.00000000 SUN
+Unstake 0.00000000 SUN
+Claim 0.00000000 SUNRISE ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $575.05

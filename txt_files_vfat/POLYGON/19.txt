@@ -1,0 +1,52 @@
+*************** 👨‍🌾 UNOFFICIAL NYAN FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://polynyan.eth.link/
+**************************************************************************
+
+WARNING: Staking through vfat is currently broken. 
+         Visit https://polynyan.eth.link/ to single stake MATIC and NYAN!
+
+Fri Dec 17 2021 09:12:22 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+[WMATIC]-[NYAN] SLP [+] [-] [<=>] Price: $0.01 TVL: $25.21
+WMATIC Price: $2.11
+NYAN Price: $0.0000044445
+Staked: 3615.6955 SLP ($22.97)
+NYAN Per Week: 3769230.77 ($16.75)
+APR: Day 10.42% Week 72.94% Year 3793.05%
+You are staking 0.000000 [WMATIC]-[NYAN] SLP $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 [WMATIC]-[NYAN] SLP
+Unstake 0.000000 [WMATIC]-[NYAN] SLP
+Claim 0.000000 NYAN ($0.00)
+Revoke (set approval to 0)
+Exit
+
+MATIC Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 MATIC ($0.00)
+NYAN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 MATIC $0.00 (NaN% of the pool).
+Polygon Explorer
+Please use the official website to stake MATIC.
+Unstake 0.000000 MATIC
+Claim 0.000000 NYAN ($0.00)
+Revoke (set approval to 0)
+Exit
+
+NYAN Price: $0.0000044445 Market Cap: $444.45 [%]
+Staked: 24034187.1563 NYAN ($106.82)
+NYAN Per Week: 3000000.00 ($13.33)
+APR: Day 1.78% Week 12.48% Year 649.08%
+You are staking 0.000000 NYAN $0.00 (0.00% of the pool).
+Polygon Explorer
+Stake 0.000000 NYAN
+Unstake 0.000000 NYAN
+Claim 0.000000 NYAN ($0.00)
+Revoke (set approval to 0)
+Exit
+
+Total staked: $129.79

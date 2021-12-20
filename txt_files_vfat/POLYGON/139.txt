@@ -1,0 +1,146 @@
+*************** 👨‍🌾 UNOFFICIAL FOXFARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://foxfarming.us
+***********************************************************************
+
+Fri Dec 17 2021 10:27:25 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 12 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [USDC]-[FOX] SLP [+] [-] [<=>] Price: $2,075.19 TVL: $0.53
+USDC Price: $1.00
+FOX Price: $0.0000010209
+Staked: 0.0002 SLP ($0.36)
+FOX Per Week: 21600.00 ($0.02)
+APR: Day 0.88% Week 6.17% Year 320.73%
+You are staking 0.00 [USDC]-[FOX] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[FOX] SLP
+Unstake 0.00 [USDC]-[FOX] SLP
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WMATIC]-[FOX] SLP [+] [-] [<=>] Price: $0.00 TVL: $1.30
+WMATIC Price: $2.04
+FOX Price: $0.0000010209
+Staked: 97.1155 SLP ($0.29)
+FOX Per Week: 18000.00 ($0.02)
+APR: Day 0.91% Week 6.36% Year 330.68%
+You are staking 0.00 [WMATIC]-[FOX] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[FOX] SLP
+Unstake 0.00 [WMATIC]-[FOX] SLP
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - FOX Price: $0.0000010209 Market Cap: $1.63 [%]
+Staked: 365296.8242 FOX ($0.37)
+FOX Per Week: 10800.00 ($0.01)
+APR: Day 0.42% Week 2.96% Year 153.74%
+You are staking 0.00 FOX ($0.00), 0.00% of the pool.
+Stake 0.00 FOX
+Unstake 0.00 FOX
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WMATIC]-[USDC] SLP [+] [-] [<=>] Price: $5,383,954.57 TVL: $11,392,795.89
+WMATIC Price: $2.04
+USDC Price: $1.00
+Staked: 0.0000 SLP ($0.01)
+FOX Per Week: 14400.00 ($0.01)
+APR: Day 38.87% Week 272.07% Year 14147.83%
+You are staking 0.00 [WMATIC]-[USDC] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] SLP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] SLP
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - WMATIC Price: $2.04 Market Cap: $622,675,249.73 [%]
+Staked: 144.6127 WMATIC ($295.01)
+FOX Per Week: 7200.00 ($0.01)
+APR: Day 0.00% Week 0.00% Year 0.13%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - USDT Price: $1.00 Market Cap: $318,632,011.08 [%]
+Staked: 9.6000 USDT ($9.57)
+FOX Per Week: 7200.00 ($0.01)
+APR: Day 0.01% Week 0.08% Year 4.00%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [USDC]-[WETH] SLP [+] [-] [<=>] Price: $145,671,820.05 TVL: $22,832,423.03
+USDC Price: $1.00
+WETH Price: $3,892.66
+Staked: 0.0000 SLP ($0.00)
+FOX Per Week: 14400.00 ($0.01)
+APR: Day 142.23% Week 995.63% Year 51772.72%
+You are staking 0.00 [USDC]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] SLP - Fee 4%
+Unstake 0.00 [USDC]-[WETH] SLP
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - WETH Price: $3,892.66 Market Cap: $1,728,365,112.06 [%]
+Staked: 0.0051 WETH ($19.90)
+FOX Per Week: 7200.00 ($0.01)
+APR: Day 0.01% Week 0.04% Year 1.92%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [WMATIC]-[WETH] SLP [+] [-] [<=>] Price: $202.35 TVL: $36,067,042.12
+WMATIC Price: $2.04
+WETH Price: $3,892.66
+Staked: 0.0000 SLP ($0.00)
+FOX Per Week: 14400.00 ($0.01)
+APR: Day 102.64% Week 718.47% Year 37360.39%
+You are staking 0.00 [WMATIC]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[WETH] SLP - Fee 4%
+Unstake 0.00 [WMATIC]-[WETH] SLP
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [USDC]-[DAI] SLP [+] [-] [<=>] Price: $2,074,303.92 TVL: $7,540,966.43
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.0000 SLP ($0.02)
+FOX Per Week: 14400.00 ($0.01)
+APR: Day 9.55% Week 66.84% Year 3475.55%
+You are staking 0.00 [USDC]-[DAI] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAI] SLP - Fee 4%
+Unstake 0.00 [USDC]-[DAI] SLP
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - DAI Price: $1.00 Market Cap: $366,867,694.89 [%]
+Staked: 38.2237 DAI ($38.14)
+FOX Per Week: 7200.00 ($0.01)
+APR: Day 0.00% Week 0.02% Year 1.00%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - WBTC Price: $46,989.00 Market Cap: $474,769,152.24 [%]
+Staked: 0.0000 WBTC ($0.00)
+FOX Per Week: 7200.00 ($0.01)
+APR: Day 223.46% Week 1564.22% Year 81339.55%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $363.67

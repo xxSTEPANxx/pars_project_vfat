@@ -1,0 +1,234 @@
+***************************** POLYGON NETWORK *************************************
+
+*************** 🚀 UNOFFICIAL SpacePortDeFi FARMING CALCULATOR 🚀 *********************
+INFO  : https://polygon3.SpacePortDeFi.com
+***********************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Thu Dec 16 2021 05:00:08 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 20 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - UFO Price: $0.00 Market Cap: $0.00 
+Staked: 19421.5393 UFO ($0.00)
+UFO Per Week: 0.04 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 UFO ($0.00), NaN% of the pool.
+Stake 0.00 UFO
+Unstake 0.00 UFO
+Claim 0.00 UFO ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,886,130.22 TVL: $52,401,715.26
+WMATIC Price: $2.16
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($98.62)
+UFO Per Week: 0.01 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 UFO ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [USDC]-[WETH] Uni LP [+] [-] [<=>] Price: $188,247,150.82 TVL: $79,126,903.04
+USDC Price: $1.00
+WETH Price: $4,049.53
+Staked: 0.0000 UNI-V2 ($0.00)
+UFO Per Week: 0.01 ($0.00)
+APR: Day 0.15% Week 1.07% Year 55.86%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 UFO ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WBTC]-[USDC] Uni LP [+] [-] [<=>] Price: $51,966,015,249,422.09 TVL: $11,705,543.73
+WBTC Price: $48,976.00
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($20.42)
+UFO Per Week: 0.01 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.01%
+You are staking 0.00 [WBTC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WBTC]-[USDC] Uni LP
+Claim 0.00 UFO ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDC]-[USDT] Uni LP [+] [-] [<=>] Price: $2,624,537,355,858.82 TVL: $24,545,786.59
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.00)
+UFO Per Week: 0.01 ($0.00)
+APR: Day 1.51% Week 10.55% Year 548.85%
+You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[USDT] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[USDT] Uni LP
+Claim 0.00 UFO ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [USDC]-[DAI] Uni LP [+] [-] [<=>] Price: $76,277,713.36 TVL: $7,329,405.78
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.00)
+UFO Per Week: 0.01 ($0.00)
+APR: Day 0.09% Week 0.66% Year 34.50%
+You are staking 0.00 [USDC]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAI] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[DAI] Uni LP
+Claim 0.00 UFO ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [DAI]-[USDT] Uni LP [+] [-] [<=>] Price: $27,501,545.99 TVL: $3,074,556.64
+DAI Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.00)
+UFO Per Week: 0.01 ($0.00)
+APR: Day 0.08% Week 0.57% Year 29.87%
+You are staking 0.00 [DAI]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[USDT] Uni LP - Fee 4%
+Unstake 0.00 [DAI]-[USDT] Uni LP
+Claim 0.00 UFO ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - WMATIC Price: $2.16 Market Cap: $656,242,327.46 [%]
+Staked: 0.0000 WMATIC ($0.00)
+UFO Per Week: 0.01 ($0.00)
+APR: Day 100308601750381.98% Week 702160212252673.88% Year 36512331037139040.00%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 UFO ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - WETH Price: $4,049.53 Market Cap: $1,797,298,153.52 [%]
+Staked: 0.0000 WETH ($0.00)
+UFO Per Week: 0.01 ($0.00)
+APR: Day 0.46% Week 3.25% Year 169.06%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 UFO ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - WBTC Price: $48,976.00 Market Cap: $496,757,784.04 [%]
+Staked: 0.0004 WBTC ($20.91)
+UFO Per Week: 0.01 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 UFO ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - QUICK Price: $252.14 Market Cap: $240,929,252.65 [%]
+Staked: 0.0012 QUICK ($0.30)
+UFO Per Week: 0.01 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.17%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 UFO ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - USDC Price: $1.00 Market Cap: $943,417,245.85 [%]
+Staked: 0.0480 USDC ($0.05)
+UFO Per Week: 0.01 ($0.00)
+APR: Day 0.00% Week 0.03% Year 1.37%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 UFO ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - USDT Price: $1.00 Market Cap: $313,439,913.37 [%]
+Staked: 0.0096 USDT ($0.01)
+UFO Per Week: 0.01 ($0.00)
+APR: Day 0.02% Week 0.13% Year 6.85%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 UFO ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - DAI Price: $1.00 Market Cap: $374,104,232.00 [%]
+Staked: 0.0211 DAI ($0.02)
+UFO Per Week: 0.01 ($0.00)
+APR: Day 0.01% Week 0.06% Year 3.12%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 UFO ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - AAVE Price: $174.92 Market Cap: $47,616,610.20 [%]
+Staked: 0.0000 AAVE ($0.00)
+UFO Per Week: 0.01 ($0.00)
+APR: Day 0.08% Week 0.58% Year 29.95%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 UFO ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - LINK Price: $19.98 Market Cap: $34,653,375.95 [%]
+Staked: 0.0000 LINK ($0.00)
+UFO Per Week: 0.01 ($0.00)
+APR: Day 0.16% Week 1.15% Year 59.84%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 UFO ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - SATELITE Price: $0.00 Market Cap: $0.00 
+Staked: 1211.1932 SATELITE ($0.00)
+UFO Per Week: 0.01 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SATELITE ($0.00), NaN% of the pool.
+Stake 0.00 SATELITE - Fee 2%
+Unstake 0.00 SATELITE
+Claim 0.00 UFO ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - STARSHIP Price: $0.00 Market Cap: $0.00 
+Staked: 467.1794 STARSHIP ($0.00)
+UFO Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 STARSHIP ($0.00), NaN% of the pool.
+Stake 0.00 STARSHIP - Fee 2%
+Unstake 0.00 STARSHIP
+Claim 0.00 UFO ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [USDC]-[UFO] Uni LP [+] [-] [<=>] Price: $90,294.77 TVL: $109.39
+USDC Price: $1.00
+UFO Price: $0.001760
+Staked: 0.0001 UNI-V2 ($4.67)
+UFO Per Week: 0.11 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.22%
+You are staking 0.00 [USDC]-[UFO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[UFO] Uni LP
+Unstake 0.00 [USDC]-[UFO] Uni LP
+Claim 0.00 UFO ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [WMATIC]-[UFO] Uni LP [+] [-] [<=>] Price: $0.13 TVL: $214.17
+WMATIC Price: $2.16
+UFO Price: $0.001760
+Staked: 0.0302 UNI-V2 ($0.00)
+UFO Per Week: 0.09 ($0.00)
+APR: Day 0.55% Week 3.88% Year 201.78%
+You are staking 0.00 [WMATIC]-[UFO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[UFO] Uni LP
+Unstake 0.00 [WMATIC]-[UFO] Uni LP
+Claim 0.00 UFO ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $145.01

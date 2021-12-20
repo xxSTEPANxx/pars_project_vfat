@@ -1,0 +1,174 @@
+***************************** POLYGON NETWORK ***************************
+    
+*************** 👨‍🌾 UNOFFICIAL POLYSANTA FARMING CALCULATOR 👨‍🌾 ****************
+INFO  : https://polysanta.farm
+*************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Thu Dec 16 2021 04:59:36 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 15 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [USDC]-[SANTA] Uni LP [+] [-] [<=>] Price: $6,011.96 TVL: $0.01
+USDC Price: $1.00
+SANTA Price: $0.0000083512
+Staked: 0.0000 UNI-V2 ($0.01)
+SANTA Per Week: 4585.99 ($0.04)
+APR: Day 72.21% Week 505.47% Year 26284.23%
+You are staking 0.00 [USDC]-[SANTA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[SANTA] Uni LP
+Unstake 0.00 [USDC]-[SANTA] Uni LP
+Claim 0.00 SANTA ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WMATIC]-[SANTA] Uni LP [+] [-] [<=>] Price: $0.01 TVL: $0.01
+WMATIC Price: $2.16
+SANTA Price: $0.0000083512
+Staked: 0.4487 UNI-V2 ($0.00)
+SANTA Per Week: 4585.99 ($0.04)
+APR: Day 135.91% Week 951.40% Year 49473.03%
+You are staking 0.00 [WMATIC]-[SANTA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[SANTA] Uni LP
+Unstake 0.00 [WMATIC]-[SANTA] Uni LP
+Claim 0.00 SANTA ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - SANTA Price: $0.0000083512 Market Cap: $0.57 [%]
+Staked: 28234.4403 SANTA ($0.24)
+SANTA Per Week: 2292.99 ($0.02)
+APR: Day 1.16% Week 8.12% Year 422.31%
+You are staking 0.00 SANTA ($0.00), 0.00% of the pool.
+Stake 0.00 SANTA
+Unstake 0.00 SANTA
+Claim 0.00 SANTA ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,886,127.50 TVL: $52,401,666.88
+WMATIC Price: $2.16
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($81.69)
+SANTA Per Week: 321.02 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.17%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 SANTA ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - WMATIC Price: $2.16 Market Cap: $656,250,612.08 [%]
+Staked: 0.3593 WMATIC ($0.78)
+SANTA Per Week: 321.02 ($0.00)
+APR: Day 0.05% Week 0.35% Year 17.96%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 SANTA ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - DAI Price: $1.00 Market Cap: $374,104,232.00 [%]
+Staked: 45.9533 DAI ($45.95)
+SANTA Per Week: 229.30 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.22%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 SANTA ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - USDT Price: $1.00 Market Cap: $313,439,913.37 [%]
+Staked: 0.0000 USDT ($0.00)
+SANTA Per Week: 229.30 ($0.00)
+APR: Day 27355.96% Week 191491.70% Year 9957568.18%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 SANTA ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - USDC Price: $1.00 Market Cap: $943,417,245.85 [%]
+Staked: 0.0000 USDC ($0.00)
+SANTA Per Week: 229.30 ($0.00)
+APR: Day 27355.96% Week 191491.70% Year 9957568.18%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 SANTA ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - QUICK Price: $252.11 Market Cap: $240,900,586.52 [%]
+Staked: 0.0000 QUICK ($0.00)
+SANTA Per Week: 229.30 ($0.00)
+APR: Day 108508018463710.39% Week 759556129245972.75% Year 39496918720790584.00%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 SANTA ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - WETH Price: $4,047.44 Market Cap: $1,796,370,551.27 [%]
+Staked: 0.0000 WETH ($0.00)
+SANTA Per Week: 229.30 ($0.00)
+APR: Day 6758829416837.81% Week 47311805917864.67% Year 2460213907728963.00%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 SANTA ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - WBTC Price: $48,976.00 Market Cap: $496,757,784.04 [%]
+Staked: 0.0000 WBTC ($0.00)
+SANTA Per Week: 229.30 ($0.00)
+APR: Day 55.86% Week 390.99% Year 20331.53%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 SANTA ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - AAVE Price: $174.92 Market Cap: $47,616,610.20 [%]
+Staked: 0.0000 AAVE ($0.00)
+SANTA Per Week: 229.30 ($0.00)
+APR: Day 156391244768385.72% Week 1094738713378700.00% Year 56926413095692400.00%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 SANTA ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - SUSHI Price: $5.92 Market Cap: $3,231,699.24 [%]
+Staked: 0.0000 SUSHI ($0.00)
+SANTA Per Week: 229.30 ($0.00)
+APR: Day 444.62% Week 3112.37% Year 161843.42%
+You are staking 0.00 SUSHI ($0.00), 0.00% of the pool.
+Stake 0.00 SUSHI - Fee 4%
+Unstake 0.00 SUSHI
+Claim 0.00 SANTA ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - FISH Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 FISH ($0.00)
+SANTA Per Week: 229.30 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FISH ($0.00), NaN% of the pool.
+Stake 0.00 FISH - Fee 4%
+Unstake 0.00 FISH
+Claim 0.00 SANTA ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - LINK Price: $19.98 Market Cap: $34,653,375.95 [%]
+Staked: 0.0000 LINK ($0.00)
+SANTA Per Week: 229.30 ($0.00)
+APR: Day 1369166993738039.50% Week 9584168956166276.00% Year 498376785720646336.00%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 SANTA ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $128.67

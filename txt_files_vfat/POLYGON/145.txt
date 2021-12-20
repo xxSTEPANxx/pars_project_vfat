@@ -1,0 +1,170 @@
+***************************** POLYGON NETWORK *************************************
+
+*************** 👨‍🌾 UNOFFICIAL POLYZEUS.FINANCE FARMING CALCULATOR 👨‍🌾 *************
+INFO  : https://polyzeus.finance
+***********************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Fri Dec 17 2021 10:30:00 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 18 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+1 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,715,295.74 TVL: $50,947,138.33
+WMATIC Price: $2.04
+USDC Price: $1.00
+Staked: 0.0001 UNI-V2 ($350.59)
+PolyZeus Per Week: 146044.62 ($0.37)
+APR: Day 0.01% Week 0.10% Year 5.42%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 PolyZeus ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - WMATIC Price: $2.04 Market Cap: $622,639,158.22 [%]
+Staked: 28.6255 WMATIC ($58.40)
+PolyZeus Per Week: 58417.85 ($0.15)
+APR: Day 0.04% Week 0.25% Year 13.02%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 PolyZeus ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - WBTC Price: $46,989.00 Market Cap: $474,769,152.24 [%]
+Staked: 0.0000 WBTC ($0.47)
+PolyZeus Per Week: 116835.70 ($0.29)
+APR: Day 8.89% Week 62.25% Year 3237.11%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 PolyZeus ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - WETH Price: $3,892.66 Market Cap: $1,728,365,114.20 [%]
+Staked: 0.1687 WETH ($656.81)
+PolyZeus Per Week: 116835.70 ($0.29)
+APR: Day 0.01% Week 0.04% Year 2.32%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 PolyZeus ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - QUICK Price: $241.14 Market Cap: $230,418,532.52 [%]
+Staked: 0.1119 QUICK ($26.99)
+PolyZeus Per Week: 134361.05 ($0.34)
+APR: Day 0.18% Week 1.25% Year 64.81%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 PolyZeus ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - YLD Price: $0.32 Market Cap: $185,536.10 [%]
+Staked: 3.5234 YLD ($1.11)
+PolyZeus Per Week: 29208.92 ($0.07)
+APR: Day 0.94% Week 6.59% Year 342.58%
+You are staking 0.00 YLD ($0.00), 0.00% of the pool.
+Stake 0.00 YLD - Fee 4%
+Unstake 0.00 YLD
+Claim 0.00 PolyZeus ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - USDT Price: $1.00 Market Cap: $319,072,307.52 [%]
+Staked: 11.5200 USDT ($11.50)
+PolyZeus Per Week: 87626.77 ($0.22)
+APR: Day 0.27% Week 1.91% Year 99.24%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 PolyZeus ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - USDC Price: $1.00 Market Cap: $948,776,448.38 [%]
+Staked: 989.1966 USDC ($985.60)
+PolyZeus Per Week: 58417.85 ($0.15)
+APR: Day 0.00% Week 0.01% Year 0.77%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC
+Unstake 0.00 USDC
+Claim 0.00 PolyZeus ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - PolyZeus Price: $0.0000025037 Market Cap: $71.34 [%]
+Staked: 17564791.7610 PolyZeus ($43.98)
+PolyZeus Per Week: 525760.65 ($1.32)
+APR: Day 0.43% Week 2.99% Year 155.65%
+You are staking 0.00 PolyZeus ($0.00), 0.00% of the pool.
+Stake 0.00 PolyZeus
+Unstake 0.00 PolyZeus
+Claim 0.00 PolyZeus ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [USDC]-[USDT] Uni LP [+] [-] [<=>] Price: $2,617,384,430,725.77 TVL: $24,027,917.01
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($65.64)
+PolyZeus Per Week: 146044.62 ($0.37)
+APR: Day 0.08% Week 0.56% Year 28.96%
+You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[USDT] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[USDT] Uni LP
+Claim 0.00 PolyZeus ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [WBTC]-[USDC] Uni LP [+] [-] [<=>] Price: $50,817,765,599,321.24 TVL: $11,381,434.62
+WBTC Price: $46,989.00
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($933.76)
+PolyZeus Per Week: 146044.62 ($0.37)
+APR: Day 0.01% Week 0.04% Year 2.04%
+You are staking 0.00 [WBTC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WBTC]-[USDC] Uni LP
+Claim 0.00 PolyZeus ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [WMATIC]-[QUICK] Uni LP [+] [-] [<=>] Price: $62.93 TVL: $9,333,935.91
+WMATIC Price: $2.04
+QUICK Price: $241.14
+Staked: 3.6551 UNI-V2 ($230.01)
+PolyZeus Per Week: 146044.62 ($0.37)
+APR: Day 0.02% Week 0.16% Year 8.27%
+You are staking 0.00 [WMATIC]-[QUICK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[QUICK] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[QUICK] Uni LP
+Claim 0.00 PolyZeus ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [WMATIC]-[PolyZeus] Uni LP [+] [-] [<=>] Price: $0.00 TVL: $12.08
+WMATIC Price: $2.04
+PolyZeus Price: $0.0000025037
+Staked: 2452.1467 UNI-V2 ($11.74)
+PolyZeus Per Week: 584178.50 ($1.46)
+APR: Day 1.78% Week 12.46% Year 647.98%
+You are staking 0.00 [WMATIC]-[PolyZeus] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[PolyZeus] Uni LP
+Unstake 0.00 [WMATIC]-[PolyZeus] Uni LP
+Claim 0.00 PolyZeus ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [USDC]-[PolyZeus] Uni LP [+] [-] [<=>] Price: $3,448.29 TVL: $28.74
+USDC Price: $1.00
+PolyZeus Price: $0.0000025037
+Staked: 0.0033 UNI-V2 ($11.39)
+PolyZeus Per Week: 584178.50 ($1.46)
+APR: Day 1.83% Week 12.84% Year 667.56%
+You are staking 0.00 [USDC]-[PolyZeus] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[PolyZeus] Uni LP
+Unstake 0.00 [USDC]-[PolyZeus] Uni LP
+Claim 0.00 PolyZeus ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $3,387.98

@@ -1,0 +1,198 @@
+***************************** POLYGON NETWORK *************************************
+    
+*************** 👨‍🌾 UNOFFICIAL PEPSI FINANCE FARMING CALCULATOR 👨‍🌾 *********************
+INFO  : https://pepsifinance.cc
+***********************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Thu Dec 16 2021 05:52:14 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 17 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [USDC]-[PEPSI] Uni LP [+] [-] [<=>] Price: $21,283.68 TVL: $0.09
+USDC Price: $1.00
+PEPSI Price: $0.000107
+Staked: 0.0000 UNI-V2 ($0.08)
+PEPSI Per Week: 414.00 ($0.04)
+APR: Day 7.58% Week 53.09% Year 2760.84%
+You are staking 0.00 [USDC]-[PEPSI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[PEPSI] Uni LP
+Unstake 0.00 [USDC]-[PEPSI] Uni LP
+Claim 0.00 PEPSI ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WMATIC]-[PEPSI] Uni LP [+] [-] [<=>] Price: $0.03 TVL: $0.23
+WMATIC Price: $2.15
+PEPSI Price: $0.000107
+Staked: 6.3514 UNI-V2 ($0.20)
+PEPSI Per Week: 414.00 ($0.04)
+APR: Day 3.17% Week 22.21% Year 1155.05%
+You are staking 0.00 [WMATIC]-[PEPSI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[PEPSI] Uni LP
+Unstake 0.00 [WMATIC]-[PEPSI] Uni LP
+Claim 0.00 PEPSI ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WETH]-[PEPSI] Uni LP [+] [-] [<=>] Price: $1.45 TVL: $0.00
+WETH Price: $4,037.95
+PEPSI Price: $0.000107
+Staked: 0.0000 UNI-V2 ($0.00)
+PEPSI Per Week: 414.00 ($0.04)
+APR: Day 145768092786342.91% Week 1020376649504400.38% Year 53059585774228816.00%
+You are staking 0.00 [WETH]-[PEPSI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[PEPSI] Uni LP
+Unstake 0.00 [WETH]-[PEPSI] Uni LP
+Claim 0.00 PEPSI ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,872,796.85 TVL: $52,318,416.68
+WMATIC Price: $2.15
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.00)
+PEPSI Per Week: 41.40 ($0.00)
+APR: Day 10784789987.23% Week 75493529910.63% Year 3925663555352.67%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 PEPSI ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDC]-[WETH] Uni LP [+] [-] [<=>] Price: $187,979,509.82 TVL: $79,023,669.56
+USDC Price: $1.00
+WETH Price: $4,037.95
+Staked: 0.0000 UNI-V2 ($0.00)
+PEPSI Per Week: 41.40 ($0.00)
+APR: Day 3369350.24% Week 23585451.68% Year 1226443487.57%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 PEPSI ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - PEPSI Price: $0.000107 Market Cap: $0.48 [%]
+Staked: 2176.8092 PEPSI ($0.23)
+PEPSI Per Week: 207.00 ($0.02)
+APR: Day 1.36% Week 9.51% Year 494.49%
+You are staking 0.00 PEPSI ($0.00), 0.00% of the pool.
+Stake 0.00 PEPSI
+Unstake 0.00 PEPSI
+Claim 0.00 PEPSI ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - WMATIC Price: $2.15 Market Cap: $654,540,261.56 [%]
+Staked: 0.0096 WMATIC ($0.02)
+PEPSI Per Week: 41.40 ($0.00)
+APR: Day 3.07% Week 21.48% Year 1116.99%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 PEPSI ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - PolyDoge Price: $0.0000000241 Market Cap: $24,075,000.00 [%]
+Staked: 1302587075.7371 PolyDoge ($31.36)
+PEPSI Per Week: 41.40 ($0.00)
+APR: Day 0.00% Week 0.01% Year 0.74%
+You are staking 0.00 PolyDoge ($0.00), 0.00% of the pool.
+Stake 0.00 PolyDoge - Fee 4%
+Unstake 0.00 PolyDoge
+Claim 0.00 PEPSI ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - WETH Price: $4,037.95 Market Cap: $1,792,311,589.49 [%]
+Staked: 0.0288 WETH ($116.29)
+PEPSI Per Week: 41.40 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.20%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 PEPSI ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - WBTC Price: $49,044.00 Market Cap: $497,496,528.37 [%]
+Staked: 0.0000 WBTC ($0.00)
+PEPSI Per Week: 41.40 ($0.00)
+APR: Day 64.57% Week 452.00% Year 23504.02%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 PEPSI ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - AAVE Price: $175.89 Market Cap: $47,880,662.98 [%]
+Staked: 0.0000 AAVE ($0.00)
+PEPSI Per Week: 41.40 ($0.00)
+APR: Day 600.16% Week 4201.09% Year 218456.84%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 PEPSI ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - QUICK Price: $251.12 Market Cap: $239,952,211.27 [%]
+Staked: 0.0000 QUICK ($0.00)
+PEPSI Per Week: 41.40 ($0.00)
+APR: Day 126.11% Week 882.76% Year 45903.60%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 PEPSI ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - FISH Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 FISH ($0.00)
+PEPSI Per Week: 41.40 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FISH ($0.00), NaN% of the pool.
+Stake 0.00 FISH - Fee 4%
+Unstake 0.00 FISH
+Claim 0.00 PEPSI ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - LINK Price: $19.96 Market Cap: $34,618,687.89 [%]
+Staked: 0.0004 LINK ($0.01)
+PEPSI Per Week: 41.40 ($0.00)
+APR: Day 8.35% Week 58.45% Year 3039.58%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 PEPSI ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - USDC Price: $1.00 Market Cap: $943,395,526.17 [%]
+Staked: 0.9605 USDC ($0.96)
+PEPSI Per Week: 41.40 ($0.00)
+APR: Day 0.07% Week 0.46% Year 24.00%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 PEPSI ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - DAI Price: $1.00 Market Cap: $374,131,149.78 [%]
+Staked: 0.0002 DAI ($0.00)
+PEPSI Per Week: 41.40 ($0.00)
+APR: Day 316.68% Week 2216.79% Year 115273.12%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 PEPSI ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - USDT Price: $1.00 Market Cap: $313,461,279.68 [%]
+Staked: 0.0001 USDT ($0.00)
+PEPSI Per Week: 41.40 ($0.00)
+APR: Day 633.37% Week 4433.58% Year 230546.25%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 PEPSI ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $149.16

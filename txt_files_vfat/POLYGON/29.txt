@@ -1,0 +1,110 @@
+***************************** POLYGON NETWORK *****************************************
+    
+*************** 👨‍🌾 UNOFFICIAL POLYFI FINANCE FARMING CALCULATOR 👨‍🌾 *******************
+INFO  : https://polyfi.io
+***************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Fri Dec 17 2021 09:19:54 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 20 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+11 - [WMATIC]-[PolyFi] Uni LP [+] [-] [<=>] Price: $243,854,643,243,328.16 TVL: $1,283.43
+WMATIC Price: $2.10
+PolyFi Price: $0.000463
+Staked: 0.0000 UNI-V2 ($1,021.21)
+PolyFi Per Week: 123870.97 ($57.35)
+APR: Day 0.80% Week 5.62% Year 292.04%
+You are staking 0.00 [WMATIC]-[PolyFi] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[PolyFi] Uni LP
+Unstake 0.00 [WMATIC]-[PolyFi] Uni LP
+Claim 0.00 PolyFi ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - WMATIC Price: $2.10 Market Cap: $639,832,507.46 [%]
+Staked: 116.7626 WMATIC ($245.20)
+PolyFi Per Week: 12387.10 ($5.74)
+APR: Day 0.33% Week 2.34% Year 121.63%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 PolyFi ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - USDT Price: $1.00 Market Cap: $319,617,187.00 [%]
+Staked: 996.9505 USDT ($996.55)
+PolyFi Per Week: 14864.52 ($6.88)
+APR: Day 0.10% Week 0.69% Year 35.91%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 PolyFi ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - USDC Price: $1.00 Market Cap: $952,101,817.16 [%]
+Staked: 1203.9611 USDC ($1,203.83)
+PolyFi Per Week: 14864.52 ($6.88)
+APR: Day 0.08% Week 0.57% Year 29.73%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 PolyFi ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - DAI Price: $1.00 Market Cap: $367,631,170.58 [%]
+Staked: 543.3998 DAI ($543.40)
+PolyFi Per Week: 14864.52 ($6.88)
+APR: Day 0.18% Week 1.27% Year 65.86%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 PolyFi ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - WBTC Price: $47,684.00 Market Cap: $481,141,526.34 [%]
+Staked: 0.0034 WBTC ($163.97)
+PolyFi Per Week: 12387.10 ($5.74)
+APR: Day 0.50% Week 3.50% Year 181.88%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 PolyFi ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - WETH Price: $3,958.02 Market Cap: $1,757,037,559.65 [%]
+Staked: 0.0938 WETH ($371.12)
+PolyFi Per Week: 12387.10 ($5.74)
+APR: Day 0.22% Week 1.55% Year 80.36%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 PolyFi ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - QUICK Price: $245.25 Market Cap: $234,345,795.39 [%]
+Staked: 0.9603 QUICK ($235.52)
+PolyFi Per Week: 12387.10 ($5.74)
+APR: Day 0.35% Week 2.44% Year 126.63%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 PolyFi ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - AAVE Price: $175.05 Market Cap: $47,638,952.07 [%]
+Staked: 0.4175 AAVE ($73.09)
+PolyFi Per Week: 12387.10 ($5.74)
+APR: Day 1.12% Week 7.85% Year 408.03%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 PolyFi ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $4,853.90

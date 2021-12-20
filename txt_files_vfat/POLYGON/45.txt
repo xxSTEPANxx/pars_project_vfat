@@ -1,0 +1,176 @@
+***************************** POLYGON NETWORK ***************************************
+
+*************** 👨‍🌾 UNOFFICIAL ORCINUSLABS FARMING CALCULATOR 👨‍🌾 ********************
+INFO  : https://www.orcinuslabs.ca
+*************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Fri Dec 17 2021 09:30:26 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 35 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+4 - [WMATIC]-[ORCA] Uni LP [+] [-] [<=>] Price: $0.04 TVL: $334.86
+WMATIC Price: $2.10
+ORCA Price: $0.000184
+Staked: 7199.4683 UNI-V2 ($314.41)
+ORCA Per Week: 11820.20 ($2.18)
+APR: Day 0.10% Week 0.69% Year 36.06%
+You are staking 0.00 [WMATIC]-[ORCA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[ORCA] Uni LP
+Unstake 0.00 [WMATIC]-[ORCA] Uni LP
+Claim 0.00 ORCA ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [USDC]-[ORCA] Uni LP [+] [-] [<=>] Price: $29,429.46 TVL: $32.36
+USDC Price: $1.00
+ORCA Price: $0.000184
+Staked: 0.0006 UNI-V2 ($18.00)
+ORCA Per Week: 11820.20 ($2.18)
+APR: Day 1.73% Week 12.11% Year 629.85%
+You are staking 0.00 [USDC]-[ORCA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[ORCA] Uni LP
+Unstake 0.00 [USDC]-[ORCA] Uni LP
+Claim 0.00 ORCA ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [USDT]-[ORCA] Uni LP [+] [-] [<=>] Price: $29,008.87 TVL: $65.34
+USDT Price: $1.00
+ORCA Price: $0.000184
+Staked: 0.0016 UNI-V2 ($45.34)
+ORCA Per Week: 11820.20 ($2.18)
+APR: Day 0.69% Week 4.81% Year 250.07%
+You are staking 0.00 [USDT]-[ORCA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[ORCA] Uni LP
+Unstake 0.00 [USDT]-[ORCA] Uni LP
+Claim 0.00 ORCA ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - ORCA Price: $0.000184 Market Cap: $632.86 [%]
+Staked: 932384.1567 ORCA ($171.99)
+ORCA Per Week: 11820.20 ($2.18)
+APR: Day 0.18% Week 1.27% Year 65.92%
+You are staking 0.00 ORCA ($0.00), 0.00% of the pool.
+Stake 0.00 ORCA - Fee 0.5%
+Unstake 0.00 ORCA
+Claim 0.00 ORCA ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - USDC Price: $1.00 Market Cap: $951,549,575.59 [%]
+Staked: 231.1075 USDC ($230.95)
+ORCA Per Week: 2955.05 ($0.55)
+APR: Day 0.03% Week 0.24% Year 12.27%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 ORCA ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - WMATIC Price: $2.10 Market Cap: $640,011,084.46 [%]
+Staked: 737.7635 WMATIC ($1,549.30)
+ORCA Per Week: 2955.05 ($0.55)
+APR: Day 0.01% Week 0.04% Year 1.83%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 3%
+Unstake 0.00 WMATIC
+Claim 0.00 ORCA ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - USDT Price: $1.00 Market Cap: $319,227,792.91 [%]
+Staked: 30.9370 USDT ($30.89)
+ORCA Per Week: 2068.53 ($0.38)
+APR: Day 0.18% Week 1.24% Year 64.24%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 3%
+Unstake 0.00 USDT
+Claim 0.00 ORCA ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - WBTC Price: $47,621.00 Market Cap: $480,505,843.17 [%]
+Staked: 0.0001 WBTC ($4.07)
+ORCA Per Week: 2955.05 ($0.55)
+APR: Day 1.91% Week 13.39% Year 696.25%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 3%
+Unstake 0.00 WBTC
+Claim 0.00 ORCA ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - WETH Price: $3,951.50 Market Cap: $1,754,206,335.73 [%]
+Staked: 0.0006 WETH ($2.52)
+ORCA Per Week: 2955.05 ($0.55)
+APR: Day 3.09% Week 21.66% Year 1126.25%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 2.5%
+Unstake 0.00 WETH
+Claim 0.00 ORCA ($0.00)
+Staking or unstaking also claims rewards.
+
+29 - SUSHI Price: $5.70 Market Cap: $3,216,399.45 [%]
+Staked: 7.9477 SUSHI ($45.30)
+ORCA Per Week: 3546.06 ($0.65)
+APR: Day 0.21% Week 1.44% Year 75.08%
+You are staking 0.00 SUSHI ($0.00), 0.00% of the pool.
+Stake 0.00 SUSHI - Fee 3.5%
+Unstake 0.00 SUSHI
+Claim 0.00 ORCA ($0.00)
+Staking or unstaking also claims rewards.
+
+30 - LINK Price: $19.03 Market Cap: $33,130,381.34 [%]
+Staked: 24.7488 LINK ($470.97)
+ORCA Per Week: 3546.06 ($0.65)
+APR: Day 0.02% Week 0.14% Year 7.22%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 3%
+Unstake 0.00 LINK
+Claim 0.00 ORCA ($0.00)
+Staking or unstaking also claims rewards.
+
+31 - AAVE Price: $174.64 Market Cap: $47,527,372.69 [%]
+Staked: 1.3303 AAVE ($232.32)
+ORCA Per Week: 3546.06 ($0.65)
+APR: Day 0.04% Week 0.28% Year 14.64%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 3%
+Unstake 0.00 AAVE
+Claim 0.00 ORCA ($0.00)
+Staking or unstaking also claims rewards.
+
+32 - FISH Price: $0.00 Market Cap: $0.00 
+Staked: 7.6292 FISH ($0.00)
+ORCA Per Week: 3546.06 ($0.65)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FISH ($0.00), NaN% of the pool.
+Stake 0.00 FISH - Fee 3.5%
+Unstake 0.00 FISH
+Claim 0.00 ORCA ($0.00)
+Staking or unstaking also claims rewards.
+
+33 - Krill Price: $0.04 Market Cap: $420,777.26 [%]
+Staked: 190.9703 Krill ($7.48)
+ORCA Per Week: 3546.06 ($0.65)
+APR: Day 1.25% Week 8.75% Year 454.85%
+You are staking 0.00 Krill ($0.00), 0.00% of the pool.
+Stake 0.00 Krill - Fee 3.5%
+Unstake 0.00 Krill
+Claim 0.00 ORCA ($0.00)
+Staking or unstaking also claims rewards.
+
+34 - [ZERO]-[ORCA] Uni LP [+] [-] [<=>] Price: $0.00 TVL: $18.70
+ZERO Price: $0.009859
+ORCA Price: $0.000184
+Staked: 6057.7883 UNI-V2 ($17.15)
+ORCA Per Week: 11820.20 ($2.18)
+APR: Day 1.82% Week 12.71% Year 661.10%
+You are staking 0.00 [ZERO]-[ORCA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ZERO]-[ORCA] Uni LP
+Unstake 0.00 [ZERO]-[ORCA] Uni LP
+Claim 0.00 ORCA ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $3,140.68

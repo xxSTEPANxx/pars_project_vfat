@@ -1,0 +1,198 @@
+***************************** POLYGON NETWORK *******************************************
+
+*************** 👨‍🌾 UNOFFICIAL KIMCHI FINANCE FARMING CALCULATOR 👨‍🌾 *********************
+INFO  : https://kimchifinance.icu
+*****************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Thu Dec 16 2021 06:14:37 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 17 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [KIMCHI]-[USDC] Uni LP [+] [-] [<=>] Price: $18,480.86 TVL: $0.56
+KIMCHI Price: $0.0000828274
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.56)
+KIMCHI Per Week: 1945.95 ($0.16)
+APR: Day 4.13% Week 28.89% Year 1502.45%
+You are staking 0.00 [KIMCHI]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KIMCHI]-[USDC] Uni LP
+Unstake 0.00 [KIMCHI]-[USDC] Uni LP
+Claim 0.00 KIMCHI ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WMATIC]-[KIMCHI] Uni LP [+] [-] [<=>] Price: $0.03 TVL: $1.33
+WMATIC Price: $2.14
+KIMCHI Price: $0.0000828274
+Staked: 48.5180 UNI-V2 ($1.33)
+KIMCHI Per Week: 1945.95 ($0.16)
+APR: Day 1.74% Week 12.15% Year 632.00%
+You are staking 0.00 [WMATIC]-[KIMCHI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[KIMCHI] Uni LP
+Unstake 0.00 [WMATIC]-[KIMCHI] Uni LP
+Claim 0.00 KIMCHI ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [KIMCHI]-[WETH] Uni LP [+] [-] [<=>] Price: $1.18 TVL: $0.25
+KIMCHI Price: $0.0000828274
+WETH Price: $4,036.95
+Staked: 0.2150 UNI-V2 ($0.25)
+KIMCHI Per Week: 1945.95 ($0.16)
+APR: Day 9.09% Week 63.64% Year 3309.17%
+You are staking 0.00 [KIMCHI]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KIMCHI]-[WETH] Uni LP
+Unstake 0.00 [KIMCHI]-[WETH] Uni LP
+Claim 0.00 KIMCHI ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,859,151.35 TVL: $52,197,391.01
+WMATIC Price: $2.14
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.52)
+KIMCHI Per Week: 583.78 ($0.05)
+APR: Day 1.33% Week 9.28% Year 482.34%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 KIMCHI ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDC]-[WETH] Uni LP [+] [-] [<=>] Price: $187,956,297.85 TVL: $79,013,850.46
+USDC Price: $1.00
+WETH Price: $4,036.95
+Staked: 0.0000 UNI-V2 ($0.07)
+KIMCHI Per Week: 583.78 ($0.05)
+APR: Day 10.29% Week 72.03% Year 3745.51%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 KIMCHI ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - KIMCHI Price: $0.0000828274 Market Cap: $4.14 [%]
+Staked: 20411.1046 KIMCHI ($1.69)
+KIMCHI Per Week: 972.97 ($0.08)
+APR: Day 0.68% Week 4.77% Year 247.88%
+You are staking 0.00 KIMCHI ($0.00), 0.00% of the pool.
+Stake 0.00 KIMCHI
+Unstake 0.00 KIMCHI
+Claim 0.00 KIMCHI ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - WMATIC Price: $2.14 Market Cap: $651,093,169.15 [%]
+Staked: 0.6060 WMATIC ($1.30)
+KIMCHI Per Week: 583.78 ($0.05)
+APR: Day 0.53% Week 3.73% Year 193.88%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 KIMCHI ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - PolyDoge Price: $0.0000000240 Market Cap: $24,031,000.00 [%]
+Staked: 942703872.9058 PolyDoge ($22.65)
+KIMCHI Per Week: 583.78 ($0.05)
+APR: Day 0.03% Week 0.21% Year 11.10%
+You are staking 0.00 PolyDoge ($0.00), 0.00% of the pool.
+Stake 0.00 PolyDoge - Fee 4%
+Unstake 0.00 PolyDoge
+Claim 0.00 KIMCHI ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - WETH Price: $4,036.95 Market Cap: $1,791,910,460.75 [%]
+Staked: 0.0001 WETH ($0.29)
+KIMCHI Per Week: 583.78 ($0.05)
+APR: Day 2.39% Week 16.70% Year 868.31%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 KIMCHI ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - WBTC Price: $49,055.00 Market Cap: $497,608,111.07 [%]
+Staked: 0.0000 WBTC ($1.17)
+KIMCHI Per Week: 583.78 ($0.05)
+APR: Day 0.59% Week 4.13% Year 214.73%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 KIMCHI ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - AAVE Price: $175.63 Market Cap: $47,809,885.94 [%]
+Staked: 0.0029 AAVE ($0.52)
+KIMCHI Per Week: 583.78 ($0.05)
+APR: Day 1.34% Week 9.39% Year 488.11%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 KIMCHI ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - QUICK Price: $251.08 Market Cap: $239,913,990.15 [%]
+Staked: 0.0126 QUICK ($3.18)
+KIMCHI Per Week: 583.78 ($0.05)
+APR: Day 0.22% Week 1.52% Year 79.17%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 KIMCHI ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - FISH Price: $0.00 Market Cap: $0.00 
+Staked: 1.3440 FISH ($0.00)
+KIMCHI Per Week: 583.78 ($0.05)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FISH ($0.00), NaN% of the pool.
+Stake 0.00 FISH - Fee 4%
+Unstake 0.00 FISH
+Claim 0.00 KIMCHI ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - LINK Price: $20.00 Market Cap: $34,688,064.01 [%]
+Staked: 0.0379 LINK ($0.76)
+KIMCHI Per Week: 583.78 ($0.05)
+APR: Day 0.91% Week 6.38% Year 331.71%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 KIMCHI ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - USDC Price: $1.00 Market Cap: $943,538,799.91 [%]
+Staked: 0.4896 USDC ($0.49)
+KIMCHI Per Week: 583.78 ($0.05)
+APR: Day 1.41% Week 9.88% Year 513.56%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 KIMCHI ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - DAI Price: $1.00 Market Cap: $374,131,149.78 [%]
+Staked: 0.5760 DAI ($0.58)
+KIMCHI Per Week: 583.78 ($0.05)
+APR: Day 1.20% Week 8.39% Year 436.52%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 KIMCHI ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - USDT Price: $1.00 Market Cap: $313,461,279.68 [%]
+Staked: 1.8160 USDT ($1.82)
+KIMCHI Per Week: 583.78 ($0.05)
+APR: Day 0.38% Week 2.66% Year 138.46%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 KIMCHI ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $37.16

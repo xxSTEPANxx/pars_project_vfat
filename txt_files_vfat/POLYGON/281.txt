@@ -1,0 +1,139 @@
+*****************************| POLYGON NETWORK |******************************|
+***               ___________|-----------------|_____________                 |                                                   
+***______________| OFFICIAL iDegen FINANCE FARMING FRONT-END |________________^^______________________________________________
+***                                                                           |                                               |
+***                                                                           |-> Token: $iDegen                              |
+***                                                                           |                                               ***
+***   \/                    __/   .::::.-'-(/-/)                              |-> Max Supply: 250,500 $iDegen         ***
+***                      _/:  .::::.-' .-'\/\_`*******          __ (_))       |                                               ***
+***         \/          /:  .::::./   -._-.  d\|               (_))_(__))     |-> $iDegen per Block: 0.03 $iDegen       ***
+***                      /: (""""/    '.  (__/||           (_))__(_))--(__))  |                                               ***
+***                       \::).-'  -._  \/ \\/\|         |-> Initial Liquidity: 500 $iDegen              ***
+***               __ _ .-'`)/  '-'. . '. |  (i_O         |                                               ***
+***           .-'      \       -'      '\|          |-> Add Liquidity: 15/8/2021                    ***
+***      _ _./      .-'|       '.  (    \\                         % % %      |                                               ***
+***   .-'   :      '_  \         '-'\  /|/      @ @ @             % % % %     |-> Start Farm: 16/8/2021                       ***
+***  /      )\_      '- )_________.-|_/^\      @ @ @@@           % %\/% %     |                                               ***
+***  (   .-'   )-._-:  /        \(/\'-._ `.     @|@@@@@            ..|........|-> Deposit Fees ( no withdraw fees )          ***
+***   (   )  _//_/|:  /          `\()   `\_\     |/_@@             )'-._.-._.-|   -> 0% Deposit fee native token       ***
+***    ( (   \()^_/)_/             )/      \\    /                /   /       |   -> 4% Deposit fee non-native tokens       ***
+***     )  _.-\\.\(_)__._.-'-.-'-.//_.-'-.-.)\-'/._              /            |   -> 5% Deposit fee stable tokens             ***
+*** .-.-.-'   _o\ \\\     '::'   (o_ '-.-' |__\'-.-;~ ~ ~ ~ ~ ~~/   /\        |                                        |
+***           \ /  \\\__          )_\    .:::::::.-'\        /\ '- - -|       |-> Be Honest, Safe Farm                        |
+***      :::''':::::^)__\:::::::::::::::::'''''''-.  \      /  \       '- - - |   -> Timelock 12 hr.                       |
+***     :::::::  '''''''''''   ''''''''''''':::. -'\  \    /    \             |   -> 250,000 $iDegen to be farmed             |
+*** _____':::::_____________________________________\__\__/______\____________|_______________________________________________|
+***                                    |
+*** Dev Wallet: 0x98312bB93063c5F5a9EF8a7F8b48aea5F24276BE                    |   -> Docs                                             
+*** Fee Wallet: 0xE5A71f092182C4ca0D78118cE84Cc6dB46647573                    |   -> Telegram                         
+*** Master Contract: 0xaDC9A7Bc1705758FcB1d7289466c4cc39DC2C2BC               |   -> Twitter                
+*** Token Contract: 0x8C6E566986ACa670b3C14A92C9581DdD282AC2a9                |   -> Github                
+*** Timelock: 0x8DFAa04f04ec4849334C234A9ccF0b42C40C6D2C                      |   -> Graph                                    
+***___________________________________________________________________________|_______________________________________________
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Thu Dec 16 2021 05:11:34 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+-> 86640.2576 $iDegen in Circulation.
+-> 0.03 $iDegen Per Block.
+-> Found 10 pools.
+0 - [USDC]-[IDEGEN] Uni LP [+] [-] [<=>] Price: $130,056.52 TVL: $218.61
+USDC Price: $1.00
+IDEGEN Price: $0.003838
+Staked: 0.0006 UNI-V2 ($79.61)
+IDEGEN Per Week: 2246.40 ($8.62)
+APR: Day 1.55% Week 10.83% Year 563.11%
+You are staking 0.00 [USDC]-[IDEGEN] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[IDEGEN] Uni LP
+Unstake 0.00 [USDC]-[IDEGEN] Uni LP
+Claim 0.00 IDEGEN ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WMATIC]-[IDEGEN] Uni LP [+] [-] [<=>] Price: $0.19 TVL: $120.29
+WMATIC Price: $2.16
+IDEGEN Price: $0.003838
+Staked: 494.7137 UNI-V2 ($94.46)
+IDEGEN Per Week: 2246.40 ($8.62)
+APR: Day 1.30% Week 9.13% Year 474.58%
+You are staking 0.00 [WMATIC]-[IDEGEN] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[IDEGEN] Uni LP
+Unstake 0.00 [WMATIC]-[IDEGEN] Uni LP
+Claim 0.00 IDEGEN ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - IDEGEN Price: $0.003838 Market Cap: $332.50 [%]
+Staked: 27815.6781 IDEGEN ($106.75)
+IDEGEN Per Week: 1036.80 ($3.98)
+APR: Day 0.53% Week 3.73% Year 193.82%
+You are staking 0.00 IDEGEN ($0.00), 0.00% of the pool.
+Stake 0.00 IDEGEN
+Unstake 0.00 IDEGEN
+Claim 0.00 IDEGEN ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - WMATIC Price: $2.16 Market Cap: $656,181,858.66 [%]
+Staked: 30.7285 WMATIC ($66.37)
+IDEGEN Per Week: 691.20 ($2.65)
+APR: Day 0.57% Week 4.00% Year 207.82%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 IDEGEN ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - WBTC Price: $49,124.00 Market Cap: $498,258,930.56 [%]
+Staked: 0.0066 WBTC ($326.42)
+IDEGEN Per Week: 691.20 ($2.65)
+APR: Day 0.12% Week 0.81% Year 42.26%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 IDEGEN ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - WETH Price: $4,054.45 Market Cap: $1,799,493,661.03 [%]
+Staked: 0.0127 WETH ($51.48)
+IDEGEN Per Week: 691.20 ($2.65)
+APR: Day 0.74% Week 5.15% Year 267.94%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 IDEGEN ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - USDC Price: $1.00 Market Cap: $943,568,642.05 [%]
+Staked: 20.3635 USDC ($20.36)
+IDEGEN Per Week: 345.60 ($1.33)
+APR: Day 0.93% Week 6.51% Year 338.69%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 5%
+Unstake 0.00 USDC
+Claim 0.00 IDEGEN ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - USDT Price: $1.00 Market Cap: $313,439,913.37 [%]
+Staked: 30.9638 USDT ($30.96)
+IDEGEN Per Week: 345.60 ($1.33)
+APR: Day 0.61% Week 4.28% Year 222.74%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 5%
+Unstake 0.00 USDT
+Claim 0.00 IDEGEN ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - DAI Price: $1.00 Market Cap: $374,104,303.43 [%]
+Staked: 1.1134 DAI ($1.11)
+IDEGEN Per Week: 345.60 ($1.33)
+APR: Day 17.02% Week 119.12% Year 6194.34%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 5%
+Unstake 0.00 DAI
+Claim 0.00 IDEGEN ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $777.54

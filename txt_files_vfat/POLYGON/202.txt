@@ -1,0 +1,164 @@
+***************************** POLYGON NETWORK *****************************************
+    
+*************** 👨‍🌾 UNOFFICIAL ELYSM POLYTOPIA FARMING CALCULATOR 👨‍🌾 ******************
+INFO  : https://elysm.polytopia.farm
+***************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Fri Dec 17 2021 10:58:21 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 13 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [USDC]-[ELYSM] DFYN LP [+] [-] [<=>] Price: $64,196.59 TVL: $894.92
+USDC Price: $1.00
+ELYSM Price: $0.000925
+Staked: 0.0001 DFYNLP ($5.36)
+ELYSM Per Week: 69789.98 ($64.52)
+APR: Day 171.93% Week 1203.52% Year 62583.07%
+You are staking 0.00 [USDC]-[ELYSM] DFYN LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[ELYSM] DFYN LP
+Unstake 0.00 [USDC]-[ELYSM] DFYN LP
+Claim 0.00 ELYSM ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [USDC]-[UTOPIA] Uni LP [+] [-] [<=>] Price: $666,715.85 TVL: $1,264.67
+USDC Price: $1.00
+UTOPIA Price: $0.08
+Staked: 0.0001 UNI-V2 ($62.14)
+ELYSM Per Week: 46526.66 ($43.01)
+APR: Day 9.89% Week 69.22% Year 3599.32%
+You are staking 0.00 [USDC]-[UTOPIA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[UTOPIA] Uni LP
+Unstake 0.00 [USDC]-[UTOPIA] Uni LP
+Claim 0.00 ELYSM ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WMATIC]-[UTOPIA] Uni LP [+] [-] [<=>] Price: $0.92 TVL: $576.05
+WMATIC Price: $2.03
+UTOPIA Price: $0.08
+Staked: 23.7127 UNI-V2 ($21.88)
+ELYSM Per Week: 46526.66 ($43.01)
+APR: Day 28.09% Week 196.62% Year 10224.32%
+You are staking 0.00 [WMATIC]-[UTOPIA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[UTOPIA] Uni LP
+Unstake 0.00 [WMATIC]-[UTOPIA] Uni LP
+Claim 0.00 ELYSM ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDC]-[xUSD] DFYN LP [+] [-] [<=>] Price: $2,105,930.04 TVL: $3,825.45
+USDC Price: $1.00
+xUSD Price: $1.01
+Staked: 0.0005 DFYNLP ($997.45)
+ELYSM Per Week: 23263.33 ($21.51)
+APR: Day 0.31% Week 2.16% Year 112.12%
+You are staking 0.00 [USDC]-[xUSD] DFYN LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[xUSD] DFYN LP
+Unstake 0.00 [USDC]-[xUSD] DFYN LP
+Claim 0.00 ELYSM ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDC]-[DAI] DFYN LP [+] [-] [<=>] Price: $2,236,657.59 TVL: $100,595.47
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.0000 DFYNLP ($0.04)
+ELYSM Per Week: 2326.33 ($2.15)
+APR: Day 729.60% Week 5107.19% Year 265573.99%
+You are staking 0.00 [USDC]-[DAI] DFYN LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAI] DFYN LP - Fee 0.5%
+Unstake 0.00 [USDC]-[DAI] DFYN LP
+Claim 0.00 ELYSM ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [USDC]-[USDT] DFYN LP [+] [-] [<=>] Price: $2,324,648,552,211.46 TVL: $10,891,647.35
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 DFYNLP ($64.08)
+ELYSM Per Week: 2326.33 ($2.15)
+APR: Day 0.48% Week 3.36% Year 174.53%
+You are staking 0.00 [USDC]-[USDT] DFYN LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[USDT] DFYN LP - Fee 0.5%
+Unstake 0.00 [USDC]-[USDT] DFYN LP
+Claim 0.00 ELYSM ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [DAI]-[USDT] DFYN LP [+] [-] [<=>] Price: $2,133,289.88 TVL: $166,674.56
+DAI Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 DFYNLP ($0.00)
+ELYSM Per Week: 2326.33 ($2.15)
+APR: Day 3074280.88% Week 21519966.13% Year 1119038238.81%
+You are staking 0.00 [DAI]-[USDT] DFYN LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[USDT] DFYN LP - Fee 0.5%
+Unstake 0.00 [DAI]-[USDT] DFYN LP
+Claim 0.00 ELYSM ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - ELYSM Price: $0.000925 Market Cap: $1,849.02 [%]
+Staked: 127538.0054 ELYSM ($117.91)
+ELYSM Per Week: 46526.66 ($43.01)
+APR: Day 5.21% Week 36.48% Year 1896.99%
+You are staking 0.00 ELYSM ($0.00), 0.00% of the pool.
+Stake 0.00 ELYSM
+Unstake 0.00 ELYSM
+Claim 0.00 ELYSM ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - UTOPIA Price: $0.08 Market Cap: $4,969.03 [%]
+Staked: 161.8852 UTOPIA ($12.95)
+ELYSM Per Week: 23263.33 ($21.51)
+APR: Day 23.73% Week 166.08% Year 8636.31%
+You are staking 0.00 UTOPIA ($0.00), 0.00% of the pool.
+Stake 0.00 UTOPIA
+Unstake 0.00 UTOPIA
+Claim 0.00 ELYSM ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - xUSD Price: $1.01 Market Cap: $420,620.46 [%]
+Staked: 450.3266 xUSD ($454.83)
+ELYSM Per Week: 13958.00 ($12.90)
+APR: Day 0.41% Week 2.84% Year 147.53%
+You are staking 0.00 xUSD ($0.00), 0.00% of the pool.
+Stake 0.00 xUSD
+Unstake 0.00 xUSD
+Claim 0.00 ELYSM ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - ICE Price: $0.00 Market Cap: $0.00 
+Staked: 178.9012 ICE ($0.00)
+ELYSM Per Week: 930.53 ($0.86)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 ICE ($0.00), NaN% of the pool.
+Stake 0.00 ICE - Fee 0.5%
+Unstake 0.00 ICE
+Claim 0.00 ELYSM ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [WBTC]-[WETH] DFYN LP [+] [-] [<=>] Price: $146,097,499,488.79 TVL: $9,946,462.90
+WBTC Price: $47,011.00
+WETH Price: $3,883.87
+Staked: 0.0000 DFYNLP ($25.44)
+ELYSM Per Week: 930.53 ($0.86)
+APR: Day 0.48% Week 3.38% Year 175.85%
+You are staking 0.00 [WBTC]-[WETH] DFYN LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[WETH] DFYN LP - Fee 0.5%
+Unstake 0.00 [WBTC]-[WETH] DFYN LP
+Claim 0.00 ELYSM ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - CRYSTL Price: $0.00 Market Cap: $0.00 
+Staked: 1.0702 CRYSTL ($0.00)
+ELYSM Per Week: 9305.33 ($8.60)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 CRYSTL ($0.00), NaN% of the pool.
+Stake 0.00 CRYSTL
+Unstake 0.00 CRYSTL
+Claim 0.00 ELYSM ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $1,762.07

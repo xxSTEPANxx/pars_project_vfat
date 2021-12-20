@@ -1,0 +1,114 @@
+***************************** POLYGON NETWORK *************************************
+
+*************** 🐬 OCEANFINANCE 🐬 DOLPH FARMING CALCULATOR 👨‍🌾 *********************
+INFO  : https://oceanfinance.io
+***********************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Thu Dec 16 2021 04:51:05 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized ocean's submarine at: 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts from the ocean...
+Found 9 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - DOLPH Price: $0.00 Market Cap: $0.00 
+Staked: 1116857.8908 DOLPH ($0.00)
+DOLPH Per Week: 10105.26 ($0.18)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 DOLPH ($0.00), NaN% of the pool.
+Stake 0.00 DOLPH
+Unstake 0.00 DOLPH
+Claim 0.00 DOLPH ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WMATIC]-[DOLPH] Uni LP [+] [-] [<=>] Price: $0.01 TVL: $21.98
+WMATIC Price: $2.15
+DOLPH Price: $0.0000176444
+Staked: 1687.4726 UNI-V2 ($21.60)
+DOLPH Per Week: 48000.00 ($0.85)
+APR: Day 0.56% Week 3.92% Year 203.86%
+You are staking 0.00 [WMATIC]-[DOLPH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[DOLPH] Uni LP
+Unstake 0.00 [WMATIC]-[DOLPH] Uni LP
+Claim 0.00 DOLPH ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [USDC]-[DOLPH] Uni LP [+] [-] [<=>] Price: $8,785.16 TVL: $13.76
+USDC Price: $1.00
+DOLPH Price: $0.0000176444
+Staked: 0.0015 UNI-V2 ($13.42)
+DOLPH Per Week: 48000.00 ($0.85)
+APR: Day 0.90% Week 6.31% Year 328.06%
+You are staking 0.00 [USDC]-[DOLPH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DOLPH] Uni LP
+Unstake 0.00 [USDC]-[DOLPH] Uni LP
+Claim 0.00 DOLPH ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,872,027.61 TVL: $52,276,123.96
+WMATIC Price: $2.15
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($166.59)
+DOLPH Per Week: 5052.63 ($0.09)
+APR: Day 0.01% Week 0.05% Year 2.78%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 DOLPH ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - USDC Price: $1.00 Market Cap: $943,277,686.55 [%]
+Staked: 350.4549 USDC ($350.40)
+DOLPH Per Week: 7578.95 ($0.13)
+APR: Day 0.01% Week 0.04% Year 1.98%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC
+Unstake 0.00 USDC
+Claim 0.00 DOLPH ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - USDT Price: $1.00 Market Cap: $313,197,937.75 [%]
+Staked: 21941.7172 USDT ($21,924.78)
+DOLPH Per Week: 7578.95 ($0.13)
+APR: Day 0.00% Week 0.00% Year 0.03%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT
+Unstake 0.00 USDT
+Claim 0.00 DOLPH ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - WMATIC Price: $2.15 Market Cap: $653,269,960.91 [%]
+Staked: 4.8611 WMATIC ($10.45)
+DOLPH Per Week: 7578.95 ($0.13)
+APR: Day 0.18% Week 1.28% Year 66.53%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC
+Unstake 0.00 WMATIC
+Claim 0.00 DOLPH ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - WETH Price: $4,044.56 Market Cap: $1,795,071,377.52 [%]
+Staked: 0.0004 WETH ($1.50)
+DOLPH Per Week: 5052.63 ($0.09)
+APR: Day 0.85% Week 5.94% Year 308.90%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH
+Unstake 0.00 WETH
+Claim 0.00 DOLPH ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - WBTC Price: $48,915.00 Market Cap: $496,139,068.24 [%]
+Staked: 0.0000 WBTC ($0.68)
+DOLPH Per Week: 5052.63 ($0.09)
+APR: Day 1.87% Week 13.10% Year 681.33%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC
+Unstake 0.00 WBTC
+Claim 0.00 DOLPH ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $22,489.43

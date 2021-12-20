@@ -1,0 +1,144 @@
+***************************** POLYGON NETWORK *****************************************
+    
+*************** 👨‍🌾 UNOFFICIAL POLYRUBY.FINANCE FARMING CALCULATOR 👨‍🌾 *****************
+INFO  : https://www.polyruby.finance
+***************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Fri Dec 17 2021 10:29:39 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 12 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [USDC]-[RUBY] Uni LP [+] [-] [<=>] Price: $536,160.51 TVL: $313.82
+USDC Price: $1.00
+RUBY Price: $0.06
+Staked: 0.0001 UNI-V2 ($72.30)
+RUBY Per Week: 160.00 ($10.18)
+APR: Day 2.01% Week 14.07% Year 731.89%
+You are staking 0.00 [USDC]-[RUBY] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[RUBY] Uni LP
+Unstake 0.00 [USDC]-[RUBY] Uni LP
+Claim 0.00 RUBY ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - WMATIC Price: $2.04 Market Cap: $622,638,606.68 [%]
+Staked: 622.2083 WMATIC ($1,269.31)
+RUBY Per Week: 32.00 ($2.04)
+APR: Day 0.02% Week 0.16% Year 8.34%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 RUBY ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - WETH Price: $3,892.66 Market Cap: $1,728,365,114.20 [%]
+Staked: 0.9600 WETH ($3,736.95)
+RUBY Per Week: 32.00 ($2.04)
+APR: Day 0.01% Week 0.05% Year 2.83%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 RUBY ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - RUBY Price: $0.06 Market Cap: $640.71 [%]
+Staked: 5492.8237 RUBY ($349.34)
+RUBY Per Week: 128.00 ($8.14)
+APR: Day 0.33% Week 2.33% Year 121.18%
+You are staking 0.00 RUBY ($0.00), 0.00% of the pool.
+Stake 0.00 RUBY
+Unstake 0.00 RUBY
+Claim 0.00 RUBY ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - WBTC Price: $46,989.00 Market Cap: $474,769,152.24 [%]
+Staked: 0.0024 WBTC ($114.10)
+RUBY Per Week: 32.00 ($2.04)
+APR: Day 0.25% Week 1.78% Year 92.75%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 RUBY ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - USDT Price: $1.00 Market Cap: $319,072,307.52 [%]
+Staked: 2659.1521 USDT ($2,653.51)
+RUBY Per Week: 32.00 ($2.04)
+APR: Day 0.01% Week 0.08% Year 3.99%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 RUBY ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - DAI Price: $1.00 Market Cap: $366,973,209.82 [%]
+Staked: 88.4987 DAI ($88.34)
+RUBY Per Week: 32.00 ($2.04)
+APR: Day 0.33% Week 2.30% Year 119.80%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 RUBY ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [WMATIC]-[RUBY] Uni LP [+] [-] [<=>] Price: $0.79 TVL: $89.66
+WMATIC Price: $2.04
+RUBY Price: $0.06
+Staked: 112.6183 UNI-V2 ($89.04)
+RUBY Per Week: 160.00 ($10.18)
+APR: Day 1.63% Week 11.43% Year 594.26%
+You are staking 0.00 [WMATIC]-[RUBY] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[RUBY] Uni LP
+Unstake 0.00 [WMATIC]-[RUBY] Uni LP
+Claim 0.00 RUBY ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [miMATIC]-[RUBY] Uni LP [+] [-] [<=>] Price: $0.53 TVL: $43.27
+miMATIC Price: $0.98
+RUBY Price: $0.06
+Staked: 80.4382 UNI-V2 ($42.99)
+RUBY Per Week: 160.00 ($10.18)
+APR: Day 3.38% Week 23.67% Year 1230.94%
+You are staking 0.00 [miMATIC]-[RUBY] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [miMATIC]-[RUBY] Uni LP
+Unstake 0.00 [miMATIC]-[RUBY] Uni LP
+Claim 0.00 RUBY ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - AAVE Price: $171.28 Market Cap: $46,612,966.07 [%]
+Staked: 0.0000 AAVE ($0.00)
+RUBY Per Week: 32.00 ($2.04)
+APR: Day 169574793933793.56% Week 1187023557536555.00% Year 61725224991900864.00%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 RUBY ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - QUICK Price: $241.14 Market Cap: $230,418,532.52 [%]
+Staked: 0.0289 QUICK ($6.96)
+RUBY Per Week: 32.00 ($2.04)
+APR: Day 4.18% Week 29.23% Year 1519.88%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 RUBY ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - DMND Price: $0.00 Market Cap: $0.00 
+Staked: 54.4591 DMND ($0.00)
+RUBY Per Week: 32.00 ($2.04)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 DMND ($0.00), NaN% of the pool.
+Stake 0.00 DMND - Fee 4%
+Unstake 0.00 DMND
+Claim 0.00 RUBY ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $8,422.84

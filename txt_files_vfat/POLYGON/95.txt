@@ -1,0 +1,122 @@
+***************************** POLYGON NETWORK *****************************************
+    
+*************** 👨‍🌾 UNOFFICIAL POLYSA.FINANCE FARMING CALCULATOR 👨‍🌾 *******************
+INFO  : https://www.polysa.finance
+***************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Fri Dec 17 2021 09:57:33 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 10 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [USDC]-[DUFF] Uni LP [+] [-] [<=>] Price: $23,798.23 TVL: $39.87
+USDC Price: $1.00
+DUFF Price: $0.000122
+Staked: 0.0004 UNI-V2 ($9.50)
+DUFF Per Week: 13935.48 ($1.70)
+APR: Day 2.56% Week 17.89% Year 930.38%
+You are staking 0.00 [USDC]-[DUFF] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DUFF] Uni LP
+Unstake 0.00 [USDC]-[DUFF] Uni LP
+Claim 0.00 DUFF ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - WMATIC Price: $2.08 Market Cap: $633,965,472.84 [%]
+Staked: 16.6984 WMATIC ($34.73)
+DUFF Per Week: 2787.10 ($0.34)
+APR: Day 0.14% Week 0.98% Year 50.91%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 DUFF ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - DUFF Price: $0.000122 Market Cap: $43.24 [%]
+Staked: 140815.9603 DUFF ($17.18)
+DUFF Per Week: 6967.74 ($0.85)
+APR: Day 0.71% Week 4.95% Year 257.30%
+You are staking 0.00 DUFF ($0.00), 0.00% of the pool.
+Stake 0.00 DUFF
+Unstake 0.00 DUFF
+Claim 0.00 DUFF ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDC]-[WETH] Uni LP [+] [-] [<=>] Price: $185,855,882.20 TVL: $80,886,243.46
+USDC Price: $1.00
+WETH Price: $3,945.22
+Staked: 0.0000 UNI-V2 ($6.15)
+DUFF Per Week: 2787.10 ($0.34)
+APR: Day 0.79% Week 5.53% Year 287.53%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 DUFF ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - WETH Price: $3,945.22 Market Cap: $1,751,633,297.54 [%]
+Staked: 0.2188 WETH ($863.41)
+DUFF Per Week: 2787.10 ($0.34)
+APR: Day 0.01% Week 0.04% Year 2.05%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 DUFF ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - DAI Price: $1.00 Market Cap: $367,600,049.39 [%]
+Staked: 32.8582 DAI ($32.85)
+DUFF Per Week: 2787.10 ($0.34)
+APR: Day 0.15% Week 1.04% Year 53.82%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 DUFF ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - QUICK Price: $244.07 Market Cap: $233,218,260.06 [%]
+Staked: 0.0086 QUICK ($2.10)
+DUFF Per Week: 2787.10 ($0.34)
+APR: Day 2.32% Week 16.22% Year 843.40%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 DUFF ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - Krill Price: $0.04 Market Cap: $419,769.67 [%]
+Staked: 413.0064 Krill ($16.13)
+DUFF Per Week: 2787.10 ($0.34)
+APR: Day 0.30% Week 2.11% Year 109.60%
+You are staking 0.00 Krill ($0.00), 0.00% of the pool.
+Stake 0.00 Krill - Fee 4%
+Unstake 0.00 Krill
+Claim 0.00 DUFF ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - MUST Price: $93.65 Market Cap: $5,285,579.27 [%]
+Staked: 0.3227 MUST ($30.22)
+DUFF Per Week: 2787.10 ($0.34)
+APR: Day 0.16% Week 1.13% Year 58.51%
+You are staking 0.00 MUST ($0.00), 0.00% of the pool.
+Stake 0.00 MUST - Fee 4%
+Unstake 0.00 MUST
+Claim 0.00 DUFF ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - FISH Price: $0.00 Market Cap: $0.00 
+Staked: 14.6247 FISH ($0.00)
+DUFF Per Week: 2787.10 ($0.34)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FISH ($0.00), NaN% of the pool.
+Stake 0.00 FISH - Fee 4%
+Unstake 0.00 FISH
+Claim 0.00 DUFF ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $1,012.28

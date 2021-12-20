@@ -1,0 +1,148 @@
+***************************** POLYGON NETWORK *****************************************
+
+*************** 👨‍🌾 UNOFFICIAL BOLTRSWAP FARMING CALCULATOR 👨‍🌾 ****************
+INFO  : https://boltrswap.com
+***************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Thu Dec 16 2021 06:15:05 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 11 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - BOL Price: $0.00 Market Cap: $0.00 
+Staked: 6824114.0277 BOL ($0.00)
+BOL Per Week: 12800.00 ($79.42)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BOL ($0.00), NaN% of the pool.
+Stake 0.00 BOL
+Unstake 0.00 BOL
+Claim 0.00 BOL ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WMATIC]-[BOL] Uni LP [+] [-] [<=>] Price: $0.23 TVL: $10,723.53
+WMATIC Price: $2.14
+BOL Price: $0.006205
+Staked: 44668.8595 BOL-LP ($10,477.05)
+BOL Per Week: 25600.00 ($158.84)
+APR: Day 0.22% Week 1.52% Year 78.83%
+You are staking 0.00 [WMATIC]-[BOL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[BOL] Uni LP
+Unstake 0.00 [WMATIC]-[BOL] Uni LP
+Claim 0.00 BOL ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [BOL]-[USDT] Uni LP [+] [-] [<=>] Price: $160,965.30 TVL: $7,177.97
+BOL Price: $0.006205
+USDT Price: $1.00
+Staked: 0.0445 BOL-LP ($7,165.24)
+BOL Per Week: 12800.00 ($79.42)
+APR: Day 0.16% Week 1.11% Year 57.64%
+You are staking 0.00 [BOL]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BOL]-[USDT] Uni LP
+Unstake 0.00 [BOL]-[USDT] Uni LP
+Claim 0.00 BOL ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WMATIC]-[USDT] Uni LP [+] [-] [<=>] Price: $2,961,793.59 TVL: $2,169.24
+WMATIC Price: $2.14
+USDT Price: $1.00
+Staked: 0.0007 BOL-LP ($2,164.96)
+BOL Per Week: 12800.00 ($79.42)
+APR: Day 0.52% Week 3.67% Year 190.75%
+You are staking 0.00 [WMATIC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDT] Uni LP
+Unstake 0.00 [WMATIC]-[USDT] Uni LP
+Claim 0.00 BOL ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDC]-[USDT] Uni LP [+] [-] [<=>] Price: $2,001,212,448,392.57 TVL: $1,400.11
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 BOL-LP ($1,394.04)
+BOL Per Week: 6400.00 ($39.71)
+APR: Day 0.41% Week 2.85% Year 148.12%
+You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[USDT] Uni LP
+Unstake 0.00 [USDC]-[USDT] Uni LP
+Claim 0.00 BOL ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [BLOK]-[BOL] Uni LP [+] [-] [<=>] Price: $0.04 TVL: $3,268.49
+BLOK Price: $0.07
+BOL Price: $0.006205
+Staked: 78349.2320 BOL-LP ($3,263.18)
+BOL Per Week: 6400.00 ($39.71)
+APR: Day 0.17% Week 1.22% Year 63.28%
+You are staking 0.00 [BLOK]-[BOL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BLOK]-[BOL] Uni LP
+Unstake 0.00 [BLOK]-[BOL] Uni LP
+Claim 0.00 BOL ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [BLOK]-[USDT] Uni LP [+] [-] [<=>] Price: $530,693.77 TVL: $2,147.27
+BLOK Price: $0.07
+USDT Price: $1.00
+Staked: 0.0040 BOL-LP ($2,147.27)
+BOL Per Week: 6400.00 ($39.71)
+APR: Day 0.26% Week 1.85% Year 96.16%
+You are staking 0.00 [BLOK]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BLOK]-[USDT] Uni LP
+Unstake 0.00 [BLOK]-[USDT] Uni LP
+Claim 0.00 BOL ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [PolyDoge]-[BOL] Uni LP [+] [-] [<=>] Price: $0.00 TVL: $3,131.44
+PolyDoge Price: $0.0000000240
+BOL Price: $0.006205
+Staked: 124405988.4579 BOL-LP ($3,131.44)
+BOL Per Week: 12800.00 ($79.42)
+APR: Day 0.36% Week 2.54% Year 131.88%
+You are staking 0.00 [PolyDoge]-[BOL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PolyDoge]-[BOL] Uni LP
+Unstake 0.00 [PolyDoge]-[BOL] Uni LP
+Claim 0.00 BOL ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [PolyDoge]-[USDT] Uni LP [+] [-] [<=>] Price: $317.65 TVL: $1,223.38
+PolyDoge Price: $0.0000000240
+USDT Price: $1.00
+Staked: 3.8514 BOL-LP ($1,223.38)
+BOL Per Week: 6400.00 ($39.71)
+APR: Day 0.46% Week 3.25% Year 168.78%
+You are staking 0.00 [PolyDoge]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PolyDoge]-[USDT] Uni LP
+Unstake 0.00 [PolyDoge]-[USDT] Uni LP
+Claim 0.00 BOL ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [BOL]-[MANA] Uni LP [+] [-] [<=>] Price: $0.29 TVL: $1,237.87
+BOL Price: $0.006205
+MANA Price: $3.35
+Staked: 4270.7102 BOL-LP ($1,237.87)
+BOL Per Week: 6400.00 ($39.71)
+APR: Day 0.46% Week 3.21% Year 166.81%
+You are staking 0.00 [BOL]-[MANA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BOL]-[MANA] Uni LP
+Unstake 0.00 [BOL]-[MANA] Uni LP
+Claim 0.00 BOL ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [MANA]-[USDT] Uni LP [+] [-] [<=>] Price: $3,675,383.70 TVL: $1,223.12
+MANA Price: $3.35
+USDT Price: $1.00
+Staked: 0.0003 BOL-LP ($1,223.12)
+BOL Per Week: 6400.00 ($39.71)
+APR: Day 0.46% Week 3.25% Year 168.82%
+You are staking 0.00 [MANA]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MANA]-[USDT] Uni LP
+Unstake 0.00 [MANA]-[USDT] Uni LP
+Claim 0.00 BOL ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $33,427.54

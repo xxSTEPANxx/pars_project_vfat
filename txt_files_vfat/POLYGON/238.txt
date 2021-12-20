@@ -1,0 +1,52 @@
+***************************** POLYGON NETWORK ***************************************
+    
+*************** 👨‍🌾 UNOFFICIAL MEEBMASTER FARMING CALCULATOR 👨‍🌾 *********************
+INFO  : https://app.meebmaster.com
+*************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Thu Dec 16 2021 04:48:44 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 9 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - MEEB Price: $0.00 Market Cap: $0.00 
+Staked: 2898608.3497 MEEB ($0.00)
+MEEB Per Week: 9354.11 ($4,142.89)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 MEEB ($0.00), NaN% of the pool.
+Stake 0.00 MEEB
+Unstake 0.00 MEEB
+Claim 0.00 MEEB ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [USDC]-[MEEB] Uni LP [+] [-] [<=>] Price: $1,355,466.66 TVL: $274,057.73
+USDC Price: $1.00
+MEEB Price: $0.44
+Staked: 0.1975 PolyDexV2-LP ($267,750.20)
+MEEB Per Week: 18708.21 ($8,285.78)
+APR: Day 0.44% Week 3.09% Year 160.92%
+You are staking 0.00 [USDC]-[MEEB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[MEEB] Uni LP
+Unstake 0.00 [USDC]-[MEEB] Uni LP
+Claim 0.00 MEEB ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [MEEB]-[WETH] Uni LP [+] [-] [<=>] Price: $93.77 TVL: $83,722.40
+MEEB Price: $0.44
+WETH Price: $4,045.59
+Staked: 653.1231 UNI-V2 ($61,241.10)
+MEEB Per Week: 3741.64 ($1,657.16)
+APR: Day 0.39% Week 2.71% Year 140.71%
+You are staking 0.00 [MEEB]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MEEB]-[WETH] Uni LP
+Unstake 0.00 [MEEB]-[WETH] Uni LP
+Claim 0.00 MEEB ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $328,991.30

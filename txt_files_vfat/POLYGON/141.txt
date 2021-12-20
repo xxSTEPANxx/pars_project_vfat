@@ -1,0 +1,148 @@
+***************************** POLYGON NETWORK ********************************************
+
+*************** 👨‍🌾 UNOFFICIAL PEPEFARM.FINANCE FARMING CALCULATOR 👨‍🌾 ********************
+INFO  : https://pepefarm.finance
+******************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Fri Dec 17 2021 10:28:41 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 12 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [WMATIC]-[PepeFarm] Uni LP [+] [-] [<=>] Price: $0.17 TVL: $72.35
+WMATIC Price: $2.04
+PepeFarm Price: $0.002729
+Staked: 161.7414 UNI-V2 ($27.64)
+PEPEFARM Per Week: 1059.31 ($2.89)
+APR: Day 1.49% Week 10.46% Year 543.73%
+You are staking 0.00 [WMATIC]-[PepeFarm] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[PepeFarm] Uni LP
+Unstake 0.00 [WMATIC]-[PepeFarm] Uni LP
+Claim 0.00 PEPEFARM ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,715,295.59 TVL: $50,947,724.52
+WMATIC Price: $2.04
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($195.49)
+PEPEFARM Per Week: 264.83 ($0.72)
+APR: Day 0.05% Week 0.37% Year 19.22%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 PEPEFARM ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - PepeFarm Price: $0.002729 Market Cap: $279.78 [%]
+Staked: 70896.2863 PepeFarm ($193.46)
+PEPEFARM Per Week: 1324.14 ($3.61)
+APR: Day 0.27% Week 1.87% Year 97.12%
+You are staking 0.00 PepeFarm ($0.00), 0.00% of the pool.
+Stake 0.00 PepeFarm
+Unstake 0.00 PepeFarm
+Claim 0.00 PEPEFARM ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - WMATIC Price: $2.04 Market Cap: $622,698,156.44 [%]
+Staked: 32.3010 WMATIC ($65.89)
+PEPEFARM Per Week: 264.83 ($0.72)
+APR: Day 0.16% Week 1.10% Year 57.03%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 PEPEFARM ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDC]-[IRON] SLP [+] [-] [<=>] Price: $2,079,094.46 TVL: $177,056.98
+USDC Price: $1.00
+IRON Price: $0.98
+Staked: 0.0002 SLP ($381.18)
+PEPEFARM Per Week: 264.83 ($0.72)
+APR: Day 0.03% Week 0.19% Year 9.86%
+You are staking 0.00 [USDC]-[IRON] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[IRON] SLP - Fee 4%
+Unstake 0.00 [USDC]-[IRON] SLP
+Claim 0.00 PEPEFARM ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WBTC]-[WETH] Uni LP [+] [-] [<=>] Price: $1,367,454,471,722.34 TVL: $50,731,425.17
+WBTC Price: $46,989.00
+WETH Price: $3,892.66
+Staked: 0.0000 UNI-V2 ($559.65)
+PEPEFARM Per Week: 264.83 ($0.72)
+APR: Day 0.02% Week 0.13% Year 6.71%
+You are staking 0.00 [WBTC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [WBTC]-[WETH] Uni LP
+Claim 0.00 PEPEFARM ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - IRON Price: $0.98 Market Cap: $876,175.70 [%]
+Staked: 138.2463 IRON ($136.04)
+PEPEFARM Per Week: 264.83 ($0.72)
+APR: Day 0.08% Week 0.53% Year 27.62%
+You are staking 0.00 IRON ($0.00), 0.00% of the pool.
+Stake 0.00 IRON - Fee 4%
+Unstake 0.00 IRON
+Claim 0.00 PEPEFARM ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - WBTC Price: $46,989.00 Market Cap: $474,769,152.24 [%]
+Staked: 0.0017 WBTC ($81.67)
+PEPEFARM Per Week: 264.83 ($0.72)
+APR: Day 0.13% Week 0.88% Year 46.01%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 PEPEFARM ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - WETH Price: $3,892.66 Market Cap: $1,728,365,114.20 [%]
+Staked: 0.0052 WETH ($20.33)
+PEPEFARM Per Week: 264.83 ($0.72)
+APR: Day 0.51% Week 3.56% Year 184.86%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 PEPEFARM ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - USDC Price: $1.00 Market Cap: $948,776,448.38 [%]
+Staked: 48.0000 USDC ($47.83)
+PEPEFARM Per Week: 264.83 ($0.72)
+APR: Day 0.22% Week 1.51% Year 78.57%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 PEPEFARM ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - DMND Price: $0.00 Market Cap: $0.00 
+Staked: 5.1202 DMND ($0.00)
+PEPEFARM Per Week: 198.62 ($0.54)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 DMND ($0.00), NaN% of the pool.
+Stake 0.00 DMND - Fee 3%
+Unstake 0.00 DMND
+Claim 0.00 PEPEFARM ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [USDC]-[PepeFarm] Uni LP [+] [-] [<=>] Price: $112,986.87 TVL: $72.55
+USDC Price: $1.00
+PepeFarm Price: $0.002729
+Staked: 0.0006 UNI-V2 ($71.51)
+PEPEFARM Per Week: 1059.31 ($2.89)
+APR: Day 0.58% Week 4.04% Year 210.20%
+You are staking 0.00 [USDC]-[PepeFarm] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[PepeFarm] Uni LP
+Unstake 0.00 [USDC]-[PepeFarm] Uni LP
+Claim 0.00 PEPEFARM ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $1,780.69

@@ -1,0 +1,266 @@
+***************************** POLYGON NETWORK **********************************************
+
+*************** 👨‍🌾 UNOFFICIAL NEON FINANCE FARMING CALCULATOR 👨‍🌾 *************************
+
+
+INFO  : https://neonfinance.club/
+********************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Thu Dec 16 2021 05:26:14 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 23 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [USDC]-[NEON] Uni LP [+] [-] [<=>] Price: $76,401.57 TVL: $11.25
+USDC Price: $1.00
+NEON Price: $0.001353
+Staked: 0.0000 UNI-V2 ($1.27)
+NEON Per Week: 77.63 ($0.11)
+APR: Day 1.18% Week 8.26% Year 429.61%
+You are staking 0.00 [USDC]-[NEON] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[NEON] Uni LP
+Unstake 0.00 [USDC]-[NEON] Uni LP
+Claim 0.00 NEON ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [USDC]-[HELIUM] Uni LP [+] [-] [<=>] Price: $230,063.52 TVL: $92.87
+USDC Price: $1.00
+HELIUM Price: $0.01
+Staked: 0.0001 UNI-V2 ($32.95)
+NEON Per Week: 31.05 ($0.04)
+APR: Day 0.02% Week 0.13% Year 6.63%
+You are staking 0.00 [USDC]-[HELIUM] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[HELIUM] Uni LP
+Unstake 0.00 [USDC]-[HELIUM] Uni LP
+Claim 0.00 NEON ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [USDC]-[USDT] Uni LP [+] [-] [<=>] Price: $2,624,063,041,806.41 TVL: $24,541,378.73
+USDC Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($1.01)
+NEON Per Week: 26.39 ($0.04)
+APR: Day 0.51% Week 3.55% Year 184.43%
+You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[USDT] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[USDT] Uni LP
+Claim 0.00 NEON ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [DAI]-[USDT] Uni LP [+] [-] [<=>] Price: $27,495,256.25 TVL: $3,073,855.27
+DAI Price: $1.00
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($19.48)
+NEON Per Week: 26.39 ($0.04)
+APR: Day 0.03% Week 0.18% Year 9.54%
+You are staking 0.00 [DAI]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[USDT] Uni LP - Fee 4%
+Unstake 0.00 [DAI]-[USDT] Uni LP
+Claim 0.00 NEON ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,886,484.63 TVL: $52,440,197.17
+WMATIC Price: $2.16
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.00)
+NEON Per Week: 24.84 ($0.03)
+APR: Day 81595815303.96% Week 571170707127.71% Year 29700876770641.11%
+You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[USDC] Uni LP
+Claim 0.00 NEON ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [USDC]-[WETH] Uni LP [+] [-] [<=>] Price: $188,038,272.07 TVL: $79,047,756.74
+USDC Price: $1.00
+WETH Price: $4,040.48
+Staked: 0.0000 UNI-V2 ($1.01)
+NEON Per Week: 23.29 ($0.03)
+APR: Day 0.44% Week 3.11% Year 161.79%
+You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[WETH] Uni LP
+Claim 0.00 NEON ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [WMATIC]-[WETH] Uni LP [+] [-] [<=>] Price: $247.09 TVL: $110,739,874.64
+WMATIC Price: $2.16
+WETH Price: $4,040.48
+Staked: 0.0000 UNI-V2 ($0.00)
+NEON Per Week: 21.74 ($0.03)
+APR: Day 103.62% Week 725.34% Year 37717.86%
+You are staking 0.00 [WMATIC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [WMATIC]-[WETH] Uni LP
+Claim 0.00 NEON ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - NEON Price: $0.001353 Market Cap: $8.88 [%]
+Staked: 1739.2067 NEON ($2.35)
+NEON Per Week: 77.63 ($0.11)
+APR: Day 0.64% Week 4.46% Year 232.10%
+You are staking 0.00 NEON ($0.00), 0.00% of the pool.
+Stake 0.00 NEON
+Unstake 0.00 NEON
+Claim 0.00 NEON ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - HELIUM Price: $0.01 Market Cap: $92.58 [%]
+Staked: 1180.9330 HELIUM ($13.97)
+NEON Per Week: 31.05 ($0.04)
+APR: Day 0.04% Week 0.30% Year 15.64%
+You are staking 0.00 HELIUM ($0.00), 0.00% of the pool.
+Stake 0.00 HELIUM
+Unstake 0.00 HELIUM
+Claim 0.00 NEON ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - WMATIC Price: $2.16 Market Cap: $657,599,171.00 [%]
+Staked: 0.0000 WMATIC ($0.00)
+NEON Per Week: 26.39 ($0.04)
+APR: Day 236264835706740416.00% Week 1653853849947182848.00% Year 86000400197253513216.00%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 NEON ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - USDC Price: $1.00 Market Cap: $943,569,936.81 [%]
+Staked: 0.0000 USDC ($0.00)
+NEON Per Week: 24.84 ($0.03)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 USDC ($0.00), NaN% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 NEON ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - DAI Price: $1.00 Market Cap: $374,067,417.09 [%]
+Staked: 0.9909 DAI ($0.99)
+NEON Per Week: 24.84 ($0.03)
+APR: Day 0.48% Week 3.39% Year 176.45%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 NEON ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - USDT Price: $1.00 Market Cap: $313,324,254.04 [%]
+Staked: 0.0192 USDT ($0.02)
+NEON Per Week: 23.29 ($0.03)
+APR: Day 23.46% Week 164.22% Year 8539.51%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 NEON ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - LINK Price: $19.94 Market Cap: $34,583,999.82 [%]
+Staked: 0.0000 LINK ($0.00)
+NEON Per Week: 21.74 ($0.03)
+APR: Day 21076903155855300.00% Week 147538322090987104.00% Year 7671992748731329536.00%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 NEON ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - QUICK Price: $252.30 Market Cap: $241,082,138.66 [%]
+Staked: 0.0011 QUICK ($0.29)
+NEON Per Week: 21.74 ($0.03)
+APR: Day 1.47% Week 10.32% Year 536.47%
+You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
+Stake 0.00 QUICK - Fee 4%
+Unstake 0.00 QUICK
+Claim 0.00 NEON ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - AAVE Price: $175.46 Market Cap: $47,763,608.65 [%]
+Staked: 0.0000 AAVE ($0.00)
+NEON Per Week: 20.18 ($0.03)
+APR: Day 2224175976641322.75% Week 15569231836489260.00% Year 809600055497441536.00%
+You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 NEON ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - WETH Price: $4,040.48 Market Cap: $1,793,337,332.38 [%]
+Staked: 0.0021 WETH ($8.39)
+NEON Per Week: 18.63 ($0.03)
+APR: Day 0.04% Week 0.30% Year 15.63%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 NEON ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - PolyDoge Price: $0.0000000238 Market Cap: $23,828,000.00 [%]
+Staked: 0.0960 PolyDoge ($0.00)
+NEON Per Week: 15.53 ($0.02)
+APR: Day 131233615.50% Week 918635308.53% Year 47769036043.56%
+You are staking 0.00 PolyDoge ($0.00), 0.00% of the pool.
+Stake 0.00 PolyDoge - Fee 4%
+Unstake 0.00 PolyDoge
+Claim 0.00 NEON ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - WBTC Price: $49,019.00 Market Cap: $497,242,931.33 [%]
+Staked: 0.0000 WBTC ($0.01)
+NEON Per Week: 15.53 ($0.02)
+APR: Day 29.16% Week 204.14% Year 10615.04%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 NEON ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - TARTLET Price: $0.00 Market Cap: $0.00 
+Staked: 3.9194 TARTLET ($0.00)
+NEON Per Week: 9.32 ($0.01)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 TARTLET ($0.00), NaN% of the pool.
+Stake 0.00 TARTLET - Fee 1%
+Unstake 0.00 TARTLET
+Claim 0.00 NEON ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - RASP Price: $0.00 Market Cap: $0.00 
+Staked: 14.3689 RASP ($0.00)
+NEON Per Week: 6.21 ($0.01)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 RASP ($0.00), NaN% of the pool.
+Stake 0.00 RASP - Fee 1%
+Unstake 0.00 RASP
+Claim 0.00 NEON ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - BLUEBRY Price: $0.00 Market Cap: $0.00 
+Staked: 75.8799 BLUEBRY ($0.00)
+NEON Per Week: 4.66 ($0.01)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BLUEBRY ($0.00), NaN% of the pool.
+Stake 0.00 BLUEBRY - Fee 1%
+Unstake 0.00 BLUEBRY
+Claim 0.00 NEON ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - [TARTLET]-[USDC] Uni LP [+] [-] [<=>] Price: $243,710.87 TVL: $66.15
+TARTLET Price: $0.01
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.13)
+NEON Per Week: 3.11 ($0.00)
+APR: Day 0.46% Week 3.23% Year 167.76%
+You are staking 0.00 [TARTLET]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TARTLET]-[USDC] Uni LP - Fee 1%
+Unstake 0.00 [TARTLET]-[USDC] Uni LP
+Claim 0.00 NEON ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $81.87

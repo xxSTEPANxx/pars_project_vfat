@@ -1,0 +1,266 @@
+***************************** POLYGON NETWORK **********************************************
+    
+*************** 👨‍🌾 UNOFFICIAL POLYCRYSTAL.FINANCE FARMING CALCULATOR 👨‍🌾 *******************
+INFO  : https://polycrystal.finance
+********************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Fri Dec 17 2021 10:15:07 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 69 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - CRYSTL Price: $0.23 Market Cap: $2,460,618.25 [%]
+Staked: 3264818.1575 CRYSTL ($754,817.21)
+CRYSTL Per Week: 68094.58 ($15,743.28)
+APR: Day 0.30% Week 2.09% Year 108.46%
+You are staking 0.00 CRYSTL ($0.00), 0.00% of the pool.
+Stake 0.00 CRYSTL
+Unstake 0.00 CRYSTL
+Claim 0.00 CRYSTL ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WMATIC]-[CRYSTL] APE LP [+] [-] [<=>] Price: $1.43 TVL: $562,951.57
+WMATIC Price: $2.07
+CRYSTL Price: $0.23
+Staked: 366075.5629 APE-LP ($523,017.02)
+CRYSTL Per Week: 56077.89 ($12,965.06)
+APR: Day 0.35% Week 2.48% Year 128.90%
+You are staking 0.00 [WMATIC]-[CRYSTL] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[CRYSTL] APE LP
+Unstake 0.00 [WMATIC]-[CRYSTL] APE LP
+Claim 0.00 CRYSTL ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [BANANA]-[WETH] APE LP [+] [-] [<=>] Price: $130.36 TVL: $110,615.94
+BANANA Price: $1.07
+WETH Price: $3,906.28
+Staked: 709.5357 APE-LP ($92,493.45)
+CRYSTL Per Week: 2403.34 ($555.65)
+APR: Day 0.09% Week 0.60% Year 31.24%
+You are staking 0.00 [BANANA]-[WETH] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BANANA]-[WETH] APE LP - Fee 1%
+Unstake 0.00 [BANANA]-[WETH] APE LP
+Claim 0.00 CRYSTL ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [WMATIC]-[PolyDoge] APE LP [+] [-] [<=>] Price: $0.00 TVL: $58,980.48
+WMATIC Price: $2.07
+PolyDoge Price: $0.0000000231
+Staked: 86004710.9084 APE-LP ($38,889.27)
+CRYSTL Per Week: 80.11 ($18.52)
+APR: Day 0.01% Week 0.05% Year 2.48%
+You are staking 0.00 [WMATIC]-[PolyDoge] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[PolyDoge] APE LP
+Unstake 0.00 [WMATIC]-[PolyDoge] APE LP
+Claim 0.00 CRYSTL ($0.00)
+Staking or unstaking also claims rewards.
+
+41 - BANANA Price: $1.07 Market Cap: $4,180,568.63 [%]
+Staked: 10565.8201 BANANA ($11,278.88)
+CRYSTL Per Week: 801.11 ($185.22)
+APR: Day 0.23% Week 1.64% Year 85.39%
+You are staking 0.00 BANANA ($0.00), 0.00% of the pool.
+Stake 0.00 BANANA - Fee 1.5%
+Unstake 0.00 BANANA
+Claim 0.00 CRYSTL ($0.00)
+Staking or unstaking also claims rewards.
+
+49 - [WMATIC]-[HAIR] APE LP [+] [-] [<=>] Price: $0.10 TVL: $34,991.56
+WMATIC Price: $2.07
+HAIR Price: $0.001094
+Staked: 15936.8165 APE-LP ($1,546.86)
+CRYSTL Per Week: 80.11 ($18.52)
+APR: Day 0.17% Week 1.20% Year 62.26%
+You are staking 0.00 [WMATIC]-[HAIR] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[HAIR] APE LP
+Unstake 0.00 [WMATIC]-[HAIR] APE LP
+Claim 0.00 CRYSTL ($0.00)
+Staking or unstaking also claims rewards.
+
+50 - [WMATIC]-[SING] APE LP [+] [-] [<=>] Price: $1.24 TVL: $37,158.84
+WMATIC Price: $2.07
+SING Price: $0.10
+Staked: 2104.3336 APE-LP ($2,613.12)
+CRYSTL Per Week: 80.11 ($18.52)
+APR: Day 0.10% Week 0.71% Year 36.86%
+You are staking 0.00 [WMATIC]-[SING] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[SING] APE LP
+Unstake 0.00 [WMATIC]-[SING] APE LP
+Claim 0.00 CRYSTL ($0.00)
+Staking or unstaking also claims rewards.
+
+52 - [WMATIC]-[SX] APE LP [+] [-] [<=>] Price: $2.22 TVL: $291,669.72
+WMATIC Price: $2.07
+SX Price: $0.59
+Staked: 97012.6149 APE-LP ($215,100.44)
+CRYSTL Per Week: 80.11 ($18.52)
+APR: Day 0.00% Week 0.01% Year 0.45%
+You are staking 0.00 [WMATIC]-[SX] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[SX] APE LP
+Unstake 0.00 [WMATIC]-[SX] APE LP
+Claim 0.00 CRYSTL ($0.00)
+Staking or unstaking also claims rewards.
+
+53 - [WMATIC]-[KOM] APE LP [+] [-] [<=>] Price: $27,595.30 TVL: $394,821.39
+WMATIC Price: $2.07
+KOM Price: $0.009010
+Staked: 13.9820 APE-LP ($385,836.46)
+CRYSTL Per Week: 4005.56 ($926.08)
+APR: Day 0.03% Week 0.24% Year 12.48%
+You are staking 0.00 [WMATIC]-[KOM] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[KOM] APE LP
+Unstake 0.00 [WMATIC]-[KOM] APE LP
+Claim 0.00 CRYSTL ($0.00)
+Staking or unstaking also claims rewards.
+
+54 - [WMATIC]-[pQBERT] APE LP [+] [-] [<=>] Price: $1.50 TVL: $250,286.48
+WMATIC Price: $2.07
+pQBERT Price: $0.24
+Staked: 84819.6429 APE-LP ($127,202.34)
+CRYSTL Per Week: 1602.23 ($370.43)
+APR: Day 0.04% Week 0.29% Year 15.14%
+You are staking 0.00 [WMATIC]-[pQBERT] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[pQBERT] APE LP
+Unstake 0.00 [WMATIC]-[pQBERT] APE LP
+Claim 0.00 CRYSTL ($0.00)
+Staking or unstaking also claims rewards.
+
+56 - [WMATIC]-[DOGIRA] APE LP [+] [-] [<=>] Price: $9,662.76 TVL: $551,712.50
+WMATIC Price: $2.07
+DOGIRA Price: $0.01
+Staked: 2.8722 APE-LP ($27,753.60)
+CRYSTL Per Week: 5607.79 ($1,296.51)
+APR: Day 0.67% Week 4.67% Year 242.92%
+You are staking 0.00 [WMATIC]-[DOGIRA] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[DOGIRA] APE LP
+Unstake 0.00 [WMATIC]-[DOGIRA] APE LP
+Claim 0.00 CRYSTL ($0.00)
+Staking or unstaking also claims rewards.
+
+58 - [WMATIC]-[AZUKI] APE LP [+] [-] [<=>] Price: $0.51 TVL: $29,726.01
+WMATIC Price: $2.07
+AZUKI Price: $0.03
+Staked: 55927.3063 APE-LP ($28,701.53)
+CRYSTL Per Week: 80.11 ($18.52)
+APR: Day 0.01% Week 0.06% Year 3.36%
+You are staking 0.00 [WMATIC]-[AZUKI] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[AZUKI] APE LP
+Unstake 0.00 [WMATIC]-[AZUKI] APE LP
+Claim 0.00 CRYSTL ($0.00)
+Staking or unstaking also claims rewards.
+
+60 - [WMATIC]-[EGG] APE LP [+] [-] [<=>] Price: $1.70 TVL: $2,138.08
+WMATIC Price: $2.07
+EGG Price: $0.34
+Staked: 998.4549 APE-LP ($1,694.36)
+CRYSTL Per Week: 80.11 ($18.52)
+APR: Day 0.16% Week 1.09% Year 56.84%
+You are staking 0.00 [WMATIC]-[EGG] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[EGG] APE LP
+Unstake 0.00 [WMATIC]-[EGG] APE LP
+Claim 0.00 CRYSTL ($0.00)
+Staking or unstaking also claims rewards.
+
+61 - [WMATIC]-[PAW] APE LP [+] [-] [<=>] Price: $0.29 TVL: $2,039.16
+WMATIC Price: $2.07
+PAW Price: $0.01
+Staked: 6681.9126 APE-LP ($1,959.83)
+CRYSTL Per Week: 80.11 ($18.52)
+APR: Day 0.14% Week 0.95% Year 49.14%
+You are staking 0.00 [WMATIC]-[PAW] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[PAW] APE LP
+Unstake 0.00 [WMATIC]-[PAW] APE LP
+Claim 0.00 CRYSTL ($0.00)
+Staking or unstaking also claims rewards.
+
+62 - [WMATIC]-[FOUR] APE LP [+] [-] [<=>] Price: $0.26 TVL: $77,854.41
+WMATIC Price: $2.07
+FOUR Price: $0.008118
+Staked: 299398.9976 APE-LP ($77,711.48)
+CRYSTL Per Week: 5607.79 ($1,296.51)
+APR: Day 0.24% Week 1.67% Year 86.75%
+You are staking 0.00 [WMATIC]-[FOUR] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[FOUR] APE LP
+Unstake 0.00 [WMATIC]-[FOUR] APE LP
+Claim 0.00 CRYSTL ($0.00)
+Staking or unstaking also claims rewards.
+
+63 - [WMATIC]-[BLU] APE LP [+] [-] [<=>] Price: $0.14 TVL: $66,447.58
+WMATIC Price: $2.07
+BLU Price: $0.002244
+Staked: 486212.4748 APE-LP ($66,329.79)
+CRYSTL Per Week: 9613.35 ($2,222.58)
+APR: Day 0.48% Week 3.35% Year 174.24%
+You are staking 0.00 [WMATIC]-[BLU] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[BLU] APE LP
+Unstake 0.00 [WMATIC]-[BLU] APE LP
+Claim 0.00 CRYSTL ($0.00)
+Staking or unstaking also claims rewards.
+
+64 - [WMATIC]-[pBREW] APE LP [+] [-] [<=>] Price: $0.27 TVL: $10,046.10
+WMATIC Price: $2.07
+pBREW Price: $0.008500
+Staked: 37251.5739 APE-LP ($9,921.82)
+CRYSTL Per Week: 2403.34 ($555.65)
+APR: Day 0.80% Week 5.60% Year 291.21%
+You are staking 0.00 [WMATIC]-[pBREW] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[pBREW] APE LP
+Unstake 0.00 [WMATIC]-[pBREW] APE LP
+Claim 0.00 CRYSTL ($0.00)
+Staking or unstaking also claims rewards.
+
+65 - [FRMX]-[WETH] APE LP [+] [-] [<=>] Price: $8,709.34 TVL: $108,637.82
+FRMX Price: $4,850.61
+WETH Price: $3,906.28
+Staked: 2.5093 APE-LP ($21,854.01)
+CRYSTL Per Week: 4005.56 ($926.08)
+APR: Day 0.61% Week 4.24% Year 220.35%
+You are staking 0.00 [FRMX]-[WETH] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FRMX]-[WETH] APE LP
+Unstake 0.00 [FRMX]-[WETH] APE LP
+Claim 0.00 CRYSTL ($0.00)
+Staking or unstaking also claims rewards.
+
+66 - [WMATIC]-[RELAY] APE LP [+] [-] [<=>] Price: $4.91 TVL: $29,512.33
+WMATIC Price: $2.07
+RELAY Price: $2.89
+Staked: 5936.5651 APE-LP ($29,163.61)
+CRYSTL Per Week: 4005.56 ($926.08)
+APR: Day 0.45% Week 3.18% Year 165.12%
+You are staking 0.00 [WMATIC]-[RELAY] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[RELAY] APE LP
+Unstake 0.00 [WMATIC]-[RELAY] APE LP
+Claim 0.00 CRYSTL ($0.00)
+Staking or unstaking also claims rewards.
+
+67 - [WMATIC]-[MIMIR] APE LP [+] [-] [<=>] Price: $2.22 TVL: $22,853.15
+WMATIC Price: $2.07
+MIMIR Price: $0.59
+Staked: 10227.4847 APE-LP ($22,674.33)
+CRYSTL Per Week: 4005.56 ($926.08)
+APR: Day 0.58% Week 4.08% Year 212.38%
+You are staking 0.00 [WMATIC]-[MIMIR] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[MIMIR] APE LP
+Unstake 0.00 [WMATIC]-[MIMIR] APE LP
+Claim 0.00 CRYSTL ($0.00)
+Staking or unstaking also claims rewards.
+
+68 - [WELT]-[USDC] APE LP [+] [-] [<=>] Price: $362,363.53 TVL: $43,117.79
+WELT Price: $0.03
+USDC Price: $1.00
+Staked: 0.1188 APE-LP ($43,044.40)
+CRYSTL Per Week: 4005.56 ($926.08)
+APR: Day 0.31% Week 2.15% Year 111.88%
+You are staking 0.00 [WELT]-[USDC] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WELT]-[USDC] APE LP
+Unstake 0.00 [WELT]-[USDC] APE LP
+Claim 0.00 CRYSTL ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $2,483,603.78

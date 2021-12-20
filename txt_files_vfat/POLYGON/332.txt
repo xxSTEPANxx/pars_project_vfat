@@ -1,0 +1,154 @@
+***************************** POLYGON NETWORK ********************************************
+    
+*************** 👨‍🌾 UNOFFICIAL POLYPULSAR GAMMA FARMING CALCULATOR 👨‍🌾 ********************
+INFO  : https://gamma.polypulsar.farm
+******************************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
+
+Thu Dec 16 2021 05:38:10 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 14 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [WMATIC]-[GPUL] PolyCat LP [+] [-] [<=>] Price: $0.13 TVL: $35,542.36
+WMATIC Price: $2.14
+GPUL Price: $0.001597
+Staked: 271207.0014 CAT-LP ($35,109.38)
+GPUL Per Week: 759560.44 ($1,212.70)
+APR: Day 0.49% Week 3.45% Year 179.61%
+You are staking 0.00 [WMATIC]-[GPUL] PolyCat LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[GPUL] PolyCat LP
+Unstake 0.00 [WMATIC]-[GPUL] PolyCat LP
+Claim 0.00 GPUL ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WMATIC]-[GBNT] PolyCat LP [+] [-] [<=>] Price: $0.27 TVL: $27,125.28
+WMATIC Price: $2.14
+GBNT Price: $0.003853
+Staked: 94956.4557 CAT-LP ($25,787.37)
+GPUL Per Week: 759560.44 ($1,212.70)
+APR: Day 0.67% Week 4.70% Year 244.54%
+You are staking 0.00 [WMATIC]-[GBNT] PolyCat LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[GBNT] PolyCat LP
+Unstake 0.00 [WMATIC]-[GBNT] PolyCat LP
+Claim 0.00 GPUL ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [GPUL]-[GBNT] PolyCat LP [+] [-] [<=>] Price: $0.01 TVL: $2,276.30
+GPUL Price: $0.001597
+GBNT Price: $0.003853
+Staked: 432649.6027 CAT-LP ($2,182.27)
+GPUL Per Week: 50637.36 ($80.85)
+APR: Day 0.53% Week 3.70% Year 192.65%
+You are staking 0.00 [GPUL]-[GBNT] PolyCat LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GPUL]-[GBNT] PolyCat LP
+Unstake 0.00 [GPUL]-[GBNT] PolyCat LP
+Claim 0.00 GPUL ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - GPUL Price: $0.001597 Market Cap: $87,539.83 [%]
+Staked: 5722674.3674 GPUL ($9,136.74)
+GPUL Per Week: 126593.41 ($202.12)
+APR: Day 0.32% Week 2.21% Year 115.03%
+You are staking 0.00 GPUL ($0.00), 0.00% of the pool.
+Stake 0.00 GPUL
+Unstake 0.00 GPUL
+Claim 0.00 GPUL ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - GBNT Price: $0.003853 Market Cap: $63,271.59 [%]
+Staked: 1665095.3053 GBNT ($6,415.19)
+GPUL Per Week: 126593.41 ($202.12)
+APR: Day 0.45% Week 3.15% Year 163.83%
+You are staking 0.00 GBNT ($0.00), 0.00% of the pool.
+Stake 0.00 GBNT
+Unstake 0.00 GBNT
+Claim 0.00 GPUL ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - WMATIC Price: $2.14 Market Cap: $651,471,223.76 [%]
+Staked: 17439.3936 WMATIC ($37,320.30)
+GPUL Per Week: 75956.04 ($121.27)
+APR: Day 0.05% Week 0.32% Year 16.90%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 4%
+Unstake 0.00 WMATIC
+Claim 0.00 GPUL ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - WETH Price: $4,037.44 Market Cap: $1,792,004,265.84 [%]
+Staked: 7.1362 WETH ($28,811.84)
+GPUL Per Week: 50637.36 ($80.85)
+APR: Day 0.04% Week 0.28% Year 14.59%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 GPUL ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - WBTC Price: $49,027.00 Market Cap: $497,324,082.38 [%]
+Staked: 0.1098 WBTC ($5,385.11)
+GPUL Per Week: 50637.36 ($80.85)
+APR: Day 0.21% Week 1.50% Year 78.07%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 GPUL ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - DAI Price: $1.00 Market Cap: $374,043,603.09 [%]
+Staked: 45594.4712 DAI ($45,583.80)
+GPUL Per Week: 50637.36 ($80.85)
+APR: Day 0.03% Week 0.18% Year 9.22%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 GPUL ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - USDC Price: $1.00 Market Cap: $943,395,526.17 [%]
+Staked: 66534.8284 USDC ($66,534.83)
+GPUL Per Week: 75956.04 ($121.27)
+APR: Day 0.03% Week 0.18% Year 9.48%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 GPUL ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - USDT Price: $1.00 Market Cap: $313,273,360.65 [%]
+Staked: 34598.4998 USDT ($34,577.78)
+GPUL Per Week: 50637.36 ($80.85)
+APR: Day 0.03% Week 0.23% Year 12.16%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 GPUL ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - PolyDoge Price: $0.0000000241 Market Cap: $24,058,000.00 [%]
+Staked: 2961335322474.2559 PolyDoge ($71,243.81)
+GPUL Per Week: 75956.04 ($121.27)
+APR: Day 0.02% Week 0.17% Year 8.85%
+You are staking 0.00 PolyDoge ($0.00), 0.00% of the pool.
+Stake 0.00 PolyDoge - Fee 4%
+Unstake 0.00 PolyDoge
+Claim 0.00 GPUL ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - PAW Price: $0.00 Market Cap: $0.00 
+Staked: 149724.5456 PAW ($0.00)
+GPUL Per Week: 50637.36 ($80.85)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 PAW ($0.00), NaN% of the pool.
+Stake 0.00 PAW - Fee 4%
+Unstake 0.00 PAW
+Claim 0.00 GPUL ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $368,088.41

@@ -1,0 +1,43 @@
+*************** 👨‍🌾 UNOFFICIAL ENERGY 8 FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://energy8.io/farming
+*************************************************************************************
+
+Thu Dec 16 2021 05:34:37 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Farms: 6
+Current active farms: 2
+-------------------------------------------
+Farm #0 - E8-WMATIC
+
+
+Creator: 0xfFD70F436A591F49874d0cD51A289D9603437939
+Staked token: 0x08e175A1eac9744a0F1cCaeb8F669af6a2BDa3Ce
+LP token: 0x053c9033127844c2683CaeEdA4605cf2cF52C462
+Starts at: 21.08.2021, 21:15:00
+Number of stakers: 4
+Last rewarded block: 19688289
+LP lock time (in seconds): 604800
+Total staked: 15655576762859787451
+Total stake limit: 6000000000000000000000
+Stakers limit: 100
+Limit per staker: 0
+-------------------------------------------
+
+Farm #1 - E8-USDC
+
+
+Creator: 0xfFD70F436A591F49874d0cD51A289D9603437939
+Staked token: 0x08e175A1eac9744a0F1cCaeb8F669af6a2BDa3Ce
+LP token: 0x1E65870a5E00e47eF9fA80a47fc119153BC55aC3
+Starts at: 21.08.2021, 21:15:00
+Number of stakers: 4
+Last rewarded block: 19688632
+LP lock time (in seconds): 604800
+Total staked: 22607540000000
+Total stake limit: 6000000000000000000000
+Stakers limit: 100
+Limit per staker: 0

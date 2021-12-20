@@ -1,0 +1,48 @@
+*************** 👨‍🌾 UNOFFICIAL POLYGALAXY.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://polygalaxy.finance
+***************************************************************************************
+
+Thu Dec 16 2021 05:41:23 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 8 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [USDC]-[GALAXY] Uni LP [+] [-] [<=>] Price: $52,774.05 TVL: $11.26
+USDC Price: $1.00
+GALAXY Price: $0.000645
+Staked: 0.0002 UNI-V2 ($10.55)
+GALAXY Per Week: 6545.45 ($4.22)
+APR: Day 5.72% Week 40.01% Year 2080.76%
+You are staking 0.00 [USDC]-[GALAXY] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[GALAXY] Uni LP
+Unstake 0.00 [USDC]-[GALAXY] Uni LP
+Claim 0.00 GALAXY ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WMATIC]-[GALAXY] Uni LP [+] [-] [<=>] Price: $0.08 TVL: $8.33
+WMATIC Price: $2.14
+GALAXY Price: $0.000645
+Staked: 47.3033 UNI-V2 ($3.64)
+GALAXY Per Week: 6545.45 ($4.22)
+APR: Day 16.60% Week 116.18% Year 6041.32%
+You are staking 0.00 [WMATIC]-[GALAXY] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMATIC]-[GALAXY] Uni LP
+Unstake 0.00 [WMATIC]-[GALAXY] Uni LP
+Claim 0.00 GALAXY ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - GALAXY Price: $0.000645 Market Cap: $213.81 [%]
+Staked: 123750.3467 GALAXY ($79.85)
+GALAXY Per Week: 1309.09 ($0.84)
+APR: Day 0.15% Week 1.06% Year 55.01%
+You are staking 0.00 GALAXY ($0.00), 0.00% of the pool.
+Stake 0.00 GALAXY
+Unstake 0.00 GALAXY
+Claim 0.00 GALAXY ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $94.04

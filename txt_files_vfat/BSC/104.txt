@@ -1,0 +1,220 @@
+*************** 👨‍🌾 UNOFFICIAL ALCHEMIST FINANCE FARMING CALCULATOR 👨‍🌾 *****************
+INFO  : https://www.alchemistdefi.com
+****************************************************************************************
+
+Thu Jan 27 2022 20:34:25 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 23 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [MIST]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.13 TVL: $869.64
+MIST Price: $0.002268
+BUSD Price: $1.00
+Staked: 4398.6467 Cake-LP ($550.57)
+MIST Per Week: 9932.85 ($22.53)
+APR: Day 0.58% Week 4.09% Year 212.78%
+You are staking 0.00 [MIST]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MIST]-[BUSD] Cake LP
+Unstake 0.00 [MIST]-[BUSD] Cake LP
+Claim 0.00 MIST ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [MIST]-[WBNB] Cake LP [+] [-] [<=>] Price: $2.39 TVL: $1,406.95
+MIST Price: $0.002268
+WBNB Price: $370.43
+Staked: 369.4701 Cake-LP ($882.73)
+MIST Per Week: 9270.66 ($21.03)
+APR: Day 0.34% Week 2.38% Year 123.86%
+You are staking 0.00 [MIST]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MIST]-[WBNB] Cake LP
+Unstake 0.00 [MIST]-[WBNB] Cake LP
+Claim 0.00 MIST ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $66.04 TVL: $2,137,084.76
+WBNB Price: $370.43
+BUSD Price: $1.00
+Staked: 15.1282 Cake-LP ($999.09)
+MIST Per Week: 1103.65 ($2.50)
+APR: Day 0.04% Week 0.25% Year 13.03%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 MIST ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $8,255.27 TVL: $300,002.86
+BTCB Price: $36,550.00
+WBNB Price: $370.43
+Staked: 0.1010 Cake-LP ($833.55)
+MIST Per Week: 1103.65 ($2.50)
+APR: Day 0.04% Week 0.30% Year 15.62%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 MIST ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - MIST Price: $0.002268 Market Cap: $6,648.48 [%]
+Staked: 501024.2036 MIST ($1,136.36)
+MIST Per Week: 5518.25 ($12.52)
+APR: Day 0.16% Week 1.10% Year 57.27%
+You are staking 0.00 MIST ($0.00), 0.00% of the pool.
+Stake 0.00 MIST
+Unstake 0.00 MIST
+Claim 0.00 MIST ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - WBNB Price: $370.43 Market Cap: $1,934,241,068.45 [%]
+Staked: 4.4917 WBNB ($1,663.87)
+MIST Per Week: 882.92 ($2.00)
+APR: Day 0.02% Week 0.12% Year 6.26%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 MIST ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - BTCB Price: $36,550.00 Market Cap: $4,111,911,550.00 [%]
+Staked: 0.0000 BTCB ($0.00)
+MIST Per Week: 662.19 ($1.50)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 BTCB ($0.00), NaN% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 MIST ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - ETH Price: $2,441.83 Market Cap: $3,430,771,150.00 [%]
+Staked: 0.0005 ETH ($1.27)
+MIST Per Week: 662.19 ($1.50)
+APR: Day 16.91% Week 118.36% Year 6154.91%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 MIST ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [AURUM]-[MIST] Cake LP [+] [-] [<=>] Price: $0.07 TVL: $979.03
+AURUM Price: $0.48
+MIST Price: $0.002268
+Staked: 5147.3489 Cake-LP ($344.08)
+MIST Per Week: 13243.80 ($30.04)
+APR: Day 1.25% Week 8.73% Year 453.96%
+You are staking 0.00 [AURUM]-[MIST] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AURUM]-[MIST] Cake LP
+Unstake 0.00 [AURUM]-[MIST] Cake LP
+Claim 0.00 MIST ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [AURUM]-[BUSD] Cake LP [+] [-] [<=>] Price: $1.69 TVL: $918.79
+AURUM Price: $0.48
+BUSD Price: $1.00
+Staked: 238.3492 Cake-LP ($403.67)
+MIST Per Week: 9270.66 ($21.03)
+APR: Day 0.74% Week 5.21% Year 270.86%
+You are staking 0.00 [AURUM]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AURUM]-[BUSD] Cake LP - Fee 2%
+Unstake 0.00 [AURUM]-[BUSD] Cake LP
+Claim 0.00 MIST ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - AURUM Price: $0.48 Market Cap: $4,844.04 [%]
+Staked: 952.8514 AURUM ($462.01)
+MIST Per Week: 8829.20 ($20.03)
+APR: Day 0.62% Week 4.33% Year 225.39%
+You are staking 0.00 AURUM ($0.00), 0.00% of the pool.
+Stake 0.00 AURUM
+Unstake 0.00 AURUM
+Claim 0.00 MIST ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $7,277.20
+Staking Contract
+Found 13 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [AURUM]-[BUSD] Cake LP [+] [-] [<=>] Price: $1.69 TVL: $918.79
+AURUM Price: $0.48
+BUSD Price: $1.00
+Staked: 252.4192 Cake-LP ($427.50)
+AURUM Per Week: 30.15 ($14.62)
+APR: Day 0.49% Week 3.42% Year 177.84%
+You are staking 0.00 [AURUM]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AURUM]-[BUSD] Cake LP
+Unstake 0.00 [AURUM]-[BUSD] Cake LP
+Claim 0.00 AURUM ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [MIST]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.13 TVL: $869.64
+MIST Price: $0.002268
+BUSD Price: $1.00
+Staked: 1850.7875 Cake-LP ($231.66)
+AURUM Per Week: 10.34 ($5.01)
+APR: Day 0.31% Week 2.16% Year 112.52%
+You are staking 0.00 [MIST]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MIST]-[BUSD] Cake LP - Fee 2%
+Unstake 0.00 [MIST]-[BUSD] Cake LP
+Claim 0.00 AURUM ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - MIST Price: $0.002268 Market Cap: $6,648.48 [%]
+Staked: 128933.6871 MIST ($292.43)
+AURUM Per Week: 21.54 ($10.44)
+APR: Day 0.51% Week 3.57% Year 185.70%
+You are staking 0.00 MIST ($0.00), 0.00% of the pool.
+Stake 0.00 MIST - Fee 2%
+Unstake 0.00 MIST
+Claim 0.00 AURUM ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - AURUM Price: $0.48 Market Cap: $4,844.04 [%]
+Staked: 1103.2556 AURUM ($534.93)
+AURUM Per Week: 8.62 ($4.18)
+APR: Day 0.11% Week 0.78% Year 40.61%
+You are staking 0.00 AURUM ($0.00), 0.00% of the pool.
+Stake 0.00 AURUM - Fee 2%
+Unstake 0.00 AURUM
+Claim 0.00 AURUM ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - WBNB Price: $370.43 Market Cap: $1,934,241,068.45 [%]
+Staked: 0.1198 WBNB ($44.37)
+AURUM Per Week: 1.72 ($0.84)
+APR: Day 0.27% Week 1.88% Year 97.91%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 9%
+Unstake 0.00 WBNB
+Claim 0.00 AURUM ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [AURUM]-[MIST] Cake LP [+] [-] [<=>] Price: $0.07 TVL: $979.03
+AURUM Price: $0.48
+MIST Price: $0.002268
+Staked: 9100.6831 Cake-LP ($608.34)
+AURUM Per Week: 86.15 ($41.77)
+APR: Day 0.98% Week 6.87% Year 357.07%
+You are staking 0.00 [AURUM]-[MIST] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AURUM]-[MIST] Cake LP
+Unstake 0.00 [AURUM]-[MIST] Cake LP
+Claim 0.00 AURUM ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [MIST]-[WBNB] Cake LP [+] [-] [<=>] Price: $2.39 TVL: $1,406.95
+MIST Price: $0.002268
+WBNB Price: $370.43
+Staked: 198.8634 Cake-LP ($475.12)
+AURUM Per Week: 43.08 ($20.89)
+APR: Day 0.63% Week 4.40% Year 228.59%
+You are staking 0.00 [MIST]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MIST]-[WBNB] Cake LP - Fee 2%
+Unstake 0.00 [MIST]-[WBNB] Cake LP
+Claim 0.00 AURUM ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $2,614.36

@@ -1,0 +1,81 @@
+*************** 👨‍🌾 UNOFFICIAL FUSESWAP FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://fuseswap.com
+*****************************************************************************
+
+Fri Jan 28 2022 01:06:22 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+[G$]-[USDC] Uni LP [+] [-] [<=>] Price: $3,022,722,782,172.61 TVL: $441.13
+G$ Price: $0.000163
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($162.48)
+WFUSE Per Week: 5769.23 ($4,375.16)
+APR: Day 384.68% Week 2692.73% Year 140021.92%
+You are staking 0.000000 [G$]-[USDC] Uni LP $0.00 (0.00% of the pool).
+FUSE Scan
+Stake 0.000000 [G$]-[USDC] Uni LP
+Unstake 0.000000 [G$]-[USDC] Uni LP
+Claim 0.000000 WFUSE ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[WFUSE]-[fUSD] Uni LP [+] [-] [<=>] Price: $1.96 TVL: $1,175,498.20
+WFUSE Price: $0.76
+fUSD Price: $1.00
+Staked: 11.5366 UNI-V2 ($22.60)
+WFUSE Per Week: 25000.00 ($18,959.02)
+APR: Day 11986.79% Week 83907.51% Year 4363190.29%
+You are staking 0.000000 [WFUSE]-[fUSD] Uni LP $0.00 (0.00% of the pool).
+FUSE Scan
+Stake 0.000000 [WFUSE]-[fUSD] Uni LP
+Unstake 0.000000 [WFUSE]-[fUSD] Uni LP
+Claim 0.000000 WFUSE ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[WFUSE]-[WETH] Uni LP [+] [-] [<=>] Price: $88.75 TVL: $1,940,987.91
+WFUSE Price: $0.76
+WETH Price: $2,345.07
+Staked: 0.0035 UNI-V2 ($0.31)
+WFUSE Per Week: 25000.00 ($18,959.02)
+APR: Day 872542.36% Week 6107796.54% Year 317605420.31%
+You are staking 0.000000 [WFUSE]-[WETH] Uni LP $0.00 (0.00% of the pool).
+FUSE Scan
+Stake 0.000000 [WFUSE]-[WETH] Uni LP
+Unstake 0.000000 [WFUSE]-[WETH] Uni LP
+Claim 0.000000 WFUSE ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[fUSD]-[BNB] Uni LP [+] [-] [<=>] Price: $41.30 TVL: $1,411,331.98
+fUSD Price: $1.00
+BNB Price: $373.34
+Staked: 117.2037 UNI-V2 ($4,840.75)
+WFUSE Per Week: 12500.00 ($9,479.51)
+APR: Day 27.98% Week 195.83% Year 10183.02%
+You are staking 0.000000 [fUSD]-[BNB] Uni LP $0.00 (0.00% of the pool).
+FUSE Scan
+Stake 0.000000 [fUSD]-[BNB] Uni LP
+Unstake 0.000000 [fUSD]-[BNB] Uni LP
+Claim 0.000000 WFUSE ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[WFUSE]-[DEXT] Uni LP [+] [-] [<=>] Price: $0.27 TVL: $5.35
+WFUSE Price: $0.76
+DEXT Price: $0.02
+Staked: 0.0000 UNI-V2 ($0.00)
+WFUSE Per Week: 125000.00 ($94,795.13)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.000000 [WFUSE]-[DEXT] Uni LP $0.00 (NaN% of the pool).
+FUSE Scan
+Stake 0.000000 [WFUSE]-[DEXT] Uni LP
+Unstake 0.000000 [WFUSE]-[DEXT] Uni LP
+Claim 0.000000 WFUSE ($0.00)
+Revoke (set approval to 0)
+Exit
+
+Total staked: $5,026.14

@@ -7,121 +7,17 @@ INFO  : https://www.sushifarm.finance
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Thu Dec 16 2021 04:48:13 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 23:10:55 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
-Found 10 pools.
-Showing incentivized pools only.
-Finished reading smart contracts.
-0 - SUSHI Price: $0.00 Market Cap: $0.00 
-Staked: 7.1222 SUSHI ($0.00)
-SUSHI Per Week: 0.00 ($0.00)
-APR: Day NaN% Week NaN% Year NaN%
-You are staking 0.00 SUSHI ($0.00), NaN% of the pool.
-Stake 0.00 SUSHI
-Unstake 0.00 SUSHI
-Claim 0.00 SUSHI ($0.00)
-Staking or unstaking also claims rewards.
-
-1 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,872,463.89 TVL: $52,282,287.89
-WMATIC Price: $2.15
-USDC Price: $1.00
-Staked: 0.0000 UNI-V2 ($33.51)
-SUSHI Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
-Unstake 0.00 [WMATIC]-[USDC] Uni LP
-Claim 0.00 SUSHI ($0.00)
-Staking or unstaking also claims rewards.
-
-2 - WBTC Price: $48,941.00 Market Cap: $496,402,783.17 [%]
-Staked: 0.0000 WBTC ($0.00)
-SUSHI Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
-Stake 0.00 WBTC - Fee 4%
-Unstake 0.00 WBTC
-Claim 0.00 SUSHI ($0.00)
-Staking or unstaking also claims rewards.
-
-3 - [WMATIC]-[SUSHI] Uni LP [+] [-] [<=>] Price: $4.69 TVL: $74.99
-WMATIC Price: $2.15
-SUSHI Price: $2.49
-Staked: 14.6336 UNI-V2 ($68.67)
-SUSHI Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 [WMATIC]-[SUSHI] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[SUSHI] Uni LP
-Unstake 0.00 [WMATIC]-[SUSHI] Uni LP
-Claim 0.00 SUSHI ($0.00)
-Staking or unstaking also claims rewards.
-
-4 - LINK Price: $19.98 Market Cap: $34,653,375.95 [%]
-Staked: 0.0000 LINK ($0.00)
-SUSHI Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 LINK ($0.00), 0.00% of the pool.
-Stake 0.00 LINK - Fee 4%
-Unstake 0.00 LINK
-Claim 0.00 SUSHI ($0.00)
-Staking or unstaking also claims rewards.
-
-5 - [USDC]-[USDT] Uni LP [+] [-] [<=>] Price: $2,623,520,779,697.46 TVL: $24,510,462.90
-USDC Price: $1.00
-USDT Price: $1.00
-Staked: 0.0000 UNI-V2 ($12.33)
-SUSHI Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[USDT] Uni LP - Fee 4%
-Unstake 0.00 [USDC]-[USDT] Uni LP
-Claim 0.00 SUSHI ($0.00)
-Staking or unstaking also claims rewards.
-
-6 - USDT Price: $1.00 Market Cap: $313,188,142.55 [%]
-Staked: 192.3485 USDT ($192.20)
-SUSHI Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 USDT ($0.00), 0.00% of the pool.
-Stake 0.00 USDT - Fee 4%
-Unstake 0.00 USDT
-Claim 0.00 SUSHI ($0.00)
-Staking or unstaking also claims rewards.
-
-7 - WETH Price: $4,045.59 Market Cap: $1,795,526,184.01 [%]
-Staked: 0.0002 WETH ($0.79)
-SUSHI Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 WETH ($0.00), 0.00% of the pool.
-Stake 0.00 WETH - Fee 4%
-Unstake 0.00 WETH
-Claim 0.00 SUSHI ($0.00)
-Staking or unstaking also claims rewards.
-
-8 - [WBTC]-[WETH] Uni LP [+] [-] [<=>] Price: $1,422,629,497,038.38 TVL: $52,999,776.89
-WBTC Price: $48,941.00
-WETH Price: $4,045.59
-Staked: 0.0000 UNI-V2 ($1.42)
-SUSHI Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 [WBTC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WBTC]-[WETH] Uni LP - Fee 4%
-Unstake 0.00 [WBTC]-[WETH] Uni LP
-Claim 0.00 SUSHI ($0.00)
-Staking or unstaking also claims rewards.
-
-9 - USDC Price: $1.00 Market Cap: $943,420,142.99 [%]
-Staked: 0.0000 USDC ($0.00)
-SUSHI Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 USDC ($0.00), 0.00% of the pool.
-Stake 0.00 USDC - Fee 3%
-Unstake 0.00 USDC
-Claim 0.00 SUSHI ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $308.92
+{
+  "code": -32603,
+  "message": "Non-200 status code: '400'",
+  "data": {
+    "error": "Unable to verify your data submission."
+  }
+}
+Oops something went wrong. Try refreshing the page.

@@ -1,0 +1,85 @@
+*************** 👨‍🌾 UNOFFICIAL STRANGEBREW.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://www.strangebrew.finance
+****************************************************************************************
+
+Fri Jan 28 2022 00:37:47 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 6 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - SBRW Price: $0.004647 Market Cap: $65,051.06 
+Staked: 524589.2448 SBRW ($2,437.51)
+BEERMONEY Per Week: 3600000.00 ($7.45)
+APR: Day 0.04% Week 0.31% Year 15.90%
+You are staking 0.00 SBRW ($0.00), 0.00% of the pool.
+Stake 0.00 SBRW
+Unstake 0.00 SBRW
+Claim 0.00 BEERMONEY ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WFTM]-[SBRW] Hades Swap LP Token [+] [-] [<=>] Price: $0.35 TVL: $435.22
+WFTM Price: $2.02
+SBRW Price: $0.004647
+Staked: 216.7321 HLP ($75.09)
+BEERMONEY Per Week: 3600000.00 ($7.45)
+APR: Day 1.42% Week 9.93% Year 516.19%
+You are staking 0.00 [WFTM]-[SBRW] Hades Swap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[SBRW] Hades Swap LP Token
+Unstake 0.00 [WFTM]-[SBRW] Hades Swap LP Token
+Claim 0.00 BEERMONEY ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [USDC]-[SBRW] Hades Swap LP Token [+] [-] [<=>] Price: $139,575.06 TVL: $6,480.08
+USDC Price: $1.00
+SBRW Price: $0.004647
+Staked: 0.0016 HLP ($229.84)
+BEERMONEY Per Week: 3600000.00 ($7.45)
+APR: Day 0.46% Week 3.24% Year 168.65%
+You are staking 0.00 [USDC]-[SBRW] Hades Swap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[SBRW] Hades Swap LP Token
+Unstake 0.00 [USDC]-[SBRW] Hades Swap LP Token
+Claim 0.00 BEERMONEY ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WFTM]-[BEERMONEY] Hades Swap LP Token [+] [-] [<=>] Price: $0.00 TVL: $436.27
+WFTM Price: $2.02
+BEERMONEY Price: $0.0000020707
+Staked: 53347.2858 HLP ($223.36)
+BEERMONEY Per Week: 3600000.00 ($7.45)
+APR: Day 0.48% Week 3.34% Year 173.54%
+You are staking 0.00 [WFTM]-[BEERMONEY] Hades Swap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BEERMONEY] Hades Swap LP Token
+Unstake 0.00 [WFTM]-[BEERMONEY] Hades Swap LP Token
+Claim 0.00 BEERMONEY ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [WFTM]-[SBRW] SPOOKY LP [+] [-] [<=>] Price: $0.20 TVL: $8,169.26
+WFTM Price: $2.02
+SBRW Price: $0.004647
+Staked: 297.1911 spLP ($58.40)
+BEERMONEY Per Week: 360000.00 ($0.75)
+APR: Day 0.18% Week 1.28% Year 66.37%
+You are staking 0.00 [WFTM]-[SBRW] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[SBRW] SPOOKY LP
+Unstake 0.00 [WFTM]-[SBRW] SPOOKY LP
+Claim 0.00 BEERMONEY ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WFTM]-[BEERMONEY] SPOOKY LP [+] [-] [<=>] Price: $0.00 TVL: $381.91
+WFTM Price: $2.02
+BEERMONEY Price: $0.0000020707
+Staked: 26900.1005 spLP ($110.26)
+BEERMONEY Per Week: 360000.00 ($0.75)
+APR: Day 0.10% Week 0.68% Year 35.16%
+You are staking 0.00 [WFTM]-[BEERMONEY] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BEERMONEY] SPOOKY LP
+Unstake 0.00 [WFTM]-[BEERMONEY] SPOOKY LP
+Claim 0.00 BEERMONEY ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $3,134.46

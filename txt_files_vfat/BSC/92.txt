@@ -1,0 +1,183 @@
+*************** 👨‍🌾 UNOFFICIAL POOPSWAP.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://poopswap.finance
+*************************************************************************************
+
+Thu Jan 27 2022 20:32:25 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 15 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [POOP]-[WBNB] Cake LP [+] [-] [<=>] Price: $0.76 TVL: $139.66
+POOP Price: $0.000329
+WBNB Price: $370.99
+Staked: 181.1641 Cake-LP ($137.97)
+POOP Per Week: 25043.48 ($8.23)
+APR: Day 0.85% Week 5.97% Year 310.34%
+You are staking 0.00 [POOP]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [POOP]-[WBNB] Cake LP
+Unstake 0.00 [POOP]-[WBNB] Cake LP
+Claim 0.00 POOP ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [POOP]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.04 TVL: $93.81
+POOP Price: $0.000329
+BUSD Price: $1.00
+Staked: 2074.2589 Cake-LP ($80.74)
+POOP Per Week: 16278.26 ($5.35)
+APR: Day 0.95% Week 6.63% Year 344.69%
+You are staking 0.00 [POOP]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [POOP]-[BUSD] Cake LP
+Unstake 0.00 [POOP]-[BUSD] Cake LP
+Claim 0.00 POOP ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $66.07 TVL: $2,137,854.19
+WBNB Price: $370.99
+BUSD Price: $1.00
+Staked: 0.8176 Cake-LP ($54.02)
+POOP Per Week: 5634.78 ($1.85)
+APR: Day 0.49% Week 3.43% Year 178.35%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 POOP ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.17 TVL: $3,555,613.75
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 20.8685 Cake-LP ($45.29)
+POOP Per Week: 5008.70 ($1.65)
+APR: Day 0.52% Week 3.64% Year 189.08%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 POOP ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.28 TVL: $253,563.58
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 16.4645 Cake-LP ($37.56)
+POOP Per Week: 5008.70 ($1.65)
+APR: Day 0.63% Week 4.38% Year 228.02%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 POOP ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $8,252.65 TVL: $299,907.56
+BTCB Price: $36,472.00
+WBNB Price: $370.99
+Staked: 0.0062 Cake-LP ($51.29)
+POOP Per Week: 3756.52 ($1.24)
+APR: Day 0.34% Week 2.41% Year 125.23%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 POOP ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,208.57 TVL: $481,919.13
+ETH Price: $2,464.02
+WBNB Price: $370.99
+Staked: 0.0132 Cake-LP ($29.06)
+POOP Per Week: 3756.52 ($1.24)
+APR: Day 0.61% Week 4.25% Year 221.00%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 POOP ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [DAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.05 TVL: $1,364,856.90
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 18.1486 Cake-LP ($37.27)
+POOP Per Week: 5008.70 ($1.65)
+APR: Day 0.63% Week 4.42% Year 229.79%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 POOP ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [Cake]-[BUSD] Cake LP [+] [-] [<=>] Price: $8.69 TVL: $68,746.68
+Cake Price: $7.19
+BUSD Price: $1.00
+Staked: 1.2657 Cake-LP ($11.00)
+POOP Per Week: 2504.35 ($0.82)
+APR: Day 1.07% Week 7.48% Year 389.21%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 POOP ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - POOP Price: $0.000329 Market Cap: $1,366.81 [%]
+Staked: 2916080.8178 POOP ($958.77)
+POOP Per Week: 12521.74 ($4.12)
+APR: Day 0.06% Week 0.43% Year 22.33%
+You are staking 0.00 POOP ($0.00), 0.00% of the pool.
+Stake 0.00 POOP
+Unstake 0.00 POOP
+Claim 0.00 POOP ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - WBNB Price: $370.99 Market Cap: $1,937,282,165.21 [%]
+Staked: 0.0312 WBNB ($11.58)
+POOP Per Week: 5008.70 ($1.65)
+APR: Day 2.03% Week 14.22% Year 739.46%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 POOP ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - BUSD Price: $1.00 Market Cap: $4,847,070,079.12 [%]
+Staked: 375.4859 BUSD ($375.18)
+POOP Per Week: 5634.78 ($1.85)
+APR: Day 0.07% Week 0.49% Year 25.68%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 POOP ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - USDT Price: $1.00 Market Cap: $3,871,547,286.70 [%]
+Staked: 11.1618 USDT ($11.14)
+POOP Per Week: 1252.17 ($0.41)
+APR: Day 0.53% Week 3.70% Year 192.22%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 POOP ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - Cake Price: $7.19 Market Cap: $4,421,493,005.24 [%]
+Staked: 3.0599 Cake ($22.00)
+POOP Per Week: 3130.43 ($1.03)
+APR: Day 0.67% Week 4.68% Year 243.27%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 POOP ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - 1INCH Price: $0.00 Market Cap: $0.00 
+Staked: 9.6000 1INCH ($0.00)
+POOP Per Week: 1252.17 ($0.41)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 1INCH ($0.00), NaN% of the pool.
+Stake 0.00 1INCH - Fee 4%
+Unstake 0.00 1INCH
+Claim 0.00 POOP ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $1,862.85

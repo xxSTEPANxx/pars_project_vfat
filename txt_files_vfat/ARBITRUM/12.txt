@@ -1,0 +1,31 @@
+*************** 👨‍🌾 UNOFFICIAL BADGER FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://app.badger.finance
+***************************************************************************
+
+The below APRs do not include underlying rewards such as from curve, sushi or fees. They are only BADGER farming APRs.
+
+Thu Jan 27 2022 21:48:21 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Wrapped Ether / Sushi Helper - Underlying - Sett
+You have 0 SLP
+You have 0 bSLP
+[WETH]-[SUSHI] SLP [+] [-] [<=>] Price: $206.68 TVL: $768,069.66
+WETH Price: $2,428.06
+SUSHI Price: $4.07
+Staked: 0.2414 SLP ($49.89)
+Stake 0.000000000000 SLP
+Unstake 0.000000000000 SLP
+
+Wrapped BTC/Wrapped ETH - Underlying - Sett
+You have 0 SLP
+You have 0 bSLP
+[WBTC]-[WETH] SLP [+] [-] [<=>] Price: $1,912,668,419.71 TVL: $5,140,521.38
+WBTC Price: $36,103.00
+WETH Price: $2,428.06
+Staked: 0.0005 SLP ($877,914.10)
+{}
+Oops something went wrong. Try refreshing the page.

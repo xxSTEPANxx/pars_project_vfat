@@ -1,0 +1,335 @@
+*************** 👨‍🌾 UNOFFICIAL SMURF FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://smurf.money
+**************************************************************************
+
+Fri Jan 28 2022 00:51:27 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 31 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [USDC]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $4,384,654.16 TVL: $168,794,743.15
+USDC Price: $1.01
+WFTM Price: $2.03
+Staked: 0.0001 spLP ($332.17)
+CLEVER Per Week: 225.67 ($5.34)
+APR: Day 0.23% Week 1.61% Year 83.62%
+You are staking 0.00 [USDC]-[WFTM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WFTM] SPOOKY LP - Fee 4%
+Unstake 0.00 [USDC]-[WFTM] SPOOKY LP
+Claim 0.00 CLEVER ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WFTM]-[ETH] SPOOKY LP [+] [-] [<=>] Price: $157.49 TVL: $42,705,318.33
+WFTM Price: $2.03
+ETH Price: $2,366.73
+Staked: 0.4470 spLP ($70.41)
+CLEVER Per Week: 180.54 ($4.27)
+APR: Day 0.87% Week 6.07% Year 315.62%
+You are staking 0.00 [WFTM]-[ETH] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ETH] SPOOKY LP - Fee 4%
+Unstake 0.00 [WFTM]-[ETH] SPOOKY LP
+Claim 0.00 CLEVER ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WFTM]-[BTC] SPOOKY LP [+] [-] [<=>] Price: $11,313,526,544.25 TVL: $21,910,875.63
+WFTM Price: $2.03
+BTC Price: $36,161.00
+Staked: 0.0000 spLP ($162.44)
+CLEVER Per Week: 180.54 ($4.27)
+APR: Day 0.38% Week 2.63% Year 136.80%
+You are staking 0.00 [WFTM]-[BTC] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BTC] SPOOKY LP - Fee 4%
+Unstake 0.00 [WFTM]-[BTC] SPOOKY LP
+Claim 0.00 CLEVER ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WFTM]-[BOO] SPOOKY LP [+] [-] [<=>] Price: $14.96 TVL: $63,388,653.75
+WFTM Price: $2.03
+BOO Price: $25.24
+Staked: 5.2999 spLP ($79.29)
+CLEVER Per Week: 157.97 ($3.74)
+APR: Day 0.67% Week 4.72% Year 245.22%
+You are staking 0.00 [WFTM]-[BOO] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BOO] SPOOKY LP - Fee 4%
+Unstake 0.00 [WFTM]-[BOO] SPOOKY LP
+Claim 0.00 CLEVER ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [WFTM]-[TOMB] SPOOKY LP [+] [-] [<=>] Price: $5.94 TVL: $307,223,544.01
+WFTM Price: $2.03
+TOMB Price: $2.01
+Staked: 12.0199 spLP ($71.42)
+CLEVER Per Week: 157.97 ($3.74)
+APR: Day 0.75% Week 5.24% Year 272.26%
+You are staking 0.00 [WFTM]-[TOMB] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[TOMB] SPOOKY LP - Fee 4%
+Unstake 0.00 [WFTM]-[TOMB] SPOOKY LP
+Claim 0.00 CLEVER ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WFTM]-[SUSHI] SPOOKY LP [+] [-] [<=>] Price: $6.09 TVL: $7,556,560.76
+WFTM Price: $2.03
+SUSHI Price: $3.94
+Staked: 8.4044 spLP ($51.21)
+CLEVER Per Week: 135.40 ($3.21)
+APR: Day 0.89% Week 6.26% Year 325.48%
+You are staking 0.00 [WFTM]-[SUSHI] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[SUSHI] SPOOKY LP - Fee 4%
+Unstake 0.00 [WFTM]-[SUSHI] SPOOKY LP
+Claim 0.00 CLEVER ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [CRV]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $5.23 TVL: $4,527,786.31
+CRV Price: $2.76
+WFTM Price: $2.03
+Staked: 13.3435 spLP ($69.72)
+CLEVER Per Week: 135.40 ($3.21)
+APR: Day 0.66% Week 4.60% Year 239.03%
+You are staking 0.00 [CRV]-[WFTM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CRV]-[WFTM] SPOOKY LP - Fee 4%
+Unstake 0.00 [CRV]-[WFTM] SPOOKY LP
+Claim 0.00 CLEVER ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [WFTM]-[DAI] SPOOKY LP [+] [-] [<=>] Price: $3.75 TVL: $43,788,071.58
+WFTM Price: $2.03
+DAI Price: $1.00
+Staked: 35.4892 spLP ($133.12)
+CLEVER Per Week: 135.40 ($3.21)
+APR: Day 0.34% Week 2.41% Year 125.20%
+You are staking 0.00 [WFTM]-[DAI] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[DAI] SPOOKY LP - Fee 4%
+Unstake 0.00 [WFTM]-[DAI] SPOOKY LP
+Claim 0.00 CLEVER ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [WFTM]-[GEIST] SPOOKY LP [+] [-] [<=>] Price: $1.43 TVL: $10,590,459.45
+WFTM Price: $2.03
+GEIST Price: $0.22
+Staked: 16.4372 spLP ($23.53)
+CLEVER Per Week: 135.40 ($3.21)
+APR: Day 1.95% Week 13.62% Year 708.18%
+You are staking 0.00 [WFTM]-[GEIST] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[GEIST] SPOOKY LP - Fee 4%
+Unstake 0.00 [WFTM]-[GEIST] SPOOKY LP
+Claim 0.00 CLEVER ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [USDC]-[DAI] SPOOKY LP [+] [-] [<=>] Price: $1,773,723,470.71 TVL: $8,362,790.54
+USDC Price: $1.01
+DAI Price: $1.00
+Staked: 0.0000 spLP ($1,256.06)
+CLEVER Per Week: 157.97 ($3.74)
+APR: Day 0.04% Week 0.30% Year 15.48%
+You are staking 0.00 [USDC]-[DAI] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAI] SPOOKY LP - Fee 4%
+Unstake 0.00 [USDC]-[DAI] SPOOKY LP
+Claim 0.00 CLEVER ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [USDC]-[fUSDT] SPOOKY LP [+] [-] [<=>] Price: $2,101,831,072,783.59 TVL: $2,067,760.57
+USDC Price: $1.01
+fUSDT Price: $1.00
+Staked: 0.0000 spLP ($370.16)
+CLEVER Per Week: 157.97 ($3.74)
+APR: Day 0.14% Week 1.01% Year 52.53%
+You are staking 0.00 [USDC]-[fUSDT] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[fUSDT] SPOOKY LP - Fee 4%
+Unstake 0.00 [USDC]-[fUSDT] SPOOKY LP
+Claim 0.00 CLEVER ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - WFTM Price: $2.03 Market Cap: $1,466,090,422.76 
+Staked: 229.1866 WFTM ($465.25)
+CLEVER Per Week: 180.54 ($4.27)
+APR: Day 0.13% Week 0.92% Year 47.76%
+You are staking 0.00 WFTM ($0.00), 0.00% of the pool.
+Stake 0.00 WFTM - Fee 4%
+Unstake 0.00 WFTM
+Claim 0.00 CLEVER ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - BOO Price: $25.24 Market Cap: $212,953,725.48 
+Staked: 11.1494 BOO ($281.41)
+CLEVER Per Week: 157.97 ($3.74)
+APR: Day 0.19% Week 1.33% Year 69.09%
+You are staking 0.00 BOO ($0.00), 0.00% of the pool.
+Stake 0.00 BOO - Fee 4%
+Unstake 0.00 BOO
+Claim 0.00 CLEVER ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - SPIRIT Price: $0.13 Market Cap: $68,236,119.35 
+Staked: 472.8112 SPIRIT ($62.41)
+CLEVER Per Week: 135.40 ($3.21)
+APR: Day 0.73% Week 5.14% Year 267.04%
+You are staking 0.00 SPIRIT ($0.00), 0.00% of the pool.
+Stake 0.00 SPIRIT - Fee 4%
+Unstake 0.00 SPIRIT
+Claim 0.00 CLEVER ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - USDC Price: $1.01 Market Cap: $1,744,757,684.97 
+Staked: 237.8332 USDC ($240.21)
+CLEVER Per Week: 157.97 ($3.74)
+APR: Day 0.22% Week 1.56% Year 80.95%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 CLEVER ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - DAI Price: $1.00 Market Cap: $704,467,481.12 
+Staked: 250.0042 DAI ($250.00)
+CLEVER Per Week: 157.97 ($3.74)
+APR: Day 0.21% Week 1.50% Year 77.78%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 CLEVER ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - fUSDT Price: $1.00 Market Cap: $350,441,901.33 
+Staked: 197.6739 fUSDT ($197.67)
+CLEVER Per Week: 157.97 ($3.74)
+APR: Day 0.27% Week 1.89% Year 98.36%
+You are staking 0.00 fUSDT ($0.00), 0.00% of the pool.
+Stake 0.00 fUSDT - Fee 4%
+Unstake 0.00 fUSDT
+Claim 0.00 CLEVER ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - BTC Price: $36,161.00 Market Cap: $622,215,317.53 
+Staked: 0.0027 BTC ($96.23)
+CLEVER Per Week: 157.97 ($3.74)
+APR: Day 0.56% Week 3.89% Year 202.06%
+You are staking 0.00 BTC ($0.00), 0.00% of the pool.
+Stake 0.00 BTC - Fee 4%
+Unstake 0.00 BTC
+Claim 0.00 CLEVER ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - ETH Price: $2,366.73 Market Cap: $1,129,116,088.55 
+Staked: 0.0954 ETH ($225.74)
+CLEVER Per Week: 157.97 ($3.74)
+APR: Day 0.24% Week 1.66% Year 86.13%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 CLEVER ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - BNB Price: $364.97 Market Cap: $13,837,118.84 
+Staked: 0.3516 BNB ($128.33)
+CLEVER Per Week: 157.97 ($3.74)
+APR: Day 0.42% Week 2.91% Year 151.52%
+You are staking 0.00 BNB ($0.00), 0.00% of the pool.
+Stake 0.00 BNB - Fee 4%
+Unstake 0.00 BNB
+Claim 0.00 CLEVER ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - TOMB Price: $2.01 Market Cap: $360,561,425.70 
+Staked: 34.4321 TOMB ($69.21)
+CLEVER Per Week: 112.84 ($2.67)
+APR: Day 0.55% Week 3.86% Year 200.68%
+You are staking 0.00 TOMB ($0.00), 0.00% of the pool.
+Stake 0.00 TOMB - Fee 4%
+Unstake 0.00 TOMB
+Claim 0.00 CLEVER ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - GEIST Price: $0.22 Market Cap: $50,088,015.54 
+Staked: 102.3366 GEIST ($22.99)
+CLEVER Per Week: 112.84 ($2.67)
+APR: Day 1.66% Week 11.62% Year 604.07%
+You are staking 0.00 GEIST ($0.00), 0.00% of the pool.
+Stake 0.00 GEIST - Fee 4%
+Unstake 0.00 GEIST
+Claim 0.00 CLEVER ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - [WFTM]-[CLEVER] SPOOKY LP [+] [-] [<=>] Price: $0.44 TVL: $6,084.06
+WFTM Price: $2.03
+CLEVER Price: $0.02
+Staked: 2177.9456 spLP ($968.85)
+CLEVER Per Week: 1895.64 ($44.87)
+APR: Day 0.66% Week 4.63% Year 240.83%
+You are staking 0.00 [WFTM]-[CLEVER] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[CLEVER] SPOOKY LP
+Unstake 0.00 [WFTM]-[CLEVER] SPOOKY LP
+Claim 0.00 CLEVER ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [USDC]-[CLEVER] SPOOKY LP [+] [-] [<=>] Price: $318,594.57 TVL: $2,823.85
+USDC Price: $1.01
+CLEVER Price: $0.02
+Staked: 0.0088 spLP ($2,810.70)
+CLEVER Per Week: 1624.84 ($38.46)
+APR: Day 0.20% Week 1.37% Year 71.16%
+You are staking 0.00 [USDC]-[CLEVER] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[CLEVER] SPOOKY LP
+Unstake 0.00 [USDC]-[CLEVER] SPOOKY LP
+Claim 0.00 CLEVER ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - CLEVER Price: $0.02 Market Cap: $7,019.95 
+Staked: 27739.7752 CLEVER ($656.62)
+CLEVER Per Week: 1083.22 ($25.64)
+APR: Day 0.56% Week 3.90% Year 203.06%
+You are staking 0.00 CLEVER ($0.00), 0.00% of the pool.
+Stake 0.00 CLEVER
+Unstake 0.00 CLEVER
+Claim 0.00 CLEVER ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - [WFTM]-[TREAT] SPOOKY LP [+] [-] [<=>] Price: $3.58 TVL: $10,508.54
+WFTM Price: $2.03
+TREAT Price: $1.27
+Staked: 8.9560 spLP ($32.09)
+CLEVER Per Week: 157.97 ($3.74)
+APR: Day 1.66% Week 11.65% Year 605.86%
+You are staking 0.00 [WFTM]-[TREAT] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[TREAT] SPOOKY LP - Fee 2%
+Unstake 0.00 [WFTM]-[TREAT] SPOOKY LP
+Claim 0.00 CLEVER ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - TREAT Price: $1.27 Market Cap: $25,475.79 
+Staked: 0.4076 TREAT ($0.52)
+CLEVER Per Week: 112.84 ($2.67)
+APR: Day 73.49% Week 514.44% Year 26751.04%
+You are staking 0.00 TREAT ($0.00), 0.00% of the pool.
+Stake 0.00 TREAT - Fee 2%
+Unstake 0.00 TREAT
+Claim 0.00 CLEVER ($0.00)
+Staking or unstaking also claims rewards.
+
+29 - MUSHY Price: $0.00 Market Cap: $0.00 
+Staked: 5589.5593 MUSHY ($0.00)
+CLEVER Per Week: 225.67 ($5.34)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 MUSHY ($0.00), NaN% of the pool.
+Stake 0.00 MUSHY
+Unstake 0.00 MUSHY
+Claim 0.00 CLEVER ($0.00)
+Staking or unstaking also claims rewards.
+
+30 - [CLEVER]-[ETH] SPOOKY LP [+] [-] [<=>] Price: $15.44 TVL: $68.57
+CLEVER Price: $0.02
+ETH Price: $2,366.73
+Staked: 3.4815 spLP ($53.74)
+CLEVER Per Week: 564.18 ($13.35)
+APR: Day 3.55% Week 24.85% Year 1292.28%
+You are staking 0.00 [CLEVER]-[ETH] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CLEVER]-[ETH] SPOOKY LP
+Unstake 0.00 [CLEVER]-[ETH] SPOOKY LP
+Claim 0.00 CLEVER ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $9,181.51

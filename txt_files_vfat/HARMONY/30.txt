@@ -1,0 +1,39 @@
+*************** 👨‍🌾 UNOFFICIAL ELK.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://elk.finance
+********************************************************************************
+
+Fri Jan 28 2022 01:05:16 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+[WONE]-[ELK] ELK LP [+] [-] [<=>] Price: $1.48 TVL: $360,983.71
+WONE Price: $0.18
+ELK Price: $2.44
+Staked: 229115.9234 ELP ($338,252.85)
+ELK Per Week: 2450.00 ($5,978.01)
+APR: Day 0.25% Week 1.77% Year 91.90%
+You are staking 0.000000 [WONE]-[ELK] ELK LP $0.00 (0.00% of the pool).
+Harmony Explorer
+Stake 0.000000 [WONE]-[ELK] ELK LP
+Unstake 0.000000 [WONE]-[ELK] ELK LP
+Claim 0.000000 ELK ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[ELK]-[1DAI] ELK LP [+] [-] [<=>] Price: $3.49 TVL: $65,255.09
+ELK Price: $2.44
+1DAI Price: $1.01
+Staked: 18640.3324 ELP ($65,042.96)
+ELK Per Week: 588.00 ($1,434.72)
+APR: Day 0.32% Week 2.21% Year 114.70%
+You are staking 0.000000 [ELK]-[1DAI] ELK LP $0.00 (0.00% of the pool).
+Harmony Explorer
+Stake 0.000000 [ELK]-[1DAI] ELK LP
+Unstake 0.000000 [ELK]-[1DAI] ELK LP
+Claim 0.000000 ELK ($0.00)
+Revoke (set approval to 0)
+Exit
+
+Total staked: $403,295.81

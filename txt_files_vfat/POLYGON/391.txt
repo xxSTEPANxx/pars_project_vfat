@@ -6,191 +6,20 @@ INFO  : https://skullfinance.app
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Thu Dec 16 2021 06:09:12 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 23:57:01 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
+Staking Contract
 Found 17 pools.
 Showing incentivized pools only.
-Finished reading smart contracts.
-0 - [USDC]-[SKULL] Uni LP [+] [-] [<=>] Price: $13,698.70 TVL: $0.09
-USDC Price: $1.00
-SKULL Price: $0.0000448256
-Staked: 0.0000 UNI-V2 ($0.09)
-SKULL Per Week: 1692.00 ($0.08)
-APR: Day 11.59% Week 81.16% Year 4220.46%
-You are staking 0.00 [USDC]-[SKULL] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[SKULL] Uni LP
-Unstake 0.00 [USDC]-[SKULL] Uni LP
-Claim 0.00 SKULL ($0.00)
-Staking or unstaking also claims rewards.
-
-1 - UNI-V2 Price: $0.00 Market Cap: $0.00 
-Staked: 31.4359 UNI-V2 ($0.00)
-SKULL Per Week: 1692.00 ($0.08)
-APR: Day NaN% Week NaN% Year NaN%
-You are staking 0.00 UNI-V2 ($0.00), NaN% of the pool.
-Stake 0.00 UNI-V2
-Unstake 0.00 UNI-V2
-Claim 0.00 SKULL ($0.00)
-Staking or unstaking also claims rewards.
-
-2 - [SKULL]-[WETH] Uni LP [+] [-] [<=>] Price: $0.87 TVL: $0.01
-SKULL Price: $0.0000448256
-WETH Price: $4,040.21
-Staked: 0.0159 UNI-V2 ($0.01)
-SKULL Per Week: 1692.00 ($0.08)
-APR: Day 78.38% Week 548.66% Year 28530.07%
-You are staking 0.00 [SKULL]-[WETH] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [SKULL]-[WETH] Uni LP
-Unstake 0.00 [SKULL]-[WETH] Uni LP
-Claim 0.00 SKULL ($0.00)
-Staking or unstaking also claims rewards.
-
-3 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,859,137.64 TVL: $52,194,801.16
-WMATIC Price: $2.14
-USDC Price: $1.00
-Staked: 0.0000 UNI-V2 ($0.00)
-SKULL Per Week: 564.00 ($0.03)
-APR: Day 61641514881.56% Week 431490604170.91% Year 22437511416887.35%
-You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
-Unstake 0.00 [WMATIC]-[USDC] Uni LP
-Claim 0.00 SKULL ($0.00)
-Staking or unstaking also claims rewards.
-
-4 - [USDC]-[WETH] Uni LP [+] [-] [<=>] Price: $188,032,313.16 TVL: $79,045,803.92
-USDC Price: $1.00
-WETH Price: $4,040.21
-Staked: 0.0000 UNI-V2 ($0.00)
-SKULL Per Week: 564.00 ($0.03)
-APR: Day 1920766245.32% Week 13445363717.23% Year 699158913296.02%
-You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
-Unstake 0.00 [USDC]-[WETH] Uni LP
-Claim 0.00 SKULL ($0.00)
-Staking or unstaking also claims rewards.
-
-5 - SKULL Price: $0.0000448256 Market Cap: $1.93 [%]
-Staked: 25754.7858 SKULL ($1.15)
-SKULL Per Week: 1128.00 ($0.05)
-APR: Day 0.63% Week 4.38% Year 227.75%
-You are staking 0.00 SKULL ($0.00), 0.00% of the pool.
-Stake 0.00 SKULL
-Unstake 0.00 SKULL
-Claim 0.00 SKULL ($0.00)
-Staking or unstaking also claims rewards.
-
-6 - WMATIC Price: $2.14 Market Cap: $651,065,833.32 [%]
-Staked: 0.0000 WMATIC ($0.00)
-SKULL Per Week: 564.00 ($0.03)
-APR: Day 168769215019927040.00% Week 1181384505139489280.00% Year 61431994267253440512.00%
-You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
-Stake 0.00 WMATIC - Fee 4%
-Unstake 0.00 WMATIC
-Claim 0.00 SKULL ($0.00)
-Staking or unstaking also claims rewards.
-
-7 - PolyDoge Price: $0.0000000240 Market Cap: $24,039,000.00 [%]
-Staked: 0.0960 PolyDoge ($0.00)
-SKULL Per Week: 564.00 ($0.03)
-APR: Day 156501813.09% Week 1095512691.62% Year 56966659963.98%
-You are staking 0.00 PolyDoge ($0.00), 0.00% of the pool.
-Stake 0.00 PolyDoge - Fee 4%
-Unstake 0.00 PolyDoge
-Claim 0.00 SKULL ($0.00)
-Staking or unstaking also claims rewards.
-
-8 - WETH Price: $4,040.21 Market Cap: $1,793,329,469.75 [%]
-Staked: 0.0001 WETH ($0.31)
-SKULL Per Week: 564.00 ($0.03)
-APR: Day 1.16% Week 8.12% Year 422.13%
-You are staking 0.00 WETH ($0.00), 0.00% of the pool.
-Stake 0.00 WETH - Fee 4%
-Unstake 0.00 WETH
-Claim 0.00 SKULL ($0.00)
-Staking or unstaking also claims rewards.
-
-9 - WBTC Price: $49,080.00 Market Cap: $497,861,708.11 [%]
-Staked: 0.0000 WBTC ($0.00)
-SKULL Per Week: 564.00 ($0.03)
-APR: Day Infinity% Week Infinity% Year Infinity%
-You are staking 0.00 WBTC ($0.00), NaN% of the pool.
-Stake 0.00 WBTC - Fee 4%
-Unstake 0.00 WBTC
-Claim 0.00 SKULL ($0.00)
-Staking or unstaking also claims rewards.
-
-10 - AAVE Price: $175.81 Market Cap: $47,858,885.43 [%]
-Staked: 0.0000 AAVE ($0.00)
-SKULL Per Week: 564.00 ($0.03)
-APR: Day Infinity% Week Infinity% Year Infinity%
-You are staking 0.00 AAVE ($0.00), NaN% of the pool.
-Stake 0.00 AAVE - Fee 4%
-Unstake 0.00 AAVE
-Claim 0.00 SKULL ($0.00)
-Staking or unstaking also claims rewards.
-
-11 - QUICK Price: $251.52 Market Cap: $240,334,422.50 [%]
-Staked: 0.0002 QUICK ($0.05)
-SKULL Per Week: 564.00 ($0.03)
-APR: Day 6.75% Week 47.24% Year 2456.39%
-You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
-Stake 0.00 QUICK - Fee 4%
-Unstake 0.00 QUICK
-Claim 0.00 SKULL ($0.00)
-Staking or unstaking also claims rewards.
-
-12 - FISH Price: $0.00 Market Cap: $0.00 
-Staked: 0.1377 FISH ($0.00)
-SKULL Per Week: 564.00 ($0.03)
-APR: Day NaN% Week NaN% Year NaN%
-You are staking 0.00 FISH ($0.00), NaN% of the pool.
-Stake 0.00 FISH - Fee 4%
-Unstake 0.00 FISH
-Claim 0.00 SKULL ($0.00)
-Staking or unstaking also claims rewards.
-
-13 - LINK Price: $20.00 Market Cap: $34,688,064.01 [%]
-Staked: 0.0000 LINK ($0.00)
-SKULL Per Week: 564.00 ($0.03)
-APR: Day 18058306007132192.00% Week 126408142049925344.00% Year 6573223386596117504.00%
-You are staking 0.00 LINK ($0.00), 0.00% of the pool.
-Stake 0.00 LINK - Fee 4%
-Unstake 0.00 LINK
-Claim 0.00 SKULL ($0.00)
-Staking or unstaking also claims rewards.
-
-14 - USDC Price: $1.00 Market Cap: $943,523,274.91 [%]
-Staked: 5.2608 USDC ($5.26)
-SKULL Per Week: 564.00 ($0.03)
-APR: Day 0.07% Week 0.48% Year 24.99%
-You are staking 0.00 USDC ($0.00), 0.00% of the pool.
-Stake 0.00 USDC - Fee 4%
-Unstake 0.00 USDC
-Claim 0.00 SKULL ($0.00)
-Staking or unstaking also claims rewards.
-
-15 - DAI Price: $1.00 Market Cap: $374,131,149.78 [%]
-Staked: 10.5550 DAI ($10.55)
-SKULL Per Week: 564.00 ($0.03)
-APR: Day 0.03% Week 0.24% Year 12.46%
-You are staking 0.00 DAI ($0.00), 0.00% of the pool.
-Stake 0.00 DAI - Fee 4%
-Unstake 0.00 DAI
-Claim 0.00 SKULL ($0.00)
-Staking or unstaking also claims rewards.
-
-16 - USDT Price: $1.00 Market Cap: $313,461,279.68 [%]
-Staked: 0.0000 USDT ($0.00)
-SKULL Per Week: 564.00 ($0.03)
-APR: Day Infinity% Week Infinity% Year Infinity%
-You are staking 0.00 USDT ($0.00), NaN% of the pool.
-Stake 0.00 USDT - Fee 4%
-Unstake 0.00 USDT
-Claim 0.00 SKULL ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $17.44
+{
+  "code": -32603,
+  "message": "Non-200 status code: '400'",
+  "data": {
+    "error": "Unable to verify your data submission."
+  }
+}
+Oops something went wrong. Try refreshing the page.

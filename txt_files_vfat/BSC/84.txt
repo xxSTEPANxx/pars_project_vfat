@@ -1,0 +1,139 @@
+*************** 👑 UNOFFICIAL ROYALSWAP FARMING CALCULATOR 👑 ***************
+INFO  : https://royalswap.io
+********************************************************************************
+
+Thu Jan 27 2022 20:29:51 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 11 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [ROYA]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.03 TVL: $300.28
+ROYA Price: $0.000158
+BUSD Price: $1.00
+Staked: 7130.3233 Cake-LP ($183.95)
+ROYA Per Week: 44800.00 ($7.08)
+APR: Day 0.55% Week 3.85% Year 200.10%
+You are staking 0.00 [ROYA]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ROYA]-[BUSD] Cake LP
+Unstake 0.00 [ROYA]-[BUSD] Cake LP
+Claim 0.00 ROYA ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [ROYA]-[WBNB] Cake LP [+] [-] [<=>] Price: $0.50 TVL: $268.66
+ROYA Price: $0.000158
+WBNB Price: $370.91
+Staked: 243.5350 Cake-LP ($122.01)
+ROYA Per Week: 74666.67 ($11.80)
+APR: Day 1.38% Week 9.67% Year 502.78%
+You are staking 0.00 [ROYA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ROYA]-[WBNB] Cake LP
+Unstake 0.00 [ROYA]-[WBNB] Cake LP
+Claim 0.00 ROYA ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $66.08 TVL: $2,138,308.69
+WBNB Price: $370.91
+BUSD Price: $1.00
+Staked: 2.0404 Cake-LP ($134.83)
+ROYA Per Week: 11200.00 ($1.77)
+APR: Day 0.19% Week 1.31% Year 68.25%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 ROYA ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $8,251.76 TVL: $299,875.29
+BTCB Price: $36,472.00
+WBNB Price: $370.91
+Staked: 0.0100 Cake-LP ($82.52)
+ROYA Per Week: 7466.67 ($1.18)
+APR: Day 0.20% Week 1.43% Year 74.34%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 ROYA ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,207.64 TVL: $481,715.62
+ETH Price: $2,462.47
+WBNB Price: $370.91
+Staked: 0.0011 Cake-LP ($2.34)
+ROYA Per Week: 7466.67 ($1.18)
+APR: Day 7.22% Week 50.52% Year 2626.97%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 ROYA ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [DOT]-[WBNB] Cake LP [+] [-] [<=>] Price: $180.08 TVL: $322,676.96
+DOT Price: $18.00
+WBNB Price: $370.91
+Staked: 0.2300 Cake-LP ($41.42)
+ROYA Per Week: 7466.67 ($1.18)
+APR: Day 0.41% Week 2.85% Year 148.12%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 ROYA ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.17 TVL: $3,556,777.20
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 70.4047 Cake-LP ($152.85)
+ROYA Per Week: 7466.67 ($1.18)
+APR: Day 0.11% Week 0.77% Year 40.14%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 ROYA ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - ROYA Price: $0.000158 Market Cap: $698.71 [%]
+Staked: 1981092.2011 ROYA ($313.01)
+ROYA Per Week: 18666.67 ($2.95)
+APR: Day 0.13% Week 0.94% Year 49.00%
+You are staking 0.00 ROYA ($0.00), 0.00% of the pool.
+Stake 0.00 ROYA
+Unstake 0.00 ROYA
+Claim 0.00 ROYA ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - BUSD Price: $1.00 Market Cap: $4,850,310,546.72 [%]
+Staked: 139.6292 BUSD ($139.61)
+ROYA Per Week: 7466.67 ($1.18)
+APR: Day 0.12% Week 0.85% Year 43.94%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 ROYA ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - WBNB Price: $370.91 Market Cap: $1,936,681,850.22 [%]
+Staked: 5.3563 WBNB ($1,986.71)
+ROYA Per Week: 7466.67 ($1.18)
+APR: Day 0.01% Week 0.06% Year 3.09%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 ROYA ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - ETH Price: $2,462.47 Market Cap: $3,459,770,350.00 [%]
+Staked: 0.0131 ETH ($32.29)
+ROYA Per Week: 7466.67 ($1.18)
+APR: Day 0.52% Week 3.65% Year 190.00%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 ROYA ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $3,191.53

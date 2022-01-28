@@ -1,0 +1,77 @@
+********************************* xDAI **********************************
+    
+*************** 👨‍🌾 UNOFFICIAL LEVINSWAP CALCULATOR 👨‍🌾 ************
+INFO  : https://wiki.levinswap.org/
+EXCHANGE  : https://app.levinswap.org/
+FARM  : https://farm.levinswap.org/
+STAKE  : https://stake.levinswap.org/
+*************************************************************************
+
+Fri Jan 28 2022 00:05:17 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Found 28 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [LEVIN]-[WXDAI] Uni LP [+] [-] [<=>] Price: $0.76 TVL: $12,760.33
+LEVIN Price: $0.12
+WXDAI Price: $1.00
+Staked: 16191.6703 UNI-V2 ($12,249.34)
+LEVIN Per Week: 16128 ($1,899.43)
+APR: Day 2.22% Week 15.51% Year 806.33%
+You are staking 0 [LEVIN]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [LEVIN]-[WXDAI] Uni LP
+Unstake 0 [LEVIN]-[WXDAI] Uni LP
+Claim 0 LEVIN ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [STAKE]-[WXDAI] Uni LP [+] [-] [<=>] Price: $6.20 TVL: $42,557.51
+STAKE Price: $8.60
+WXDAI Price: $1.00
+Staked: 6831.9293 UNI-V2 ($42,345.59)
+LEVIN Per Week: 4608 ($542.69)
+APR: Day 0.18% Week 1.28% Year 66.64%
+You are staking 0 [STAKE]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [STAKE]-[WXDAI] Uni LP
+Unstake 0 [STAKE]-[WXDAI] Uni LP
+Claim 0 LEVIN ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [LEVIN]-[STAKE] Uni LP [+] [-] [<=>] Price: $2.10 TVL: $4,174.47
+LEVIN Price: $0.12
+STAKE Price: $8.60
+Staked: 1932.1927 UNI-V2 ($4,063.84)
+LEVIN Per Week: 6912 ($814.04)
+APR: Day 2.86% Week 20.03% Year 1041.63%
+You are staking 0 [LEVIN]-[STAKE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [LEVIN]-[STAKE] Uni LP
+Unstake 0 [LEVIN]-[STAKE] Uni LP
+Claim 0 LEVIN ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [LEVIN]-[WETH] Uni LP [+] [-] [<=>] Price: $37.01 TVL: $4,324.89
+LEVIN Price: $0.12
+WETH Price: $2,359.36
+Staked: 114.9916 UNI-V2 ($4,255.45)
+LEVIN Per Week: 6912 ($814.04)
+APR: Day 2.73% Week 19.13% Year 994.73%
+You are staking 0 [LEVIN]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [LEVIN]-[WETH] Uni LP
+Unstake 0 [LEVIN]-[WETH] Uni LP
+Claim 0 LEVIN ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [LEVIN]-[USDC] Uni LP [+] [-] [<=>] Price: $723,733.11 TVL: $11,382.74
+LEVIN Price: $0.12
+USDC Price: $1.00
+Staked: 0.0155 UNI-V2 ($11,217.84)
+LEVIN Per Week: 13824 ($1,628.08)
+APR: Day 2.07% Week 14.51% Year 754.69%
+You are staking 0 [LEVIN]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [LEVIN]-[USDC] Uni LP
+Unstake 0 [LEVIN]-[USDC] Uni LP
+Claim 0 LEVIN ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $74,132.06

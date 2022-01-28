@@ -1,0 +1,111 @@
+*************** 👨‍🌾 UNOFFICIAL KSWAP.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://kswap.finance
+**********************************************************************************
+
+Fri Jan 28 2022 01:07:03 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 33 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [USDT]-[BTCK] Uni LP [+] [-] [<=>] Price: $380.91 TVL: $125,599.41
+USDT Price: $1.01
+BTCK Price: $35,896.00
+Staked: 329.2920 KSwapLP ($125,429.02)
+KST Per Week: 163018.87 ($564.98)
+APR: Day 0.06% Week 0.45% Year 23.42%
+You are staking 0.00 [USDT]-[BTCK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BTCK] Uni LP - Fee 183.5%
+Unstake 0.00 [USDT]-[BTCK] Uni LP
+Claim 0.00 KST ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [USDT]-[ETHK] Uni LP [+] [-] [<=>] Price: $97.93 TVL: $99,734.77
+USDT Price: $1.01
+ETHK Price: $2,372.91
+Staked: 1001.2576 KSwapLP ($98,053.62)
+KST Per Week: 163018.87 ($564.98)
+APR: Day 0.08% Week 0.58% Year 29.96%
+You are staking 0.00 [USDT]-[ETHK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[ETHK] Uni LP - Fee 478%
+Unstake 0.00 [USDT]-[ETHK] Uni LP
+Claim 0.00 KST ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [BTCK]-[ETHK] Uni LP [+] [-] [<=>] Price: $18,462.02 TVL: $403,407.16
+BTCK Price: $35,896.00
+ETHK Price: $2,372.91
+Staked: 21.8374 KSwapLP ($403,162.25)
+KST Per Week: 163018.87 ($564.98)
+APR: Day 0.02% Week 0.14% Year 7.29%
+You are staking 0.00 [BTCK]-[ETHK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCK]-[ETHK] Uni LP - Fee 531.56%
+Unstake 0.00 [BTCK]-[ETHK] Uni LP
+Claim 0.00 KST ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDT]-[WOKT] Uni LP [+] [-] [<=>] Price: $12.85 TVL: $100,842.57
+USDT Price: $1.01
+WOKT Price: $40.84
+Staked: 7826.7875 KSwapLP ($100,556.10)
+KST Per Week: 163018.87 ($564.98)
+APR: Day 0.08% Week 0.56% Year 29.22%
+You are staking 0.00 [USDT]-[WOKT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WOKT] Uni LP - Fee 18.86%
+Unstake 0.00 [USDT]-[WOKT] Uni LP
+Claim 0.00 KST ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [WOKT]-[OKB] Uni LP [+] [-] [<=>] Price: $58.55 TVL: $1,259,451.11
+WOKT Price: $40.84
+OKB Price: $20.86
+Staked: 21506.9535 KSwapLP ($1,259,167.39)
+KST Per Week: 163018.87 ($564.98)
+APR: Day 0.01% Week 0.04% Year 2.33%
+You are staking 0.00 [WOKT]-[OKB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WOKT]-[OKB] Uni LP - Fee 336.13%
+Unstake 0.00 [WOKT]-[OKB] Uni LP
+Claim 0.00 KST ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [USDT]-[OKB] Uni LP [+] [-] [<=>] Price: $9.18 TVL: $96,215.68
+USDT Price: $1.01
+OKB Price: $20.86
+Staked: 10397.8847 KSwapLP ($95,464.22)
+KST Per Week: 163018.87 ($564.98)
+APR: Day 0.08% Week 0.59% Year 30.77%
+You are staking 0.00 [USDT]-[OKB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[OKB] Uni LP - Fee 49.96%
+Unstake 0.00 [USDT]-[OKB] Uni LP
+Claim 0.00 KST ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [USDT]-[KST] Uni LP [+] [-] [<=>] Price: $0.12 TVL: $256,535.51
+USDT Price: $1.01
+KST Price: $0.003466
+Staked: 2163374.4830 KSwapLP ($255,995.76)
+KST Per Week: 2119245.28 ($7,344.74)
+APR: Day 0.41% Week 2.87% Year 149.19%
+You are staking 0.00 [USDT]-[KST] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[KST] Uni LP - Fee 606.17%
+Unstake 0.00 [USDT]-[KST] Uni LP
+Claim 0.00 KST ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [WOKT]-[KST] Uni LP [+] [-] [<=>] Price: $0.75 TVL: $356,922.66
+WOKT Price: $40.84
+KST Price: $0.003466
+Staked: 471328.5720 KSwapLP ($355,226.87)
+KST Per Week: 2119245.28 ($7,344.74)
+APR: Day 0.30% Week 2.07% Year 107.52%
+You are staking 0.00 [WOKT]-[KST] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WOKT]-[KST] Uni LP - Fee 328.9%
+Unstake 0.00 [WOKT]-[KST] Uni LP
+Claim 0.00 KST ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $2,693,055.25

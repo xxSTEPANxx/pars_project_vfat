@@ -1,0 +1,211 @@
+*************** 👨‍🌾 UNOFFICIAL MinuDuck FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://miniduck.finance
+****************************************************************************************
+
+Thu Jan 27 2022 21:32:01 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 18 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [MiniDuck]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $4.16
+MiniDuck Price: $0.0000000010
+BUSD Price: $1.00
+Staked: 64801.9611 Cake-LP ($4.15)
+MiniDuck Per Week: 465230769.23 ($0.46)
+APR: Day 1.60% Week 11.18% Year 581.28%
+You are staking 0.00 [MiniDuck]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MiniDuck]-[BUSD] Cake LP
+Unstake 0.00 [MiniDuck]-[BUSD] Cake LP
+Claim 0.00 MiniDuck ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WBNB]-[MiniDuck] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $2.71
+WBNB Price: $368.61
+MiniDuck Price: $0.0000000010
+Staked: 2187.6676 Cake-LP ($2.68)
+MiniDuck Per Week: 325661538.46 ($0.32)
+APR: Day 1.73% Week 12.10% Year 629.28%
+You are staking 0.00 [WBNB]-[MiniDuck] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[MiniDuck] Cake LP
+Unstake 0.00 [WBNB]-[MiniDuck] Cake LP
+Claim 0.00 MiniDuck ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.42 TVL: $345,944,090.21
+WBNB Price: $368.61
+BUSD Price: $1.00
+Staked: 10.4105 Cake-LP ($493.63)
+MiniDuck Per Week: 116307692.31 ($0.12)
+APR: Day 0.00% Week 0.02% Year 1.22%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 2%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 MiniDuck ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $296,899,479.64
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 6.1616 Cake-LP ($12.90)
+MiniDuck Per Week: 69784615.38 ($0.07)
+APR: Day 0.08% Week 0.54% Year 28.04%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 2%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 MiniDuck ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,035.99 TVL: $74,175,737.94
+ETH Price: $2,434.69
+WBNB Price: $368.61
+Staked: 0.0000 Cake-LP ($0.00)
+MiniDuck Per Week: 116307692.31 ($0.12)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 2%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 MiniDuck ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $7,731.81 TVL: $68,375,154.17
+BTCB Price: $36,133.00
+WBNB Price: $368.61
+Staked: 0.0003 Cake-LP ($2.29)
+MiniDuck Per Week: 93046153.85 ($0.09)
+APR: Day 0.58% Week 4.04% Year 210.29%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 2%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 MiniDuck ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [WBNB]-[LINK] Cake LP [+] [-] [<=>] Price: $155.79 TVL: $10,363,217.99
+WBNB Price: $368.61
+LINK Price: $14.99
+Staked: 0.0000 Cake-LP ($0.00)
+MiniDuck Per Week: 93046153.85 ($0.09)
+APR: Day 159364.43% Week 1115551.04% Year 58008654.29%
+You are staking 0.00 [WBNB]-[LINK] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[LINK] Cake LP - Fee 2%
+Unstake 0.00 [WBNB]-[LINK] Cake LP
+Claim 0.00 MiniDuck ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $105.28 TVL: $200,452,895.77
+Cake Price: $6.97
+WBNB Price: $368.61
+Staked: 12.6503 Cake-LP ($1,331.89)
+MiniDuck Per Week: 69784615.38 ($0.07)
+APR: Day 0.00% Week 0.01% Year 0.27%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 2%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 MiniDuck ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - MiniDuck Price: $0.0000000010 Market Cap: $5.01 [%]
+Staked: 209403162.7798 MiniDuck ($0.21)
+MiniDuck Per Week: 155076923.08 ($0.15)
+APR: Day 10.58% Week 74.06% Year 3850.94%
+You are staking 0.00 MiniDuck ($0.00), 0.00% of the pool.
+Stake 0.00 MiniDuck
+Unstake 0.00 MiniDuck
+Claim 0.00 MiniDuck ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - BUSD Price: $1.00 Market Cap: $4,839,158,099.12 [%]
+Staked: 218.4425 BUSD ($217.91)
+MiniDuck Per Week: 46523076.92 ($0.05)
+APR: Day 0.00% Week 0.02% Year 1.11%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 2%
+Unstake 0.00 BUSD
+Claim 0.00 MiniDuck ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - WBNB Price: $368.61 Market Cap: $1,924,187,859.64 [%]
+Staked: 0.9443 WBNB ($348.08)
+MiniDuck Per Week: 62030769.23 ($0.06)
+APR: Day 0.00% Week 0.02% Year 0.92%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 2%
+Unstake 0.00 WBNB
+Claim 0.00 MiniDuck ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - USDT Price: $1.00 Market Cap: $3,879,997,922.18 [%]
+Staked: 3889.2430 USDT ($3,889.24)
+MiniDuck Per Week: 46523076.92 ($0.05)
+APR: Day 0.00% Week 0.00% Year 0.06%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 2%
+Unstake 0.00 USDT
+Claim 0.00 MiniDuck ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - USDC Price: $1.00 Market Cap: $1,779,000,000.00 [%]
+Staked: 13.0536 USDC ($13.05)
+MiniDuck Per Week: 46523076.92 ($0.05)
+APR: Day 0.05% Week 0.36% Year 18.47%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 2%
+Unstake 0.00 USDC
+Claim 0.00 MiniDuck ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - DAI Price: $1.00 Market Cap: $262,000,000.00 [%]
+Staked: 0.0000 DAI ($0.00)
+MiniDuck Per Week: 46523076.92 ($0.05)
+APR: Day 67347.72% Week 471434.06% Year 24514571.05%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 2%
+Unstake 0.00 DAI
+Claim 0.00 MiniDuck ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - BTCB Price: $36,133.00 Market Cap: $4,064,998,633.00 [%]
+Staked: 0.0000 BTCB ($0.00)
+MiniDuck Per Week: 77538461.54 ($0.08)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 BTCB ($0.00), NaN% of the pool.
+Stake 0.00 BTCB - Fee 2%
+Unstake 0.00 BTCB
+Claim 0.00 MiniDuck ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - ETH Price: $2,434.69 Market Cap: $3,420,739,450.00 [%]
+Staked: 0.0000 ETH ($0.00)
+MiniDuck Per Week: 77538461.54 ($0.08)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 ETH ($0.00), NaN% of the pool.
+Stake 0.00 ETH - Fee 2%
+Unstake 0.00 ETH
+Claim 0.00 MiniDuck ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - ADA Price: $1.03 Market Cap: $288,400,000.00 [%]
+Staked: 0.0000 ADA ($0.00)
+MiniDuck Per Week: 62030769.23 ($0.06)
+APR: Day 211000.74% Week 1477005.20% Year 76804270.50%
+You are staking 0.00 ADA ($0.00), 0.00% of the pool.
+Stake 0.00 ADA - Fee 2%
+Unstake 0.00 ADA
+Claim 0.00 MiniDuck ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - Cake Price: $6.97 Market Cap: $4,286,319,897.14 [%]
+Staked: 94.0099 Cake ($655.25)
+MiniDuck Per Week: 46523076.92 ($0.05)
+APR: Day 0.00% Week 0.01% Year 0.37%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 2%
+Unstake 0.00 Cake
+Claim 0.00 MiniDuck ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $6,971.29

@@ -1,0 +1,25 @@
+*************** 👨‍🌾 UNOFFICIAL SYNAPSE PROTOCOL FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://synapseprotocol.com
+*************************************************************************************
+
+Thu Jan 27 2022 21:43:11 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 2 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+1 - nUSD-LP Price: $1.00 Market Cap: $69,316,641.20 [%]
+Staked: 67806422.5245 nUSD-LP ($67,806,422.52)
+SYN Per Week: 55260.39 ($114,941.60)
+APR: Day 0.02% Week 0.17% Year 8.81%
+You are staking 0.00 nUSD-LP ($0.00), 0.00% of the pool.
+Stake 0.00 nUSD-LP
+Unstake 0.00 nUSD-LP
+Claim 0.00 SYN ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $67,806,422.52

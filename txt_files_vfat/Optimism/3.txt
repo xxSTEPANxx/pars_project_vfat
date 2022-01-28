@@ -1,0 +1,48 @@
+*************** 👨‍🌾 UNOFFICIAL NYAN FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://optinyan.xyz/
+**************************************************************************
+
+WARNING: Staking through vfat is currently broken.
+         Visit https://optinyan.xyz/ to single stake ETH and NYAN!
+
+Fri Jan 28 2022 01:16:44 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+NYAN Price: $0.03 Market Cap: $2,991,395.00 
+Staked: 16803689.8839 NYAN ($502,664.74)
+NYAN Per Week: 3033333.33 ($90,738.98)
+APR: Day 2.58% Week 18.05% Year 938.68%
+You are staking 0.000000 NYAN $0.00 (0.00% of the pool).
+Stake 0.000000 NYAN
+Unstake 0.000000 NYAN
+Claim 0.000000 NYAN ($0.00)
+Revoke (set approval to 0)
+Exit
+
+ETH Price: $2,204.21 Market Cap: $0.00 
+Staked: 0.8300 ETH ($1,829.49)
+NYAN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 ETH $0.00 (0.00% of the pool).
+Please use the official website to stake ETH.
+Unstake 0.000000 ETH
+Claim 0.000000 NYAN ($0.00)
+Exit
+
+[WETH]-[NYAN] Uni LP [+] [-] [<=>] Price: $273.62 TVL: $251,753.08
+WETH Price: $2,204.21
+NYAN Price: $0.03
+Staked: 919.2709 WETH-NYAN-ZS ($251,529.28)
+NYAN Per Week: 3811111.11 ($114,005.39)
+APR: Day 6.47% Week 45.32% Year 2356.89%
+You are staking 0.000000 [WETH]-[NYAN] Uni LP $0.00 (0.00% of the pool).
+Stake 0.000000 [WETH]-[NYAN] Uni LP
+Unstake 0.000000 [WETH]-[NYAN] Uni LP
+Claim 0.000000 NYAN ($0.00)
+Revoke (set approval to 0)
+Exit
+
+Total staked: $756,023.52

@@ -6,129 +6,20 @@ INFO  : https://guppy.finance
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Thu Dec 16 2021 05:58:04 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 23:50:39 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
+Staking Contract
 Found 13 pools.
 Showing incentivized pools only.
-Finished reading smart contracts.
-0 - FRY Price: $0.00 Market Cap: $0.00 
-Staked: 3237992.7656 FRY ($0.00)
-FRY Per Week: 99398.23 ($22.95)
-APR: Day NaN% Week NaN% Year NaN%
-You are staking 0.00 FRY ($0.00), NaN% of the pool.
-Stake 0.00 FRY
-Unstake 0.00 FRY
-Claim 0.00 FRY ($0.00)
-Staking or unstaking also claims rewards.
-
-1 - GUPPY Price: $0.00 Market Cap: $0.00 
-Staked: 1015555.4728 GUPPY ($0.00)
-FRY Per Week: 248495.58 ($57.38)
-APR: Day NaN% Week NaN% Year NaN%
-You are staking 0.00 GUPPY ($0.00), NaN% of the pool.
-Stake 0.00 GUPPY
-Unstake 0.00 GUPPY
-Claim 0.00 FRY ($0.00)
-Staking or unstaking also claims rewards.
-
-2 - WETH Price: $4,037.16 Market Cap: $1,791,978,545.65 [%]
-Staked: 0.0417 WETH ($168.51)
-FRY Per Week: 49699.12 ($11.48)
-APR: Day 0.97% Week 6.81% Year 354.11%
-You are staking 0.00 WETH ($0.00), 0.00% of the pool.
-Stake 0.00 WETH - Fee 2%
-Unstake 0.00 WETH
-Claim 0.00 FRY ($0.00)
-Staking or unstaking also claims rewards.
-
-3 - WMATIC Price: $2.15 Market Cap: $654,654,778.94 [%]
-Staked: 1107.4000 WMATIC ($2,380.91)
-FRY Per Week: 66265.49 ($15.30)
-APR: Day 0.09% Week 0.64% Year 33.42%
-You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
-Stake 0.00 WMATIC - Fee 2%
-Unstake 0.00 WMATIC
-Claim 0.00 FRY ($0.00)
-Staking or unstaking also claims rewards.
-
-4 - USDC Price: $1.00 Market Cap: $943,500,239.53 [%]
-Staked: 11618.2495 USDC ($11,618.25)
-FRY Per Week: 49699.12 ($11.48)
-APR: Day 0.01% Week 0.10% Year 5.14%
-You are staking 0.00 USDC ($0.00), 0.00% of the pool.
-Stake 0.00 USDC - Fee 2%
-Unstake 0.00 USDC
-Claim 0.00 FRY ($0.00)
-Staking or unstaking also claims rewards.
-
-5 - WBTC Price: $49,029.00 Market Cap: $497,344,370.15 [%]
-Staked: 0.0818 WBTC ($4,010.62)
-FRY Per Week: 66265.49 ($15.30)
-APR: Day 0.05% Week 0.38% Year 19.84%
-You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
-Stake 0.00 WBTC - Fee 2%
-Unstake 0.00 WBTC
-Claim 0.00 FRY ($0.00)
-Staking or unstaking also claims rewards.
-
-6 - [WMATIC]-[FRY] Uni LP [+] [-] [<=>] Price: $0.05 TVL: $2,264.33
-WMATIC Price: $2.15
-FRY Price: $0.000231
-Staked: 32815.9143 UNI-V2 ($1,528.58)
-FRY Per Week: 132530.97 ($30.60)
-APR: Day 0.29% Week 2.00% Year 104.10%
-You are staking 0.00 [WMATIC]-[FRY] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[FRY] Uni LP
-Unstake 0.00 [WMATIC]-[FRY] Uni LP
-Claim 0.00 FRY ($0.00)
-Staking or unstaking also claims rewards.
-
-7 - [USDC]-[FRY] Uni LP [+] [-] [<=>] Price: $31,754.88 TVL: $2,439.63
-USDC Price: $1.00
-FRY Price: $0.000231
-Staked: 0.0759 UNI-V2 ($2,411.17)
-FRY Per Week: 165663.72 ($38.25)
-APR: Day 0.23% Week 1.59% Year 82.49%
-You are staking 0.00 [USDC]-[FRY] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[FRY] Uni LP
-Unstake 0.00 [USDC]-[FRY] Uni LP
-Claim 0.00 FRY ($0.00)
-Staking or unstaking also claims rewards.
-
-8 - [GUPPY]-[USDC] Uni LP [+] [-] [<=>] Price: $47,977.09 TVL: $545.01
-GUPPY Price: $0.000524
-USDC Price: $1.00
-Staked: 0.0109 UNI-V2 ($523.92)
-FRY Per Week: 198796.46 ($45.90)
-APR: Day 1.25% Week 8.76% Year 455.57%
-You are staking 0.00 [GUPPY]-[USDC] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [GUPPY]-[USDC] Uni LP
-Unstake 0.00 [GUPPY]-[USDC] Uni LP
-Claim 0.00 FRY ($0.00)
-Staking or unstaking also claims rewards.
-
-11 - GLP (Wrapped [USDC]-[WETH] SLP) Price: $154,624,047.10 TVL: $4,735.21
-Staked: 0.0000 GLP ($4,551.69)
-FRY Per Week: 397592.92 ($91.80)
-APR: Day 0.29% Week 2.02% Year 104.88%
-You are staking 0.00 GLP ($0.00), 0.00% of the pool.
-Stake 0.00 GLP
-Unstake 0.00 GLP
-Claim 0.00 FRY ($0.00)
-Staking or unstaking also claims rewards.
-
-12 - GLP (Wrapped [WMATIC]-[WETH] SLP) Price: $224.50 TVL: $5,554.31
-Staked: 23.3016 GLP ($5,231.31)
-FRY Per Week: 397592.92 ($91.80)
-APR: Day 0.25% Week 1.75% Year 91.25%
-You are staking 0.00 GLP ($0.00), 0.00% of the pool.
-Stake 0.00 GLP
-Unstake 0.00 GLP
-Claim 0.00 FRY ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $32,424.96
+{
+  "code": -32603,
+  "message": "Non-200 status code: '400'",
+  "data": {
+    "error": "Unable to verify your data submission."
+  }
+}
+Oops something went wrong. Try refreshing the page.

@@ -1,0 +1,132 @@
+*************** 👨‍🌾 UNOFFICIAL HUNDRED.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://hundred.finance
+************************************************************************************
+
+Thu Jan 27 2022 21:50:03 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+hUSDC (Wrapped USD Coin (Arb1)) Price: $0.02 TVL: $32,279,584.50
+Staked: 1534987175.0174 hUSDC ($30,690,485.13)
+You are staking 0.0000 hUSDC ($0.00), 0.00% of the pool.
+Deposit 0.000000 hUSDC
+Withdraw 0.000000 hUSDC
+Claim 0.000000 HND ($0.00)
+
+hUSDT (Wrapped Tether USD) Price: $0.02 TVL: $979,887.20
+Staked: 42804572.6882 hUSDT ($858,230.69)
+You are staking 0.0000 hUSDT ($0.00), 0.00% of the pool.
+Deposit 0.000000 hUSDT
+Withdraw 0.000000 hUSDT
+Claim 0.000000 HND ($0.00)
+
+hMIM (Wrapped Magic Internet Money) Price: $0.02 TVL: $3,273,358.27
+Staked: 160936136.5584 hMIM ($3,220,160.91)
+You are staking 0.0000 hMIM ($0.00), 0.00% of the pool.
+Deposit 0.000000 hMIM
+Withdraw 0.000000 hMIM
+Claim 0.000000 HND ($0.00)
+
+hFRAX (Wrapped Frax) Price: $0.02 TVL: $17,494,197.51
+Staked: 664023379.0376 hFRAX ($13,249,496.77)
+You are staking 0.0000 hFRAX ($0.00), 0.00% of the pool.
+Deposit 0.000000 hFRAX
+Withdraw 0.000000 hFRAX
+Claim 0.000000 HND ($0.00)
+
+Total Value Staked: $48,018,373.52
+
+Deposit Market Size : $67,687,194.25
+Borrow Market Size : $6,630,925.18
+TVL : $61,064,621.87
+
+USDC ($1.00)
+Supplied : 32,367,137.61 ($32,370,315.74) at 0.25% APY
+Borrowed : 3,785,158.61 ($3,785,530.28) at 2.36% APY
+Reserves : 2,359.33 ($2,359.56)
+Farming APR Supply 0.00% Borrow 0.00%
+Net APY Supply 0.25% Borrow -2.36%
+
+ETH ($2,424.53)
+Supplied : 3,811.52 ($9,241,134.14) at 0.03% APY
+Borrowed : 150.65 ($365,250.16) at 0.99% APY
+Reserves : 0.01 ($22.33)
+Farming APR Supply 0.00% Borrow 0.00%
+Net APY Supply 0.03% Borrow -0.99%
+
+WBTC ($36,129.00)
+Supplied : 65.00 ($2,348,441.66) at 0.00% APY
+Borrowed : 0.00 ($30.48) at 0.00% APY
+Reserves : 0.00 ($6.45)
+Farming APR Supply 0.00% Borrow 0.00%
+Net APY Supply 0.00% Borrow -0.00%
+
+USDT ($1.00)
+Supplied : 979,887.20 ($980,464.76) at 0.04% APY
+Borrowed : 48,886.96 ($48,915.78) at 1.00% APY
+Reserves : 960.62 ($961.19)
+Farming APR Supply 0.00% Borrow 0.00%
+Net APY Supply 0.04% Borrow -1.00%
+
+LINK ($15.05)
+Supplied : 35,152.41 ($528,891.33) at 0.00% APY
+Borrowed : 46.18 ($694.74) at 0.03% APY
+Reserves : 0.05 ($0.68)
+Farming APR Supply 0.00% Borrow 0.00%
+Net APY Supply 0.00% Borrow -0.03%
+
+SUSHI ($4.06)
+Supplied : 1,073.67 ($4,363.00) at 0.01% APY
+Borrowed : 19.08 ($77.54) at 0.44% APY
+Reserves : 0.00 ($0.02)
+Farming APR Supply 0.00% Borrow 0.00%
+Net APY Supply 0.01% Borrow -0.44%
+
+MIM ($1.00)
+Supplied : 3,284,341.11 ($3,283,223.15) at 3.25% APY
+Borrowed : 1,314,739.55 ($1,314,292.02) at 10.52% APY
+Reserves : 2,457.40 ($2,456.56)
+Farming APR Supply 0.00% Borrow 0.00%
+Net APY Supply 3.25% Borrow -10.52%
+
+SPELL ($0.01)
+Supplied : 138,679,159.77 ($780,895.41) at 0.00% APY
+Borrowed : 11,522.65 ($64.88) at 0.00% APY
+Reserves : 97.17 ($0.55)
+Farming APR Supply 0.00% Borrow 0.00%
+Net APY Supply 0.00% Borrow -0.00%
+
+DODO ($0.47)
+Supplied : 1,200,000.00 ($569,523.43) at 1.26% APY
+Borrowed : 300,000.00 ($142,380.86) at 6.45% APY
+Reserves : 0.00 ($0.00)
+Farming APR Supply 0.00% Borrow 0.00%
+Net APY Supply 1.26% Borrow -6.45%
+
+FRAX ($1.00)
+Supplied : 17,556,628.88 ($17,579,941.63) at 0.06% APY
+Borrowed : 972,397.23 ($973,688.44) at 1.39% APY
+Reserves : 2,542.09 ($2,545.47)
+Farming APR Supply 0.00% Borrow 0.00%
+Net APY Supply 0.06% Borrow -1.39%
+
+Staking Contract
+
+0 - [WETH]-[HND] DLP [+] [-] [<=>] Price: $13,299.14 TVL: $2,051,498.00
+WETH Price: $2,424.96
+HND Price: $1.86
+Staked: 2.1622 DLP ($28,755.24)
+HND Per Week: 47756.8000 ($88,827.65)
+APR: Day 44.13% Week 308.91% Year 16063.29%
+DODO Per Week: 11939.2000 ($5,667.17)
+APR: Day 2.82% Week 19.71% Year 1024.83%
+Total APR: Day 46.95% Week 328.62% Year 17088.12%
+You are staking 0.0000 [WETH]-[HND] DLP ($0.00), 0.00% of the pool.
+Stake 0.0000 [WETH]-[HND] DLP
+Unstake 0.0000 [WETH]-[HND] DLP
+Claim 0.0000 HND ($0.00) + 0.0000 DODO ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $28,755.24

@@ -49,179 +49,31 @@
     
     *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Fri Dec 17 2021 10:24:39 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 22:43:00 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
-Found 18 pools.
-Showing incentivized pools only.
-Finished reading smart contracts.
-0 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,712,255.00 TVL: $50,920,009.01
-WMATIC Price: $2.04
-USDC Price: $1.00
-Staked: 0.0000 UNI-V2 ($0.00)
-DMND Per Week: 0.00 ($0.00)
-APR: Day NaN% Week NaN% Year NaN%
-You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), NaN% of the pool.
-Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
-Unstake 0.00 [WMATIC]-[USDC] Uni LP
-Claim 0.00 DMND ($0.00)
-Staking or unstaking also claims rewards.
-
-1 - [USDC]-[DMND] Uni LP [+] [-] [<=>] Price: $2,312,153.04 TVL: $836.44
-USDC Price: $1.00
-DMND Price: $1.09
-Staked: 0.0002 UNI-V2 ($550.82)
-DMND Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 [USDC]-[DMND] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[DMND] Uni LP
-Unstake 0.00 [USDC]-[DMND] Uni LP
-Claim 0.00 DMND ($0.00)
-Staking or unstaking also claims rewards.
-
-2 - [WMATIC]-[DMND] Uni LP [+] [-] [<=>] Price: $3.32 TVL: $304.74
-WMATIC Price: $2.04
-DMND Price: $1.09
-Staked: 23.5138 UNI-V2 ($78.02)
-DMND Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 [WMATIC]-[DMND] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[DMND] Uni LP
-Unstake 0.00 [WMATIC]-[DMND] Uni LP
-Claim 0.00 DMND ($0.00)
-Staking or unstaking also claims rewards.
-
-4 - WMATIC Price: $2.04 Market Cap: $622,679,466.38 [%]
-Staked: 8.5372 WMATIC ($17.42)
-DMND Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
-Stake 0.00 WMATIC - Fee 4%
-Unstake 0.00 WMATIC
-Claim 0.00 DMND ($0.00)
-Staking or unstaking also claims rewards.
-
-5 - QUICK Price: $240.91 Market Cap: $230,198,758.68 [%]
-Staked: 0.0019 QUICK ($0.46)
-DMND Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
-Stake 0.00 QUICK - Fee 4%
-Unstake 0.00 QUICK
-Claim 0.00 DMND ($0.00)
-Staking or unstaking also claims rewards.
-
-6 - WETH Price: $3,889.56 Market Cap: $1,726,993,644.46 [%]
-Staked: 0.0000 WETH ($0.00)
-DMND Per Week: 0.00 ($0.00)
-APR: Day NaN% Week NaN% Year NaN%
-You are staking 0.00 WETH ($0.00), NaN% of the pool.
-Stake 0.00 WETH - Fee 4%
-Unstake 0.00 WETH
-Claim 0.00 DMND ($0.00)
-Staking or unstaking also claims rewards.
-
-7 - WBTC Price: $46,933.00 Market Cap: $474,203,337.42 [%]
-Staked: 0.0000 WBTC ($0.00)
-DMND Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
-Stake 0.00 WBTC - Fee 4%
-Unstake 0.00 WBTC
-Claim 0.00 DMND ($0.00)
-Staking or unstaking also claims rewards.
-
-8 - AAVE Price: $171.27 Market Cap: $46,610,244.62 [%]
-Staked: 0.0451 AAVE ($7.72)
-DMND Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
-Stake 0.00 AAVE - Fee 4%
-Unstake 0.00 AAVE
-Claim 0.00 DMND ($0.00)
-Staking or unstaking also claims rewards.
-
-9 - DAI Price: $1.00 Market Cap: $366,867,694.89 [%]
-Staked: 29.3410 DAI ($29.28)
-DMND Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 DAI ($0.00), 0.00% of the pool.
-Stake 0.00 DAI - Fee 4%
-Unstake 0.00 DAI
-Claim 0.00 DMND ($0.00)
-Staking or unstaking also claims rewards.
-
-10 - USDT Price: $1.00 Market Cap: $318,632,011.08 [%]
-Staked: 163.1772 USDT ($162.61)
-DMND Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 USDT ($0.00), 0.00% of the pool.
-Stake 0.00 USDT - Fee 4%
-Unstake 0.00 USDT
-Claim 0.00 DMND ($0.00)
-Staking or unstaking also claims rewards.
-
-11 - FISH Price: $0.00 Market Cap: $0.00 
-Staked: 0.6756 FISH ($0.00)
-DMND Per Week: 0.00 ($0.00)
-APR: Day NaN% Week NaN% Year NaN%
-You are staking 0.00 FISH ($0.00), NaN% of the pool.
-Stake 0.00 FISH - Fee 4%
-Unstake 0.00 FISH
-Claim 0.00 DMND ($0.00)
-Staking or unstaking also claims rewards.
-
-12 - DMND Price: $1.09 Market Cap: $2,309.57 [%]
-Staked: 202.3466 DMND ($221.24)
-DMND Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 DMND ($0.00), 0.00% of the pool.
-Stake 0.00 DMND
-Unstake 0.00 DMND
-Claim 0.00 DMND ($0.00)
-Staking or unstaking also claims rewards.
-
-14 - PolyDoge Price: $0.0000000230 Market Cap: $22,975,000.00 [%]
-Staked: 76850101814.7194 PolyDoge ($1,765.63)
-DMND Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 PolyDoge ($0.00), 0.00% of the pool.
-Stake 0.00 PolyDoge - Fee 4%
-Unstake 0.00 PolyDoge
-Claim 0.00 DMND ($0.00)
-Staking or unstaking also claims rewards.
-
-15 - BANANA Price: $0.00 Market Cap: $0.00 
-Staked: 0.0000 BANANA ($0.00)
-DMND Per Week: 0.00 ($0.00)
-APR: Day NaN% Week NaN% Year NaN%
-You are staking 0.00 BANANA ($0.00), NaN% of the pool.
-Stake 0.00 BANANA - Fee 4%
-Unstake 0.00 BANANA
-Claim 0.00 DMND ($0.00)
-Staking or unstaking also claims rewards.
-
-16 - PepeFarm Price: $0.00 Market Cap: $0.00 
-Staked: 19.5619 PepeFarm ($0.00)
-DMND Per Week: 0.00 ($0.00)
-APR: Day NaN% Week NaN% Year NaN%
-You are staking 0.00 PepeFarm ($0.00), NaN% of the pool.
-Stake 0.00 PepeFarm - Fee 3%
-Unstake 0.00 PepeFarm
-Claim 0.00 DMND ($0.00)
-Staking or unstaking also claims rewards.
-
-17 - RUBY Price: $0.00 Market Cap: $0.00 
-Staked: 4.2374 RUBY ($0.00)
-DMND Per Week: 0.00 ($0.00)
-APR: Day NaN% Week NaN% Year NaN%
-You are staking 0.00 RUBY ($0.00), NaN% of the pool.
-Stake 0.00 RUBY - Fee 3%
-Unstake 0.00 RUBY
-Claim 0.00 DMND ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $2,833.20
+{
+  "code": -32603,
+  "message": "JsonRpcEngine: Response has no error or result for request:\n{\n  \"method\": \"eth_call\",\n  \"params\": [\n    {\n      \"to\": \"0x8881bda61814bd8875af7e1f861277b8b845a6d7\",\n      \"data\": \"0x48cd4cb1\"\n    },\n    \"0x171d538\"\n  ],\n  \"jsonrpc\": \"2.0\",\n  \"id\": 1012032139,\n  \"origin\": \"https://vfat.tools\",\n  \"tabId\": 2\n}",
+  "data": {
+    "request": {
+      "method": "eth_call",
+      "params": [
+        {
+          "to": "0x8881bda61814bd8875af7e1f861277b8b845a6d7",
+          "data": "0x48cd4cb1"
+        },
+        "0x171d538"
+      ],
+      "jsonrpc": "2.0",
+      "id": 1012032139,
+      "origin": "https://vfat.tools",
+      "tabId": 2
+    }
+  },
+  "stack": "{\n  \"code\": -32603,\n  \"message\": \"JsonRpcEngine: Response has no error or result for request:\\n{\\n  \\\"method\\\": \\\"eth_call\\\",\\n  \\\"params\\\": [\\n    {\\n      \\\"to\\\": \\\"0x8881bda61814bd8875af7e1f861277b8b845a6d7\\\",\\n      \\\"data\\\": \\\"0x48cd4cb1\\\"\\n    },\\n    \\\"0x171d538\\\"\\n  ],\\n  \\\"jsonrpc\\\": \\\"2.0\\\",\\n  \\\"id\\\": 1012032139,\\n  \\\"origin\\\": \\\"https://vfat.tools\\\",\\n  \\\"tabId\\\": 2\\n}\",\n  \"data\": {\n    \"request\": {\n      \"method\": \"eth_call\",\n      \"params\": [\n        {\n          \"to\": \"0x8881bda61814bd8875af7e1f861277b8b845a6d7\",\n          \"data\": \"0x48cd4cb1\"\n        },\n        \"0x171d538\"\n      ],\n      \"jsonrpc\": \"2.0\",\n      \"id\": 1012032139,\n      \"origin\": \"https://vfat.tools\",\n      \"tabId\": 2\n    }\n  },\n  \"stack\": \"Error: JsonRpcEngine: Response has no error or result for request:\\n{\\n  \\\"method\\\": \\\"eth_call\\\",\\n  \\\"params\\\": [\\n    {\\n      \\\"to\\\": \\\"0x8881bda61814bd8875af7e1f861277b8b845a6d7\\\",\\n      \\\"data\\\": \\\"0x48cd4cb1\\\"\\n    },\\n    \\\"0x171d538\\\"\\n  ],\\n  \\\"jsonrpc\\\": \\\"2.0\\\",\\n  \\\"id\\\": 1012032139,\\n  \\\"origin\\\": \\\"https://vfat.tools\\\",\\n  \\\"tabId\\\": 2\\n}\\n    at new o (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/common-1.js:16:24204)\\n    at Function._checkForCompletion (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:305269)\\n    at a._processRequest (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304461)\\n    at async a._handle (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304249)\"\n}\n  at new o (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/common-1.js:16:24204)\n  at Function._checkForCompletion (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:305269)\n  at a._processRequest (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304461)\n  at async a._handle (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304249)"
+}
+Oops something went wrong. Try refreshing the page.

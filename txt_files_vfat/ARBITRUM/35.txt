@@ -1,0 +1,180 @@
+*************** 👨‍🌾 UNOFFICIAL ONYX FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://arbi.onyx.farm/
+**************************************************************************
+
+
+Thu Jan 27 2022 21:51:55 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 15 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [ONYX]-[USDC] SLP [+] [-] [<=>] Price: $448,994.59 TVL: $1,397.83
+ONYX Price: $0.05
+USDC Price: $1.00
+Staked: 0.0008 SLP ($381.31)
+ONYX Per Week: 972.23 ($47.93)
+APR: Day 1.80% Week 12.57% Year 653.62%
+You are staking 0.00 [ONYX]-[USDC] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [ONYX]-[USDC] SLP
+Unstake 0.00 [ONYX]-[USDC] SLP
+Claim 0.00 ONYX ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [ONYX]-[WETH] SLP [+] [-] [<=>] Price: $22.11 TVL: $1,507.09
+ONYX Price: $0.05
+WETH Price: $2,424.96
+Staked: 28.3008 SLP ($625.75)
+ONYX Per Week: 972.23 ($47.93)
+APR: Day 1.09% Week 7.66% Year 398.30%
+You are staking 0.00 [ONYX]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [ONYX]-[WETH] SLP
+Unstake 0.00 [ONYX]-[WETH] SLP
+Claim 0.00 ONYX ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WETH]-[USDC] SLP [+] [-] [<=>] Price: $117,703,594.50 TVL: $65,955,581.48
+WETH Price: $2,424.96
+USDC Price: $1.00
+Staked: 0.0000 SLP ($104.58)
+ONYX Per Week: 61.87 ($3.05)
+APR: Day 0.42% Week 2.92% Year 151.65%
+You are staking 0.00 [WETH]-[USDC] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[USDC] SLP
+Unstake 0.00 [WETH]-[USDC] SLP - Fee 3.5%
+Claim 0.00 ONYX ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WETH]-[USDT] SLP [+] [-] [<=>] Price: $112,579,070.07 TVL: $4,503,155.76
+WETH Price: $2,424.96
+USDT Price: $1.00
+Staked: 0.0000 SLP ($104.25)
+ONYX Per Week: 61.87 ($3.05)
+APR: Day 0.42% Week 2.93% Year 152.13%
+You are staking 0.00 [WETH]-[USDT] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[USDT] SLP
+Unstake 0.00 [WETH]-[USDT] SLP - Fee 3.5%
+Claim 0.00 ONYX ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [WBTC]-[WETH] SLP [+] [-] [<=>] Price: $1,911,236,516.63 TVL: $5,136,672.97
+WBTC Price: $36,095.00
+WETH Price: $2,424.96
+Staked: 0.0000 SLP ($67.63)
+ONYX Per Week: 61.87 ($3.05)
+APR: Day 0.64% Week 4.51% Year 234.52%
+You are staking 0.00 [WBTC]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[WETH] SLP
+Unstake 0.00 [WBTC]-[WETH] SLP - Fee 3.5%
+Claim 0.00 ONYX ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WETH]-[SUSHI] SLP [+] [-] [<=>] Price: $206.55 TVL: $767,582.29
+WETH Price: $2,424.96
+SUSHI Price: $4.07
+Staked: 0.3812 SLP ($78.75)
+ONYX Per Week: 61.87 ($3.05)
+APR: Day 0.55% Week 3.87% Year 201.41%
+You are staking 0.00 [WETH]-[SUSHI] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[SUSHI] SLP
+Unstake 0.00 [WETH]-[SUSHI] SLP - Fee 3.5%
+Claim 0.00 ONYX ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [WETH]-[MIM] SLP [+] [-] [<=>] Price: $101.71 TVL: $71,799,213.59
+WETH Price: $2,424.96
+MIM Price: $1.00
+Staked: 1.1685 SLP ($118.84)
+ONYX Per Week: 61.87 ($3.05)
+APR: Day 0.37% Week 2.57% Year 133.46%
+You are staking 0.00 [WETH]-[MIM] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[MIM] SLP
+Unstake 0.00 [WETH]-[MIM] SLP - Fee 3.5%
+Claim 0.00 ONYX ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - ONYX Price: $0.05 Market Cap: $3,064.62 
+Staked: 25833.9962 ONYX ($1,273.58)
+ONYX Per Week: 928.04 ($45.75)
+APR: Day 0.51% Week 3.59% Year 186.80%
+You are staking 0.00 ONYX ($0.00), 0.00% of the pool.
+Stake 0.00 ONYX
+Unstake 0.00 ONYX
+Claim 0.00 ONYX ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - USDC Price: $1.00 Market Cap: $372,097,716.63 
+Staked: 405.7241 USDC ($404.85)
+ONYX Per Week: 57.45 ($2.83)
+APR: Day 0.10% Week 0.70% Year 36.38%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC
+Unstake 0.00 USDC - Fee 3.5%
+Claim 0.00 ONYX ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - SUSHI Price: $4.07 Market Cap: $1,232,267.56 
+Staked: 0.0000 SUSHI ($0.00)
+ONYX Per Week: 57.45 ($2.83)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 SUSHI ($0.00), NaN% of the pool.
+Stake 0.00 SUSHI
+Unstake 0.00 SUSHI - Fee 3.5%
+Claim 0.00 ONYX ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - USDT Price: $1.00 Market Cap: $177,405,379.79 
+Staked: 102.8278 USDT ($102.83)
+ONYX Per Week: 57.45 ($2.83)
+APR: Day 0.39% Week 2.75% Year 143.22%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT
+Unstake 0.00 USDT - Fee 3.5%
+Claim 0.00 ONYX ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - MIM Price: $1.00 Market Cap: $164,467,765.75 
+Staked: 160.0000 MIM ($159.60)
+ONYX Per Week: 57.45 ($2.83)
+APR: Day 0.25% Week 1.77% Year 92.28%
+You are staking 0.00 MIM ($0.00), 0.00% of the pool.
+Stake 0.00 MIM
+Unstake 0.00 MIM - Fee 3.5%
+Claim 0.00 ONYX ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - WETH Price: $2,424.96 Market Cap: $573,416,450.79 
+Staked: 0.0300 WETH ($72.75)
+ONYX Per Week: 57.45 ($2.83)
+APR: Day 0.56% Week 3.89% Year 202.44%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH
+Unstake 0.00 WETH - Fee 3.5%
+Claim 0.00 ONYX ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - WBTC Price: $36,095.00 Market Cap: $85,884,286.16 
+Staked: 0.0023 WBTC ($83.02)
+ONYX Per Week: 57.45 ($2.83)
+APR: Day 0.49% Week 3.41% Year 177.40%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC
+Unstake 0.00 WBTC - Fee 3.5%
+Claim 0.00 ONYX ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - LINK Price: $15.06 Market Cap: $10,606,399.32 
+Staked: 3.8244 LINK ($57.60)
+ONYX Per Week: 57.45 ($2.83)
+APR: Day 0.70% Week 4.92% Year 255.70%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK
+Unstake 0.00 LINK - Fee 3.5%
+Claim 0.00 ONYX ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $3,635.34

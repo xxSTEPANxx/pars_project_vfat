@@ -1,0 +1,385 @@
+*************** 👨‍🌾 UNOFFICIAL MANYSWAP FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://manyswap.io
+*************************************************************************************
+
+Thu Jan 27 2022 20:37:51 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 31 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [MANY]-[WBNB] Uni LP [+] [-] [<=>] Price: $1.71 TVL: $6,045.93
+MANY Price: $0.001654
+WBNB Price: $370.44
+Staked: 3528.9995 Many-LP ($6,026.64)
+MANY Per Week: 16363.64 ($27.07)
+APR: Day 0.06% Week 0.45% Year 23.36%
+You are staking 0.00 [MANY]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MANY]-[WBNB] Uni LP
+Unstake 0.00 [MANY]-[WBNB] Uni LP
+Claim 0.00 MANY ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [MANY]-[BUSD] Uni LP [+] [-] [<=>] Price: $0.09 TVL: $4,377.19
+MANY Price: $0.001654
+BUSD Price: $1.00
+Staked: 49532.4579 Many-LP ($4,360.06)
+MANY Per Week: 16363.64 ($27.07)
+APR: Day 0.09% Week 0.62% Year 32.29%
+You are staking 0.00 [MANY]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MANY]-[BUSD] Uni LP
+Unstake 0.00 [MANY]-[BUSD] Uni LP
+Claim 0.00 MANY ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BUSD] Uni LP [+] [-] [<=>] Price: $41.24 TVL: $65,410.49
+WBNB Price: $370.44
+BUSD Price: $1.00
+Staked: 1585.9722 Many-LP ($65,410.49)
+MANY Per Week: 1636.36 ($2.71)
+APR: Day 0.00% Week 0.00% Year 0.22%
+You are staking 0.00 [WBNB]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Uni LP
+Unstake 0.00 [WBNB]-[BUSD] Uni LP
+Claim 0.00 MANY ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [ETH]-[BUSD] Uni LP [+] [-] [<=>] Price: $101.40 TVL: $65,231.88
+ETH Price: $2,435.72
+BUSD Price: $1.00
+Staked: 643.2884 Many-LP ($65,231.88)
+MANY Per Week: 1636.36 ($2.71)
+APR: Day 0.00% Week 0.00% Year 0.22%
+You are staking 0.00 [ETH]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[BUSD] Uni LP
+Unstake 0.00 [ETH]-[BUSD] Uni LP
+Claim 0.00 MANY ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [ETH]-[WBNB] Uni LP [+] [-] [<=>] Price: $1,924.45 TVL: $40,444.92
+ETH Price: $2,435.72
+WBNB Price: $370.44
+Staked: 21.0164 Many-LP ($40,444.92)
+MANY Per Week: 1636.36 ($2.71)
+APR: Day 0.00% Week 0.01% Year 0.35%
+You are staking 0.00 [ETH]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Uni LP
+Unstake 0.00 [ETH]-[WBNB] Uni LP
+Claim 0.00 MANY ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [BDO]-[MANY] Uni LP [+] [-] [<=>] Price: $0.01 TVL: $295.37
+BDO Price: $0.01
+MANY Price: $0.001654
+Staked: 31482.5267 Many-LP ($278.20)
+MANY Per Week: 8181.82 ($13.54)
+APR: Day 0.70% Week 4.87% Year 253.01%
+You are staking 0.00 [BDO]-[MANY] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BDO]-[MANY] Uni LP
+Unstake 0.00 [BDO]-[MANY] Uni LP
+Claim 0.00 MANY ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [MANY]-[BRY] Uni LP [+] [-] [<=>] Price: $0.06 TVL: $335.20
+MANY Price: $0.001654
+BRY Price: $0.47
+Staked: 5847.4854 Many-LP ($334.59)
+MANY Per Week: 8181.82 ($13.54)
+APR: Day 0.58% Week 4.05% Year 210.37%
+You are staking 0.00 [MANY]-[BRY] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MANY]-[BRY] Uni LP
+Unstake 0.00 [MANY]-[BRY] Uni LP
+Claim 0.00 MANY ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [Cake]-[MANY] Uni LP [+] [-] [<=>] Price: $0.22 TVL: $443.32
+Cake Price: $7.15
+MANY Price: $0.001654
+Staked: 1780.6469 Many-LP ($398.19)
+MANY Per Week: 8181.82 ($13.54)
+APR: Day 0.49% Week 3.40% Year 176.77%
+You are staking 0.00 [Cake]-[MANY] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[MANY] Uni LP
+Unstake 0.00 [Cake]-[MANY] Uni LP
+Claim 0.00 MANY ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [MANY]-[SUSHI] Uni LP [+] [-] [<=>] Price: $0.17 TVL: $283.04
+MANY Price: $0.001654
+SUSHI Price: $3.99
+Staked: 1410.1682 Many-LP ($233.68)
+MANY Per Week: 8181.82 ($13.54)
+APR: Day 0.83% Week 5.79% Year 301.21%
+You are staking 0.00 [MANY]-[SUSHI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MANY]-[SUSHI] Uni LP
+Unstake 0.00 [MANY]-[SUSHI] Uni LP
+Claim 0.00 MANY ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [MANY]-[BAKE] Uni LP [+] [-] [<=>] Price: $0.07 TVL: $372.46
+MANY Price: $0.001654
+BAKE Price: $0.61
+Staked: 5028.2842 Many-LP ($328.33)
+MANY Per Week: 8181.82 ($13.54)
+APR: Day 0.59% Week 4.12% Year 214.38%
+You are staking 0.00 [MANY]-[BAKE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MANY]-[BAKE] Uni LP
+Unstake 0.00 [MANY]-[BAKE] Uni LP
+Claim 0.00 MANY ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [Cake]-[WBNB] Uni LP [+] [-] [<=>] Price: $105.19 TVL: $959.65
+Cake Price: $7.15
+WBNB Price: $370.44
+Staked: 9.0227 Many-LP ($949.13)
+MANY Per Week: 1636.36 ($2.71)
+APR: Day 0.04% Week 0.29% Year 14.83%
+You are staking 0.00 [Cake]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Uni LP
+Unstake 0.00 [Cake]-[WBNB] Uni LP
+Claim 0.00 MANY ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - MANY Price: $0.001654 Market Cap: $44,482.28 [%]
+Staked: 6294702.5109 MANY ($10,414.00)
+MANY Per Week: 16363.64 ($27.07)
+APR: Day 0.04% Week 0.26% Year 13.52%
+You are staking 0.00 MANY ($0.00), 0.00% of the pool.
+Stake 0.00 MANY
+Unstake 0.00 MANY
+Claim 0.00 MANY ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [MANY]-[JulD] Uni LP [+] [-] [<=>] Price: $0.01 TVL: $614.92
+MANY Price: $0.001654
+JulD Price: $0.01
+Staked: 52793.6451 Many-LP ($539.01)
+MANY Per Week: 8181.82 ($13.54)
+APR: Day 0.36% Week 2.51% Year 130.59%
+You are staking 0.00 [MANY]-[JulD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MANY]-[JulD] Uni LP
+Unstake 0.00 [MANY]-[JulD] Uni LP
+Claim 0.00 MANY ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [MANY]-[EGG] Uni LP [+] [-] [<=>] Price: $0.03 TVL: $108.24
+MANY Price: $0.001654
+EGG Price: $0.13
+Staked: 3519.3719 Many-LP ($108.24)
+MANY Per Week: 8181.82 ($13.54)
+APR: Day 1.79% Week 12.51% Year 650.28%
+You are staking 0.00 [MANY]-[EGG] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MANY]-[EGG] Uni LP
+Unstake 0.00 [MANY]-[EGG] Uni LP
+Claim 0.00 MANY ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [MANY]-[WATCH] Uni LP [+] [-] [<=>] Price: $0.03 TVL: $209.01
+MANY Price: $0.001654
+WATCH Price: $0.11
+Staked: 7779.5496 Many-LP ($209.01)
+MANY Per Week: 8181.82 ($13.54)
+APR: Day 0.93% Week 6.48% Year 336.76%
+You are staking 0.00 [MANY]-[WATCH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MANY]-[WATCH] Uni LP
+Unstake 0.00 [MANY]-[WATCH] Uni LP
+Claim 0.00 MANY ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [MANY]-[BSCX] Uni LP [+] [-] [<=>] Price: $0.13 TVL: $324.21
+MANY Price: $0.001654
+BSCX Price: $2.43
+Staked: 2444.8160 Many-LP ($322.28)
+MANY Per Week: 8181.82 ($13.54)
+APR: Day 0.60% Week 4.20% Year 218.40%
+You are staking 0.00 [MANY]-[BSCX] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MANY]-[BSCX] Uni LP
+Unstake 0.00 [MANY]-[BSCX] Uni LP
+Claim 0.00 MANY ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [MANY]-[AUTO] Uni LP [+] [-] [<=>] Price: $1.67 TVL: $173.17
+MANY Price: $0.001654
+AUTO Price: $407.10
+Staked: 100.5894 Many-LP ($168.12)
+MANY Per Week: 8181.82 ($13.54)
+APR: Day 1.15% Week 8.05% Year 418.67%
+You are staking 0.00 [MANY]-[AUTO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MANY]-[AUTO] Uni LP
+Unstake 0.00 [MANY]-[AUTO] Uni LP
+Claim 0.00 MANY ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [MANY]-[SFP] Uni LP [+] [-] [<=>] Price: $0.07 TVL: $211.44
+MANY Price: $0.001654
+SFP Price: $0.77
+Staked: 2905.8821 Many-LP ($211.44)
+MANY Per Week: 8181.82 ($13.54)
+APR: Day 0.91% Week 6.40% Year 332.90%
+You are staking 0.00 [MANY]-[SFP] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MANY]-[SFP] Uni LP
+Unstake 0.00 [MANY]-[SFP] Uni LP
+Claim 0.00 MANY ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [MANY]-[DODO] Uni LP [+] [-] [<=>] Price: $0.06 TVL: $288.54
+MANY Price: $0.001654
+DODO Price: $0.48
+Staked: 5009.5786 Many-LP ($285.64)
+MANY Per Week: 8181.82 ($13.54)
+APR: Day 0.68% Week 4.74% Year 246.42%
+You are staking 0.00 [MANY]-[DODO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MANY]-[DODO] Uni LP
+Unstake 0.00 [MANY]-[DODO] Uni LP
+Claim 0.00 MANY ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [MANY]-[Helmet] Uni LP [+] [-] [<=>] Price: $0.02 TVL: $176.77
+MANY Price: $0.001654
+Helmet Price: $0.06
+Staked: 8777.4947 Many-LP ($176.77)
+MANY Per Week: 8181.82 ($13.54)
+APR: Day 1.09% Week 7.66% Year 398.20%
+You are staking 0.00 [MANY]-[Helmet] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MANY]-[Helmet] Uni LP
+Unstake 0.00 [MANY]-[Helmet] Uni LP
+Claim 0.00 MANY ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - [MANY]-[BIFI] Uni LP [+] [-] [<=>] Price: $3.46 TVL: $356.56
+MANY Price: $0.001654
+BIFI Price: $1,748.32
+Staked: 95.6474 Many-LP ($331.16)
+MANY Per Week: 8181.82 ($13.54)
+APR: Day 0.58% Week 4.09% Year 212.55%
+You are staking 0.00 [MANY]-[BIFI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MANY]-[BIFI] Uni LP
+Unstake 0.00 [MANY]-[BIFI] Uni LP
+Claim 0.00 MANY ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - [MANY]-[ALICE] Uni LP [+] [-] [<=>] Price: $212,999.56 TVL: $538.08
+MANY Price: $0.001654
+ALICE Price: $6.57
+Staked: 0.0017 Many-LP ($352.01)
+MANY Per Week: 8181.82 ($13.54)
+APR: Day 0.55% Week 3.85% Year 199.96%
+You are staking 0.00 [MANY]-[ALICE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MANY]-[ALICE] Uni LP
+Unstake 0.00 [MANY]-[ALICE] Uni LP
+Claim 0.00 MANY ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - [TLM]-[MANY] Uni LP [+] [-] [<=>] Price: $271,135.45 TVL: $563.13
+TLM Price: $0.11
+MANY Price: $0.001654
+Staked: 0.0021 Many-LP ($562.16)
+MANY Per Week: 8181.82 ($13.54)
+APR: Day 0.34% Week 2.41% Year 125.21%
+You are staking 0.00 [TLM]-[MANY] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TLM]-[MANY] Uni LP
+Unstake 0.00 [TLM]-[MANY] Uni LP
+Claim 0.00 MANY ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [MANY]-[REEF] Uni LP [+] [-] [<=>] Price: $0.01 TVL: $158.57
+MANY Price: $0.001654
+REEF Price: $0.009797
+Staked: 19413.1934 Many-LP ($158.57)
+MANY Per Week: 8181.82 ($13.54)
+APR: Day 1.22% Week 8.54% Year 443.88%
+You are staking 0.00 [MANY]-[REEF] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MANY]-[REEF] Uni LP
+Unstake 0.00 [MANY]-[REEF] Uni LP
+Claim 0.00 MANY ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - [MANY]-[DOT] Uni LP [+] [-] [<=>] Price: $0.35 TVL: $200.76
+MANY Price: $0.001654
+DOT Price: $17.99
+Staked: 576.4636 Many-LP ($200.76)
+MANY Per Week: 8181.82 ($13.54)
+APR: Day 0.96% Week 6.74% Year 350.60%
+You are staking 0.00 [MANY]-[DOT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MANY]-[DOT] Uni LP
+Unstake 0.00 [MANY]-[DOT] Uni LP
+Claim 0.00 MANY ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - [MANY]-[ADA] Uni LP [+] [-] [<=>] Price: $0.08 TVL: $228.94
+MANY Price: $0.001654
+ADA Price: $1.03
+Staked: 2746.9304 Many-LP ($228.94)
+MANY Per Week: 8181.82 ($13.54)
+APR: Day 0.84% Week 5.91% Year 307.45%
+You are staking 0.00 [MANY]-[ADA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MANY]-[ADA] Uni LP
+Unstake 0.00 [MANY]-[ADA] Uni LP
+Claim 0.00 MANY ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - [MANY]-[TKO] Uni LP [+] [-] [<=>] Price: $0.07 TVL: $332.55
+MANY Price: $0.001654
+TKO Price: $0.75
+Staked: 4619.4343 Many-LP ($328.05)
+MANY Per Week: 8181.82 ($13.54)
+APR: Day 0.59% Week 4.13% Year 214.56%
+You are staking 0.00 [MANY]-[TKO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MANY]-[TKO] Uni LP
+Unstake 0.00 [MANY]-[TKO] Uni LP
+Claim 0.00 MANY ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - [MANY]-[SAFEMOON] Uni LP [+] [-] [<=>] Price: $2.30 TVL: $151.52
+MANY Price: $0.001654
+SAFEMOON Price: $0.0000005356
+Staked: 57.5805 Many-LP ($132.40)
+MANY Per Week: 8181.82 ($13.54)
+APR: Day 1.46% Week 10.22% Year 531.62%
+You are staking 0.00 [MANY]-[SAFEMOON] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MANY]-[SAFEMOON] Uni LP
+Unstake 0.00 [MANY]-[SAFEMOON] Uni LP
+Claim 0.00 MANY ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - [MANY]-[BUNNY] Uni LP [+] [-] [<=>] Price: $0.06 TVL: $444.81
+MANY Price: $0.001654
+BUNNY Price: $0.58
+Staked: 7038.3699 Many-LP ($444.25)
+MANY Per Week: 8181.82 ($13.54)
+APR: Day 0.44% Week 3.05% Year 158.44%
+You are staking 0.00 [MANY]-[BUNNY] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MANY]-[BUNNY] Uni LP
+Unstake 0.00 [MANY]-[BUNNY] Uni LP
+Claim 0.00 MANY ($0.00)
+Staking or unstaking also claims rewards.
+
+29 - [MANY]-[BTT] Uni LP [+] [-] [<=>] Price: $0.00 TVL: $619.47
+MANY Price: $0.001654
+BTT Price: $0.002118
+Staked: 164084.0254 Many-LP ($617.62)
+MANY Per Week: 8181.82 ($13.54)
+APR: Day 0.31% Week 2.19% Year 113.97%
+You are staking 0.00 [MANY]-[BTT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MANY]-[BTT] Uni LP
+Unstake 0.00 [MANY]-[BTT] Uni LP
+Claim 0.00 MANY ($0.00)
+Staking or unstaking also claims rewards.
+
+30 - [MANY]-[TRX] Uni LP [+] [-] [<=>] Price: $0.02 TVL: $504.01
+MANY Price: $0.001654
+TRX Price: $0.06
+Staked: 26043.9530 Many-LP ($504.01)
+MANY Per Week: 8181.82 ($13.54)
+APR: Day 0.38% Week 2.69% Year 139.66%
+You are staking 0.00 [MANY]-[TRX] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MANY]-[TRX] Uni LP
+Unstake 0.00 [MANY]-[TRX] Uni LP
+Claim 0.00 MANY ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $200,290.56

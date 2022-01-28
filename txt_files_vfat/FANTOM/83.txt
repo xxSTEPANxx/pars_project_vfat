@@ -1,0 +1,157 @@
+*************** 👨‍🌾 UNOFFICIAL HARRYSWAP FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://www.harryswap.finance
+*************************************************************************************
+
+Fri Jan 28 2022 00:50:28 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 13 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [HARRY]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $0.81 TVL: $29.63
+HARRY Price: $0.08
+WFTM Price: $2.03
+Staked: 31.5395 spLP ($25.48)
+HARRY Per Week: 192.44 ($15.05)
+APR: Day 8.44% Week 59.08% Year 3072.06%
+You are staking 0.00 [HARRY]-[WFTM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [HARRY]-[WFTM] SPOOKY LP
+Unstake 0.00 [HARRY]-[WFTM] SPOOKY LP
+Claim 0.00 HARRY ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [USDC]-[HARRY] SPOOKY LP [+] [-] [<=>] Price: $576,425.58 TVL: $910.86
+USDC Price: $1.01
+HARRY Price: $0.08
+Staked: 0.0001 spLP ($66.19)
+HARRY Per Week: 192.44 ($15.05)
+APR: Day 3.25% Week 22.74% Year 1182.64%
+You are staking 0.00 [USDC]-[HARRY] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[HARRY] SPOOKY LP
+Unstake 0.00 [USDC]-[HARRY] SPOOKY LP
+Claim 0.00 HARRY ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [USDC]-[fUSDT] SPOOKY LP [+] [-] [<=>] Price: $2,101,834,018,272.60 TVL: $2,067,763.47
+USDC Price: $1.01
+fUSDT Price: $1.00
+Staked: 0.0000 spLP ($73.31)
+HARRY Per Week: 16.49 ($1.29)
+APR: Day 0.25% Week 1.76% Year 91.52%
+You are staking 0.00 [USDC]-[fUSDT] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[fUSDT] SPOOKY LP - Fee 4%
+Unstake 0.00 [USDC]-[fUSDT] SPOOKY LP
+Claim 0.00 HARRY ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [fUSDT]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $3,784,120.70 TVL: $37,172,544.85
+fUSDT Price: $1.00
+WFTM Price: $2.03
+Staked: 0.0000 spLP ($77.43)
+HARRY Per Week: 16.49 ($1.29)
+APR: Day 0.24% Week 1.67% Year 86.66%
+You are staking 0.00 [fUSDT]-[WFTM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [fUSDT]-[WFTM] SPOOKY LP - Fee 4%
+Unstake 0.00 [fUSDT]-[WFTM] SPOOKY LP
+Claim 0.00 HARRY ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDC]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $4,384,646.85 TVL: $168,794,461.83
+USDC Price: $1.01
+WFTM Price: $2.03
+Staked: 0.0000 spLP ($60.12)
+HARRY Per Week: 16.49 ($1.29)
+APR: Day 0.31% Week 2.15% Year 111.61%
+You are staking 0.00 [USDC]-[WFTM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WFTM] SPOOKY LP - Fee 4%
+Unstake 0.00 [USDC]-[WFTM] SPOOKY LP
+Claim 0.00 HARRY ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WFTM]-[ETH] SPOOKY LP [+] [-] [<=>] Price: $157.18 TVL: $42,619,435.36
+WFTM Price: $2.03
+ETH Price: $2,357.21
+Staked: 0.2000 spLP ($31.44)
+HARRY Per Week: 16.49 ($1.29)
+APR: Day 0.59% Week 4.10% Year 213.43%
+You are staking 0.00 [WFTM]-[ETH] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ETH] SPOOKY LP - Fee 4%
+Unstake 0.00 [WFTM]-[ETH] SPOOKY LP
+Claim 0.00 HARRY ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - WFTM Price: $2.03 Market Cap: $1,466,167,561.78 
+Staked: 1.7760 WFTM ($3.61)
+HARRY Per Week: 16.49 ($1.29)
+APR: Day 5.11% Week 35.79% Year 1861.08%
+You are staking 0.00 WFTM ($0.00), 0.00% of the pool.
+Stake 0.00 WFTM - Fee 4%
+Unstake 0.00 WFTM
+Claim 0.00 HARRY ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - ETH Price: $2,357.21 Market Cap: $1,124,574,300.86 
+Staked: 0.0208 ETH ($49.08)
+HARRY Per Week: 16.49 ($1.29)
+APR: Day 0.38% Week 2.63% Year 136.70%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 HARRY ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - BTC Price: $36,161.00 Market Cap: $622,215,317.53 
+Staked: 0.0020 BTC ($73.67)
+HARRY Per Week: 16.49 ($1.29)
+APR: Day 0.25% Week 1.75% Year 91.07%
+You are staking 0.00 BTC ($0.00), 0.00% of the pool.
+Stake 0.00 BTC - Fee 4%
+Unstake 0.00 BTC
+Claim 0.00 HARRY ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - USDC Price: $1.01 Market Cap: $1,744,757,684.97 
+Staked: 76.1792 USDC ($76.94)
+HARRY Per Week: 16.49 ($1.29)
+APR: Day 0.24% Week 1.68% Year 87.21%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 HARRY ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - fUSDT Price: $1.00 Market Cap: $350,441,901.33 
+Staked: 70.6816 fUSDT ($70.68)
+HARRY Per Week: 16.49 ($1.29)
+APR: Day 0.26% Week 1.83% Year 94.93%
+You are staking 0.00 fUSDT ($0.00), 0.00% of the pool.
+Stake 0.00 fUSDT - Fee 4%
+Unstake 0.00 fUSDT
+Claim 0.00 HARRY ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - DAI Price: $1.00 Market Cap: $704,467,481.12 
+Staked: 90.9368 DAI ($90.94)
+HARRY Per Week: 16.49 ($1.29)
+APR: Day 0.20% Week 1.42% Year 73.78%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 HARRY ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - HARRY Price: $0.08 Market Cap: $770.36 
+Staked: 2665.2515 HARRY ($208.50)
+HARRY Per Week: 54.98 ($4.30)
+APR: Day 0.29% Week 2.06% Year 107.27%
+You are staking 0.00 HARRY ($0.00), 0.00% of the pool.
+Stake 0.00 HARRY
+Unstake 0.00 HARRY
+Claim 0.00 HARRY ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $907.38

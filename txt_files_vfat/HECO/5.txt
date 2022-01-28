@@ -1,0 +1,41 @@
+***************************** HUOBI ECO CHAIN *******************************
+    
+*************** 👨‍🌾 UNOFFICIAL HECOSTABLE.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://hecostable.finance
+***************************************************************************************
+
+Thu Jan 27 2022 21:52:38 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+[HSS]-[USDT] Uni LP [+] [-] [<=>] Price: $0.13 TVL: $371.15
+HSS Price: $0.004195
+USDT Price: $1.00
+Staked: 739.2185 STA-LP ($95.79)
+HSS Per Week: 1438.36 ($6.03)
+APR: Day 0.90% Week 6.30% Year 327.55%
+You are staking 0.000000 [HSS]-[USDT] Uni LP $0.00 (0.00% of the pool).
+Heco Scan
+Stake 0.000000 [HSS]-[USDT] Uni LP
+Unstake 0.000000 [HSS]-[USDT] Uni LP
+Claim 0.000000 HSS ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[HSC]-[USDT] Uni LP [+] [-] [<=>] Price: $0.45 TVL: $342.46
+HSC Price: $0.05
+USDT Price: $1.00
+Staked: 718.7227 STA-LP ($323.79)
+HSS Per Week: 820.31 ($3.44)
+APR: Day 0.15% Week 1.06% Year 55.26%
+You are staking 0.000000 [HSC]-[USDT] Uni LP $0.00 (0.00% of the pool).
+Heco Scan
+Stake 0.000000 [HSC]-[USDT] Uni LP
+Unstake 0.000000 [HSC]-[USDT] Uni LP
+Claim 0.000000 HSS ($0.00)
+Revoke (set approval to 0)
+Exit
+
+Total staked: $419.58

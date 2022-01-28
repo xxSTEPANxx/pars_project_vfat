@@ -1,0 +1,25 @@
+*************** 👨‍🌾 UNOFFICIAL ALUNA FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://aluna.social/farm
+**************************************************************************
+
+Thu Jan 27 2022 19:42:26 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+[ALN]-[WETH] Uni LP [+] [-] [<=>] Price: $20.03 TVL: $7,917.07
+ALN Price: $0.02
+WETH Price: $2,476.86
+Staked: 282.4887 UNI-V2 ($5,657.74)
+ALN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [ALN]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [ALN]-[WETH] Uni LP
+Unstake 0.000000 [ALN]-[WETH] Uni LP
+Claim 0.000000 ALN ($0.00)
+Revoke (set approval to 0)
+Exit
+
+Total staked: $5,657.74

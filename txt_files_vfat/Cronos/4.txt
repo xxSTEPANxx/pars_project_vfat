@@ -1,0 +1,289 @@
+*************** 👨‍🌾 UNOFFICIAL CronaSwap FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://app.cronaswap.org/
+********************************************************************************
+
+Wed Dec 22 2021 18:18:23 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 27 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - CRONA Price: $0.52 Market Cap: $29,835,962.14 
+Staked: 6047147.7810 CRONA ($3,159,415.67)
+CRONA Per Week: 287658.00 ($150,290.89)
+APR: Day 0.68% Week 4.76% Year 247.36%
+You are staking 0.00 CRONA ($0.00), 0.00% of the pool.
+Stake 0.00 CRONA
+Unstake 0.00 CRONA
+Claim 0.00 CRONA ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WCRO]-[CRONA] Crona LP Token [+] [-] [<=>] Price: $1.09 TVL: $3,968,025.20
+WCRO Price: $0.54
+CRONA Price: $0.52
+Staked: 2155349.2687 Crona-LP ($2,339,131.43)
+CRONA Per Week: 256837.50 ($134,188.29)
+APR: Day 0.82% Week 5.74% Year 298.31%
+You are staking 0.00 [WCRO]-[CRONA] Crona LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WCRO]-[CRONA] Crona LP Token
+Unstake 0.00 [WCRO]-[CRONA] Crona LP Token
+Claim 0.00 CRONA ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WCRO]-[USDC] Crona LP Token [+] [-] [<=>] Price: $1,577,289.72 TVL: $1,801,466.56
+WCRO Price: $0.54
+USDC Price: $1.01
+Staked: 1.0936 Crona-LP ($1,724,935.41)
+CRONA Per Week: 32104.69 ($16,773.54)
+APR: Day 0.14% Week 0.97% Year 50.57%
+You are staking 0.00 [WCRO]-[USDC] Crona LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WCRO]-[USDC] Crona LP Token
+Unstake 0.00 [WCRO]-[USDC] Crona LP Token
+Claim 0.00 CRONA ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WCRO]-[USDT] Crona LP Token [+] [-] [<=>] Price: $1,561,759.12 TVL: $811,057.71
+WCRO Price: $0.54
+USDT Price: $1.01
+Staked: 0.5000 Crona-LP ($780,853.15)
+CRONA Per Week: 12841.88 ($6,709.41)
+APR: Day 0.12% Week 0.86% Year 44.68%
+You are staking 0.00 [WCRO]-[USDT] Crona LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WCRO]-[USDT] Crona LP Token
+Unstake 0.00 [WCRO]-[USDT] Crona LP Token
+Claim 0.00 CRONA ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [WCRO]-[WETH] Crona LP Token [+] [-] [<=>] Price: $94.57 TVL: $339,620.30
+WCRO Price: $0.54
+WETH Price: $4,030.89
+Staked: 2880.2159 Crona-LP ($272,389.02)
+CRONA Per Week: 642.09 ($335.47)
+APR: Day 0.02% Week 0.12% Year 6.40%
+You are staking 0.00 [WCRO]-[WETH] Crona LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WCRO]-[WETH] Crona LP Token
+Unstake 0.00 [WCRO]-[WETH] Crona LP Token
+Claim 0.00 CRONA ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WBTC]-[WCRO] Crona LP Token [+] [-] [<=>] Price: $33,131,705.91 TVL: $635,025.09
+WBTC Price: $49,270.00
+WCRO Price: $0.54
+Staked: 0.0185 Crona-LP ($614,586.27)
+CRONA Per Week: 642.09 ($335.47)
+APR: Day 0.01% Week 0.05% Year 2.84%
+You are staking 0.00 [WBTC]-[WCRO] Crona LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[WCRO] Crona LP Token
+Unstake 0.00 [WBTC]-[WCRO] Crona LP Token
+Claim 0.00 CRONA ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [WCRO]-[DAI] Crona LP Token [+] [-] [<=>] Price: $1.51 TVL: $305,932.60
+WCRO Price: $0.54
+DAI Price: $1.01
+Staked: 200826.5488 Crona-LP ($303,719.57)
+CRONA Per Week: 642.09 ($335.47)
+APR: Day 0.02% Week 0.11% Year 5.74%
+You are staking 0.00 [WCRO]-[DAI] Crona LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WCRO]-[DAI] Crona LP Token
+Unstake 0.00 [WCRO]-[DAI] Crona LP Token
+Claim 0.00 CRONA ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [USDT]-[BUSD] Crona LP Token [+] [-] [<=>] Price: $2,040,062.44 TVL: $10,124,869.02
+USDT Price: $1.01
+BUSD Price: $1.01
+Staked: 4.8867 Crona-LP ($9,969,103.15)
+CRONA Per Week: 64209.38 ($33,547.07)
+APR: Day 0.05% Week 0.34% Year 17.50%
+You are staking 0.00 [USDT]-[BUSD] Crona LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Crona LP Token
+Unstake 0.00 [USDT]-[BUSD] Crona LP Token
+Claim 0.00 CRONA ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [USDT]-[FTM] Crona LP Token [+] [-] [<=>] Price: $2,600,316.77 TVL: $887,509.42
+USDT Price: $1.01
+FTM Price: $1.63
+Staked: 0.3413 Crona-LP ($887,391.36)
+CRONA Per Week: 3210.47 ($1,677.35)
+APR: Day 0.03% Week 0.19% Year 9.83%
+You are staking 0.00 [USDT]-[FTM] Crona LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[FTM] Crona LP Token
+Unstake 0.00 [USDT]-[FTM] Crona LP Token
+Claim 0.00 CRONA ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [USDT]-[USDC] Crona LP Token [+] [-] [<=>] Price: $2,034,928,896,778.63 TVL: $19,372,654.52
+USDT Price: $1.01
+USDC Price: $1.01
+Staked: 0.0000 Crona-LP ($19,264,137.74)
+CRONA Per Week: 128418.75 ($67,094.15)
+APR: Day 0.05% Week 0.35% Year 18.11%
+You are staking 0.00 [USDT]-[USDC] Crona LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[USDC] Crona LP Token
+Unstake 0.00 [USDT]-[USDC] Crona LP Token
+Claim 0.00 CRONA ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [BUSD]-[BNB] Crona LP Token [+] [-] [<=>] Price: $46.98 TVL: $1,163,985.45
+BUSD Price: $1.01
+BNB Price: $538.88
+Staked: 19282.6134 Crona-LP ($905,828.85)
+CRONA Per Week: 6420.94 ($3,354.71)
+APR: Day 0.05% Week 0.37% Year 19.26%
+You are staking 0.00 [BUSD]-[BNB] Crona LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [BUSD]-[BNB] Crona LP Token
+Unstake 0.00 [BUSD]-[BNB] Crona LP Token
+Claim 0.00 CRONA ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [CRONA]-[USDC] Crona LP Token [+] [-] [<=>] Price: $1,534,140.97 TVL: $933,560.30
+CRONA Price: $0.52
+USDC Price: $1.01
+Staked: 0.5968 Crona-LP ($915,623.60)
+CRONA Per Week: 128418.75 ($67,094.15)
+APR: Day 1.05% Week 7.33% Year 381.04%
+You are staking 0.00 [CRONA]-[USDC] Crona LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [CRONA]-[USDC] Crona LP Token
+Unstake 0.00 [CRONA]-[USDC] Crona LP Token
+Claim 0.00 CRONA ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [USDT]-[CRONA] Crona LP Token [+] [-] [<=>] Price: $30,335,307.13 TVL: $487,702.92
+USDT Price: $1.01
+CRONA Price: $0.52
+Staked: 0.0159 Crona-LP ($482,477.96)
+CRONA Per Week: 64209.38 ($33,547.07)
+APR: Day 0.99% Week 6.95% Year 361.56%
+You are staking 0.00 [USDT]-[CRONA] Crona LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[CRONA] Crona LP Token
+Unstake 0.00 [USDT]-[CRONA] Crona LP Token
+Claim 0.00 CRONA ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [WIND]-[WCRO] Crona LP Token [+] [-] [<=>] Price: $0.38 TVL: $59,116.59
+WIND Price: $0.06
+WCRO Price: $0.54
+Staked: 16747.8177 Crona-LP ($6,418.90)
+CRONA Per Week: 642.09 ($335.47)
+APR: Day 0.75% Week 5.23% Year 271.77%
+You are staking 0.00 [WIND]-[WCRO] Crona LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WIND]-[WCRO] Crona LP Token
+Unstake 0.00 [WIND]-[WCRO] Crona LP Token
+Claim 0.00 CRONA ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [USDC]-[DAI] Crona LP Token [+] [-] [<=>] Price: $2,034,225.65 TVL: $2,183,956.86
+USDC Price: $1.01
+DAI Price: $1.01
+Staked: 1.0607 Crona-LP ($2,157,664.00)
+CRONA Per Week: 12841.88 ($6,709.41)
+APR: Day 0.04% Week 0.31% Year 16.17%
+You are staking 0.00 [USDC]-[DAI] Crona LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAI] Crona LP Token
+Unstake 0.00 [USDC]-[DAI] Crona LP Token
+Claim 0.00 CRONA ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [WCRO]-[CRYSTL] Crona LP Token [+] [-] [<=>] Price: $0.78 TVL: $57,251.78
+WCRO Price: $0.54
+CRYSTL Price: $0.27
+Staked: 73432.5034 Crona-LP ($57,024.22)
+CRONA Per Week: 642.09 ($335.47)
+APR: Day 0.08% Week 0.59% Year 30.59%
+You are staking 0.00 [WCRO]-[CRYSTL] Crona LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WCRO]-[CRYSTL] Crona LP Token
+Unstake 0.00 [WCRO]-[CRYSTL] Crona LP Token
+Claim 0.00 CRONA ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [AUTO]-[WCRO] Crona LP Token [+] [-] [<=>] Price: $37.36 TVL: $20,074.11
+AUTO Price: $641.17
+WCRO Price: $0.54
+Staked: 533.3042 Crona-LP ($19,921.84)
+CRONA Per Week: 642.09 ($335.47)
+APR: Day 0.24% Week 1.68% Year 87.56%
+You are staking 0.00 [AUTO]-[WCRO] Crona LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [AUTO]-[WCRO] Crona LP Token
+Unstake 0.00 [AUTO]-[WCRO] Crona LP Token
+Claim 0.00 CRONA ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - [CADDY]-[WCRO] Crona LP Token [+] [-] [<=>] Price: $0.12 TVL: $1,275,280.70
+CADDY Price: $0.006907
+WCRO Price: $0.54
+Staked: 65449.8345 Crona-LP ($7,999.92)
+CRONA Per Week: 642.09 ($335.47)
+APR: Day 0.60% Week 4.19% Year 218.06%
+You are staking 0.00 [CADDY]-[WCRO] Crona LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [CADDY]-[WCRO] Crona LP Token
+Unstake 0.00 [CADDY]-[WCRO] Crona LP Token
+Claim 0.00 CRONA ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - [WCRO]-[LIQ] Crona LP Token [+] [-] [<=>] Price: $2.18 TVL: $248,560.85
+WCRO Price: $0.54
+LIQ Price: $2.18
+Staked: 8050.8598 Crona-LP ($17,511.85)
+CRONA Per Week: 642.09 ($335.47)
+APR: Day 0.27% Week 1.92% Year 99.62%
+You are staking 0.00 [WCRO]-[LIQ] Crona LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WCRO]-[LIQ] Crona LP Token
+Unstake 0.00 [WCRO]-[LIQ] Crona LP Token
+Claim 0.00 CRONA ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [WBTC]-[USDC] Crona LP Token [+] [-] [<=>] Price: $44,686,358,047,282.71 TVL: $1,098,795.63
+WBTC Price: $49,270.00
+USDC Price: $1.01
+Staked: 0.0000 Crona-LP ($1,095,712.26)
+CRONA Per Week: 9631.41 ($5,032.06)
+APR: Day 0.07% Week 0.46% Year 23.88%
+You are staking 0.00 [WBTC]-[USDC] Crona LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[USDC] Crona LP Token
+Unstake 0.00 [WBTC]-[USDC] Crona LP Token
+Claim 0.00 CRONA ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - [USDC]-[WETH] Crona LP Token [+] [-] [<=>] Price: $495,849,332.47 TVL: $1,336,337.75
+USDC Price: $1.01
+WETH Price: $4,030.89
+Staked: 0.0027 Crona-LP ($1,336,169.22)
+CRONA Per Week: 9631.41 ($5,032.06)
+APR: Day 0.05% Week 0.38% Year 19.58%
+You are staking 0.00 [USDC]-[WETH] Crona LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Crona LP Token
+Unstake 0.00 [USDC]-[WETH] Crona LP Token
+Claim 0.00 CRONA ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - [WBTC]-[WETH] Crona LP Token [+] [-] [<=>] Price: $54,979,557,364.33 TVL: $12,117,707.44
+WBTC Price: $49,270.00
+WETH Price: $4,030.89
+Staked: 0.0002 Crona-LP ($12,108,883.36)
+CRONA Per Week: 128418.75 ($67,094.15)
+APR: Day 0.08% Week 0.55% Year 28.81%
+You are staking 0.00 [WBTC]-[WETH] Crona LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[WETH] Crona LP Token
+Unstake 0.00 [WBTC]-[WETH] Crona LP Token
+Claim 0.00 CRONA ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - [DUO]-[WCRO] Crona LP Token [+] [-] [<=>] Price: $3.46 TVL: $78,933.23
+DUO Price: $4.14
+WCRO Price: $0.54
+Staked: 1410.8319 Crona-LP ($4,887.49)
+CRONA Per Week: 642.09 ($335.47)
+APR: Day 0.98% Week 6.86% Year 356.92%
+You are staking 0.00 [DUO]-[WCRO] Crona LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [DUO]-[WCRO] Crona LP Token
+Unstake 0.00 [DUO]-[WCRO] Crona LP Token
+Claim 0.00 CRONA ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $58,431,786.22

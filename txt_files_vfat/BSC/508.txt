@@ -1,0 +1,413 @@
+*************** 👨‍🌾 UNOFFICIAL 1001NIGHTS IAGO FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://iago.1001nights.gold
+************************************************************************************
+
+Thu Jan 27 2022 21:39:36 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 37 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+1 - [USDT]-[WBNB] Cake LP [+] [-] [<=>] Price: $48.74 TVL: $190,439,196.21
+USDT Price: $1.00
+WBNB Price: $368.53
+Staked: 0.0044 Cake-LP ($0.21)
+IAGO Per Week: 3834.16 ($0.04)
+APR: Day 2.38% Week 16.69% Year 868.11%
+You are staking 0.00 [USDT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[WBNB] Cake LP
+Claim 0.00 IAGO ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $7,727.97 TVL: $68,341,256.63
+BTCB Price: $36,105.00
+WBNB Price: $368.53
+Staked: 0.0000 Cake-LP ($0.18)
+IAGO Per Week: 3834.16 ($0.04)
+APR: Day 2.78% Week 19.45% Year 1011.19%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 IAGO ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,027.59 TVL: $73,868,151.60
+ETH Price: $2,415.14
+WBNB Price: $368.53
+Staked: 0.0001 Cake-LP ($0.18)
+IAGO Per Week: 3834.16 ($0.04)
+APR: Day 2.83% Week 19.79% Year 1029.30%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 IAGO ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $105.50 TVL: $200,863,703.97
+Cake Price: $7.00
+WBNB Price: $368.53
+Staked: 0.0000 Cake-LP ($0.00)
+IAGO Per Week: 3450.74 ($0.03)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 IAGO ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [Cake]-[BUSD] Cake LP [+] [-] [<=>] Price: $7.81 TVL: $11,503,758.81
+Cake Price: $7.00
+BUSD Price: $1.00
+Staked: 0.0160 Cake-LP ($0.13)
+IAGO Per Week: 3450.74 ($0.03)
+APR: Day 3.67% Week 25.69% Year 1335.83%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 IAGO ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [DOT]-[WBNB] Cake LP [+] [-] [<=>] Price: $172.58 TVL: $17,716,827.76
+DOT Price: $17.95
+WBNB Price: $368.53
+Staked: 0.0009 Cake-LP ($0.16)
+IAGO Per Week: 3450.74 ($0.03)
+APR: Day 2.89% Week 20.24% Year 1052.38%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 IAGO ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [ADA]-[WBNB] Cake LP [+] [-] [<=>] Price: $42.30 TVL: $12,079,732.93
+ADA Price: $1.03
+WBNB Price: $368.53
+Staked: 0.4353 Cake-LP ($18.41)
+IAGO Per Week: 3450.74 ($0.03)
+APR: Day 0.02% Week 0.17% Year 9.09%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 IAGO ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.10 TVL: $297,193,145.77
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+IAGO Per Week: 3067.33 ($0.03)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 IAGO ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [DAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $16,865,295.25
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0939 Cake-LP ($0.20)
+IAGO Per Week: 3067.33 ($0.03)
+APR: Day 2.09% Week 14.60% Year 759.05%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 IAGO ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $131,499,884.55
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0929 Cake-LP ($0.19)
+IAGO Per Week: 3067.33 ($0.03)
+APR: Day 2.11% Week 14.74% Year 766.51%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 IAGO ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - IAGO Price: $0.00 Market Cap: $0.00 
+Staked: 261579.8063 IAGO ($0.00)
+IAGO Per Week: 15336.63 ($0.14)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 IAGO ($0.00), NaN% of the pool.
+Stake 0.00 IAGO
+Unstake 0.00 IAGO
+Claim 0.00 IAGO ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - BUSD Price: $1.00 Market Cap: $4,848,738,822.91 [%]
+Staked: 0.2212 BUSD ($0.22)
+IAGO Per Week: 2683.91 ($0.03)
+APR: Day 1.62% Week 11.32% Year 588.82%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 IAGO ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - USDT Price: $1.00 Market Cap: $3,879,997,922.18 [%]
+Staked: 6.4837 USDT ($6.48)
+IAGO Per Week: 2683.91 ($0.03)
+APR: Day 0.06% Week 0.39% Year 20.08%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 IAGO ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - WBNB Price: $368.53 Market Cap: $1,923,739,714.76 [%]
+Staked: 0.0000 WBNB ($0.00)
+IAGO Per Week: 2683.91 ($0.03)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 WBNB ($0.00), NaN% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 IAGO ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - BTCB Price: $36,105.00 Market Cap: $4,061,848,605.00 [%]
+Staked: 0.0000 BTCB ($0.00)
+IAGO Per Week: 1533.66 ($0.01)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 BTCB ($0.00), NaN% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 IAGO ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - ETH Price: $2,415.14 Market Cap: $3,393,271,700.00 [%]
+Staked: 0.0000 ETH ($0.00)
+IAGO Per Week: 1533.66 ($0.01)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 ETH ($0.00), NaN% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 IAGO ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - Cake Price: $7.00 Market Cap: $4,304,784,167.46 [%]
+Staked: 0.0558 Cake ($0.39)
+IAGO Per Week: 1533.66 ($0.01)
+APR: Day 0.52% Week 3.66% Year 190.41%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 IAGO ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - DAI Price: $1.00 Market Cap: $262,000,000.00 [%]
+Staked: 0.1584 DAI ($0.16)
+IAGO Per Week: 1533.66 ($0.01)
+APR: Day 1.29% Week 9.04% Year 469.83%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 IAGO ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - USDC Price: $1.00 Market Cap: $1,779,000,000.00 [%]
+Staked: 0.3737 USDC ($0.37)
+IAGO Per Week: 1533.66 ($0.01)
+APR: Day 0.55% Week 3.83% Year 199.12%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 IAGO ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - DOT Price: $17.95 Market Cap: $287,199,999.84 [%]
+Staked: 0.0000 DOT ($0.00)
+IAGO Per Week: 1533.66 ($0.01)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 DOT ($0.00), NaN% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 IAGO ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - ADA Price: $1.03 Market Cap: $288,400,000.00 [%]
+Staked: 0.7406 ADA ($0.76)
+IAGO Per Week: 1533.66 ($0.01)
+APR: Day 0.27% Week 1.88% Year 97.54%
+You are staking 0.00 ADA ($0.00), 0.00% of the pool.
+Stake 0.00 ADA - Fee 4%
+Unstake 0.00 ADA
+Claim 0.00 IAGO ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - [ABU]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.04 TVL: $60.35
+ABU Price: $0.000324
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+IAGO Per Week: 6901.48 ($0.06)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [ABU]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [ABU]-[BUSD] Cake LP - Fee 1%
+Unstake 0.00 [ABU]-[BUSD] Cake LP
+Claim 0.00 IAGO ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [IAGO]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.01 TVL: $6.65
+IAGO Price: $0.0000093293
+BUSD Price: $1.00
+Staked: 40.6896 Cake-LP ($0.29)
+IAGO Per Week: 30673.26 ($0.29)
+APR: Day 14.28% Week 99.96% Year 5197.75%
+You are staking 0.00 [IAGO]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [IAGO]-[BUSD] Cake LP
+Unstake 0.00 [IAGO]-[BUSD] Cake LP
+Claim 0.00 IAGO ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - ABU Price: $0.000324 Market Cap: $106.83 [%]
+Staked: 8292.0629 ABU ($2.69)
+IAGO Per Week: 4600.99 ($0.04)
+APR: Day 0.23% Week 1.60% Year 83.01%
+You are staking 0.00 ABU ($0.00), 0.00% of the pool.
+Stake 0.00 ABU - Fee 0.5%
+Unstake 0.00 ABU
+Claim 0.00 IAGO ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - [ALADDIN]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.03 TVL: $27.34
+ALADDIN Price: $0.000225
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+IAGO Per Week: 6901.48 ($0.06)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [ALADDIN]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [ALADDIN]-[BUSD] Cake LP - Fee 1%
+Unstake 0.00 [ALADDIN]-[BUSD] Cake LP
+Claim 0.00 IAGO ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - ALADDIN Price: $0.000225 Market Cap: $68.64 [%]
+Staked: 4127.1660 ALADDIN ($0.93)
+IAGO Per Week: 4600.99 ($0.04)
+APR: Day 0.66% Week 4.62% Year 240.24%
+You are staking 0.00 ALADDIN ($0.00), 0.00% of the pool.
+Stake 0.00 ALADDIN - Fee 0.5%
+Unstake 0.00 ALADDIN
+Claim 0.00 IAGO ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - [JASMINE]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.05 TVL: $29.41
+JASMINE Price: $0.000533
+BUSD Price: $1.00
+Staked: 0.9000 Cake-LP ($0.05)
+IAGO Per Week: 6901.48 ($0.06)
+APR: Day 19.86% Week 139.00% Year 7227.86%
+You are staking 0.00 [JASMINE]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [JASMINE]-[BUSD] Cake LP - Fee 1%
+Unstake 0.00 [JASMINE]-[BUSD] Cake LP
+Claim 0.00 IAGO ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - JASMINE Price: $0.000533 Market Cap: $94.49 [%]
+Staked: 10131.0145 JASMINE ($5.40)
+IAGO Per Week: 4600.99 ($0.04)
+APR: Day 0.11% Week 0.79% Year 41.34%
+You are staking 0.00 JASMINE ($0.00), 0.00% of the pool.
+Stake 0.00 JASMINE - Fee 0.5%
+Unstake 0.00 JASMINE
+Claim 0.00 IAGO ($0.00)
+Staking or unstaking also claims rewards.
+
+29 - [RAJAH]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.03 TVL: $125.31
+RAJAH Price: $0.000245
+BUSD Price: $1.00
+Staked: 200.0000 Cake-LP ($6.69)
+IAGO Per Week: 6901.48 ($0.06)
+APR: Day 0.14% Week 0.96% Year 50.05%
+You are staking 0.00 [RAJAH]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [RAJAH]-[BUSD] Cake LP - Fee 1%
+Unstake 0.00 [RAJAH]-[BUSD] Cake LP
+Claim 0.00 IAGO ($0.00)
+Staking or unstaking also claims rewards.
+
+30 - [IAGO]-[WBNB] Cake LP [+] [-] [<=>] Price: $0.17 TVL: $1.05
+IAGO Price: $0.0000093293
+WBNB Price: $368.53
+Staked: 2.2301 Cake-LP ($0.37)
+IAGO Per Week: 23004.94 ($0.21)
+APR: Day 8.20% Week 57.42% Year 2985.71%
+You are staking 0.00 [IAGO]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [IAGO]-[WBNB] Cake LP
+Unstake 0.00 [IAGO]-[WBNB] Cake LP
+Claim 0.00 IAGO ($0.00)
+Staking or unstaking also claims rewards.
+
+31 - RAJAH Price: $0.000245 Market Cap: $141.25 [%]
+Staked: 42321.7244 RAJAH ($10.35)
+IAGO Per Week: 4600.99 ($0.04)
+APR: Day 0.06% Week 0.41% Year 21.57%
+You are staking 0.00 RAJAH ($0.00), 0.00% of the pool.
+Stake 0.00 RAJAH - Fee 0.5%
+Unstake 0.00 RAJAH
+Claim 0.00 IAGO ($0.00)
+Staking or unstaking also claims rewards.
+
+32 - [WWF]-[WBNB] Cake LP [+] [-] [<=>] Price: $1.40 TVL: $1,967.48
+WWF Price: $0.001075
+WBNB Price: $368.53
+Staked: 3.4298 Cake-LP ($4.81)
+IAGO Per Week: 3834.16 ($0.04)
+APR: Day 0.11% Week 0.74% Year 38.66%
+You are staking 0.00 [WWF]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WWF]-[WBNB] Cake LP - Fee 2%
+Unstake 0.00 [WWF]-[WBNB] Cake LP
+Claim 0.00 IAGO ($0.00)
+Staking or unstaking also claims rewards.
+
+33 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.46 TVL: $346,249,328.40
+WBNB Price: $368.53
+BUSD Price: $1.00
+Staked: 0.0045 Cake-LP ($0.21)
+IAGO Per Week: 4600.99 ($0.04)
+APR: Day 2.88% Week 20.18% Year 1049.48%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 IAGO ($0.00)
+Staking or unstaking also claims rewards.
+
+34 - [WWE]-[WBNB] Cake LP [+] [-] [<=>] Price: $0.17 TVL: $59.72
+WWE Price: $0.0000108079
+WBNB Price: $368.53
+Staked: 7.5152 Cake-LP ($1.24)
+IAGO Per Week: 3834.16 ($0.04)
+APR: Day 0.41% Week 2.88% Year 149.90%
+You are staking 0.00 [WWE]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WWE]-[WBNB] Cake LP - Fee 2%
+Unstake 0.00 [WWE]-[WBNB] Cake LP
+Claim 0.00 IAGO ($0.00)
+Staking or unstaking also claims rewards.
+
+35 - WWE Price: $0.0000108079 Market Cap: $229.46 [%]
+Staked: 48281.1231 WWE ($0.52)
+IAGO Per Week: 2683.91 ($0.03)
+APR: Day 0.69% Week 4.80% Year 249.52%
+You are staking 0.00 WWE ($0.00), 0.00% of the pool.
+Stake 0.00 WWE - Fee 2%
+Unstake 0.00 WWE
+Claim 0.00 IAGO ($0.00)
+Staking or unstaking also claims rewards.
+
+36 - JAFAR Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 JAFAR ($0.00)
+IAGO Per Week: 1832727.27 ($17.10)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 JAFAR ($0.00), NaN% of the pool.
+Stake 0.00 JAFAR
+Unstake 0.00 JAFAR
+Claim 0.00 IAGO ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $61.61

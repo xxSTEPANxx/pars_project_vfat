@@ -2,7 +2,7 @@
 INFO  : https://nearpad.io
 *******************************************************************************
 
-Mon Dec 20 2021 09:54:10 GMT+0300 (Москва, стандартное время)
+Wed Dec 22 2021 18:23:03 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
@@ -12,172 +12,172 @@ Staking Contract
 Found 18 pools.
 Showing incentivized pools only.
 Finished reading smart contracts.
-0 - [USDT]-[PAD] SLP [+] [-] [<=>] Price: $1,657,086.31 TVL: $308,294.89
+0 - [USDT]-[PAD] SLP [+] [-] [<=>] Price: $1,657,112.52 TVL: $307,643.82
 USDT Price: $1.00
-PAD Price: $0.66
-Staked: 0.1858 SLP ($307,902.85)
-PAD Per Week: 32727.27 ($21,516.65)
-APR: Day 1.00% Week 6.99% Year 363.38%
+PAD Price: $0.65
+Staked: 0.1854 SLP ($307,146.19)
+PAD Per Week: 32727.27 ($21,427.23)
+APR: Day 1.00% Week 6.98% Year 362.76%
 You are staking 0.00 [USDT]-[PAD] SLP ($0.00), 0.00% of the pool.
 Stake 0.00 [USDT]-[PAD] SLP
 Unstake 0.00 [USDT]-[PAD] SLP
 Claim 0.00 PAD ($0.00)
 Staking or unstaking also claims rewards.
 
-1 - [PAD]-[USDC] SLP [+] [-] [<=>] Price: $1,652,530.10 TVL: $302,714.40
-PAD Price: $0.66
-USDC Price: $1.01
-Staked: 0.1747 SLP ($288,698.88)
-PAD Per Week: 32727.27 ($21,516.65)
-APR: Day 1.06% Week 7.45% Year 387.55%
+1 - [PAD]-[USDC] SLP [+] [-] [<=>] Price: $1,646,584.91 TVL: $248,772.66
+PAD Price: $0.65
+USDC Price: $1.00
+Staked: 0.1499 SLP ($246,824.23)
+PAD Per Week: 32727.27 ($21,427.23)
+APR: Day 1.24% Week 8.68% Year 451.42%
 You are staking 0.00 [PAD]-[USDC] SLP ($0.00), 0.00% of the pool.
 Stake 0.00 [PAD]-[USDC] SLP
 Unstake 0.00 [PAD]-[USDC] SLP
 Claim 0.00 PAD ($0.00)
 Staking or unstaking also claims rewards.
 
-2 - [PAD]-[DAI] SLP [+] [-] [<=>] Price: $1.64 TVL: $159,038.34
-PAD Price: $0.66
-DAI Price: $1.00
-Staked: 96666.3665 SLP ($158,668.75)
-PAD Per Week: 12272.73 ($8,068.74)
-APR: Day 0.73% Week 5.09% Year 264.43%
+2 - [PAD]-[DAI] SLP [+] [-] [<=>] Price: $1.63 TVL: $158,305.48
+PAD Price: $0.65
+DAI Price: $0.99
+Staked: 96666.3665 SLP ($157,936.47)
+PAD Per Week: 12272.73 ($8,035.21)
+APR: Day 0.73% Week 5.09% Year 264.56%
 You are staking 0.00 [PAD]-[DAI] SLP ($0.00), 0.00% of the pool.
 Stake 0.00 [PAD]-[DAI] SLP
 Unstake 0.00 [PAD]-[DAI] SLP
 Claim 0.00 PAD ($0.00)
 Staking or unstaking also claims rewards.
 
-3 - [PAD]-[WETH] SLP [+] [-] [<=>] Price: $101.95 TVL: $743,038.41
-PAD Price: $0.66
-WETH Price: $3,852.61
-Staked: 7209.9533 SLP ($735,064.19)
-PAD Per Week: 77727.27 ($51,102.03)
-APR: Day 0.99% Week 6.95% Year 361.51%
+3 - [PAD]-[WETH] SLP [+] [-] [<=>] Price: $104.23 TVL: $773,561.92
+PAD Price: $0.65
+WETH Price: $4,031.19
+Staked: 7367.8962 SLP ($767,967.31)
+PAD Per Week: 77727.27 ($50,889.67)
+APR: Day 0.95% Week 6.63% Year 344.58%
 You are staking 0.00 [PAD]-[WETH] SLP ($0.00), 0.00% of the pool.
 Stake 0.00 [PAD]-[WETH] SLP
 Unstake 0.00 [PAD]-[WETH] SLP
 Claim 0.00 PAD ($0.00)
 Staking or unstaking also claims rewards.
 
-5 - [PAD]-[NEAR] SLP [+] [-] [<=>] Price: $0.00 TVL: $1,633,285.40
-PAD Price: $0.66
-NEAR Price: $8.68
-Staked: 330329733.0764 SLP ($1,602,562.61)
-PAD Per Week: 163636.36 ($107,583.23)
-APR: Day 0.96% Week 6.71% Year 349.09%
+5 - [PAD]-[NEAR] SLP [+] [-] [<=>] Price: $0.01 TVL: $2,077,088.83
+PAD Price: $0.65
+NEAR Price: $11.50
+Staked: 371883150.2585 SLP ($2,074,302.27)
+PAD Per Week: 163636.36 ($107,136.14)
+APR: Day 0.74% Week 5.16% Year 268.58%
 You are staking 0.00 [PAD]-[NEAR] SLP ($0.00), 0.00% of the pool.
 Stake 0.00 [PAD]-[NEAR] SLP
 Unstake 0.00 [PAD]-[NEAR] SLP
 Claim 0.00 PAD ($0.00)
 Staking or unstaking also claims rewards.
 
-6 - [USDT]-[USDC] SLP [+] [-] [<=>] Price: $2,011,207,900,123.97 TVL: $1,329,062.52
+6 - [USDT]-[USDC] SLP [+] [-] [<=>] Price: $2,007,646,863,388.69 TVL: $1,257,608.45
 USDT Price: $1.00
-USDC Price: $1.01
-Staked: 0.0000 SLP ($1,327,268.72)
-PAD Per Week: 8181.82 ($5,379.16)
-APR: Day 0.06% Week 0.41% Year 21.07%
+USDC Price: $1.00
+Staked: 0.0000 SLP ($1,255,667.78)
+PAD Per Week: 8181.82 ($5,356.81)
+APR: Day 0.06% Week 0.43% Year 22.18%
 You are staking 0.00 [USDT]-[USDC] SLP ($0.00), 0.00% of the pool.
 Stake 0.00 [USDT]-[USDC] SLP
 Unstake 0.00 [USDT]-[USDC] SLP
 Claim 0.00 PAD ($0.00)
 Staking or unstaking also claims rewards.
 
-9 - [NEAR]-[WETH] SLP [+] [-] [<=>] Price: $0.37 TVL: $454,982.28
-NEAR Price: $8.68
-WETH Price: $3,852.61
-Staked: 1234919.6298 SLP ($454,622.00)
-PAD Per Week: 8181.82 ($5,379.16)
-APR: Day 0.17% Week 1.18% Year 61.53%
+9 - [NEAR]-[WETH] SLP [+] [-] [<=>] Price: $0.43 TVL: $259,133.38
+NEAR Price: $11.50
+WETH Price: $4,031.19
+Staked: 580872.9835 SLP ($251,871.76)
+PAD Per Week: 8181.82 ($5,356.81)
+APR: Day 0.30% Week 2.13% Year 110.59%
 You are staking 0.00 [NEAR]-[WETH] SLP ($0.00), 0.00% of the pool.
 Stake 0.00 [NEAR]-[WETH] SLP
 Unstake 0.00 [NEAR]-[WETH] SLP
 Claim 0.00 PAD ($0.00)
 Staking or unstaking also claims rewards.
 
-11 - [PAD]-[AURORA] SLP [+] [-] [<=>] Price: $5.37 TVL: $212,720.99
-PAD Price: $0.66
-AURORA Price: $10.81
-Staked: 39623.7023 SLP ($212,713.26)
-PAD Per Week: 16363.64 ($10,758.32)
-APR: Day 0.72% Week 5.06% Year 263.00%
+11 - [PAD]-[AURORA] SLP [+] [-] [<=>] Price: $5.84 TVL: $230,188.52
+PAD Price: $0.65
+AURORA Price: $12.85
+Staked: 39383.1620 SLP ($230,177.18)
+PAD Per Week: 16363.64 ($10,713.61)
+APR: Day 0.66% Week 4.65% Year 242.03%
 You are staking 0.00 [PAD]-[AURORA] SLP ($0.00), 0.00% of the pool.
 Stake 0.00 [PAD]-[AURORA] SLP
 Unstake 0.00 [PAD]-[AURORA] SLP
 Claim 0.00 PAD ($0.00)
 Staking or unstaking also claims rewards.
 
-12 - [PAD]-[TRI] SLP [+] [-] [<=>] Price: $1.43 TVL: $16,112.74
-PAD Price: $0.66
-TRI Price: $0.75
-Staked: 7152.3863 SLP ($10,192.41)
-PAD Per Week: 1022.73 ($672.40)
-APR: Day 0.94% Week 6.60% Year 343.05%
+12 - [PAD]-[TRI] SLP [+] [-] [<=>] Price: $1.94 TVL: $22,088.65
+PAD Price: $0.65
+TRI Price: $1.40
+Staked: 7194.7070 SLP ($13,969.50)
+PAD Per Week: 1022.73 ($669.60)
+APR: Day 0.68% Week 4.79% Year 249.25%
 You are staking 0.00 [PAD]-[TRI] SLP ($0.00), 0.00% of the pool.
 Stake 0.00 [PAD]-[TRI] SLP
 Unstake 0.00 [PAD]-[TRI] SLP
 Claim 0.00 PAD ($0.00)
 Staking or unstaking also claims rewards.
 
-13 - [NEAR]-[WBTC] SLP [+] [-] [<=>] Price: $126,637.63 TVL: $385,385.08
-NEAR Price: $8.68
-WBTC Price: $45,968.82
-Staked: 3.0430 SLP ($385,357.67)
-PAD Per Week: 8181.82 ($5,379.16)
-APR: Day 0.20% Week 1.40% Year 72.59%
+13 - [NEAR]-[WBTC] SLP [+] [-] [<=>] Price: $151,602.68 TVL: $461,187.25
+NEAR Price: $11.50
+WBTC Price: $49,701.47
+Staked: 3.0420 SLP ($461,179.38)
+PAD Per Week: 8181.82 ($5,356.81)
+APR: Day 0.17% Week 1.16% Year 60.40%
 You are staking 0.00 [NEAR]-[WBTC] SLP ($0.00), 0.00% of the pool.
 Stake 0.00 [NEAR]-[WBTC] SLP
 Unstake 0.00 [NEAR]-[WBTC] SLP
 Claim 0.00 PAD ($0.00)
 Staking or unstaking also claims rewards.
 
-14 - [PAD]-[FRAX] SLP [+] [-] [<=>] Price: $1.62 TVL: $227,794.65
-PAD Price: $0.66
-FRAX Price: $0.98
-Staked: 140877.5140 SLP ($227,694.51)
-PAD Per Week: 20454.55 ($13,447.90)
-APR: Day 0.84% Week 5.91% Year 307.12%
+14 - [PAD]-[FRAX] SLP [+] [-] [<=>] Price: $1.63 TVL: $215,321.99
+PAD Price: $0.65
+FRAX Price: $1.00
+Staked: 131959.1241 SLP ($215,215.17)
+PAD Per Week: 20454.55 ($13,392.02)
+APR: Day 0.89% Week 6.22% Year 323.58%
 You are staking 0.00 [PAD]-[FRAX] SLP ($0.00), 0.00% of the pool.
 Stake 0.00 [PAD]-[FRAX] SLP
 Unstake 0.00 [PAD]-[FRAX] SLP
 Claim 0.00 PAD ($0.00)
 Staking or unstaking also claims rewards.
 
-15 - [NEAR]-[FRAX] SLP [+] [-] [<=>] Price: $0.01 TVL: $795,087.69
-NEAR Price: $8.68
-FRAX Price: $0.98
-Staked: 135360628.0128 SLP ($795,083.74)
-PAD Per Week: 16363.64 ($10,758.32)
-APR: Day 0.19% Week 1.35% Year 70.36%
+15 - [NEAR]-[FRAX] SLP [+] [-] [<=>] Price: $0.01 TVL: $592,836.22
+NEAR Price: $11.50
+FRAX Price: $1.00
+Staked: 86657648.8098 SLP ($592,577.83)
+PAD Per Week: 16363.64 ($10,713.61)
+APR: Day 0.26% Week 1.81% Year 94.01%
 You are staking 0.00 [NEAR]-[FRAX] SLP ($0.00), 0.00% of the pool.
 Stake 0.00 [NEAR]-[FRAX] SLP
 Unstake 0.00 [NEAR]-[FRAX] SLP
 Claim 0.00 PAD ($0.00)
 Staking or unstaking also claims rewards.
 
-16 - [MODA]-[PAD] SLP [+] [-] [<=>] Price: $3.32 TVL: $24,681.21
-MODA Price: $4.18
-PAD Price: $0.66
-Staked: 7380.8665 SLP ($24,530.83)
-PAD Per Week: 3068.18 ($2,017.19)
-APR: Day 1.17% Week 8.22% Year 427.60%
+16 - [MODA]-[PAD] SLP [+] [-] [<=>] Price: $3.69 TVL: $27,579.89
+MODA Price: $5.17
+PAD Price: $0.65
+Staked: 7432.0205 SLP ($27,412.84)
+PAD Per Week: 3068.18 ($2,008.80)
+APR: Day 1.05% Week 7.33% Year 381.05%
 You are staking 0.00 [MODA]-[PAD] SLP ($0.00), 0.00% of the pool.
 Stake 0.00 [MODA]-[PAD] SLP
 Unstake 0.00 [MODA]-[PAD] SLP
 Claim 0.00 PAD ($0.00)
 Staking or unstaking also claims rewards.
 
-17 - [PAD]-[ROSE] SLP [+] [-] [<=>] Price: $0.35 TVL: $487,067.10
-PAD Price: $0.66
-ROSE Price: $0.05
-Staked: 843241.9523 SLP ($293,579.59)
-PAD Per Week: 8181.82 ($5,379.16)
-APR: Day 0.26% Week 1.83% Year 95.28%
+17 - [PAD]-[ROSE] SLP [+] [-] [<=>] Price: $0.43 TVL: $606,921.07
+PAD Price: $0.65
+ROSE Price: $0.07
+Staked: 829204.5806 SLP ($359,192.77)
+PAD Per Week: 8181.82 ($5,356.81)
+APR: Day 0.21% Week 1.49% Year 77.55%
 You are staking 0.00 [PAD]-[ROSE] SLP ($0.00), 0.00% of the pool.
 Stake 0.00 [PAD]-[ROSE] SLP
 Unstake 0.00 [PAD]-[ROSE] SLP
 Claim 0.00 PAD ($0.00)
 Staking or unstaking also claims rewards.
 
-Total Staked: $6,823,939.99
+Total Staked: $6,961,440.69

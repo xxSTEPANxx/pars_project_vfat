@@ -6,39 +6,17 @@ INFO  : https://afksystem.finance
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Thu Dec 16 2021 05:22:00 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 23:33:59 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
-Found 2 pools.
-Showing incentivized pools only.
-Finished reading smart contracts.
-0 - [USDC]-[SILVER] DFYN LP [+] [-] [<=>] Price: $607,037.35 TVL: $6,972.94
-USDC Price: $1.00
-SILVER Price: $0.07
-Staked: 0.0111 DFYNLP ($6,717.82)
-SILVER Per Week: 1092.53 ($81.08)
-APR: Day 0.17% Week 1.21% Year 62.76%
-You are staking 0.00 [USDC]-[SILVER] DFYN LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[SILVER] DFYN LP
-Unstake 0.00 [USDC]-[SILVER] DFYN LP
-Claim 0.00 SILVER ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $6,717.82
-Found 70 pools.
-Showing incentivized pools only.
 {
   "code": -32603,
-  "message": "Non-200 status code: '401'",
+  "message": "Non-200 status code: '400'",
   "data": {
-    "timestamp": "2021-12-16T02:22:25.962+00:00",
-    "status": 401,
-    "error": "Unauthorized",
-    "message": "",
-    "path": "/v3/295cce92179b4be498665b1b16dfee34"
+    "error": "Unable to verify your data submission."
   }
 }
 Oops something went wrong. Try refreshing the page.

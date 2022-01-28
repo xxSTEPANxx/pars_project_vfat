@@ -1,0 +1,267 @@
+*************** 👨‍🌾 UNOFFICIAL DR. MARIO FINANCE FARMING CALCULATOR 👨‍🌾 *****************
+INFO  : https://drmario.finance
+****************************************************************************************
+
+Thu Jan 27 2022 20:41:35 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 23 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [PILL]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.01 TVL: $15.97
+PILL Price: $0.0000246148
+BUSD Price: $1.00
+Staked: 1357.7771 Cake-LP ($14.88)
+PILL Per Week: 63000.00 ($1.55)
+APR: Day 1.49% Week 10.42% Year 541.90%
+You are staking 0.00 [PILL]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PILL]-[BUSD] Cake LP
+Unstake 0.00 [PILL]-[BUSD] Cake LP
+Claim 0.00 PILL ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [PILL]-[WBNB] Cake LP [+] [-] [<=>] Price: $0.21 TVL: $6.70
+PILL Price: $0.0000246148
+WBNB Price: $369.82
+Staked: 29.9247 Cake-LP ($6.17)
+PILL Per Week: 37800.00 ($0.93)
+APR: Day 2.15% Week 15.08% Year 783.99%
+You are staking 0.00 [PILL]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PILL]-[WBNB] Cake LP
+Unstake 0.00 [PILL]-[WBNB] Cake LP
+Claim 0.00 PILL ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $65.95 TVL: $2,134,222.71
+WBNB Price: $369.82
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+PILL Per Week: 7875.00 ($0.19)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 PILL ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.17 TVL: $3,557,476.06
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 4.5216 Cake-LP ($9.82)
+PILL Per Week: 6300.00 ($0.16)
+APR: Day 0.23% Week 1.58% Year 82.13%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 PILL ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $8,210.98 TVL: $298,393.46
+BTCB Price: $36,219.00
+WBNB Price: $369.82
+Staked: 0.0307 Cake-LP ($251.98)
+PILL Per Week: 9450.00 ($0.23)
+APR: Day 0.01% Week 0.09% Year 4.80%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 PILL ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,200.44 TVL: $480,145.38
+ETH Price: $2,453.65
+WBNB Price: $369.82
+Staked: 0.0026 Cake-LP ($5.77)
+PILL Per Week: 9450.00 ($0.23)
+APR: Day 0.58% Week 4.03% Year 209.56%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 PILL ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [DAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.05 TVL: $1,364,669.77
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+PILL Per Week: 6300.00 ($0.16)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 PILL ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.28 TVL: $253,414.81
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 26.3808 Cake-LP ($60.14)
+PILL Per Week: 6300.00 ($0.16)
+APR: Day 0.04% Week 0.26% Year 13.41%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 PILL ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [DOT]-[WBNB] Cake LP [+] [-] [<=>] Price: $179.61 TVL: $321,844.33
+DOT Price: $17.96
+WBNB Price: $369.82
+Staked: 0.0000 Cake-LP ($0.00)
+PILL Per Week: 6300.00 ($0.16)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 PILL ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [Cake]-[BUSD] Cake LP [+] [-] [<=>] Price: $8.64 TVL: $68,307.51
+Cake Price: $7.10
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+PILL Per Week: 3150.00 ($0.08)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 PILL ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $123.34 TVL: $3,330,576.11
+Cake Price: $7.10
+WBNB Price: $369.82
+Staked: 0.0960 Cake-LP ($11.84)
+PILL Per Week: 3150.00 ($0.08)
+APR: Day 0.09% Week 0.65% Year 34.05%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 PILL ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - PILL Price: $0.0000246148 Market Cap: $46.94 [%]
+Staked: 762775.4857 PILL ($18.78)
+PILL Per Week: 15750.00 ($0.39)
+APR: Day 0.29% Week 2.06% Year 107.37%
+You are staking 0.00 PILL ($0.00), 0.00% of the pool.
+Stake 0.00 PILL
+Unstake 0.00 PILL
+Claim 0.00 PILL ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - BUSD Price: $1.00 Market Cap: $4,845,740,905.29 [%]
+Staked: 65.0238 BUSD ($64.95)
+PILL Per Week: 3150.00 ($0.08)
+APR: Day 0.02% Week 0.12% Year 6.21%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 PILL ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - WBNB Price: $369.82 Market Cap: $1,930,913,628.67 [%]
+Staked: 0.0485 WBNB ($17.93)
+PILL Per Week: 4725.00 ($0.12)
+APR: Day 0.09% Week 0.65% Year 33.73%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 PILL ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - USDT Price: $1.00 Market Cap: $3,876,672,763.96 [%]
+Staked: 43.2000 USDT ($43.16)
+PILL Per Week: 1575.00 ($0.04)
+APR: Day 0.01% Week 0.09% Year 4.67%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 PILL ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - BTCB Price: $36,219.00 Market Cap: $4,074,673,719.00 [%]
+Staked: 0.0000 BTCB ($0.00)
+PILL Per Week: 3150.00 ($0.08)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 BTCB ($0.00), NaN% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 PILL ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - ETH Price: $2,453.65 Market Cap: $3,447,378,250.00 [%]
+Staked: 0.0003 ETH ($0.76)
+PILL Per Week: 3150.00 ($0.08)
+APR: Day 1.47% Week 10.26% Year 533.60%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 PILL ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - DAI Price: $1.00 Market Cap: $262,000,000.00 [%]
+Staked: 0.0001 DAI ($0.00)
+PILL Per Week: 1575.00 ($0.04)
+APR: Day 5759.31% Week 40315.20% Year 2096390.15%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 PILL ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - USDC Price: $1.00 Market Cap: $1,777,398,900.00 [%]
+Staked: 0.0000 USDC ($0.00)
+PILL Per Week: 1575.00 ($0.04)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 USDC ($0.00), NaN% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 PILL ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - DOT Price: $17.96 Market Cap: $287,359,999.84 [%]
+Staked: 0.0007 DOT ($0.01)
+PILL Per Week: 3150.00 ($0.08)
+APR: Day 86.47% Week 605.29% Year 31474.97%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 PILL ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - Cake Price: $7.10 Market Cap: $4,366,164,271.12 [%]
+Staked: 1.2730 Cake ($9.04)
+PILL Per Week: 1575.00 ($0.04)
+APR: Day 0.06% Week 0.43% Year 22.30%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 PILL ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - EGG Price: $0.13 Market Cap: $1,094,520.87 [%]
+Staked: 0.2782 EGG ($0.04)
+PILL Per Week: 1575.00 ($0.04)
+APR: Day 14.83% Week 103.81% Year 5398.29%
+You are staking 0.00 EGG ($0.00), 0.00% of the pool.
+Stake 0.00 EGG - Fee 4%
+Unstake 0.00 EGG
+Claim 0.00 PILL ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - AUTO Price: $406.67 Market Cap: $32,793,132.45 [%]
+Staked: 0.0000 AUTO ($0.00)
+PILL Per Week: 1575.00 ($0.04)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 AUTO ($0.00), NaN% of the pool.
+Stake 0.00 AUTO - Fee 4%
+Unstake 0.00 AUTO
+Claim 0.00 PILL ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $515.27

@@ -1,0 +1,29 @@
+*************** 👨‍🌾 UNOFFICIAL OILER.NETWORK FARMING CALCULATOR 👨‍🌾 ************
+INFO  : https://staking.oiler.network
+********************************************************************************
+
+Thu Jan 27 2022 19:56:22 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+USDC/OIL Uniswap Pool
+Uniswap USDC/OIL Pool Depth:
+ 1 377 357.62 USDC
+ 2 989 050.48 OIL
+OIL price: 0.46 USDC
+LP Tokens Total Supply: 1.992290 LP
+Staking Contract
+LP Tokens Locked in the Staking Contract: 0.005190 LP
+TVL (Total Value Locked) in the Staking Contract: 7 176.32 USDC
+Reward pool amount: 500 000.00 OIL (= 230 400.50 USDC)
+Current 100-day Staking Program Returns: 3210.57%
+ Dayly: 32.11%
+ Weekly: 224.74%
+ Monthly: 977.22%
+ Yearly: 11726.59%
+Staking Program ends in:
+ -1020300 blocks
+ -1 years -155 days -17 hours -46 minutes -30 seconds
+Finished reading smart contracts.

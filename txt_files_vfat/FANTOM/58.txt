@@ -1,0 +1,193 @@
+***************************** FANTOM NETWORK *************************************
+    
+*************** 🍓  👨‍🌾  UNOFFICIAL FOXY FINANCE FARMING CALCULATOR  👨‍🌾  🍓 *********************
+
+
+INFO  : https://fantomberry.world/
+
+
+***********************************************************************************
+
+Fri Jan 28 2022 00:45:27 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 16 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [WFTM]-[BERRY] SPOOKY LP [+] [-] [<=>] Price: $0.08 TVL: $13.42
+WFTM Price: $2.02
+BERRY Price: $0.000699
+Staked: 5.4975 spLP ($0.43)
+BERRY Per Week: 570.57 ($0.40)
+APR: Day 13.11% Week 91.76% Year 4771.69%
+You are staking 0.00 [WFTM]-[BERRY] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BERRY] SPOOKY LP
+Unstake 0.00 [WFTM]-[BERRY] SPOOKY LP
+Claim 0.00 BERRY ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [USDC]-[BERRY] SPOOKY LP [+] [-] [<=>] Price: $54,543.04 TVL: $11.30
+USDC Price: $1.00
+BERRY Price: $0.000699
+Staked: 0.0000 spLP ($1.38)
+BERRY Per Week: 570.57 ($0.40)
+APR: Day 4.13% Week 28.88% Year 1501.94%
+You are staking 0.00 [USDC]-[BERRY] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BERRY] SPOOKY LP
+Unstake 0.00 [USDC]-[BERRY] SPOOKY LP
+Claim 0.00 BERRY ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - BERRY Price: $0.000699 Market Cap: $23.90 
+Staked: 6379.7295 BERRY ($4.46)
+BERRY Per Week: 570.57 ($0.40)
+APR: Day 1.28% Week 8.94% Year 465.06%
+You are staking 0.00 BERRY ($0.00), 0.00% of the pool.
+Stake 0.00 BERRY
+Unstake 0.00 BERRY
+Claim 0.00 BERRY ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDC]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $4,352,058.94 TVL: $167,538,352.58
+USDC Price: $1.00
+WFTM Price: $2.02
+Staked: 0.0000 spLP ($0.22)
+BERRY Per Week: 190.19 ($0.13)
+APR: Day 8.72% Week 61.06% Year 3175.06%
+You are staking 0.00 [USDC]-[WFTM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WFTM] SPOOKY LP
+Unstake 0.00 [USDC]-[WFTM] SPOOKY LP - Fee 4%
+Claim 0.00 BERRY ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [WFTM]-[BOO] SPOOKY LP [+] [-] [<=>] Price: $14.92 TVL: $63,184,947.50
+WFTM Price: $2.02
+BOO Price: $25.21
+Staked: 0.0100 spLP ($0.15)
+BERRY Per Week: 114.11 ($0.08)
+APR: Day 7.64% Week 53.45% Year 2779.25%
+You are staking 0.00 [WFTM]-[BOO] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BOO] SPOOKY LP
+Unstake 0.00 [WFTM]-[BOO] SPOOKY LP - Fee 4%
+Claim 0.00 BERRY ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WFTM]-[ETH] SPOOKY LP [+] [-] [<=>] Price: $155.62 TVL: $42,196,967.84
+WFTM Price: $2.02
+ETH Price: $2,322.13
+Staked: 0.0671 spLP ($10.44)
+BERRY Per Week: 95.09 ($0.07)
+APR: Day 0.09% Week 0.64% Year 33.10%
+You are staking 0.00 [WFTM]-[ETH] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ETH] SPOOKY LP
+Unstake 0.00 [WFTM]-[ETH] SPOOKY LP - Fee 4%
+Claim 0.00 BERRY ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [WFTM]-[BNB] SPOOKY LP [+] [-] [<=>] Price: $60.38 TVL: $12,963,195.71
+WFTM Price: $2.02
+BNB Price: $363.95
+Staked: 0.0000 spLP ($0.00)
+BERRY Per Week: 95.09 ($0.07)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WFTM]-[BNB] SPOOKY LP ($0.00), NaN% of the pool.
+Stake 0.00 [WFTM]-[BNB] SPOOKY LP
+Unstake 0.00 [WFTM]-[BNB] SPOOKY LP - Fee 4%
+Claim 0.00 BERRY ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - WFTM Price: $2.02 Market Cap: $1,459,411,679.31 
+Staked: 4.3848 WFTM ($8.86)
+BERRY Per Week: 190.19 ($0.13)
+APR: Day 0.21% Week 1.50% Year 78.00%
+You are staking 0.00 WFTM ($0.00), 0.00% of the pool.
+Stake 0.00 WFTM
+Unstake 0.00 WFTM - Fee 4%
+Claim 0.00 BERRY ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - DAI Price: $1.00 Market Cap: $704,467,481.12 
+Staked: 1.9464 DAI ($1.95)
+BERRY Per Week: 114.11 ($0.08)
+APR: Day 0.59% Week 4.10% Year 212.98%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI
+Unstake 0.00 DAI - Fee 4%
+Claim 0.00 BERRY ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - BTC Price: $35,903.00 Market Cap: $617,775,961.54 
+Staked: 0.0001 BTC ($1.81)
+BERRY Per Week: 114.11 ($0.08)
+APR: Day 0.63% Week 4.41% Year 229.36%
+You are staking 0.00 BTC ($0.00), 0.00% of the pool.
+Stake 0.00 BTC
+Unstake 0.00 BTC - Fee 4%
+Claim 0.00 BERRY ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - BNB Price: $363.95 Market Cap: $13,803,212.24 
+Staked: 0.0063 BNB ($2.28)
+BERRY Per Week: 95.09 ($0.07)
+APR: Day 0.42% Week 2.91% Year 151.30%
+You are staking 0.00 BNB ($0.00), 0.00% of the pool.
+Stake 0.00 BNB
+Unstake 0.00 BNB - Fee 4%
+Claim 0.00 BERRY ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - fUSDT Price: $1.00 Market Cap: $350,441,901.33 
+Staked: 2.8072 fUSDT ($2.81)
+BERRY Per Week: 95.09 ($0.07)
+APR: Day 0.34% Week 2.37% Year 123.06%
+You are staking 0.00 fUSDT ($0.00), 0.00% of the pool.
+Stake 0.00 fUSDT
+Unstake 0.00 fUSDT - Fee 4%
+Claim 0.00 BERRY ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - ETH Price: $2,322.13 Market Cap: $1,107,891,836.25 
+Staked: 0.0001 ETH ($0.23)
+BERRY Per Week: 76.08 ($0.05)
+APR: Day 3.37% Week 23.58% Year 1226.16%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH
+Unstake 0.00 ETH - Fee 4%
+Claim 0.00 BERRY ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - USDC Price: $1.00 Market Cap: $1,731,167,947.80 
+Staked: 1.2391 USDC ($1.24)
+BERRY Per Week: 76.08 ($0.05)
+APR: Day 0.61% Week 4.29% Year 223.03%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC
+Unstake 0.00 USDC - Fee 4%
+Claim 0.00 BERRY ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - LINK Price: $14.68 Market Cap: $38,284,733.67 
+Staked: 0.0100 LINK ($0.15)
+BERRY Per Week: 38.04 ($0.03)
+APR: Day 2.59% Week 18.10% Year 941.29%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK
+Unstake 0.00 LINK - Fee 4%
+Claim 0.00 BERRY ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - PROCYON Price: $0.00 Market Cap: $0.00 
+Staked: 8.2292 PROCYON ($0.00)
+BERRY Per Week: 19.02 ($0.01)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 PROCYON ($0.00), NaN% of the pool.
+Stake 0.00 PROCYON
+Unstake 0.00 PROCYON - Fee 3%
+Claim 0.00 BERRY ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $36.39

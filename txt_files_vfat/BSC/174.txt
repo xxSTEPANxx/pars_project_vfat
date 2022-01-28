@@ -1,0 +1,439 @@
+*************** 👨‍🌾 UNOFFICIAL YBEARSWAP.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://www.ybearswap.finance
+**************************************************************************************
+
+Thu Jan 27 2022 20:47:50 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 37 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [sBEAR]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.02 TVL: $14.91
+sBEAR Price: $0.0000609242
+BUSD Price: $1.00
+Staked: 188.5771 Cake-LP ($3.01)
+sBEAR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [sBEAR]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [sBEAR]-[BUSD] Cake LP
+Unstake 0.00 [sBEAR]-[BUSD] Cake LP
+Claim 0.00 sBEAR ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WBNB]-[sBEAR] Cake LP [+] [-] [<=>] Price: $0.32 TVL: $777.52
+WBNB Price: $370.11
+sBEAR Price: $0.0000609242
+Staked: 1.1669 Cake-LP ($0.37)
+sBEAR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WBNB]-[sBEAR] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[sBEAR] Cake LP
+Unstake 0.00 [WBNB]-[sBEAR] Cake LP
+Claim 0.00 sBEAR ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $66.01 TVL: $2,135,920.25
+WBNB Price: $370.11
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+sBEAR Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 sBEAR ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - sBEAR Price: $0.0000609242 Market Cap: $8,809.22 [%]
+Staked: 0.0000 sBEAR ($0.00)
+sBEAR Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 sBEAR ($0.00), NaN% of the pool.
+Stake 0.00 sBEAR
+Unstake 0.00 sBEAR
+Claim 0.00 sBEAR ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [yBEAR]-[WBNB] Cake LP [+] [-] [<=>] Price: $33,729.05 TVL: $13,591.79
+yBEAR Price: $0.000584
+WBNB Price: $370.11
+Staked: 0.0001 Cake-LP ($3.90)
+sBEAR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [yBEAR]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [yBEAR]-[WBNB] Cake LP
+Unstake 0.00 [yBEAR]-[WBNB] Cake LP
+Claim 0.00 sBEAR ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [yBHONEY]-[WBNB] Cake LP [+] [-] [<=>] Price: $0.07 TVL: $622.77
+yBHONEY Price: $0.0000025181
+WBNB Price: $370.11
+Staked: 0.0000 Cake-LP ($0.00)
+sBEAR Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [yBHONEY]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [yBHONEY]-[WBNB] Cake LP
+Unstake 0.00 [yBHONEY]-[WBNB] Cake LP
+Claim 0.00 sBEAR ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,189.71 TVL: $477,804.32
+ETH Price: $2,427.79
+WBNB Price: $370.11
+Staked: 0.0000 Cake-LP ($0.00)
+sBEAR Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 sBEAR ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - WBNB Price: $370.11 Market Cap: $1,932,360,275.32 [%]
+Staked: 0.0192 WBNB ($7.11)
+sBEAR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 sBEAR ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - Cake Price: $7.06 Market Cap: $4,341,579,758.19 [%]
+Staked: 1.4572 Cake ($10.29)
+sBEAR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 sBEAR ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - BTCB Price: $36,201.00 Market Cap: $4,072,648,701.00 [%]
+Staked: 0.0082 BTCB ($297.27)
+sBEAR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 sBEAR ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - DAI Price: $1.00 Market Cap: $262,000,000.00 [%]
+Staked: 0.0000 DAI ($0.00)
+sBEAR Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 DAI ($0.00), NaN% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 sBEAR ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - DOT Price: $17.97 Market Cap: $287,519,999.84 [%]
+Staked: 0.0125 DOT ($0.22)
+sBEAR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 sBEAR ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - yBHONEY Price: $0.0000025181 Market Cap: $2,326.75 [%]
+Staked: 8795386.9738 yBHONEY ($22.15)
+sBEAR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 yBHONEY ($0.00), 0.00% of the pool.
+Stake 0.00 yBHONEY - Fee 4%
+Unstake 0.00 yBHONEY
+Claim 0.00 sBEAR ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - BUSD Price: $1.00 Market Cap: $4,849,558,641.81 [%]
+Staked: 0.0029 BUSD ($0.00)
+sBEAR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 sBEAR ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - BAKE Price: $0.61 Market Cap: $445,459,989.58 [%]
+Staked: 39.3289 BAKE ($23.95)
+sBEAR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BAKE ($0.00), 0.00% of the pool.
+Stake 0.00 BAKE - Fee 4%
+Unstake 0.00 BAKE
+Claim 0.00 sBEAR ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $8,212.16 TVL: $298,436.34
+BTCB Price: $36,201.00
+WBNB Price: $370.11
+Staked: 0.0000 Cake-LP ($0.00)
+sBEAR Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 sBEAR ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $123.04 TVL: $3,322,570.99
+Cake Price: $7.06
+WBNB Price: $370.11
+Staked: 0.0000 Cake-LP ($0.00)
+sBEAR Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 sBEAR ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [yBEAR]-[sBEAR] Cake LP [+] [-] [<=>] Price: $13.15 TVL: $0.92
+yBEAR Price: $0.000584
+sBEAR Price: $0.0000609242
+Staked: 0.0112 Cake-LP ($0.15)
+sBEAR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [yBEAR]-[sBEAR] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [yBEAR]-[sBEAR] Cake LP - Fee 1%
+Unstake 0.00 [yBEAR]-[sBEAR] Cake LP
+Claim 0.00 sBEAR ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [yBHONEY]-[sBEAR] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $0.14
+yBHONEY Price: $0.0000025181
+sBEAR Price: $0.0000609242
+Staked: 0.0000 Cake-LP ($0.00)
+sBEAR Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [yBHONEY]-[sBEAR] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [yBHONEY]-[sBEAR] Cake LP - Fee 1%
+Unstake 0.00 [yBHONEY]-[sBEAR] Cake LP
+Claim 0.00 sBEAR ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [WBNB]-[BAKE] Cake LP [+] [-] [<=>] Price: $90.68 TVL: $25,612.38
+WBNB Price: $370.11
+BAKE Price: $0.61
+Staked: 0.0000 Cake-LP ($0.00)
+sBEAR Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [WBNB]-[BAKE] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBNB]-[BAKE] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BAKE] Cake LP
+Claim 0.00 sBEAR ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - PIG Price: $0.00 Market Cap: $0.00 
+Staked: 5.7418 PIG ($0.00)
+sBEAR Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 PIG ($0.00), NaN% of the pool.
+Stake 0.00 PIG - Fee 2%
+Unstake 0.00 PIG
+Claim 0.00 sBEAR ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - [PIG]-[sBEAR] Cake LP [+] [-] [<=>] Price: $0.10 TVL: $1.82
+PIG Price: $0.0000000358
+sBEAR Price: $0.0000609242
+Staked: 5.0991 Cake-LP ($0.53)
+sBEAR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [PIG]-[sBEAR] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PIG]-[sBEAR] Cake LP - Fee 2%
+Unstake 0.00 [PIG]-[sBEAR] Cake LP
+Claim 0.00 sBEAR ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - [sBEAR]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.02 TVL: $126.19
+sBEAR Price: $0.0000609242
+BUSD Price: $1.00
+Staked: 1187.6848 Cake-LP ($19.55)
+sBEAR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [sBEAR]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [sBEAR]-[BUSD] Cake LP - Fee 3%
+Unstake 0.00 [sBEAR]-[BUSD] Cake LP
+Claim 0.00 sBEAR ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [WBNB]-[sBEAR] Cake LP [+] [-] [<=>] Price: $0.33 TVL: $3,273.11
+WBNB Price: $370.11
+sBEAR Price: $0.0000609242
+Staked: 14.5444 Cake-LP ($4.80)
+sBEAR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WBNB]-[sBEAR] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[sBEAR] Cake LP - Fee 3%
+Unstake 0.00 [WBNB]-[sBEAR] Cake LP
+Claim 0.00 sBEAR ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.56 TVL: $347,014,128.77
+WBNB Price: $370.11
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+sBEAR Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 sBEAR ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,037.25 TVL: $74,221,502.71
+ETH Price: $2,427.79
+WBNB Price: $370.11
+Staked: 0.1058 Cake-LP ($215.55)
+sBEAR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 sBEAR ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - [yBEAR]-[WBNB] Cake LP [+] [-] [<=>] Price: $45,911.02 TVL: $936.27
+yBEAR Price: $0.000584
+WBNB Price: $370.11
+Staked: 0.0007 Cake-LP ($33.83)
+sBEAR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [yBEAR]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [yBEAR]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [yBEAR]-[WBNB] Cake LP
+Claim 0.00 sBEAR ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - [yBHONEY]-[WBNB] Cake LP [+] [-] [<=>] Price: $0.11 TVL: $117.97
+yBHONEY Price: $0.0000025181
+WBNB Price: $370.11
+Staked: 912.0520 Cake-LP ($101.05)
+sBEAR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [yBHONEY]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [yBHONEY]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [yBHONEY]-[WBNB] Cake LP
+Claim 0.00 sBEAR ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $7,754.83 TVL: $68,809,051.32
+BTCB Price: $36,201.00
+WBNB Price: $370.11
+Staked: 0.0000 Cake-LP ($0.00)
+sBEAR Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 sBEAR ($0.00)
+Staking or unstaking also claims rewards.
+
+29 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $106.18 TVL: $202,229,546.61
+Cake Price: $7.06
+WBNB Price: $370.11
+Staked: 0.0000 Cake-LP ($0.00)
+sBEAR Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 sBEAR ($0.00)
+Staking or unstaking also claims rewards.
+
+30 - [yBEAR]-[sBEAR] Cake LP [+] [-] [<=>] Price: $14.98 TVL: $13.09
+yBEAR Price: $0.000584
+sBEAR Price: $0.0000609242
+Staked: 0.0367 Cake-LP ($0.55)
+sBEAR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [yBEAR]-[sBEAR] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [yBEAR]-[sBEAR] Cake LP - Fee 4%
+Unstake 0.00 [yBEAR]-[sBEAR] Cake LP
+Claim 0.00 sBEAR ($0.00)
+Staking or unstaking also claims rewards.
+
+31 - [yBHONEY]-[sBEAR] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $66.69
+yBHONEY Price: $0.0000025181
+sBEAR Price: $0.0000609242
+Staked: 11088.0329 Cake-LP ($0.30)
+sBEAR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [yBHONEY]-[sBEAR] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [yBHONEY]-[sBEAR] Cake LP - Fee 4%
+Unstake 0.00 [yBHONEY]-[sBEAR] Cake LP
+Claim 0.00 sBEAR ($0.00)
+Staking or unstaking also claims rewards.
+
+32 - [WBNB]-[BAKE] Cake LP [+] [-] [<=>] Price: $135.31 TVL: $57,074.56
+WBNB Price: $370.11
+BAKE Price: $0.61
+Staked: 0.0867 Cake-LP ($11.74)
+sBEAR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WBNB]-[BAKE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BAKE] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BAKE] Cake LP
+Claim 0.00 sBEAR ($0.00)
+Staking or unstaking also claims rewards.
+
+33 - [PIG]-[sBEAR] Cake LP [+] [-] [<=>] Price: $0.11 TVL: $15.37
+PIG Price: $0.0000000358
+sBEAR Price: $0.0000609242
+Staked: 1.1306 Cake-LP ($0.13)
+sBEAR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [PIG]-[sBEAR] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PIG]-[sBEAR] Cake LP - Fee 4%
+Unstake 0.00 [PIG]-[sBEAR] Cake LP
+Claim 0.00 sBEAR ($0.00)
+Staking or unstaking also claims rewards.
+
+34 - [UPSHIB]-[sBEAR] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $0.60
+UPSHIB Price: $0.0000000000
+sBEAR Price: $0.0000609242
+Staked: 0.0000 Cake-LP ($0.00)
+sBEAR Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [UPSHIB]-[sBEAR] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [UPSHIB]-[sBEAR] Cake LP - Fee 2%
+Unstake 0.00 [UPSHIB]-[sBEAR] Cake LP
+Claim 0.00 sBEAR ($0.00)
+Staking or unstaking also claims rewards.
+
+35 - [MOONTREE]-[sBEAR] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $0.00
+MOONTREE Price: $0.0000000000
+sBEAR Price: $0.0000609242
+Staked: 0.0000 Cake-LP ($0.00)
+sBEAR Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [MOONTREE]-[sBEAR] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MOONTREE]-[sBEAR] Cake LP - Fee 4%
+Unstake 0.00 [MOONTREE]-[sBEAR] Cake LP
+Claim 0.00 sBEAR ($0.00)
+Staking or unstaking also claims rewards.
+
+36 - [JAGUAR]-[sBEAR] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $0.76
+JAGUAR Price: $0.000273
+sBEAR Price: $0.0000609242
+Staked: 0.0000 Cake-LP ($0.00)
+sBEAR Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [JAGUAR]-[sBEAR] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [JAGUAR]-[sBEAR] Cake LP - Fee 4%
+Unstake 0.00 [JAGUAR]-[sBEAR] Cake LP
+Claim 0.00 sBEAR ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $756.43

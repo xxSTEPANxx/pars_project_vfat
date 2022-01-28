@@ -1,0 +1,83 @@
+*************** 👨‍🌾 UNOFFICIAL PEARL DEFI FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://pearldefi.com
+****************************************************************************************
+
+Thu Jan 27 2022 21:12:52 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 18 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [PEARL]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.35 TVL: $74.31
+PEARL Price: $0.02
+BUSD Price: $1.00
+Staked: 204.7860 Cake-LP ($72.51)
+PEARL Per Week: 880.35 ($20.21)
+APR: Day 3.98% Week 27.87% Year 1449.33%
+You are staking 0.00 [PEARL]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PEARL]-[BUSD] Cake LP
+Unstake 0.00 [PEARL]-[BUSD] Cake LP
+Claim 0.00 PEARL ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [PEARL]-[WBNB] Cake LP [+] [-] [<=>] Price: $6.40 TVL: $96.68
+PEARL Price: $0.02
+WBNB Price: $368.51
+Staked: 13.9979 Cake-LP ($89.65)
+PEARL Per Week: 880.35 ($20.21)
+APR: Day 3.22% Week 22.54% Year 1172.19%
+You are staking 0.00 [PEARL]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PEARL]-[WBNB] Cake LP
+Unstake 0.00 [PEARL]-[WBNB] Cake LP
+Claim 0.00 PEARL ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $296,548,278.29
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0468 Cake-LP ($0.10)
+PEARL Per Week: 22.01 ($0.51)
+APR: Day 73.70% Week 515.91% Year 26827.22%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 2%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 PEARL ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [DAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.08 TVL: $16,828,327.41
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 5.6701 Cake-LP ($11.81)
+PEARL Per Week: 2.20 ($0.05)
+APR: Day 0.06% Week 0.43% Year 22.25%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 2%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 PEARL ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - PEARL Price: $0.02 Market Cap: $275.47 [%]
+Staked: 3596.8903 PEARL ($82.57)
+PEARL Per Week: 220.09 ($5.05)
+APR: Day 0.87% Week 6.12% Year 318.18%
+You are staking 0.00 PEARL ($0.00), 0.00% of the pool.
+Stake 0.00 PEARL
+Unstake 0.00 PEARL
+Claim 0.00 PEARL ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - BUSD Price: $1.00 Market Cap: $4,835,544,104.58 [%]
+Staked: 109.9847 BUSD ($109.63)
+PEARL Per Week: 11.00 ($0.25)
+APR: Day 0.03% Week 0.23% Year 11.98%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 1%
+Unstake 0.00 BUSD
+Claim 0.00 PEARL ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $366.27

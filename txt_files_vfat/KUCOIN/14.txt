@@ -1,0 +1,61 @@
+*************** 👨‍🌾 UNOFFICIAL KUULAID FINANCE CALCULATOR 👨‍🌾 ***************
+INFO  : https://kuulaid.finance
+***************************************************************************
+
+Fri Jan 28 2022 01:10:06 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 4 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - $Kuul Price: $0.00 Market Cap: $0.00 
+Staked: 12907408.7666 $Kuul ($0.00)
+Kuul Per Week: 504000.00 ($12.09)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 $Kuul ($0.00), NaN% of the pool.
+Stake 0.00 $Kuul
+Unstake 0.00 $Kuul
+Claim 0.00 Kuul ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WKCS]-[$Kuul] Uni LP [+] [-] [<=>] Price: $0.04 TVL: $225.83
+WKCS Price: $15.59
+$Kuul Price: $0.0000239927
+Staked: 4500.3936 KuulaidPK ($179.01)
+Kuul Per Week: 720000.00 ($17.27)
+APR: Day 1.38% Week 9.65% Year 501.81%
+You are staking 0.00 [WKCS]-[$Kuul] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WKCS]-[$Kuul] Uni LP
+Unstake 0.00 [WKCS]-[$Kuul] Uni LP
+Claim 0.00 Kuul ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [USDT]-[$Kuul] Uni LP [+] [-] [<=>] Price: $0.01 TVL: $163.88
+USDT Price: $0.98
+$Kuul Price: $0.0000239927
+Staked: 9739.2080 KuulaidPK ($96.86)
+Kuul Per Week: 720000.00 ($17.27)
+APR: Day 2.55% Week 17.83% Year 927.41%
+You are staking 0.00 [USDT]-[$Kuul] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[$Kuul] Uni LP
+Unstake 0.00 [USDT]-[$Kuul] Uni LP
+Claim 0.00 Kuul ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDT]-[USDC] Uni LP [+] [-] [<=>] Price: $1.97 TVL: $77.64
+USDT Price: $0.98
+USDC Price: $0.98
+Staked: 25.4084 KuulaidPK ($49.98)
+Kuul Per Week: 72000.00 ($1.73)
+APR: Day 0.49% Week 3.46% Year 179.73%
+You are staking 0.00 [USDT]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[USDC] Uni LP
+Unstake 0.00 [USDT]-[USDC] Uni LP
+Claim 0.00 Kuul ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $325.85

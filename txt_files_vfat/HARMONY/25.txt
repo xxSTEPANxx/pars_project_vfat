@@ -1,0 +1,217 @@
+*************** 🐘  Elephant DEX Staking Calc 🐘  ***************
+
+WEBSITE  : https://elephant.ac
+
+ElephantSwap - New DEX on the Harmony Blockchain
+
+The launch date for this DEX is Oct. 16 2021 ~5PM UTC. Please see the medium article below for additional information.
+
+https://medium.com/@elephantdex/elephantswap-e86bfee371e7
+
+Join us on discord: https://discord.gg/6fFvUghhg7
+
++ + + + - - - + + - - - - - - - - - - - -- - - - - - - - - - - + + - - - + + + +
++                                                                              +
++                            .01010101010101010101.                            +
++                       .0101..                   .0101.                       +
+.                   .101.                              .010.                   .
+.                 :010.                                     :0.                .
+.              .01.                                           :0.              .
++            .01                                                :0.            +
++           01                                                    01.          +
+.         :01                                                       10.        .
+.        01                              .-101010101-.               10:       .
+.       01                            ,10101010101010101.             01.      .
+.      01                           .0101```~0101010101010             .0.     .
+.     01                        .: .010 ,101. 0101010101010.            .1.    .
+.    01                  .-=010101 010 10 101 01010101010101.            01    .
+.   .0.             .+010101010101 01 0101,..0101010 10101010             0.   .
+.   01             101010101010101 01 01010101010101010101010:            01   .
+.  .0.            0101010101010101 01 01010101010101010101`01:            .0.  .
+.  .1.           010101010101010101 01.0101010101010101*` 0101             1.  .
+.  .0.          .0101010101010101010.`010101010101 :|: _01010+             0.  .
+.  .1.          010101010101010101010`.10101010101010101010101             1.  .
+.   0.         :0101010101010101010101010101010101010**1010101             0.  .
+.   01        .01010101010101010101010101010101010101   0101010           .1.  .
+.   01       .01 010101010101010101010101010101010101    010101:          10   .
+.    0.     .+`  010101010101010101+010101010:1010101     010101+.        01   .
+.    01          010101 0101010     101010101 0101010      `10101010+:   10    .
+.     01         010101 010101+     .0101010+ 0101010        `*101010%  .01    .
+.      01        010101 010101.     .0101010+ 0101010                  .01     .
+.       10       010101 010101       0101010. 0101010                 01.      .
+.        01                                                          10.       .
+.         01.                                                       01         .
++          .01                                                    01.          +
++            .10                                                10.            +
+.              .01.                                           01.              .
+.                .01:                                      .01.                .
+.                   .010.                              .010.                   .
++                       .0101.                    .01010                       +
++                           `-10101010101010101010.`                           +
++                                                                              +
++ + + + - - - + + - - - - - - - - - - - -- - - - - - - - - - - + + - - - + + + +
+
+
+**************************************************************************************
+
+Fri Jan 28 2022 01:04:43 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 13 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [1USDC]-[WONE] Uni LP [+] [-] [<=>] Price: $870,678.34 TVL: $3,160.66
+1USDC Price: $1.00
+WONE Price: $0.18
+Staked: 0.0029 ELEPHANT-LP ($2,505.06)
+ELEPHANT Per Week: 36288.00 ($50.07)
+APR: Day 0.29% Week 2.00% Year 103.94%
+You are staking 0.00 [1USDC]-[WONE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [1USDC]-[WONE] Uni LP
+Unstake 0.00 [1USDC]-[WONE] Uni LP
+Claim 0.00 ELEPHANT ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [ELEPHANT]-[WONE] Uni LP [+] [-] [<=>] Price: $0.03 TVL: $16,009.52
+ELEPHANT Price: $0.001380
+WONE Price: $0.18
+Staked: 404861.2785 ELEPHANT-LP ($12,885.00)
+ELEPHANT Per Week: 1173312.00 ($1,619.01)
+APR: Day 1.80% Week 12.57% Year 653.38%
+You are staking 0.00 [ELEPHANT]-[WONE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ELEPHANT]-[WONE] Uni LP
+Unstake 0.00 [ELEPHANT]-[WONE] Uni LP
+Claim 0.00 ELEPHANT ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [ELEPHANT]-[xElephant] Uni LP [+] [-] [<=>] Price: $0.00 TVL: $4,011.65
+ELEPHANT Price: $0.001380
+xElephant Price: $0.001409
+Staked: 1425231.6988 ELEPHANT-LP ($3,991.31)
+ELEPHANT Per Week: 241920.00 ($333.82)
+APR: Day 1.19% Week 8.36% Year 434.91%
+You are staking 0.00 [ELEPHANT]-[xElephant] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ELEPHANT]-[xElephant] Uni LP
+Unstake 0.00 [ELEPHANT]-[xElephant] Uni LP
+Claim 0.00 ELEPHANT ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [1ETH]-[WONE] Uni LP [+] [-] [<=>] Price: $41.20 TVL: $5,144.00
+1ETH Price: $2,350.77
+WONE Price: $0.18
+Staked: 119.2300 ELEPHANT-LP ($4,911.72)
+ELEPHANT Per Week: 60480.00 ($83.45)
+APR: Day 0.24% Week 1.70% Year 88.35%
+You are staking 0.00 [1ETH]-[WONE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [1ETH]-[WONE] Uni LP
+Unstake 0.00 [1ETH]-[WONE] Uni LP
+Claim 0.00 ELEPHANT ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [1WBTC]-[WONE] Uni LP [+] [-] [<=>] Price: $15,766,616.32 TVL: $540.37
+1WBTC Price: $34,951.00
+WONE Price: $0.18
+Staked: 0.0000 ELEPHANT-LP ($530.38)
+ELEPHANT Per Week: 60480.00 ($83.45)
+APR: Day 2.25% Week 15.73% Year 818.22%
+You are staking 0.00 [1WBTC]-[WONE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [1WBTC]-[WONE] Uni LP
+Unstake 0.00 [1WBTC]-[WONE] Uni LP
+Claim 0.00 ELEPHANT ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [bscADA]-[WONE] Uni LP [+] [-] [<=>] Price: $0.85 TVL: $1,417.71
+bscADA Price: $1.00
+WONE Price: $0.18
+Staked: 1662.5215 ELEPHANT-LP ($1,412.90)
+ELEPHANT Per Week: 120960.00 ($166.91)
+APR: Day 1.69% Week 11.81% Year 614.28%
+You are staking 0.00 [bscADA]-[WONE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [bscADA]-[WONE] Uni LP
+Unstake 0.00 [bscADA]-[WONE] Uni LP
+Claim 0.00 ELEPHANT ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [1SUSHI]-[ELEPHANT] Uni LP [+] [-] [<=>] Price: $0.15 TVL: $502.88
+1SUSHI Price: $3.93
+ELEPHANT Price: $0.001380
+Staked: 3344.5874 ELEPHANT-LP ($496.70)
+ELEPHANT Per Week: 120960.00 ($166.91)
+APR: Day 4.80% Week 33.60% Year 1747.38%
+You are staking 0.00 [1SUSHI]-[ELEPHANT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [1SUSHI]-[ELEPHANT] Uni LP
+Unstake 0.00 [1SUSHI]-[ELEPHANT] Uni LP
+Claim 0.00 ELEPHANT ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [1MATIC]-[ELEPHANT] Uni LP [+] [-] [<=>] Price: $0.09 TVL: $764.61
+1MATIC Price: $1.52
+ELEPHANT Price: $0.001380
+Staked: 8296.9270 ELEPHANT-LP ($763.87)
+ELEPHANT Per Week: 120960.00 ($166.91)
+APR: Day 3.12% Week 21.85% Year 1136.23%
+You are staking 0.00 [1MATIC]-[ELEPHANT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [1MATIC]-[ELEPHANT] Uni LP
+Unstake 0.00 [1MATIC]-[ELEPHANT] Uni LP
+Claim 0.00 ELEPHANT ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [LINK]-[ELEPHANT] Uni LP [+] [-] [<=>] Price: $0.28 TVL: $347.68
+LINK Price: $14.32
+ELEPHANT Price: $0.001380
+Staked: 1226.8152 ELEPHANT-LP ($346.35)
+ELEPHANT Per Week: 120960.00 ($166.91)
+APR: Day 6.88% Week 48.19% Year 2505.93%
+You are staking 0.00 [LINK]-[ELEPHANT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LINK]-[ELEPHANT] Uni LP
+Unstake 0.00 [LINK]-[ELEPHANT] Uni LP
+Claim 0.00 ELEPHANT ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [1USDC]-[ELEPHANT] Uni LP [+] [-] [<=>] Price: $7,017,769.25 TVL: $543.07
+1USDC Price: $1.00
+ELEPHANT Price: $0.001380
+Staked: 0.0001 ELEPHANT-LP ($538.96)
+ELEPHANT Per Week: 120960.00 ($166.91)
+APR: Day 4.42% Week 30.97% Year 1610.36%
+You are staking 0.00 [1USDC]-[ELEPHANT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [1USDC]-[ELEPHANT] Uni LP
+Unstake 0.00 [1USDC]-[ELEPHANT] Uni LP
+Claim 0.00 ELEPHANT ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [ELEPHANT]-[VIPER] Uni LP [+] [-] [<=>] Price: $0.05 TVL: $484.42
+ELEPHANT Price: $0.001380
+VIPER Price: $0.51
+Staked: 8353.0145 ELEPHANT-LP ($442.43)
+ELEPHANT Per Week: 120960.00 ($166.91)
+APR: Day 5.39% Week 37.73% Year 1961.73%
+You are staking 0.00 [ELEPHANT]-[VIPER] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ELEPHANT]-[VIPER] Uni LP
+Unstake 0.00 [ELEPHANT]-[VIPER] Uni LP
+Claim 0.00 ELEPHANT ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [JEWEL]-[ELEPHANT] Uni LP [+] [-] [<=>] Price: $0.19 TVL: $476.50
+JEWEL Price: $6.76
+ELEPHANT Price: $0.001380
+Staked: 2461.5418 ELEPHANT-LP ($476.19)
+ELEPHANT Per Week: 120960.00 ($166.91)
+APR: Day 5.01% Week 35.05% Year 1822.64%
+You are staking 0.00 [JEWEL]-[ELEPHANT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [JEWEL]-[ELEPHANT] Uni LP
+Unstake 0.00 [JEWEL]-[ELEPHANT] Uni LP
+Claim 0.00 ELEPHANT ($0.00)
+Staking or unstaking also claims rewards.
+
+ElephantPit TVL: $2,890.69
+ELEPHANT Price: $0.00
+Staked: 2094913.21 ELEPHANT ($2,890.69)
+You are staking 0.00 ELEPHANT ($0.00), 0.00% of the pool.
+Stake 0.00 ELEPHANT
+ElephantPit rewards are visible after unstaking / exiting the pool.
+
+Total Staked: $32,191.56

@@ -1,0 +1,253 @@
+*************** 👨‍🌾 UNOFFICIAL KAPPA.PARTHENON.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://kappa.parthenon.finance
+********************************************************************************************
+
+Thu Jan 27 2022 21:07:56 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 22 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [KAPPA]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.01 TVL: $47.06
+KAPPA Price: $0.0000478829
+BUSD Price: $1.00
+Staked: 3129.8064 Cake-LP ($45.40)
+KAPPA Per Week: 43071.81 ($2.06)
+APR: Day 0.65% Week 4.54% Year 236.24%
+You are staking 0.00 [KAPPA]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KAPPA]-[BUSD] Cake LP
+Unstake 0.00 [KAPPA]-[BUSD] Cake LP
+Claim 0.00 KAPPA ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [KAPPA]-[WBNB] Cake LP [+] [-] [<=>] Price: $0.28 TVL: $36.25
+KAPPA Price: $0.0000478829
+WBNB Price: $369.48
+Staked: 125.7829 Cake-LP ($34.88)
+KAPPA Per Week: 43071.81 ($2.06)
+APR: Day 0.84% Week 5.91% Year 307.46%
+You are staking 0.00 [KAPPA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KAPPA]-[WBNB] Cake LP
+Unstake 0.00 [KAPPA]-[WBNB] Cake LP
+Claim 0.00 KAPPA ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.49 TVL: $346,510,717.16
+WBNB Price: $369.48
+BUSD Price: $1.00
+Staked: 0.0007 Cake-LP ($0.03)
+KAPPA Per Week: 3230.39 ($0.15)
+APR: Day 65.16% Week 456.13% Year 23718.84%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 KAPPA ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $297,041,539.64
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 16.3200 Cake-LP ($34.18)
+KAPPA Per Week: 3230.39 ($0.15)
+APR: Day 0.06% Week 0.45% Year 23.53%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 KAPPA ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $7,754.41 TVL: $68,573,800.77
+BTCB Price: $36,259.00
+WBNB Price: $369.48
+Staked: 0.0086 Cake-LP ($66.72)
+KAPPA Per Week: 3230.39 ($0.15)
+APR: Day 0.03% Week 0.23% Year 12.06%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 KAPPA ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,045.13 TVL: $74,508,594.68
+ETH Price: $2,450.84
+WBNB Price: $369.48
+Staked: 0.0000 Cake-LP ($0.00)
+KAPPA Per Week: 3230.39 ($0.15)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 KAPPA ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [DAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $16,856,379.39
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 4.3200 Cake-LP ($9.01)
+KAPPA Per Week: 3230.39 ($0.15)
+APR: Day 0.25% Week 1.72% Year 89.27%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 KAPPA ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $131,424,609.39
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 24.0441 Cake-LP ($50.24)
+KAPPA Per Week: 3230.39 ($0.15)
+APR: Day 0.04% Week 0.31% Year 16.01%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 KAPPA ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [DOT]-[WBNB] Cake LP [+] [-] [<=>] Price: $173.28 TVL: $17,788,938.52
+DOT Price: $18.05
+WBNB Price: $369.48
+Staked: 0.2400 Cake-LP ($41.59)
+KAPPA Per Week: 3230.39 ($0.15)
+APR: Day 0.05% Week 0.37% Year 19.34%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 KAPPA ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - KAPPA Price: $0.0000478829 Market Cap: $242.43 [%]
+Staked: 3245121.2316 KAPPA ($155.39)
+KAPPA Per Week: 32303.86 ($1.55)
+APR: Day 0.14% Week 1.00% Year 51.76%
+You are staking 0.00 KAPPA ($0.00), 0.00% of the pool.
+Stake 0.00 KAPPA
+Unstake 0.00 KAPPA
+Claim 0.00 KAPPA ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - BUSD Price: $1.00 Market Cap: $4,843,679,230.55 [%]
+Staked: 480.4800 BUSD ($479.75)
+KAPPA Per Week: 6460.77 ($0.31)
+APR: Day 0.01% Week 0.06% Year 3.35%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 KAPPA ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - WBNB Price: $369.48 Market Cap: $1,928,834,216.52 [%]
+Staked: 0.0020 WBNB ($0.73)
+KAPPA Per Week: 4307.18 ($0.21)
+APR: Day 4.02% Week 28.16% Year 1464.37%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 KAPPA ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - USDT Price: $1.00 Market Cap: $3,879,997,922.18 [%]
+Staked: 105.6000 USDT ($105.60)
+KAPPA Per Week: 3230.39 ($0.15)
+APR: Day 0.02% Week 0.15% Year 7.62%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 KAPPA ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - BTCB Price: $36,259.00 Market Cap: $4,079,173,759.00 [%]
+Staked: 0.0016 BTCB ($59.64)
+KAPPA Per Week: 3230.39 ($0.15)
+APR: Day 0.04% Week 0.26% Year 13.49%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 KAPPA ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - ETH Price: $2,450.84 Market Cap: $3,443,430,200.00 [%]
+Staked: 0.0001 ETH ($0.28)
+KAPPA Per Week: 3230.39 ($0.15)
+APR: Day 7.88% Week 55.16% Year 2868.29%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 KAPPA ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - DAI Price: $1.00 Market Cap: $261,996,594.00 [%]
+Staked: 9.6000 DAI ($9.60)
+KAPPA Per Week: 3230.39 ($0.15)
+APR: Day 0.23% Week 1.61% Year 83.79%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 KAPPA ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - USDC Price: $1.00 Market Cap: $1,779,000,000.00 [%]
+Staked: 9.6000 USDC ($9.60)
+KAPPA Per Week: 3230.39 ($0.15)
+APR: Day 0.23% Week 1.61% Year 83.79%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 KAPPA ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - DOT Price: $18.05 Market Cap: $288,799,999.84 [%]
+Staked: 0.0112 DOT ($0.20)
+KAPPA Per Week: 3230.39 ($0.15)
+APR: Day 10.91% Week 76.38% Year 3971.90%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 KAPPA ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - Cake Price: $6.97 Market Cap: $4,286,273,016.59 [%]
+Staked: 3.8602 Cake ($26.91)
+KAPPA Per Week: 3230.39 ($0.15)
+APR: Day 0.08% Week 0.57% Year 29.89%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 KAPPA ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - MUSCLE Price: $0.00 Market Cap: $0.00 
+Staked: 28.5719 MUSCLE ($0.00)
+KAPPA Per Week: 1615.19 ($0.08)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 MUSCLE ($0.00), NaN% of the pool.
+Stake 0.00 MUSCLE - Fee 1%
+Unstake 0.00 MUSCLE
+Claim 0.00 KAPPA ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - IOTA Price: $0.00 Market Cap: $0.00 
+Staked: 17287.6870 IOTA ($0.00)
+KAPPA Per Week: 3230.39 ($0.15)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 IOTA ($0.00), NaN% of the pool.
+Stake 0.00 IOTA - Fee 4%
+Unstake 0.00 IOTA
+Claim 0.00 KAPPA ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - WINGS Price: $0.00 Market Cap: $0.00 
+Staked: 1.1465 WINGS ($0.00)
+KAPPA Per Week: 2153.59 ($0.10)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 WINGS ($0.00), NaN% of the pool.
+Stake 0.00 WINGS - Fee 2.5%
+Unstake 0.00 WINGS
+Claim 0.00 KAPPA ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $1,129.75

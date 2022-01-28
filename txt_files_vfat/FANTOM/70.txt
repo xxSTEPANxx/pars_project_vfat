@@ -1,0 +1,473 @@
+*************** 👨‍🌾 UNOFFICIAL DARKMATTER FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://www.darkmatterdefi.com/
+**************************************************************************************
+
+Fri Jan 28 2022 00:48:11 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 42 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - DMD Price: $0.04 Market Cap: $596,151.06 
+Staked: 2088320.0338 DMD ($90,314.99)
+DMD Per Week: 30936.06 ($1,337.91)
+APR: Day 0.21% Week 1.48% Year 77.03%
+You are staking 0.00 DMD ($0.00), 0.00% of the pool.
+Stake 0.00 DMD
+Unstake 0.00 DMD
+Claim 0.00 DMD ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WFTM]-[DMD] SPOOKY LP [+] [-] [<=>] Price: $0.61 TVL: $154,802.55
+WFTM Price: $2.03
+DMD Price: $0.04
+Staked: 94948.7038 spLP ($57,483.94)
+DMD Per Week: 46404.09 ($2,006.87)
+APR: Day 0.50% Week 3.49% Year 181.54%
+You are staking 0.00 [WFTM]-[DMD] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[DMD] SPOOKY LP
+Unstake 0.00 [WFTM]-[DMD] SPOOKY LP
+Claim 0.00 DMD ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [fUSDT]-[DMD] SPOOKY LP [+] [-] [<=>] Price: $422,676.02 TVL: $38,399.54
+fUSDT Price: $1.00
+DMD Price: $0.04
+Staked: 0.0906 spLP ($38,302.31)
+DMD Per Week: 30936.06 ($1,337.91)
+APR: Day 0.50% Week 3.49% Year 181.64%
+You are staking 0.00 [fUSDT]-[DMD] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [fUSDT]-[DMD] SPOOKY LP
+Unstake 0.00 [fUSDT]-[DMD] SPOOKY LP
+Claim 0.00 DMD ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [DAI]-[DMD] SPOOKY LP [+] [-] [<=>] Price: $0.42 TVL: $18,194.67
+DAI Price: $1.00
+DMD Price: $0.04
+Staked: 42706.3799 spLP ($18,109.72)
+DMD Per Week: 30936.06 ($1,337.91)
+APR: Day 1.06% Week 7.39% Year 384.17%
+You are staking 0.00 [DAI]-[DMD] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[DMD] SPOOKY LP
+Unstake 0.00 [DAI]-[DMD] SPOOKY LP
+Claim 0.00 DMD ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDC]-[DMD] SPOOKY LP [+] [-] [<=>] Price: $424,726.96 TVL: $36,212.55
+USDC Price: $1.00
+DMD Price: $0.04
+Staked: 0.0847 spLP ($35,994.40)
+DMD Per Week: 30936.06 ($1,337.91)
+APR: Day 0.53% Week 3.72% Year 193.28%
+You are staking 0.00 [USDC]-[DMD] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DMD] SPOOKY LP
+Unstake 0.00 [USDC]-[DMD] SPOOKY LP
+Claim 0.00 DMD ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [USDC]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $4,362,885.93 TVL: $167,955,968.13
+USDC Price: $1.00
+WFTM Price: $2.03
+Staked: 0.0080 spLP ($34,909.60)
+DMD Per Week: 23202.05 ($1,003.43)
+APR: Day 0.41% Week 2.87% Year 149.47%
+You are staking 0.00 [USDC]-[WFTM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WFTM] SPOOKY LP - Fee 2%
+Unstake 0.00 [USDC]-[WFTM] SPOOKY LP
+Claim 0.00 DMD ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [WFTM]-[ETH] SPOOKY LP [+] [-] [<=>] Price: $157.04 TVL: $42,580,854.48
+WFTM Price: $2.03
+ETH Price: $2,352.96
+Staked: 62.4963 spLP ($9,814.16)
+DMD Per Week: 6187.21 ($267.58)
+APR: Day 0.39% Week 2.73% Year 141.78%
+You are staking 0.00 [WFTM]-[ETH] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ETH] SPOOKY LP - Fee 2%
+Unstake 0.00 [WFTM]-[ETH] SPOOKY LP
+Claim 0.00 DMD ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [WFTM]-[BNB] SPOOKY LP [+] [-] [<=>] Price: $60.53 TVL: $12,995,531.57
+WFTM Price: $2.03
+BNB Price: $363.96
+Staked: 78.0103 spLP ($4,721.66)
+DMD Per Week: 2320.20 ($100.34)
+APR: Day 0.30% Week 2.13% Year 110.51%
+You are staking 0.00 [WFTM]-[BNB] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BNB] SPOOKY LP - Fee 2%
+Unstake 0.00 [WFTM]-[BNB] SPOOKY LP
+Claim 0.00 DMD ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [USDC]-[DAI] SPOOKY LP [+] [-] [<=>] Price: $1,764,903,472.76 TVL: $8,321,205.82
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.0000 spLP ($4,067.27)
+DMD Per Week: 1546.80 ($66.90)
+APR: Day 0.23% Week 1.64% Year 85.53%
+You are staking 0.00 [USDC]-[DAI] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAI] SPOOKY LP - Fee 2%
+Unstake 0.00 [USDC]-[DAI] SPOOKY LP
+Claim 0.00 DMD ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [USDC]-[fUSDT] SPOOKY LP [+] [-] [<=>] Price: $2,091,375,844,680.75 TVL: $2,057,474.82
+USDC Price: $1.00
+fUSDT Price: $1.00
+Staked: 0.0000 spLP ($4,169.31)
+DMD Per Week: 1546.80 ($66.90)
+APR: Day 0.23% Week 1.60% Year 83.43%
+You are staking 0.00 [USDC]-[fUSDT] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[fUSDT] SPOOKY LP - Fee 2%
+Unstake 0.00 [USDC]-[fUSDT] SPOOKY LP
+Claim 0.00 DMD ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [WFTM]-[BTC] SPOOKY LP [+] [-] [<=>] Price: $11,287,541,035.45 TVL: $21,860,549.57
+WFTM Price: $2.03
+BTC Price: $35,995.00
+Staked: 0.0000 spLP ($5,237.64)
+DMD Per Week: 1546.80 ($66.90)
+APR: Day 0.18% Week 1.28% Year 66.41%
+You are staking 0.00 [WFTM]-[BTC] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BTC] SPOOKY LP - Fee 2%
+Unstake 0.00 [WFTM]-[BTC] SPOOKY LP
+Claim 0.00 DMD ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [WFTM]-[SUSHI] SPOOKY LP [+] [-] [<=>] Price: $6.07 TVL: $7,527,704.32
+WFTM Price: $2.03
+SUSHI Price: $3.91
+Staked: 313.9493 spLP ($1,905.50)
+DMD Per Week: 773.40 ($33.45)
+APR: Day 0.25% Week 1.76% Year 91.28%
+You are staking 0.00 [WFTM]-[SUSHI] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[SUSHI] SPOOKY LP - Fee 2%
+Unstake 0.00 [WFTM]-[SUSHI] SPOOKY LP
+Claim 0.00 DMD ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [CRV]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $5.21 TVL: $4,492,473.75
+CRV Price: $2.74
+WFTM Price: $2.03
+Staked: 211.7094 spLP ($1,102.24)
+DMD Per Week: 773.40 ($33.45)
+APR: Day 0.43% Week 3.03% Year 157.80%
+You are staking 0.00 [CRV]-[WFTM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CRV]-[WFTM] SPOOKY LP - Fee 2%
+Unstake 0.00 [CRV]-[WFTM] SPOOKY LP
+Claim 0.00 DMD ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [YFI]-[ETH] SPOOKY LP [+] [-] [<=>] Price: $15,213.88 TVL: $5,671,368.22
+YFI Price: $23,404.00
+ETH Price: $2,352.96
+Staked: 0.0780 spLP ($1,186.92)
+DMD Per Week: 773.40 ($33.45)
+APR: Day 0.40% Week 2.82% Year 146.54%
+You are staking 0.00 [YFI]-[ETH] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [YFI]-[ETH] SPOOKY LP - Fee 2%
+Unstake 0.00 [YFI]-[ETH] SPOOKY LP
+Claim 0.00 DMD ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - WFTM Price: $2.03 Market Cap: $1,466,360,277.40 
+Staked: 3688.3877 WFTM ($7,487.43)
+DMD Per Week: 1546.80 ($66.90)
+APR: Day 0.13% Week 0.89% Year 46.46%
+You are staking 0.00 WFTM ($0.00), 0.00% of the pool.
+Stake 0.00 WFTM - Fee 2%
+Unstake 0.00 WFTM
+Claim 0.00 DMD ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - USDC Price: $1.00 Market Cap: $1,729,178,327.80 
+Staked: 3139.3253 USDC ($3,139.33)
+DMD Per Week: 773.40 ($33.45)
+APR: Day 0.15% Week 1.07% Year 55.40%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 2%
+Unstake 0.00 USDC
+Claim 0.00 DMD ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - DAI Price: $1.00 Market Cap: $704,467,481.12 
+Staked: 5379.8608 DAI ($5,379.86)
+DMD Per Week: 773.40 ($33.45)
+APR: Day 0.09% Week 0.62% Year 32.33%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 2%
+Unstake 0.00 DAI
+Claim 0.00 DMD ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - fUSDT Price: $1.00 Market Cap: $350,441,901.33 
+Staked: 3536.3261 fUSDT ($3,536.33)
+DMD Per Week: 773.40 ($33.45)
+APR: Day 0.14% Week 0.95% Year 49.18%
+You are staking 0.00 fUSDT ($0.00), 0.00% of the pool.
+Stake 0.00 fUSDT - Fee 2%
+Unstake 0.00 fUSDT
+Claim 0.00 DMD ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - BTC Price: $35,995.00 Market Cap: $619,358,987.71 
+Staked: 0.0656 BTC ($2,360.16)
+DMD Per Week: 773.40 ($33.45)
+APR: Day 0.20% Week 1.42% Year 73.69%
+You are staking 0.00 BTC ($0.00), 0.00% of the pool.
+Stake 0.00 BTC - Fee 2%
+Unstake 0.00 BTC
+Claim 0.00 DMD ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - ETH Price: $2,352.96 Market Cap: $1,122,592,759.09 
+Staked: 1.3902 ETH ($3,271.05)
+DMD Per Week: 773.40 ($33.45)
+APR: Day 0.15% Week 1.02% Year 53.17%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 2%
+Unstake 0.00 ETH
+Claim 0.00 DMD ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - BNB Price: $363.96 Market Cap: $13,799,230.10 
+Staked: 7.3358 BNB ($2,669.92)
+DMD Per Week: 773.40 ($33.45)
+APR: Day 0.18% Week 1.25% Year 65.14%
+You are staking 0.00 BNB ($0.00), 0.00% of the pool.
+Stake 0.00 BNB - Fee 2%
+Unstake 0.00 BNB
+Claim 0.00 DMD ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - [MIM]-[DMD] SPOOKY LP [+] [-] [<=>] Price: $0.42 TVL: $11,514.07
+MIM Price: $1.00
+DMD Price: $0.04
+Staked: 25742.3664 spLP ($10,833.00)
+DMD Per Week: 15468.03 ($668.96)
+APR: Day 0.88% Week 6.18% Year 321.11%
+You are staking 0.00 [MIM]-[DMD] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MIM]-[DMD] SPOOKY LP
+Unstake 0.00 [MIM]-[DMD] SPOOKY LP
+Claim 0.00 DMD ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - [WFTM]-[MIM] SPOOKY LP [+] [-] [<=>] Price: $3.50 TVL: $22,182,308.65
+WFTM Price: $2.03
+MIM Price: $1.00
+Staked: 465.1287 spLP ($1,628.31)
+DMD Per Week: 773.40 ($33.45)
+APR: Day 0.29% Week 2.05% Year 106.82%
+You are staking 0.00 [WFTM]-[MIM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[MIM] SPOOKY LP - Fee 2%
+Unstake 0.00 [WFTM]-[MIM] SPOOKY LP
+Claim 0.00 DMD ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - MIM Price: $1.00 Market Cap: $448,157,816.79 
+Staked: 3549.8072 MIM ($3,549.81)
+DMD Per Week: 773.40 ($33.45)
+APR: Day 0.13% Week 0.94% Year 49.00%
+You are staking 0.00 MIM ($0.00), 0.00% of the pool.
+Stake 0.00 MIM - Fee 2%
+Unstake 0.00 MIM
+Claim 0.00 DMD ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - BOO Price: $25.16 Market Cap: $212,278,137.34 
+Staked: 83.6982 BOO ($2,105.85)
+DMD Per Week: 773.40 ($33.45)
+APR: Day 0.23% Week 1.59% Year 82.59%
+You are staking 0.00 BOO ($0.00), 0.00% of the pool.
+Stake 0.00 BOO - Fee 2%
+Unstake 0.00 BOO
+Claim 0.00 DMD ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - [WFTM]-[DAI] SPOOKY LP [+] [-] [<=>] Price: $3.75 TVL: $43,744,291.35
+WFTM Price: $2.03
+DAI Price: $1.00
+Staked: 376.4663 spLP ($1,412.13)
+DMD Per Week: 773.40 ($33.45)
+APR: Day 0.34% Week 2.37% Year 123.17%
+You are staking 0.00 [WFTM]-[DAI] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[DAI] SPOOKY LP - Fee 2%
+Unstake 0.00 [WFTM]-[DAI] SPOOKY LP
+Claim 0.00 DMD ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - [ETH]-[DMD] SPOOKY LP [+] [-] [<=>] Price: $20.33 TVL: $8,431.34
+ETH Price: $2,352.96
+DMD Price: $0.04
+Staked: 413.9244 spLP ($8,416.69)
+DMD Per Week: 15468.03 ($668.96)
+APR: Day 1.14% Week 7.95% Year 413.29%
+You are staking 0.00 [ETH]-[DMD] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[DMD] SPOOKY LP
+Unstake 0.00 [ETH]-[DMD] SPOOKY LP
+Claim 0.00 DMD ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - [BTC]-[DMD] SPOOKY LP [+] [-] [<=>] Price: $7,984,969.73 TVL: $8,410.07
+BTC Price: $35,995.00
+DMD Price: $0.04
+Staked: 0.0010 spLP ($8,361.73)
+DMD Per Week: 15468.03 ($668.96)
+APR: Day 1.14% Week 8.00% Year 416.01%
+You are staking 0.00 [BTC]-[DMD] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTC]-[DMD] SPOOKY LP
+Unstake 0.00 [BTC]-[DMD] SPOOKY LP
+Claim 0.00 DMD ($0.00)
+Staking or unstaking also claims rewards.
+
+29 - [BTC]-[ETH] SPOOKY LP [+] [-] [<=>] Price: $41,389,108,629.31 TVL: $41,654,042.76
+BTC Price: $35,995.00
+ETH Price: $2,352.96
+Staked: 0.0000 spLP ($3,800.83)
+DMD Per Week: 1546.80 ($66.90)
+APR: Day 0.25% Week 1.76% Year 91.52%
+You are staking 0.00 [BTC]-[ETH] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTC]-[ETH] SPOOKY LP - Fee 2%
+Unstake 0.00 [BTC]-[ETH] SPOOKY LP
+Claim 0.00 DMD ($0.00)
+Staking or unstaking also claims rewards.
+
+31 - [DOLA]-[DMD] SPOOKY LP [+] [-] [<=>] Price: $0.43 TVL: $10,702.48
+DOLA Price: $1.02
+DMD Price: $0.04
+Staked: 24889.2197 spLP ($10,680.83)
+DMD Per Week: 15468.03 ($668.96)
+APR: Day 0.89% Week 6.26% Year 325.68%
+You are staking 0.00 [DOLA]-[DMD] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOLA]-[DMD] SPOOKY LP
+Unstake 0.00 [DOLA]-[DMD] SPOOKY LP
+Claim 0.00 DMD ($0.00)
+Staking or unstaking also claims rewards.
+
+32 - [EGUNK]-[WFTM] SLP [+] [-] [<=>] Price: $0.05 TVL: $638.73
+EGUNK Price: $0.000346
+WFTM Price: $2.03
+Staked: 10558.1215 SLP ($570.01)
+DMD Per Week: 773.40 ($33.45)
+APR: Day 0.84% Week 5.87% Year 305.13%
+You are staking 0.00 [EGUNK]-[WFTM] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [EGUNK]-[WFTM] SLP
+Unstake 0.00 [EGUNK]-[WFTM] SLP
+Claim 0.00 DMD ($0.00)
+Staking or unstaking also claims rewards.
+
+33 - [WFTM]-[PGUNK] SLP [+] [-] [<=>] Price: $41,491.02 TVL: $138,632.43
+WFTM Price: $2.03
+PGUNK Price: $0.21
+Staked: 0.0089 SLP ($370.73)
+DMD Per Week: 773.40 ($33.45)
+APR: Day 1.29% Week 9.02% Year 469.15%
+You are staking 0.00 [WFTM]-[PGUNK] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[PGUNK] SLP
+Unstake 0.00 [WFTM]-[PGUNK] SLP
+Claim 0.00 DMD ($0.00)
+Staking or unstaking also claims rewards.
+
+34 - [WFTM]-[NIPS] Uni LP [+] [-] [<=>] Price: $3,487.69 TVL: $10,397.91
+WFTM Price: $2.03
+NIPS Price: $0.001422
+Staked: 0.1136 NIPS-LP ($396.05)
+DMD Per Week: 773.40 ($33.45)
+APR: Day 1.21% Week 8.45% Year 439.16%
+You are staking 0.00 [WFTM]-[NIPS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[NIPS] Uni LP - Fee 1%
+Unstake 0.00 [WFTM]-[NIPS] Uni LP
+Claim 0.00 DMD ($0.00)
+Staking or unstaking also claims rewards.
+
+35 - [SLURP]-[MIM] SPOOKY LP [+] [-] [<=>] Price: $34.71 TVL: $48,258.46
+SLURP Price: $288.06
+MIM Price: $1.00
+Staked: 47.9302 spLP ($1,663.74)
+DMD Per Week: 1546.80 ($66.90)
+APR: Day 0.57% Week 4.02% Year 209.08%
+You are staking 0.00 [SLURP]-[MIM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SLURP]-[MIM] SPOOKY LP
+Unstake 0.00 [SLURP]-[MIM] SPOOKY LP
+Claim 0.00 DMD ($0.00)
+Staking or unstaking also claims rewards.
+
+36 - [REAPER]-[WFTM] SPIRIT LP [+] [-] [<=>] Price: $0.62 TVL: $751,588.65
+REAPER Price: $0.04
+WFTM Price: $2.03
+Staked: 12415.4390 SPIRIT-LP ($7,671.25)
+DMD Per Week: 3867.01 ($167.24)
+APR: Day 0.31% Week 2.18% Year 113.36%
+You are staking 0.00 [REAPER]-[WFTM] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [REAPER]-[WFTM] SPIRIT LP
+Unstake 0.00 [REAPER]-[WFTM] SPIRIT LP
+Claim 0.00 DMD ($0.00)
+Staking or unstaking also claims rewards.
+
+37 - REAPER Price: $0.04 Market Cap: $2,008,058.18 
+Staked: 765872.9751 REAPER ($27,378.70)
+DMD Per Week: 3867.01 ($167.24)
+APR: Day 0.09% Week 0.61% Year 31.76%
+You are staking 0.00 REAPER ($0.00), 0.00% of the pool.
+Stake 0.00 REAPER
+Unstake 0.00 REAPER
+Claim 0.00 DMD ($0.00)
+Staking or unstaking also claims rewards.
+
+38 - [WFTM]-[PGUNK] SPIRIT LP [+] [-] [<=>] Price: $41,350.87 TVL: $54,668.01
+WFTM Price: $2.03
+PGUNK Price: $0.21
+Staked: 0.0773 SPIRIT-LP ($3,194.39)
+DMD Per Week: 2320.20 ($100.34)
+APR: Day 0.45% Week 3.14% Year 163.34%
+You are staking 0.00 [WFTM]-[PGUNK] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[PGUNK] SPIRIT LP
+Unstake 0.00 [WFTM]-[PGUNK] SPIRIT LP
+Claim 0.00 DMD ($0.00)
+Staking or unstaking also claims rewards.
+
+39 - [EGUNK]-[WFTM] SPIRIT LP [+] [-] [<=>] Price: $0.05 TVL: $2,779.76
+EGUNK Price: $0.000346
+WFTM Price: $2.03
+Staked: 46090.1498 SPIRIT-LP ($2,446.40)
+DMD Per Week: 2320.20 ($100.34)
+APR: Day 0.59% Week 4.10% Year 213.29%
+You are staking 0.00 [EGUNK]-[WFTM] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [EGUNK]-[WFTM] SPIRIT LP
+Unstake 0.00 [EGUNK]-[WFTM] SPIRIT LP
+Claim 0.00 DMD ($0.00)
+Staking or unstaking also claims rewards.
+
+40 - [USDC]-[YOSHI] Uni LP [+] [-] [<=>] Price: $2,395,221.01 TVL: $5,937.04
+USDC Price: $1.00
+YOSHI Price: $1.38
+Staked: 0.0004 YLP ($900.07)
+DMD Per Week: 2320.20 ($100.34)
+APR: Day 1.59% Week 11.15% Year 579.72%
+You are staking 0.00 [USDC]-[YOSHI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[YOSHI] Uni LP
+Unstake 0.00 [USDC]-[YOSHI] Uni LP
+Claim 0.00 DMD ($0.00)
+Staking or unstaking also claims rewards.
+
+41 - [WFTM]-[YOSHI] Uni LP [+] [-] [<=>] Price: $3.39 TVL: $42,615,630.95
+WFTM Price: $2.03
+YOSHI Price: $1.38
+Staked: 988.8353 YLP ($3,347.33)
+DMD Per Week: 2320.20 ($100.34)
+APR: Day 0.43% Week 3.00% Year 155.88%
+You are staking 0.00 [WFTM]-[YOSHI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[YOSHI] Uni LP
+Unstake 0.00 [WFTM]-[YOSHI] Uni LP
+Claim 0.00 DMD ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $433,891.61

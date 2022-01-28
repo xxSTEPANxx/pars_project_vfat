@@ -1,0 +1,658 @@
+***************************** AVALANCHE ****************************************
+
+*************** 👨‍🌾 UNOFFICIAL ZABU FINANCE FARMING CALCULATOR 👨‍🌾 ***********
+INFO  : https://zabu.finance/
+********************************************************************************
+
+Fri Jan 28 2022 00:20:41 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 62 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - ZUBAX Price: $0.00 Market Cap: $0.00 
+Staked: 933521801.5900 ZUBAX ($0.00)
+ZUBAX Per Week: 7239227.71 ($11.25)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 ZUBAX ($0.00), NaN% of the pool.
+Stake 0.00 ZUBAX
+Unstake 0.00 ZUBAX
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - ZABU Price: $0.0000041400 Market Cap: $20,700.00 
+Staked: 1512609699.1203 ZABU ($6,262.20)
+ZUBAX Per Week: 904903.46 ($1.41)
+APR: Day 0.00% Week 0.02% Year 1.17%
+You are staking 0.00 ZABU ($0.00), 0.00% of the pool.
+Stake 0.00 ZABU
+Unstake 0.00 ZABU
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - WAVAX Price: $61.54 Market Cap: $1,042,498,689.45 
+Staked: 2.0000 WAVAX ($123.08)
+ZUBAX Per Week: 180980.69 ($0.28)
+APR: Day 0.03% Week 0.23% Year 11.88%
+You are staking 0.00 WAVAX ($0.00), 0.00% of the pool.
+Stake 0.00 WAVAX
+Unstake 0.00 WAVAX - Fee 3%
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - WBTC.e Price: $35,713.00 Market Cap: $724,247,579.36 
+Staked: 0.0003 WBTC.e ($11.02)
+ZUBAX Per Week: 180980.69 ($0.28)
+APR: Day 0.36% Week 2.55% Year 132.62%
+You are staking 0.00 WBTC.e ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC.e
+Unstake 0.00 WBTC.e - Fee 3%
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - WETH.e Price: $2,322.04 Market Cap: $1,016,336,689.96 
+Staked: 0.0066 WETH.e ($15.30)
+ZUBAX Per Week: 180980.69 ($0.28)
+APR: Day 0.26% Week 1.84% Year 95.55%
+You are staking 0.00 WETH.e ($0.00), 0.00% of the pool.
+Stake 0.00 WETH.e
+Unstake 0.00 WETH.e - Fee 3%
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - DAI.e Price: $1.00 Market Cap: $648,392,830.91 
+Staked: 37.4895 DAI.e ($37.48)
+ZUBAX Per Week: 180980.69 ($0.28)
+APR: Day 0.11% Week 0.75% Year 39.01%
+You are staking 0.00 DAI.e ($0.00), 0.00% of the pool.
+Stake 0.00 DAI.e
+Unstake 0.00 DAI.e - Fee 3%
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - USDT.e Price: $1.00 Market Cap: $750,307,446.71 
+Staked: 133.7207 USDT.e ($133.44)
+ZUBAX Per Week: 180980.69 ($0.28)
+APR: Day 0.03% Week 0.21% Year 10.96%
+You are staking 0.00 USDT.e ($0.00), 0.00% of the pool.
+Stake 0.00 USDT.e
+Unstake 0.00 USDT.e - Fee 3%
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - USDC.e Price: $1.01 Market Cap: $1,457,618,217.99 
+Staked: 57.0051 USDC.e ($57.58)
+ZUBAX Per Week: 180980.69 ($0.28)
+APR: Day 0.07% Week 0.49% Year 25.40%
+You are staking 0.00 USDC.e ($0.00), 0.00% of the pool.
+Stake 0.00 USDC.e
+Unstake 0.00 USDC.e - Fee 3%
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - YAK Price: $1,440.43 Market Cap: $14,404,300.00 
+Staked: 0.0311 YAK ($44.77)
+ZUBAX Per Week: 180980.69 ($0.28)
+APR: Day 0.09% Week 0.63% Year 32.66%
+You are staking 0.00 YAK ($0.00), 0.00% of the pool.
+Stake 0.00 YAK
+Unstake 0.00 YAK - Fee 3%
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - QI Price: $0.05 Market Cap: $339,508,224.00 
+Staked: 39200.0416 QI ($1,848.44)
+ZUBAX Per Week: 180980.69 ($0.28)
+APR: Day 0.00% Week 0.02% Year 0.79%
+You are staking 0.00 QI ($0.00), 0.00% of the pool.
+Stake 0.00 QI
+Unstake 0.00 QI - Fee 3%
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - PNG Price: $0.32 Market Cap: $172,041,102.00 
+Staked: 1144.4249 PNG ($365.96)
+ZUBAX Per Week: 180980.69 ($0.28)
+APR: Day 0.01% Week 0.08% Year 4.00%
+You are staking 0.00 PNG ($0.00), 0.00% of the pool.
+Stake 0.00 PNG
+Unstake 0.00 PNG - Fee 3%
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - JOE Price: $0.91 Market Cap: $258,739,931.77 
+Staked: 28.1508 JOE ($25.60)
+ZUBAX Per Week: 180980.69 ($0.28)
+APR: Day 0.16% Week 1.10% Year 57.12%
+You are staking 0.00 JOE ($0.00), 0.00% of the pool.
+Stake 0.00 JOE
+Unstake 0.00 JOE - Fee 3%
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - LINK.e Price: $14.54 Market Cap: $170,225,866.86 
+Staked: 2.2181 LINK.e ($32.25)
+ZUBAX Per Week: 180980.69 ($0.28)
+APR: Day 0.12% Week 0.87% Year 45.34%
+You are staking 0.00 LINK.e ($0.00), 0.00% of the pool.
+Stake 0.00 LINK.e
+Unstake 0.00 LINK.e - Fee 3%
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - UNI.e Price: $9.98 Market Cap: $82,065.12 
+Staked: 3.2077 UNI.e ($32.01)
+ZUBAX Per Week: 180980.69 ($0.28)
+APR: Day 0.13% Week 0.88% Year 45.67%
+You are staking 0.00 UNI.e ($0.00), 0.00% of the pool.
+Stake 0.00 UNI.e
+Unstake 0.00 UNI.e - Fee 3%
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - SUSHI.e Price: $3.88 Market Cap: $207,621.15 
+Staked: 31.3956 SUSHI.e ($121.82)
+ZUBAX Per Week: 180980.69 ($0.28)
+APR: Day 0.03% Week 0.23% Year 12.00%
+You are staking 0.00 SUSHI.e ($0.00), 0.00% of the pool.
+Stake 0.00 SUSHI.e
+Unstake 0.00 SUSHI.e - Fee 3%
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - AAVE.e Price: $138.80 Market Cap: $26,241,200.90 
+Staked: 6.2351 AAVE.e ($865.43)
+ZUBAX Per Week: 180980.69 ($0.28)
+APR: Day 0.00% Week 0.03% Year 1.69%
+You are staking 0.00 AAVE.e ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE.e
+Unstake 0.00 AAVE.e - Fee 3%
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - YFI.e Price: $23,193.00 Market Cap: $27,190.05 
+Staked: 0.0066 YFI.e ($152.85)
+ZUBAX Per Week: 180980.69 ($0.28)
+APR: Day 0.03% Week 0.18% Year 9.57%
+You are staking 0.00 YFI.e ($0.00), 0.00% of the pool.
+Stake 0.00 YFI.e
+Unstake 0.00 YFI.e - Fee 3%
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - xJOE Price: $0.00 Market Cap: $0.00 
+Staked: 10.1520 xJOE ($0.00)
+ZUBAX Per Week: 180980.69 ($0.28)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 xJOE ($0.00), NaN% of the pool.
+Stake 0.00 xJOE
+Unstake 0.00 xJOE - Fee 3%
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - iPEFI Price: $0.00 Market Cap: $0.00 
+Staked: 85.9901 iPEFI ($0.00)
+ZUBAX Per Week: 180980.69 ($0.28)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 iPEFI ($0.00), NaN% of the pool.
+Stake 0.00 iPEFI
+Unstake 0.00 iPEFI - Fee 3%
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - XAVA Price: $5.99 Market Cap: $599,000,000.00 
+Staked: 109.1827 XAVA ($654.00)
+ZUBAX Per Week: 180980.69 ($0.28)
+APR: Day 0.01% Week 0.04% Year 2.24%
+You are staking 0.00 XAVA ($0.00), 0.00% of the pool.
+Stake 0.00 XAVA
+Unstake 0.00 XAVA - Fee 3%
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - PEFI Price: $0.32 Market Cap: $6,678,848.57 
+Staked: 61.6944 PEFI ($19.82)
+ZUBAX Per Week: 180980.69 ($0.28)
+APR: Day 0.20% Week 1.42% Year 73.77%
+You are staking 0.00 PEFI ($0.00), 0.00% of the pool.
+Stake 0.00 PEFI
+Unstake 0.00 PEFI - Fee 3%
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - SNOB Price: $0.24 Market Cap: $4,164,100.37 
+Staked: 86.3101 SNOB ($20.61)
+ZUBAX Per Week: 180980.69 ($0.28)
+APR: Day 0.19% Week 1.36% Year 70.95%
+You are staking 0.00 SNOB ($0.00), 0.00% of the pool.
+Stake 0.00 SNOB
+Unstake 0.00 SNOB - Fee 3%
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - SHERPA Price: $0.23 Market Cap: $2,341,130.00 
+Staked: 260.7989 SHERPA ($61.06)
+ZUBAX Per Week: 180980.69 ($0.28)
+APR: Day 0.07% Week 0.46% Year 23.95%
+You are staking 0.00 SHERPA ($0.00), 0.00% of the pool.
+Stake 0.00 SHERPA
+Unstake 0.00 SHERPA - Fee 3%
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - AVE Price: $0.00 Market Cap: $0.00 
+Staked: 180.0949 AVE ($0.00)
+ZUBAX Per Week: 180980.69 ($0.28)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 AVE ($0.00), NaN% of the pool.
+Stake 0.00 AVE
+Unstake 0.00 AVE - Fee 3%
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - [WAVAX]-[ZUBAX] PGL [+] [-] [<=>] Price: $0.02 TVL: $875.18
+WAVAX Price: $61.54
+ZUBAX Price: $0.0000015536
+Staked: 23494.1403 PGL ($527.20)
+ZUBAX Per Week: 10858841.56 ($16.87)
+APR: Day 0.46% Week 3.20% Year 166.40%
+You are staking 0.00 [WAVAX]-[ZUBAX] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [WAVAX]-[ZUBAX] PGL
+Unstake 0.00 [WAVAX]-[ZUBAX] PGL
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - [WAVAX]-[ZUBAX] JLP [+] [-] [<=>] Price: $0.02 TVL: $728.77
+WAVAX Price: $61.54
+ZUBAX Price: $0.0000015536
+Staked: 18224.7429 JLP ($393.12)
+ZUBAX Per Week: 10858841.56 ($16.87)
+APR: Day 0.61% Week 4.29% Year 223.16%
+You are staking 0.00 [WAVAX]-[ZUBAX] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WAVAX]-[ZUBAX] JLP
+Unstake 0.00 [WAVAX]-[ZUBAX] JLP
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - [GB]-[WAVAX] JLP [+] [-] [<=>] Price: $231,164.64 TVL: $32,877.56
+GB Price: $0.07
+WAVAX Price: $61.54
+Staked: 0.0002 JLP ($40.88)
+ZUBAX Per Week: 180980.69 ($0.28)
+APR: Day 0.10% Week 0.69% Year 35.77%
+You are staking 0.00 [GB]-[WAVAX] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [GB]-[WAVAX] JLP
+Unstake 0.00 [GB]-[WAVAX] JLP - Fee 3%
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - [GB]-[WAVAX] PGL [+] [-] [<=>] Price: $213,078.33 TVL: $7,323.43
+GB Price: $0.07
+WAVAX Price: $61.54
+Staked: 0.0001 PGL ($21.00)
+ZUBAX Per Week: 180980.69 ($0.28)
+APR: Day 0.19% Week 1.34% Year 69.63%
+You are staking 0.00 [GB]-[WAVAX] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [GB]-[WAVAX] PGL
+Unstake 0.00 [GB]-[WAVAX] PGL - Fee 3%
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - VSO Price: $0.03 Market Cap: $3,369,726.00 
+Staked: 3799.7858 VSO ($128.04)
+ZUBAX Per Week: 180980.69 ($0.28)
+APR: Day 0.03% Week 0.22% Year 11.42%
+You are staking 0.00 VSO ($0.00), 0.00% of the pool.
+Stake 0.00 VSO
+Unstake 0.00 VSO - Fee 3%
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+29 - ELK Price: $2.65 Market Cap: $5,942,423.60 
+Staked: 0.0000 ELK ($0.00)
+ZUBAX Per Week: 180980.69 ($0.28)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 ELK ($0.00), NaN% of the pool.
+Stake 0.00 ELK
+Unstake 0.00 ELK - Fee 3%
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+30 - GDL Price: $0.000645 Market Cap: $322,580.00 
+Staked: 22408.1333 GDL ($14.46)
+ZUBAX Per Week: 180980.69 ($0.28)
+APR: Day 0.28% Week 1.94% Year 101.14%
+You are staking 0.00 GDL ($0.00), 0.00% of the pool.
+Stake 0.00 GDL
+Unstake 0.00 GDL - Fee 3%
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+31 - CYCLE Price: $1.73 Market Cap: $519,000.00 
+Staked: 12.0000 CYCLE ($20.76)
+ZUBAX Per Week: 180980.69 ($0.28)
+APR: Day 0.19% Week 1.35% Year 70.43%
+You are staking 0.00 CYCLE ($0.00), 0.00% of the pool.
+Stake 0.00 CYCLE
+Unstake 0.00 CYCLE - Fee 3%
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+32 - LYD Price: $0.007129 Market Cap: $1,618,968.72 
+Staked: 2500.2292 LYD ($17.82)
+ZUBAX Per Week: 180980.69 ($0.28)
+APR: Day 0.23% Week 1.58% Year 82.03%
+You are staking 0.00 LYD ($0.00), 0.00% of the pool.
+Stake 0.00 LYD
+Unstake 0.00 LYD - Fee 3%
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+33 - CNR Price: $0.005669 Market Cap: $3,185,904.94 
+Staked: 456.7802 CNR ($2.59)
+ZUBAX Per Week: 180980.69 ($0.28)
+APR: Day 1.55% Week 10.86% Year 564.65%
+You are staking 0.00 CNR ($0.00), 0.00% of the pool.
+Stake 0.00 CNR
+Unstake 0.00 CNR - Fee 3%
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+34 - YTS Price: $0.009060 Market Cap: $5,037,543.48 
+Staked: 4161.7963 YTS ($37.71)
+ZUBAX Per Week: 180980.69 ($0.28)
+APR: Day 0.11% Week 0.75% Year 38.78%
+You are staking 0.00 YTS ($0.00), 0.00% of the pool.
+Stake 0.00 YTS
+Unstake 0.00 YTS - Fee 3%
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+35 - AVME Price: $0.25 Market Cap: $796,171.22 
+Staked: 75.4812 AVME ($18.60)
+ZUBAX Per Week: 180980.69 ($0.28)
+APR: Day 0.22% Week 1.51% Year 78.61%
+You are staking 0.00 AVME ($0.00), 0.00% of the pool.
+Stake 0.00 AVME
+Unstake 0.00 AVME - Fee 3%
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+36 - ELE Price: $0.08 Market Cap: $43,502.77 
+Staked: 154.2278 ELE ($11.82)
+ZUBAX Per Week: 180980.69 ($0.28)
+APR: Day 0.34% Week 2.38% Year 123.69%
+You are staking 0.00 ELE ($0.00), 0.00% of the pool.
+Stake 0.00 ELE
+Unstake 0.00 ELE - Fee 3%
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+37 - TIME Price: $370.27 Market Cap: $485,954,531.13 
+Staked: 0.0057 TIME ($2.11)
+ZUBAX Per Week: 180980.69 ($0.28)
+APR: Day 1.91% Week 13.34% Year 693.58%
+You are staking 0.00 TIME ($0.00), 0.00% of the pool.
+Stake 0.00 TIME
+Unstake 0.00 TIME - Fee 3%
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+38 - MIM Price: $1.00 Market Cap: $724,376,358.21 
+Staked: 89.9161 MIM ($89.66)
+ZUBAX Per Week: 180980.69 ($0.28)
+APR: Day 0.04% Week 0.31% Year 16.31%
+You are staking 0.00 MIM ($0.00), 0.00% of the pool.
+Stake 0.00 MIM
+Unstake 0.00 MIM - Fee 3%
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+39 - WALBT Price: $0.34 Market Cap: $2,277,065.33 
+Staked: 51.0000 WALBT ($17.28)
+ZUBAX Per Week: 180980.69 ($0.28)
+APR: Day 0.23% Week 1.63% Year 84.63%
+You are staking 0.00 WALBT ($0.00), 0.00% of the pool.
+Stake 0.00 WALBT
+Unstake 0.00 WALBT - Fee 3%
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+40 - OLIVE Price: $0.04 Market Cap: $402,149.24 
+Staked: 1029.0178 OLIVE ($41.23)
+ZUBAX Per Week: 180980.69 ($0.28)
+APR: Day 0.10% Week 0.68% Year 35.46%
+You are staking 0.00 OLIVE ($0.00), 0.00% of the pool.
+Stake 0.00 OLIVE
+Unstake 0.00 OLIVE - Fee 3%
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+41 - TUNDRA Price: $0.52 Market Cap: $39,060.62 
+Staked: 34.1827 TUNDRA ($17.81)
+ZUBAX Per Week: 180980.69 ($0.28)
+APR: Day 0.23% Week 1.58% Year 82.12%
+You are staking 0.00 TUNDRA ($0.00), 0.00% of the pool.
+Stake 0.00 TUNDRA
+Unstake 0.00 TUNDRA - Fee 3%
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+42 - STORM Price: $0.02 Market Cap: $57,760.44 
+Staked: 0.0000 STORM ($0.00)
+ZUBAX Per Week: 180980.69 ($0.28)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 STORM ($0.00), NaN% of the pool.
+Stake 0.00 STORM
+Unstake 0.00 STORM - Fee 3%
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+43 - BAG Price: $0.002770 Market Cap: $692,397.50 
+Staked: 3000.4382 BAG ($8.31)
+ZUBAX Per Week: 180980.69 ($0.28)
+APR: Day 0.48% Week 3.38% Year 175.95%
+You are staking 0.00 BAG ($0.00), 0.00% of the pool.
+Stake 0.00 BAG
+Unstake 0.00 BAG - Fee 3%
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+44 - YAY Price: $0.01 Market Cap: $1,448,643.46 
+Staked: 4832.4587 YAY ($58.04)
+ZUBAX Per Week: 180980.69 ($0.28)
+APR: Day 0.07% Week 0.48% Year 25.19%
+You are staking 0.00 YAY ($0.00), 0.00% of the pool.
+Stake 0.00 YAY
+Unstake 0.00 YAY - Fee 3%
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+45 - [ZUBAX]-[USDT.e] JLP [+] [-] [<=>] Price: $2,599.20 TVL: $343.79
+ZUBAX Price: $0.0000015536
+USDT.e Price: $1.00
+Staked: 0.1318 JLP ($342.52)
+ZUBAX Per Week: 7239227.71 ($11.25)
+APR: Day 0.47% Week 3.28% Year 170.75%
+You are staking 0.00 [ZUBAX]-[USDT.e] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [ZUBAX]-[USDT.e] JLP
+Unstake 0.00 [ZUBAX]-[USDT.e] JLP
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+46 - [ZUBAX]-[USDT.e] PGL [+] [-] [<=>] Price: $2,618.11 TVL: $342.33
+ZUBAX Price: $0.0000015536
+USDT.e Price: $1.00
+Staked: 0.0766 PGL ($200.46)
+ZUBAX Per Week: 7239227.71 ($11.25)
+APR: Day 0.80% Week 5.61% Year 291.75%
+You are staking 0.00 [ZUBAX]-[USDT.e] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [ZUBAX]-[USDT.e] PGL
+Unstake 0.00 [ZUBAX]-[USDT.e] PGL
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+47 - 1ZUBAX Price: $0.00 Market Cap: $0.00 
+Staked: 104187685.9481 1ZUBAX ($0.00)
+ZUBAX Per Week: 8687073.25 ($13.50)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 1ZUBAX ($0.00), NaN% of the pool.
+Stake 0.00 1ZUBAX
+Unstake 0.00 1ZUBAX
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+48 - 3ZUBAX Price: $0.00 Market Cap: $0.00 
+Staked: 312823608.0710 3ZUBAX ($0.00)
+ZUBAX Per Week: 10858841.56 ($16.87)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 3ZUBAX ($0.00), NaN% of the pool.
+Stake 0.00 3ZUBAX
+Unstake 0.00 3ZUBAX
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+49 - 6ZUBAX Price: $0.00 Market Cap: $0.00 
+Staked: 174328250.8676 6ZUBAX ($0.00)
+ZUBAX Per Week: 14478455.42 ($22.49)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 6ZUBAX ($0.00), NaN% of the pool.
+Stake 0.00 6ZUBAX
+Unstake 0.00 6ZUBAX
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+50 - 12ZUBAX Price: $0.00 Market Cap: $0.00 
+Staked: 251543964.2153 12ZUBAX ($0.00)
+ZUBAX Per Week: 21717683.13 ($33.74)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 12ZUBAX ($0.00), NaN% of the pool.
+Stake 0.00 12ZUBAX
+Unstake 0.00 12ZUBAX
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+51 - [WAVAX]-[ZABU] PGL [+] [-] [<=>] Price: $0.05 TVL: $912.28
+WAVAX Price: $61.54
+ZABU Price: $0.0000041400
+Staked: 2735.1682 PGL ($126.96)
+ZUBAX Per Week: 904903.46 ($1.41)
+APR: Day 0.16% Week 1.11% Year 57.58%
+You are staking 0.00 [WAVAX]-[ZABU] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [WAVAX]-[ZABU] PGL
+Unstake 0.00 [WAVAX]-[ZABU] PGL - Fee 3%
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+52 - [WAVAX]-[ZABU] JLP [+] [-] [<=>] Price: $0.04 TVL: $391.51
+WAVAX Price: $61.54
+ZABU Price: $0.0000041400
+Staked: 3758.3577 JLP ($154.80)
+ZUBAX Per Week: 904903.46 ($1.41)
+APR: Day 0.13% Week 0.91% Year 47.23%
+You are staking 0.00 [WAVAX]-[ZABU] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WAVAX]-[ZABU] JLP
+Unstake 0.00 [WAVAX]-[ZABU] JLP - Fee 3%
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+53 - [PNG]-[ZUBAX] PGL [+] [-] [<=>] Price: $0.00 TVL: $92.57
+PNG Price: $0.32
+ZUBAX Price: $0.0000015536
+Staked: 46735.4215 PGL ($67.27)
+ZUBAX Per Week: 2714710.39 ($4.22)
+APR: Day 0.90% Week 6.27% Year 326.02%
+You are staking 0.00 [PNG]-[ZUBAX] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [PNG]-[ZUBAX] PGL
+Unstake 0.00 [PNG]-[ZUBAX] PGL
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+54 - [JOE]-[ZUBAX] JLP [+] [-] [<=>] Price: $0.00 TVL: $91.26
+JOE Price: $0.91
+ZUBAX Price: $0.0000015536
+Staked: 23408.4402 JLP ($56.97)
+ZUBAX Per Week: 2714710.39 ($4.22)
+APR: Day 1.06% Week 7.40% Year 384.97%
+You are staking 0.00 [JOE]-[ZUBAX] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [JOE]-[ZUBAX] JLP
+Unstake 0.00 [JOE]-[ZUBAX] JLP
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+55 - 1ZUBAXAVAXPGL Price: $0.00 Market Cap: $0.00 
+Staked: 10428.4658 1ZUBAXAVAXPGL ($0.00)
+ZUBAX Per Week: 18098069.27 ($28.12)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 1ZUBAXAVAXPGL ($0.00), NaN% of the pool.
+Stake 0.00 1ZUBAXAVAXPGL
+Unstake 0.00 1ZUBAXAVAXPGL
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+56 - 1ZUBAXAVAXJGL Price: $0.00 Market Cap: $0.00 
+Staked: 9477.5461 1ZUBAXAVAXJGL ($0.00)
+ZUBAX Per Week: 18098069.27 ($28.12)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 1ZUBAXAVAXJGL ($0.00), NaN% of the pool.
+Stake 0.00 1ZUBAXAVAXJGL
+Unstake 0.00 1ZUBAXAVAXJGL
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+57 - SYN Price: $1.99 Market Cap: $8,062,113.69 
+Staked: 9.3508 SYN ($18.61)
+ZUBAX Per Week: 180980.69 ($0.28)
+APR: Day 0.22% Week 1.51% Year 78.57%
+You are staking 0.00 SYN ($0.00), 0.00% of the pool.
+Stake 0.00 SYN
+Unstake 0.00 SYN - Fee 3%
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+58 - FRAX Price: $1.00 Market Cap: $12,675,440.63 
+Staked: 16.3007 FRAX ($16.24)
+ZUBAX Per Week: 180980.69 ($0.28)
+APR: Day 0.25% Week 1.73% Year 90.04%
+You are staking 0.00 FRAX ($0.00), 0.00% of the pool.
+Stake 0.00 FRAX
+Unstake 0.00 FRAX - Fee 3%
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+59 - mYAK Price: $0.00 Market Cap: $0.00 
+Staked: 18838.4249 mYAK ($0.00)
+ZUBAX Per Week: 180980.69 ($0.28)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 mYAK ($0.00), NaN% of the pool.
+Stake 0.00 mYAK
+Unstake 0.00 mYAK - Fee 3%
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+60 - [LAUNCHPAD]-[WAVAX] PGL [+] [-] [<=>] Price: $0.00 TVL: $621.48
+LAUNCHPAD Price: $0.0000000583
+WAVAX Price: $61.54
+Staked: 34786.6329 PGL ($132.93)
+ZUBAX Per Week: 180980.69 ($0.28)
+APR: Day 0.03% Week 0.21% Year 11.00%
+You are staking 0.00 [LAUNCHPAD]-[WAVAX] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [LAUNCHPAD]-[WAVAX] PGL
+Unstake 0.00 [LAUNCHPAD]-[WAVAX] PGL - Fee 3%
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+61 - LAUNCHPAD Price: $0.0000000583 Market Cap: $583.17 
+Staked: 3838320264.1955 LAUNCHPAD ($223.84)
+ZUBAX Per Week: 180980.69 ($0.28)
+APR: Day 0.02% Week 0.13% Year 6.53%
+You are staking 0.00 LAUNCHPAD ($0.00), 0.00% of the pool.
+Stake 0.00 LAUNCHPAD
+Unstake 0.00 LAUNCHPAD - Fee 3%
+Claim 0.00 ZUBAX ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $13,693.74

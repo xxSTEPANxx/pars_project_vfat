@@ -6,7 +6,7 @@ INFO  : https://yel.finance
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Thu Dec 16 2021 05:04:02 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 23:20:47 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
@@ -14,41 +14,25 @@ Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
 Found 2 pools.
 Showing incentivized pools only.
-Finished reading smart contracts.
-0 - YEL Price: $0.04 Market Cap: $1,705,947.33 [%]
-Staked: 15690041.2384 YEL ($564,406.65)
-YEL Per Week: 104895.10 ($3,773.32)
-APR: Day 0.10% Week 0.67% Year 34.76%
-You are staking 0.00 YEL ($0.00), 0.00% of the pool.
-Stake 0.00 YEL
-Unstake 0.00 YEL
-Claim 0.00 YEL ($0.00)
-Staking or unstaking also claims rewards.
-
-1 - [WMATIC]-[YEL] Uni LP [+] [-] [<=>] Price: $0.60 TVL: $977,070.00
-WMATIC Price: $2.16
-YEL Price: $0.04
-Staked: 1379608.5125 UNI-V2 ($823,475.05)
-YEL Per Week: 1048951.05 ($37,733.17)
-APR: Day 0.65% Week 4.58% Year 238.27%
-You are staking 0.00 [WMATIC]-[YEL] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[YEL] Uni LP
-Unstake 0.00 [WMATIC]-[YEL] Uni LP
-Claim 0.00 YEL ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $1,387,881.70
-Found 1 pools.
-Showing incentivized pools only.
-Finished reading smart contracts.
-0 - dQUICK Price: $335.06 Market Cap: $52,720,435.35 [%]
-Staked: 0.5845 dQUICK ($195.84)
-YEL Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 dQUICK ($0.00), 0.00% of the pool.
-Stake 0.00 dQUICK
-Unstake 0.00 dQUICK
-Claim 0.00 YEL ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $195.84
+{
+  "code": -32603,
+  "message": "JsonRpcEngine: Response has no error or result for request:\n{\n  \"method\": \"eth_call\",\n  \"params\": [\n    {\n      \"to\": \"0xd3b71117e6c1558c1553305b44988cd944e97300\",\n      \"data\": \"0x95d89b41\"\n    },\n    \"0x171d94e\"\n  ],\n  \"jsonrpc\": \"2.0\",\n  \"id\": 1492535096,\n  \"origin\": \"https://vfat.tools\",\n  \"tabId\": 2\n}",
+  "data": {
+    "request": {
+      "method": "eth_call",
+      "params": [
+        {
+          "to": "0xd3b71117e6c1558c1553305b44988cd944e97300",
+          "data": "0x95d89b41"
+        },
+        "0x171d94e"
+      ],
+      "jsonrpc": "2.0",
+      "id": 1492535096,
+      "origin": "https://vfat.tools",
+      "tabId": 2
+    }
+  },
+  "stack": "{\n  \"code\": -32603,\n  \"message\": \"JsonRpcEngine: Response has no error or result for request:\\n{\\n  \\\"method\\\": \\\"eth_call\\\",\\n  \\\"params\\\": [\\n    {\\n      \\\"to\\\": \\\"0xd3b71117e6c1558c1553305b44988cd944e97300\\\",\\n      \\\"data\\\": \\\"0x95d89b41\\\"\\n    },\\n    \\\"0x171d94e\\\"\\n  ],\\n  \\\"jsonrpc\\\": \\\"2.0\\\",\\n  \\\"id\\\": 1492535096,\\n  \\\"origin\\\": \\\"https://vfat.tools\\\",\\n  \\\"tabId\\\": 2\\n}\",\n  \"data\": {\n    \"request\": {\n      \"method\": \"eth_call\",\n      \"params\": [\n        {\n          \"to\": \"0xd3b71117e6c1558c1553305b44988cd944e97300\",\n          \"data\": \"0x95d89b41\"\n        },\n        \"0x171d94e\"\n      ],\n      \"jsonrpc\": \"2.0\",\n      \"id\": 1492535096,\n      \"origin\": \"https://vfat.tools\",\n      \"tabId\": 2\n    }\n  },\n  \"stack\": \"Error: JsonRpcEngine: Response has no error or result for request:\\n{\\n  \\\"method\\\": \\\"eth_call\\\",\\n  \\\"params\\\": [\\n    {\\n      \\\"to\\\": \\\"0xd3b71117e6c1558c1553305b44988cd944e97300\\\",\\n      \\\"data\\\": \\\"0x95d89b41\\\"\\n    },\\n    \\\"0x171d94e\\\"\\n  ],\\n  \\\"jsonrpc\\\": \\\"2.0\\\",\\n  \\\"id\\\": 1492535096,\\n  \\\"origin\\\": \\\"https://vfat.tools\\\",\\n  \\\"tabId\\\": 2\\n}\\n    at new o (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/common-1.js:16:24204)\\n    at Function._checkForCompletion (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:305269)\\n    at a._processRequest (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304461)\\n    at async a._handle (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304249)\"\n}\n  at new o (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/common-1.js:16:24204)\n  at Function._checkForCompletion (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:305269)\n  at a._processRequest (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304461)\n  at async a._handle (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304249)"
+}
+Oops something went wrong. Try refreshing the page.

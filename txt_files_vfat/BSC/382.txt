@@ -1,0 +1,603 @@
+*************** 👨‍🌾 UNOFFICIAL CRYPTOSPHERE.FINANCE FARMING CALCULATOR 👨‍🌾 *****************
+INFO  : https://www.cryptosphere.finance
+*******************************************************************************************
+
+Thu Jan 27 2022 21:21:24 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 64 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [CRY]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.01 TVL: $280.77
+CRY Price: $0.0000301086
+BUSD Price: $1.00
+Staked: 20714.5484 Cake-LP ($278.00)
+CRY Per Week: 128349.25 ($3.86)
+APR: Day 0.20% Week 1.39% Year 72.28%
+You are staking 0.00 [CRY]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CRY]-[BUSD] Cake LP - Fee 2%
+Unstake 0.00 [CRY]-[BUSD] Cake LP
+Claim 0.00 CRY ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $8,187.85 TVL: $297,552.57
+BTCB Price: $36,200.00
+WBNB Price: $367.93
+Staked: 0.0002 Cake-LP ($1.47)
+CRY Per Week: 5500.68 ($0.17)
+APR: Day 1.61% Week 11.28% Year 586.69%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 CRY ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,178.64 TVL: $475,387.10
+ETH Price: $2,417.58
+WBNB Price: $367.93
+Staked: 0.0004 Cake-LP ($0.95)
+CRY Per Week: 7334.24 ($0.22)
+APR: Day 3.32% Week 23.24% Year 1208.37%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 CRY ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.28 TVL: $253,479.53
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 12.6755 Cake-LP ($28.90)
+CRY Per Week: 3667.12 ($0.11)
+APR: Day 0.05% Week 0.38% Year 19.86%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 CRY ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - CRY Price: $0.0000301086 Market Cap: $3,181.67 [%]
+Staked: 33100479.0140 CRY ($996.61)
+CRY Per Week: 183356.07 ($5.52)
+APR: Day 0.08% Week 0.55% Year 28.80%
+You are staking 0.00 CRY ($0.00), 0.00% of the pool.
+Stake 0.00 CRY
+Unstake 0.00 CRY
+Claim 0.00 CRY ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - BUSD Price: $1.00 Market Cap: $4,844,435,986.46 [%]
+Staked: 2130.8357 BUSD ($2,127.95)
+CRY Per Week: 3667.12 ($0.11)
+APR: Day 0.00% Week 0.01% Year 0.27%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 CRY ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - WBNB Price: $367.93 Market Cap: $1,919,952,584.61 [%]
+Staked: 2.4413 WBNB ($898.21)
+CRY Per Week: 5500.68 ($0.17)
+APR: Day 0.00% Week 0.02% Year 0.96%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 CRY ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - BTCB Price: $36,200.00 Market Cap: $4,072,536,200.00 [%]
+Staked: 0.0011 BTCB ($39.18)
+CRY Per Week: 5500.68 ($0.17)
+APR: Day 0.06% Week 0.42% Year 21.98%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 CRY ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - ETH Price: $2,417.58 Market Cap: $3,396,699,900.00 [%]
+Staked: 0.0929 ETH ($224.69)
+CRY Per Week: 5500.68 ($0.17)
+APR: Day 0.01% Week 0.07% Year 3.83%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 CRY ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - Cake Price: $6.98 Market Cap: $4,292,449,904.12 [%]
+Staked: 135.6131 Cake ($946.58)
+CRY Per Week: 9167.80 ($0.28)
+APR: Day 0.00% Week 0.03% Year 1.52%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 CRY ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [CRY]-[WBNB] Cake LP [+] [-] [<=>] Price: $0.27 TVL: $621.31
+CRY Price: $0.0000301086
+WBNB Price: $367.93
+Staked: 168.1681 Cake-LP ($45.69)
+CRY Per Week: 128349.25 ($3.86)
+APR: Day 1.21% Week 8.46% Year 439.78%
+You are staking 0.00 [CRY]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CRY]-[WBNB] Cake LP - Fee 2%
+Unstake 0.00 [CRY]-[WBNB] Cake LP
+Claim 0.00 CRY ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $131,424,885.95
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 0.2878 Cake-LP ($0.60)
+CRY Per Week: 3667.12 ($0.11)
+APR: Day 2.62% Week 18.36% Year 954.87%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 CRY ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $105.26 TVL: $200,408,391.46
+Cake Price: $6.98
+WBNB Price: $367.93
+Staked: 1.1573 Cake-LP ($121.82)
+CRY Per Week: 5500.68 ($0.17)
+APR: Day 0.02% Week 0.14% Year 7.07%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 CRY ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [PMON]-[CRY] Cake LP [+] [-] [<=>] Price: $0.03 TVL: $20.56
+PMON Price: $4.27
+CRY Price: $0.0000301086
+Staked: 638.0115 Cake-LP ($16.49)
+CRY Per Week: 128349.25 ($3.86)
+APR: Day 3.35% Week 23.43% Year 1218.52%
+You are staking 0.00 [PMON]-[CRY] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PMON]-[CRY] Cake LP - Fee 2%
+Unstake 0.00 [PMON]-[CRY] Cake LP
+Claim 0.00 CRY ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - PMON Price: $4.27 Market Cap: $4,958,076.34 [%]
+Staked: 15.0695 PMON ($64.32)
+CRY Per Week: 5500.68 ($0.17)
+APR: Day 0.04% Week 0.26% Year 13.39%
+You are staking 0.00 PMON ($0.00), 0.00% of the pool.
+Stake 0.00 PMON - Fee 4%
+Unstake 0.00 PMON
+Claim 0.00 CRY ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - CAPS Price: $0.00 Market Cap: $0.00 
+Staked: 390.3220 CAPS ($0.00)
+CRY Per Week: 5500.68 ($0.17)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 CAPS ($0.00), NaN% of the pool.
+Stake 0.00 CAPS - Fee 4%
+Unstake 0.00 CAPS
+Claim 0.00 CRY ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [CRY]-[CAPS] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $159.97
+CRY Price: $0.0000301086
+CAPS Price: $0.07
+Staked: 28557.2813 Cake-LP ($93.54)
+CRY Per Week: 128349.25 ($3.86)
+APR: Day 0.59% Week 4.13% Year 214.83%
+You are staking 0.00 [CRY]-[CAPS] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CRY]-[CAPS] Cake LP - Fee 2%
+Unstake 0.00 [CRY]-[CAPS] Cake LP
+Claim 0.00 CRY ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - EGLD Price: $0.00 Market Cap: $0.00 
+Staked: 0.9971 EGLD ($0.00)
+CRY Per Week: 9167.80 ($0.28)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 EGLD ($0.00), NaN% of the pool.
+Stake 0.00 EGLD - Fee 4%
+Unstake 0.00 EGLD
+Claim 0.00 CRY ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - [CRY]-[EGLD] Cake LP [+] [-] [<=>] Price: $0.14 TVL: $185.41
+CRY Price: $0.0000301086
+EGLD Price: $130.95
+Staked: 564.2567 Cake-LP ($78.33)
+CRY Per Week: 128349.25 ($3.86)
+APR: Day 0.70% Week 4.93% Year 256.54%
+You are staking 0.00 [CRY]-[EGLD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CRY]-[EGLD] Cake LP - Fee 2%
+Unstake 0.00 [CRY]-[EGLD] Cake LP
+Claim 0.00 CRY ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - BUNNY Price: $0.57 Market Cap: $8,534,548.01 [%]
+Staked: 46.6948 BUNNY ($26.79)
+CRY Per Week: 5500.68 ($0.17)
+APR: Day 0.09% Week 0.62% Year 32.14%
+You are staking 0.00 BUNNY ($0.00), 0.00% of the pool.
+Stake 0.00 BUNNY - Fee 4%
+Unstake 0.00 BUNNY
+Claim 0.00 CRY ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - [CRY]-[BUNNY] Cake LP [+] [-] [<=>] Price: $0.01 TVL: $16.58
+CRY Price: $0.0000301086
+BUNNY Price: $0.57
+Staked: 1626.8485 Cake-LP ($15.13)
+CRY Per Week: 128349.25 ($3.86)
+APR: Day 3.65% Week 25.54% Year 1328.09%
+You are staking 0.00 [CRY]-[BUNNY] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CRY]-[BUNNY] Cake LP - Fee 2%
+Unstake 0.00 [CRY]-[BUNNY] Cake LP
+Claim 0.00 CRY ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - [Cake]-[CRY] Cake LP [+] [-] [<=>] Price: $0.03 TVL: $29.12
+Cake Price: $6.98
+CRY Price: $0.0000301086
+Staked: 678.2332 Cake-LP ($21.19)
+CRY Per Week: 128349.25 ($3.86)
+APR: Day 2.60% Week 18.23% Year 948.13%
+You are staking 0.00 [Cake]-[CRY] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[CRY] Cake LP - Fee 2%
+Unstake 0.00 [Cake]-[CRY] Cake LP
+Claim 0.00 CRY ($0.00)
+Staking or unstaking also claims rewards.
+
+30 - [CRY]-[SYL] Cake LP [+] [-] [<=>] Price: $465.16 TVL: $436.49
+CRY Price: $0.0000301086
+SYL Price: $0.001437
+Staked: 0.8015 Cake-LP ($372.81)
+CRY Per Week: 128349.25 ($3.86)
+APR: Day 0.15% Week 1.04% Year 53.90%
+You are staking 0.00 [CRY]-[SYL] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CRY]-[SYL] Cake LP - Fee 2%
+Unstake 0.00 [CRY]-[SYL] Cake LP
+Claim 0.00 CRY ($0.00)
+Staking or unstaking also claims rewards.
+
+32 - REEF Price: $0.009782 Market Cap: $106,319,562.49 [%]
+Staked: 2379.4281 REEF ($23.27)
+CRY Per Week: 5500.68 ($0.17)
+APR: Day 0.10% Week 0.71% Year 37.00%
+You are staking 0.00 REEF ($0.00), 0.00% of the pool.
+Stake 0.00 REEF - Fee 4%
+Unstake 0.00 REEF
+Claim 0.00 CRY ($0.00)
+Staking or unstaking also claims rewards.
+
+34 - [CRY]-[REEF] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $22.40
+CRY Price: $0.0000301086
+REEF Price: $0.009782
+Staked: 11525.7223 Cake-LP ($13.53)
+CRY Per Week: 128349.25 ($3.86)
+APR: Day 4.08% Week 28.56% Year 1485.33%
+You are staking 0.00 [CRY]-[REEF] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CRY]-[REEF] Cake LP - Fee 2%
+Unstake 0.00 [CRY]-[REEF] Cake LP
+Claim 0.00 CRY ($0.00)
+Staking or unstaking also claims rewards.
+
+35 - [CRY]-[BTCB] Cake LP [+] [-] [<=>] Price: $2.29 TVL: $93.41
+CRY Price: $0.0000301086
+BTCB Price: $36,200.00
+Staked: 38.8641 Cake-LP ($89.09)
+CRY Per Week: 128349.25 ($3.86)
+APR: Day 0.62% Week 4.34% Year 225.57%
+You are staking 0.00 [CRY]-[BTCB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CRY]-[BTCB] Cake LP - Fee 2%
+Unstake 0.00 [CRY]-[BTCB] Cake LP
+Claim 0.00 CRY ($0.00)
+Staking or unstaking also claims rewards.
+
+36 - [ETH]-[CRY] Cake LP [+] [-] [<=>] Price: $0.60 TVL: $34.43
+ETH Price: $2,417.58
+CRY Price: $0.0000301086
+Staked: 47.5172 Cake-LP ($28.73)
+CRY Per Week: 128349.25 ($3.86)
+APR: Day 1.92% Week 13.45% Year 699.34%
+You are staking 0.00 [ETH]-[CRY] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[CRY] Cake LP - Fee 2%
+Unstake 0.00 [ETH]-[CRY] Cake LP
+Claim 0.00 CRY ($0.00)
+Staking or unstaking also claims rewards.
+
+37 - USDT Price: $1.00 Market Cap: $3,879,997,922.18 [%]
+Staked: 960.0000 USDT ($960.00)
+CRY Per Week: 3667.12 ($0.11)
+APR: Day 0.00% Week 0.01% Year 0.60%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 CRY ($0.00)
+Staking or unstaking also claims rewards.
+
+38 - [USDT]-[CRY] Cake LP [+] [-] [<=>] Price: $0.01 TVL: $42.62
+USDT Price: $1.00
+CRY Price: $0.0000301086
+Staked: 3041.5142 Cake-LP ($36.83)
+CRY Per Week: 128349.25 ($3.86)
+APR: Day 1.50% Week 10.49% Year 545.65%
+You are staking 0.00 [USDT]-[CRY] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[CRY] Cake LP - Fee 2%
+Unstake 0.00 [USDT]-[CRY] Cake LP
+Claim 0.00 CRY ($0.00)
+Staking or unstaking also claims rewards.
+
+39 - BAT Price: $0.00 Market Cap: $0.00 
+Staked: 124.2032 BAT ($0.00)
+CRY Per Week: 5500.68 ($0.17)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BAT ($0.00), NaN% of the pool.
+Stake 0.00 BAT - Fee 4%
+Unstake 0.00 BAT
+Claim 0.00 CRY ($0.00)
+Staking or unstaking also claims rewards.
+
+40 - [BAT]-[CRY] Cake LP [+] [-] [<=>] Price: $0.01 TVL: $29.67
+BAT Price: $0.70
+CRY Price: $0.0000301086
+Staked: 2765.3635 Cake-LP ($27.73)
+CRY Per Week: 128349.25 ($3.86)
+APR: Day 1.99% Week 13.93% Year 724.55%
+You are staking 0.00 [BAT]-[CRY] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BAT]-[CRY] Cake LP - Fee 2%
+Unstake 0.00 [BAT]-[CRY] Cake LP
+Claim 0.00 CRY ($0.00)
+Staking or unstaking also claims rewards.
+
+41 - LTC Price: $106.85 Market Cap: $66,781,250.00 [%]
+Staked: 0.2592 LTC ($27.70)
+CRY Per Week: 5500.68 ($0.17)
+APR: Day 0.09% Week 0.60% Year 31.09%
+You are staking 0.00 LTC ($0.00), 0.00% of the pool.
+Stake 0.00 LTC - Fee 4%
+Unstake 0.00 LTC
+Claim 0.00 CRY ($0.00)
+Staking or unstaking also claims rewards.
+
+42 - [LTC]-[CRY] Cake LP [+] [-] [<=>] Price: $0.13 TVL: $16.27
+LTC Price: $106.85
+CRY Price: $0.0000301086
+Staked: 91.7304 Cake-LP ($11.65)
+CRY Per Week: 128349.25 ($3.86)
+APR: Day 4.74% Week 33.16% Year 1724.56%
+You are staking 0.00 [LTC]-[CRY] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LTC]-[CRY] Cake LP - Fee 2%
+Unstake 0.00 [LTC]-[CRY] Cake LP
+Claim 0.00 CRY ($0.00)
+Staking or unstaking also claims rewards.
+
+43 - BAND Price: $0.00 Market Cap: $0.00 
+Staked: 6.8391 BAND ($0.00)
+CRY Per Week: 5500.68 ($0.17)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BAND ($0.00), NaN% of the pool.
+Stake 0.00 BAND - Fee 4%
+Unstake 0.00 BAND
+Claim 0.00 CRY ($0.00)
+Staking or unstaking also claims rewards.
+
+44 - [CRY]-[BAND] Cake LP [+] [-] [<=>] Price: $0.02 TVL: $15.80
+CRY Price: $0.0000301086
+BAND Price: $3.36
+Staked: 672.3154 Cake-LP ($14.68)
+CRY Per Week: 128349.25 ($3.86)
+APR: Day 3.76% Week 26.32% Year 1368.70%
+You are staking 0.00 [CRY]-[BAND] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CRY]-[BAND] Cake LP - Fee 2%
+Unstake 0.00 [CRY]-[BAND] Cake LP
+Claim 0.00 CRY ($0.00)
+Staking or unstaking also claims rewards.
+
+46 - [CRY]-[ORN] Cake LP [+] [-] [<=>] Price: $2,189.17 TVL: $14.09
+CRY Price: $0.0000301086
+ORN Price: $3.48
+Staked: 0.0060 Cake-LP ($13.21)
+CRY Per Week: 128349.25 ($3.86)
+APR: Day 4.18% Week 29.25% Year 1520.92%
+You are staking 0.00 [CRY]-[ORN] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CRY]-[ORN] Cake LP - Fee 2%
+Unstake 0.00 [CRY]-[ORN] Cake LP
+Claim 0.00 CRY ($0.00)
+Staking or unstaking also claims rewards.
+
+47 - BAKE Price: $0.61 Market Cap: $446,653,856.12 [%]
+Staked: 53.5038 BAKE ($32.67)
+CRY Per Week: 5500.68 ($0.17)
+APR: Day 0.07% Week 0.51% Year 26.36%
+You are staking 0.00 BAKE ($0.00), 0.00% of the pool.
+Stake 0.00 BAKE - Fee 4%
+Unstake 0.00 BAKE
+Claim 0.00 CRY ($0.00)
+Staking or unstaking also claims rewards.
+
+48 - [CRY]-[BAKE] Cake LP [+] [-] [<=>] Price: $0.01 TVL: $11.40
+CRY Price: $0.0000301086
+BAKE Price: $0.61
+Staked: 1149.3148 Cake-LP ($10.46)
+CRY Per Week: 128349.25 ($3.86)
+APR: Day 5.28% Week 36.93% Year 1920.53%
+You are staking 0.00 [CRY]-[BAKE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CRY]-[BAKE] Cake LP - Fee 2%
+Unstake 0.00 [CRY]-[BAKE] Cake LP
+Claim 0.00 CRY ($0.00)
+Staking or unstaking also claims rewards.
+
+49 - LINK Price: $15.01 Market Cap: $129,086,000.00 [%]
+Staked: 0.0188 LINK ($0.28)
+CRY Per Week: 9167.80 ($0.28)
+APR: Day 13.99% Week 97.95% Year 5093.39%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 CRY ($0.00)
+Staking or unstaking also claims rewards.
+
+50 - [CRY]-[LINK] Cake LP [+] [-] [<=>] Price: $0.05 TVL: $26.94
+CRY Price: $0.0000301086
+LINK Price: $15.01
+Staked: 475.7785 Cake-LP ($22.59)
+CRY Per Week: 128349.25 ($3.86)
+APR: Day 2.44% Week 17.11% Year 889.64%
+You are staking 0.00 [CRY]-[LINK] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CRY]-[LINK] Cake LP - Fee 2%
+Unstake 0.00 [CRY]-[LINK] Cake LP
+Claim 0.00 CRY ($0.00)
+Staking or unstaking also claims rewards.
+
+51 - SUSHI Price: $0.00 Market Cap: $0.00 
+Staked: 0.0754 SUSHI ($0.00)
+CRY Per Week: 5500.68 ($0.17)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SUSHI ($0.00), NaN% of the pool.
+Stake 0.00 SUSHI - Fee 4%
+Unstake 0.00 SUSHI
+Claim 0.00 CRY ($0.00)
+Staking or unstaking also claims rewards.
+
+52 - [CRY]-[SUSHI] Cake LP [+] [-] [<=>] Price: $0.02 TVL: $26.18
+CRY Price: $0.0000301086
+SUSHI Price: $4.12
+Staked: 1074.4732 Cake-LP ($26.01)
+CRY Per Week: 128349.25 ($3.86)
+APR: Day 2.12% Week 14.86% Year 772.59%
+You are staking 0.00 [CRY]-[SUSHI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CRY]-[SUSHI] Cake LP - Fee 2%
+Unstake 0.00 [CRY]-[SUSHI] Cake LP
+Claim 0.00 CRY ($0.00)
+Staking or unstaking also claims rewards.
+
+54 - [PACOCA]-[CRY] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $18.32
+PACOCA Price: $0.09
+CRY Price: $0.0000301086
+Staked: 4908.1573 Cake-LP ($17.11)
+CRY Per Week: 128349.25 ($3.86)
+APR: Day 3.23% Week 22.58% Year 1174.20%
+You are staking 0.00 [PACOCA]-[CRY] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PACOCA]-[CRY] Cake LP - Fee 2%
+Unstake 0.00 [PACOCA]-[CRY] Cake LP
+Claim 0.00 CRY ($0.00)
+Staking or unstaking also claims rewards.
+
+55 - [CRY]-[BANANA] Cake LP [+] [-] [<=>] Price: $0.01 TVL: $16.68
+CRY Price: $0.0000301086
+BANANA Price: $0.62
+Staked: 1728.0573 Cake-LP ($16.38)
+CRY Per Week: 128349.25 ($3.86)
+APR: Day 3.37% Week 23.60% Year 1227.11%
+You are staking 0.00 [CRY]-[BANANA] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CRY]-[BANANA] Cake LP - Fee 2%
+Unstake 0.00 [CRY]-[BANANA] Cake LP
+Claim 0.00 CRY ($0.00)
+Staking or unstaking also claims rewards.
+
+56 - [CRY]-[KAVA] Cake LP [+] [-] [<=>] Price: $74,354.67 TVL: $105.60
+CRY Price: $0.0000301086
+KAVA Price: $37.95
+Staked: 0.0001 Cake-LP ($4.58)
+CRY Per Week: 128349.25 ($3.86)
+APR: Day 12.04% Week 84.30% Year 4383.79%
+You are staking 0.00 [CRY]-[KAVA] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CRY]-[KAVA] Cake LP - Fee 2%
+Unstake 0.00 [CRY]-[KAVA] Cake LP
+Claim 0.00 CRY ($0.00)
+Staking or unstaking also claims rewards.
+
+57 - [CRY]-[BIFI] Cake LP [+] [-] [<=>] Price: $0.48 TVL: $70.82
+CRY Price: $0.0000301086
+BIFI Price: $1,735.67
+Staked: 144.7502 Cake-LP ($69.13)
+CRY Per Week: 128349.25 ($3.86)
+APR: Day 0.80% Week 5.59% Year 290.68%
+You are staking 0.00 [CRY]-[BIFI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CRY]-[BIFI] Cake LP - Fee 2%
+Unstake 0.00 [CRY]-[BIFI] Cake LP
+Claim 0.00 CRY ($0.00)
+Staking or unstaking also claims rewards.
+
+58 - [CRY]-[CTK] Cake LP [+] [-] [<=>] Price: $11,817.51 TVL: $21.96
+CRY Price: $0.0000301086
+CTK Price: $1.03
+Staked: 0.0006 Cake-LP ($7.51)
+CRY Per Week: 128349.25 ($3.86)
+APR: Day 7.35% Week 51.43% Year 2674.34%
+You are staking 0.00 [CRY]-[CTK] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CRY]-[CTK] Cake LP - Fee 2%
+Unstake 0.00 [CRY]-[CTK] Cake LP
+Claim 0.00 CRY ($0.00)
+Staking or unstaking also claims rewards.
+
+59 - [CRY]-[AUTO] Cake LP [+] [-] [<=>] Price: $0.24 TVL: $15.74
+CRY Price: $0.0000301086
+AUTO Price: $406.10
+Staked: 61.9697 Cake-LP ($14.95)
+CRY Per Week: 128349.25 ($3.86)
+APR: Day 3.69% Week 25.85% Year 1344.04%
+You are staking 0.00 [CRY]-[AUTO] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CRY]-[AUTO] Cake LP - Fee 2%
+Unstake 0.00 [CRY]-[AUTO] Cake LP
+Claim 0.00 CRY ($0.00)
+Staking or unstaking also claims rewards.
+
+60 - [CRY]-[BSCS] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $32.99
+CRY Price: $0.0000301086
+BSCS Price: $0.11
+Staked: 6395.2856 Cake-LP ($24.84)
+CRY Per Week: 128349.25 ($3.86)
+APR: Day 2.22% Week 15.56% Year 809.11%
+You are staking 0.00 [CRY]-[BSCS] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CRY]-[BSCS] Cake LP - Fee 2%
+Unstake 0.00 [CRY]-[BSCS] Cake LP
+Claim 0.00 CRY ($0.00)
+Staking or unstaking also claims rewards.
+
+61 - [CRY]-[AXS] Cake LP [+] [-] [<=>] Price: $0.09 TVL: $17.03
+CRY Price: $0.0000301086
+AXS Price: $54.62
+Staked: 186.5962 Cake-LP ($16.71)
+CRY Per Week: 128349.25 ($3.86)
+APR: Day 3.30% Week 23.13% Year 1202.72%
+You are staking 0.00 [CRY]-[AXS] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CRY]-[AXS] Cake LP - Fee 2%
+Unstake 0.00 [CRY]-[AXS] Cake LP
+Claim 0.00 CRY ($0.00)
+Staking or unstaking also claims rewards.
+
+62 - [CRY]-[DPET] Cake LP [+] [-] [<=>] Price: $0.01 TVL: $7.65
+CRY Price: $0.0000301086
+DPET Price: $0.43
+Staked: 854.5102 Cake-LP ($6.91)
+CRY Per Week: 128349.25 ($3.86)
+APR: Day 7.99% Week 55.92% Year 2907.87%
+You are staking 0.00 [CRY]-[DPET] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CRY]-[DPET] Cake LP - Fee 2%
+Unstake 0.00 [CRY]-[DPET] Cake LP
+Claim 0.00 CRY ($0.00)
+Staking or unstaking also claims rewards.
+
+63 - [CRY]-[WATCH] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $29.02
+CRY Price: $0.0000301086
+WATCH Price: $0.11
+Staked: 7443.0051 Cake-LP ($28.53)
+CRY Per Week: 128349.25 ($3.86)
+APR: Day 1.93% Week 13.54% Year 704.29%
+You are staking 0.00 [CRY]-[WATCH] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CRY]-[WATCH] Cake LP - Fee 2%
+Unstake 0.00 [CRY]-[WATCH] Cake LP
+Claim 0.00 CRY ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $7,944.36

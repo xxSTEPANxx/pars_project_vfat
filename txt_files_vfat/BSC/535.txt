@@ -1,0 +1,109 @@
+*************** 👨‍🌾 UNOFFICIAL UNITEDFARMERS.FINANCE GRAIN FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://app.unitedfarmers.finance/grain-farms
+************************************************************************************************
+
+Thu Jan 27 2022 21:43:23 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 9 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - UFF Price: $0.01 Market Cap: $39,129.70 [%]
+Staked: 2649.3190 UFF ($38.00)
+GRAIN Per Week: 0.40 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 UFF ($0.00), 0.00% of the pool.
+Stake 0.00 UFF
+Unstake 0.00 UFF - Fee 8%
+Claim 0.00 GRAIN ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [GRAIN]-[WBNB] Cake LP [+] [-] [<=>] Price: $0.15 TVL: $376.06
+GRAIN Price: $0.0000122347
+WBNB Price: $368.30
+Staked: 86.2745 Cake-LP ($13.09)
+GRAIN Per Week: 40.32 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.20%
+You are staking 0.00 [GRAIN]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GRAIN]-[WBNB] Cake LP
+Unstake 0.00 [GRAIN]-[WBNB] Cake LP - Fee 12%
+Claim 0.00 GRAIN ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [GRAIN]-[UFF] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $169.42
+GRAIN Price: $0.0000122347
+UFF Price: $0.01
+Staked: 3855.1999 Cake-LP ($4.36)
+GRAIN Per Week: 40.32 ($0.00)
+APR: Day 0.00% Week 0.01% Year 0.59%
+You are staking 0.00 [GRAIN]-[UFF] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GRAIN]-[UFF] Cake LP
+Unstake 0.00 [GRAIN]-[UFF] Cake LP - Fee 12%
+Claim 0.00 GRAIN ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [GRAIN]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.01 TVL: $3.24
+GRAIN Price: $0.0000122347
+BUSD Price: $1.00
+Staked: 286.8669 Cake-LP ($2.93)
+GRAIN Per Week: 40.32 ($0.00)
+APR: Day 0.00% Week 0.02% Year 0.88%
+You are staking 0.00 [GRAIN]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GRAIN]-[BUSD] Cake LP
+Unstake 0.00 [GRAIN]-[BUSD] Cake LP - Fee 12%
+Claim 0.00 GRAIN ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [GRAIN]-[LINK] Cake LP [+] [-] [<=>] Price: $0.04 TVL: $0.37
+GRAIN Price: $0.0000122347
+LINK Price: $15.08
+Staked: 8.7070 Cake-LP ($0.32)
+GRAIN Per Week: 120.96 ($0.00)
+APR: Day 0.07% Week 0.46% Year 23.93%
+You are staking 0.00 [GRAIN]-[LINK] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GRAIN]-[LINK] Cake LP
+Unstake 0.00 [GRAIN]-[LINK] Cake LP - Fee 12%
+Claim 0.00 GRAIN ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [GRAIN]-[TRX] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $0.10
+GRAIN Price: $0.0000122347
+TRX Price: $0.06
+Staked: 36.9794 Cake-LP ($0.09)
+GRAIN Per Week: 201599515.76 ($2,466.51)
+APR: Day 407906.03% Week 2855342.21% Year 148477795.15%
+You are staking 0.00 [GRAIN]-[TRX] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GRAIN]-[TRX] Cake LP
+Unstake 0.00 [GRAIN]-[TRX] Cake LP - Fee 12%
+Claim 0.00 GRAIN ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [GRAIN]-[DOGE] Cake LP [+] [-] [<=>] Price: $380.22 TVL: $1.14
+GRAIN Price: $0.0000122347
+DOGE Price: $0.14
+Staked: 0.0005 Cake-LP ($0.20)
+GRAIN Per Week: 151.20 ($0.00)
+APR: Day 0.13% Week 0.94% Year 48.80%
+You are staking 0.00 [GRAIN]-[DOGE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GRAIN]-[DOGE] Cake LP
+Unstake 0.00 [GRAIN]-[DOGE] Cake LP - Fee 12%
+Claim 0.00 GRAIN ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [MBOX]-[GRAIN] Cake LP [+] [-] [<=>] Price: $0.01 TVL: $1.92
+MBOX Price: $2.40
+GRAIN Price: $0.0000122347
+Staked: 4.5404 Cake-LP ($0.06)
+GRAIN Per Week: 90.72 ($0.00)
+APR: Day 0.26% Week 1.82% Year 94.59%
+You are staking 0.00 [MBOX]-[GRAIN] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MBOX]-[GRAIN] Cake LP
+Unstake 0.00 [MBOX]-[GRAIN] Cake LP - Fee 12%
+Claim 0.00 GRAIN ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $59.05

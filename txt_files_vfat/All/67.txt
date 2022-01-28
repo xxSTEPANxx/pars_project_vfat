@@ -1,0 +1,64 @@
+*************** 👨‍🌾 UNOFFICIAL DOLLAR PROTOCOL GAIA CALCULATOR 👨‍🌾 ***************
+INFO  : https://www.dollarprotocol.com/#/stake
+*********************************************************************************
+
+Thu Jan 27 2022 19:40:51 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Rewards start at block 12341940
+Staking Contract
+Found 4 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+[USDC]-[Gaia] Uni LP [+] [-] [<=>] Price: $70,732,106.21 TVL: $1,483.03
+USDC Price: $1.00
+Gaia Price: $0.0000011316
+Staked: 0.0000 UNI-V2 ($1,355.20)
+GAIA Per Week: 40727272.727273 ($46.09)
+APR: Day 0.49% Week 3.40% Year 176.84%
+You are staking 0.000000 [USDC]-[Gaia] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.000000 [USDC]-[Gaia] Uni LP
+Unstake 0.000000 [USDC]-[Gaia] Uni LP
+Claim 0.000000 GAIA ($0.00)
+Staking or unstaking also claims rewards.
+
+[USDf]-[USDC] Uni LP [+] [-] [<=>] Price: $18,754,817,309.38 TVL: $323.02
+USDf Price: $0.09
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($323.02)
+GAIA Per Week: 40727272.727273 ($46.09)
+APR: Day 2.04% Week 14.27% Year 741.90%
+You are staking 0.000000 [USDf]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.000000 [USDf]-[USDC] Uni LP
+Unstake 0.000000 [USDf]-[USDC] Uni LP
+Claim 0.000000 GAIA ($0.00)
+Staking or unstaking also claims rewards.
+
+[SHARE]-[WETH] Uni LP [+] [-] [<=>] Price: $354,232.17 TVL: $109,532.37
+SHARE Price: $0.01
+WETH Price: $2,476.53
+Staked: 0.1672 UNI-V2 ($59,225.99)
+GAIA Per Week: 20363636.363636 ($23.04)
+APR: Day 0.01% Week 0.04% Year 2.02%
+You are staking 0.000000 [SHARE]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.000000 [SHARE]-[WETH] Uni LP
+Unstake 0.000000 [SHARE]-[WETH] Uni LP
+Claim 0.000000 GAIA ($0.00)
+Staking or unstaking also claims rewards.
+
+[WETH]-[Gaia] Uni LP [+] [-] [<=>] Price: $3,446.60 TVL: $271.82
+WETH Price: $2,476.53
+Gaia Price: $0.0000011316
+Staked: 0.0506 UNI-V2 ($174.55)
+GAIA Per Week: 10181818.181818 ($11.52)
+APR: Day 0.94% Week 6.60% Year 343.25%
+You are staking 0.000000 [WETH]-[Gaia] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.000000 [WETH]-[Gaia] Uni LP
+Unstake 0.000000 [WETH]-[Gaia] Uni LP
+Claim 0.000000 GAIA ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $61,078.76

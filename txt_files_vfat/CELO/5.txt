@@ -1,0 +1,134 @@
+***************************** CELO ***********************************
+
+*************** 👨‍🌾 UNOFFICIAL CELLULAR FARMING CALCULATOR 👨‍🌾 ***********
+INFO  : https://cellular.finance/
+**********************************************************************
+.    .    *  .   .  .   .  *     .  .        . .   .     .  *   .     .  .   .
+   *  .    .    *  .     .         .    * .     .  *  .    .   .   *   . .    .
+. *      .   .    .  .     .  *      .      .        .     .-o--.   .    *  .
+ .  .        .     .     .      .    .     *      *   .   :O o O :      .     .
+____   *   .    .      .   .           .  .   .      .    : O. Oo;    .   .
+ `. ````.---...___      .      *    .      .       .   * . `-.O-'  .     * . .
+   \_    ;   \`.-'```--..__.       .    .      * .     .       .     .        .
+   ,'_,-' _,-'             ``--._    .   *   .   .  .       .   *   .     .  .
+   -'  ,-'                       `-._ *     .       .   *  .           .    .
+    ,-'            _,-._            ,`-. .    .   .     .      .     *    .   .
+    '--.     _ _.._`-.  `-._        |   `_   .      *  .    .   .     .  .    .
+        ;  ,' ' _  `._`._   `.      `,-''  `-.     .    .     .    .      .  .
+     ,-'   \    `;.   `. ;`   `._  _/\___     `.       .    *     .    . *
+     \      \ ,  `-'    )        `':_  ; \      `. . *     .        .    .    *
+      \    _; `       ,;               __;        `. .           .   .     . .
+       '-.;        __,  `   _,-'-.--'''  \-:        `.   *   .    .  .   *   .
+          )`-..---'   `---''              \ `.        . .   .  .       . .  .
+        .'                                 `. `.       `  .    *   .      .  .
+       /                                     `. `.      ` *          .       .
+      /                                        `. `.     '      .   .     *
+     /                                           `. `.   _'.  .       .  .    .
+    |                                              `._\-'  '     .        .  .
+    |                                                 `.__, \  *     .   . *. .
+    |                                                      \ \.    .         .
+    |                                                       \ \ .     *        *
+Fri Jan 28 2022 01:11:16 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 12 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+1 - cUSD Price: $1.00 Market Cap: $99,166,031.60 
+Staked: 254.3512 cUSD ($254.35)
+CELL Per Week: 6150.51 ($4.43)
+APR: Day 0.25% Week 1.74% Year 90.48%
+You are staking 0.00 cUSD ($0.00), 0.00% of the pool.
+Stake 0.00 cUSD - Fee 4%
+Unstake 0.00 cUSD
+Claim 0.00 CELL ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [CELO]-[cUSD] Ubeswap LP Token [+] [-] [<=>] Price: $6.37 TVL: $70,178.18
+CELO Price: $2.97
+cUSD Price: $1.00
+Staked: 297.9027 ULP ($1,897.01)
+CELL Per Week: 4100.34 ($2.95)
+APR: Day 0.02% Week 0.16% Year 8.09%
+You are staking 0.00 [CELO]-[cUSD] Ubeswap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [CELO]-[cUSD] Ubeswap LP Token - Fee 4%
+Unstake 0.00 [CELO]-[cUSD] Ubeswap LP Token
+Claim 0.00 CELL ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - CELO Price: $2.97 Market Cap: $1,895,319,212.91 
+Staked: 243.9399 CELO ($724.50)
+CELL Per Week: 6150.51 ($4.43)
+APR: Day 0.09% Week 0.61% Year 31.76%
+You are staking 0.00 CELO ($0.00), 0.00% of the pool.
+Stake 0.00 CELO - Fee 4%
+Unstake 0.00 CELO
+Claim 0.00 CELL ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - cEUR Price: $0.00 Market Cap: $0.00 
+Staked: 319.6028 cEUR ($0.00)
+CELL Per Week: 4100.34 ($2.95)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 cEUR ($0.00), NaN% of the pool.
+Stake 0.00 cEUR - Fee 4%
+Unstake 0.00 cEUR
+Claim 0.00 CELL ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - UBE Price: $0.18 Market Cap: $17,784,800.00 
+Staked: 312.3550 UBE ($55.55)
+CELL Per Week: 4100.34 ($2.95)
+APR: Day 0.76% Week 5.31% Year 276.17%
+You are staking 0.00 UBE ($0.00), 0.00% of the pool.
+Stake 0.00 UBE - Fee 4%
+Unstake 0.00 UBE
+Claim 0.00 CELL ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - MOBI Price: $0.00 Market Cap: $0.00 
+Staked: 1341.1522 MOBI ($0.00)
+CELL Per Week: 4100.34 ($2.95)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 MOBI ($0.00), NaN% of the pool.
+Stake 0.00 MOBI - Fee 4%
+Unstake 0.00 MOBI
+Claim 0.00 CELL ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [CELL]-[cUSD] Ubeswap LP Token [+] [-] [<=>] Price: $0.05 TVL: $1,509.59
+CELL Price: $0.000720
+cUSD Price: $1.00
+Staked: 18597.0069 ULP ($1,017.32)
+CELL Per Week: 82006.78 ($59.01)
+APR: Day 0.83% Week 5.80% Year 301.61%
+You are staking 0.00 [CELL]-[cUSD] Ubeswap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [CELL]-[cUSD] Ubeswap LP Token
+Unstake 0.00 [CELL]-[cUSD] Ubeswap LP Token
+Claim 0.00 CELL ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - WBTC Price: $0.00 Market Cap: $0.00 
+Staked: 0.0099 WBTC ($0.00)
+CELL Per Week: 4100.34 ($2.95)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 WBTC ($0.00), NaN% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 CELL ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - WETH Price: $0.00 Market Cap: $0.00 
+Staked: 0.0861 WETH ($0.00)
+CELL Per Week: 6150.51 ($4.43)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 WETH ($0.00), NaN% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 CELL ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $3,948.73

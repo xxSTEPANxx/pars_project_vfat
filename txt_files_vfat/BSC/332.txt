@@ -1,0 +1,73 @@
+*************** 👨‍🌾 UNOFFICIAL QISWAP.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://qiswap.finance
+***********************************************************************************
+
+Thu Jan 27 2022 21:14:17 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 30 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [Qi]-[WBNB] Cake LP [+] [-] [<=>] Price: $3.14 TVL: $1,386.53
+Qi Price: $0.002817
+WBNB Price: $368.51
+Staked: 260.9772 Cake-LP ($820.62)
+Qi Per Week: 16800.00 ($47.33)
+APR: Day 0.82% Week 5.77% Year 299.89%
+You are staking 0.00 [Qi]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Qi]-[WBNB] Cake LP
+Unstake 0.00 [Qi]-[WBNB] Cake LP
+Claim 0.00 Qi ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [Qi]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.16 TVL: $596.54
+Qi Price: $0.002817
+BUSD Price: $1.00
+Staked: 2020.9651 Cake-LP ($333.42)
+Qi Per Week: 16800.00 ($47.33)
+APR: Day 2.03% Week 14.19% Year 738.10%
+You are staking 0.00 [Qi]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Qi]-[BUSD] Cake LP
+Unstake 0.00 [Qi]-[BUSD] Cake LP
+Claim 0.00 Qi ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - Qi Price: $0.002817 Market Cap: $8,606.63 [%]
+Staked: 1341709.9190 Qi ($3,779.67)
+Qi Per Week: 33600.00 ($94.65)
+APR: Day 0.36% Week 2.50% Year 130.22%
+You are staking 0.00 Qi ($0.00), 0.00% of the pool.
+Stake 0.00 Qi
+Unstake 0.00 Qi
+Claim 0.00 Qi ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [Cake]-[Qi] Cake LP [+] [-] [<=>] Price: $0.43 TVL: $133.56
+Cake Price: $6.95
+Qi Price: $0.002817
+Staked: 258.1191 Cake-LP ($110.16)
+Qi Per Week: 16800.00 ($47.33)
+APR: Day 6.14% Week 42.96% Year 2233.94%
+You are staking 0.00 [Cake]-[Qi] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[Qi] Cake LP
+Unstake 0.00 [Cake]-[Qi] Cake LP
+Claim 0.00 Qi ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [DAI]-[Qi] Cake LP [+] [-] [<=>] Price: $0.16 TVL: $261.99
+DAI Price: $1.00
+Qi Price: $0.002817
+Staked: 1596.8577 Cake-LP ($260.63)
+Qi Per Week: 16800.00 ($47.33)
+APR: Day 2.59% Week 18.16% Year 944.24%
+You are staking 0.00 [DAI]-[Qi] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[Qi] Cake LP
+Unstake 0.00 [DAI]-[Qi] Cake LP
+Claim 0.00 Qi ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $5,304.49

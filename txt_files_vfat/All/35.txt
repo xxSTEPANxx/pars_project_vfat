@@ -1,0 +1,66 @@
+*************** 👨‍🌾 UNOFFICIAL YAXIS FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://yaxis.io/farms
+***************************************************************************************
+
+Thu Jan 27 2022 19:25:17 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 10 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+6 - [YAX]-[WETH] Uni LP [+] [-] [<=>] Price: $216.54 TVL: $67,744.23
+YAX Price: $2.54
+WETH Price: $2,467.55
+Staked: 283.4558 UNI-V2 ($61,378.64)
+YAX Per Week: 3600.00 ($9,140.73)
+APR: Day 2.13% Week 14.89% Year 774.40%
+You are staking 0.00 [YAX]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [YAX]-[WETH] Uni LP
+Unstake 0.00 [YAX]-[WETH] Uni LP
+Claim 0.00 YAX ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $61,378.64
+MVLT (Wrapped Curve.fi DAI/USDC/USDT) Price: $1.10 TVL: $560,721.93
+Staked: 493965.6915 MVLT ($542,966.17)
+YAXIS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 MVLT $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 MVLT
+Unstake 0.000000 MVLT
+Claim 0.000000 YAXIS ($0.00)
+Revoke (set approval to 0)
+Exit
+
+YAXIS Price: $0.94 Market Cap: $10,382,262.00 [%]
+Staked: 147315.8228 YAXIS ($139,042.86)
+YAXIS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 YAXIS $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 YAXIS
+Unstake 0.000000 YAXIS
+Claim 0.000000 YAXIS ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[YAXIS]-[WETH] Uni LP [+] [-] [<=>] Price: $108.64 TVL: $565,321.10
+YAXIS Price: $0.94
+WETH Price: $2,467.55
+Staked: 5175.1959 UNI-V2 ($562,217.83)
+YAXIS Per Week: 18666.67 ($17,618.38)
+APR: Day 0.45% Week 3.13% Year 162.95%
+You are staking 0.000000 [YAXIS]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [YAXIS]-[WETH] Uni LP
+Unstake 0.000000 [YAXIS]-[WETH] Uni LP
+Claim 0.000000 YAXIS ($0.00)
+Revoke (set approval to 0)
+Exit
+
+Total staked: $1,244,226.87

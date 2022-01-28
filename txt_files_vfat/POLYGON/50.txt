@@ -6,115 +6,20 @@ INFO  : https://www.polysnake.finance
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Fri Dec 17 2021 09:33:24 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 22:12:54 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
+Staking Contract
 Found 10 pools.
 Showing incentivized pools only.
-Finished reading smart contracts.
-0 - Snake Price: $0.0000072565 Market Cap: $5.76 [%]
-Staked: 49460.5386 Snake ($0.36)
-Snake Per Week: 31135.14 ($0.23)
-APR: Day 8.99% Week 62.95% Year 3273.37%
-You are staking 0.00 Snake ($0.00), 0.00% of the pool.
-Stake 0.00 Snake
-Unstake 0.00 Snake
-Claim 0.00 Snake ($0.00)
-Staking or unstaking also claims rewards.
-
-1 - WETH Price: $3,952.05 Market Cap: $1,754,451,318.36 [%]
-Staked: 0.0033 WETH ($12.88)
-Snake Per Week: 11675.68 ($0.08)
-APR: Day 0.09% Week 0.66% Year 34.20%
-You are staking 0.00 WETH ($0.00), 0.00% of the pool.
-Stake 0.00 WETH - Fee 4%
-Unstake 0.00 WETH
-Claim 0.00 Snake ($0.00)
-Staking or unstaking also claims rewards.
-
-2 - WBTC Price: $47,585.00 Market Cap: $480,142,595.64 [%]
-Staked: 0.0005 WBTC ($25.30)
-Snake Per Week: 7783.78 ($0.06)
-APR: Day 0.03% Week 0.22% Year 11.61%
-You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
-Stake 0.00 WBTC - Fee 4%
-Unstake 0.00 WBTC
-Claim 0.00 Snake ($0.00)
-Staking or unstaking also claims rewards.
-
-3 - WMATIC Price: $2.09 Market Cap: $636,955,927.37 [%]
-Staked: 41.7123 WMATIC ($87.18)
-Snake Per Week: 7783.78 ($0.06)
-APR: Day 0.01% Week 0.06% Year 3.37%
-You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
-Stake 0.00 WMATIC - Fee 4%
-Unstake 0.00 WMATIC
-Claim 0.00 Snake ($0.00)
-Staking or unstaking also claims rewards.
-
-4 - [USDC]-[Snake] Uni LP [+] [-] [<=>] Price: $6,073.26 TVL: $8.43
-USDC Price: $1.00
-Snake Price: $0.0000072565
-Staked: 0.0011 UNI-V2 ($6.56)
-Snake Per Week: 46702.70 ($0.34)
-APR: Day 0.74% Week 5.16% Year 268.51%
-You are staking 0.00 [USDC]-[Snake] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[Snake] Uni LP
-Unstake 0.00 [USDC]-[Snake] Uni LP
-Claim 0.00 Snake ($0.00)
-Staking or unstaking also claims rewards.
-
-5 - USDT Price: $0.00 Market Cap: $0.00 
-Staked: 848186.6101 USDT ($0.00)
-Snake Per Week: 7783.78 ($0.06)
-APR: Day NaN% Week NaN% Year NaN%
-You are staking 0.00 USDT ($0.00), NaN% of the pool.
-Stake 0.00 USDT - Fee 4%
-Unstake 0.00 USDT
-Claim 0.00 Snake ($0.00)
-Staking or unstaking also claims rewards.
-
-6 - QUICK Price: $244.71 Market Cap: $233,829,804.65 [%]
-Staked: 0.0000 QUICK ($0.00)
-Snake Per Week: 7783.78 ($0.06)
-APR: Day 90570.86% Week 633996.04% Year 32967794.09%
-You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
-Stake 0.00 QUICK - Fee 4%
-Unstake 0.00 QUICK
-Claim 0.00 Snake ($0.00)
-Staking or unstaking also claims rewards.
-
-7 - USDT Price: $1.00 Market Cap: $319,227,792.91 [%]
-Staked: 22.4132 USDT ($22.38)
-Snake Per Week: 7783.78 ($0.06)
-APR: Day 0.04% Week 0.25% Year 13.13%
-You are staking 0.00 USDT ($0.00), 0.00% of the pool.
-Stake 0.00 USDT - Fee 4%
-Unstake 0.00 USDT
-Claim 0.00 Snake ($0.00)
-Staking or unstaking also claims rewards.
-
-8 - Krill Price: $0.04 Market Cap: $421,011.51 [%]
-Staked: 2.0288 Krill ($0.08)
-Snake Per Week: 7783.78 ($0.06)
-APR: Day 10.15% Week 71.06% Year 3694.93%
-You are staking 0.00 Krill ($0.00), 0.00% of the pool.
-Stake 0.00 Krill - Fee 4%
-Unstake 0.00 Krill
-Claim 0.00 Snake ($0.00)
-Staking or unstaking also claims rewards.
-
-9 - DAI Price: $1.00 Market Cap: $367,643,843.61 [%]
-Staked: 6.4468 DAI ($6.45)
-Snake Per Week: 7783.78 ($0.06)
-APR: Day 0.13% Week 0.88% Year 45.56%
-You are staking 0.00 DAI ($0.00), 0.00% of the pool.
-Stake 0.00 DAI - Fee 4%
-Unstake 0.00 DAI
-Claim 0.00 Snake ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $161.18
+{
+  "code": -32603,
+  "message": "Non-200 status code: '400'",
+  "data": {
+    "error": "Unable to verify your data submission."
+  }
+}
+Oops something went wrong. Try refreshing the page.

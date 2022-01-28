@@ -1,0 +1,303 @@
+*************** 👨‍🌾 UNOFFICIAL OPENSWAP FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://app.openswap.one/ 
+
+OpenSwap is a DeFi protocol on the Harmony network with simple yield farming capabilities
+cross-chain tools for bridging the Harmony, Ethereum, and Binance Smart Chain networks
+and easy ways for users to trade, provide liquidity, and earn collected fees from transactions.
+
+**************************************************************************************
+
+Fri Jan 28 2022 01:05:25 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 24 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [OpenX]-[WONE] Uni LP [+] [-] [<=>] Price: $0.23 TVL: $543,886.23
+OpenX Price: $0.07
+WONE Price: $0.18
+Staked: 2399642.7504 OpenX-WONE ($542,209.34)
+OpenX Per Week: 114050.19 ($8,010.33)
+APR: Day 0.21% Week 1.48% Year 76.82%
+You are staking 0.00 [OpenX]-[WONE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [OpenX]-[WONE] Uni LP
+Unstake 0.00 [OpenX]-[WONE] Uni LP
+Claim 0.00 OpenX ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [OpenX]-[bBUSD] Uni LP [+] [-] [<=>] Price: $0.54 TVL: $66,304.54
+OpenX Price: $0.07
+bBUSD Price: $1.01
+Staked: 121487.4005 OpenX-bscBUSD ($66,148.34)
+OpenX Per Week: 12219.66 ($858.25)
+APR: Day 0.19% Week 1.30% Year 67.47%
+You are staking 0.00 [OpenX]-[bBUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [OpenX]-[bBUSD] Uni LP
+Unstake 0.00 [OpenX]-[bBUSD] Uni LP
+Claim 0.00 OpenX ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [bBUSD]-[WONE] Uni LP [+] [-] [<=>] Price: $0.89 TVL: $29,202.65
+bBUSD Price: $1.01
+WONE Price: $0.18
+Staked: 32688.4251 bscBUSD-WONE ($29,091.80)
+OpenX Per Week: 3258.58 ($228.87)
+APR: Day 0.11% Week 0.79% Year 40.91%
+You are staking 0.00 [bBUSD]-[WONE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [bBUSD]-[WONE] Uni LP
+Unstake 0.00 [bBUSD]-[WONE] Uni LP
+Claim 0.00 OpenX ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [eWBTC]-[WONE] Uni LP [+] [-] [<=>] Price: $15,839,726.15 TVL: $87,659.00
+eWBTC Price: $34,951.00
+WONE Price: $0.18
+Staked: 0.0055 1WBTC-WONE ($87,586.71)
+OpenX Per Week: 4073.22 ($286.08)
+APR: Day 0.05% Week 0.33% Year 16.98%
+You are staking 0.00 [eWBTC]-[WONE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [eWBTC]-[WONE] Uni LP
+Unstake 0.00 [eWBTC]-[WONE] Uni LP
+Claim 0.00 OpenX ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [bBUSD]-[eWBTC] Uni LP [+] [-] [<=>] Price: $37,877,907.02 TVL: $26,777.24
+bBUSD Price: $1.01
+eWBTC Price: $34,951.00
+Staked: 0.0007 bscBUSD-1WBTC ($26,597.70)
+OpenX Per Week: 3258.58 ($228.87)
+APR: Day 0.12% Week 0.86% Year 44.74%
+You are staking 0.00 [bBUSD]-[eWBTC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [bBUSD]-[eWBTC] Uni LP
+Unstake 0.00 [bBUSD]-[eWBTC] Uni LP
+Claim 0.00 OpenX ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [eWBTC]-[eBUSD] Uni LP [+] [-] [<=>] Price: $37,461,159.46 TVL: $32,981.85
+eWBTC Price: $34,951.00
+eBUSD Price: $0.97
+Staked: 0.0009 1WBTC-BUSD ($32,805.45)
+OpenX Per Week: 3258.58 ($228.87)
+APR: Day 0.10% Week 0.70% Year 36.28%
+You are staking 0.00 [eWBTC]-[eBUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [eWBTC]-[eBUSD] Uni LP
+Unstake 0.00 [eWBTC]-[eBUSD] Uni LP
+Claim 0.00 OpenX ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [WONE]-[eBUSD] Uni LP [+] [-] [<=>] Price: $0.84 TVL: $45,856.49
+WONE Price: $0.18
+eBUSD Price: $0.97
+Staked: 54565.8616 WONE-BUSD ($45,856.49)
+OpenX Per Week: 4073.22 ($286.08)
+APR: Day 0.09% Week 0.62% Year 32.44%
+You are staking 0.00 [WONE]-[eBUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WONE]-[eBUSD] Uni LP
+Unstake 0.00 [WONE]-[eBUSD] Uni LP
+Claim 0.00 OpenX ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [eETH]-[eBUSD] Uni LP [+] [-] [<=>] Price: $96.44 TVL: $31,872.18
+eETH Price: $2,299.55
+eBUSD Price: $0.97
+Staked: 329.6792 1ETH-BUSD ($31,795.22)
+OpenX Per Week: 4073.22 ($286.08)
+APR: Day 0.13% Week 0.90% Year 46.79%
+You are staking 0.00 [eETH]-[eBUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [eETH]-[eBUSD] Uni LP
+Unstake 0.00 [eETH]-[eBUSD] Uni LP
+Claim 0.00 OpenX ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [bBNB]-[WONE] Uni LP [+] [-] [<=>] Price: $16.25 TVL: $50,912.93
+bBNB Price: $362.26
+WONE Price: $0.18
+Staked: 3130.9514 bscBNB-WONE ($50,879.26)
+OpenX Per Week: 4073.22 ($286.08)
+APR: Day 0.08% Week 0.56% Year 29.24%
+You are staking 0.00 [bBNB]-[WONE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [bBNB]-[WONE] Uni LP
+Unstake 0.00 [bBNB]-[WONE] Uni LP
+Claim 0.00 OpenX ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [eUSDC]-[WONE] Uni LP [+] [-] [<=>] Price: $859,196.20 TVL: $49,340.58
+eUSDC Price: $1.00
+WONE Price: $0.18
+Staked: 0.0570 1USDC-WONE ($48,994.92)
+OpenX Per Week: 4073.22 ($286.08)
+APR: Day 0.08% Week 0.58% Year 30.36%
+You are staking 0.00 [eUSDC]-[WONE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [eUSDC]-[WONE] Uni LP
+Unstake 0.00 [eUSDC]-[WONE] Uni LP
+Claim 0.00 OpenX ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [OpenX]-[bMATIC] Uni LP [+] [-] [<=>] Price: $0.66 TVL: $58,443.14
+OpenX Price: $0.07
+bMATIC Price: $1.54
+Staked: 86979.5932 OpenX-bscMATIC ($57,722.99)
+OpenX Per Week: 12219.66 ($858.25)
+APR: Day 0.21% Week 1.49% Year 77.32%
+You are staking 0.00 [OpenX]-[bMATIC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [OpenX]-[bMATIC] Uni LP
+Unstake 0.00 [OpenX]-[bMATIC] Uni LP
+Claim 0.00 OpenX ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [OpenX]-[bBNB] Uni LP [+] [-] [<=>] Price: $10.21 TVL: $60,456.61
+OpenX Price: $0.07
+bBNB Price: $362.26
+Staked: 5888.2712 OpenX-bscBNB ($60,110.01)
+OpenX Per Week: 12219.66 ($858.25)
+APR: Day 0.20% Week 1.43% Year 74.25%
+You are staking 0.00 [OpenX]-[bBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [OpenX]-[bBNB] Uni LP
+Unstake 0.00 [OpenX]-[bBNB] Uni LP
+Claim 0.00 OpenX ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [OpenX]-[bADA] Uni LP [+] [-] [<=>] Price: $0.54 TVL: $64,489.45
+OpenX Price: $0.07
+bADA Price: $1.01
+Staked: 120349.6402 OpenX-bscADA ($64,417.94)
+OpenX Per Week: 12219.66 ($858.25)
+APR: Day 0.19% Week 1.33% Year 69.28%
+You are staking 0.00 [OpenX]-[bADA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [OpenX]-[bADA] Uni LP
+Unstake 0.00 [OpenX]-[bADA] Uni LP
+Claim 0.00 OpenX ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [eETH]-[WONE] Uni LP [+] [-] [<=>] Price: $40.63 TVL: $44,968.63
+eETH Price: $2,299.55
+WONE Price: $0.18
+Staked: 1105.5538 1ETH-WONE ($44,922.96)
+OpenX Per Week: 4073.22 ($286.08)
+APR: Day 0.09% Week 0.64% Year 33.12%
+You are staking 0.00 [eETH]-[WONE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [eETH]-[WONE] Uni LP
+Unstake 0.00 [eETH]-[WONE] Uni LP
+Claim 0.00 OpenX ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [bBUSD]-[eBUSD] Uni LP [+] [-] [<=>] Price: $1.99 TVL: $65,486.00
+bBUSD Price: $1.01
+eBUSD Price: $0.97
+Staked: 32896.1158 bscBUSD-BUSD ($65,481.99)
+OpenX Per Week: 2036.61 ($143.04)
+APR: Day 0.03% Week 0.22% Year 11.36%
+You are staking 0.00 [bBUSD]-[eBUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [bBUSD]-[eBUSD] Uni LP
+Unstake 0.00 [bBUSD]-[eBUSD] Uni LP
+Claim 0.00 OpenX ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [bUSDC]-[eUSDC] Uni LP [+] [-] [<=>] Price: $2,015,233.19 TVL: $112,909.70
+bUSDC Price: $1.00
+eUSDC Price: $1.00
+Staked: 0.0550 bscUSDC-1USDC ($110,784.19)
+OpenX Per Week: 3258.58 ($228.87)
+APR: Day 0.03% Week 0.21% Year 10.74%
+You are staking 0.00 [bUSDC]-[eUSDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [bUSDC]-[eUSDC] Uni LP
+Unstake 0.00 [bUSDC]-[eUSDC] Uni LP
+Claim 0.00 OpenX ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [bBUSD]-[eUSDC] Uni LP [+] [-] [<=>] Price: $2,035,788.87 TVL: $162,302.22
+bBUSD Price: $1.01
+eUSDC Price: $1.00
+Staked: 0.0797 bscBUSD-1USDC ($162,264.47)
+OpenX Per Week: 4073.22 ($286.08)
+APR: Day 0.03% Week 0.18% Year 9.17%
+You are staking 0.00 [bBUSD]-[eUSDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [bBUSD]-[eUSDC] Uni LP
+Unstake 0.00 [bBUSD]-[eUSDC] Uni LP
+Claim 0.00 OpenX ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - OpenX Price: $0.07 Market Cap: $1,309,135.57 
+Staked: 9615252.3818 OpenX ($675,328.34)
+OpenX Per Week: 3258.58 ($228.87)
+APR: Day 0.00% Week 0.03% Year 1.76%
+You are staking 0.00 OpenX ($0.00), 0.00% of the pool.
+Stake 0.00 OpenX
+Unstake 0.00 OpenX
+Claim 0.00 OpenX ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [OpenX]-[WONE] VENOM-LP Token [+] [-] [<=>] Price: $0.23 TVL: $22,902.00
+OpenX Price: $0.07
+WONE Price: $0.18
+Staked: 101590.2362 VENOM-LP ($22,901.78)
+OpenX Per Week: 4073.22 ($286.08)
+APR: Day 0.18% Week 1.25% Year 64.96%
+You are staking 0.00 [OpenX]-[WONE] VENOM-LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [OpenX]-[WONE] VENOM-LP Token
+Unstake 0.00 [OpenX]-[WONE] VENOM-LP Token
+Claim 0.00 OpenX ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - oNODE100 Price: $0.00 Market Cap: $0.00 
+Staked: 1.0000 oNODE100 ($0.00)
+OpenX Per Week: 8146.44 ($572.17)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 oNODE100 ($0.00), NaN% of the pool.
+Stake 0.00 oNODE100
+Unstake 0.00 oNODE100
+Claim 0.00 OpenX ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - [bCake]-[WONE] Cake LP [+] [-] [<=>] Price: $2.22 TVL: $11,788.67
+bCake Price: $6.98
+WONE Price: $0.18
+Staked: 5303.0243 bscCake-WONE ($11,788.29)
+OpenX Per Week: 2036.61 ($143.04)
+APR: Day 0.17% Week 1.21% Year 63.10%
+You are staking 0.00 [bCake]-[WONE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [bCake]-[WONE] Cake LP
+Unstake 0.00 [bCake]-[WONE] Cake LP
+Claim 0.00 OpenX ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - [UST]-[WONE] Uni LP [+] [-] [<=>] Price: $0.85 TVL: $50,829.90
+UST Price: $1.00
+WONE Price: $0.18
+Staked: 59851.0631 UST-WONE ($50,777.49)
+OpenX Per Week: 2036.61 ($143.04)
+APR: Day 0.04% Week 0.28% Year 14.65%
+You are staking 0.00 [UST]-[WONE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UST]-[WONE] Uni LP
+Unstake 0.00 [UST]-[WONE] Uni LP
+Claim 0.00 OpenX ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - [LUNA]-[WONE] Uni LP [+] [-] [<=>] Price: $6.15 TVL: $25,761.80
+LUNA Price: $53.08
+WONE Price: $0.18
+Staked: 4160.5034 LUNA-WONE ($25,593.70)
+OpenX Per Week: 2036.61 ($143.04)
+APR: Day 0.08% Week 0.56% Year 29.06%
+You are staking 0.00 [LUNA]-[WONE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LUNA]-[WONE] Uni LP
+Unstake 0.00 [LUNA]-[WONE] Uni LP
+Claim 0.00 OpenX ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [eSUSHI]-[WONE] Uni LP [+] [-] [<=>] Price: $1.67 TVL: $11,029.45
+eSUSHI Price: $3.93
+WONE Price: $0.18
+Staked: 6595.4706 1SUSHI-WONE ($11,019.50)
+OpenX Per Week: 2036.61 ($143.04)
+APR: Day 0.19% Week 1.30% Year 67.50%
+You are staking 0.00 [eSUSHI]-[WONE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [eSUSHI]-[WONE] Uni LP
+Unstake 0.00 [eSUSHI]-[WONE] Uni LP
+Claim 0.00 OpenX ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $2,325,078.87

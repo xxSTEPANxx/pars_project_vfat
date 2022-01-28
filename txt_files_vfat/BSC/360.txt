@@ -1,0 +1,335 @@
+*************** 👨‍🌾 UNOFFICIAL TOMAHAWK FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://tomahawk.farm/
+**********************************************************************************
+
+Thu Jan 27 2022 21:17:51 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 28 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - TOMAHAWK Price: $0.00 Market Cap: $0.00 
+Staked: 368350.6812 TOMAHAWK ($0.00)
+TOMAHAWK Per Week: 3108.37 ($0.20)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 TOMAHAWK ($0.00), NaN% of the pool.
+Stake 0.00 TOMAHAWK
+Unstake 0.00 TOMAHAWK
+Claim 0.00 TOMAHAWK ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [TOMAHAWK]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.02 TVL: $36.89
+TOMAHAWK Price: $0.0000630060
+BUSD Price: $1.00
+Staked: 1957.6532 Cake-LP ($34.12)
+TOMAHAWK Per Week: 17762.11 ($1.12)
+APR: Day 0.47% Week 3.28% Year 170.58%
+You are staking 0.00 [TOMAHAWK]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TOMAHAWK]-[BUSD] Cake LP
+Unstake 0.00 [TOMAHAWK]-[BUSD] Cake LP
+Claim 0.00 TOMAHAWK ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [TOMAHAWK]-[WBNB] Cake LP [+] [-] [<=>] Price: $0.33 TVL: $14.71
+TOMAHAWK Price: $0.0000630060
+WBNB Price: $368.04
+Staked: 39.9360 Cake-LP ($13.03)
+TOMAHAWK Per Week: 11101.32 ($0.70)
+APR: Day 0.77% Week 5.37% Year 279.19%
+You are staking 0.00 [TOMAHAWK]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TOMAHAWK]-[WBNB] Cake LP
+Unstake 0.00 [TOMAHAWK]-[WBNB] Cake LP
+Claim 0.00 TOMAHAWK ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.40 TVL: $345,816,447.26
+WBNB Price: $368.04
+BUSD Price: $1.00
+Staked: 5.7721 Cake-LP ($273.59)
+TOMAHAWK Per Week: 2220.26 ($0.14)
+APR: Day 0.01% Week 0.05% Year 2.66%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 TOMAHAWK ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $7,729.25 TVL: $68,352,404.77
+BTCB Price: $36,165.00
+WBNB Price: $368.04
+Staked: 0.0001 Cake-LP ($1.05)
+TOMAHAWK Per Week: 2220.26 ($0.14)
+APR: Day 1.90% Week 13.28% Year 690.62%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 TOMAHAWK ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,028.43 TVL: $73,900,073.89
+ETH Price: $2,420.38
+WBNB Price: $368.04
+Staked: 0.0000 Cake-LP ($0.00)
+TOMAHAWK Per Week: 2220.26 ($0.14)
+APR: Day 29659805971.72% Week 207618641802.01% Year 10796169373704.65%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 TOMAHAWK ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [ADA]-[WBNB] Cake LP [+] [-] [<=>] Price: $42.27 TVL: $12,071,689.16
+ADA Price: $1.03
+WBNB Price: $368.04
+Staked: 17.8926 Cake-LP ($756.37)
+TOMAHAWK Per Week: 2220.26 ($0.14)
+APR: Day 0.00% Week 0.02% Year 0.96%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 TOMAHAWK ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [WBNB]-[LINK] Cake LP [+] [-] [<=>] Price: $155.77 TVL: $10,362,105.93
+WBNB Price: $368.04
+LINK Price: $15.01
+Staked: 0.0033 Cake-LP ($0.51)
+TOMAHAWK Per Week: 2220.26 ($0.14)
+APR: Day 3.93% Week 27.53% Year 1431.40%
+You are staking 0.00 [WBNB]-[LINK] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[LINK] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[LINK] Cake LP
+Claim 0.00 TOMAHAWK ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [DOT]-[WBNB] Cake LP [+] [-] [<=>] Price: $172.56 TVL: $17,714,902.79
+DOT Price: $17.97
+WBNB Price: $368.04
+Staked: 0.0000 Cake-LP ($0.00)
+TOMAHAWK Per Week: 2220.26 ($0.14)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 TOMAHAWK ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $297,018,915.51
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 4754.4906 Cake-LP ($9,958.21)
+TOMAHAWK Per Week: 1776.21 ($0.11)
+APR: Day 0.00% Week 0.00% Year 0.06%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 TOMAHAWK ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [DAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $16,855,522.96
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+TOMAHAWK Per Week: 1776.21 ($0.11)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 TOMAHAWK ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $131,283,687.12
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+TOMAHAWK Per Week: 1776.21 ($0.11)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 TOMAHAWK ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $105.28 TVL: $200,438,218.56
+Cake Price: $6.98
+WBNB Price: $368.04
+Staked: 1.0082 Cake-LP ($106.15)
+TOMAHAWK Per Week: 1776.21 ($0.11)
+APR: Day 0.02% Week 0.11% Year 5.48%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 TOMAHAWK ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - BUSD Price: $1.00 Market Cap: $4,843,121,365.62 [%]
+Staked: 202.0824 BUSD ($201.75)
+TOMAHAWK Per Week: 888.11 ($0.06)
+APR: Day 0.00% Week 0.03% Year 1.44%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 TOMAHAWK ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - WBNB Price: $368.04 Market Cap: $1,920,685,998.58 [%]
+Staked: 0.1464 WBNB ($53.88)
+TOMAHAWK Per Week: 888.11 ($0.06)
+APR: Day 0.01% Week 0.10% Year 5.40%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 TOMAHAWK ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - USDT Price: $1.00 Market Cap: $3,879,997,922.18 [%]
+Staked: 53.5680 USDT ($53.57)
+TOMAHAWK Per Week: 888.11 ($0.06)
+APR: Day 0.01% Week 0.10% Year 5.43%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 TOMAHAWK ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - BTCB Price: $36,165.00 Market Cap: $4,068,598,665.00 [%]
+Staked: 0.0005 BTCB ($17.36)
+TOMAHAWK Per Week: 888.11 ($0.06)
+APR: Day 0.05% Week 0.32% Year 16.76%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 TOMAHAWK ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - USDC Price: $1.00 Market Cap: $1,775,390,409.00 [%]
+Staked: 4.1372 USDC ($4.13)
+TOMAHAWK Per Week: 888.11 ($0.06)
+APR: Day 0.19% Week 1.36% Year 70.47%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 TOMAHAWK ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - Cake Price: $6.98 Market Cap: $4,292,442,308.74 [%]
+Staked: 232.7903 Cake ($1,624.88)
+TOMAHAWK Per Week: 888.11 ($0.06)
+APR: Day 0.00% Week 0.00% Year 0.18%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 TOMAHAWK ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - DAI Price: $1.00 Market Cap: $262,000,000.00 [%]
+Staked: 957.2957 DAI ($957.30)
+TOMAHAWK Per Week: 888.11 ($0.06)
+APR: Day 0.00% Week 0.01% Year 0.30%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 TOMAHAWK ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - [BTCB]-[BUSD] Cake LP [+] [-] [<=>] Price: $412.34 TVL: $50,364,683.82
+BTCB Price: $36,165.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+TOMAHAWK Per Week: 1776.21 ($0.11)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [BTCB]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [BTCB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[BUSD] Cake LP
+Claim 0.00 TOMAHAWK ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - [Cake]-[BUSD] Cake LP [+] [-] [<=>] Price: $7.79 TVL: $11,479,886.47
+Cake Price: $6.98
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+TOMAHAWK Per Week: 1776.21 ($0.11)
+APR: Day 20511.72% Week 143582.06% Year 7466267.26%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 TOMAHAWK ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - [UST]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.16 TVL: $16,409,485.57
+UST Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0010 Cake-LP ($0.00)
+TOMAHAWK Per Week: 1776.21 ($0.11)
+APR: Day 741.68% Week 5191.73% Year 269969.84%
+You are staking 0.00 [UST]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UST]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [UST]-[BUSD] Cake LP
+Claim 0.00 TOMAHAWK ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [DAI]-[TOMAHAWK] Cake LP [+] [-] [<=>] Price: $0.02 TVL: $8.30
+DAI Price: $1.00
+TOMAHAWK Price: $0.0000630060
+Staked: 475.8396 Cake-LP ($7.64)
+TOMAHAWK Per Week: 11101.32 ($0.70)
+APR: Day 1.31% Week 9.16% Year 476.15%
+You are staking 0.00 [DAI]-[TOMAHAWK] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[TOMAHAWK] Cake LP
+Unstake 0.00 [DAI]-[TOMAHAWK] Cake LP
+Claim 0.00 TOMAHAWK ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - [TOMAHAWK]-[USDC] Cake LP [+] [-] [<=>] Price: $0.02 TVL: $15.03
+TOMAHAWK Price: $0.0000630060
+USDC Price: $1.00
+Staked: 676.0605 Cake-LP ($10.90)
+TOMAHAWK Per Week: 11101.32 ($0.70)
+APR: Day 0.92% Week 6.42% Year 333.81%
+You are staking 0.00 [TOMAHAWK]-[USDC] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TOMAHAWK]-[USDC] Cake LP
+Unstake 0.00 [TOMAHAWK]-[USDC] Cake LP
+Claim 0.00 TOMAHAWK ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - [BUNNY]-[BUSD] Cake LP [+] [-] [<=>] Price: $1.96 TVL: $158.18
+BUNNY Price: $0.57
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+TOMAHAWK Per Week: 1776.21 ($0.11)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [BUNNY]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [BUNNY]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [BUNNY]-[BUSD] Cake LP
+Claim 0.00 TOMAHAWK ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - [WBNB]-[BUNNY] Cake LP [+] [-] [<=>] Price: $38.69 TVL: $1,277,976.24
+WBNB Price: $368.04
+BUNNY Price: $0.57
+Staked: 0.0324 Cake-LP ($1.25)
+TOMAHAWK Per Week: 1776.21 ($0.11)
+APR: Day 1.28% Week 8.94% Year 464.70%
+You are staking 0.00 [WBNB]-[BUNNY] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUNNY] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUNNY] Cake LP
+Claim 0.00 TOMAHAWK ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - [TOMAHAWK]-[USDT] Cake LP [+] [-] [<=>] Price: $0.02 TVL: $5.75
+TOMAHAWK Price: $0.0000630060
+USDT Price: $1.00
+Staked: 354.8243 Cake-LP ($5.69)
+TOMAHAWK Per Week: 11101.32 ($0.70)
+APR: Day 1.76% Week 12.30% Year 639.59%
+You are staking 0.00 [TOMAHAWK]-[USDT] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TOMAHAWK]-[USDT] Cake LP
+Unstake 0.00 [TOMAHAWK]-[USDT] Cake LP
+Claim 0.00 TOMAHAWK ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $14,081.37

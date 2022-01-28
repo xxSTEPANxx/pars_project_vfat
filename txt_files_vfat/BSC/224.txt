@@ -1,0 +1,123 @@
+*************** 👨‍🌾 UNOFFICIAL SUNFLOWERFARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://sunflowerfarming.us
+*****************************************************************************
+
+Thu Jan 27 2022 20:55:58 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 10 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [SUNFLOWER]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.07 TVL: $29.33
+SUNFLOWER Price: $0.001274
+BUSD Price: $1.00
+Staked: 372.6882 Cake-LP ($27.65)
+SUNFLOWER Per Week: 2016.00 ($2.57)
+APR: Day 1.33% Week 9.29% Year 482.90%
+You are staking 0.00 [SUNFLOWER]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SUNFLOWER]-[BUSD] Cake LP - Fee 1%
+Unstake 0.00 [SUNFLOWER]-[BUSD] Cake LP
+Claim 0.00 SUNFLOWER ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [SUNFLOWER]-[WBNB] Cake LP [+] [-] [<=>] Price: $1.47 TVL: $14.03
+SUNFLOWER Price: $0.001274
+WBNB Price: $369.16
+Staked: 7.0167 Cake-LP ($10.33)
+SUNFLOWER Per Week: 2419.20 ($3.08)
+APR: Day 4.26% Week 29.83% Year 1550.95%
+You are staking 0.00 [SUNFLOWER]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SUNFLOWER]-[WBNB] Cake LP - Fee 1%
+Unstake 0.00 [SUNFLOWER]-[WBNB] Cake LP
+Claim 0.00 SUNFLOWER ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.51 TVL: $346,594,879.09
+WBNB Price: $369.16
+BUSD Price: $1.00
+Staked: 0.3373 Cake-LP ($16.02)
+SUNFLOWER Per Week: 806.40 ($1.03)
+APR: Day 0.92% Week 6.41% Year 333.29%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 3%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 SUNFLOWER ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $7,754.25 TVL: $68,804,761.54
+BTCB Price: $36,289.00
+WBNB Price: $369.16
+Staked: 0.0099 Cake-LP ($77.13)
+SUNFLOWER Per Week: 806.40 ($1.03)
+APR: Day 0.19% Week 1.33% Year 69.24%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 3%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 SUNFLOWER ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,045.62 TVL: $74,526,523.47
+ETH Price: $2,454.15
+WBNB Price: $369.16
+Staked: 0.0138 Cake-LP ($28.20)
+SUNFLOWER Per Week: 806.40 ($1.03)
+APR: Day 0.52% Week 3.64% Year 189.40%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 3%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 SUNFLOWER ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $105.74 TVL: $201,394,970.67
+Cake Price: $7.02
+WBNB Price: $369.16
+Staked: 0.4842 Cake-LP ($51.19)
+SUNFLOWER Per Week: 806.40 ($1.03)
+APR: Day 0.29% Week 2.01% Year 104.32%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 3%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 SUNFLOWER ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $296,846,874.24
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 148.8983 Cake-LP ($311.68)
+SUNFLOWER Per Week: 806.40 ($1.03)
+APR: Day 0.05% Week 0.33% Year 17.13%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 3%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 SUNFLOWER ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [DOGE]-[BUSD] Cake LP [+] [-] [<=>] Price: $141,045.46 TVL: $7,904.93
+DOGE Price: $0.14
+BUSD Price: $1.00
+Staked: 0.0001 Cake-LP ($15.54)
+SUNFLOWER Per Week: 806.40 ($1.03)
+APR: Day 0.94% Week 6.61% Year 343.66%
+You are staking 0.00 [DOGE]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOGE]-[BUSD] Cake LP - Fee 3%
+Unstake 0.00 [DOGE]-[BUSD] Cake LP
+Claim 0.00 SUNFLOWER ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [DOGE]-[WBNB] Cake LP [+] [-] [<=>] Price: $1,590,619.46 TVL: $3,360.77
+DOGE Price: $0.14
+WBNB Price: $369.16
+Staked: 0.0000 Cake-LP ($57.05)
+SUNFLOWER Per Week: 806.40 ($1.03)
+APR: Day 0.26% Week 1.80% Year 93.62%
+You are staking 0.00 [DOGE]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOGE]-[WBNB] Cake LP - Fee 3%
+Unstake 0.00 [DOGE]-[WBNB] Cake LP
+Claim 0.00 SUNFLOWER ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $594.78

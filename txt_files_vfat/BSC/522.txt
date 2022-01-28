@@ -1,0 +1,137 @@
+*************** 👨‍🌾 UNOFFICIAL DFORCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://dforce.network
+***************************************************************************
+
+Thu Jan 27 2022 21:41:10 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+[DF]-[USX] Cake LP [+] [-] [<=>] Price: $0.67 TVL: $6,880.15
+DF Price: $0.10
+USX Price: $0.99
+Staked: 65.0597 Cake-LP ($43.71)
+DF Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [DF]-[USX] Cake LP $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 [DF]-[USX] Cake LP
+Unstake 0.000000 [DF]-[USX] Cake LP
+Claim 0.000000 DF ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[USX]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.07 TVL: $0.59
+USX Price: $0.99
+BUSD Price: $1.00
+Staked: 0.1038 Cake-LP ($0.21)
+DF Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [USX]-[BUSD] Cake LP $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 [USX]-[BUSD] Cake LP
+Unstake 0.000000 [USX]-[BUSD] Cake LP
+Claim 0.000000 DF ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[EUX]-[USX] Cake LP [+] [-] [<=>] Price: $2.36 TVL: $158.92
+EUX Price: $1.40
+USX Price: $0.99
+Staked: 0.0000 Cake-LP ($0.00)
+DF Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 [EUX]-[USX] Cake LP $0.00 (NaN% of the pool).
+BSC Scan
+Stake 0.000000 [EUX]-[USX] Cake LP
+Unstake 0.000000 [EUX]-[USX] Cake LP
+Claim 0.000000 DF ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[ETH]-[xETH] Cake LP [+] [-] [<=>] Price: $1,421.42 TVL: $7.41
+ETH Price: $2,435.50
+xETH Price: $206.82
+Staked: 0.0000 Cake-LP ($0.00)
+DF Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 [ETH]-[xETH] Cake LP $0.00 (NaN% of the pool).
+BSC Scan
+Stake 0.000000 [ETH]-[xETH] Cake LP
+Unstake 0.000000 [ETH]-[xETH] Cake LP
+Claim 0.000000 DF ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[xBTC]-[BTCB] Cake LP [+] [-] [<=>] Price: $31,056.08 TVL: $13.34
+xBTC Price: $6,599.33
+BTCB Price: $36,255.00
+Staked: 0.0000 Cake-LP ($0.00)
+DF Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 [xBTC]-[BTCB] Cake LP $0.00 (NaN% of the pool).
+BSC Scan
+Stake 0.000000 [xBTC]-[BTCB] Cake LP
+Unstake 0.000000 [xBTC]-[BTCB] Cake LP
+Claim 0.000000 DF ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[USX]-[xTSLA] Cake LP [+] [-] [<=>] Price: $57.28 TVL: $263,758.82
+USX Price: $0.99
+xTSLA Price: $827.96
+Staked: 0.0000 Cake-LP ($0.00)
+DF Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 [USX]-[xTSLA] Cake LP $0.00 (NaN% of the pool).
+BSC Scan
+Stake 0.000000 [USX]-[xTSLA] Cake LP
+Unstake 0.000000 [USX]-[xTSLA] Cake LP
+Claim 0.000000 DF ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[xAMZN]-[USX] Cake LP [+] [-] [<=>] Price: $104.12 TVL: $217,827.45
+xAMZN Price: $2,714.74
+USX Price: $0.99
+Staked: 0.0000 Cake-LP ($0.00)
+DF Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 [xAMZN]-[USX] Cake LP $0.00 (NaN% of the pool).
+BSC Scan
+Stake 0.000000 [xAMZN]-[USX] Cake LP
+Unstake 0.000000 [xAMZN]-[USX] Cake LP
+Claim 0.000000 DF ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[xAAPL]-[USX] Cake LP [+] [-] [<=>] Price: $25.11 TVL: $47,311.19
+xAAPL Price: $159.17
+USX Price: $0.99
+Staked: 0.0000 Cake-LP ($0.00)
+DF Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 [xAAPL]-[USX] Cake LP $0.00 (NaN% of the pool).
+BSC Scan
+Stake 0.000000 [xAAPL]-[USX] Cake LP
+Unstake 0.000000 [xAAPL]-[USX] Cake LP
+Claim 0.000000 DF ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[xCOIN]-[USX] Cake LP [+] [-] [<=>] Price: $30.83 TVL: $48,634.96
+xCOIN Price: $239.54
+USX Price: $0.99
+Staked: 0.0000 Cake-LP ($0.00)
+DF Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [xCOIN]-[USX] Cake LP $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 [xCOIN]-[USX] Cake LP
+Unstake 0.000000 [xCOIN]-[USX] Cake LP
+Claim 0.000000 DF ($0.00)
+Revoke (set approval to 0)
+Exit
+
+Total staked: $43.92

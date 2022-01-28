@@ -4,7 +4,7 @@ INFO  : https://www.metacrono.finance/
 
 ********************************************************************************
 
-Mon Dec 20 2021 09:51:49 GMT+0300 (Москва, стандартное время)
+Wed Dec 22 2021 18:19:53 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
@@ -12,7 +12,7 @@ Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
 {
   "code": -32603,
-  "message": "JsonRpcEngine: Response has no error or result for request:\n{\n  \"method\": \"eth_call\",\n  \"params\": [\n    {\n      \"to\": \"0x5f680e57778651f7cb14678655822abc469acacf\",\n      \"data\": \"0xc9012750\"\n    },\n    \"0x9c6ab\"\n  ],\n  \"jsonrpc\": \"2.0\",\n  \"id\": 3154706348,\n  \"origin\": \"https://vfat.tools\",\n  \"tabId\": 2\n}",
+  "message": "JsonRpcEngine: Response has no error or result for request:\n{\n  \"method\": \"eth_call\",\n  \"params\": [\n    {\n      \"to\": \"0x5f680e57778651f7cb14678655822abc469acacf\",\n      \"data\": \"0xc9012750\"\n    },\n    \"0xa094b\"\n  ],\n  \"jsonrpc\": \"2.0\",\n  \"id\": 2792306422,\n  \"origin\": \"https://vfat.tools\",\n  \"tabId\": 2\n}",
   "data": {
     "request": {
       "method": "eth_call",
@@ -21,14 +21,14 @@ Reading smart contracts...
           "to": "0x5f680e57778651f7cb14678655822abc469acacf",
           "data": "0xc9012750"
         },
-        "0x9c6ab"
+        "0xa094b"
       ],
       "jsonrpc": "2.0",
-      "id": 3154706348,
+      "id": 2792306422,
       "origin": "https://vfat.tools",
       "tabId": 2
     }
   },
-  "stack": "{\n  \"code\": -32603,\n  \"message\": \"JsonRpcEngine: Response has no error or result for request:\\n{\\n  \\\"method\\\": \\\"eth_call\\\",\\n  \\\"params\\\": [\\n    {\\n      \\\"to\\\": \\\"0x5f680e57778651f7cb14678655822abc469acacf\\\",\\n      \\\"data\\\": \\\"0xc9012750\\\"\\n    },\\n    \\\"0x9c6ab\\\"\\n  ],\\n  \\\"jsonrpc\\\": \\\"2.0\\\",\\n  \\\"id\\\": 3154706348,\\n  \\\"origin\\\": \\\"https://vfat.tools\\\",\\n  \\\"tabId\\\": 2\\n}\",\n  \"data\": {\n    \"request\": {\n      \"method\": \"eth_call\",\n      \"params\": [\n        {\n          \"to\": \"0x5f680e57778651f7cb14678655822abc469acacf\",\n          \"data\": \"0xc9012750\"\n        },\n        \"0x9c6ab\"\n      ],\n      \"jsonrpc\": \"2.0\",\n      \"id\": 3154706348,\n      \"origin\": \"https://vfat.tools\",\n      \"tabId\": 2\n    }\n  },\n  \"stack\": \"Error: JsonRpcEngine: Response has no error or result for request:\\n{\\n  \\\"method\\\": \\\"eth_call\\\",\\n  \\\"params\\\": [\\n    {\\n      \\\"to\\\": \\\"0x5f680e57778651f7cb14678655822abc469acacf\\\",\\n      \\\"data\\\": \\\"0xc9012750\\\"\\n    },\\n    \\\"0x9c6ab\\\"\\n  ],\\n  \\\"jsonrpc\\\": \\\"2.0\\\",\\n  \\\"id\\\": 3154706348,\\n  \\\"origin\\\": \\\"https://vfat.tools\\\",\\n  \\\"tabId\\\": 2\\n}\\n    at new o (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/common-1.js:16:24204)\\n    at Function._checkForCompletion (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:305269)\\n    at a._processRequest (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304461)\\n    at async a._handle (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304249)\"\n}\n  at new o (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/common-1.js:16:24204)\n  at Function._checkForCompletion (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:305269)\n  at a._processRequest (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304461)\n  at async a._handle (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304249)"
+  "stack": "{\n  \"code\": -32603,\n  \"message\": \"JsonRpcEngine: Response has no error or result for request:\\n{\\n  \\\"method\\\": \\\"eth_call\\\",\\n  \\\"params\\\": [\\n    {\\n      \\\"to\\\": \\\"0x5f680e57778651f7cb14678655822abc469acacf\\\",\\n      \\\"data\\\": \\\"0xc9012750\\\"\\n    },\\n    \\\"0xa094b\\\"\\n  ],\\n  \\\"jsonrpc\\\": \\\"2.0\\\",\\n  \\\"id\\\": 2792306422,\\n  \\\"origin\\\": \\\"https://vfat.tools\\\",\\n  \\\"tabId\\\": 2\\n}\",\n  \"data\": {\n    \"request\": {\n      \"method\": \"eth_call\",\n      \"params\": [\n        {\n          \"to\": \"0x5f680e57778651f7cb14678655822abc469acacf\",\n          \"data\": \"0xc9012750\"\n        },\n        \"0xa094b\"\n      ],\n      \"jsonrpc\": \"2.0\",\n      \"id\": 2792306422,\n      \"origin\": \"https://vfat.tools\",\n      \"tabId\": 2\n    }\n  },\n  \"stack\": \"Error: JsonRpcEngine: Response has no error or result for request:\\n{\\n  \\\"method\\\": \\\"eth_call\\\",\\n  \\\"params\\\": [\\n    {\\n      \\\"to\\\": \\\"0x5f680e57778651f7cb14678655822abc469acacf\\\",\\n      \\\"data\\\": \\\"0xc9012750\\\"\\n    },\\n    \\\"0xa094b\\\"\\n  ],\\n  \\\"jsonrpc\\\": \\\"2.0\\\",\\n  \\\"id\\\": 2792306422,\\n  \\\"origin\\\": \\\"https://vfat.tools\\\",\\n  \\\"tabId\\\": 2\\n}\\n    at new o (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/common-1.js:16:24204)\\n    at Function._checkForCompletion (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:305269)\\n    at a._processRequest (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304461)\\n    at async a._handle (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304249)\"\n}\n  at new o (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/common-1.js:16:24204)\n  at Function._checkForCompletion (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:305269)\n  at a._processRequest (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304461)\n  at async a._handle (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304249)"
 }
 Oops something went wrong. Try refreshing the page.

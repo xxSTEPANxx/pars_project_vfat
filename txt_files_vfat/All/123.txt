@@ -1,0 +1,327 @@
+*************** 👨‍🌾 UNOFFICIAL SHIBASWAP FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://shibaswap.com
+******************************************************************************
+
+Thu Jan 27 2022 20:00:17 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 27 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [SHIB]-[WETH] SLP [+] [-] [<=>] Price: $0.55 TVL: $19,795,852.17
+SHIB Price: $0.0000212000
+WETH Price: $2,481.53
+Staked: 32370865.6191 SSLP ($17,843,707.89)
+BONE Per Week: 73765.09 ($40,466.11)
+APR: Day 0.03% Week 0.23% Year 11.79%
+You are staking 0.00 [SHIB]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [SHIB]-[WETH] SLP
+Unstake 0.00 [SHIB]-[WETH] SLP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [LEASH]-[WETH] SLP [+] [-] [<=>] Price: $3,068.35 TVL: $9,962,025.20
+LEASH Price: $792.88
+WETH Price: $2,481.53
+Staked: 3161.9702 SSLP ($9,702,017.00)
+BONE Per Week: 103271.13 ($56,652.56)
+APR: Day 0.08% Week 0.58% Year 30.36%
+You are staking 0.00 [LEASH]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [LEASH]-[WETH] SLP
+Unstake 0.00 [LEASH]-[WETH] SLP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBTC]-[WETH] SLP [+] [-] [<=>] Price: $1,917,990,688.16 TVL: $51,139,461.16
+WBTC Price: $36,594.00
+WETH Price: $2,481.53
+Staked: 0.0267 SSLP ($51,128,103.27)
+BONE Per Week: 88518.11 ($48,559.33)
+APR: Day 0.01% Week 0.09% Year 4.94%
+You are staking 0.00 [WBTC]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[WETH] SLP
+Unstake 0.00 [WBTC]-[WETH] SLP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDC]-[WETH] SLP [+] [-] [<=>] Price: $104,024,919.20 TVL: $12,407,590.02
+USDC Price: $1.00
+WETH Price: $2,481.53
+Staked: 0.1191 SSLP ($12,388,938.98)
+BONE Per Week: 88518.11 ($48,559.33)
+APR: Day 0.06% Week 0.39% Year 20.38%
+You are staking 0.00 [USDC]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] SLP
+Unstake 0.00 [USDC]-[WETH] SLP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [SUSHI]-[WETH] SLP [+] [-] [<=>] Price: $211.38 TVL: $7,679,877.33
+SUSHI Price: $4.20
+WETH Price: $2,481.53
+Staked: 36320.4868 SSLP ($7,677,552.48)
+BONE Per Week: 44259.06 ($24,279.67)
+APR: Day 0.05% Week 0.32% Year 16.44%
+You are staking 0.00 [SUSHI]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [SUSHI]-[WETH] SLP
+Unstake 0.00 [SUSHI]-[WETH] SLP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [UNI]-[WETH] SLP [+] [-] [<=>] Price: $330.05 TVL: $5,711,810.69
+UNI Price: $10.73
+WETH Price: $2,481.53
+Staked: 17297.0890 SSLP ($5,708,911.20)
+BONE Per Week: 44259.06 ($24,279.67)
+APR: Day 0.06% Week 0.43% Year 22.12%
+You are staking 0.00 [UNI]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [UNI]-[WETH] SLP
+Unstake 0.00 [UNI]-[WETH] SLP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [LINK]-[WETH] SLP [+] [-] [<=>] Price: $398.51 TVL: $4,202,610.48
+LINK Price: $15.46
+WETH Price: $2,481.53
+Staked: 10502.5858 SSLP ($4,185,387.52)
+BONE Per Week: 14753.02 ($8,093.22)
+APR: Day 0.03% Week 0.19% Year 10.06%
+You are staking 0.00 [LINK]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [LINK]-[WETH] SLP
+Unstake 0.00 [LINK]-[WETH] SLP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [DAI]-[WETH] SLP [+] [-] [<=>] Price: $102.33 TVL: $16,259,867.25
+DAI Price: $1.00
+WETH Price: $2,481.53
+Staked: 158658.6909 SSLP ($16,234,999.84)
+BONE Per Week: 88518.11 ($48,559.33)
+APR: Day 0.04% Week 0.30% Year 15.55%
+You are staking 0.00 [DAI]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[WETH] SLP
+Unstake 0.00 [DAI]-[WETH] SLP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [xFUND]-[WETH] SLP [+] [-] [<=>] Price: $83,762,963.51 TVL: $1,027,737.45
+xFUND Price: $665.22
+WETH Price: $2,481.53
+Staked: 0.0119 SSLP ($999,430.25)
+BONE Per Week: 7376.51 ($4,046.61)
+APR: Day 0.06% Week 0.40% Year 21.05%
+You are staking 0.00 [xFUND]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [xFUND]-[WETH] SLP
+Unstake 0.00 [xFUND]-[WETH] SLP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [SNX]-[WETH] SLP [+] [-] [<=>] Price: $225.62 TVL: $1,418,878.66
+SNX Price: $4.87
+WETH Price: $2,481.53
+Staked: 6285.5385 SSLP ($1,418,151.57)
+BONE Per Week: 7376.51 ($4,046.61)
+APR: Day 0.04% Week 0.29% Year 14.84%
+You are staking 0.00 [SNX]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [SNX]-[WETH] SLP
+Unstake 0.00 [SNX]-[WETH] SLP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [WETH]-[MEME] SLP [+] [-] [<=>] Price: $162,211,743.43 TVL: $233,315.59
+WETH Price: $2,481.53
+MEME Price: $249.70
+Staked: 0.0014 SSLP ($229,242.72)
+BONE Per Week: 737.65 ($404.66)
+APR: Day 0.03% Week 0.18% Year 9.18%
+You are staking 0.00 [WETH]-[MEME] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[MEME] SLP
+Unstake 0.00 [WETH]-[MEME] SLP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [WETH]-[GRT] SLP [+] [-] [<=>] Price: $65.07 TVL: $768,767.55
+WETH Price: $2,481.53
+GRT Price: $0.41
+Staked: 11787.3796 SSLP ($766,958.60)
+BONE Per Week: 7376.51 ($4,046.61)
+APR: Day 0.08% Week 0.53% Year 27.44%
+You are staking 0.00 [WETH]-[GRT] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[GRT] SLP
+Unstake 0.00 [WETH]-[GRT] SLP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [DUCK]-[WETH] SLP [+] [-] [<=>] Price: $10.66 TVL: $299,419.25
+DUCK Price: $0.01
+WETH Price: $2,481.53
+Staked: 28071.8861 SSLP ($299,218.66)
+BONE Per Week: 737.65 ($404.66)
+APR: Day 0.02% Week 0.14% Year 7.03%
+You are staking 0.00 [DUCK]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [DUCK]-[WETH] SLP
+Unstake 0.00 [DUCK]-[WETH] SLP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [ELON]-[WETH] SLP [+] [-] [<=>] Price: $0.12 TVL: $639,752.66
+ELON Price: $0.0000009141
+WETH Price: $2,481.53
+Staked: 4809891.3067 SSLP ($566,666.40)
+BONE Per Week: 737.65 ($404.66)
+APR: Day 0.01% Week 0.07% Year 3.71%
+You are staking 0.00 [ELON]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [ELON]-[WETH] SLP
+Unstake 0.00 [ELON]-[WETH] SLP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [VXV]-[WETH] SLP [+] [-] [<=>] Price: $181.04 TVL: $295,669.62
+VXV Price: $2.53
+WETH Price: $2,481.53
+Staked: 1395.6135 SSLP ($252,665.66)
+BONE Per Week: 737.65 ($404.66)
+APR: Day 0.02% Week 0.16% Year 8.33%
+You are staking 0.00 [VXV]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [VXV]-[WETH] SLP
+Unstake 0.00 [VXV]-[WETH] SLP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [BONE]-[WETH] SLP [+] [-] [<=>] Price: $77.80 TVL: $22,883,593.42
+BONE Price: $0.55
+WETH Price: $2,481.53
+Staked: 289437.5293 SSLP ($22,517,005.91)
+BONE Per Week: 442590.56 ($242,796.67)
+APR: Day 0.15% Week 1.08% Year 56.07%
+You are staking 0.00 [BONE]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [BONE]-[WETH] SLP
+Unstake 0.00 [BONE]-[WETH] SLP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [LEASH]-[BONE] SLP [+] [-] [<=>] Price: $43.15 TVL: $10,613,502.12
+LEASH Price: $792.88
+BONE Price: $0.55
+Staked: 244170.0202 SSLP ($10,536,160.78)
+BONE Per Week: 132777.17 ($72,839.00)
+APR: Day 0.10% Week 0.69% Year 35.95%
+You are staking 0.00 [LEASH]-[BONE] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [LEASH]-[BONE] SLP
+Unstake 0.00 [LEASH]-[BONE] SLP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [WETH]-[USDT] SLP [+] [-] [<=>] Price: $118,106,406.41 TVL: $16,113,959.88
+WETH Price: $2,481.53
+USDT Price: $1.00
+Staked: 0.1363 SSLP ($16,096,127.91)
+BONE Per Week: 88518.11 ($48,559.33)
+APR: Day 0.04% Week 0.30% Year 15.69%
+You are staking 0.00 [WETH]-[USDT] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[USDT] SLP
+Unstake 0.00 [WETH]-[USDT] SLP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [SHIB]-[BONE] SLP [+] [-] [<=>] Price: $0.01 TVL: $10,049,793.84
+SHIB Price: $0.0000212000
+BONE Price: $0.55
+Staked: 827116941.4552 SSLP ($9,796,824.57)
+BONE Per Week: 88518.11 ($48,559.33)
+APR: Day 0.07% Week 0.50% Year 25.77%
+You are staking 0.00 [SHIB]-[BONE] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [SHIB]-[BONE] SLP
+Unstake 0.00 [SHIB]-[BONE] SLP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [F9]-[WETH] SLP [+] [-] [<=>] Price: $309,574.87 TVL: $165,771.56
+F9 Price: $0.007539
+WETH Price: $2,481.53
+Staked: 0.5266 SSLP ($163,019.32)
+BONE Per Week: 2950.60 ($1,618.64)
+APR: Day 0.14% Week 0.99% Year 51.63%
+You are staking 0.00 [F9]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [F9]-[WETH] SLP
+Unstake 0.00 [F9]-[WETH] SLP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - [UFO]-[WETH] SLP [+] [-] [<=>] Price: $0.38 TVL: $188,347.82
+UFO Price: $0.0000093800
+WETH Price: $2,481.53
+Staked: 477197.8867 SSLP ($179,408.37)
+BONE Per Week: 2950.60 ($1,618.64)
+APR: Day 0.13% Week 0.90% Year 46.92%
+You are staking 0.00 [UFO]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [UFO]-[WETH] SLP
+Unstake 0.00 [UFO]-[WETH] SLP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - [STARL]-[WETH] SLP [+] [-] [<=>] Price: $0.68 TVL: $182,154.32
+STARL Price: $0.0000173300
+WETH Price: $2,481.53
+Staked: 258411.7488 SSLP ($175,071.22)
+BONE Per Week: 2950.60 ($1,618.64)
+APR: Day 0.13% Week 0.92% Year 48.08%
+You are staking 0.00 [STARL]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [STARL]-[WETH] SLP
+Unstake 0.00 [STARL]-[WETH] SLP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [RYOSHI]-[WETH] SLP [+] [-] [<=>] Price: $0.04 TVL: $2,947,493.90
+RYOSHI Price: $0.0000001323
+WETH Price: $2,481.53
+Staked: 6488115.3379 SSLP ($252,757.34)
+BONE Per Week: 2950.60 ($1,618.64)
+APR: Day 0.09% Week 0.64% Year 33.30%
+You are staking 0.00 [RYOSHI]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [RYOSHI]-[WETH] SLP
+Unstake 0.00 [RYOSHI]-[WETH] SLP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - [WETH]-[PERL] SLP [+] [-] [<=>] Price: $22.09 TVL: $290,596.77
+WETH Price: $2,481.53
+PERL Price: $0.05
+Staked: 12631.2406 SSLP ($279,063.38)
+BONE Per Week: 2950.60 ($1,618.64)
+APR: Day 0.08% Week 0.58% Year 30.16%
+You are staking 0.00 [WETH]-[PERL] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[PERL] SLP
+Unstake 0.00 [WETH]-[PERL] SLP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - [CIV]-[WETH] SLP [+] [-] [<=>] Price: $36.92 TVL: $706,714.57
+CIV Price: $0.12
+WETH Price: $2,481.53
+Staked: 18906.1538 SSLP ($698,009.37)
+BONE Per Week: 2950.60 ($1,618.64)
+APR: Day 0.03% Week 0.23% Year 12.06%
+You are staking 0.00 [CIV]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [CIV]-[WETH] SLP
+Unstake 0.00 [CIV]-[WETH] SLP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - [WETH]-[VEMP] SLP [+] [-] [<=>] Price: $31.93 TVL: $239,949.73
+WETH Price: $2,481.53
+VEMP Price: $0.10
+Staked: 7293.7215 SSLP ($232,915.44)
+BONE Per Week: 2950.60 ($1,618.64)
+APR: Day 0.10% Week 0.69% Year 36.14%
+You are staking 0.00 [WETH]-[VEMP] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[VEMP] SLP
+Unstake 0.00 [WETH]-[VEMP] SLP
+Claim 0.00 BONE ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $190,328,315.68

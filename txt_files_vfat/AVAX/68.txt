@@ -1,0 +1,36 @@
+***************************** AVALANCHE ******************************************
+
+*************** 👨‍🌾 UNOFFICIAL SYNAPSE PROTOCOL FARMING CALCULATOR 👨‍🌾 ************
+INFO  : https://synapseprotocol.com
+**********************************************************************************
+
+Fri Jan 28 2022 00:27:39 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 3 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+1 - nUSD-LP Price: $1.00 Market Cap: $72,808,364.94 
+Staked: 72241524.5284 nUSD-LP ($72,241,524.53)
+SYN Per Week: 72055.21 ($144,110.42)
+APR: Day 0.03% Week 0.20% Year 10.37%
+You are staking 0.00 nUSD-LP ($0.00), 0.00% of the pool.
+Stake 0.00 nUSD-LP
+Unstake 0.00 nUSD-LP
+Claim 0.00 SYN ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - nETH-LP Price: $0.00 Market Cap: $0.00 
+Staked: 20334.6296 nETH-LP ($0.00)
+SYN Per Week: 36027.61 ($72,055.21)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 nETH-LP ($0.00), NaN% of the pool.
+Stake 0.00 nETH-LP
+Unstake 0.00 nETH-LP
+Claim 0.00 SYN ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $72,241,524.53

@@ -1,0 +1,34 @@
+*************** 👨‍🌾 UNOFFICIAL STRUDEL FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://strudel.finance
+****************************************************************************
+
+Thu Jan 27 2022 19:28:03 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 12 pools.
+1 - [$TRDL]-[WETH] Uni LP [+] [-] [<=>] Price: $105.58 TVL: $20,275.63
+$TRDL Price: $0.31
+WETH Price: $2,465.95
+Staked: 158.2007 UNI-V2 ($16,702.74)
+$TRDL Per Week: 22400.00 ($6,926.82)
+APR: Day 5.92% Week 41.47% Year 2156.50%
+You are staking 0.00 [$TRDL]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [$TRDL]-[WETH] Uni LP
+Unstake 0.00 [$TRDL]-[WETH] Uni LP
+Claim 0.00 $TRDL ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [WETH]-[VBTC] Uni LP [+] [-] [<=>] Price: $10,915.77 TVL: $124,604.61
+WETH Price: $2,465.95
+VBTC Price: $9,607.40
+Staked: 11.3347 UNI-V2 ($123,727.54)
+$TRDL Per Week: 22400.00 ($6,926.82)
+APR: Day 0.80% Week 5.60% Year 291.12%
+You are staking 0.00 [WETH]-[VBTC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[VBTC] Uni LP
+Unstake 0.00 [WETH]-[VBTC] Uni LP
+Claim 0.00 $TRDL ($0.00)
+Staking or unstaking also claims rewards.

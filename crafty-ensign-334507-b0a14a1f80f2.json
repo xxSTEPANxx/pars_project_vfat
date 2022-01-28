@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "crafty-ensign-334507",
+  "private_key_id": "b0a14a1f80f2ad3b0d1880610575401397ce89c5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCuG00y90GmT43M\no9fMsA23wCsL3g1ZG+mPFhRpkZF9LKoHKgwWw5XgLTPjRUM9YXN2Pf+kvc5YqaN5\npj9HqJjcUN/TavUgqhoSm5hP5d5S6Stf6K1o66QUzvBYTm7X/LUZz9+9ijfC/TC7\nIKC2Lh2y62xHMYmOFJg59sur92qPheucE3OJm9rNTCYis8FL6CUHrA5lNPi1SPZ5\nkIbyndg/KXje82+7aMdtwzgWl403TgpIxTw7nkN12EIjQ/QYUNVtZCjMoR7JNpD1\nyn+tsn7DO06ZOBqen8bJBMxGZLENQQUwNl/hKyXr/GmvKt/dYrVn9pEAYoKWxntF\n4FcLgGaXAgMBAAECggEAS4FIjfk/zcXDa4OEk16oXE9o+6kNZd8ef3CmYpAAJeZo\nSFoaSwcAKOvBjGbdvbFU9ur1QncUFUxgOmH4IHYD8Mvb/Z5tdwB99SLoP4IjVBaN\nuna4OX+ztVh3T/yXwnB0A6EsWVEnVJcj+oswV0GRnKXPW+KmUmkpCT433riaTGoh\nfNSWfAZv5uGbh6qf75owDcZJUzQgk7Gqo8BuctVqknQ9mwAmW3lF5SrpsRoyeXxk\n8SV9bO9ja1tztvX0lz8fL7gyLJMItS0KlZfScYaReEK1i+1x0Xo5XXbH2BoMwuOq\nPUCnpn+Y/CDS7Yfdtxm+ZxXf6TMVuZ/53hcQMfnQ8QKBgQDwHYak/kqn18TiVtBq\njDbOtsanysloL3K+KTkuv39sexcXcpW+42G9z6dwB+kDSgzDI1sYVC1zoWk/KRcQ\nFbjAZVwTNC2P6AUAEkioC6PM7q3vV6ouOo1pDY+5poC8dgT6bGHtG7BxCdj4hbmN\n0zHwAhdsRde+GbS5FmyX+E2yBwKBgQC5n+Ke5jXQKPgCc2UPgh9Yk8ED2iWiVO8l\nAxJcTyH1CIYyCK4mRBYjsbXGhFg+dS9QRk9MRnpers6T/GqoU3/6tF5f+sXYkPM8\n4+Zc8kodmWiux61aH2QWAp0H3KivMeBelAwa53YlAPaJKuUKAk4Vz9SkGrCuBux7\nZrLl9FpC8QKBgQCLcspYliprUb9RJ9QAnQ/Te4jht77CmBPOZoiEIsjxCod9oZlf\n9BQ2tRtrz9w+gcnppmXoOjLvXYWPHeD8AXF7oyIXMQ1o7vnAcd3qYmAty0wOnV4D\nXRP1N+AJlK5dRTlc6obwukz9SRfONXNu74Gn/r71rZY/HBS+DUzh8V3GDwKBgQCd\nnviueUlEwyUl35r3OkUnz/9cKAdA+uI/CYazv7ZT/bMGFXzbnYE3OhXixkqwbo2I\nmsuHN2l9sO5Vl0dyO8U2u6ZP1f/eT+db0yGv10W8MKJFl+TJ3FH+pqV1IZhTfATM\nCubkiZs2/MRb4YKvpxlrSBmGZ+uTOungN2q9/WoP4QKBgQDp8OOC25YQfi/pcNgO\n8ByKuNvPVTsdbXspkd4PgVe9R0heXGQKil8JtOB3rWLxT6vDxarGTDFkhQ0Y7Z79\nPh7J044/TTJkJu2vAKeRHNKRO63qr8E0M5I+Z6OJfoQRgpvSjxielz2Tk6PI2C7k\n3iVQUzHYS99UOcR27QTFuB2oCA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "pychrm-vfat@crafty-ensign-334507.iam.gserviceaccount.com",
+  "client_id": "117922427520678372152",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pychrm-vfat%40crafty-ensign-334507.iam.gserviceaccount.com"
+}

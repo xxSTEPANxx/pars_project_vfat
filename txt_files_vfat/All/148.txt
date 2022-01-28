@@ -1,0 +1,33 @@
+*************** 👨‍🌾 UNOFFICIAL MERITCIRCLE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://swap.meritcircle.io
+********************************************************************************
+
+Thu Jan 27 2022 20:07:40 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+[MC]-[WETH] Uni LP [+] [-] [<=>] Price: $165.09 TVL: $46,865,727.03
+MC Price: $2.17
+WETH Price: $2,475.34
+Staked: 248507.5251 UNI-V2 ($41,025,944.97)
+You are staking 0.000000 [MC]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [MC]-[WETH] Uni LP
+Unstake 0.000000 [MC]-[WETH] Uni LP
+Claim 0.000000 MC ($0.00)
+Revoke (set approval to 0)
+Exit
+
+MC Price: $2.17 Market Cap: $2,143,327,403.77 [%]
+Staked: 24587798.5372 MC ($53,355,522.83)
+You are staking 0.000000 MC $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 MC
+Unstake 0.000000 MC
+Claim 0.000000 MC ($0.00)
+Revoke (set approval to 0)
+Exit
+
+Total staked: $94,381,467.80

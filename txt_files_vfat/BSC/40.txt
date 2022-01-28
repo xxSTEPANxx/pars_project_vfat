@@ -1,0 +1,572 @@
+*************** 👨‍🌾 UNOFFICIAL BEEFY FINANCE FARMING CALCULATOR 👨‍🌾 *****************
+INFO  : https://app.beefy.finance
+************************************************************************************
+
+Thu Jan 27 2022 20:22:00 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+mooBIFI (Wrapped BIFI) Price: $1,951.58 TVL: $21,677,136.71
+You are staking 0.0000 mooBIFI (Wrapped BIFI) ($0.00), 0.00% of the pool.
+
+mooPancakeBADGER-BTCB (Wrapped [bBADGER]-[BTCB] Cake LP) Price: $NaN.N TVL: $NaN.N
+You are staking 0.0000 mooPancakeBADGER-BTCB (Wrapped [bBADGER]-[BTCB] Cake LP) ($0.00), NaN% of the pool.
+
+mooPancakeBDIGG-BTCB (Wrapped [bDIGG]-[BTCB] Cake LP) Price: $56,711.93 TVL: $2.32
+You are staking 0.0000 mooPancakeBDIGG-BTCB (Wrapped [bDIGG]-[BTCB] Cake LP) ($0.00), 0.00% of the pool.
+
+mooPumpyPMP-BNB (Wrapped [PMP]-[WBNB] Cake LP) Price: $23.69 TVL: $1,864.65
+You are staking 0.0000 mooPumpyPMP-BNB (Wrapped [PMP]-[WBNB] Cake LP) ($0.00), 0.00% of the pool.
+
+mooPancakeBIFI-BNB (Wrapped [WBNB]-[BIFI] Cake LP) Price: $3,428.29 TVL: $44,672.20
+You are staking 0.0000 mooPancakeBIFI-BNB (Wrapped [WBNB]-[BIFI] Cake LP) ($0.00), 0.00% of the pool.
+
+mooJulTWT-BNB (Wrapped [TWT]-[WBNB] SLP) Price: $37.00 TVL: $35.49
+You are staking 0.0000 mooJulTWT-BNB (Wrapped [TWT]-[WBNB] SLP) ($0.00), 0.00% of the pool.
+
+mooJulVIDT-BNB (Wrapped [VIDT]-[WBNB] SLP) Price: $NaN.N TVL: $NaN.N
+You are staking 0.0000 mooJulVIDT-BNB (Wrapped [VIDT]-[WBNB] SLP) ($0.00), NaN% of the pool.
+
+mooBlizzardBLZD-BNB (Wrapped [BLZD]-[WBNB] Cake LP) Price: $209.68 TVL: $1,736.44
+You are staking 0.0000 mooBlizzardBLZD-BNB (Wrapped [BLZD]-[WBNB] Cake LP) ($0.00), 0.00% of the pool.
+
+mooBlizzardBLZD-BUSD (Wrapped [BLZD]-[BUSD] Cake LP) Price: $11.66 TVL: $7,647.29
+You are staking 0.0000 mooBlizzardBLZD-BUSD (Wrapped [BLZD]-[BUSD] Cake LP) ($0.00), 0.00% of the pool.
+
+mooBlizzardBLZD (Wrapped BLZD) Price: $2.52 TVL: $151.73
+You are staking 0.0000 mooBlizzardBLZD (Wrapped BLZD) ($0.00), 0.00% of the pool.
+
+mooVenusETH (Wrapped ETH) Price: $2,599.71 TVL: $58,240.51
+You are staking 0.0000 mooVenusETH (Wrapped ETH) ($0.00), 0.00% of the pool.
+
+mooComplusCOM-BNB (Wrapped [COM]-[WBNB] Uni LP) Price: $2.16 TVL: $755.79
+You are staking 0.0000 mooComplusCOM-BNB (Wrapped [COM]-[WBNB] Uni LP) ($0.00), 0.00% of the pool.
+
+mooBeltVenusBLP (Wrapped Belt.fi bDAI/bUSDC/bUSDT/bBUSD) Price: $0.00 TVL: $0.00
+You are staking 0.0000 mooBeltVenusBLP (Wrapped Belt.fi bDAI/bUSDC/bUSDT/bBUSD) ($0.00), NaN% of the pool.
+
+mooPancakeDUSK-BNB (Wrapped [DUSK]-[WBNB] Cake LP) Price: $44.77 TVL: $261.46
+You are staking 0.0000 mooPancakeDUSK-BNB (Wrapped [DUSK]-[WBNB] Cake LP) ($0.00), 0.00% of the pool.
+
+mooPancakeCOS-BNB (Wrapped [COS]-[WBNB] Cake LP) Price: $6.59 TVL: $10.07
+You are staking 0.0000 mooPancakeCOS-BNB (Wrapped [COS]-[WBNB] Cake LP) ($0.00), 0.00% of the pool.
+
+mooPancakeTXL-BUSD (Wrapped [TXL]-[BUSD] Cake LP) Price: $NaN.N TVL: $NaN.N
+You are staking 0.0000 mooPancakeTXL-BUSD (Wrapped [TXL]-[BUSD] Cake LP) ($0.00), NaN% of the pool.
+
+mooSquirrelNUTS-BNB (Wrapped [NUTS]-[WBNB] Cake LP) Price: $28.70 TVL: $50.60
+You are staking 0.0000 mooSquirrelNUTS-BNB (Wrapped [NUTS]-[WBNB] Cake LP) ($0.00), 0.00% of the pool.
+
+mooSquirrelNUTS (Wrapped NUTS) Price: $0.30 TVL: $1,866.05
+You are staking 0.0000 mooSquirrelNUTS (Wrapped NUTS) ($0.00), 0.00% of the pool.
+
+mooBakeryBAT-BAKE (Wrapped [BAT]-[BAKE] BLP) Price: $1.96 TVL: $4,373.99
+You are staking 0.0000 mooBakeryBAT-BAKE (Wrapped [BAT]-[BAKE] BLP) ($0.00), 0.00% of the pool.
+
+mooMemefarmAPE-BNB (Wrapped [APE]-[WBNB] Cake LP) Price: $30.11 TVL: $4.14
+You are staking 0.0000 mooMemefarmAPE-BNB (Wrapped [APE]-[WBNB] Cake LP) ($0.00), 0.00% of the pool.
+
+mooMemefarmMFRM-BNB (Wrapped [MFRM]-[WBNB] Cake LP) Price: $6.68 TVL: $520.56
+You are staking 0.0000 mooMemefarmMFRM-BNB (Wrapped [MFRM]-[WBNB] Cake LP) ($0.00), 0.00% of the pool.
+
+mooSlimeSLIME-BUSD (Wrapped [SLME]-[BUSD] Cake LP) Price: $1.47 TVL: $718.86
+You are staking 0.0000 mooSlimeSLIME-BUSD (Wrapped [SLME]-[BUSD] Cake LP) ($0.00), 0.00% of the pool.
+
+mooSlimeSLIME-BNB (Wrapped [SLME]-[WBNB] Cake LP) Price: $23.69 TVL: $786.19
+You are staking 0.0000 mooSlimeSLIME-BNB (Wrapped [SLME]-[WBNB] Cake LP) ($0.00), 0.00% of the pool.
+
+mooPancakeALICE-BNB (Wrapped [ALICE]-[WBNB] Cake LP) Price: $139,245,022.84 TVL: $296.31
+You are staking 0.0000 mooPancakeALICE-BNB (Wrapped [ALICE]-[WBNB] Cake LP) ($0.00), 0.00% of the pool.
+
+mooAutoBETH-ETH (Wrapped [ETH]-[BETH] Cake LP) Price: $5,019.51 TVL: $1,692.73
+You are staking 0.0000 mooAutoBETH-ETH (Wrapped [ETH]-[BETH] Cake LP) ($0.00), 0.00% of the pool.
+
+mooAutoWbnbFixed (Wrapped WBNB) Price: $392.13 TVL: $94,573.85
+You are staking 0.0000 mooAutoWbnbFixed (Wrapped WBNB) ($0.00), 0.00% of the pool.
+
+mooBeltBELT-BNB (Wrapped [WBNB]-[BELT] Cake LP) Price: $98.78 TVL: $2,264.44
+You are staking 0.0000 mooBeltBELT-BNB (Wrapped [WBNB]-[BELT] Cake LP) ($0.00), 0.00% of the pool.
+
+mooPancakeNULS-BUSD (Wrapped [NULS]-[BUSD] Cake LP) Price: $NaN.N TVL: $NaN.N
+You are staking 0.0000 mooPancakeNULS-BUSD (Wrapped [NULS]-[BUSD] Cake LP) ($0.00), NaN% of the pool.
+
+mooApeBANANA (Wrapped BANANA) Price: $2.05 TVL: $133,209.66
+You are staking 0.0000 mooApeBANANA (Wrapped BANANA) ($0.00), 0.00% of the pool.
+
+mooPancakeBELT-BNB (Wrapped [WBNB]-[BELT] Cake LP) Price: $174.10 TVL: $11.49
+You are staking 0.0000 mooPancakeBELT-BNB (Wrapped [WBNB]-[BELT] Cake LP) ($0.00), 0.00% of the pool.
+
+mooPancakeRAMP-BUSD (Wrapped [RAMP]-[BUSD] Cake LP) Price: $NaN.N TVL: $NaN.N
+You are staking 0.0000 mooPancakeRAMP-BUSD (Wrapped [RAMP]-[BUSD] Cake LP) ($0.00), NaN% of the pool.
+
+mooJulBTCB-BNB (Wrapped [BTCB]-[WBNB] SLP) Price: $NaN.N TVL: $NaN.N
+You are staking 0.0000 mooJulBTCB-BNB (Wrapped [BTCB]-[WBNB] SLP) ($0.00), NaN% of the pool.
+
+mooJulUNI-BNB (Wrapped [WBNB]-[UNI] SLP) Price: $NaN.N TVL: $NaN.N
+You are staking 0.0000 mooJulUNI-BNB (Wrapped [WBNB]-[UNI] SLP) ($0.00), NaN% of the pool.
+
+mooJulDOT-BNB (Wrapped [DOT]-[WBNB] SLP) Price: $4,330.70 TVL: $1.20
+You are staking 0.0000 mooJulDOT-BNB (Wrapped [DOT]-[WBNB] SLP) ($0.00), 0.00% of the pool.
+
+mooJulXVS-BNB (Wrapped [WBNB]-[XVS] SLP) Price: $NaN.N TVL: $NaN.N
+You are staking 0.0000 mooJulXVS-BNB (Wrapped [WBNB]-[XVS] SLP) ($0.00), NaN% of the pool.
+
+mooAutoAUTO-BNB (Wrapped [AUTO]-[WBNB] Cake LP) Price: $1,637.84 TVL: $239,883.16
+You are staking 0.0000 mooAutoAUTO-BNB (Wrapped [AUTO]-[WBNB] Cake LP) ($0.00), 0.00% of the pool.
+
+mooAutoCakeFixed (Wrapped Cake) Price: $10.78 TVL: $364,208.43
+You are staking 0.0000 mooAutoCakeFixed (Wrapped Cake) ($0.00), 0.00% of the pool.
+
+mooAutoBUSD-BNB (Wrapped [WBNB]-[BUSD] Cake LP) Price: $72.82 TVL: $155.60
+You are staking 0.0000 mooAutoBUSD-BNB (Wrapped [WBNB]-[BUSD] Cake LP) ($0.00), 0.00% of the pool.
+
+mooAutoBTC-BNB (Wrapped [BTCB]-[WBNB] Cake LP) Price: $8,862.66 TVL: $9,838.52
+You are staking 0.0000 mooAutoBTC-BNB (Wrapped [BTCB]-[WBNB] Cake LP) ($0.00), 0.00% of the pool.
+
+mooAutoCAKE-BNB (Wrapped [Cake]-[WBNB] Cake LP) Price: $144.39 TVL: $710,137.46
+You are staking 0.0000 mooAutoCAKE-BNB (Wrapped [Cake]-[WBNB] Cake LP) ($0.00), 0.00% of the pool.
+
+mooVenusBTC (Wrapped BTCB) Price: $38,568.22 TVL: $38,267.56
+You are staking 0.0000 mooVenusBTC (Wrapped BTCB) ($0.00), 0.00% of the pool.
+
+mooPancakeDEXE-BUSD (Wrapped [DEXE]-[BUSD] Cake LP) Price: $8.42 TVL: $32.28
+You are staking 0.0000 mooPancakeDEXE-BUSD (Wrapped [DEXE]-[BUSD] Cake LP) ($0.00), 0.00% of the pool.
+
+mooJulBIFI-BNB (Wrapped [WBNB]-[BIFI] SLP) Price: $2,278.97 TVL: $2,425.40
+You are staking 0.0000 mooJulBIFI-BNB (Wrapped [WBNB]-[BIFI] SLP) ($0.00), 0.00% of the pool.
+
+mooJulJulD-BNB (Wrapped [JulD]-[WBNB] SLP) Price: $16.05 TVL: $2,096.38
+You are staking 0.0000 mooJulJulD-BNB (Wrapped [JulD]-[WBNB] SLP) ($0.00), 0.00% of the pool.
+
+mooVenusADA (Wrapped ADA) Price: $1.05 TVL: $1,970.19
+You are staking 0.0000 mooVenusADA (Wrapped ADA) ($0.00), 0.00% of the pool.
+
+mooPancakeBEL-BNB (Wrapped [BEL]-[WBNB] Cake LP) Price: $118.33 TVL: $115.83
+You are staking 0.0000 mooPancakeBEL-BNB (Wrapped [BEL]-[WBNB] Cake LP) ($0.00), 0.00% of the pool.
+
+mooPancakeTPT-BUSD (Wrapped [BUSD]-[TPT] Cake LP) Price: $3,954,722.35 TVL: $118.36
+You are staking 0.0000 mooPancakeTPT-BUSD (Wrapped [BUSD]-[TPT] Cake LP) ($0.00), 0.00% of the pool.
+
+mooPancakeWATCH-BNB (Wrapped [WATCH]-[WBNB] Cake LP) Price: $17.86 TVL: $479.93
+You are staking 0.0000 mooPancakeWATCH-BNB (Wrapped [WATCH]-[WBNB] Cake LP) ($0.00), 0.00% of the pool.
+
+mooPancakeXMARK-BUSD (Wrapped [xMARK]-[BUSD] Cake LP) Price: $16,776.87 TVL: $244.13
+You are staking 0.0000 mooPancakeXMARK-BUSD (Wrapped [xMARK]-[BUSD] Cake LP) ($0.00), 0.00% of the pool.
+
+mooSoupSoup-BNB (Wrapped [SOUP]-[WBNB] Cake LP) Price: $436.49 TVL: $25,899.32
+You are staking 0.0000 mooSoupSoup-BNB (Wrapped [SOUP]-[WBNB] Cake LP) ($0.00), 0.00% of the pool.
+
+mooSoupSoups-BNB (Wrapped [SOUPS]-[WBNB] Cake LP) Price: $74.49 TVL: $404.66
+You are staking 0.0000 mooSoupSoups-BNB (Wrapped [SOUPS]-[WBNB] Cake LP) ($0.00), 0.00% of the pool.
+
+mooApeBANANA-BNB (Wrapped [BANANA]-[WBNB] APE LP) Price: $236.82 TVL: $8,528,197.29
+You are staking 0.0000 mooApeBANANA-BNB (Wrapped [BANANA]-[WBNB] APE LP) ($0.00), 0.00% of the pool.
+
+mooApeBANANA-BUSD (Wrapped [BANANA]-[BUSD] APE LP) Price: $13.40 TVL: $1,585,830.96
+You are staking 0.0000 mooApeBANANA-BUSD (Wrapped [BANANA]-[BUSD] APE LP) ($0.00), 0.00% of the pool.
+
+mooPancakeBMXX-BNB (Wrapped [bMXX]-[WBNB] Cake LP) Price: $7.25 TVL: $1.86
+You are staking 0.0000 mooPancakeBMXX-BNB (Wrapped [bMXX]-[WBNB] Cake LP) ($0.00), 0.00% of the pool.
+
+moo1INCH1INCH-BNB (Wrapped 1LP-ETH-1INCH) Price: $0.00 TVL: $0.00
+You are staking 0.0000 moo1INCH1INCH-BNB (Wrapped 1LP-ETH-1INCH) ($0.00), NaN% of the pool.
+
+mooPancakeIOTX-BUSD (Wrapped [IOTX]-[BUSD] Cake LP) Price: $1.53 TVL: $3,253.39
+You are staking 0.0000 mooPancakeIOTX-BUSD (Wrapped [IOTX]-[BUSD] Cake LP) ($0.00), 0.00% of the pool.
+
+mooPancakeLINA-BUSD (Wrapped [LINA]-[BUSD] Cake LP) Price: $0.48 TVL: $92.30
+You are staking 0.0000 mooPancakeLINA-BUSD (Wrapped [LINA]-[BUSD] Cake LP) ($0.00), 0.00% of the pool.
+
+mooPancakeDAI-BUSD (Wrapped [DAI]-[BUSD] Cake LP) Price: $6.08 TVL: $739.41
+You are staking 0.0000 mooPancakeDAI-BUSD (Wrapped [DAI]-[BUSD] Cake LP) ($0.00), 0.00% of the pool.
+
+mooSpongeSTEAM-BNB (Wrapped [STEAM]-[WBNB] Cake LP) Price: $40.69 TVL: $877.26
+You are staking 0.0000 mooSpongeSTEAM-BNB (Wrapped [STEAM]-[WBNB] Cake LP) ($0.00), 0.00% of the pool.
+
+mooSaltSalt-BUSD (Wrapped [SALT]-[BUSD] Cake LP) Price: $1.56 TVL: $61,104.81
+You are staking 0.0000 mooSaltSalt-BUSD (Wrapped [SALT]-[BUSD] Cake LP) ($0.00), 0.00% of the pool.
+
+mooSaltSalt-BNB (Wrapped [SALT]-[WBNB] Cake LP) Price: $23.84 TVL: $64,028.46
+You are staking 0.0000 mooSaltSalt-BNB (Wrapped [SALT]-[WBNB] Cake LP) ($0.00), 0.00% of the pool.
+
+mooPancakeSUSHI-ETH (Wrapped [ETH]-[SUSHI] Cake LP) Price: $1,577.46 TVL: $327.58
+You are staking 0.0000 mooPancakeSUSHI-ETH (Wrapped [ETH]-[SUSHI] Cake LP) ($0.00), 0.00% of the pool.
+
+mooCrowCROW-BUSD (Wrapped [CROW]-[BUSD] Cake LP) Price: $4.45 TVL: $7.36
+You are staking 0.0000 mooCrowCROW-BUSD (Wrapped [CROW]-[BUSD] Cake LP) ($0.00), 0.00% of the pool.
+
+mooCrowCROW-BNB (Wrapped [WBNB]-[CROW] Cake LP) Price: $85.54 TVL: $20.68
+You are staking 0.0000 mooCrowCROW-BNB (Wrapped [WBNB]-[CROW] Cake LP) ($0.00), 0.00% of the pool.
+
+mooRamenRamen-BNB (Wrapped [Ramen]-[WBNB] Cake LP) Price: $77.41 TVL: $225,821.03
+You are staking 0.0000 mooRamenRamen-BNB (Wrapped [Ramen]-[WBNB] Cake LP) ($0.00), 0.00% of the pool.
+
+mooRamenRamen-BUSD (Wrapped [Ramen]-[BUSD] Cake LP) Price: $4.30 TVL: $164,694.11
+You are staking 0.0000 mooRamenRamen-BUSD (Wrapped [Ramen]-[BUSD] Cake LP) ($0.00), 0.00% of the pool.
+
+mooCafeBREW-BUSD (Wrapped [BREW]-[BUSD] Cake LP) Price: $0.92 TVL: $934.37
+You are staking 0.0000 mooCafeBREW-BUSD (Wrapped [BREW]-[BUSD] Cake LP) ($0.00), 0.00% of the pool.
+
+mooCafeBREW-BNB (Wrapped [BREW]-[WBNB] Cake LP) Price: $NaN.N TVL: $NaN.N
+You are staking 0.0000 mooCafeBREW-BNB (Wrapped [BREW]-[WBNB] Cake LP) ($0.00), NaN% of the pool.
+
+mooCafeBIFI-BNB (Wrapped [WBNB]-[BIFI] Cake LP) Price: $3,707.93 TVL: $456.69
+You are staking 0.0000 mooCafeBIFI-BNB (Wrapped [WBNB]-[BIFI] Cake LP) ($0.00), 0.00% of the pool.
+
+mooPancakeBRYBNB (Wrapped [WBNB]-[BRY] Cake LP) Price: $39.53 TVL: $626.22
+You are staking 0.0000 mooPancakeBRYBNB (Wrapped [WBNB]-[BRY] Cake LP) ($0.00), 0.00% of the pool.
+
+mooPancakeZEEBNB (Wrapped [ZEE]-[WBNB] Cake LP) Price: $23.09 TVL: $15.15
+You are staking 0.0000 mooPancakeZEEBNB (Wrapped [ZEE]-[WBNB] Cake LP) ($0.00), 0.00% of the pool.
+
+mooPancakeXTZBNB (Wrapped [XTZ]-[WBNB] Cake LP) Price: $NaN.N TVL: $NaN.N
+You are staking 0.0000 mooPancakeXTZBNB (Wrapped [XTZ]-[WBNB] Cake LP) ($0.00), NaN% of the pool.
+
+mooPancakeBCHBNB (Wrapped [BCH]-[WBNB] Cake LP) Price: $NaN.N TVL: $NaN.N
+You are staking 0.0000 mooPancakeBCHBNB (Wrapped [BCH]-[WBNB] Cake LP) ($0.00), NaN% of the pool.
+
+mooPancakeDODO-BNB (Wrapped [DODO]-[WBNB] Cake LP) Price: $35.03 TVL: $32.10
+You are staking 0.0000 mooPancakeDODO-BNB (Wrapped [DODO]-[WBNB] Cake LP) ($0.00), 0.00% of the pool.
+
+mooPancakeSWINGBY-BNB (Wrapped [SWINGBY]-[WBNB] Cake LP) Price: $8.89 TVL: $36.12
+You are staking 0.0000 mooPancakeSWINGBY-BNB (Wrapped [SWINGBY]-[WBNB] Cake LP) ($0.00), 0.00% of the pool.
+
+mooKebabUSDT-BNB (Wrapped [USDT]-[BUSD] Cake LP) Price: $2.42 TVL: $1,443.94
+You are staking 0.0000 mooKebabUSDT-BNB (Wrapped [USDT]-[BUSD] Cake LP) ($0.00), 0.00% of the pool.
+
+mooKebabETH-BTCB (Wrapped [ETH]-[BTCB] Cake LP) Price: $24,345.87 TVL: $51,095.07
+You are staking 0.0000 mooKebabETH-BTCB (Wrapped [ETH]-[BTCB] Cake LP) ($0.00), 0.00% of the pool.
+
+mooMonsterMSC-BUSD (Wrapped [MSC]-[BUSD] Cake LP) Price: $4.04 TVL: $14,294.57
+You are staking 0.0000 mooMonsterMSC-BUSD (Wrapped [MSC]-[BUSD] Cake LP) ($0.00), 0.00% of the pool.
+
+mooMonsterMSC-BNB (Wrapped [MSC]-[WBNB] Cake LP) Price: $22.34 TVL: $88,073.08
+You are staking 0.0000 mooMonsterMSC-BNB (Wrapped [MSC]-[WBNB] Cake LP) ($0.00), 0.00% of the pool.
+
+mooBoltDollarBTS-BUSD (Wrapped [BTS]-[BUSD] Cake LP) Price: $232.70 TVL: $350,569.47
+You are staking 0.0000 mooBoltDollarBTS-BUSD (Wrapped [BTS]-[BUSD] Cake LP) ($0.00), 0.00% of the pool.
+
+mooBoltDollarBTD-BUSD (Wrapped [BTD]-[BUSD] Cake LP) Price: $1.61 TVL: $135,859.06
+You are staking 0.0000 mooBoltDollarBTD-BUSD (Wrapped [BTD]-[BUSD] Cake LP) ($0.00), 0.00% of the pool.
+
+mooAutoBtc (Wrapped BTCB) Price: $36,827.03 TVL: $790.34
+You are staking 0.0000 mooAutoBtc (Wrapped BTCB) ($0.00), 0.00% of the pool.
+
+mooAutoEth (Wrapped ETH) Price: $2,480.00 TVL: $1,008.40
+You are staking 0.0000 mooAutoEth (Wrapped ETH) ($0.00), 0.00% of the pool.
+
+mooAutoBusdFixed (Wrapped BUSD) Price: $1.01 TVL: $748.35
+You are staking 0.0000 mooAutoBusdFixed (Wrapped BUSD) ($0.00), 0.00% of the pool.
+
+mooAutoUsdt (Wrapped USDT) Price: $1.01 TVL: $109.60
+You are staking 0.0000 mooAutoUsdt (Wrapped USDT) ($0.00), 0.00% of the pool.
+
+mooKebabKEBAB-BTCB (Wrapped [BTCB]-[KEBAB] Cake LP) Price: $448.62 TVL: $96,274.80
+You are staking 0.0000 mooKebabKEBAB-BTCB (Wrapped [BTCB]-[KEBAB] Cake LP) ($0.00), 0.00% of the pool.
+
+mooPancakeSWGB-BNB (Wrapped [WBNB]-[SWGb] Cake LP) Price: $2.11 TVL: $171.09
+You are staking 0.0000 mooPancakeSWGB-BNB (Wrapped [WBNB]-[SWGb] Cake LP) ($0.00), 0.00% of the pool.
+
+mooPancakeLIT-BNB (Wrapped [LIT]-[WBNB] Cake LP) Price: $67.00 TVL: $3,608.62
+You are staking 0.0000 mooPancakeLIT-BNB (Wrapped [LIT]-[WBNB] Cake LP) ($0.00), 0.00% of the pool.
+
+mooPancakeHARD-BNB (Wrapped [WBNB]-[HARD] Cake LP) Price: $NaN.N TVL: $NaN.N
+You are staking 0.0000 mooPancakeHARD-BNB (Wrapped [WBNB]-[HARD] Cake LP) ($0.00), NaN% of the pool.
+
+mooKebabBIFI-BUSD (Wrapped [BIFI]-[BUSD] Cake LP) Price: $147.01 TVL: $35,810.91
+You are staking 0.0000 mooKebabBIFI-BUSD (Wrapped [BIFI]-[BUSD] Cake LP) ($0.00), 0.00% of the pool.
+
+mooPancakeDITTO-BNB (Wrapped [DITTO]-[WBNB] Cake LP) Price: $347,583.67 TVL: $505.80
+You are staking 0.0000 mooPancakeDITTO-BNB (Wrapped [DITTO]-[WBNB] Cake LP) ($0.00), 0.00% of the pool.
+
+mooAutoCake (Wrapped Cake) Price: $15.31 TVL: $7,102.65
+You are staking 0.0000 mooAutoCake (Wrapped Cake) ($0.00), 0.00% of the pool.
+
+mooAutoBusd (Wrapped BUSD) Price: $1.20 TVL: $21.46
+You are staking 0.0000 mooAutoBusd (Wrapped BUSD) ($0.00), 0.00% of the pool.
+
+mooSpongeSPG-BNB (Wrapped [SPG]-[WBNB] Cake LP) Price: $3,164,788.32 TVL: $730.14
+You are staking 0.0000 mooSpongeSPG-BNB (Wrapped [SPG]-[WBNB] Cake LP) ($0.00), 0.00% of the pool.
+
+mooSpongeSOAK-BNB (Wrapped [SOAK]-[WBNB] Cake LP) Price: $12.46 TVL: $5,703.95
+You are staking 0.0000 mooSpongeSOAK-BNB (Wrapped [SOAK]-[WBNB] Cake LP) ($0.00), 0.00% of the pool.
+
+mooPancakeSFP-BNB (Wrapped [WBNB]-[SFP] Cake LP) Price: $54.71 TVL: $1,227.15
+You are staking 0.0000 mooPancakeSFP-BNB (Wrapped [WBNB]-[SFP] Cake LP) ($0.00), 0.00% of the pool.
+
+mooNyacashNYAS-USDT (Wrapped [USDT]-[NYAS] Uni LP) Price: $0.13 TVL: $87.81
+You are staking 0.0000 mooNyacashNYAS-USDT (Wrapped [USDT]-[NYAS] Uni LP) ($0.00), 0.00% of the pool.
+
+mooMonsterMSS-BUSD (Wrapped [MSS]-[BUSD] Cake LP) Price: $16.55 TVL: $51,315.41
+You are staking 0.0000 mooMonsterMSS-BUSD (Wrapped [MSS]-[BUSD] Cake LP) ($0.00), 0.00% of the pool.
+
+mooJulJULD (Wrapped JulD) Price: $0.02 TVL: $685.37
+You are staking 0.0000 mooJulJULD (Wrapped JulD) ($0.00), 0.00% of the pool.
+
+mooPancakeBDO-BNB (Wrapped [BDO]-[WBNB] Cake LP) Price: $8.39 TVL: $39.37
+You are staking 0.0000 mooPancakeBDO-BNB (Wrapped [BDO]-[WBNB] Cake LP) ($0.00), 0.00% of the pool.
+
+mooKebab (Wrapped KEBAB) Price: $0.00 TVL: $0.00
+You are staking 0.0000 mooKebab (Wrapped KEBAB) ($0.00), NaN% of the pool.
+
+mooKebabKEBAB-BUSD (Wrapped [KEBAB]-[BUSD] Cake LP) Price: $2.47 TVL: $115,709.51
+You are staking 0.0000 mooKebabKEBAB-BUSD (Wrapped [KEBAB]-[BUSD] Cake LP) ($0.00), 0.00% of the pool.
+
+mooKebabKEBAB-BNB (Wrapped [KEBAB]-[WBNB] Cake LP) Price: $35.48 TVL: $17,471.58
+You are staking 0.0000 mooKebabKEBAB-BNB (Wrapped [KEBAB]-[WBNB] Cake LP) ($0.00), 0.00% of the pool.
+
+mooPancakeEGLD-BNB (Wrapped [WBNB]-[EGLD] Cake LP) Price: $741.13 TVL: $1,000.48
+You are staking 0.0000 mooPancakeEGLD-BNB (Wrapped [WBNB]-[EGLD] Cake LP) ($0.00), 0.00% of the pool.
+
+mooStreetMAMZN-UST (Wrapped [UST]-[mAMZN] Cake LP) Price: $186.01 TVL: $1.99
+You are staking 0.0000 mooStreetMAMZN-UST (Wrapped [UST]-[mAMZN] Cake LP) ($0.00), 0.00% of the pool.
+
+mooStreetMGOOGL-UST (Wrapped [UST]-[mGOOGL] Cake LP) Price: $161.06 TVL: $4.78
+You are staking 0.0000 mooStreetMGOOGL-UST (Wrapped [UST]-[mGOOGL] Cake LP) ($0.00), 0.00% of the pool.
+
+mooStreetMNFLX-UST (Wrapped [UST]-[mNFLX] Cake LP) Price: $66.21 TVL: $1.94
+You are staking 0.0000 mooStreetMNFLX-UST (Wrapped [UST]-[mNFLX] Cake LP) ($0.00), 0.00% of the pool.
+
+mooStreetMTSLA-UST (Wrapped [UST]-[mTSLA] Cake LP) Price: $91.54 TVL: $767.82
+You are staking 0.0000 mooStreetMTSLA-UST (Wrapped [UST]-[mTSLA] Cake LP) ($0.00), 0.00% of the pool.
+
+mooPancakeSWOTE-BNB (Wrapped [wSOTE]-[WBNB] Cake LP) Price: $15.11 TVL: $49.40
+You are staking 0.0000 mooPancakeSWOTE-BNB (Wrapped [wSOTE]-[WBNB] Cake LP) ($0.00), 0.00% of the pool.
+
+mooPancakeFRONT-BNB (Wrapped [FRONT]-[WBNB] Cake LP) Price: $62.52 TVL: $1,241.85
+You are staking 0.0000 mooPancakeFRONT-BNB (Wrapped [FRONT]-[WBNB] Cake LP) ($0.00), 0.00% of the pool.
+
+mooPancakeBTCST-BNB (Wrapped [BTCST]-[WBNB] Cake LP) Price: $912.80 TVL: $7,770.64
+You are staking 0.0000 mooPancakeBTCST-BNB (Wrapped [BTCST]-[WBNB] Cake LP) ($0.00), 0.00% of the pool.
+
+mooBHC (Wrapped BHC) Price: $0.00 TVL: $0.00
+You are staking 0.0000 mooBHC (Wrapped BHC) ($0.00), NaN% of the pool.
+
+mooDrugsBTRI (Wrapped DRUGS) Price: $0.00 TVL: $0.00
+You are staking 0.0000 mooDrugsBTRI (Wrapped DRUGS) ($0.00), NaN% of the pool.
+
+mooPancakeADA-BNB (Wrapped [ADA]-[WBNB] Cake LP) Price: $59.83 TVL: $9.61
+You are staking 0.0000 mooPancakeADA-BNB (Wrapped [ADA]-[WBNB] Cake LP) ($0.00), 0.00% of the pool.
+
+mooBakeryBAKE-BUSD (Wrapped [BAKE]-[BUSD] BLP) Price: $4.17 TVL: $10,408.82
+You are staking 0.0000 mooBakeryBAKE-BUSD (Wrapped [BAKE]-[BUSD] BLP) ($0.00), 0.00% of the pool.
+
+mooJetFuelPancakeLPVAPOR-BNB (Wrapped [VAPOR]-[WBNB] Cake LP) Price: $54,876.02 TVL: $770.24
+You are staking 0.0000 mooJetFuelPancakeLPVAPOR-BNB (Wrapped [VAPOR]-[WBNB] Cake LP) ($0.00), 0.00% of the pool.
+
+mooBdollarBDO-BNB (Wrapped [BDO]-[WBNB] Cake LP) Price: $19.14 TVL: $2,515.74
+You are staking 0.0000 mooBdollarBDO-BNB (Wrapped [BDO]-[WBNB] Cake LP) ($0.00), 0.00% of the pool.
+
+mooBdollarBDO-BNB (Wrapped [BDO]-[WBNB] Cake LP) Price: $5.04 TVL: $53.67
+You are staking 0.0000 mooBdollarBDO-BNB (Wrapped [BDO]-[WBNB] Cake LP) ($0.00), 0.00% of the pool.
+
+mooBDollarSBDO-BUSD (Wrapped [sBDO]-[BUSD] Cake LP) Price: $42.03 TVL: $8,756.69
+You are staking 0.0000 mooBDollarSBDO-BUSD (Wrapped [sBDO]-[BUSD] Cake LP) ($0.00), 0.00% of the pool.
+
+mooBDollarBDO-BUSD (Wrapped [BDO]-[BUSD] Cake LP) Price: $0.89 TVL: $17,863.86
+You are staking 0.0000 mooBDollarBDO-BUSD (Wrapped [BDO]-[BUSD] Cake LP) ($0.00), 0.00% of the pool.
+
+mooVenusBETH (Wrapped BETH) Price: $2,591.29 TVL: $14,155.94
+You are staking 0.0000 mooVenusBETH (Wrapped BETH) ($0.00), 0.00% of the pool.
+
+mooVenusDAI (Wrapped DAI) Price: $1.08 TVL: $2.08
+You are staking 0.0000 mooVenusDAI (Wrapped DAI) ($0.00), 0.00% of the pool.
+
+mooVenusFIL (Wrapped FIL) Price: $20.99 TVL: $4,316.92
+You are staking 0.0000 mooVenusFIL (Wrapped FIL) ($0.00), 0.00% of the pool.
+
+mooPancakebALBT-BNB (Wrapped [bALBT]-[WBNB] Cake LP) Price: $47.59 TVL: $53.05
+You are staking 0.0000 mooPancakebALBT-BNB (Wrapped [bALBT]-[WBNB] Cake LP) ($0.00), 0.00% of the pool.
+
+mooBakeryBTC-BNB (Wrapped [BTCB]-[WBNB] BLP) Price: $12,262.57 TVL: $340.74
+You are staking 0.0000 mooBakeryBTC-BNB (Wrapped [BTCB]-[WBNB] BLP) ($0.00), 0.00% of the pool.
+
+mooStreetBHC-BNB (Wrapped [BHC]-[WBNB] Trisolaris LP Token) Price: $389.67 TVL: $17,851.47
+You are staking 0.0000 mooStreetBHC-BNB (Wrapped [BHC]-[WBNB] Trisolaris LP Token) ($0.00), 0.00% of the pool.
+
+mooPancakeREEF-BNB (Wrapped [WBNB]-[REEF] Cake LP) Price: $6.14 TVL: $701.37
+You are staking 0.0000 mooPancakeREEF-BNB (Wrapped [WBNB]-[REEF] Cake LP) ($0.00), 0.00% of the pool.
+
+mooPancakeSTAX-CAKE (Wrapped [STAX]-[Cake] Cake LP) Price: $22.85 TVL: $0.31
+You are staking 0.0000 mooPancakeSTAX-CAKE (Wrapped [STAX]-[Cake] Cake LP) ($0.00), 0.00% of the pool.
+
+mooPancakeNAR-CAKE (Wrapped [Cake]-[NAR] Cake LP) Price: $12.49 TVL: $4.58
+You are staking 0.0000 mooPancakeNAR-CAKE (Wrapped [Cake]-[NAR] Cake LP) ($0.00), 0.00% of the pool.
+
+mooPancakeNYA-CAKE (Wrapped [Cake]-[NYA] Cake LP) Price: $0.12 TVL: $24.36
+You are staking 0.0000 mooPancakeNYA-CAKE (Wrapped [Cake]-[NYA] Cake LP) ($0.00), 0.00% of the pool.
+
+mooDrugsGunsV2 (Wrapped DRUGS) Price: $0.00 TVL: $0.00
+You are staking 0.0000 mooDrugsGunsV2 (Wrapped DRUGS) ($0.00), NaN% of the pool.
+
+mooDrugsBHC (Wrapped DRUGS) Price: $0.00 TVL: $0.00
+You are staking 0.0000 mooDrugsBHC (Wrapped DRUGS) ($0.00), NaN% of the pool.
+
+mooDrugsJGN (Wrapped DRUGS) Price: $0.00 TVL: $0.00
+You are staking 0.0000 mooDrugsJGN (Wrapped DRUGS) ($0.00), NaN% of the pool.
+
+mooJetFuelStreetLP-FUEL-BNB (Wrapped [Fuel]-[WBNB] Trisolaris LP Token) Price: $1,348.15 TVL: $10,057.76
+You are staking 0.0000 mooJetFuelStreetLP-FUEL-BNB (Wrapped [Fuel]-[WBNB] Trisolaris LP Token) ($0.00), 0.00% of the pool.
+
+mooJetFuelPancakeLP-FUEL-BNB (Wrapped [Fuel]-[WBNB] Cake LP) Price: $991.64 TVL: $6,609.11
+You are staking 0.0000 mooJetFuelPancakeLP-FUEL-BNB (Wrapped [Fuel]-[WBNB] Cake LP) ($0.00), 0.00% of the pool.
+
+mooJetFuelStreetLP-BHC-BNB (Wrapped [BHC]-[WBNB] Trisolaris LP Token) Price: $735.10 TVL: $902.81
+You are staking 0.0000 mooJetFuelStreetLP-BHC-BNB (Wrapped [BHC]-[WBNB] Trisolaris LP Token) ($0.00), 0.00% of the pool.
+
+mooJetFuelPancakeLP-ETH-BNB (Wrapped [ETH]-[WBNB] Cake LP) Price: $2,872.68 TVL: $1,345.83
+You are staking 0.0000 mooJetFuelPancakeLP-ETH-BNB (Wrapped [ETH]-[WBNB] Cake LP) ($0.00), 0.00% of the pool.
+
+mooJetFuelPancakeLP-CAKE-BNB (Wrapped [Cake]-[WBNB] Cake LP) Price: $212.04 TVL: $7,978.63
+You are staking 0.0000 mooJetFuelPancakeLP-CAKE-BNB (Wrapped [Cake]-[WBNB] Cake LP) ($0.00), 0.00% of the pool.
+
+mooJetFuelPancakeLP-UNI-BNB (Wrapped [WBNB]-[UNI] Cake LP) Price: $199.76 TVL: $2,466.29
+You are staking 0.0000 mooJetFuelPancakeLP-UNI-BNB (Wrapped [WBNB]-[UNI] Cake LP) ($0.00), 0.00% of the pool.
+
+mooJetFuelPancakeLP-BUSD-BNB (Wrapped [WBNB]-[BUSD] Cake LP) Price: $93.37 TVL: $518.25
+You are staking 0.0000 mooJetFuelPancakeLP-BUSD-BNB (Wrapped [WBNB]-[BUSD] Cake LP) ($0.00), 0.00% of the pool.
+
+mooJetFuelPancakeLP-USDT-BNB (Wrapped [USDT]-[WBNB] Cake LP) Price: $142.87 TVL: $1,483.92
+You are staking 0.0000 mooJetFuelPancakeLP-USDT-BNB (Wrapped [USDT]-[WBNB] Cake LP) ($0.00), 0.00% of the pool.
+
+mooCakeSmart (Wrapped Cake) Price: $17.26 TVL: $38,556.22
+You are staking 0.0000 mooCakeSmart (Wrapped Cake) ($0.00), 0.00% of the pool.
+
+mooVenusDOT (Wrapped DOT) Price: $18.63 TVL: $684.11
+You are staking 0.0000 mooVenusDOT (Wrapped DOT) ($0.00), 0.00% of the pool.
+
+mooVenusLINK (Wrapped LINK) Price: $15.89 TVL: $3,558.65
+You are staking 0.0000 mooVenusLINK (Wrapped LINK) ($0.00), 0.00% of the pool.
+
+mooPancakeATOM-BNB (Wrapped [ATOM]-[WBNB] Cake LP) Price: $302.76 TVL: $266.84
+You are staking 0.0000 mooPancakeATOM-BNB (Wrapped [ATOM]-[WBNB] Cake LP) ($0.00), 0.00% of the pool.
+
+mooPancakeVAI-BUSD (Wrapped [VAI]-[BUSD] Cake LP) Price: $6.90 TVL: $379.50
+You are staking 0.0000 mooPancakeVAI-BUSD (Wrapped [VAI]-[BUSD] Cake LP) ($0.00), 0.00% of the pool.
+
+mooPancakeBROOBEE-CAKE (Wrapped [Cake]-[bROOBEE] Cake LP) Price: $0.59 TVL: $9.57
+You are staking 0.0000 mooPancakeBROOBEE-CAKE (Wrapped [Cake]-[bROOBEE] Cake LP) ($0.00), 0.00% of the pool.
+
+undefined Price: $0.00 TVL: $0.00
+You are staking 0.0000 undefined ($0.00), NaN% of the pool.
+
+undefined Price: $0.00 TVL: $0.00
+You are staking 0.0000 undefined ($0.00), NaN% of the pool.
+
+mooVenusSXP (Wrapped SXP) Price: $1.42 TVL: $439.97
+You are staking 0.0000 mooVenusSXP (Wrapped SXP) ($0.00), 0.00% of the pool.
+
+mooVenusUSDC (Wrapped USDC) Price: $1.17 TVL: $532.13
+You are staking 0.0000 mooVenusUSDC (Wrapped USDC) ($0.00), 0.00% of the pool.
+
+mooVenusUSDT (Wrapped USDT) Price: $1.09 TVL: $49.32
+You are staking 0.0000 mooVenusUSDT (Wrapped USDT) ($0.00), 0.00% of the pool.
+
+mooVenusBUSD (Wrapped BUSD) Price: $1.08 TVL: $7,527.13
+You are staking 0.0000 mooVenusBUSD (Wrapped BUSD) ($0.00), 0.00% of the pool.
+
+mooVenusLTC (Wrapped LTC) Price: $113.59 TVL: $351.75
+You are staking 0.0000 mooVenusLTC (Wrapped LTC) ($0.00), 0.00% of the pool.
+
+mooVenusXRP (Wrapped XRP) Price: $0.66 TVL: $1,963.83
+You are staking 0.0000 mooVenusXRP (Wrapped XRP) ($0.00), 0.00% of the pool.
+
+mooPancakeINJ-BNB (Wrapped [INJ]-[WBNB] Cake LP) Price: $278.36 TVL: $0.94
+You are staking 0.0000 mooPancakeINJ-BNB (Wrapped [INJ]-[WBNB] Cake LP) ($0.00), 0.00% of the pool.
+
+mooPancakeTWT-BNB (Wrapped [TWT]-[WBNB] Cake LP) Price: $50.80 TVL: $13,461.74
+You are staking 0.0000 mooPancakeTWT-BNB (Wrapped [TWT]-[WBNB] Cake LP) ($0.00), 0.00% of the pool.
+
+mooPancakeXVS-BNB (Wrapped [WBNB]-[XVS] Cake LP) Price: $14,926.06 TVL: $2.76
+You are staking 0.0000 mooPancakeXVS-BNB (Wrapped [WBNB]-[XVS] Cake LP) ($0.00), 0.00% of the pool.
+
+mooNarwhalGOLD-BNB (Wrapped [GOLD]-[WBNB] Uni LP) Price: $61.99 TVL: $1,070.85
+You are staking 0.0000 mooNarwhalGOLD-BNB (Wrapped [GOLD]-[WBNB] Uni LP) ($0.00), 0.00% of the pool.
+
+mooBakeryBake (Wrapped BAKE) Price: $0.71 TVL: $6,445.95
+You are staking 0.0000 mooBakeryBake (Wrapped BAKE) ($0.00), 0.00% of the pool.
+
+mooBakeryBAKE-BNB (Wrapped [WBNB]-[BAKE] BLP) Price: $76.71 TVL: $2,306.68
+You are staking 0.0000 mooBakeryBAKE-BNB (Wrapped [WBNB]-[BAKE] BLP) ($0.00), 0.00% of the pool.
+
+mooStreetBIFI-BNB (Wrapped [WBNB]-[BIFI] Trisolaris LP Token) Price: $3,312.65 TVL: $173.21
+You are staking 0.0000 mooStreetBIFI-BNB (Wrapped [WBNB]-[BIFI] Trisolaris LP Token) ($0.00), 0.00% of the pool.
+
+mooStreetDRUGS-BNBV2 (Wrapped [DRUGS]-[WBNB] Trisolaris LP Token) Price: $15.13 TVL: $344.58
+You are staking 0.0000 mooStreetDRUGS-BNBV2 (Wrapped [DRUGS]-[WBNB] Trisolaris LP Token) ($0.00), 0.00% of the pool.
+
+mooStreetTHUGS-BNBV2 (Wrapped [WBNB]-[THUGS] Trisolaris LP Token) Price: $279.63 TVL: $333.12
+You are staking 0.0000 mooStreetTHUGS-BNBV2 (Wrapped [WBNB]-[THUGS] Trisolaris LP Token) ($0.00), 0.00% of the pool.
+
+mooStreetCRED-BNB (Wrapped [CRED]-[WBNB] Trisolaris LP Token) Price: $209.36 TVL: $1.24
+You are staking 0.0000 mooStreetCRED-BNB (Wrapped [CRED]-[WBNB] Trisolaris LP Token) ($0.00), 0.00% of the pool.
+
+mooStreetBUSD-BNBV2 (Wrapped [WBNB]-[BUSD] Trisolaris LP Token) Price: $97.17 TVL: $82.51
+You are staking 0.0000 mooStreetBUSD-BNBV2 (Wrapped [WBNB]-[BUSD] Trisolaris LP Token) ($0.00), 0.00% of the pool.
+
+mooStreetPancakeLP-THUGS-BNBV2 (Wrapped [WBNB]-[THUGS] Cake LP) Price: $635.21 TVL: $149.47
+You are staking 0.0000 mooStreetPancakeLP-THUGS-BNBV2 (Wrapped [WBNB]-[THUGS] Cake LP) ($0.00), 0.00% of the pool.
+
+mooStreetDAI-BNB (Wrapped [DAI]-[WBNB] Trisolaris LP Token) Price: $54.46 TVL: $6,064.75
+You are staking 0.0000 mooStreetDAI-BNB (Wrapped [DAI]-[WBNB] Trisolaris LP Token) ($0.00), 0.00% of the pool.
+
+mooStreetBLIQ-BNB (Wrapped [WBNB]-[BLIQ] Trisolaris LP Token) Price: $249.80 TVL: $505.24
+You are staking 0.0000 mooStreetBLIQ-BNB (Wrapped [WBNB]-[BLIQ] Trisolaris LP Token) ($0.00), 0.00% of the pool.
+
+mooStreetDRUGS-BNB (Wrapped [WBNB]-[DRUGS] Trisolaris LP Token) Price: $19,114.88 TVL: $1,063.79
+You are staking 0.0000 mooStreetDRUGS-BNB (Wrapped [WBNB]-[DRUGS] Trisolaris LP Token) ($0.00), 0.00% of the pool.
+
+mooCake (Wrapped Cake) Price: $25.01 TVL: $4,306.28
+You are staking 0.0000 mooCake (Wrapped Cake) ($0.00), 0.00% of the pool.
+
+mooCakeTWTV2 (Wrapped Cake) Price: $11.81 TVL: $8,778.74
+You are staking 0.0000 mooCakeTWTV2 (Wrapped Cake) ($0.00), 0.00% of the pool.
+
+mooCakeHARD (Wrapped Cake) Price: $10.46 TVL: $102.43
+You are staking 0.0000 mooCakeHARD (Wrapped Cake) ($0.00), 0.00% of the pool.
+
+mooPancakeCAKE-BNB (Wrapped [Cake]-[WBNB] Cake LP) Price: $264.81 TVL: $17,301.94
+You are staking 0.0000 mooPancakeCAKE-BNB (Wrapped [Cake]-[WBNB] Cake LP) ($0.00), 0.00% of the pool.
+
+mooPancakeBNB-BUSD (Wrapped [WBNB]-[BUSD] Cake LP) Price: $84.37 TVL: $247,967.15
+You are staking 0.0000 mooPancakeBNB-BUSD (Wrapped [WBNB]-[BUSD] Cake LP) ($0.00), 0.00% of the pool.
+
+mooPancakeUSDT-BUSD (Wrapped [USDT]-[BUSD] Cake LP) Price: $2.86 TVL: $3.07
+You are staking 0.0000 mooPancakeUSDT-BUSD (Wrapped [USDT]-[BUSD] Cake LP) ($0.00), 0.00% of the pool.
+
+mooForFIL (Wrapped FIL) Price: $24.00 TVL: $1,087.33
+You are staking 0.0000 mooForFIL (Wrapped FIL) ($0.00), 0.00% of the pool.
+
+mooBUSD (Wrapped BUSD) Price: $1.43 TVL: $30.60
+You are staking 0.0000 mooBUSD (Wrapped BUSD) ($0.00), 0.00% of the pool.
+
+mooLINK (Wrapped LINK) Price: $442,062.39 TVL: $0.35
+You are staking 0.0000 mooLINK (Wrapped LINK) ($0.00), 0.00% of the pool.
+
+mooDOT (Wrapped DOT) Price: $1,070.30 TVL: $0.72
+You are staking 0.0000 mooDOT (Wrapped DOT) ($0.00), 0.00% of the pool.
+
+mooUSDT (Wrapped USDT) Price: $1.81 TVL: $13.04
+You are staking 0.0000 mooUSDT (Wrapped USDT) ($0.00), 0.00% of the pool.
+
+mooBTCB (Wrapped BTCB) Price: $41,015.04 TVL: $15.42
+You are staking 0.0000 mooBTCB (Wrapped BTCB) ($0.00), 0.00% of the pool.
+
+mooFryBURGERV2 (Wrapped BURGER) Price: $0.00 TVL: $0.00
+You are staking 0.0000 mooFryBURGERV2 (Wrapped BURGER) ($0.00), NaN% of the pool.
+
+mooCakeTWT (Wrapped Cake) Price: $8.21 TVL: $580,602.71
+You are staking 0.0000 mooCakeTWT (Wrapped Cake) ($0.00), 0.00% of the pool.
+
+mooFryBURGER (Wrapped BURGER) Price: $0.00 TVL: $0.00
+You are staking 0.0000 mooFryBURGER (Wrapped BURGER) ($0.00), NaN% of the pool.
+
+undefined Price: $0.00 TVL: $0.00
+You are staking 0.0000 undefined ($0.00), NaN% of the pool.
+
+mooPancakeHGETBNB (Wrapped [WBNB]-[HGET] Cake LP) Price: $NaN.N TVL: $NaN.N
+You are staking 0.0000 mooPancakeHGETBNB (Wrapped [WBNB]-[HGET] Cake LP) ($0.00), NaN% of the pool.
+
+Total Value Locked: $NaN.N

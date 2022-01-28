@@ -1,0 +1,53 @@
+***************************** MOONRIVER NETWORK ********************************
+
+*************** 👨‍🌾 UNOFFICIAL KOGEFARM FARMING CALCULATOR 👨‍🌾 ****************
+INFO  : https://kogefarm.io
+******************************************************************************
+
+Fri Jan 28 2022 01:14:55 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+
+vSolarUSDC (Wrapped [SOLAR]-[USDC] SLP) Price: $4,511,958.84 TVL: $15,076.74
+You are staking 0.0000 vSolarUSDC (Wrapped [SOLAR]-[USDC] SLP) ($0.00), 0.00% of the pool.
+
+vMovrUSDC (Wrapped [WMOVR]-[USDC] SLP) Price: $29,300,673.03 TVL: $11,902.04
+You are staking 0.0000 vMovrUSDC (Wrapped [WMOVR]-[USDC] SLP) ($0.00), 0.00% of the pool.
+
+vUSDCDaiSolar (Wrapped [DAI]-[USDC] SLP) Price: $2,311,536.90 TVL: $5.75
+You are staking 0.0000 vUSDCDaiSolar (Wrapped [DAI]-[USDC] SLP) ($0.00), 0.00% of the pool.
+
+vBUSDUSDCSolar (Wrapped [BUSD]-[USDC] SLP) Price: $0.00 TVL: $0.00
+You are staking 0.0000 vBUSDUSDCSolar (Wrapped [BUSD]-[USDC] SLP) ($0.00), NaN% of the pool.
+
+vUSDTUSDCSolar (Wrapped [USDT]-[USDC] SLP) Price: $0.00 TVL: $0.00
+You are staking 0.0000 vUSDTUSDCSolar (Wrapped [USDT]-[USDC] SLP) ($0.00), NaN% of the pool.
+
+vMaiUSDCSolar (Wrapped [miMatic]-[USDC] SLP) Price: $0.00 TVL: $0.00
+You are staking 0.0000 vMaiUSDCSolar (Wrapped [miMatic]-[USDC] SLP) ($0.00), NaN% of the pool.
+
+vmimUSDC (Wrapped [MIM]-[USDC] SLP) Price: $0.00 TVL: $0.00
+You are staking 0.0000 vmimUSDC (Wrapped [MIM]-[USDC] SLP) ($0.00), NaN% of the pool.
+
+vethUSDC (Wrapped [ETH]-[USDC] SLP) Price: $0.00 TVL: $0.00
+You are staking 0.0000 vethUSDC (Wrapped [ETH]-[USDC] SLP) ($0.00), NaN% of the pool.
+
+vbnbBUSD (Wrapped [BNB]-[BUSD] SLP) Price: $40.43 TVL: $545.00
+You are staking 0.0000 vbnbBUSD (Wrapped [BNB]-[BUSD] SLP) ($0.00), 0.00% of the pool.
+
+vbtcUSDC (Wrapped [WBTC]-[USDC] SLP) Price: $41,003,483,035,537.34 TVL: $1,236.88
+You are staking 0.0000 vbtcUSDC (Wrapped [WBTC]-[USDC] SLP) ($0.00), 0.00% of the pool.
+
+vmaticMOVR (Wrapped [MATIC]-[WMOVR] SLP) Price: $25.78 TVL: $20,714.61
+You are staking 0.0000 vmaticMOVR (Wrapped [MATIC]-[WMOVR] SLP) ($0.00), 0.00% of the pool.
+
+vavaxMOVR (Wrapped [AVAX]-[WMOVR] SLP) Price: $164.64 TVL: $82,910.67
+You are staking 0.0000 vavaxMOVR (Wrapped [AVAX]-[WMOVR] SLP) ($0.00), 0.00% of the pool.
+
+vftmMOVR (Wrapped [WMOVR]-[FTM] SLP) Price: $31.27 TVL: $14,410.91
+You are staking 0.0000 vftmMOVR (Wrapped [WMOVR]-[FTM] SLP) ($0.00), 0.00% of the pool.
+
+Total Value Locked: $146,802.59

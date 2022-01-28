@@ -1,0 +1,31 @@
+***************************** BSC NETWORK *************************************
+
+*************** 👨‍🌾 UNOFFICIAL WRAPPED BANANO FARMING CALCULATOR 👨‍🌾 *************
+INFO  : https://bsc.banano.cc
+***********************************************************************************
+
+*** If you are being rate limited, please select a different RPC URL from here https://docs.binance.org/smart-chain/developer/rpc.html ***
+
+Thu Jan 27 2022 21:40:11 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 4 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+3 - [wBAN]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.25 TVL: $54,412.02
+wBAN Price: $0.01
+BUSD Price: $1.00
+Staked: 11152.7479 Cake-LP ($2,798.25)
+wBAN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [wBAN]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [wBAN]-[BUSD] Cake LP
+Unstake 0.00 [wBAN]-[BUSD] Cake LP
+Claim 0.00 wBAN ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $2,798.25

@@ -1,0 +1,79 @@
+*************** 👨‍🌾 UNOFFICIAL GRO FARMING CALCULATOR 👨‍🌾 ************
+INFO  : https://app.gro.xyz
+*********************************************************************
+
+Thu Jan 27 2022 20:04:31 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 6 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - GRO Price: $2.42 Market Cap: $12,363,294.17 [%]
+Staked: 783866.5402 GRO ($1,896,957.03)
+GRO Per Week: 6381.40 ($15,442.98)
+APR: Day 0.12% Week 0.81% Year 42.33%
+You are staking 0.00 GRO ($0.00), 0.00% of the pool.
+Stake 0.00 GRO
+Unstake 0.00 GRO
+Claim 0.00 GRO ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [GVT]-[GRO] Uni LP [+] [-] [<=>] Price: $41.06 TVL: $1,725,575.57
+GVT Price: $169.47
+GRO Price: $2.42
+Staked: 41974.5993 UNI-V2 ($1,723,668.01)
+GRO Per Week: 24613.95 ($59,565.77)
+APR: Day 0.49% Week 3.46% Year 179.70%
+You are staking 0.00 [GVT]-[GRO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GVT]-[GRO] Uni LP
+Unstake 0.00 [GVT]-[GRO] Uni LP
+Claim 0.00 GRO ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [GRO]-[USDC] Uni LP [+] [-] [<=>] Price: $3,390,398.68 TVL: $3,120,916.15
+GRO Price: $2.42
+USDC Price: $1.00
+Staked: 0.6358 UNI-V2 ($2,155,777.81)
+GRO Per Week: 18232.56 ($44,122.79)
+APR: Day 0.29% Week 2.05% Year 106.43%
+You are staking 0.00 [GRO]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GRO]-[USDC] Uni LP
+Unstake 0.00 [GRO]-[USDC] Uni LP
+Claim 0.00 GRO ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - GVT Price: $169.47 Market Cap: $23,907,592.49 [%]
+Staked: 104414.5446 GVT ($17,695,132.88)
+GRO Per Week: 72930.23 ($176,491.16)
+APR: Day 0.14% Week 1.00% Year 51.86%
+You are staking 0.00 GVT ($0.00), 0.00% of the pool.
+Stake 0.00 GVT
+Unstake 0.00 GVT
+Claim 0.00 GRO ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - PWRD3CRV-f Price: $1.00 Market Cap: $14,762,311.40 
+Staked: 14758580.0834 PWRD3CRV-f ($14,761,338.70)
+GRO Per Week: 31906.98 ($77,214.88)
+APR: Day 0.07% Week 0.52% Year 27.20%
+You are staking 0.00 PWRD3CRV-f ($0.00), 0.00% of the pool.
+Stake 0.00 PWRD3CRV-f
+Unstake 0.00 PWRD3CRV-f
+Claim 0.00 GRO ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - B-80BAL-20WETH Price: $0.00 Market Cap: $0.00 
+Staked: 63351.3373 B-80BAL-20WETH ($0.00)
+GRO Per Week: 2734.88 ($6,618.42)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 B-80BAL-20WETH ($0.00), NaN% of the pool.
+Stake 0.00 B-80BAL-20WETH
+Unstake 0.00 B-80BAL-20WETH
+Claim 0.00 GRO ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $38,232,874.43

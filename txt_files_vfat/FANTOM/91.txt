@@ -1,0 +1,193 @@
+*************** 👨‍🌾 UNOFFICIAL FANTOMPUP.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://fantompup.finance
+**************************************************************************************
+
+Fri Jan 28 2022 00:52:10 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 16 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [USDC]-[fPUP] Uni LP [+] [-] [<=>] Price: $2,071,189.32 TVL: $9,544.46
+USDC Price: $1.01
+fPUP Price: $0.99
+Staked: 0.0007 fWINGS-LP ($1,404.83)
+PUP Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDC]-[fPUP] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[fPUP] Uni LP
+Unstake 0.00 [USDC]-[fPUP] Uni LP
+Claim 0.00 PUP ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WFTM]-[fPUP] Uni LP [+] [-] [<=>] Price: $2.95 TVL: $14,470.64
+WFTM Price: $2.03
+fPUP Price: $0.99
+Staked: 120.6305 fWINGS-LP ($356.14)
+PUP Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WFTM]-[fPUP] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[fPUP] Uni LP
+Unstake 0.00 [WFTM]-[fPUP] Uni LP
+Claim 0.00 PUP ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [USDC]-[WFTM] Uni LP [+] [-] [<=>] Price: $3,015,024.39 TVL: $64,926.96
+USDC Price: $1.01
+WFTM Price: $2.03
+Staked: 0.0000 fWINGS-LP ($5.50)
+PUP Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDC]-[WFTM] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WFTM] Uni LP - Fee 2%
+Unstake 0.00 [USDC]-[WFTM] Uni LP
+Claim 0.00 PUP ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDC]-[ETH] Uni LP [+] [-] [<=>] Price: $100,342,243.97 TVL: $338,620.30
+USDC Price: $1.01
+ETH Price: $2,366.73
+Staked: 0.0000 fWINGS-LP ($16.50)
+PUP Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDC]-[ETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[ETH] Uni LP - Fee 2%
+Unstake 0.00 [USDC]-[ETH] Uni LP
+Claim 0.00 PUP ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [fUSDT]-[ETH] Uni LP [+] [-] [<=>] Price: $98,487,389.22 TVL: $21,694.28
+fUSDT Price: $1.00
+ETH Price: $2,366.73
+Staked: 0.0000 fWINGS-LP ($3.14)
+PUP Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [fUSDT]-[ETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [fUSDT]-[ETH] Uni LP - Fee 2%
+Unstake 0.00 [fUSDT]-[ETH] Uni LP
+Claim 0.00 PUP ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [fUSDT]-[WFTM] Uni LP [+] [-] [<=>] Price: $2,929,380.72 TVL: $22,019.41
+fUSDT Price: $1.00
+WFTM Price: $2.03
+Staked: 0.0000 fWINGS-LP ($0.00)
+PUP Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [fUSDT]-[WFTM] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [fUSDT]-[WFTM] Uni LP - Fee 2%
+Unstake 0.00 [fUSDT]-[WFTM] Uni LP
+Claim 0.00 PUP ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [USDC]-[fWINGS] Uni LP [+] [-] [<=>] Price: $253,277.77 TVL: $36,907.66
+USDC Price: $1.01
+fWINGS Price: $0.01
+Staked: 0.0000 fWINGS-LP ($6.40)
+PUP Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDC]-[fWINGS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[fWINGS] Uni LP - Fee 2%
+Unstake 0.00 [USDC]-[fWINGS] Uni LP
+Claim 0.00 PUP ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - fPUP Price: $0.99 Market Cap: $73,954.03 
+Staked: 2483.0101 fPUP ($2,448.38)
+PUP Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 fPUP ($0.00), 0.00% of the pool.
+Stake 0.00 fPUP
+Unstake 0.00 fPUP
+Claim 0.00 PUP ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - WFTM Price: $2.03 Market Cap: $1,465,827,784.04 
+Staked: 2581.6675 WFTM ($5,240.79)
+PUP Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WFTM ($0.00), 0.00% of the pool.
+Stake 0.00 WFTM - Fee 1.5%
+Unstake 0.00 WFTM
+Claim 0.00 PUP ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - ETH Price: $2,366.73 Market Cap: $1,129,116,088.55 
+Staked: 0.0041 ETH ($9.73)
+PUP Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 1.5%
+Unstake 0.00 ETH
+Claim 0.00 PUP ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - BTC Price: $36,161.00 Market Cap: $622,215,317.53 
+Staked: 0.0002 BTC ($6.14)
+PUP Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BTC ($0.00), 0.00% of the pool.
+Stake 0.00 BTC - Fee 1.5%
+Unstake 0.00 BTC
+Claim 0.00 PUP ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - USDC Price: $1.01 Market Cap: $1,744,757,684.97 
+Staked: 89.4598 USDC ($90.35)
+PUP Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 1.5%
+Unstake 0.00 USDC
+Claim 0.00 PUP ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - fUSDT Price: $1.00 Market Cap: $350,441,901.33 
+Staked: 11.7700 fUSDT ($11.77)
+PUP Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 fUSDT ($0.00), 0.00% of the pool.
+Stake 0.00 fUSDT - Fee 1.5%
+Unstake 0.00 fUSDT
+Claim 0.00 PUP ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - DAI Price: $1.00 Market Cap: $704,467,481.12 
+Staked: 5082.5627 DAI ($5,082.56)
+PUP Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 1.5%
+Unstake 0.00 DAI
+Claim 0.00 PUP ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [USDC]-[DAI] SPOOKY LP [+] [-] [<=>] Price: $1,773,733,613.86 TVL: $8,362,838.36
+USDC Price: $1.01
+DAI Price: $1.00
+Staked: 0.0000 spLP ($11.14)
+PUP Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDC]-[DAI] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAI] SPOOKY LP - Fee 2%
+Unstake 0.00 [USDC]-[DAI] SPOOKY LP
+Claim 0.00 PUP ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [WFTM]-[fPUP] SPOOKY LP [+] [-] [<=>] Price: $3.08 TVL: $1,259.80
+WFTM Price: $2.03
+fPUP Price: $0.99
+Staked: 194.8582 spLP ($600.59)
+PUP Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WFTM]-[fPUP] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[fPUP] SPOOKY LP
+Unstake 0.00 [WFTM]-[fPUP] SPOOKY LP
+Claim 0.00 PUP ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $15,293.96

@@ -4,159 +4,20 @@
 INFO  : https://polygon.space-defi.com/
 *******************************************************************************************
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
-Fri Dec 17 2021 09:50:20 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 22:25:31 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
+Staking Contract
 Found 14 pools.
 Showing incentivized pools only.
-Finished reading smart contracts.
-0 - [USDC]-[SPACE] Uni LP [+] [-] [<=>] Price: $7,837.99 TVL: $9.60
-USDC Price: $1.00
-SPACE Price: $0.0000110355
-Staked: 0.0009 UNI-V2 ($6.90)
-SPACE Per Week: 51428.57 ($0.57)
-APR: Day 1.18% Week 8.23% Year 427.82%
-You are staking 0.00 [USDC]-[SPACE] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[SPACE] Uni LP
-Unstake 0.00 [USDC]-[SPACE] Uni LP
-Claim 0.00 SPACE ($0.00)
-Staking or unstaking also claims rewards.
-
-1 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,781,061.84 TVL: $51,510,631.99
-WMATIC Price: $2.08
-USDC Price: $1.00
-Staked: 0.0000 UNI-V2 ($5.59)
-SPACE Per Week: 20571.43 ($0.23)
-APR: Day 0.58% Week 4.06% Year 211.24%
-You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
-Unstake 0.00 [WMATIC]-[USDC] Uni LP
-Claim 0.00 SPACE ($0.00)
-Staking or unstaking also claims rewards.
-
-2 - SPACE Price: $0.0000110355 Market Cap: $71.31 [%]
-Staked: 2534469.4634 SPACE ($27.97)
-SPACE Per Week: 22857.14 ($0.25)
-APR: Day 0.13% Week 0.90% Year 46.90%
-You are staking 0.00 SPACE ($0.00), 0.00% of the pool.
-Stake 0.00 SPACE
-Unstake 0.00 SPACE
-Claim 0.00 SPACE ($0.00)
-Staking or unstaking also claims rewards.
-
-3 - WMATIC Price: $2.08 Market Cap: $633,941,058.04 [%]
-Staked: 172.1394 WMATIC ($358.05)
-SPACE Per Week: 17142.86 ($0.19)
-APR: Day 0.01% Week 0.05% Year 2.75%
-You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
-Stake 0.00 WMATIC - Fee 4%
-Unstake 0.00 WMATIC
-Claim 0.00 SPACE ($0.00)
-Staking or unstaking also claims rewards.
-
-4 - [WMATIC]-[SPACE] Uni LP [+] [-] [<=>] Price: $0.01 TVL: $50.75
-WMATIC Price: $2.08
-SPACE Price: $0.0000110355
-Staked: 3179.9528 UNI-V2 ($35.61)
-SPACE Per Week: 51428.57 ($0.57)
-APR: Day 0.23% Week 1.59% Year 82.88%
-You are staking 0.00 [WMATIC]-[SPACE] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[SPACE] Uni LP
-Unstake 0.00 [WMATIC]-[SPACE] Uni LP
-Claim 0.00 SPACE ($0.00)
-Staking or unstaking also claims rewards.
-
-5 - WETH Price: $3,948.79 Market Cap: $1,753,113,982.79 [%]
-Staked: 0.0003 WETH ($1.13)
-SPACE Per Week: 13714.29 ($0.15)
-APR: Day 1.92% Week 13.43% Year 698.31%
-You are staking 0.00 WETH ($0.00), 0.00% of the pool.
-Stake 0.00 WETH - Fee 4%
-Unstake 0.00 WETH
-Claim 0.00 SPACE ($0.00)
-Staking or unstaking also claims rewards.
-
-6 - USDC Price: $1.00 Market Cap: $952,187,709.94 [%]
-Staked: 0.1699 USDC ($0.17)
-SPACE Per Week: 17142.86 ($0.19)
-APR: Day 15.91% Week 111.36% Year 5790.66%
-You are staking 0.00 USDC ($0.00), 0.00% of the pool.
-Stake 0.00 USDC - Fee 4%
-Unstake 0.00 USDC
-Claim 0.00 SPACE ($0.00)
-Staking or unstaking also claims rewards.
-
-7 - USDT Price: $1.00 Market Cap: $318,748,363.85 [%]
-Staked: 0.3416 USDT ($0.34)
-SPACE Per Week: 13714.29 ($0.15)
-APR: Day 6.35% Week 44.45% Year 2311.28%
-You are staking 0.00 USDT ($0.00), 0.00% of the pool.
-Stake 0.00 USDT - Fee 4%
-Unstake 0.00 USDT
-Claim 0.00 SPACE ($0.00)
-Staking or unstaking also claims rewards.
-
-8 - QUICK Price: $244.03 Market Cap: $233,180,038.53 [%]
-Staked: 0.0012 QUICK ($0.29)
-SPACE Per Week: 16000.00 ($0.18)
-APR: Day 8.64% Week 60.49% Year 3145.43%
-You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
-Stake 0.00 QUICK - Fee 4%
-Unstake 0.00 QUICK
-Claim 0.00 SPACE ($0.00)
-Staking or unstaking also claims rewards.
-
-9 - WBTC Price: $47,544.00 Market Cap: $479,728,897.08 [%]
-Staked: 0.0000 WBTC ($0.93)
-SPACE Per Week: 13714.29 ($0.15)
-APR: Day 2.34% Week 16.35% Year 850.17%
-You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
-Stake 0.00 WBTC - Fee 4%
-Unstake 0.00 WBTC
-Claim 0.00 SPACE ($0.00)
-Staking or unstaking also claims rewards.
-
-10 - AAVE Price: $174.30 Market Cap: $47,434,843.45 [%]
-Staked: 0.0036 AAVE ($0.62)
-SPACE Per Week: 16000.00 ($0.18)
-APR: Day 4.04% Week 28.27% Year 1469.83%
-You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
-Stake 0.00 AAVE - Fee 4%
-Unstake 0.00 AAVE
-Claim 0.00 SPACE ($0.00)
-Staking or unstaking also claims rewards.
-
-11 - DAI Price: $1.00 Market Cap: $367,647,843.61 [%]
-Staked: 95.9123 DAI ($95.91)
-SPACE Per Week: 13714.29 ($0.15)
-APR: Day 0.02% Week 0.16% Year 8.21%
-You are staking 0.00 DAI ($0.00), 0.00% of the pool.
-Stake 0.00 DAI - Fee 4%
-Unstake 0.00 DAI
-Claim 0.00 SPACE ($0.00)
-Staking or unstaking also claims rewards.
-
-12 - Krill Price: $0.04 Market Cap: $420,279.21 [%]
-Staked: 84.4503 Krill ($3.30)
-SPACE Per Week: 11428.57 ($0.13)
-APR: Day 0.55% Week 3.82% Year 198.55%
-You are staking 0.00 Krill ($0.00), 0.00% of the pool.
-Stake 0.00 Krill - Fee 4%
-Unstake 0.00 Krill
-Claim 0.00 SPACE ($0.00)
-Staking or unstaking also claims rewards.
-
-13 - SPCT Price: $0.00 Market Cap: $0.00 
-Staked: 54963.0422 SPCT ($0.00)
-SPACE Per Week: 9142.86 ($0.10)
-APR: Day NaN% Week NaN% Year NaN%
-You are staking 0.00 SPCT ($0.00), NaN% of the pool.
-Stake 0.00 SPCT - Fee 2%
-Unstake 0.00 SPCT
-Claim 0.00 SPACE ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $536.81
+{
+  "code": -32603,
+  "message": "Non-200 status code: '400'",
+  "data": {
+    "error": "Unable to verify your data submission."
+  }
+}
+Oops something went wrong. Try refreshing the page.

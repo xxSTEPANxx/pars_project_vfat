@@ -1,0 +1,133 @@
+*************** 👨‍🌾 UNOFFICIAL KANDYSWAP FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://www.kandyswap.com
+******************************************************************************
+
+Fri Jan 28 2022 01:08:33 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 10 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - KANDY Price: $0.002795 Market Cap: $20,872.00 
+Staked: 2285312.8929 KANDY ($6,387.28)
+KANDY Per Week: 50383.91 ($140.82)
+APR: Day 0.31% Week 2.20% Year 114.64%
+You are staking 0.00 KANDY ($0.00), 0.00% of the pool.
+Stake 0.00 KANDY
+Unstake 0.00 KANDY
+Claim 0.00 KANDY ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [KANDY]-[WKCS] Uni LP [+] [-] [<=>] Price: $0.44 TVL: $12,690.83
+KANDY Price: $0.002795
+WKCS Price: $15.63
+Staked: 11876.9388 KANDY-LP ($5,172.36)
+KANDY Per Week: 64347.27 ($179.85)
+APR: Day 0.50% Week 3.48% Year 180.81%
+You are staking 0.00 [KANDY]-[WKCS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KANDY]-[WKCS] Uni LP
+Unstake 0.00 [KANDY]-[WKCS] Uni LP
+Claim 0.00 KANDY ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [USDT]-[KANDY] Uni LP [+] [-] [<=>] Price: $0.11 TVL: $1,572.73
+USDT Price: $1.01
+KANDY Price: $0.002795
+Staked: 13298.2523 KANDY-LP ($1,447.32)
+KANDY Per Week: 32173.64 ($89.92)
+APR: Day 0.89% Week 6.21% Year 323.08%
+You are staking 0.00 [USDT]-[KANDY] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[KANDY] Uni LP
+Unstake 0.00 [USDT]-[KANDY] Uni LP
+Claim 0.00 KANDY ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [KANDY]-[USDC] Uni LP [+] [-] [<=>] Price: $0.11 TVL: $2,134.12
+KANDY Price: $0.002795
+USDC Price: $1.00
+Staked: 18239.4900 KANDY-LP ($1,970.85)
+KANDY Per Week: 32173.64 ($89.92)
+APR: Day 0.65% Week 4.56% Year 237.26%
+You are staking 0.00 [KANDY]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KANDY]-[USDC] Uni LP
+Unstake 0.00 [KANDY]-[USDC] Uni LP
+Claim 0.00 KANDY ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDT]-[WKCS] Uni LP [+] [-] [<=>] Price: $8.36 TVL: $2,246.97
+USDT Price: $1.01
+WKCS Price: $15.63
+Staked: 257.9568 KANDY-LP ($2,156.23)
+KANDY Per Week: 3217.36 ($8.99)
+APR: Day 0.06% Week 0.42% Year 21.69%
+You are staking 0.00 [USDT]-[WKCS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WKCS] Uni LP
+Unstake 0.00 [USDT]-[WKCS] Uni LP
+Claim 0.00 KANDY ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WKCS]-[USDC] Uni LP [+] [-] [<=>] Price: $8.17 TVL: $848.17
+WKCS Price: $15.63
+USDC Price: $1.00
+Staked: 64.8320 KANDY-LP ($529.94)
+KANDY Per Week: 3217.36 ($8.99)
+APR: Day 0.24% Week 1.70% Year 88.24%
+You are staking 0.00 [WKCS]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WKCS]-[USDC] Uni LP
+Unstake 0.00 [WKCS]-[USDC] Uni LP
+Claim 0.00 KANDY ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [LAMBO]-[WKCS] Uni LP [+] [-] [<=>] Price: $1,796.78 TVL: $730.66
+LAMBO Price: $0.0000133044
+WKCS Price: $15.63
+Staked: 0.2815 KANDY-LP ($505.84)
+KANDY Per Week: 6434.73 ($17.98)
+APR: Day 0.51% Week 3.56% Year 184.88%
+You are staking 0.00 [LAMBO]-[WKCS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LAMBO]-[WKCS] Uni LP
+Unstake 0.00 [LAMBO]-[WKCS] Uni LP
+Claim 0.00 KANDY ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [KUBEANS]-[WKCS] Uni LP [+] [-] [<=>] Price: $1.15 TVL: $119.50
+KUBEANS Price: $0.02
+WKCS Price: $15.63
+Staked: 99.4082 KANDY-LP ($114.09)
+KANDY Per Week: 3217.36 ($8.99)
+APR: Day 1.13% Week 7.88% Year 409.86%
+You are staking 0.00 [KUBEANS]-[WKCS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KUBEANS]-[WKCS] Uni LP
+Unstake 0.00 [KUBEANS]-[WKCS] Uni LP
+Claim 0.00 KANDY ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [WKCS]-[KuDo] Uni LP [+] [-] [<=>] Price: $0.00 TVL: $872.73
+WKCS Price: $15.63
+KuDo Price: $0.0000000008
+Staked: 3244897.9148 KANDY-LP ($870.50)
+KANDY Per Week: 3217.36 ($8.99)
+APR: Day 0.15% Week 1.03% Year 53.72%
+You are staking 0.00 [WKCS]-[KuDo] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WKCS]-[KuDo] Uni LP
+Unstake 0.00 [WKCS]-[KuDo] Uni LP
+Claim 0.00 KANDY ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [WKCS]-[ZDEX] Uni LP [+] [-] [<=>] Price: $3.49 TVL: $291.80
+WKCS Price: $15.63
+ZDEX Price: $0.19
+Staked: 63.7841 KANDY-LP ($222.82)
+KANDY Per Week: 3217.36 ($8.99)
+APR: Day 0.58% Week 4.04% Year 209.86%
+You are staking 0.00 [WKCS]-[ZDEX] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WKCS]-[ZDEX] Uni LP
+Unstake 0.00 [WKCS]-[ZDEX] Uni LP
+Claim 0.00 KANDY ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $19,377.22

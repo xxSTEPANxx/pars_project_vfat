@@ -1,0 +1,181 @@
+*************** 👨‍🌾 UNOFFICIAL WANNASWAP.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://wannaswap.finance
+**************************************************************************************
+
+Wed Dec 22 2021 18:23:15 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 14 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [WANNA]-[NEAR] Uni LP [+] [-] [<=>] Price: $0.01 TVL: $3,606,885.91
+WANNA Price: $1.54
+NEAR Price: $11.50
+Staked: 395745079.9826 wLP ($3,395,132.09)
+WANNA Per Week: 185700.18 ($286,067.70)
+APR: Day 1.20% Week 8.43% Year 438.14%
+You are staking 0.00 [WANNA]-[NEAR] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WANNA]-[NEAR] Uni LP
+Unstake 0.00 [WANNA]-[NEAR] Uni LP
+Claim 0.00 WANNA ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [USDC]-[NEAR] Uni LP [+] [-] [<=>] Price: $4,379,979.81 TVL: $9,031,288.26
+USDC Price: $1.01
+NEAR Price: $11.50
+Staked: 2.0618 wLP ($9,030,773.05)
+WANNA Per Week: 185700.18 ($286,067.70)
+APR: Day 0.45% Week 3.17% Year 164.72%
+You are staking 0.00 [USDC]-[NEAR] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[NEAR] Uni LP
+Unstake 0.00 [USDC]-[NEAR] Uni LP
+Claim 0.00 WANNA ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [USDT]-[NEAR] Uni LP [+] [-] [<=>] Price: $6,948.47 TVL: $8,281,490.68
+USDT Price: $1.01
+NEAR Price: $11.50
+Staked: 1191.7403 wLP ($8,280,775.86)
+WANNA Per Week: 185700.18 ($286,067.70)
+APR: Day 0.49% Week 3.45% Year 179.64%
+You are staking 0.00 [USDT]-[NEAR] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[NEAR] Uni LP
+Unstake 0.00 [USDT]-[NEAR] Uni LP
+Claim 0.00 WANNA ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDT]-[USDC] Uni LP [+] [-] [<=>] Price: $2,062,661,751,438.73 TVL: $9,013,261.57
+USDT Price: $1.01
+USDC Price: $1.01
+Staked: 0.0000 wLP ($9,005,602.93)
+WANNA Per Week: 27236.03 ($41,956.60)
+APR: Day 0.07% Week 0.47% Year 24.23%
+You are staking 0.00 [USDT]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[USDC] Uni LP
+Unstake 0.00 [USDT]-[USDC] Uni LP
+Claim 0.00 WANNA ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [NEAR]-[WETH] Uni LP [+] [-] [<=>] Price: $2.10 TVL: $8,280,602.29
+NEAR Price: $11.50
+WETH Price: $4,031.19
+Staked: 3949664.4917 wLP ($8,277,261.92)
+WANNA Per Week: 111420.11 ($171,640.62)
+APR: Day 0.30% Week 2.07% Year 107.83%
+You are staking 0.00 [NEAR]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [NEAR]-[WETH] Uni LP
+Unstake 0.00 [NEAR]-[WETH] Uni LP
+Claim 0.00 WANNA ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WETH]-[WBTC] Uni LP [+] [-] [<=>] Price: $58,085,949,183.04 TVL: $13,988,401.24
+WETH Price: $4,031.19
+WBTC Price: $49,399.80
+Staked: 0.0002 wLP ($13,988,371.39)
+WANNA Per Week: 24760.02 ($38,142.36)
+APR: Day 0.04% Week 0.27% Year 14.18%
+You are staking 0.00 [WETH]-[WBTC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[WBTC] Uni LP
+Unstake 0.00 [WETH]-[WBTC] Uni LP
+Claim 0.00 WANNA ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [NEAR]-[WBTC] Uni LP [+] [-] [<=>] Price: $151,852.94 TVL: $2,254,952.32
+NEAR Price: $11.50
+WBTC Price: $49,399.80
+Staked: 14.8495 wLP ($2,254,936.34)
+WANNA Per Week: 21665.02 ($33,374.57)
+APR: Day 0.21% Week 1.48% Year 76.96%
+You are staking 0.00 [NEAR]-[WBTC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [NEAR]-[WBTC] Uni LP
+Unstake 0.00 [NEAR]-[WBTC] Uni LP
+Claim 0.00 WANNA ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [NEAR]-[DAI] Uni LP [+] [-] [<=>] Price: $0.01 TVL: $1,439,744.26
+NEAR Price: $11.50
+DAI Price: $1.01
+Staked: 206911270.0876 wLP ($1,439,503.40)
+WANNA Per Week: 18570.02 ($28,606.77)
+APR: Day 0.28% Week 1.99% Year 103.34%
+You are staking 0.00 [NEAR]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [NEAR]-[DAI] Uni LP
+Unstake 0.00 [NEAR]-[DAI] Uni LP
+Claim 0.00 WANNA ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [AURORA]-[NEAR] Uni LP [+] [-] [<=>] Price: $0.05 TVL: $1,793,348.92
+AURORA Price: $12.96
+NEAR Price: $11.50
+Staked: 36381045.5975 wLP ($1,785,712.36)
+WANNA Per Week: 18570.02 ($28,606.77)
+APR: Day 0.23% Week 1.60% Year 83.30%
+You are staking 0.00 [AURORA]-[NEAR] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AURORA]-[NEAR] Uni LP
+Unstake 0.00 [AURORA]-[NEAR] Uni LP
+Claim 0.00 WANNA ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [WANNA]-[USDC] Uni LP [+] [-] [<=>] Price: $124,620,723.23 TVL: $638,288.84
+WANNA Price: $1.54
+USDC Price: $1.01
+Staked: 0.0051 wLP ($634,219.11)
+WANNA Per Week: 44568.04 ($68,656.25)
+APR: Day 1.55% Week 10.83% Year 562.92%
+You are staking 0.00 [WANNA]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WANNA]-[USDC] Uni LP
+Unstake 0.00 [WANNA]-[USDC] Uni LP
+Claim 0.00 WANNA ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [USDT]-[WANNA] Uni LP [+] [-] [<=>] Price: $2,566,097.80 TVL: $681,949.17
+USDT Price: $1.01
+WANNA Price: $1.54
+Staked: 0.2646 wLP ($678,875.99)
+WANNA Per Week: 44568.04 ($68,656.25)
+APR: Day 1.44% Week 10.11% Year 525.89%
+You are staking 0.00 [USDT]-[WANNA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WANNA] Uni LP
+Unstake 0.00 [USDT]-[WANNA] Uni LP
+Claim 0.00 WANNA ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - WANNAx Price: $0.00 Market Cap: $0.00 
+Staked: 1486340.1882 WANNAx ($0.00)
+WANNA Per Week: 129990.13 ($200,247.39)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 WANNAx ($0.00), NaN% of the pool.
+Stake 0.00 WANNAx
+Unstake 0.00 WANNAx
+Claim 0.00 WANNA ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [NEAR]-[atLUNA] Uni LP [+] [-] [<=>] Price: $0.07 TVL: $186,913.80
+NEAR Price: $11.50
+atLUNA Price: $96.54
+Staked: 2791816.0625 wLP ($186,856.31)
+WANNA Per Week: 11142.01 ($17,164.06)
+APR: Day 1.31% Week 9.19% Year 477.66%
+You are staking 0.00 [NEAR]-[atLUNA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [NEAR]-[atLUNA] Uni LP
+Unstake 0.00 [NEAR]-[atLUNA] Uni LP
+Claim 0.00 WANNA ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [atUST]-[NEAR] Uni LP [+] [-] [<=>] Price: $0.01 TVL: $616,253.72
+atUST Price: $1.01
+NEAR Price: $11.50
+Staked: 89523354.0529 wLP ($615,573.41)
+WANNA Per Week: 18570.02 ($28,606.77)
+APR: Day 0.66% Week 4.65% Year 241.65%
+You are staking 0.00 [atUST]-[NEAR] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [atUST]-[NEAR] Uni LP
+Unstake 0.00 [atUST]-[NEAR] Uni LP
+Claim 0.00 WANNA ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $59,573,594.15

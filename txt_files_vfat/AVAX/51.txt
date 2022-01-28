@@ -1,0 +1,64 @@
+***************************** AVALANCHE *********************************
+    
+*************** 👨‍🌾 UNOFFICIAL ORCA FARMING CALCULATOR 👨‍🌾 ***********
+INFO  : https://avai.finance
+*************************************************************************
+
+Fri Jan 28 2022 00:22:47 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 4 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+1 - [AVAI]-[USDC.e] PGL [+] [-] [<=>] Price: $2,042,153.61 TVL: $1,228,832.61
+AVAI Price: $0.98
+USDC.e Price: $1.01
+Staked: 0.5983 PGL ($1,221,760.86)
+ORCA Per Week: 177510.33 ($1,428.20)
+APR: Day 0.02% Week 0.12% Year 6.08%
+You are staking 0.00 [AVAI]-[USDC.e] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [AVAI]-[USDC.e] PGL - Fee 0.75%
+Unstake 0.00 [AVAI]-[USDC.e] PGL
+Claim 0.00 ORCA ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [ORCA]-[WAVAX] PGL [+] [-] [<=>] Price: $1.48 TVL: $60,906.70
+ORCA Price: $0.008046
+WAVAX Price: $61.58
+Staked: 37093.1731 PGL ($54,896.30)
+ORCA Per Week: 461526.85 ($3,713.32)
+APR: Day 0.97% Week 6.76% Year 351.74%
+You are staking 0.00 [ORCA]-[WAVAX] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [ORCA]-[WAVAX] PGL - Fee 0.75%
+Unstake 0.00 [ORCA]-[WAVAX] PGL
+Claim 0.00 ORCA ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - xORCA Price: $0.00 Market Cap: $0.00 
+Staked: 11324557.4634 xORCA ($0.00)
+ORCA Per Week: 71004.13 ($571.28)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 xORCA ($0.00), NaN% of the pool.
+Stake 0.00 xORCA
+Unstake 0.00 xORCA
+Claim 0.00 ORCA ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $1,276,657.16
+Found 1 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - ORCA Price: $0.008046 Market Cap: $1,206,859.50 
+Staked: 29651.5859 ORCA ($238.57)
+AVAX Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 ORCA ($0.00), 0.00% of the pool.
+Stake 0.00 ORCA
+Unstake 0.00 ORCA
+Claim 0.00 AVAX ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $238.57

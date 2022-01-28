@@ -1,0 +1,73 @@
+*************** 👨‍🌾 UNOFFICIAL ELDRITCH FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://www.eldritch.app
+*************************************************************************************
+
+Fri Jan 28 2022 00:50:19 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 23 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [WFTM]-[ELDR] SPOOKY LP [+] [-] [<=>] Price: $2.02 TVL: $776.72
+WFTM Price: $2.03
+ELDR Price: $0.40
+Staked: 187.6816 spLP ($379.91)
+ELDR Per Week: 1.76 ($0.71)
+APR: Day 0.03% Week 0.19% Year 9.66%
+You are staking 0.00 [WFTM]-[ELDR] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ELDR] SPOOKY LP
+Unstake 0.00 [WFTM]-[ELDR] SPOOKY LP
+Claim 0.00 ELDR ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [USDC]-[ELDR] SPOOKY LP [+] [-] [<=>] Price: $798,558,301,067.75 TVL: $455.01
+USDC Price: $1.01
+ELDR Price: $0.40
+Staked: 0.0000 spLP ($66.73)
+ELDR Per Week: 1.76 ($0.71)
+APR: Day 0.15% Week 1.06% Year 54.97%
+You are staking 0.00 [USDC]-[ELDR] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[ELDR] SPOOKY LP
+Unstake 0.00 [USDC]-[ELDR] SPOOKY LP
+Claim 0.00 ELDR ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - ELDR Price: $0.40 Market Cap: $1,341.26 
+Staked: 628.1250 ELDR ($251.89)
+ELDR Per Week: 1.32 ($0.53)
+APR: Day 0.03% Week 0.21% Year 10.92%
+You are staking 0.00 ELDR ($0.00), 0.00% of the pool.
+Stake 0.00 ELDR
+Unstake 0.00 ELDR
+Claim 0.00 ELDR ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - [ETH]-[ELDR] SPOOKY LP [+] [-] [<=>] Price: $75.30 TVL: $17.80
+ETH Price: $2,357.21
+ELDR Price: $0.40
+Staked: 0.2293 spLP ($17.27)
+ELDR Per Week: 1.65 ($0.66)
+APR: Day 0.55% Week 3.83% Year 199.14%
+You are staking 0.00 [ETH]-[ELDR] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[ELDR] SPOOKY LP
+Unstake 0.00 [ETH]-[ELDR] SPOOKY LP
+Claim 0.00 ELDR ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - [fUSDT]-[ELDR] SPOOKY LP [+] [-] [<=>] Price: $1,646,748.84 TVL: $43.62
+fUSDT Price: $1.00
+ELDR Price: $0.40
+Staked: 0.0000 spLP ($19.90)
+ELDR Per Week: 1.65 ($0.66)
+APR: Day 0.47% Week 3.32% Year 172.84%
+You are staking 0.00 [fUSDT]-[ELDR] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [fUSDT]-[ELDR] SPOOKY LP
+Unstake 0.00 [fUSDT]-[ELDR] SPOOKY LP
+Claim 0.00 ELDR ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $735.69

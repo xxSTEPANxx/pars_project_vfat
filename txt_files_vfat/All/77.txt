@@ -1,0 +1,27 @@
+*************** 👨‍🌾 UNOFFICIAL DYNAMIC SET DOLLAR CALCULATOR 👨‍🌾 ***************
+INFO  : https://ethernity.io
+*******************************************************************************
+
+Thu Jan 27 2022 19:43:59 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 1 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [ERN]-[WETH] Uni LP [+] [-] [<=>] Price: $357.24 TVL: $6,024,997.00
+ERN Price: $4.82
+WETH Price: $2,479.27
+Staked: 12303.1916 UNI-V2 ($4,395,242.05)
+ERN Per Week: 11200.00 ($53,984.00)
+APR: Day 0.18% Week 1.23% Year 63.87%
+You are staking 0.00 [ERN]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ERN]-[WETH] Uni LP
+Unstake 0.00 [ERN]-[WETH] Uni LP
+Claim 0.00 ERN ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $4,395,242.05

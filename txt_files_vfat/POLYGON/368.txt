@@ -6,145 +6,20 @@ INFO  : https://polygon.vastswap.com
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Thu Dec 16 2021 05:56:51 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 23:49:55 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
+Staking Contract
 Found 12 pools.
 Showing incentivized pools only.
-Finished reading smart contracts.
-0 - [USDC]-[VAST] Uni LP [+] [-] [<=>] Price: $6,863.12 TVL: $0.96
-USDC Price: $1.00
-VAST Price: $0.0000102884
-Staked: 0.0001 UNI-V2 ($0.94)
-VAST Per Week: 56000.00 ($0.58)
-APR: Day 8.80% Week 61.61% Year 3203.79%
-You are staking 0.00 [USDC]-[VAST] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[VAST] Uni LP
-Unstake 0.00 [USDC]-[VAST] Uni LP
-Claim 0.00 VAST ($0.00)
-Staking or unstaking also claims rewards.
-
-1 - [WMATIC]-[VAST] Uni LP [+] [-] [<=>] Price: $0.01 TVL: $0.95
-WMATIC Price: $2.15
-VAST Price: $0.0000102884
-Staked: 95.6960 UNI-V2 ($0.94)
-VAST Per Week: 56000.00 ($0.58)
-APR: Day 8.73% Week 61.09% Year 3176.67%
-You are staking 0.00 [WMATIC]-[VAST] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[VAST] Uni LP
-Unstake 0.00 [WMATIC]-[VAST] Uni LP
-Claim 0.00 VAST ($0.00)
-Staking or unstaking also claims rewards.
-
-2 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,872,814.53 TVL: $52,319,380.25
-WMATIC Price: $2.15
-USDC Price: $1.00
-Staked: 0.0000 UNI-V2 ($0.00)
-VAST Per Week: 8400.00 ($0.09)
-APR: Day 4956.16% Week 34693.14% Year 1804043.02%
-You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
-Unstake 0.00 [WMATIC]-[USDC] Uni LP
-Claim 0.00 VAST ($0.00)
-Staking or unstaking also claims rewards.
-
-3 - [USDC]-[USDT] Uni LP [+] [-] [<=>] Price: $2,624,552,484,209.89 TVL: $24,542,816.77
-USDC Price: $1.00
-USDT Price: $1.00
-Staked: 0.0000 UNI-V2 ($197.98)
-VAST Per Week: 8400.00 ($0.09)
-APR: Day 0.01% Week 0.04% Year 2.27%
-You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[USDT] Uni LP - Fee 4%
-Unstake 0.00 [USDC]-[USDT] Uni LP
-Claim 0.00 VAST ($0.00)
-Staking or unstaking also claims rewards.
-
-4 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,872,814.53 TVL: $52,319,380.25
-WMATIC Price: $2.15
-USDC Price: $1.00
-Staked: 0.0000 UNI-V2 ($0.00)
-VAST Per Week: 8400.00 ($0.09)
-APR: Day 4956.16% Week 34693.14% Year 1804043.02%
-You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
-Unstake 0.00 [WMATIC]-[USDC] Uni LP
-Claim 0.00 VAST ($0.00)
-Staking or unstaking also claims rewards.
-
-5 - [WMATIC]-[WETH] Uni LP [+] [-] [<=>] Price: $246.41 TVL: $110,436,831.09
-WMATIC Price: $2.15
-WETH Price: $4,037.16
-Staked: 0.0000 UNI-V2 ($0.00)
-VAST Per Week: 8400.00 ($0.09)
-APR: Day 24934.50% Week 174541.49% Year 9076157.53%
-You are staking 0.00 [WMATIC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[WETH] Uni LP - Fee 4%
-Unstake 0.00 [WMATIC]-[WETH] Uni LP
-Claim 0.00 VAST ($0.00)
-Staking or unstaking also claims rewards.
-
-6 - VAST Price: $0.0000102884 Market Cap: $3.78 [%]
-Staked: 229296.5385 VAST ($2.36)
-VAST Per Week: 28000.00 ($0.29)
-APR: Day 1.74% Week 12.21% Year 634.99%
-You are staking 0.00 VAST ($0.00), 0.00% of the pool.
-Stake 0.00 VAST
-Unstake 0.00 VAST
-Claim 0.00 VAST ($0.00)
-Staking or unstaking also claims rewards.
-
-7 - USDC Price: $1.00 Market Cap: $943,500,239.53 [%]
-Staked: 1.8423 USDC ($1.84)
-VAST Per Week: 5600.00 ($0.06)
-APR: Day 0.45% Week 3.13% Year 162.62%
-You are staking 0.00 USDC ($0.00), 0.00% of the pool.
-Stake 0.00 USDC - Fee 4%
-Unstake 0.00 USDC
-Claim 0.00 VAST ($0.00)
-Staking or unstaking also claims rewards.
-
-8 - WMATIC Price: $2.15 Market Cap: $654,652,488.33 [%]
-Staked: 47.0696 WMATIC ($101.20)
-VAST Per Week: 5600.00 ($0.06)
-APR: Day 0.01% Week 0.06% Year 2.96%
-You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
-Stake 0.00 WMATIC - Fee 4%
-Unstake 0.00 WMATIC
-Claim 0.00 VAST ($0.00)
-Staking or unstaking also claims rewards.
-
-9 - USDT Price: $1.00 Market Cap: $313,461,279.68 [%]
-Staked: 0.0979 USDT ($0.10)
-VAST Per Week: 5600.00 ($0.06)
-APR: Day 8.41% Week 58.84% Year 3059.59%
-You are staking 0.00 USDT ($0.00), 0.00% of the pool.
-Stake 0.00 USDT - Fee 4%
-Unstake 0.00 USDT
-Claim 0.00 VAST ($0.00)
-Staking or unstaking also claims rewards.
-
-10 - DAI Price: $1.00 Market Cap: $374,131,149.78 [%]
-Staked: 0.9664 DAI ($0.97)
-VAST Per Week: 5600.00 ($0.06)
-APR: Day 0.85% Week 5.96% Year 310.01%
-You are staking 0.00 DAI ($0.00), 0.00% of the pool.
-Stake 0.00 DAI - Fee 4%
-Unstake 0.00 DAI
-Claim 0.00 VAST ($0.00)
-Staking or unstaking also claims rewards.
-
-11 - QUICK Price: $251.09 Market Cap: $239,923,545.43 [%]
-Staked: 0.0000 QUICK ($0.00)
-VAST Per Week: 5600.00 ($0.06)
-APR: Day 283.26% Week 1982.81% Year 103106.16%
-You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
-Stake 0.00 QUICK - Fee 4%
-Unstake 0.00 QUICK
-Claim 0.00 VAST ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $306.32
+{
+  "code": -32603,
+  "message": "Non-200 status code: '400'",
+  "data": {
+    "error": "Unable to verify your data submission."
+  }
+}
+Oops something went wrong. Try refreshing the page.

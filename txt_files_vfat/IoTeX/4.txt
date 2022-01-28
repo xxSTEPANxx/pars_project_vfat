@@ -1,0 +1,330 @@
+*************** 👨‍🌾 UNOFFICIAL ZOOMSWAP FINANCE FARMING CALCULATOR 👨‍🌾 ************
+INFO  : https://zoomswap.io
+***********************************************************************************
+
+Fri Jan 28 2022 01:12:02 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 22 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [WIOTX]-[ZM] Mimo LP Token [+] [-] [<=>] Price: $0.09 TVL: $275,208.74
+WIOTX Price: $0.07
+ZM Price: $0.02
+Staked: 3203302.2376 MIMO-LP ($273,907.27)
+ZOOM Per Week: 458181.82 ($10,982.64)
+APR: Day 0.57% Week 4.01% Year 208.50%
+You are staking 0.00 [WIOTX]-[ZM] Mimo LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WIOTX]-[ZM] Mimo LP Token
+Unstake 0.00 [WIOTX]-[ZM] Mimo LP Token
+Claim 0.00 ZOOM ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [BUSD-bsc]-[ZM] Mimo LP Token [+] [-] [<=>] Price: $0.32 TVL: $219,398.95
+BUSD-bsc Price: $1.00
+ZM Price: $0.02
+Staked: 696045.7809 MIMO-LP ($219,376.24)
+ZOOM Per Week: 458181.82 ($10,982.64)
+APR: Day 0.72% Week 5.01% Year 260.33%
+You are staking 0.00 [BUSD-bsc]-[ZM] Mimo LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [BUSD-bsc]-[ZM] Mimo LP Token
+Unstake 0.00 [BUSD-bsc]-[ZM] Mimo LP Token
+Claim 0.00 ZOOM ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [ioETH]-[WIOTX] Mimo LP Token [+] [-] [<=>] Price: $26.55 TVL: $1,640,988.52
+ioETH Price: $2,240.15
+WIOTX Price: $0.07
+Staked: 29570.7081 MIMO-LP ($785,231.46)
+ZOOM Per Week: 15272.73 ($366.09)
+APR: Day 0.01% Week 0.05% Year 2.42%
+You are staking 0.00 [ioETH]-[WIOTX] Mimo LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [ioETH]-[WIOTX] Mimo LP Token
+Unstake 0.00 [ioETH]-[WIOTX] Mimo LP Token
+Claim 0.00 ZOOM ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WIOTX]-[ioBUSD] Mimo LP Token [+] [-] [<=>] Price: $0.60 TVL: $454,135.89
+WIOTX Price: $0.07
+ioBUSD Price: $1.00
+Staked: 736946.5908 MIMO-LP ($443,862.45)
+ZOOM Per Week: 15272.73 ($366.09)
+APR: Day 0.01% Week 0.08% Year 4.29%
+You are staking 0.00 [WIOTX]-[ioBUSD] Mimo LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WIOTX]-[ioBUSD] Mimo LP Token
+Unstake 0.00 [WIOTX]-[ioBUSD] Mimo LP Token
+Claim 0.00 ZOOM ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [BNB-bsc]-[WIOTX] Mimo LP Token [+] [-] [<=>] Price: $10.96 TVL: $753,616.12
+BNB-bsc Price: $378.75
+WIOTX Price: $0.07
+Staked: 68110.9493 MIMO-LP ($746,478.16)
+ZOOM Per Week: 15272.73 ($366.09)
+APR: Day 0.01% Week 0.05% Year 2.55%
+You are staking 0.00 [BNB-bsc]-[WIOTX] Mimo LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [BNB-bsc]-[WIOTX] Mimo LP Token
+Unstake 0.00 [BNB-bsc]-[WIOTX] Mimo LP Token
+Claim 0.00 ZOOM ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [ioUSDC]-[WIOTX] Mimo LP Token [+] [-] [<=>] Price: $561,397.04 TVL: $1,230,384.94
+ioUSDC Price: $1.00
+WIOTX Price: $0.07
+Staked: 2.1753 MIMO-LP ($1,221,207.87)
+ZOOM Per Week: 15272.73 ($366.09)
+APR: Day 0.00% Week 0.03% Year 1.56%
+You are staking 0.00 [ioUSDC]-[WIOTX] Mimo LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [ioUSDC]-[WIOTX] Mimo LP Token
+Unstake 0.00 [ioUSDC]-[WIOTX] Mimo LP Token
+Claim 0.00 ZOOM ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [WIOTX]-[VITA] Mimo LP Token [+] [-] [<=>] Price: $0.01 TVL: $57,361.21
+WIOTX Price: $0.07
+VITA Price: $0.000263
+Staked: 3361100.7169 MIMO-LP ($30,974.78)
+ZOOM Per Week: 1527.27 ($36.61)
+APR: Day 0.02% Week 0.12% Year 6.15%
+You are staking 0.00 [WIOTX]-[VITA] Mimo LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WIOTX]-[VITA] Mimo LP Token
+Unstake 0.00 [WIOTX]-[VITA] Mimo LP Token
+Claim 0.00 ZOOM ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [CYC]-[WIOTX] Mimo LP Token [+] [-] [<=>] Price: $6.44 TVL: $1,608,997.16
+CYC Price: $131.87
+WIOTX Price: $0.07
+Staked: 21610.4455 MIMO-LP ($139,143.62)
+ZOOM Per Week: 15272.73 ($366.09)
+APR: Day 0.04% Week 0.26% Year 13.68%
+You are staking 0.00 [CYC]-[WIOTX] Mimo LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [CYC]-[WIOTX] Mimo LP Token
+Unstake 0.00 [CYC]-[WIOTX] Mimo LP Token
+Claim 0.00 ZOOM ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [ioUSDT]-[WIOTX] Mimo LP Token [+] [-] [<=>] Price: $569,852.85 TVL: $1,993,153.38
+ioUSDT Price: $1.01
+WIOTX Price: $0.07
+Staked: 1.4602 MIMO-LP ($832,080.90)
+ZOOM Per Week: 15272.73 ($366.09)
+APR: Day 0.01% Week 0.04% Year 2.29%
+You are staking 0.00 [ioUSDT]-[WIOTX] Mimo LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [ioUSDT]-[WIOTX] Mimo LP Token
+Unstake 0.00 [ioUSDT]-[WIOTX] Mimo LP Token
+Claim 0.00 ZOOM ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [ioUSDT]-[BUSD-bsc] Mimo LP Token [+] [-] [<=>] Price: $2,043,009.34 TVL: $425,996.90
+ioUSDT Price: $1.01
+BUSD-bsc Price: $1.00
+Staked: 0.1996 MIMO-LP ($407,752.83)
+ZOOM Per Week: 15272.73 ($366.09)
+APR: Day 0.01% Week 0.09% Year 4.67%
+You are staking 0.00 [ioUSDT]-[BUSD-bsc] Mimo LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [ioUSDT]-[BUSD-bsc] Mimo LP Token
+Unstake 0.00 [ioUSDT]-[BUSD-bsc] Mimo LP Token
+Claim 0.00 ZOOM ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [BUSD-bsc]-[WIOTX] Mimo LP Token [+] [-] [<=>] Price: $0.64 TVL: $1,806,257.77
+BUSD-bsc Price: $1.00
+WIOTX Price: $0.07
+Staked: 1188196.4528 MIMO-LP ($762,646.59)
+ZOOM Per Week: 15272.73 ($366.09)
+APR: Day 0.01% Week 0.05% Year 2.50%
+You are staking 0.00 [BUSD-bsc]-[WIOTX] Mimo LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [BUSD-bsc]-[WIOTX] Mimo LP Token
+Unstake 0.00 [BUSD-bsc]-[WIOTX] Mimo LP Token
+Claim 0.00 ZOOM ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - ZM Price: $0.02 Market Cap: $529,719.52 
+Staked: 5217414.2735 ZM ($125,061.66)
+ZOOM Per Week: 61090.91 ($1,464.35)
+APR: Day 0.17% Week 1.17% Year 60.89%
+You are staking 0.00 ZM ($0.00), 0.00% of the pool.
+Stake 0.00 ZM
+Unstake 0.00 ZM
+Claim 0.00 ZOOM ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [GFS]-[WIOTX] Mimo LP Token [+] [-] [<=>] Price: $2.28 TVL: $138,627.80
+GFS Price: $11.05
+WIOTX Price: $0.07
+Staked: 59428.2749 MIMO-LP ($135,389.23)
+ZOOM Per Week: 30545.45 ($732.18)
+APR: Day 0.08% Week 0.54% Year 28.12%
+You are staking 0.00 [GFS]-[WIOTX] Mimo LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [GFS]-[WIOTX] Mimo LP Token
+Unstake 0.00 [GFS]-[WIOTX] Mimo LP Token
+Claim 0.00 ZOOM ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [METX]-[WIOTX] Mimo LP Token [+] [-] [<=>] Price: $0.02 TVL: $37,804.99
+METX Price: $0.001068
+WIOTX Price: $0.07
+Staked: 1835172.0843 MIMO-LP ($33,105.55)
+ZOOM Per Week: 1527.27 ($36.61)
+APR: Day 0.02% Week 0.11% Year 5.75%
+You are staking 0.00 [METX]-[WIOTX] Mimo LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [METX]-[WIOTX] Mimo LP Token
+Unstake 0.00 [METX]-[WIOTX] Mimo LP Token
+Claim 0.00 ZOOM ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [MCN]-[WIOTX] Mimo LP Token [+] [-] [<=>] Price: $2.51 TVL: $116,771.77
+MCN Price: $20.89
+WIOTX Price: $0.07
+Staked: 23263.1456 MIMO-LP ($58,499.88)
+ZOOM Per Week: 15272.73 ($366.09)
+APR: Day 0.09% Week 0.63% Year 32.54%
+You are staking 0.00 [MCN]-[WIOTX] Mimo LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [MCN]-[WIOTX] Mimo LP Token
+Unstake 0.00 [MCN]-[WIOTX] Mimo LP Token
+Claim 0.00 ZOOM ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - WIOTX Price: $0.07 Market Cap: $74,495,323.03 
+Staked: 9919051.4983 WIOTX ($727,344.21)
+ZOOM Per Week: 30545.45 ($732.18)
+APR: Day 0.01% Week 0.10% Year 5.23%
+You are staking 0.00 WIOTX ($0.00), 0.00% of the pool.
+Stake 0.00 WIOTX
+Unstake 0.00 WIOTX
+Claim 0.00 ZOOM ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [WIOTX]-[ioWBTC] Mimo LP Token [+] [-] [<=>] Price: $10,569,557.69 TVL: $367,664.03
+WIOTX Price: $0.07
+ioWBTC Price: $35,907.00
+Staked: 0.0209 MIMO-LP ($220,851.23)
+ZOOM Per Week: 15272.73 ($366.09)
+APR: Day 0.02% Week 0.17% Year 8.62%
+You are staking 0.00 [WIOTX]-[ioWBTC] Mimo LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WIOTX]-[ioWBTC] Mimo LP Token
+Unstake 0.00 [WIOTX]-[ioWBTC] Mimo LP Token
+Claim 0.00 ZOOM ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - [CYC]-[ZM] Mimo LP Token [+] [-] [<=>] Price: $3.57 TVL: $12,456.43
+CYC Price: $131.87
+ZM Price: $0.02
+Staked: 3025.1611 MIMO-LP ($10,803.02)
+ZOOM Per Week: 15272.73 ($366.09)
+APR: Day 0.48% Week 3.39% Year 176.22%
+You are staking 0.00 [CYC]-[ZM] Mimo LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [CYC]-[ZM] Mimo LP Token
+Unstake 0.00 [CYC]-[ZM] Mimo LP Token
+Claim 0.00 ZOOM ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $7,173,716.97
+
+printing old pools to remove your funds
+Staking Contract
+Found 21 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [ZOOM]-[WIOTX] Mimo LP Token [+] [-] [<=>] Price: $0.12 TVL: $5,327.92
+ZOOM Price: $0.04
+WIOTX Price: $0.07
+Staked: 37719.4916 MIMO-LP ($4,581.71)
+Emergency Withdraw 0.00 [ZOOM]-[WIOTX] Mimo LP Token
+
+1 - [BUSD-bsc]-[ZOOM] Mimo LP Token [+] [-] [<=>] Price: $0.44 TVL: $2,749.19
+BUSD-bsc Price: $1.00
+ZOOM Price: $0.04
+Staked: 5227.5679 MIMO-LP ($2,322.90)
+Emergency Withdraw 0.00 [BUSD-bsc]-[ZOOM] Mimo LP Token
+
+2 - [ioETH]-[WIOTX] Mimo LP Token [+] [-] [<=>] Price: $26.55 TVL: $1,640,988.52
+ioETH Price: $2,240.15
+WIOTX Price: $0.07
+Staked: 6.5531 MIMO-LP ($174.01)
+Emergency Withdraw 0.00 [ioETH]-[WIOTX] Mimo LP Token
+
+3 - [WIOTX]-[ioBUSD] Mimo LP Token [+] [-] [<=>] Price: $0.60 TVL: $454,135.89
+WIOTX Price: $0.07
+ioBUSD Price: $1.00
+Staked: 83.3830 MIMO-LP ($50.22)
+Emergency Withdraw 0.00 [WIOTX]-[ioBUSD] Mimo LP Token
+
+4 - [BNB-bsc]-[WIOTX] Mimo LP Token [+] [-] [<=>] Price: $10.96 TVL: $753,616.12
+BNB-bsc Price: $378.75
+WIOTX Price: $0.07
+Staked: 25.8734 MIMO-LP ($283.57)
+Emergency Withdraw 0.00 [BNB-bsc]-[WIOTX] Mimo LP Token
+
+5 - [ioUSDC]-[WIOTX] Mimo LP Token [+] [-] [<=>] Price: $561,397.04 TVL: $1,230,384.94
+ioUSDC Price: $1.00
+WIOTX Price: $0.07
+Staked: 0.0032 MIMO-LP ($1,816.27)
+Emergency Withdraw 0.00 [ioUSDC]-[WIOTX] Mimo LP Token
+
+7 - [WIOTX]-[VITA] Mimo LP Token [+] [-] [<=>] Price: $0.01 TVL: $57,361.21
+WIOTX Price: $0.07
+VITA Price: $0.000263
+Staked: 51095.5923 MIMO-LP ($470.88)
+Emergency Withdraw 0.00 [WIOTX]-[VITA] Mimo LP Token
+
+8 - [CYC]-[WIOTX] Mimo LP Token [+] [-] [<=>] Price: $6.44 TVL: $1,608,997.16
+CYC Price: $131.87
+WIOTX Price: $0.07
+Staked: 1.6238 MIMO-LP ($10.45)
+Emergency Withdraw 0.00 [CYC]-[WIOTX] Mimo LP Token
+
+9 - [ioUSDT]-[WIOTX] Mimo LP Token [+] [-] [<=>] Price: $569,852.85 TVL: $1,993,153.38
+ioUSDT Price: $1.01
+WIOTX Price: $0.07
+Staked: 0.0000 MIMO-LP ($0.17)
+Emergency Withdraw 0.00 [ioUSDT]-[WIOTX] Mimo LP Token
+
+10 - [ioUSDT]-[BUSD-bsc] Mimo LP Token [+] [-] [<=>] Price: $2,043,009.34 TVL: $425,996.90
+ioUSDT Price: $1.01
+BUSD-bsc Price: $1.00
+Staked: 0.0000 MIMO-LP ($0.52)
+Emergency Withdraw 0.00 [ioUSDT]-[BUSD-bsc] Mimo LP Token
+
+11 - [BUSD-bsc]-[WIOTX] Mimo LP Token [+] [-] [<=>] Price: $0.64 TVL: $1,806,257.77
+BUSD-bsc Price: $1.00
+WIOTX Price: $0.07
+Staked: 0.0000 MIMO-LP ($0.00)
+Emergency Withdraw 0.00 [BUSD-bsc]-[WIOTX] Mimo LP Token
+
+12 - ZOOM Price: $0.04 Market Cap: $524,325.87 
+Staked: 1281158.5744 ZOOM ($57,075.37)
+Emergency Withdraw 0.00 ZOOM
+
+13 - [GFS]-[WIOTX] Mimo LP Token [+] [-] [<=>] Price: $2.28 TVL: $138,627.80
+GFS Price: $11.05
+WIOTX Price: $0.07
+Staked: 6.0750 MIMO-LP ($13.84)
+Emergency Withdraw 0.00 [GFS]-[WIOTX] Mimo LP Token
+
+14 - [METX]-[WIOTX] Mimo LP Token [+] [-] [<=>] Price: $0.02 TVL: $37,804.99
+METX Price: $0.001068
+WIOTX Price: $0.07
+Staked: 61756.9822 MIMO-LP ($1,114.06)
+Emergency Withdraw 0.00 [METX]-[WIOTX] Mimo LP Token
+
+17 - [MCN]-[WIOTX] Mimo LP Token [+] [-] [<=>] Price: $2.51 TVL: $116,771.77
+MCN Price: $20.89
+WIOTX Price: $0.07
+Staked: 66.1234 MIMO-LP ($166.28)
+Emergency Withdraw 0.00 [MCN]-[WIOTX] Mimo LP Token
+
+18 - WIOTX Price: $0.07 Market Cap: $74,495,323.03 
+Staked: 101298.4958 WIOTX ($7,428.02)
+Emergency Withdraw 0.00 WIOTX
+
+19 - [WIOTX]-[ioWBTC] Mimo LP Token [+] [-] [<=>] Price: $10,569,557.69 TVL: $367,664.03
+WIOTX Price: $0.07
+ioWBTC Price: $35,907.00
+Staked: 0.0002 MIMO-LP ($2,061.52)
+Emergency Withdraw 0.00 [WIOTX]-[ioWBTC] Mimo LP Token

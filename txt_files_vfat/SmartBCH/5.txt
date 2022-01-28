@@ -1,0 +1,252 @@
+*************** 👨‍🌾 UNOFFICIAL 1BCH FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://1bch.com
+*************************************************************************
+
+Fri Jan 28 2022 01:17:15 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 44 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - rBCH Price: $0.0000508473 Market Cap: $293,445.17 
+Staked: 1264211973.2269 rBCH ($64,281.73)
+RBCH Per Week: 37794921.40 ($1,921.77)
+APR: Day 0.43% Week 2.99% Year 155.46%
+You are staking 0.00 rBCH ($0.00), 0.00% of the pool.
+Stake 0.00 rBCH
+Unstake 0.00 rBCH
+Claim 0.00 RBCH ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [WBCH]-[1BCH] Cake LP [+] [-] [<=>] Price: $2.37 TVL: $57,816.13
+WBCH Price: $284.41
+1BCH Price: $0.004783
+Staked: 11721.5278 Cake-LP ($27,733.83)
+RBCH Per Week: 25392986.70 ($1,291.16)
+APR: Day 0.67% Week 4.66% Year 242.09%
+You are staking 0.00 [WBCH]-[1BCH] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[1BCH] Cake LP
+Unstake 0.00 [WBCH]-[1BCH] Cake LP
+Claim 0.00 RBCH ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [WBCH]-[flexUSD] Cake LP [+] [-] [<=>] Price: $34.09 TVL: $67,284.48
+WBCH Price: $284.41
+flexUSD Price: $1.00
+Staked: 1563.8383 Cake-LP ($53,303.50)
+RBCH Per Week: 10157194.68 ($516.47)
+APR: Day 0.14% Week 0.97% Year 50.38%
+You are staking 0.00 [WBCH]-[flexUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[flexUSD] Cake LP
+Unstake 0.00 [WBCH]-[flexUSD] Cake LP
+Claim 0.00 RBCH ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [1BCH]-[rBCH] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $302,890.40
+1BCH Price: $0.004783
+rBCH Price: $0.0000508473
+Staked: 57705296.7464 Cake-LP ($57,675.82)
+RBCH Per Week: 50785973.40 ($2,582.33)
+APR: Day 0.64% Week 4.48% Year 232.82%
+You are staking 0.00 [1BCH]-[rBCH] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [1BCH]-[rBCH] Cake LP
+Unstake 0.00 [1BCH]-[rBCH] Cake LP
+Claim 0.00 RBCH ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [WBCH]-[rBCH] Cake LP [+] [-] [<=>] Price: $0.24 TVL: $35,821.53
+WBCH Price: $284.41
+rBCH Price: $0.0000508473
+Staked: 145720.3303 Cake-LP ($35,697.13)
+RBCH Per Week: 25392986.70 ($1,291.16)
+APR: Day 0.52% Week 3.62% Year 188.08%
+You are staking 0.00 [WBCH]-[rBCH] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[rBCH] Cake LP
+Unstake 0.00 [WBCH]-[rBCH] Cake LP
+Claim 0.00 RBCH ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - [WBCH]-[EBEN] Cake LP [+] [-] [<=>] Price: $21.28 TVL: $1,849.27
+WBCH Price: $284.41
+EBEN Price: $0.40
+Staked: 86.6549 Cake-LP ($1,844.24)
+RBCH Per Week: 101571.95 ($5.16)
+APR: Day 0.04% Week 0.28% Year 14.56%
+You are staking 0.00 [WBCH]-[EBEN] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[EBEN] Cake LP
+Unstake 0.00 [WBCH]-[EBEN] Cake LP
+Claim 0.00 RBCH ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - [WBCH]-[TANGO] Cake LP [+] [-] [<=>] Price: $9.54 TVL: $519.55
+WBCH Price: $284.41
+TANGO Price: $0.08
+Staked: 45.4602 Cake-LP ($433.90)
+RBCH Per Week: 101571.95 ($5.16)
+APR: Day 0.17% Week 1.19% Year 61.89%
+You are staking 0.00 [WBCH]-[TANGO] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[TANGO] Cake LP
+Unstake 0.00 [WBCH]-[TANGO] Cake LP
+Claim 0.00 RBCH ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - [WBCH]-[MIST] Cake LP [+] [-] [<=>] Price: $3.55 TVL: $1,339.11
+WBCH Price: $284.41
+MIST Price: $0.01
+Staked: 333.1004 Cake-LP ($1,181.14)
+RBCH Per Week: 101571.95 ($5.16)
+APR: Day 0.06% Week 0.44% Year 22.74%
+You are staking 0.00 [WBCH]-[MIST] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[MIST] Cake LP
+Unstake 0.00 [WBCH]-[MIST] Cake LP
+Claim 0.00 RBCH ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [WBCH]-[FLEX] Cake LP [+] [-] [<=>] Price: $70.39 TVL: $146.63
+WBCH Price: $284.41
+FLEX Price: $4.33
+Staked: 2.0177 Cake-LP ($142.03)
+RBCH Per Week: 101571.95 ($5.16)
+APR: Day 0.52% Week 3.64% Year 189.09%
+You are staking 0.00 [WBCH]-[FLEX] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[FLEX] Cake LP
+Unstake 0.00 [WBCH]-[FLEX] Cake LP
+Claim 0.00 RBCH ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - [$CATS]-[WBCH] Cake LP [+] [-] [<=>] Price: $235,113,623.78 TVL: $264.55
+$CATS Price: $0.004800
+WBCH Price: $284.41
+Staked: 0.0000 Cake-LP ($252.06)
+RBCH Per Week: 101571.95 ($5.16)
+APR: Day 0.29% Week 2.05% Year 106.55%
+You are staking 0.00 [$CATS]-[WBCH] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [$CATS]-[WBCH] Cake LP
+Unstake 0.00 [$CATS]-[WBCH] Cake LP
+Claim 0.00 RBCH ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - [WBCH]-[SPICE] Cake LP [+] [-] [<=>] Price: $0.47 TVL: $233.17
+WBCH Price: $284.41
+SPICE Price: $0.000197
+Staked: 485.8455 Cake-LP ($230.48)
+RBCH Per Week: 101571.95 ($5.16)
+APR: Day 0.32% Week 2.24% Year 116.52%
+You are staking 0.00 [WBCH]-[SPICE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[SPICE] Cake LP
+Unstake 0.00 [WBCH]-[SPICE] Cake LP
+Claim 0.00 RBCH ($0.00)
+Staking or unstaking also claims rewards.
+
+29 - [WBCH]-[BPAD] Cake LP [+] [-] [<=>] Price: $4.10 TVL: $303.67
+WBCH Price: $284.41
+BPAD Price: $0.01
+Staked: 71.9656 Cake-LP ($294.83)
+RBCH Per Week: 101571.95 ($5.16)
+APR: Day 0.25% Week 1.75% Year 91.09%
+You are staking 0.00 [WBCH]-[BPAD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[BPAD] Cake LP
+Unstake 0.00 [WBCH]-[BPAD] Cake LP
+Claim 0.00 RBCH ($0.00)
+Staking or unstaking also claims rewards.
+
+32 - [WBCH]-[WRS] Cake LP [+] [-] [<=>] Price: $192,625.95 TVL: $3,003.46
+WBCH Price: $284.41
+WRS Price: $0.0000325137
+Staked: 0.0156 Cake-LP ($3,002.82)
+RBCH Per Week: 101571.95 ($5.16)
+APR: Day 0.02% Week 0.17% Year 8.94%
+You are staking 0.00 [WBCH]-[WRS] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[WRS] Cake LP
+Unstake 0.00 [WBCH]-[WRS] Cake LP
+Claim 0.00 RBCH ($0.00)
+Staking or unstaking also claims rewards.
+
+33 - [HAM]-[1BCH] Cake LP [+] [-] [<=>] Price: $474.41 TVL: $405.66
+HAM Price: $0.001158
+1BCH Price: $0.004783
+Staked: 0.8454 Cake-LP ($401.09)
+RBCH Per Week: 101571.95 ($5.16)
+APR: Day 0.18% Week 1.29% Year 66.96%
+You are staking 0.00 [HAM]-[1BCH] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [HAM]-[1BCH] Cake LP
+Unstake 0.00 [HAM]-[1BCH] Cake LP
+Claim 0.00 RBCH ($0.00)
+Staking or unstaking also claims rewards.
+
+35 - [WBCH]-[DAO] Cake LP [+] [-] [<=>] Price: $26,178.09 TVL: $246.90
+WBCH Price: $284.41
+DAO Price: $0.0000058877
+Staked: 0.0083 Cake-LP ($217.44)
+RBCH Per Week: 101571.95 ($5.16)
+APR: Day 0.34% Week 2.38% Year 123.51%
+You are staking 0.00 [WBCH]-[DAO] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[DAO] Cake LP
+Unstake 0.00 [WBCH]-[DAO] Cake LP
+Claim 0.00 RBCH ($0.00)
+Staking or unstaking also claims rewards.
+
+36 - [HAM]-[WBCH] Cake LP [+] [-] [<=>] Price: $116,127.87 TVL: $8,033.61
+HAM Price: $0.001158
+WBCH Price: $284.41
+Staked: 0.0688 Cake-LP ($7,994.85)
+RBCH Per Week: 253929.87 ($12.91)
+APR: Day 0.02% Week 0.16% Year 8.40%
+You are staking 0.00 [HAM]-[WBCH] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [HAM]-[WBCH] Cake LP
+Unstake 0.00 [HAM]-[WBCH] Cake LP
+Claim 0.00 RBCH ($0.00)
+Staking or unstaking also claims rewards.
+
+39 - [NARATH]-[1BCH] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $846.91
+NARATH Price: $0.0000000971
+1BCH Price: $0.004783
+Staked: 19579250.7589 Cake-LP ($846.34)
+RBCH Per Week: 101571.95 ($5.16)
+APR: Day 0.09% Week 0.61% Year 31.73%
+You are staking 0.00 [NARATH]-[1BCH] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [NARATH]-[1BCH] Cake LP
+Unstake 0.00 [NARATH]-[1BCH] Cake LP
+Claim 0.00 RBCH ($0.00)
+Staking or unstaking also claims rewards.
+
+41 - [KONRA]-[1BCH] Cake LP [+] [-] [<=>] Price: $0.36 TVL: $759.77
+KONRA Price: $6.75
+1BCH Price: $0.004783
+Staked: 2102.8253 Cake-LP ($757.20)
+RBCH Per Week: 101571.95 ($5.16)
+APR: Day 0.10% Week 0.68% Year 35.47%
+You are staking 0.00 [KONRA]-[1BCH] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KONRA]-[1BCH] Cake LP
+Unstake 0.00 [KONRA]-[1BCH] Cake LP
+Claim 0.00 RBCH ($0.00)
+Staking or unstaking also claims rewards.
+
+42 - [LAMBO]-[1BCH] Cake LP [+] [-] [<=>] Price: $0.05 TVL: $1,063.92
+LAMBO Price: $0.14
+1BCH Price: $0.004783
+Staked: 20580.6764 Cake-LP ($1,063.17)
+RBCH Per Week: 101571.95 ($5.16)
+APR: Day 0.07% Week 0.49% Year 25.26%
+You are staking 0.00 [LAMBO]-[1BCH] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LAMBO]-[1BCH] Cake LP
+Unstake 0.00 [LAMBO]-[1BCH] Cake LP
+Claim 0.00 RBCH ($0.00)
+Staking or unstaking also claims rewards.
+
+43 - [WRS]-[1BCH] Cake LP [+] [-] [<=>] Price: $7,076.11 TVL: $956.51
+WRS Price: $0.0000325137
+1BCH Price: $0.004783
+Staked: 0.1352 Cake-LP ($956.50)
+RBCH Per Week: 101571.95 ($5.16)
+APR: Day 0.08% Week 0.54% Year 28.08%
+You are staking 0.00 [WRS]-[1BCH] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WRS]-[1BCH] Cake LP
+Unstake 0.00 [WRS]-[1BCH] Cake LP
+Claim 0.00 RBCH ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $258,310.11

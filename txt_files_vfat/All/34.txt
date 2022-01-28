@@ -1,0 +1,81 @@
+*************** 👨‍🌾 UNOFFICIAL XUSD CALCULATOR 👨‍🌾 ***************
+INFO  : https://xusd.money/
+*****************************************************************
+
+Thu Jan 27 2022 19:24:39 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+[XUS]-[WETH] Uni LP [+] [-] [<=>] Price: $24.59 TVL: $1,439.34
+XUS Price: $0.04
+WETH Price: $2,467.56
+Staked: 56.8663 UNI-V2 ($1,398.10)
+XUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [XUS]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [XUS]-[WETH] Uni LP
+Unstake 0.000000 [XUS]-[WETH] Uni LP
+Claim 0.000000 XUS ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[XUSD]-[XUS] Uni LP [+] [-] [<=>] Price: $0.11 TVL: $496.94
+XUSD Price: $0.06
+XUS Price: $0.04
+Staked: 4373.9160 UNI-V2 ($490.96)
+XUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [XUSD]-[XUS] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [XUSD]-[XUS] Uni LP
+Unstake 0.000000 [XUSD]-[XUS] Uni LP
+Claim 0.000000 XUS ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[XUSD]-[DAI] Uni LP [+] [-] [<=>] Price: $0.55 TVL: $1,287.76
+XUSD Price: $0.06
+DAI Price: $1.00
+Staked: 2237.2457 UNI-V2 ($1,230.77)
+XUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [XUSD]-[DAI] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [XUSD]-[DAI] Uni LP
+Unstake 0.000000 [XUSD]-[DAI] Uni LP
+Claim 0.000000 XUS ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[XUSD]-[WETH] Uni LP [+] [-] [<=>] Price: $27.08 TVL: $48.73
+XUSD Price: $0.06
+WETH Price: $2,467.56
+Staked: 1.7991 UNI-V2 ($48.71)
+XUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [XUSD]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [XUSD]-[WETH] Uni LP
+Unstake 0.000000 [XUSD]-[WETH] Uni LP
+Claim 0.000000 XUS ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[XUSD]-[LINK] Uni LP [+] [-] [<=>] Price: $3.16 TVL: $0.00
+XUSD Price: $0.06
+LINK Price: $15.40
+Staked: 0.0010 UNI-V2 ($0.00)
+XUS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [XUSD]-[LINK] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [XUSD]-[LINK] Uni LP
+Unstake 0.000000 [XUSD]-[LINK] Uni LP
+Claim 0.000000 XUS ($0.00)
+Revoke (set approval to 0)
+Exit
+
+Total staked: $3,168.56

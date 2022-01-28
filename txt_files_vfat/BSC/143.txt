@@ -1,0 +1,117 @@
+*************** 👨‍🌾 UNOFFICIAL SOJU FINANCE FARMING CALCULATOR 👨‍🌾 *****************
+INFO  : https://sojudefi.com
+****************************************************************************************
+
+Thu Jan 27 2022 20:41:52 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 9 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [SOJU]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.02 TVL: $234.37
+SOJU Price: $0.000120
+BUSD Price: $1.00
+Staked: 9576.4296 Cake-LP ($223.61)
+SOJU Per Week: 95809.90 ($11.53)
+APR: Day 0.74% Week 5.15% Year 268.05%
+You are staking 0.00 [SOJU]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SOJU]-[BUSD] Cake LP
+Unstake 0.00 [SOJU]-[BUSD] Cake LP
+Claim 0.00 SOJU ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [SOJU]-[WBNB] Cake LP [+] [-] [<=>] Price: $0.44 TVL: $107.39
+SOJU Price: $0.000120
+WBNB Price: $369.82
+Staked: 233.1620 Cake-LP ($103.71)
+SOJU Per Week: 47904.95 ($5.76)
+APR: Day 0.79% Week 5.56% Year 288.98%
+You are staking 0.00 [SOJU]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SOJU]-[WBNB] Cake LP
+Unstake 0.00 [SOJU]-[WBNB] Cake LP
+Claim 0.00 SOJU ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $65.95 TVL: $2,134,222.16
+WBNB Price: $369.82
+BUSD Price: $1.00
+Staked: 0.4294 Cake-LP ($28.32)
+SOJU Per Week: 5988.12 ($0.72)
+APR: Day 0.36% Week 2.54% Year 132.27%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 3%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 SOJU ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - BUSD Price: $1.00 Market Cap: $4,845,740,905.29 [%]
+Staked: 38.4000 BUSD ($38.36)
+SOJU Per Week: 1996.04 ($0.24)
+APR: Day 0.09% Week 0.63% Year 32.55%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 SOJU ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - WBNB Price: $369.82 Market Cap: $1,930,965,961.43 [%]
+Staked: 0.1920 WBNB ($71.01)
+SOJU Per Week: 1996.04 ($0.24)
+APR: Day 0.05% Week 0.34% Year 17.59%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 SOJU ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [BTCB]-[SOJU] Cake LP [+] [-] [<=>] Price: $4.27 TVL: $48.52
+BTCB Price: $36,219.00
+SOJU Price: $0.000120
+Staked: 3.7833 Cake-LP ($16.15)
+SOJU Per Week: 19960.40 ($2.40)
+APR: Day 2.12% Week 14.87% Year 773.05%
+You are staking 0.00 [BTCB]-[SOJU] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[SOJU] Cake LP
+Unstake 0.00 [BTCB]-[SOJU] Cake LP
+Claim 0.00 SOJU ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - SOJU Price: $0.000120 Market Cap: $1,160.11 [%]
+Staked: 3670353.8094 SOJU ($441.57)
+SOJU Per Week: 9980.20 ($1.20)
+APR: Day 0.04% Week 0.27% Year 14.14%
+You are staking 0.00 SOJU ($0.00), 0.00% of the pool.
+Stake 0.00 SOJU
+Unstake 0.00 SOJU
+Claim 0.00 SOJU ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [SOJU]-[SAKE] Cake LP [+] [-] [<=>] Price: $4.39 TVL: $27.51
+SOJU Price: $0.000120
+SAKE Price: $0.0000028546
+Staked: 3.8233 Cake-LP ($16.79)
+SOJU Per Week: 15968.32 ($1.92)
+APR: Day 1.63% Week 11.44% Year 594.99%
+You are staking 0.00 [SOJU]-[SAKE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SOJU]-[SAKE] Cake LP
+Unstake 0.00 [SOJU]-[SAKE] Cake LP
+Claim 0.00 SOJU ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [SAKE]-[BUSD] Cake LP [+] [-] [<=>] Price: $399.51 TVL: $32.08
+SAKE Price: $0.0000028546
+BUSD Price: $1.00
+Staked: 0.0749 Cake-LP ($29.94)
+SOJU Per Week: 1996.04 ($0.24)
+APR: Day 0.11% Week 0.80% Year 41.71%
+You are staking 0.00 [SAKE]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SAKE]-[BUSD] Cake LP - Fee 0.5%
+Unstake 0.00 [SAKE]-[BUSD] Cake LP
+Claim 0.00 SOJU ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $969.44

@@ -1,0 +1,73 @@
+*************** 👨‍🌾 UNOFFICIAL EGGPLANT FARMING CALCULATOR 👨‍🌾 *****************
+INFO  : https://eggplant.fi
+*******************************************************************************
+
+Thu Jan 27 2022 20:58:18 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 5 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - EGGP Price: $0.03 Market Cap: $67,708.63 [%]
+Staked: 913795.8967 EGGP ($22,845.38)
+EGGP Per Week: 3275.75 ($81.90)
+APR: Day 0.05% Week 0.36% Year 18.64%
+You are staking 0.00 EGGP ($0.00), 0.00% of the pool.
+Stake 0.00 EGGP
+Unstake 0.00 EGGP
+Claim 0.00 EGGP ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [EGGP]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.33 TVL: $22,491.73
+EGGP Price: $0.03
+BUSD Price: $1.00
+Staked: 43510.1562 Cake-LP ($14,185.55)
+EGGP Per Week: 4422.71 ($110.57)
+APR: Day 0.11% Week 0.78% Year 40.53%
+You are staking 0.00 [EGGP]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [EGGP]-[BUSD] Cake LP
+Unstake 0.00 [EGGP]-[BUSD] Cake LP - Fee 2%
+Claim 0.00 EGGP ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [EGGP]-[WBNB] Cake LP [+] [-] [<=>] Price: $6.25 TVL: $22,286.40
+EGGP Price: $0.03
+WBNB Price: $368.93
+Staked: 1527.8423 Cake-LP ($9,550.87)
+EGGP Per Week: 3931.30 ($98.28)
+APR: Day 0.15% Week 1.03% Year 53.51%
+You are staking 0.00 [EGGP]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [EGGP]-[WBNB] Cake LP
+Unstake 0.00 [EGGP]-[WBNB] Cake LP - Fee 2%
+Claim 0.00 EGGP ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [Cake]-[EGGP] Cake LP [+] [-] [<=>] Price: $0.85 TVL: $2,023.32
+Cake Price: $7.02
+EGGP Price: $0.03
+Staked: 1681.8907 Cake-LP ($1,430.85)
+EGGP Per Week: 982.82 ($24.57)
+APR: Day 0.25% Week 1.72% Year 89.30%
+You are staking 0.00 [Cake]-[EGGP] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[EGGP] Cake LP
+Unstake 0.00 [Cake]-[EGGP] Cake LP - Fee 2%
+Claim 0.00 EGGP ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [EGGP]-[BTCB] Cake LP [+] [-] [<=>] Price: $60.61 TVL: $289.33
+EGGP Price: $0.03
+BTCB Price: $36,305.00
+Staked: 4.4952 Cake-LP ($272.46)
+EGGP Per Week: 491.41 ($12.29)
+APR: Day 0.64% Week 4.51% Year 234.47%
+You are staking 0.00 [EGGP]-[BTCB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [EGGP]-[BTCB] Cake LP
+Unstake 0.00 [EGGP]-[BTCB] Cake LP - Fee 2%
+Claim 0.00 EGGP ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $48,285.11

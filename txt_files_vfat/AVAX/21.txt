@@ -1,0 +1,164 @@
+***************************** AVALANCHE *********************************
+    
+*************** 👨‍🌾 UNOFFICIAL DUTCH FINANCE FARMING CALCULATOR 👨‍🌾 ***********
+INFO  : https://avax.theflyingdutchman.finance
+************************************************************************
+
+Fri Jan 28 2022 00:13:52 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 14 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [USDT.e]-[DUTCH] PGL [+] [-] [<=>] Price: $1,049,004.72 TVL: $405.66
+USDT.e Price: $1.00
+DUTCH Price: $0.23
+Staked: 0.0000 PGL ($48.87)
+DUTCH Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDT.e]-[DUTCH] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT.e]-[DUTCH] PGL
+Unstake 0.00 [USDT.e]-[DUTCH] PGL
+Claim 0.00 DUTCH ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WAVAX]-[USDT.e] PGL [+] [-] [<=>] Price: $21,365,252.03 TVL: $16,519,483.12
+WAVAX Price: $61.81
+USDT.e Price: $1.00
+Staked: 0.0001 PGL ($1,889.75)
+DUTCH Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WAVAX]-[USDT.e] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [WAVAX]-[USDT.e] PGL - Fee 4%
+Unstake 0.00 [WAVAX]-[USDT.e] PGL
+Claim 0.00 DUTCH ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WAVAX]-[DAI.e] PGL [+] [-] [<=>] Price: $19.33 TVL: $5,963,682.72
+WAVAX Price: $61.81
+DAI.e Price: $1.00
+Staked: 19.2634 PGL ($372.40)
+DUTCH Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WAVAX]-[DAI.e] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [WAVAX]-[DAI.e] PGL - Fee 4%
+Unstake 0.00 [WAVAX]-[DAI.e] PGL
+Claim 0.00 DUTCH ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WETH.e]-[WAVAX] PGL [+] [-] [<=>] Price: $832.54 TVL: $16,263,612.74
+WETH.e Price: $2,328.09
+WAVAX Price: $61.81
+Staked: 0.8314 PGL ($692.19)
+DUTCH Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WETH.e]-[WAVAX] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH.e]-[WAVAX] PGL - Fee 4%
+Unstake 0.00 [WETH.e]-[WAVAX] PGL
+Claim 0.00 DUTCH ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - DUTCH Price: $0.23 Market Cap: $559.21 
+Staked: 290.5928 DUTCH ($67.55)
+DUTCH Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 DUTCH ($0.00), 0.00% of the pool.
+Stake 0.00 DUTCH
+Unstake 0.00 DUTCH
+Claim 0.00 DUTCH ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - WAVAX Price: $61.81 Market Cap: $1,046,905,375.71 
+Staked: 9.6885 WAVAX ($598.84)
+DUTCH Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WAVAX ($0.00), 0.00% of the pool.
+Stake 0.00 WAVAX - Fee 4%
+Unstake 0.00 WAVAX
+Claim 0.00 DUTCH ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - USDT.e Price: $1.00 Market Cap: $748,340,474.33 
+Staked: 0.0000 USDT.e ($0.00)
+DUTCH Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 USDT.e ($0.00), NaN% of the pool.
+Stake 0.00 USDT.e - Fee 4%
+Unstake 0.00 USDT.e
+Claim 0.00 DUTCH ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - USDC.e Price: $1.00 Market Cap: $1,441,586,840.14 
+Staked: 9.2513 USDC.e ($9.25)
+DUTCH Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 USDC.e ($0.00), 0.00% of the pool.
+Stake 0.00 USDC.e - Fee 4%
+Unstake 0.00 USDC.e
+Claim 0.00 DUTCH ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - WBTC.e Price: $35,656.00 Market Cap: $723,091,638.61 
+Staked: 0.0003 WBTC.e ($12.42)
+DUTCH Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WBTC.e ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC.e - Fee 4%
+Unstake 0.00 WBTC.e
+Claim 0.00 DUTCH ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - WETH.e Price: $2,328.09 Market Cap: $1,019,024,226.94 
+Staked: 0.0866 WETH.e ($201.66)
+DUTCH Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WETH.e ($0.00), 0.00% of the pool.
+Stake 0.00 WETH.e - Fee 4%
+Unstake 0.00 WETH.e
+Claim 0.00 DUTCH ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - DAI.e Price: $1.00 Market Cap: $648,589,353.49 
+Staked: 0.0000 DAI.e ($0.00)
+DUTCH Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 DAI.e ($0.00), NaN% of the pool.
+Stake 0.00 DAI.e - Fee 4%
+Unstake 0.00 DAI.e
+Claim 0.00 DUTCH ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - YAK Price: $1,381.47 Market Cap: $13,814,700.00 
+Staked: 0.0033 YAK ($4.52)
+DUTCH Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 YAK ($0.00), 0.00% of the pool.
+Stake 0.00 YAK - Fee 4%
+Unstake 0.00 YAK
+Claim 0.00 DUTCH ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - JOE Price: $0.91 Market Cap: $259,656,766.55 
+Staked: 19.6104 JOE ($17.89)
+DUTCH Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 JOE ($0.00), 0.00% of the pool.
+Stake 0.00 JOE - Fee 4%
+Unstake 0.00 JOE
+Claim 0.00 DUTCH ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - LYD Price: $0.007106 Market Cap: $1,613,813.34 
+Staked: 198.2158 LYD ($1.41)
+DUTCH Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 LYD ($0.00), 0.00% of the pool.
+Stake 0.00 LYD - Fee 4%
+Unstake 0.00 LYD
+Claim 0.00 DUTCH ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $3,916.74

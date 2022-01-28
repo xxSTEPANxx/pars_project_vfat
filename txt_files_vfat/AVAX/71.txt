@@ -1,0 +1,98 @@
+***************************** AVALANCHE **************************************
+    
+*************** 👨‍🌾 UNOFFICIAL MOCHISWAP FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://avalanche.mochiswap.io
+******************************************************************************
+
+Fri Jan 28 2022 00:28:19 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 14 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - aMOCHI Price: $0.002887 Market Cap: $10,788.58 
+Staked: 2881194.6291 aMOCHI ($8,319.37)
+aMOCHI Per Week: 11375.26 ($32.85)
+APR: Day 0.06% Week 0.39% Year 20.53%
+You are staking 0.00 aMOCHI ($0.00), 0.00% of the pool.
+Stake 0.00 aMOCHI
+Unstake 0.00 aMOCHI
+Claim 0.00 aMOCHI ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [aMOCHI]-[WAVAX] Mochi LP Token [+] [-] [<=>] Price: $0.92 TVL: $1,378.86
+aMOCHI Price: $0.002887
+WAVAX Price: $62.00
+Staked: 1435.7905 MOCHI-LP ($1,324.48)
+aMOCHI Per Week: 10111.35 ($29.20)
+APR: Day 0.31% Week 2.20% Year 114.63%
+You are staking 0.00 [aMOCHI]-[WAVAX] Mochi LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [aMOCHI]-[WAVAX] Mochi LP Token
+Unstake 0.00 [aMOCHI]-[WAVAX] Mochi LP Token
+Claim 0.00 aMOCHI ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [aMOCHI]-[MIM] Mochi LP Token [+] [-] [<=>] Price: $0.11 TVL: $1,464.21
+aMOCHI Price: $0.002887
+MIM Price: $1.00
+Staked: 13368.1742 MOCHI-LP ($1,459.89)
+aMOCHI Per Week: 10111.35 ($29.20)
+APR: Day 0.29% Week 2.00% Year 103.99%
+You are staking 0.00 [aMOCHI]-[MIM] Mochi LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [aMOCHI]-[MIM] Mochi LP Token
+Unstake 0.00 [aMOCHI]-[MIM] Mochi LP Token
+Claim 0.00 aMOCHI ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [MIM]-[WAVAX] Mochi LP Token [+] [-] [<=>] Price: $15.88 TVL: $1,198.89
+MIM Price: $1.00
+WAVAX Price: $62.00
+Staked: 74.9872 MOCHI-LP ($1,190.66)
+aMOCHI Per Week: 1263.92 ($3.65)
+APR: Day 0.04% Week 0.31% Year 15.94%
+You are staking 0.00 [MIM]-[WAVAX] Mochi LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [MIM]-[WAVAX] Mochi LP Token
+Unstake 0.00 [MIM]-[WAVAX] Mochi LP Token
+Claim 0.00 aMOCHI ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [WAVAX]-[TIME] Mochi LP Token [+] [-] [<=>] Price: $9,503,299.67 TVL: $544.80
+WAVAX Price: $62.00
+TIME Price: $351.20
+Staked: 0.0001 MOCHI-LP ($544.06)
+aMOCHI Per Week: 1263.92 ($3.65)
+APR: Day 0.10% Week 0.67% Year 34.88%
+You are staking 0.00 [WAVAX]-[TIME] Mochi LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WAVAX]-[TIME] Mochi LP Token
+Unstake 0.00 [WAVAX]-[TIME] Mochi LP Token
+Claim 0.00 aMOCHI ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [aMOCHI]-[TIME] Mochi LP Token [+] [-] [<=>] Price: $64,784.49 TVL: $611.43
+aMOCHI Price: $0.002887
+TIME Price: $351.20
+Staked: 0.0094 MOCHI-LP ($609.42)
+aMOCHI Per Week: 10111.35 ($29.20)
+APR: Day 0.68% Week 4.79% Year 249.12%
+You are staking 0.00 [aMOCHI]-[TIME] Mochi LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [aMOCHI]-[TIME] Mochi LP Token
+Unstake 0.00 [aMOCHI]-[TIME] Mochi LP Token
+Claim 0.00 aMOCHI ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [MIM]-[TIME] Mochi LP Token [+] [-] [<=>] Price: $1,200,625.42 TVL: $246.50
+MIM Price: $1.00
+TIME Price: $351.20
+Staked: 0.0002 MOCHI-LP ($198.05)
+aMOCHI Per Week: 1263.92 ($3.65)
+APR: Day 0.26% Week 1.84% Year 95.82%
+You are staking 0.00 [MIM]-[TIME] Mochi LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [MIM]-[TIME] Mochi LP Token
+Unstake 0.00 [MIM]-[TIME] Mochi LP Token
+Claim 0.00 aMOCHI ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $13,645.93

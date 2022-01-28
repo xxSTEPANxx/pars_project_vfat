@@ -1,0 +1,181 @@
+*************** 👨‍🌾 UNOFFICIAL MEOW FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://meowswap.net
+**************************************************************************
+
+Thu Jan 27 2022 21:38:41 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 43 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+21 - MEOW Price: $0.00 Market Cap: $0.00 
+Staked: 1052764.1970 MEOW ($0.00)
+MEOW Per Week: 15044.78 ($374.85)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 MEOW ($0.00), NaN% of the pool.
+Stake 0.00 MEOW
+Unstake 0.00 MEOW
+Claim 0.00 MEOW ($0.00)
+Staking or unstaking also claims rewards.
+
+29 - [USDT]-[BUSD] Uni LP [+] [-] [<=>] Price: $2.00 TVL: $15,900.63
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 7885.1530 Meow-LP ($15,771.62)
+MEOW Per Week: 2005.97 ($49.98)
+APR: Day 0.05% Week 0.32% Year 16.48%
+You are staking 0.00 [USDT]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Uni LP
+Unstake 0.00 [USDT]-[BUSD] Uni LP
+Claim 0.00 MEOW ($0.00)
+Staking or unstaking also claims rewards.
+
+30 - [USDC]-[BUSD] Uni LP [+] [-] [<=>] Price: $2.00 TVL: $20,086.98
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 10047.4232 Meow-LP ($20,086.40)
+MEOW Per Week: 2005.97 ($49.98)
+APR: Day 0.04% Week 0.25% Year 12.94%
+You are staking 0.00 [USDC]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Uni LP
+Unstake 0.00 [USDC]-[BUSD] Uni LP
+Claim 0.00 MEOW ($0.00)
+Staking or unstaking also claims rewards.
+
+31 - [DAI]-[BUSD] Uni LP [+] [-] [<=>] Price: $2.00 TVL: $16,981.06
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 8491.3625 Meow-LP ($16,977.15)
+MEOW Per Week: 2005.97 ($49.98)
+APR: Day 0.04% Week 0.29% Year 15.31%
+You are staking 0.00 [DAI]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Uni LP
+Unstake 0.00 [DAI]-[BUSD] Uni LP
+Claim 0.00 MEOW ($0.00)
+Staking or unstaking also claims rewards.
+
+32 - [MEOW]-[BUSD] Uni LP [+] [-] [<=>] Price: $0.32 TVL: $15,285.53
+MEOW Price: $0.02
+BUSD Price: $1.00
+Staked: 47852.7851 Meow-LP ($15,246.93)
+MEOW Per Week: 30089.55 ($749.70)
+APR: Day 0.70% Week 4.92% Year 255.69%
+You are staking 0.00 [MEOW]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MEOW]-[BUSD] Uni LP
+Unstake 0.00 [MEOW]-[BUSD] Uni LP
+Claim 0.00 MEOW ($0.00)
+Staking or unstaking also claims rewards.
+
+33 - [WBNB]-[MEOW] Uni LP [+] [-] [<=>] Price: $6.11 TVL: $16,956.89
+WBNB Price: $368.50
+MEOW Price: $0.02
+Staked: 2662.3411 Meow-LP ($16,276.47)
+MEOW Per Week: 30089.55 ($749.70)
+APR: Day 0.66% Week 4.61% Year 239.51%
+You are staking 0.00 [WBNB]-[MEOW] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[MEOW] Uni LP
+Unstake 0.00 [WBNB]-[MEOW] Uni LP
+Claim 0.00 MEOW ($0.00)
+Staking or unstaking also claims rewards.
+
+34 - [WBNB]-[BUSD] Uni LP [+] [-] [<=>] Price: $38.58 TVL: $30,698.99
+WBNB Price: $368.50
+BUSD Price: $1.00
+Staked: 795.2491 Meow-LP ($30,678.93)
+MEOW Per Week: 7522.39 ($187.43)
+APR: Day 0.09% Week 0.61% Year 31.77%
+You are staking 0.00 [WBNB]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Uni LP
+Unstake 0.00 [WBNB]-[BUSD] Uni LP
+Claim 0.00 MEOW ($0.00)
+Staking or unstaking also claims rewards.
+
+35 - [BTCB]-[WBNB] Uni LP [+] [-] [<=>] Price: $7,310.46 TVL: $10,928.79
+BTCB Price: $36,105.00
+WBNB Price: $368.50
+Staked: 1.4932 Meow-LP ($10,915.94)
+MEOW Per Week: 2005.97 ($49.98)
+APR: Day 0.07% Week 0.46% Year 23.81%
+You are staking 0.00 [BTCB]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Uni LP
+Unstake 0.00 [BTCB]-[WBNB] Uni LP
+Claim 0.00 MEOW ($0.00)
+Staking or unstaking also claims rewards.
+
+36 - [ETH]-[WBNB] Uni LP [+] [-] [<=>] Price: $1,887.92 TVL: $4,103.30
+ETH Price: $2,415.14
+WBNB Price: $368.50
+Staked: 2.1669 Meow-LP ($4,090.99)
+MEOW Per Week: 2005.97 ($49.98)
+APR: Day 0.17% Week 1.22% Year 63.53%
+You are staking 0.00 [ETH]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Uni LP
+Unstake 0.00 [ETH]-[WBNB] Uni LP
+Claim 0.00 MEOW ($0.00)
+Staking or unstaking also claims rewards.
+
+37 - [Cake]-[WBNB] Uni LP [+] [-] [<=>] Price: $101.68 TVL: $3,870.43
+Cake Price: $6.99
+WBNB Price: $368.50
+Staked: 37.8948 Meow-LP ($3,853.26)
+MEOW Per Week: 2005.97 ($49.98)
+APR: Day 0.19% Week 1.30% Year 67.45%
+You are staking 0.00 [Cake]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Uni LP
+Unstake 0.00 [Cake]-[WBNB] Uni LP
+Claim 0.00 MEOW ($0.00)
+Staking or unstaking also claims rewards.
+
+39 - [ETH]-[BTCB] Uni LP [+] [-] [<=>] Price: $18,692.23 TVL: $13,637.86
+ETH Price: $2,415.14
+BTCB Price: $36,105.00
+Staked: 0.7293 Meow-LP ($13,631.42)
+MEOW Per Week: 2005.97 ($49.98)
+APR: Day 0.05% Week 0.37% Year 19.07%
+You are staking 0.00 [ETH]-[BTCB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[BTCB] Uni LP
+Unstake 0.00 [ETH]-[BTCB] Uni LP
+Claim 0.00 MEOW ($0.00)
+Staking or unstaking also claims rewards.
+
+40 - [TAKO]-[WBNB] Uni LP [+] [-] [<=>] Price: $2.61 TVL: $360.83
+TAKO Price: $0.004518
+WBNB Price: $368.50
+Staked: 136.7925 Meow-LP ($356.85)
+MEOW Per Week: 1002.99 ($24.99)
+APR: Day 1.00% Week 7.00% Year 364.16%
+You are staking 0.00 [TAKO]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TAKO]-[WBNB] Uni LP
+Unstake 0.00 [TAKO]-[WBNB] Uni LP
+Claim 0.00 MEOW ($0.00)
+Staking or unstaking also claims rewards.
+
+41 - [INKU]-[WBNB] Uni LP [+] [-] [<=>] Price: $6.89 TVL: $839.14
+INKU Price: $0.03
+WBNB Price: $368.50
+Staked: 121.5325 Meow-LP ($837.43)
+MEOW Per Week: 1002.99 ($24.99)
+APR: Day 0.43% Week 2.98% Year 155.17%
+You are staking 0.00 [INKU]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [INKU]-[WBNB] Uni LP
+Unstake 0.00 [INKU]-[WBNB] Uni LP
+Claim 0.00 MEOW ($0.00)
+Staking or unstaking also claims rewards.
+
+42 - [RBS]-[WBNB] Uni LP [+] [-] [<=>] Price: $12.12 TVL: $245.50
+RBS Price: $0.10
+WBNB Price: $368.50
+Staked: 20.2374 Meow-LP ($245.27)
+MEOW Per Week: 2005.97 ($49.98)
+APR: Day 2.91% Week 20.38% Year 1059.64%
+You are staking 0.00 [RBS]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [RBS]-[WBNB] Uni LP
+Unstake 0.00 [RBS]-[WBNB] Uni LP
+Claim 0.00 MEOW ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $148,968.66

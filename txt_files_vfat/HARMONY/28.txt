@@ -1,0 +1,273 @@
+*************** 👨‍🌾 UNOFFICIAL BOSSSWAP FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://www.bossswap.finance
+**************************************************************************************
+
+Fri Jan 28 2022 01:05:05 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 27 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [BUSD]-[BOSS] Uni LP [+] [-] [<=>] Price: $0.24 TVL: $21,270.39
+BUSD Price: $1.00
+BOSS Price: $0.01
+Staked: 41402.8982 BOSS-LP ($10,138.05)
+BOSS Per Week: 126324.91 ($1,284.02)
+APR: Day 1.81% Week 12.67% Year 658.60%
+You are staking 0.00 [BUSD]-[BOSS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUSD]-[BOSS] Uni LP
+Unstake 0.00 [BUSD]-[BOSS] Uni LP
+Claim 0.00 BOSS ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WONE]-[BOSS] Uni LP [+] [-] [<=>] Price: $0.09 TVL: $438,783.20
+WONE Price: $0.18
+BOSS Price: $0.01
+Staked: 3520245.4608 BOSS-LP ($313,786.64)
+BOSS Per Week: 4210830.32 ($42,800.79)
+APR: Day 1.95% Week 13.64% Year 709.28%
+You are staking 0.00 [WONE]-[BOSS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WONE]-[BOSS] Uni LP
+Unstake 0.00 [WONE]-[BOSS] Uni LP
+Claim 0.00 BOSS ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WONE]-[BUSD] Uni LP [+] [-] [<=>] Price: $0.89 TVL: $17,355.41
+WONE Price: $0.18
+BUSD Price: $1.00
+Staked: 13028.4107 BOSS-LP ($11,550.77)
+BOSS Per Week: 42108.30 ($428.01)
+APR: Day 0.53% Week 3.71% Year 192.68%
+You are staking 0.00 [WONE]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WONE]-[BUSD] Uni LP
+Unstake 0.00 [WONE]-[BUSD] Uni LP
+Claim 0.00 BOSS ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [ARB]-[WONE] Uni LP [+] [-] [<=>] Price: $0.16 TVL: $6,402.11
+ARB Price: $0.03
+WONE Price: $0.18
+Staked: 40860.8566 BOSS-LP ($6,396.04)
+BOSS Per Week: 2339.35 ($23.78)
+APR: Day 0.05% Week 0.37% Year 19.33%
+You are staking 0.00 [ARB]-[WONE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ARB]-[WONE] Uni LP
+Unstake 0.00 [ARB]-[WONE] Uni LP
+Claim 0.00 BOSS ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [1ETH]-[BUSD] Uni LP [+] [-] [<=>] Price: $99.79 TVL: $19,804.45
+1ETH Price: $2,357.50
+BUSD Price: $1.00
+Staked: 198.4680 BOSS-LP ($19,804.42)
+BOSS Per Week: 4678.70 ($47.56)
+APR: Day 0.03% Week 0.24% Year 12.49%
+You are staking 0.00 [1ETH]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [1ETH]-[BUSD] Uni LP
+Unstake 0.00 [1ETH]-[BUSD] Uni LP
+Claim 0.00 BOSS ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [bscBUSD]-[WONE] Uni LP [+] [-] [<=>] Price: $0.87 TVL: $4,650.03
+bscBUSD Price: $1.01
+WONE Price: $0.18
+Staked: 5325.2639 BOSS-LP ($4,649.30)
+BOSS Per Week: 14036.10 ($142.67)
+APR: Day 0.44% Week 3.07% Year 159.57%
+You are staking 0.00 [bscBUSD]-[WONE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [bscBUSD]-[WONE] Uni LP
+Unstake 0.00 [bscBUSD]-[WONE] Uni LP
+Claim 0.00 BOSS ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [HYDRA]-[WONE] Uni LP [+] [-] [<=>] Price: $0.28 TVL: $2,451.64
+HYDRA Price: $0.08
+WONE Price: $0.18
+Staked: 8425.7294 BOSS-LP ($2,346.77)
+BOSS Per Week: 4678.70 ($47.56)
+APR: Day 0.29% Week 2.03% Year 105.38%
+You are staking 0.00 [HYDRA]-[WONE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [HYDRA]-[WONE] Uni LP
+Unstake 0.00 [HYDRA]-[WONE] Uni LP
+Claim 0.00 BOSS ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [JEWEL]-[BOSS] Uni LP [+] [-] [<=>] Price: $0.58 TVL: $5,728.52
+JEWEL Price: $6.76
+BOSS Price: $0.01
+Staked: 9833.4027 BOSS-LP ($5,655.13)
+BOSS Per Week: 14036.10 ($142.67)
+APR: Day 0.36% Week 2.52% Year 131.19%
+You are staking 0.00 [JEWEL]-[BOSS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [JEWEL]-[BOSS] Uni LP
+Unstake 0.00 [JEWEL]-[BOSS] Uni LP
+Claim 0.00 BOSS ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [1SUSHI]-[BOSS] Uni LP [+] [-] [<=>] Price: $0.42 TVL: $167.75
+1SUSHI Price: $3.93
+BOSS Price: $0.01
+Staked: 369.0685 BOSS-LP ($156.00)
+BOSS Per Week: 2339.35 ($23.78)
+APR: Day 2.18% Week 15.24% Year 792.59%
+You are staking 0.00 [1SUSHI]-[BOSS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [1SUSHI]-[BOSS] Uni LP
+Unstake 0.00 [1SUSHI]-[BOSS] Uni LP
+Claim 0.00 BOSS ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [bscBUSD]-[BUSD] Uni LP [+] [-] [<=>] Price: $2.02 TVL: $19,534.82
+bscBUSD Price: $1.01
+BUSD Price: $1.00
+Staked: 9683.5345 BOSS-LP ($19,532.78)
+BOSS Per Week: 9357.40 ($95.11)
+APR: Day 0.07% Week 0.49% Year 25.32%
+You are staking 0.00 [bscBUSD]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [bscBUSD]-[BUSD] Uni LP
+Unstake 0.00 [bscBUSD]-[BUSD] Uni LP
+Claim 0.00 BOSS ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [BABYJEWEL]-[BOSS] Uni LP [+] [-] [<=>] Price: $0.00 TVL: $780.04
+BABYJEWEL Price: $0.0000004490
+BOSS Price: $0.01
+Staked: 4688804.7486 BOSS-LP ($757.58)
+BOSS Per Week: 4678.70 ($47.56)
+APR: Day 0.90% Week 6.28% Year 326.43%
+You are staking 0.00 [BABYJEWEL]-[BOSS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BABYJEWEL]-[BOSS] Uni LP
+Unstake 0.00 [BABYJEWEL]-[BOSS] Uni LP
+Claim 0.00 BOSS ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [SONIC]-[BOSS] Uni LP [+] [-] [<=>] Price: $0.02 TVL: $821.78
+SONIC Price: $0.008500
+BOSS Price: $0.01
+Staked: 38042.4612 BOSS-LP ($754.00)
+BOSS Per Week: 2339.35 ($23.78)
+APR: Day 0.45% Week 3.15% Year 163.99%
+You are staking 0.00 [SONIC]-[BOSS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SONIC]-[BOSS] Uni LP
+Unstake 0.00 [SONIC]-[BOSS] Uni LP
+Claim 0.00 BOSS ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [LBLOX]-[BOSS] Uni LP [+] [-] [<=>] Price: $0.00 TVL: $344.82
+LBLOX Price: $0.0000000164
+BOSS Price: $0.01
+Staked: 8027333.0797 BOSS-LP ($217.88)
+BOSS Per Week: 4678.70 ($47.56)
+APR: Day 3.12% Week 21.83% Year 1134.99%
+You are staking 0.00 [LBLOX]-[BOSS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LBLOX]-[BOSS] Uni LP
+Unstake 0.00 [LBLOX]-[BOSS] Uni LP
+Claim 0.00 BOSS ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [MCONE]-[BOSS] Uni LP [+] [-] [<=>] Price: $232.47 TVL: $1,628.21
+MCONE Price: $0.001225
+BOSS Price: $0.01
+Staked: 6.2848 BOSS-LP ($1,461.03)
+BOSS Per Week: 7018.05 ($71.33)
+APR: Day 0.70% Week 4.88% Year 253.89%
+You are staking 0.00 [MCONE]-[BOSS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MCONE]-[BOSS] Uni LP
+Unstake 0.00 [MCONE]-[BOSS] Uni LP
+Claim 0.00 BOSS ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [IKURA]-[WONE] Uni LP [+] [-] [<=>] Price: $3,724.29 TVL: $386.34
+IKURA Price: $0.02
+WONE Price: $0.18
+Staked: 0.1018 BOSS-LP ($378.99)
+BOSS Per Week: 2339.35 ($23.78)
+APR: Day 0.90% Week 6.27% Year 326.25%
+You are staking 0.00 [IKURA]-[WONE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [IKURA]-[WONE] Uni LP
+Unstake 0.00 [IKURA]-[WONE] Uni LP
+Claim 0.00 BOSS ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - [BOSS]-[RVRS] Uni LP [+] [-] [<=>] Price: $0.08 TVL: $5,522.45
+BOSS Price: $0.01
+RVRS Price: $0.14
+Staked: 7445.8673 BOSS-LP ($561.09)
+BOSS Per Week: 7018.05 ($71.33)
+APR: Day 1.82% Week 12.71% Year 661.11%
+You are staking 0.00 [BOSS]-[RVRS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BOSS]-[RVRS] Uni LP
+Unstake 0.00 [BOSS]-[RVRS] Uni LP
+Claim 0.00 BOSS ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - [Mini]-[WONE] Uni LP [+] [-] [<=>] Price: $0.00 TVL: $6,914.79
+Mini Price: $0.0000246928
+WONE Price: $0.18
+Staked: 194393.3320 BOSS-LP ($819.17)
+BOSS Per Week: 7018.05 ($71.33)
+APR: Day 1.24% Week 8.71% Year 452.83%
+You are staking 0.00 [Mini]-[WONE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Mini]-[WONE] Uni LP
+Unstake 0.00 [Mini]-[WONE] Uni LP
+Claim 0.00 BOSS ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [CGS]-[BOSS] Uni LP [+] [-] [<=>] Price: $0.02 TVL: $2,044.00
+CGS Price: $0.008034
+BOSS Price: $0.01
+Staked: 41429.6309 BOSS-LP ($752.04)
+BOSS Per Week: 2339.35 ($23.78)
+APR: Day 0.45% Week 3.16% Year 164.42%
+You are staking 0.00 [CGS]-[BOSS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CGS]-[BOSS] Uni LP
+Unstake 0.00 [CGS]-[BOSS] Uni LP
+Claim 0.00 BOSS ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - [COINKX]-[BOSS] Uni LP [+] [-] [<=>] Price: $0.03 TVL: $7,114.66
+COINKX Price: $0.02
+BOSS Price: $0.01
+Staked: 44579.1606 BOSS-LP ($1,253.50)
+BOSS Per Week: 2339.35 ($23.78)
+APR: Day 0.27% Week 1.90% Year 98.64%
+You are staking 0.00 [COINKX]-[BOSS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [COINKX]-[BOSS] Uni LP
+Unstake 0.00 [COINKX]-[BOSS] Uni LP
+Claim 0.00 BOSS ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - [APE]-[BOSS] Uni LP [+] [-] [<=>] Price: $129.99 TVL: $13,880.01
+APE Price: $0.000375
+BOSS Price: $0.01
+Staked: 8.8591 BOSS-LP ($1,151.56)
+BOSS Per Week: 2339.35 ($23.78)
+APR: Day 0.29% Week 2.06% Year 107.37%
+You are staking 0.00 [APE]-[BOSS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [APE]-[BOSS] Uni LP
+Unstake 0.00 [APE]-[BOSS] Uni LP
+Claim 0.00 BOSS ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - [1USDC]-[BOSS] Uni LP [+] [-] [<=>] Price: $203,852.54 TVL: $5,141.41
+1USDC Price: $1.00
+BOSS Price: $0.01
+Staked: 0.0224 BOSS-LP ($4,559.01)
+BOSS Per Week: 63162.45 ($642.01)
+APR: Day 2.01% Week 14.08% Year 732.28%
+You are staking 0.00 [1USDC]-[BOSS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [1USDC]-[BOSS] Uni LP
+Unstake 0.00 [1USDC]-[BOSS] Uni LP
+Claim 0.00 BOSS ($0.00)
+Staking or unstaking also claims rewards.
+
+Horde TVL: $35,662.34
+BOSS Price: $0.01
+Staked: 3508535.20 BOSS ($35,662.34)
+You are staking 0.00 BOSS ($0.00), 0.00% of the pool.
+Stake 0.00 BOSS
+Horde rewards are visible after unstaking / exiting the pool.
+
+Total Staked: $442,344.09

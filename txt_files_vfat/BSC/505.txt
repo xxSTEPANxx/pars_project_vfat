@@ -1,0 +1,165 @@
+*************** 👨‍🌾 UNOFFICIAL CHRONOSWAP.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://chronoswap.finance
+****************************************************************************************
+
+Thu Jan 27 2022 21:39:10 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 14 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - ThoP Price: $0.00 Market Cap: $0.00 
+Staked: 5258287.8957 ThoP ($0.00)
+THOP Per Week: 128446.27 ($3.55)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 ThoP ($0.00), NaN% of the pool.
+Stake 0.00 ThoP
+Unstake 0.00 ThoP
+Claim 0.00 THOP ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.45 TVL: $346,167,262.01
+WBNB Price: $368.50
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+THOP Per Week: 16055.78 ($0.44)
+APR: Day 66745270507646680.00% Week 467216893553526784.00% Year 24295278464783392768.00%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 THOP ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [DAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $16,861,996.55
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 20.5346 Cake-LP ($42.84)
+THOP Per Week: 9633.47 ($0.27)
+APR: Day 0.09% Week 0.62% Year 32.29%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 THOP ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $105.42 TVL: $200,711,318.48
+Cake Price: $6.99
+WBNB Price: $368.50
+Staked: 0.0000 Cake-LP ($0.00)
+THOP Per Week: 16055.78 ($0.44)
+APR: Day 20026929693407040.00% Week 140188507853849280.00% Year 7289802408400162816.00%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 THOP ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - WBNB Price: $368.50 Market Cap: $1,923,591,112.22 [%]
+Staked: 0.1081 WBNB ($39.83)
+THOP Per Week: 12844.63 ($0.35)
+APR: Day 0.13% Week 0.89% Year 46.31%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB
+Unstake 0.00 WBNB
+Claim 0.00 THOP ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - Cake Price: $6.99 Market Cap: $4,298,633,120.16 [%]
+Staked: 0.0000 Cake ($0.00)
+THOP Per Week: 12844.63 ($0.35)
+APR: Day 181222609021419168.00% Week 1268558263149934080.00% Year 65965029683796574208.00%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake
+Unstake 0.00 Cake
+Claim 0.00 THOP ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - BUSD Price: $1.00 Market Cap: $4,846,842,082.15 [%]
+Staked: 0.0000 BUSD ($0.00)
+THOP Per Week: 6422.31 ($0.18)
+APR: Day 2535665139143685632.00% Week 17749655974005798912.00% Year 922982110648301518848.00%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD
+Unstake 0.00 BUSD
+Claim 0.00 THOP ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - DAI Price: $1.00 Market Cap: $262,000,000.00 [%]
+Staked: 0.0000 DAI ($0.00)
+THOP Per Week: 6422.31 ($0.18)
+APR: Day 361927439159920000.00% Week 2533492074119439872.00% Year 131741587854210875392.00%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI
+Unstake 0.00 DAI
+Claim 0.00 THOP ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - BTCB Price: $36,105.00 Market Cap: $4,061,848,605.00 [%]
+Staked: 0.0000 BTCB ($0.00)
+THOP Per Week: 6422.31 ($0.18)
+APR: Day 17542529248853.62% Week 122797704741975.34% Year 6385480646582718.00%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB
+Unstake 0.00 BTCB
+Claim 0.00 THOP ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - ADA Price: $1.03 Market Cap: $288,400,000.00 [%]
+Staked: 0.0000 ADA ($0.00)
+THOP Per Week: 6422.31 ($0.18)
+APR: Day 1229850521417203712.00% Week 8608953649920425984.00% Year 447665589795862151168.00%
+You are staking 0.00 ADA ($0.00), 0.00% of the pool.
+Stake 0.00 ADA
+Unstake 0.00 ADA
+Claim 0.00 THOP ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - ETH Price: $2,415.14 Market Cap: $3,393,271,700.00 [%]
+Staked: 0.0000 ETH ($0.00)
+THOP Per Week: 6422.31 ($0.18)
+APR: Day 1049004229203872.13% Week 7343029604427105.00% Year 381837539430209472.00%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH
+Unstake 0.00 ETH
+Claim 0.00 THOP ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - IOTA Price: $0.00 Market Cap: $0.00 
+Staked: 1.1640 IOTA ($0.00)
+THOP Per Week: 6422.31 ($0.18)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 IOTA ($0.00), NaN% of the pool.
+Stake 0.00 IOTA
+Unstake 0.00 IOTA
+Claim 0.00 THOP ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [ThoP]-[WBNB] Cake LP [+] [-] [<=>] Price: $0.20 TVL: $7.46
+ThoP Price: $0.0000276138
+WBNB Price: $368.50
+Staked: 36.1068 Cake-LP ($7.40)
+THOP Per Week: 160557.84 ($4.43)
+APR: Day 8.56% Week 59.92% Year 3116.08%
+You are staking 0.00 [ThoP]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ThoP]-[WBNB] Cake LP
+Unstake 0.00 [ThoP]-[WBNB] Cake LP
+Claim 0.00 THOP ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [ThoP]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.01 TVL: $7.64
+ThoP Price: $0.0000276138
+BUSD Price: $1.00
+Staked: 701.9935 Cake-LP ($7.57)
+THOP Per Week: 160557.84 ($4.43)
+APR: Day 8.36% Week 58.55% Year 3044.49%
+You are staking 0.00 [ThoP]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ThoP]-[BUSD] Cake LP
+Unstake 0.00 [ThoP]-[BUSD] Cake LP
+Claim 0.00 THOP ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $97.64

@@ -1,0 +1,211 @@
+*************** 👨‍🌾 UNOFFICIAL BAKERGUILD FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://bakerguild.com
+*******************************************************************************
+
+Fri Jan 28 2022 00:57:02 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 36 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [WFTM]-[BAKER] SPOOKY LP [+] [-] [<=>] Price: $0.03 TVL: $3,373.55
+WFTM Price: $2.04
+BAKER Price: $0.000103
+Staked: 111786.8219 spLP ($3,339.97)
+BAKER Per Week: 5432335.33 ($558.16)
+APR: Day 2.39% Week 16.71% Year 869.00%
+You are staking 0.00 [WFTM]-[BAKER] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BAKER] SPOOKY LP
+Unstake 0.00 [WFTM]-[BAKER] SPOOKY LP
+Claim 0.00 BAKER ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - BAKER Price: $0.000103 Market Cap: $6,140.86 
+Staked: 31270081.1602 BAKER ($3,212.92)
+BAKER Per Week: 2354011.98 ($241.87)
+APR: Day 1.08% Week 7.53% Year 391.46%
+You are staking 0.00 BAKER ($0.00), 0.00% of the pool.
+Stake 0.00 BAKER
+Unstake 0.00 BAKER
+Claim 0.00 BAKER ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - wMEMO Price: $0.00 Market Cap: $0.00 
+Staked: 0.5409 wMEMO ($0.00)
+BAKER Per Week: 226347.31 ($23.26)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 wMEMO ($0.00), NaN% of the pool.
+Stake 0.00 wMEMO - Fee 2%
+Unstake 0.00 wMEMO
+Claim 0.00 BAKER ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - WFTM Price: $2.04 Market Cap: $1,472,756,053.15 
+Staked: 1411.0023 WFTM ($2,878.44)
+BAKER Per Week: 181077.84 ($18.61)
+APR: Day 0.09% Week 0.65% Year 33.61%
+You are staking 0.00 WFTM ($0.00), 0.00% of the pool.
+Stake 0.00 WFTM - Fee 2%
+Unstake 0.00 WFTM
+Claim 0.00 BAKER ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - MIM Price: $1.01 Market Cap: $454,824,596.77 
+Staked: 300.7141 MIM ($303.72)
+BAKER Per Week: 90538.92 ($9.30)
+APR: Day 0.44% Week 3.06% Year 159.27%
+You are staking 0.00 MIM ($0.00), 0.00% of the pool.
+Stake 0.00 MIM - Fee 2%
+Unstake 0.00 MIM
+Claim 0.00 BAKER ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - ETH Price: $2,374.23 Market Cap: $1,132,694,423.03 
+Staked: 6.6036 ETH ($15,678.41)
+BAKER Per Week: 135808.38 ($13.95)
+APR: Day 0.01% Week 0.09% Year 4.63%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 2%
+Unstake 0.00 ETH
+Claim 0.00 BAKER ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - wsSPA Price: $0.00 Market Cap: $0.00 
+Staked: 98.8433 wsSPA ($0.00)
+BAKER Per Week: 90538.92 ($9.30)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 wsSPA ($0.00), NaN% of the pool.
+Stake 0.00 wsSPA - Fee 2%
+Unstake 0.00 wsSPA
+Claim 0.00 BAKER ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - DAI Price: $1.00 Market Cap: $703,467,481.12 
+Staked: 5492.8606 DAI ($5,492.86)
+BAKER Per Week: 45269.46 ($4.65)
+APR: Day 0.01% Week 0.08% Year 4.40%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 2%
+Unstake 0.00 DAI
+Claim 0.00 BAKER ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - SPELL Price: $0.005098 Market Cap: $9,139,613.43 
+Staked: 106581.0085 SPELL ($543.40)
+BAKER Per Week: 90538.92 ($9.30)
+APR: Day 0.24% Week 1.71% Year 89.02%
+You are staking 0.00 SPELL ($0.00), 0.00% of the pool.
+Stake 0.00 SPELL - Fee 2%
+Unstake 0.00 SPELL
+Claim 0.00 BAKER ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - ICE Price: $3.81 Market Cap: $14,995,581.84 
+Staked: 17.0000 ICE ($64.77)
+BAKER Per Week: 90538.92 ($9.30)
+APR: Day 2.05% Week 14.36% Year 746.85%
+You are staking 0.00 ICE ($0.00), 0.00% of the pool.
+Stake 0.00 ICE - Fee 2%
+Unstake 0.00 ICE
+Claim 0.00 BAKER ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - BTC Price: $36,392.00 Market Cap: $626,190,089.76 
+Staked: 0.2428 BTC ($8,835.98)
+BAKER Per Week: 90538.92 ($9.30)
+APR: Day 0.02% Week 0.11% Year 5.47%
+You are staking 0.00 BTC ($0.00), 0.00% of the pool.
+Stake 0.00 BTC - Fee 2%
+Unstake 0.00 BTC
+Claim 0.00 BAKER ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - TUSD Price: $1.01 Market Cap: $64,897,472.84 
+Staked: 83.0214 TUSD ($83.85)
+BAKER Per Week: 27161.68 ($2.79)
+APR: Day 0.48% Week 3.33% Year 173.07%
+You are staking 0.00 TUSD ($0.00), 0.00% of the pool.
+Stake 0.00 TUSD - Fee 2%
+Unstake 0.00 TUSD
+Claim 0.00 BAKER ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - YFI Price: $23,669.00 Market Cap: $45,287,932.13 
+Staked: 0.0032 YFI ($76.65)
+BAKER Per Week: 36215.57 ($3.72)
+APR: Day 0.69% Week 4.85% Year 252.42%
+You are staking 0.00 YFI ($0.00), 0.00% of the pool.
+Stake 0.00 YFI - Fee 2%
+Unstake 0.00 YFI
+Claim 0.00 BAKER ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - JOE Price: $0.94 Market Cap: $342,018.46 
+Staked: 41.5729 JOE ($38.91)
+BAKER Per Week: 27161.68 ($2.79)
+APR: Day 1.02% Week 7.17% Year 372.96%
+You are staking 0.00 JOE ($0.00), 0.00% of the pool.
+Stake 0.00 JOE - Fee 2%
+Unstake 0.00 JOE
+Claim 0.00 BAKER ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - TOTEM Price: $0.00 Market Cap: $0.00 
+Staked: 25294.1485 TOTEM ($0.00)
+BAKER Per Week: 4526.95 ($0.47)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 TOTEM ($0.00), NaN% of the pool.
+Stake 0.00 TOTEM
+Unstake 0.00 TOTEM
+Claim 0.00 BAKER ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - FATCAKE Price: $0.00 Market Cap: $0.00 
+Staked: 120530.0306 FATCAKE ($0.00)
+BAKER Per Week: 4526.95 ($0.47)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FATCAKE ($0.00), NaN% of the pool.
+Stake 0.00 FATCAKE
+Unstake 0.00 FATCAKE
+Claim 0.00 BAKER ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - BNB Price: $367.46 Market Cap: $13,929,484.21 
+Staked: 6.5825 BNB ($2,418.81)
+BAKER Per Week: 90538.92 ($9.30)
+APR: Day 0.05% Week 0.38% Year 20.00%
+You are staking 0.00 BNB ($0.00), 0.00% of the pool.
+Stake 0.00 BNB - Fee 2%
+Unstake 0.00 BNB
+Claim 0.00 BAKER ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - [TOTEM]-[BAKER] SPOOKY LP [+] [-] [<=>] Price: $0.00 TVL: $239.22
+TOTEM Price: $0.000858
+BAKER Price: $0.000103
+Staked: 397685.3976 spLP ($238.51)
+BAKER Per Week: 27161.68 ($2.79)
+APR: Day 0.17% Week 1.17% Year 60.84%
+You are staking 0.00 [TOTEM]-[BAKER] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TOTEM]-[BAKER] SPOOKY LP
+Unstake 0.00 [TOTEM]-[BAKER] SPOOKY LP
+Claim 0.00 BAKER ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [FATCAKE]-[BAKER] SPOOKY LP [+] [-] [<=>] Price: $0.01 TVL: $468.13
+FATCAKE Price: $0.07
+BAKER Price: $0.000103
+Staked: 79115.3098 spLP ($434.58)
+BAKER Per Week: 27161.68 ($2.79)
+APR: Day 0.09% Week 0.64% Year 33.39%
+You are staking 0.00 [FATCAKE]-[BAKER] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FATCAKE]-[BAKER] SPOOKY LP
+Unstake 0.00 [FATCAKE]-[BAKER] SPOOKY LP
+Claim 0.00 BAKER ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $43,641.80

@@ -1,0 +1,60 @@
+*************** 👨‍🌾 UNOFFICIAL EggtartSwap FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://eggtartswap.com
+**************************************************************************************
+
+Fri Jan 28 2022 01:05:21 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 7 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - EGGT Price: $0.0000702009 Market Cap: $5,951.10 
+Staked: 19694395.4483 EGGT ($1,382.56)
+EGGT Per Week: 1008000.00 ($70.76)
+APR: Day 0.73% Week 5.12% Year 266.15%
+You are staking 0.00 EGGT ($0.00), 0.00% of the pool.
+Stake 0.00 EGGT
+Unstake 0.00 EGGT
+Claim 0.00 EGGT ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [EGGT]-[WONE] Uni LP [+] [-] [<=>] Price: $0.24 TVL: $2,454.21
+EGGT Price: $0.0000702009
+WONE Price: $0.18
+Staked: 9906.2420 Eggtart-LP ($2,399.37)
+EGGT Per Week: 3089032.26 ($216.85)
+APR: Day 1.29% Week 9.04% Year 469.97%
+You are staking 0.00 [EGGT]-[WONE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [EGGT]-[WONE] Uni LP
+Unstake 0.00 [EGGT]-[WONE] Uni LP
+Claim 0.00 EGGT ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [EGGT]-[BUSD] Uni LP [+] [-] [<=>] Price: $10,085.36 TVL: $1,290.14
+EGGT Price: $0.0000702009
+BUSD Price: $0.99
+Staked: 0.1271 Eggtart-LP ($1,281.89)
+EGGT Per Week: 1300645.16 ($91.31)
+APR: Day 1.02% Week 7.12% Year 370.38%
+You are staking 0.00 [EGGT]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [EGGT]-[BUSD] Uni LP
+Unstake 0.00 [EGGT]-[BUSD] Uni LP
+Claim 0.00 EGGT ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [FOX]-[EGGT] Uni LP [+] [-] [<=>] Price: $0.03 TVL: $352.94
+FOX Price: $2.53
+EGGT Price: $0.0000702009
+Staked: 12928.9748 Eggtart-LP ($349.33)
+EGGT Per Week: 650322.58 ($45.65)
+APR: Day 1.87% Week 13.07% Year 679.59%
+You are staking 0.00 [FOX]-[EGGT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FOX]-[EGGT] Uni LP
+Unstake 0.00 [FOX]-[EGGT] Uni LP
+Claim 0.00 EGGT ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $5,413.15

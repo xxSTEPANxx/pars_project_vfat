@@ -1,0 +1,61 @@
+*************** 👨‍🌾 UNOFFICIAL FISHSWAP FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://fishswap.app
+*****************************************************************************
+
+Thu Jan 27 2022 21:09:39 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 6 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - FISH Price: $0.000103 Market Cap: $16,807.49 [%]
+Staked: 109278825.5551 FISH ($11,302.48)
+FISH Per Week: 3101538.46 ($320.79)
+APR: Day 0.41% Week 2.84% Year 147.59%
+You are staking 0.00 FISH ($0.00), 0.00% of the pool.
+Stake 0.00 FISH
+Unstake 0.00 FISH
+Claim 0.00 FISH ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [FISH]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.02 TVL: $2,070.37
+FISH Price: $0.000103
+BUSD Price: $1.00
+Staked: 56308.6655 Cake-LP ($1,309.43)
+FISH Per Week: 310153.85 ($32.08)
+APR: Day 0.35% Week 2.45% Year 127.39%
+You are staking 0.00 [FISH]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FISH]-[BUSD] Cake LP
+Unstake 0.00 [FISH]-[BUSD] Cake LP
+Claim 0.00 FISH ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[FISH] Cake LP [+] [-] [<=>] Price: $0.43 TVL: $2,465.03
+WBNB Price: $369.13
+FISH Price: $0.000103
+Staked: 5400.7690 Cake-LP ($2,302.06)
+FISH Per Week: 310153.85 ($32.08)
+APR: Day 0.20% Week 1.39% Year 72.46%
+You are staking 0.00 [WBNB]-[FISH] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[FISH] Cake LP
+Unstake 0.00 [WBNB]-[FISH] Cake LP
+Claim 0.00 FISH ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDT]-[FISH] Cake LP [+] [-] [<=>] Price: $0.02 TVL: $1,033.43
+USDT Price: $1.00
+FISH Price: $0.000103
+Staked: 26256.4446 Cake-LP ($573.12)
+FISH Per Week: 310153.85 ($32.08)
+APR: Day 0.80% Week 5.60% Year 291.05%
+You are staking 0.00 [USDT]-[FISH] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[FISH] Cake LP
+Unstake 0.00 [USDT]-[FISH] Cake LP
+Claim 0.00 FISH ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $15,487.09

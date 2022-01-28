@@ -6,23 +6,17 @@ INFO  : https://www.dark.build
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Mon Dec 20 2021 10:06:17 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 21:55:19 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
-Found 12 pools.
-Showing incentivized pools only.
-Finished reading smart contracts.
-11 - Cover Price: $0.00 Market Cap: $0.00 
-Staked: 0.0000 Cover ($0.00)
-DB Per Week: 57.60 ($0.00)
-APR: Day NaN% Week NaN% Year NaN%
-You are staking 0.00 Cover ($0.00), NaN% of the pool.
-Stake 0.00 Cover
-Unstake 0.00 Cover
-Claim 0.00 DB ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $0.00
+{
+  "code": -32603,
+  "message": "Non-200 status code: '400'",
+  "data": {
+    "error": "Unable to verify your data submission."
+  }
+}
+Oops something went wrong. Try refreshing the page.

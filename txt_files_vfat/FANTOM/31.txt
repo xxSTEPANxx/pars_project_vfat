@@ -1,0 +1,42 @@
+*************** 👨‍🌾 UNOFFICIAL SHADE.CASH FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://shade.cash
+*******************************************************************************
+
+Fri Jan 28 2022 00:38:06 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 1 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [WFTM]-[SHADE] SPOOKY LP [+] [-] [<=>] Price: $1.18 TVL: $510,461.83
+WFTM Price: $2.02
+SHADE Price: $0.16
+Staked: 425499.8172 spLP ($500,654.87)
+SHADE Per Week: 65862.72 ($10,402.89)
+APR: Day 0.30% Week 2.08% Year 108.05%
+You are staking 0.00 [WFTM]-[SHADE] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[SHADE] SPOOKY LP
+Unstake 0.00 [WFTM]-[SHADE] SPOOKY LP
+Claim 0.00 SHADE ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $500,654.87
+Staking Contract
+Found 1 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - SHADE Price: $0.16 Market Cap: $744,432.26 
+Staked: 509596.2121 SHADE ($80,489.77)
+SHADE Per Week: 7597.80 ($1,200.06)
+APR: Day 0.21% Week 1.49% Year 77.53%
+You are staking 0.00 SHADE ($0.00), 0.00% of the pool.
+Stake 0.00 SHADE
+Unstake 0.00 SHADE
+Claim 0.00 SHADE ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $80,489.77

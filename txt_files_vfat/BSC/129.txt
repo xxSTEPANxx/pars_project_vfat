@@ -1,0 +1,218 @@
+*************** 👨‍🌾 UNOFFICIAL SUPRADOLLAR.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://dollar.supra.finance
+****************************************************************************************
+
+Thu Jan 27 2022 20:39:41 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 12 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [WBNB]-[SDO] Uni LP [+] [-] [<=>] Price: $2.42 TVL: $1.01
+WBNB Price: $370.34
+SDO Price: $0.003549
+Staked: 0.2155 Slime-LP ($0.52)
+SDO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WBNB]-[SDO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[SDO] Uni LP
+Unstake 0.00 [WBNB]-[SDO] Uni LP
+Claim 0.00 SDO ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [BUSD]-[SDO] Uni LP [+] [-] [<=>] Price: $0.13 TVL: $721.65
+BUSD Price: $1.00
+SDO Price: $0.003549
+Staked: 9.9555 Slime-LP ($1.27)
+SDO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [BUSD]-[SDO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUSD]-[SDO] Uni LP
+Unstake 0.00 [BUSD]-[SDO] Uni LP
+Claim 0.00 SDO ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [USDT]-[SDO] Uni LP [+] [-] [<=>] Price: $0.24 TVL: $0.63
+USDT Price: $1.00
+SDO Price: $0.003549
+Staked: 2.2040 Slime-LP ($0.54)
+SDO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDT]-[SDO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[SDO] Uni LP
+Unstake 0.00 [USDT]-[SDO] Uni LP
+Claim 0.00 SDO ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - MDO Price: $0.12 Market Cap: $211,349.54 [%]
+Staked: 128.4504 MDO ($14.90)
+SDO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 MDO ($0.00), 0.00% of the pool.
+Stake 0.00 MDO
+Unstake 0.00 MDO
+Claim 0.00 SDO ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - BDO Price: $0.01 Market Cap: $297,845.09 [%]
+Staked: 15.5587 BDO ($0.17)
+SDO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BDO ($0.00), 0.00% of the pool.
+Stake 0.00 BDO
+Unstake 0.00 BDO
+Claim 0.00 SDO ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - SLME Price: $0.05 Market Cap: $23,267.94 [%]
+Staked: 18.0098 SLME ($0.90)
+SDO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 SLME ($0.00), 0.00% of the pool.
+Stake 0.00 SLME
+Unstake 0.00 SLME
+Claim 0.00 SDO ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - BTD Price: $0.06 Market Cap: $575,200.90 [%]
+Staked: 2519.7701 BTD ($150.02)
+SDO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BTD ($0.00), 0.00% of the pool.
+Stake 0.00 BTD
+Unstake 0.00 BTD
+Claim 0.00 SDO ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - CRL Price: $0.00 Market Cap: $0.00 
+Staked: 252.6661 CRL ($0.00)
+SDO Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 CRL ($0.00), NaN% of the pool.
+Stake 0.00 CRL
+Unstake 0.00 CRL
+Claim 0.00 SDO ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - ALLOY Price: $0.00 Market Cap: $0.00 
+Staked: 29.4223 ALLOY ($0.00)
+SDO Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 ALLOY ($0.00), NaN% of the pool.
+Stake 0.00 ALLOY
+Unstake 0.00 ALLOY
+Claim 0.00 SDO ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - Cake Price: $7.12 Market Cap: $4,378,459,601.42 [%]
+Staked: 62.1837 Cake ($442.75)
+SDO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake
+Unstake 0.00 Cake
+Claim 0.00 SDO ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $611.07
+Staking Contract
+Found 7 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [BUSD]-[SDO] Uni LP [+] [-] [<=>] Price: $0.13 TVL: $721.65
+BUSD Price: $1.00
+SDO Price: $0.003549
+Staked: 5451.5152 Slime-LP ($694.26)
+SSO Per Week: 108.18 ($10.36)
+APR: Day 0.21% Week 1.49% Year 77.63%
+You are staking 0.00 [BUSD]-[SDO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUSD]-[SDO] Uni LP
+Unstake 0.00 [BUSD]-[SDO] Uni LP
+Claim 0.00 SSO ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [SSO]-[WBNB] Uni LP [+] [-] [<=>] Price: $12.79 TVL: $92.26
+SSO Price: $0.10
+WBNB Price: $370.34
+Staked: 5.1600 Slime-LP ($66.00)
+SSO Per Week: 54.09 ($5.18)
+APR: Day 1.12% Week 7.85% Year 408.27%
+You are staking 0.00 [SSO]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SSO]-[WBNB] Uni LP
+Unstake 0.00 [SSO]-[WBNB] Uni LP
+Claim 0.00 SSO ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [SSO]-[BUSD] Uni LP [+] [-] [<=>] Price: $0.66 TVL: $154.94
+SSO Price: $0.10
+BUSD Price: $1.00
+Staked: 210.5441 Slime-LP ($138.48)
+SSO Per Week: 54.09 ($5.18)
+APR: Day 0.53% Week 3.74% Year 194.60%
+You are staking 0.00 [SSO]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SSO]-[BUSD] Uni LP
+Unstake 0.00 [SSO]-[BUSD] Uni LP
+Claim 0.00 SSO ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDT]-[SSO] Uni LP [+] [-] [<=>] Price: $0.65 TVL: $336.10
+USDT Price: $1.00
+SSO Price: $0.10
+Staked: 512.6141 Slime-LP ($330.85)
+SSO Per Week: 54.09 ($5.18)
+APR: Day 0.22% Week 1.57% Year 81.45%
+You are staking 0.00 [USDT]-[SSO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[SSO] Uni LP
+Unstake 0.00 [USDT]-[SSO] Uni LP
+Claim 0.00 SSO ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [A010]-[WBNB] Uni LP [+] [-] [<=>] Price: $11.44 TVL: $3,502.53
+A010 Price: $0.05
+WBNB Price: $370.34
+Staked: 232.2646 Slime-LP ($2,657.90)
+SSO Per Week: 2.70 ($0.26)
+APR: Day 0.00% Week 0.01% Year 0.51%
+You are staking 0.00 [A010]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [A010]-[WBNB] Uni LP
+Unstake 0.00 [A010]-[WBNB] Uni LP
+Claim 0.00 SSO ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [SUPRA]-[WBNB] Uni LP [+] [-] [<=>] Price: $103.11 TVL: $1,022.41
+SUPRA Price: $6.56
+WBNB Price: $370.34
+Staked: 5.5056 Slime-LP ($567.67)
+SSO Per Week: 2.70 ($0.26)
+APR: Day 0.01% Week 0.05% Year 2.37%
+You are staking 0.00 [SUPRA]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SUPRA]-[WBNB] Uni LP
+Unstake 0.00 [SUPRA]-[WBNB] Uni LP
+Claim 0.00 SSO ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [FLP]-[WBNB] Uni LP [+] [-] [<=>] Price: $508.74 TVL: $421.17
+FLP Price: $82.38
+WBNB Price: $370.34
+Staked: 0.2123 Slime-LP ($107.99)
+SSO Per Week: 2.70 ($0.26)
+APR: Day 0.03% Week 0.24% Year 12.48%
+You are staking 0.00 [FLP]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FLP]-[WBNB] Uni LP
+Unstake 0.00 [FLP]-[WBNB] Uni LP
+Claim 0.00 SSO ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $4,563.15
+Boardroom
+There is a total 883.18 SSO ($84.62) staked in the Boardroom.
+You are staking 0 SSO ($0.00), 0.00% of the pool.
+Stake 0.00 SSO
+Unstake 0.00 SSO
+Claim 0.00 SDO ($0.00)
+Revoke (set approval to 0)
+Exit

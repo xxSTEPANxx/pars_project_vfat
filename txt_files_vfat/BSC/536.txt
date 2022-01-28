@@ -1,0 +1,110 @@
+*************** 👨‍🌾 UNOFFICIAL CONQUER-URANUS FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://dapp.conqueruranus.com
+**************************************************************************
+
+Thu Jan 27 2022 21:43:33 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+***** SCRAP MASTER *****
+Staking Contract
+Found 4 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [WBNB]-[ANVS] Cake LP [+] [-] [<=>] Price: $0.01 TVL: $47,881.77
+WBNB Price: $368.15
+ANVS Price: $0.0000000220
+Staked: 35233.2158 Cake-LP ($221.22)
+SHITIUM Per Week: 181440.00 ($8.06)
+APR: Day 0.52% Week 3.64% Year 189.41%
+You are staking 0.00 [WBNB]-[ANVS] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[ANVS] Cake LP
+Unstake 0.00 [WBNB]-[ANVS] Cake LP
+Claim 0.00 SHITIUM ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [SHITIUM]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.01 TVL: $392.97
+SHITIUM Price: $0.0000444114
+BUSD Price: $1.00
+Staked: 4300.2991 Cake-LP ($57.57)
+SHITIUM Per Week: 181440.00 ($8.06)
+APR: Day 2.00% Week 14.00% Year 727.89%
+You are staking 0.00 [SHITIUM]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SHITIUM]-[BUSD] Cake LP
+Unstake 0.00 [SHITIUM]-[BUSD] Cake LP
+Claim 0.00 SHITIUM ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [SAFEMOON]-[WBNB] Cake LP [+] [-] [<=>] Price: $9,210.96 TVL: $28,686,551.57
+SAFEMOON Price: $0.0000004816
+WBNB Price: $368.15
+Staked: 0.0031 Cake-LP ($28.43)
+SHITIUM Per Week: 120960.00 ($5.37)
+APR: Day 2.70% Week 18.90% Year 982.71%
+You are staking 0.00 [SAFEMOON]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SAFEMOON]-[WBNB] Cake LP
+Unstake 0.00 [SAFEMOON]-[WBNB] Cake LP
+Claim 0.00 SHITIUM ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [FLOKI]-[WBNB] Cake LP [+] [-] [<=>] Price: $878.56 TVL: $742,982.12
+FLOKI Price: $0.0000004285
+WBNB Price: $368.15
+Staked: 0.0074 Cake-LP ($6.50)
+SHITIUM Per Week: 120960.00 ($5.37)
+APR: Day 11.81% Week 82.65% Year 4297.54%
+You are staking 0.00 [FLOKI]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FLOKI]-[WBNB] Cake LP
+Unstake 0.00 [FLOKI]-[WBNB] Cake LP
+Claim 0.00 SHITIUM ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $313.71
+***** CONSTIPATED POOL *****
+Staking Contract
+Found 4 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - ANVS Price: $0.0000000220 Market Cap: $55,924.96 [%]
+Staked: 145236070864.8812 ANVS ($3,193.79)
+SHITIUM Per Week: 201600.00 ($8.95)
+APR: Day 0.04% Week 0.28% Year 14.58%
+You are staking 0.00 ANVS ($0.00), 0.00% of the pool.
+Stake 0.00 ANVS
+Unstake 0.00 ANVS
+Claim 0.00 SHITIUM ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - SAFEMARS Price: $0.00 Market Cap: $0.00 
+Staked: 330078459.6990 SAFEMARS ($0.00)
+SHITIUM Per Week: 134400.00 ($5.97)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SAFEMARS ($0.00), NaN% of the pool.
+Stake 0.00 SAFEMARS
+Unstake 0.00 SAFEMARS
+Claim 0.00 SHITIUM ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - SHIB Price: $0.00 Market Cap: $0.00 
+Staked: 1708635.8992 SHIB ($0.00)
+SHITIUM Per Week: 134400.00 ($5.97)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SHIB ($0.00), NaN% of the pool.
+Stake 0.00 SHIB
+Unstake 0.00 SHIB
+Claim 0.00 SHITIUM ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - SHITIUM Price: $0.0000444114 Market Cap: $1,433.49 [%]
+Staked: 4868345.4401 SHITIUM ($216.21)
+SHITIUM Per Week: 134400.00 ($5.97)
+APR: Day 0.39% Week 2.76% Year 143.56%
+You are staking 0.00 SHITIUM ($0.00), 0.00% of the pool.
+Stake 0.00 SHITIUM
+Unstake 0.00 SHITIUM
+Claim 0.00 SHITIUM ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $3,410.00

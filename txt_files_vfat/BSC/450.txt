@@ -1,0 +1,301 @@
+*************** 👨‍🌾 UNOFFICIAL HONEYFARM.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://honeyfarm.finance
+**************************************************************************************
+
+Thu Jan 27 2022 21:31:23 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 28 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $105.28 TVL: $200,452,834.83
+Cake Price: $6.97
+WBNB Price: $368.61
+Staked: 0.0000 Cake-LP ($0.00)
+HONEY Per Week: 372.18 ($1,606.21)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 HONEY ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.43 TVL: $346,058,375.37
+WBNB Price: $368.61
+BUSD Price: $1.00
+Staked: 0.6698 Cake-LP ($31.77)
+HONEY Per Week: 310.15 ($1,338.51)
+APR: Day 601.88% Week 4213.16% Year 219084.29%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 HONEY ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $296,997,582.01
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 1.0904 Cake-LP ($2.28)
+HONEY Per Week: 310.15 ($1,338.51)
+APR: Day 8373.35% Week 58613.44% Year 3047898.98%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 HONEY ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDT]-[WBNB] Cake LP [+] [-] [<=>] Price: $48.75 TVL: $190,459,551.01
+USDT Price: $1.00
+WBNB Price: $368.61
+Staked: 112.1462 Cake-LP ($5,466.70)
+HONEY Per Week: 310.15 ($1,338.51)
+APR: Day 3.50% Week 24.48% Year 1273.21%
+You are staking 0.00 [USDT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WBNB] Cake LP
+Unstake 0.00 [USDT]-[WBNB] Cake LP
+Claim 0.00 HONEY ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $131,411,697.27
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 30.9751 Cake-LP ($64.71)
+HONEY Per Week: 310.15 ($1,338.51)
+APR: Day 295.50% Week 2068.52% Year 107563.12%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 HONEY ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [ETH]-[BTCB] Cake LP [+] [-] [<=>] Price: $19,665.53 TVL: $62,177,074.63
+ETH Price: $2,434.69
+BTCB Price: $36,133.00
+Staked: 0.0001 Cake-LP ($1.02)
+HONEY Per Week: 310.15 ($1,338.51)
+APR: Day 18763.40% Week 131343.77% Year 6829876.23%
+You are staking 0.00 [ETH]-[BTCB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[BTCB] Cake LP
+Unstake 0.00 [ETH]-[BTCB] Cake LP
+Claim 0.00 HONEY ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [BTCB]-[BUSD] Cake LP [+] [-] [<=>] Price: $412.12 TVL: $50,348,597.97
+BTCB Price: $36,133.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+HONEY Per Week: 248.12 ($1,070.81)
+APR: Day 6555892.62% Week 45891248.33% Year 2386344913.01%
+You are staking 0.00 [BTCB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[BUSD] Cake LP
+Unstake 0.00 [BTCB]-[BUSD] Cake LP
+Claim 0.00 HONEY ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,035.99 TVL: $74,175,734.15
+ETH Price: $2,434.69
+WBNB Price: $368.61
+Staked: 0.0000 Cake-LP ($0.00)
+HONEY Per Week: 248.12 ($1,070.81)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 HONEY ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $7,731.81 TVL: $68,375,154.17
+BTCB Price: $36,133.00
+WBNB Price: $368.61
+Staked: 0.0000 Cake-LP ($0.00)
+HONEY Per Week: 248.12 ($1,070.81)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 HONEY ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [WBNB]-[BELT] Cake LP [+] [-] [<=>] Price: $43.74 TVL: $9,916,367.01
+WBNB Price: $368.61
+BELT Price: $1.25
+Staked: 0.0000 Cake-LP ($0.00)
+HONEY Per Week: 248.12 ($1,070.81)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WBNB]-[BELT] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBNB]-[BELT] Cake LP
+Unstake 0.00 [WBNB]-[BELT] Cake LP
+Claim 0.00 HONEY ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [Cake]-[BUSD] Cake LP [+] [-] [<=>] Price: $7.79 TVL: $11,471,160.72
+Cake Price: $6.97
+BUSD Price: $1.00
+Staked: 0.1876 Cake-LP ($1.46)
+HONEY Per Week: 248.12 ($1,070.81)
+APR: Day 10472.83% Week 73309.78% Year 3812108.50%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 HONEY ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [RINI]-[WBNB] Cake LP [+] [-] [<=>] Price: $49.06 TVL: $20,630.05
+RINI Price: $1.52
+WBNB Price: $368.61
+Staked: 12.4496 Cake-LP ($610.82)
+HONEY Per Week: 93.05 ($401.55)
+APR: Day 9.39% Week 65.74% Year 3418.48%
+You are staking 0.00 [RINI]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [RINI]-[WBNB] Cake LP
+Unstake 0.00 [RINI]-[WBNB] Cake LP
+Claim 0.00 HONEY ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - WBNB Price: $368.61 Market Cap: $1,924,187,177.53 [%]
+Staked: 4.6760 WBNB ($1,723.63)
+HONEY Per Week: 248.12 ($1,070.81)
+APR: Day 8.88% Week 62.13% Year 3230.51%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB
+Unstake 0.00 WBNB
+Claim 0.00 HONEY ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - Cake Price: $6.97 Market Cap: $4,286,318,736.55 [%]
+Staked: 81.9625 Cake ($571.28)
+HONEY Per Week: 310.15 ($1,338.51)
+APR: Day 33.47% Week 234.30% Year 12183.64%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake
+Unstake 0.00 Cake
+Claim 0.00 HONEY ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - BTCB Price: $36,133.00 Market Cap: $4,064,998,633.00 [%]
+Staked: 0.0104 BTCB ($377.18)
+HONEY Per Week: 124.06 ($535.40)
+APR: Day 20.28% Week 141.95% Year 7381.30%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB
+Unstake 0.00 BTCB
+Claim 0.00 HONEY ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - ETH Price: $2,434.69 Market Cap: $3,420,739,450.00 [%]
+Staked: 0.6825 ETH ($1,661.59)
+HONEY Per Week: 124.06 ($535.40)
+APR: Day 4.60% Week 32.22% Year 1675.56%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH
+Unstake 0.00 ETH
+Claim 0.00 HONEY ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - BURN Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 BURN ($0.00)
+HONEY Per Week: 186.09 ($803.11)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BURN ($0.00), NaN% of the pool.
+Stake 0.00 BURN
+Unstake 0.00 BURN
+Claim 0.00 HONEY ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - [BUSD]-[HONEY] Cake LP [+] [-] [<=>] Price: $4.97 TVL: $3,227.93
+BUSD Price: $1.00
+HONEY Price: $4.32
+Staked: 1.3683 Cake-LP ($6.81)
+HONEY Per Week: 1984.98 ($8,566.46)
+APR: Day 17978.99% Week 125852.90% Year 6544350.89%
+You are staking 0.00 [BUSD]-[HONEY] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUSD]-[HONEY] Cake LP
+Unstake 0.00 [BUSD]-[HONEY] Cake LP
+Claim 0.00 HONEY ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - HONEY Price: $4.32 Market Cap: $104,408.03 [%]
+Staked: 14.8707 HONEY ($64.18)
+HONEY Per Week: 1116.55 ($4,818.64)
+APR: Day 1072.63% Week 7508.41% Year 390437.36%
+You are staking 0.00 HONEY ($0.00), 0.00% of the pool.
+Stake 0.00 HONEY
+Unstake 0.00 HONEY
+Claim 0.00 HONEY ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - [WBNB]-[HONEY] Cake LP [+] [-] [<=>] Price: $93.99 TVL: $44,323.09
+WBNB Price: $368.61
+HONEY Price: $4.32
+Staked: 4.4594 Cake-LP ($419.16)
+HONEY Per Week: 1612.80 ($6,960.25)
+APR: Day 237.22% Week 1660.52% Year 86347.29%
+You are staking 0.00 [WBNB]-[HONEY] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[HONEY] Cake LP
+Unstake 0.00 [WBNB]-[HONEY] Cake LP
+Claim 0.00 HONEY ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [TUSD]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.01 TVL: $62,518,941.74
+TUSD Price: $1.00
+BUSD Price: $1.00
+Staked: 81.4690 Cake-LP ($163.95)
+HONEY Per Week: 248.12 ($1,070.81)
+APR: Day 93.30% Week 653.11% Year 33961.91%
+You are staking 0.00 [TUSD]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TUSD]-[BUSD] Cake LP
+Unstake 0.00 [TUSD]-[BUSD] Cake LP
+Claim 0.00 HONEY ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - [USDT]-[HONEY] Cake LP [+] [-] [<=>] Price: $4.33 TVL: $362.82
+USDT Price: $1.00
+HONEY Price: $4.32
+Staked: 4.5021 Cake-LP ($19.48)
+HONEY Per Week: 496.25 ($2,141.62)
+APR: Day 1570.24% Week 10991.66% Year 571566.44%
+You are staking 0.00 [USDT]-[HONEY] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[HONEY] Cake LP
+Unstake 0.00 [USDT]-[HONEY] Cake LP
+Claim 0.00 HONEY ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - RINI Price: $1.52 Market Cap: $137,572.02 [%]
+Staked: 124.6594 RINI ($188.94)
+HONEY Per Week: 62.03 ($267.70)
+APR: Day 20.24% Week 141.69% Year 7367.73%
+You are staking 0.00 RINI ($0.00), 0.00% of the pool.
+Stake 0.00 RINI
+Unstake 0.00 RINI
+Claim 0.00 HONEY ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - [ETH]-[USDC] Cake LP [+] [-] [<=>] Price: $104.52 TVL: $29,139,430.93
+ETH Price: $2,434.69
+USDC Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+HONEY Per Week: 248.12 ($1,070.81)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [ETH]-[USDC] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [ETH]-[USDC] Cake LP
+Unstake 0.00 [ETH]-[USDC] Cake LP
+Claim 0.00 HONEY ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - [Cherry]-[WBNB] Cake LP [+] [-] [<=>] Price: $14.45 TVL: $22,723.34
+Cherry Price: $0.13
+WBNB Price: $368.61
+Staked: 0.0000 Cake-LP ($0.00)
+HONEY Per Week: 62.03 ($267.70)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [Cherry]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [Cherry]-[WBNB] Cake LP
+Unstake 0.00 [Cherry]-[WBNB] Cake LP
+Claim 0.00 HONEY ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $11,374.97

@@ -1,0 +1,205 @@
+*************** 👨‍🌾 UNOFFICIAL FROZENCAKE.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://www.frozencake.finance
+***************************************************************************************
+
+Thu Jan 27 2022 21:17:17 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 18 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [FROZEN]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.14 TVL: $350.72
+FROZEN Price: $0.001410
+BUSD Price: $1.00
+Staked: 1722.4434 Cake-LP ($247.35)
+FROZEN Per Week: 530526.32 ($747.99)
+APR: Day 43.20% Week 302.40% Year 15724.77%
+You are staking 0.00 [FROZEN]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FROZEN]-[BUSD] Cake LP
+Unstake 0.00 [FROZEN]-[BUSD] Cake LP
+Claim 0.00 FROZEN ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WBNB]-[FROZEN] Cake LP [+] [-] [<=>] Price: $1.87 TVL: $2,861.05
+WBNB Price: $368.08
+FROZEN Price: $0.001410
+Staked: 225.5960 Cake-LP ($421.93)
+FROZEN Per Week: 795789.47 ($1,121.99)
+APR: Day 37.99% Week 265.92% Year 13827.79%
+You are staking 0.00 [WBNB]-[FROZEN] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[FROZEN] Cake LP
+Unstake 0.00 [WBNB]-[FROZEN] Cake LP
+Claim 0.00 FROZEN ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.40 TVL: $345,835,042.01
+WBNB Price: $368.08
+BUSD Price: $1.00
+Staked: 3.5537 Cake-LP ($168.45)
+FROZEN Per Week: 79578.95 ($112.20)
+APR: Day 9.52% Week 66.61% Year 3463.54%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 FROZEN ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $105.06 TVL: $200,017,319.85
+Cake Price: $6.95
+WBNB Price: $368.08
+Staked: 6.7775 Cake-LP ($712.03)
+FROZEN Per Week: 53052.63 ($74.80)
+APR: Day 1.50% Week 10.51% Year 546.26%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 FROZEN ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $296,774,865.00
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 117.1091 Cake-LP ($245.08)
+FROZEN Per Week: 26526.32 ($37.40)
+APR: Day 2.18% Week 15.26% Year 793.53%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 FROZEN ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,035.55 TVL: $74,159,401.18
+ETH Price: $2,437.15
+WBNB Price: $368.08
+Staked: 0.9441 Cake-LP ($1,921.73)
+FROZEN Per Week: 39789.47 ($56.10)
+APR: Day 0.42% Week 2.92% Year 151.80%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 FROZEN ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $7,729.67 TVL: $68,356,115.97
+BTCB Price: $36,165.00
+WBNB Price: $368.08
+Staked: 0.0102 Cake-LP ($78.70)
+FROZEN Per Week: 39789.47 ($56.10)
+APR: Day 10.18% Week 71.28% Year 3706.53%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 FROZEN ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $131,283,687.12
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 50.8815 Cake-LP ($106.19)
+FROZEN Per Week: 26526.32 ($37.40)
+APR: Day 5.03% Week 35.22% Year 1831.35%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 FROZEN ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [DAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.08 TVL: $16,841,507.93
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 283.5654 Cake-LP ($590.90)
+FROZEN Per Week: 26526.32 ($37.40)
+APR: Day 0.90% Week 6.33% Year 329.12%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 FROZEN ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [Cake]-[BUSD] Cake LP [+] [-] [<=>] Price: $7.78 TVL: $11,455,185.46
+Cake Price: $6.95
+BUSD Price: $1.00
+Staked: 4.2030 Cake-LP ($32.69)
+FROZEN Per Week: 53052.63 ($74.80)
+APR: Day 32.69% Week 228.82% Year 11898.70%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 FROZEN ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - WBNB Price: $368.08 Market Cap: $1,920,896,758.80 [%]
+Staked: 4.9453 WBNB ($1,820.28)
+FROZEN Per Week: 66315.79 ($93.50)
+APR: Day 0.73% Week 5.14% Year 267.10%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 FROZEN ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - BUSD Price: $1.00 Market Cap: $4,843,121,365.62 [%]
+Staked: 643.1812 BUSD ($642.14)
+FROZEN Per Week: 39789.47 ($56.10)
+APR: Day 1.25% Week 8.74% Year 454.29%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 FROZEN ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - ETH Price: $2,437.15 Market Cap: $3,424,195,750.00 [%]
+Staked: 0.1032 ETH ($251.49)
+FROZEN Per Week: 53052.63 ($74.80)
+APR: Day 4.25% Week 29.74% Year 1546.61%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 FROZEN ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - BTCB Price: $36,165.00 Market Cap: $4,068,598,665.00 [%]
+Staked: 0.0064 BTCB ($231.91)
+FROZEN Per Week: 53052.63 ($74.80)
+APR: Day 4.61% Week 32.25% Year 1677.17%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 FROZEN ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - Cake Price: $6.95 Market Cap: $4,273,992,160.46 [%]
+Staked: 29.5687 Cake ($205.50)
+FROZEN Per Week: 53052.63 ($74.80)
+APR: Day 5.20% Week 36.40% Year 1892.72%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 FROZEN ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - USDT Price: $1.00 Market Cap: $3,873,626,965.59 [%]
+Staked: 341.4351 USDT ($340.87)
+FROZEN Per Week: 39789.47 ($56.10)
+APR: Day 2.35% Week 16.46% Year 855.79%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 FROZEN ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - DAI Price: $1.00 Market Cap: $261,564,556.00 [%]
+Staked: 242.4386 DAI ($242.04)
+FROZEN Per Week: 39789.47 ($56.10)
+APR: Day 3.31% Week 23.18% Year 1205.27%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 FROZEN ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $8,259.30

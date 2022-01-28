@@ -1,0 +1,457 @@
+*************** 👨‍🌾 UNOFFICIAL SLIME.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : http://slime.finance
+**********************************************************************************
+
+Thu Jan 27 2022 20:20:01 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 39 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [SLME]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.54 TVL: $2,318.89
+SLME Price: $0.05
+BUSD Price: $1.00
+Staked: 2518.5358 Cake-LP ($1,349.14)
+SLME Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [SLME]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SLME]-[BUSD] Cake LP
+Unstake 0.00 [SLME]-[BUSD] Cake LP
+Claim 0.00 SLME ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [SLME]-[WBNB] Cake LP [+] [-] [<=>] Price: $10.45 TVL: $2,022.21
+SLME Price: $0.05
+WBNB Price: $371.03
+Staked: 134.4170 Cake-LP ($1,404.26)
+SLME Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [SLME]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SLME]-[WBNB] Cake LP
+Unstake 0.00 [SLME]-[WBNB] Cake LP
+Claim 0.00 SLME ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $65.97 TVL: $2,134,880.54
+WBNB Price: $371.03
+BUSD Price: $1.00
+Staked: 5.5153 Cake-LP ($363.86)
+SLME Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 SLME ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.17 TVL: $3,552,438.88
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 34.2559 Cake-LP ($74.28)
+SLME Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 SLME ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $8,271.43 TVL: $300,590.13
+BTCB Price: $36,634.00
+WBNB Price: $371.03
+Staked: 0.0065 Cake-LP ($54.17)
+SLME Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 SLME ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,209.60 TVL: $482,142.59
+ETH Price: $2,466.04
+WBNB Price: $371.03
+Staked: 0.0004 Cake-LP ($0.84)
+SLME Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 SLME ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [DAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.05 TVL: $1,362,909.00
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 13.5073 Cake-LP ($27.70)
+SLME Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 SLME ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [DOT]-[WBNB] Cake LP [+] [-] [<=>] Price: $179.91 TVL: $322,370.53
+DOT Price: $17.96
+WBNB Price: $371.03
+Staked: 3.5079 Cake-LP ($631.09)
+SLME Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 SLME ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [Cake]-[BUSD] Cake LP [+] [-] [<=>] Price: $8.69 TVL: $68,694.80
+Cake Price: $7.20
+BUSD Price: $1.00
+Staked: 318.8253 Cake-LP ($2,769.07)
+SLME Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 SLME ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $124.40 TVL: $3,359,313.06
+Cake Price: $7.20
+WBNB Price: $371.03
+Staked: 22.2708 Cake-LP ($2,770.52)
+SLME Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 SLME ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - SLME Price: $0.05 Market Cap: $23,267.94 [%]
+Staked: 22102.4017 SLME ($1,103.28)
+SLME Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 SLME ($0.00), 0.00% of the pool.
+Stake 0.00 SLME
+Unstake 0.00 SLME
+Claim 0.00 SLME ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - BUSD Price: $1.00 Market Cap: $4,833,235,028.87 [%]
+Staked: 523.1604 BUSD ($521.24)
+SLME Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD
+Unstake 0.00 BUSD
+Claim 0.00 SLME ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - WBNB Price: $371.03 Market Cap: $1,937,306,602.61 [%]
+Staked: 0.9029 WBNB ($335.00)
+SLME Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB
+Unstake 0.00 WBNB
+Claim 0.00 SLME ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - USDT Price: $1.00 Market Cap: $3,875,757,084.45 [%]
+Staked: 521.7197 USDT ($521.15)
+SLME Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT
+Unstake 0.00 USDT
+Claim 0.00 SLME ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - BTCB Price: $36,634.00 Market Cap: $4,121,361,634.00 [%]
+Staked: 0.4911 BTCB ($17,990.46)
+SLME Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB
+Unstake 0.00 BTCB
+Claim 0.00 SLME ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - ETH Price: $2,466.04 Market Cap: $3,464,786,200.00 [%]
+Staked: 28.8000 ETH ($71,021.95)
+SLME Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH
+Unstake 0.00 ETH
+Claim 0.00 SLME ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - DAI Price: $1.00 Market Cap: $262,000,000.00 [%]
+Staked: 2886.2013 DAI ($2,886.20)
+SLME Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI
+Unstake 0.00 DAI
+Claim 0.00 SLME ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - DOT Price: $17.96 Market Cap: $287,359,999.84 [%]
+Staked: 67.7531 DOT ($1,216.85)
+SLME Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT
+Unstake 0.00 DOT
+Claim 0.00 SLME ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - Cake Price: $7.20 Market Cap: $4,427,618,731.40 [%]
+Staked: 170.1447 Cake ($1,225.04)
+SLME Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake
+Unstake 0.00 Cake
+Claim 0.00 SLME ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - vBSWAP Price: $46.40 Market Cap: $309,690.29 [%]
+Staked: 0.0308 vBSWAP ($1.43)
+SLME Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 vBSWAP ($0.00), 0.00% of the pool.
+Stake 0.00 vBSWAP
+Unstake 0.00 vBSWAP
+Claim 0.00 SLME ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - [SLME]-[FLP] Cake LP [+] [-] [<=>] Price: $9.44 TVL: $55.80
+SLME Price: $0.05
+FLP Price: $149.62
+Staked: 2.7041 Cake-LP ($25.53)
+SLME Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [SLME]-[FLP] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SLME]-[FLP] Cake LP
+Unstake 0.00 [SLME]-[FLP] Cake LP
+Claim 0.00 SLME ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - [ADA]-[WBNB] Cake LP [+] [-] [<=>] Price: $43.43 TVL: $1,364,839.74
+ADA Price: $1.03
+WBNB Price: $371.03
+Staked: 5.3158 Cake-LP ($230.89)
+SLME Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 SLME ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - ADA Price: $1.03 Market Cap: $288,400,000.00 [%]
+Staked: 1167.6958 ADA ($1,202.73)
+SLME Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 ADA ($0.00), 0.00% of the pool.
+Stake 0.00 ADA
+Unstake 0.00 ADA
+Claim 0.00 SLME ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [DOGE]-[BUSD] Cake LP [+] [-] [<=>] Price: $102,926.62 TVL: $16,484.50
+DOGE Price: $0.14
+BUSD Price: $1.00
+Staked: 0.0002 Cake-LP ($15.77)
+SLME Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [DOGE]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOGE]-[BUSD] Cake LP
+Unstake 0.00 [DOGE]-[BUSD] Cake LP
+Claim 0.00 SLME ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - DOGE Price: $0.14 Market Cap: $283,836,000.00 [%]
+Staked: 7007.6768 DOGE ($994.52)
+SLME Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 DOGE ($0.00), 0.00% of the pool.
+Stake 0.00 DOGE
+Unstake 0.00 DOGE
+Claim 0.00 SLME ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - [WBNB]-[BUSD] Uni LP [+] [-] [<=>] Price: $42.11 TVL: $509.62
+WBNB Price: $371.03
+BUSD Price: $1.00
+Staked: 0.0000 Slime-LP ($0.00)
+SLME Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [WBNB]-[BUSD] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Uni LP
+Unstake 0.00 [WBNB]-[BUSD] Uni LP
+Claim 0.00 SLME ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - [USDT]-[BUSD] Uni LP [+] [-] [<=>] Price: $2.03 TVL: $309.92
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 4.7468 Slime-LP ($9.65)
+SLME Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDT]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Uni LP
+Unstake 0.00 [USDT]-[BUSD] Uni LP
+Claim 0.00 SLME ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - [Cake]-[WBNB] Uni LP [+] [-] [<=>] Price: $105.46 TVL: $508.39
+Cake Price: $7.20
+WBNB Price: $371.03
+Staked: 0.0000 Slime-LP ($0.00)
+SLME Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [Cake]-[WBNB] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [Cake]-[WBNB] Uni LP
+Unstake 0.00 [Cake]-[WBNB] Uni LP
+Claim 0.00 SLME ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - [Cake]-[SLME] Uni LP [+] [-] [<=>] Price: $1.27 TVL: $147.41
+Cake Price: $7.20
+SLME Price: $0.05
+Staked: 116.1108 Slime-LP ($147.21)
+SLME Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [Cake]-[SLME] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[SLME] Uni LP
+Unstake 0.00 [Cake]-[SLME] Uni LP
+Claim 0.00 SLME ($0.00)
+Staking or unstaking also claims rewards.
+
+29 - [SLME]-[ALICE] Uni LP [+] [-] [<=>] Price: $1,810,863.18 TVL: $18.81
+SLME Price: $0.05
+ALICE Price: $15.99
+Staked: 0.0000 Slime-LP ($8.12)
+SLME Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [SLME]-[ALICE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SLME]-[ALICE] Uni LP
+Unstake 0.00 [SLME]-[ALICE] Uni LP
+Claim 0.00 SLME ($0.00)
+Staking or unstaking also claims rewards.
+
+30 - [SLME]-[FLP] Uni LP [+] [-] [<=>] Price: $7.06 TVL: $2.98
+SLME Price: $0.05
+FLP Price: $149.62
+Staked: 0.0522 Slime-LP ($0.37)
+SLME Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [SLME]-[FLP] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SLME]-[FLP] Uni LP
+Unstake 0.00 [SLME]-[FLP] Uni LP
+Claim 0.00 SLME ($0.00)
+Staking or unstaking also claims rewards.
+
+31 - [SLME]-[WBNB] Uni LP [+] [-] [<=>] Price: $9.68 TVL: $370.36
+SLME Price: $0.05
+WBNB Price: $371.03
+Staked: 30.1485 Slime-LP ($291.89)
+SLME Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [SLME]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SLME]-[WBNB] Uni LP
+Unstake 0.00 [SLME]-[WBNB] Uni LP
+Claim 0.00 SLME ($0.00)
+Staking or unstaking also claims rewards.
+
+32 - [SLME]-[BUSD] Uni LP [+] [-] [<=>] Price: $0.49 TVL: $182.30
+SLME Price: $0.05
+BUSD Price: $1.00
+Staked: 200.6743 Slime-LP ($98.66)
+SLME Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [SLME]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SLME]-[BUSD] Uni LP
+Unstake 0.00 [SLME]-[BUSD] Uni LP
+Claim 0.00 SLME ($0.00)
+Staking or unstaking also claims rewards.
+
+33 - ALICE Price: $15.99 Market Cap: $127,900,194.46 [%]
+Staked: 94.7351 ALICE ($1,514.58)
+SLME Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 ALICE ($0.00), 0.00% of the pool.
+Stake 0.00 ALICE
+Unstake 0.00 ALICE
+Claim 0.00 SLME ($0.00)
+Staking or unstaking also claims rewards.
+
+34 - [SLME]-[SOUL] Uni LP [+] [-] [<=>] Price: $303.45 TVL: $29.11
+SLME Price: $0.05
+SOUL Price: $0.0000243642
+Staked: 0.0842 Slime-LP ($25.55)
+SLME Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [SLME]-[SOUL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SLME]-[SOUL] Uni LP
+Unstake 0.00 [SLME]-[SOUL] Uni LP
+Claim 0.00 SLME ($0.00)
+Staking or unstaking also claims rewards.
+
+35 - [SLME]-[TREE] Uni LP [+] [-] [<=>] Price: $4.13 TVL: $67.73
+SLME Price: $0.05
+TREE Price: $80.99
+Staked: 11.8733 Slime-LP ($49.05)
+SLME Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [SLME]-[TREE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SLME]-[TREE] Uni LP
+Unstake 0.00 [SLME]-[TREE] Uni LP
+Claim 0.00 SLME ($0.00)
+Staking or unstaking also claims rewards.
+
+36 - [BLUE]-[SLME] Uni LP [+] [-] [<=>] Price: $0.10 TVL: $20.89
+BLUE Price: $0.05
+SLME Price: $0.05
+Staked: 3.2998 Slime-LP ($0.33)
+SLME Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [BLUE]-[SLME] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BLUE]-[SLME] Uni LP
+Unstake 0.00 [BLUE]-[SLME] Uni LP
+Claim 0.00 SLME ($0.00)
+Staking or unstaking also claims rewards.
+
+37 - [SEED]-[SLME] Uni LP [+] [-] [<=>] Price: $0.47 TVL: $44.79
+SEED Price: $1.00
+SLME Price: $0.05
+Staked: 18.7746 Slime-LP ($8.73)
+SLME Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [SEED]-[SLME] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SEED]-[SLME] Uni LP
+Unstake 0.00 [SEED]-[SLME] Uni LP
+Claim 0.00 SLME ($0.00)
+Staking or unstaking also claims rewards.
+
+38 - [SLME]-[RUNE] Uni LP [+] [-] [<=>] Price: $7.99 TVL: $525.71
+SLME Price: $0.05
+RUNE Price: $295.33
+Staked: 3.0972 Slime-LP ($24.74)
+SLME Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [SLME]-[RUNE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SLME]-[RUNE] Uni LP
+Unstake 0.00 [SLME]-[RUNE] Uni LP
+Claim 0.00 SLME ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $110,915.82

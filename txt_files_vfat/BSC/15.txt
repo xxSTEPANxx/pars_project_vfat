@@ -1,0 +1,169 @@
+*************** 👨‍🌾 UNOFFICIAL KEBAB.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://kebabfinance.com
+**********************************************************************************
+
+Thu Jan 27 2022 20:14:53 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 18 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - KEBAB Price: $0.01 Market Cap: $124,319.23 [%]
+Staked: 4300477.4695 KEBAB ($45,926.63)
+KEBAB Per Week: 50305.44 ($537.23)
+APR: Day 0.17% Week 1.17% Year 60.83%
+You are staking 0.00 KEBAB ($0.00), 0.00% of the pool.
+Stake 0.00 KEBAB
+Unstake 0.00 KEBAB
+Claim 0.00 KEBAB ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [KEBAB]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.24 TVL: $30,112.09
+KEBAB Price: $0.01
+BUSD Price: $1.00
+Staked: 112360.9776 Cake-LP ($27,294.48)
+KEBAB Per Week: 37823.64 ($403.93)
+APR: Day 0.21% Week 1.48% Year 76.96%
+You are staking 0.00 [KEBAB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KEBAB]-[BUSD] Cake LP
+Unstake 0.00 [KEBAB]-[BUSD] Cake LP
+Claim 0.00 KEBAB ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $66.11 TVL: $2,139,236.87
+WBNB Price: $372.02
+BUSD Price: $1.00
+Staked: 35.8779 Cake-LP ($2,371.82)
+KEBAB Per Week: 5673.55 ($60.59)
+APR: Day 0.36% Week 2.55% Year 132.84%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 KEBAB ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [BTCB]-[BUSD] Cake LP [+] [-] [<=>] Price: $429.26 TVL: $7,741.33
+BTCB Price: $36,634.00
+BUSD Price: $1.00
+Staked: 5.0878 Cake-LP ($2,184.01)
+KEBAB Per Week: 9455.91 ($100.98)
+APR: Day 0.66% Week 4.62% Year 240.44%
+You are staking 0.00 [BTCB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[BUSD] Cake LP
+Unstake 0.00 [BTCB]-[BUSD] Cake LP
+Claim 0.00 KEBAB ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [KEBAB]-[WBNB] Cake LP [+] [-] [<=>] Price: $4.60 TVL: $21,180.74
+KEBAB Price: $0.01
+WBNB Price: $372.02
+Staked: 4103.3118 Cake-LP ($18,868.34)
+KEBAB Per Week: 22694.18 ($242.36)
+APR: Day 0.18% Week 1.28% Year 66.79%
+You are staking 0.00 [KEBAB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KEBAB]-[WBNB] Cake LP
+Unstake 0.00 [KEBAB]-[WBNB] Cake LP
+Claim 0.00 KEBAB ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [DOT]-[BUSD] Cake LP [+] [-] [<=>] Price: $9.56 TVL: $8,332.64
+DOT Price: $18.00
+BUSD Price: $1.00
+Staked: 535.6177 Cake-LP ($5,122.46)
+KEBAB Per Week: 3782.36 ($40.39)
+APR: Day 0.11% Week 0.79% Year 41.00%
+You are staking 0.00 [DOT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[BUSD] Cake LP
+Unstake 0.00 [DOT]-[BUSD] Cake LP
+Claim 0.00 KEBAB ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [SXP]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.54 TVL: $2,525.62
+SXP Price: $1.32
+BUSD Price: $1.00
+Staked: 179.4124 Cake-LP ($455.03)
+KEBAB Per Week: 1891.18 ($20.20)
+APR: Day 0.63% Week 4.44% Year 230.81%
+You are staking 0.00 [SXP]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SXP]-[BUSD] Cake LP
+Unstake 0.00 [SXP]-[BUSD] Cake LP
+Claim 0.00 KEBAB ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [BIFI]-[BUSD] Cake LP [+] [-] [<=>] Price: $101.75 TVL: $25,860.40
+BIFI Price: $1,754.49
+BUSD Price: $1.00
+Staked: 243.5917 Cake-LP ($24,786.13)
+KEBAB Per Week: 1891.18 ($20.20)
+APR: Day 0.01% Week 0.08% Year 4.24%
+You are staking 0.00 [BIFI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BIFI]-[BUSD] Cake LP
+Unstake 0.00 [BIFI]-[BUSD] Cake LP
+Claim 0.00 KEBAB ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [ETH]-[BUSD] Cake LP [+] [-] [<=>] Price: $116.79 TVL: $11,909.84
+ETH Price: $2,470.63
+BUSD Price: $1.00
+Staked: 7.5229 Cake-LP ($878.64)
+KEBAB Per Week: 3782.36 ($40.39)
+APR: Day 0.66% Week 4.60% Year 239.06%
+You are staking 0.00 [ETH]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[BUSD] Cake LP
+Unstake 0.00 [ETH]-[BUSD] Cake LP
+Claim 0.00 KEBAB ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [DOGE]-[BUSD] Cake LP [+] [-] [<=>] Price: $103,130.96 TVL: $16,517.22
+DOGE Price: $0.14
+BUSD Price: $1.00
+Staked: 0.0062 Cake-LP ($637.21)
+KEBAB Per Week: 1891.18 ($20.20)
+APR: Day 0.45% Week 3.17% Year 164.82%
+You are staking 0.00 [DOGE]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOGE]-[BUSD] Cake LP
+Unstake 0.00 [DOGE]-[BUSD] Cake LP
+Claim 0.00 KEBAB ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [BTCB]-[KEBAB] Cake LP [+] [-] [<=>] Price: $41.86 TVL: $15,224.95
+BTCB Price: $36,634.00
+KEBAB Price: $0.01
+Staked: 331.1174 Cake-LP ($13,859.07)
+KEBAB Per Week: 47279.55 ($504.92)
+APR: Day 0.52% Week 3.64% Year 189.45%
+You are staking 0.00 [BTCB]-[KEBAB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[KEBAB] Cake LP
+Unstake 0.00 [BTCB]-[KEBAB] Cake LP
+Claim 0.00 KEBAB ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [ETH]-[BTCB] Cake LP [+] [-] [<=>] Price: $19,599.64 TVL: $81,094.77
+ETH Price: $2,470.63
+BTCB Price: $36,634.00
+Staked: 2.2118 Cake-LP ($43,350.89)
+KEBAB Per Week: 5673.55 ($60.59)
+APR: Day 0.02% Week 0.14% Year 7.27%
+You are staking 0.00 [ETH]-[BTCB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[BTCB] Cake LP
+Unstake 0.00 [ETH]-[BTCB] Cake LP
+Claim 0.00 KEBAB ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [KSLV]-[KEBAB] Cake LP [+] [-] [<=>] Price: $0.08 TVL: $1,834.00
+KSLV Price: $0.13
+KEBAB Price: $0.01
+Staked: 23890.7541 Cake-LP ($1,802.61)
+KEBAB Per Week: 9455.91 ($100.98)
+APR: Day 0.80% Week 5.60% Year 291.31%
+You are staking 0.00 [KSLV]-[KEBAB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KSLV]-[KEBAB] Cake LP
+Unstake 0.00 [KSLV]-[KEBAB] Cake LP
+Claim 0.00 KEBAB ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $187,537.31

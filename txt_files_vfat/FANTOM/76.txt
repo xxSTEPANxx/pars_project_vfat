@@ -1,0 +1,175 @@
+*************** 👨‍🌾 UNOFFICIAL WITCHER DeFi FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://ftm.witcherdefi.com
+*********************************************************************************
+
+Fri Jan 28 2022 00:49:23 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 16 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+1 - [WITCHER]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $0.73 TVL: $529.83
+WITCHER Price: $0.06
+WFTM Price: $2.03
+Staked: 63.4979 spLP ($46.07)
+WITCHER Per Week: 127.48 ($7.88)
+APR: Day 2.44% Week 17.10% Year 889.09%
+You are staking 0.00 [WITCHER]-[WFTM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WITCHER]-[WFTM] SPOOKY LP
+Unstake 0.00 [WITCHER]-[WFTM] SPOOKY LP
+Claim 0.00 WITCHER ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WFTM]-[ETH] SPOOKY LP [+] [-] [<=>] Price: $157.04 TVL: $42,581,333.44
+WFTM Price: $2.03
+ETH Price: $2,352.96
+Staked: 0.2673 spLP ($41.98)
+WITCHER Per Week: 45.53 ($2.81)
+APR: Day 0.96% Week 6.70% Year 348.48%
+You are staking 0.00 [WFTM]-[ETH] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ETH] SPOOKY LP - Fee 2.5%
+Unstake 0.00 [WFTM]-[ETH] SPOOKY LP
+Claim 0.00 WITCHER ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDC]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $4,384,623.01 TVL: $168,792,770.34
+USDC Price: $1.01
+WFTM Price: $2.03
+Staked: 0.0000 spLP ($129.98)
+WITCHER Per Week: 45.53 ($2.81)
+APR: Day 0.31% Week 2.16% Year 112.55%
+You are staking 0.00 [USDC]-[WFTM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WFTM] SPOOKY LP - Fee 2.5%
+Unstake 0.00 [USDC]-[WFTM] SPOOKY LP
+Claim 0.00 WITCHER ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [WFTM]-[SCREAM] SPOOKY LP [+] [-] [<=>] Price: $25.51 TVL: $16,713,756.95
+WFTM Price: $2.03
+SCREAM Price: $74.36
+Staked: 1.8725 spLP ($47.77)
+WITCHER Per Week: 45.53 ($2.81)
+APR: Day 0.84% Week 5.89% Year 306.27%
+You are staking 0.00 [WFTM]-[SCREAM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[SCREAM] SPOOKY LP - Fee 2.5%
+Unstake 0.00 [WFTM]-[SCREAM] SPOOKY LP
+Claim 0.00 WITCHER ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WFTM]-[BOO] SPOOKY LP [+] [-] [<=>] Price: $14.94 TVL: $63,297,980.02
+WFTM Price: $2.03
+BOO Price: $25.17
+Staked: 5.5240 spLP ($82.53)
+WITCHER Per Week: 45.53 ($2.81)
+APR: Day 0.49% Week 3.41% Year 177.26%
+You are staking 0.00 [WFTM]-[BOO] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BOO] SPOOKY LP - Fee 2.5%
+Unstake 0.00 [WFTM]-[BOO] SPOOKY LP
+Claim 0.00 WITCHER ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - WITCHER Price: $0.06 Market Cap: $525.30 
+Staked: 1093.2378 WITCHER ($67.56)
+WITCHER Per Week: 127.48 ($7.88)
+APR: Day 1.67% Week 11.66% Year 606.36%
+You are staking 0.00 WITCHER ($0.00), 0.00% of the pool.
+Stake 0.00 WITCHER
+Unstake 0.00 WITCHER
+Claim 0.00 WITCHER ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - WFTM Price: $2.03 Market Cap: $1,466,248,617.06 
+Staked: 118.1671 WFTM ($239.88)
+WITCHER Per Week: 27.32 ($1.69)
+APR: Day 0.10% Week 0.70% Year 36.59%
+You are staking 0.00 WFTM ($0.00), 0.00% of the pool.
+Stake 0.00 WFTM - Fee 2.5%
+Unstake 0.00 WFTM
+Claim 0.00 WITCHER ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - USDC Price: $1.01 Market Cap: $1,746,470,111.08 
+Staked: 1022.7332 USDC ($1,032.96)
+WITCHER Per Week: 27.32 ($1.69)
+APR: Day 0.02% Week 0.16% Year 8.50%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 2.5%
+Unstake 0.00 USDC
+Claim 0.00 WITCHER ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - ETH Price: $2,352.96 Market Cap: $1,122,592,759.09 
+Staked: 0.0818 ETH ($192.54)
+WITCHER Per Week: 27.32 ($1.69)
+APR: Day 0.13% Week 0.88% Year 45.59%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 2.5%
+Unstake 0.00 ETH
+Claim 0.00 WITCHER ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - BTC Price: $36,039.00 Market Cap: $620,116,087.18 
+Staked: 0.0015 BTC ($53.95)
+WITCHER Per Week: 27.32 ($1.69)
+APR: Day 0.45% Week 3.13% Year 162.71%
+You are staking 0.00 BTC ($0.00), 0.00% of the pool.
+Stake 0.00 BTC - Fee 2.5%
+Unstake 0.00 BTC
+Claim 0.00 WITCHER ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - DAI Price: $1.00 Market Cap: $704,467,481.12 
+Staked: 202.6298 DAI ($202.63)
+WITCHER Per Week: 27.32 ($1.69)
+APR: Day 0.12% Week 0.83% Year 43.32%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 2.5%
+Unstake 0.00 DAI
+Claim 0.00 WITCHER ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - BOO Price: $25.17 Market Cap: $212,362,545.70 
+Staked: 0.6248 BOO ($15.73)
+WITCHER Per Week: 27.32 ($1.69)
+APR: Day 1.53% Week 10.73% Year 558.17%
+You are staking 0.00 BOO ($0.00), 0.00% of the pool.
+Stake 0.00 BOO - Fee 2.5%
+Unstake 0.00 BOO
+Claim 0.00 WITCHER ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - SQUID Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 SQUID ($0.00)
+WITCHER Per Week: 1.82 ($0.11)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SQUID ($0.00), NaN% of the pool.
+Stake 0.00 SQUID
+Unstake 0.00 SQUID
+Claim 0.00 WITCHER ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - fOLIVE Price: $0.00 Market Cap: $0.00 
+Staked: 1.0000 fOLIVE ($0.00)
+WITCHER Per Week: 1.82 ($0.11)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 fOLIVE ($0.00), NaN% of the pool.
+Stake 0.00 fOLIVE
+Unstake 0.00 fOLIVE
+Claim 0.00 WITCHER ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - fUSDT Price: $1.00 Market Cap: $350,441,901.33 
+Staked: 0.9600 fUSDT ($0.96)
+WITCHER Per Week: 0.18 ($0.01)
+APR: Day 0.17% Week 1.17% Year 60.96%
+You are staking 0.00 fUSDT ($0.00), 0.00% of the pool.
+Stake 0.00 fUSDT - Fee 2.5%
+Unstake 0.00 fUSDT
+Claim 0.00 WITCHER ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $2,154.53

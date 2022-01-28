@@ -2,195 +2,31 @@
 INFO  : https://polytulip.com
 *************************************************************************************
 
-Fri Dec 17 2021 10:48:00 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 22:53:56 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
-Found 18 pools.
-Showing incentivized pools only.
-Finished reading smart contracts.
-0 - [USDC]-[TULIP] Uni LP [+] [-] [<=>] Price: $50,842.55 TVL: $3.17
-USDC Price: $1.00
-TULIP Price: $0.000582
-Staked: 0.0000 UNI-V2 ($0.59)
-TULIP Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 [USDC]-[TULIP] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[TULIP] Uni LP
-Unstake 0.00 [USDC]-[TULIP] Uni LP
-Claim 0.00 TULIP ($0.00)
-Staking or unstaking also claims rewards.
-
-1 - [WMATIC]-[TULIP] Uni LP [+] [-] [<=>] Price: $0.07 TVL: $0.31
-WMATIC Price: $2.04
-TULIP Price: $0.000582
-Staked: 4.0205 UNI-V2 ($0.30)
-TULIP Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 [WMATIC]-[TULIP] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[TULIP] Uni LP
-Unstake 0.00 [WMATIC]-[TULIP] Uni LP
-Claim 0.00 TULIP ($0.00)
-Staking or unstaking also claims rewards.
-
-2 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,724,776.68 TVL: $51,031,767.96
-WMATIC Price: $2.04
-USDC Price: $1.00
-Staked: 0.0001 UNI-V2 ($629.08)
-TULIP Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 3%
-Unstake 0.00 [WMATIC]-[USDC] Uni LP
-Claim 0.00 TULIP ($0.00)
-Staking or unstaking also claims rewards.
-
-3 - [USDC]-[WETH] Uni LP [+] [-] [<=>] Price: $184,494,039.71 TVL: $80,294,070.33
-USDC Price: $1.00
-WETH Price: $3,888.69
-Staked: 0.0000 UNI-V2 ($73.89)
-TULIP Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[WETH] Uni LP - Fee 3%
-Unstake 0.00 [USDC]-[WETH] Uni LP
-Claim 0.00 TULIP ($0.00)
-Staking or unstaking also claims rewards.
-
-4 - [WBTC]-[USDC] Uni LP [+] [-] [<=>] Price: $50,921,857,021,481.91 TVL: $11,404,747.52
-WBTC Price: $47,025.00
-USDC Price: $1.00
-Staked: 0.0000 UNI-V2 ($112.72)
-TULIP Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 [WBTC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WBTC]-[USDC] Uni LP - Fee 3%
-Unstake 0.00 [WBTC]-[USDC] Uni LP
-Claim 0.00 TULIP ($0.00)
-Staking or unstaking also claims rewards.
-
-5 - [USDC]-[FISH] Uni LP [+] [-] [<=>] Price: $1,873,867.28 TVL: $5,586.47
-USDC Price: $1.00
-FISH Price: $0.60
-Staked: 0.0000 UNI-V2 ($7.20)
-TULIP Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 [USDC]-[FISH] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[FISH] Uni LP - Fee 3%
-Unstake 0.00 [USDC]-[FISH] Uni LP
-Claim 0.00 TULIP ($0.00)
-Staking or unstaking also claims rewards.
-
-7 - USDC Price: $1.00 Market Cap: $951,971,291.93 [%]
-Staked: 4.8500 USDC ($4.85)
-TULIP Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 USDC ($0.00), 0.00% of the pool.
-Stake 0.00 USDC - Fee 3%
-Unstake 0.00 USDC
-Claim 0.00 TULIP ($0.00)
-Staking or unstaking also claims rewards.
-
-8 - WMATIC Price: $2.04 Market Cap: $622,519,221.85 [%]
-Staked: 99.0472 WMATIC ($202.06)
-TULIP Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
-Stake 0.00 WMATIC - Fee 3%
-Unstake 0.00 WMATIC
-Claim 0.00 TULIP ($0.00)
-Staking or unstaking also claims rewards.
-
-9 - WETH Price: $3,888.69 Market Cap: $1,726,622,310.38 [%]
-Staked: 0.0008 WETH ($3.02)
-TULIP Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 WETH ($0.00), 0.00% of the pool.
-Stake 0.00 WETH - Fee 3%
-Unstake 0.00 WETH
-Claim 0.00 TULIP ($0.00)
-Staking or unstaking also claims rewards.
-
-10 - WBTC Price: $47,025.00 Market Cap: $475,447,772.56 [%]
-Staked: 0.0000 WBTC ($0.00)
-TULIP Per Week: 0.00 ($0.00)
-APR: Day NaN% Week NaN% Year NaN%
-You are staking 0.00 WBTC ($0.00), NaN% of the pool.
-Stake 0.00 WBTC - Fee 3%
-Unstake 0.00 WBTC
-Claim 0.00 TULIP ($0.00)
-Staking or unstaking also claims rewards.
-
-11 - AAVE Price: $171.13 Market Cap: $46,572,144.34 [%]
-Staked: 0.0160 AAVE ($2.74)
-TULIP Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
-Stake 0.00 AAVE - Fee 3%
-Unstake 0.00 AAVE
-Claim 0.00 TULIP ($0.00)
-Staking or unstaking also claims rewards.
-
-12 - LINK Price: $18.92 Market Cap: $32,900,960.92 [%]
-Staked: 0.0000 LINK ($0.00)
-TULIP Per Week: 0.00 ($0.00)
-APR: Day NaN% Week NaN% Year NaN%
-You are staking 0.00 LINK ($0.00), NaN% of the pool.
-Stake 0.00 LINK - Fee 3%
-Unstake 0.00 LINK
-Claim 0.00 TULIP ($0.00)
-Staking or unstaking also claims rewards.
-
-13 - FISH Price: $0.60 Market Cap: $1,808,348.42 [%]
-Staked: 0.1982 FISH ($0.12)
-TULIP Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 FISH ($0.00), 0.00% of the pool.
-Stake 0.00 FISH - Fee 3%
-Unstake 0.00 FISH
-Claim 0.00 TULIP ($0.00)
-Staking or unstaking also claims rewards.
-
-14 - USDT Price: $1.00 Market Cap: $319,505,889.20 [%]
-Staked: 9.7000 USDT ($9.69)
-TULIP Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 USDT ($0.00), 0.00% of the pool.
-Stake 0.00 USDT - Fee 3%
-Unstake 0.00 USDT
-Claim 0.00 TULIP ($0.00)
-Staking or unstaking also claims rewards.
-
-15 - DAI Price: $1.00 Market Cap: $367,280,931.07 [%]
-Staked: 0.0000 DAI ($0.00)
-TULIP Per Week: 0.00 ($0.00)
-APR: Day NaN% Week NaN% Year NaN%
-You are staking 0.00 DAI ($0.00), NaN% of the pool.
-Stake 0.00 DAI - Fee 3%
-Unstake 0.00 DAI
-Claim 0.00 TULIP ($0.00)
-Staking or unstaking also claims rewards.
-
-16 - PolyDoge Price: $0.0000000229 Market Cap: $22,860,000.00 [%]
-Staked: 0.0000 PolyDoge ($0.00)
-TULIP Per Week: 0.00 ($0.00)
-APR: Day NaN% Week NaN% Year NaN%
-You are staking 0.00 PolyDoge ($0.00), NaN% of the pool.
-Stake 0.00 PolyDoge - Fee 3%
-Unstake 0.00 PolyDoge
-Claim 0.00 TULIP ($0.00)
-Staking or unstaking also claims rewards.
-
-17 - xUSD Price: $1.01 Market Cap: $420,620.46 [%]
-Staked: 0.9137 xUSD ($0.92)
-TULIP Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 xUSD ($0.00), 0.00% of the pool.
-Stake 0.00 xUSD - Fee 3%
-Unstake 0.00 xUSD
-Claim 0.00 TULIP ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $1,047.18
+{
+  "code": -32603,
+  "message": "JsonRpcEngine: Response has no error or result for request:\n{\n  \"method\": \"eth_call\",\n  \"params\": [\n    {\n      \"to\": \"0xc1c2dc271e10e0eb45d9b4097e3619d3aecf3d1a\",\n      \"data\": \"0x48cd4cb1\"\n    },\n    \"0x171d676\"\n  ],\n  \"jsonrpc\": \"2.0\",\n  \"id\": 2687030502,\n  \"origin\": \"https://vfat.tools\",\n  \"tabId\": 2\n}",
+  "data": {
+    "request": {
+      "method": "eth_call",
+      "params": [
+        {
+          "to": "0xc1c2dc271e10e0eb45d9b4097e3619d3aecf3d1a",
+          "data": "0x48cd4cb1"
+        },
+        "0x171d676"
+      ],
+      "jsonrpc": "2.0",
+      "id": 2687030502,
+      "origin": "https://vfat.tools",
+      "tabId": 2
+    }
+  },
+  "stack": "{\n  \"code\": -32603,\n  \"message\": \"JsonRpcEngine: Response has no error or result for request:\\n{\\n  \\\"method\\\": \\\"eth_call\\\",\\n  \\\"params\\\": [\\n    {\\n      \\\"to\\\": \\\"0xc1c2dc271e10e0eb45d9b4097e3619d3aecf3d1a\\\",\\n      \\\"data\\\": \\\"0x48cd4cb1\\\"\\n    },\\n    \\\"0x171d676\\\"\\n  ],\\n  \\\"jsonrpc\\\": \\\"2.0\\\",\\n  \\\"id\\\": 2687030502,\\n  \\\"origin\\\": \\\"https://vfat.tools\\\",\\n  \\\"tabId\\\": 2\\n}\",\n  \"data\": {\n    \"request\": {\n      \"method\": \"eth_call\",\n      \"params\": [\n        {\n          \"to\": \"0xc1c2dc271e10e0eb45d9b4097e3619d3aecf3d1a\",\n          \"data\": \"0x48cd4cb1\"\n        },\n        \"0x171d676\"\n      ],\n      \"jsonrpc\": \"2.0\",\n      \"id\": 2687030502,\n      \"origin\": \"https://vfat.tools\",\n      \"tabId\": 2\n    }\n  },\n  \"stack\": \"Error: JsonRpcEngine: Response has no error or result for request:\\n{\\n  \\\"method\\\": \\\"eth_call\\\",\\n  \\\"params\\\": [\\n    {\\n      \\\"to\\\": \\\"0xc1c2dc271e10e0eb45d9b4097e3619d3aecf3d1a\\\",\\n      \\\"data\\\": \\\"0x48cd4cb1\\\"\\n    },\\n    \\\"0x171d676\\\"\\n  ],\\n  \\\"jsonrpc\\\": \\\"2.0\\\",\\n  \\\"id\\\": 2687030502,\\n  \\\"origin\\\": \\\"https://vfat.tools\\\",\\n  \\\"tabId\\\": 2\\n}\\n    at new o (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/common-1.js:16:24204)\\n    at Function._checkForCompletion (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:305269)\\n    at a._processRequest (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304461)\\n    at async a._handle (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304249)\"\n}\n  at new o (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/common-1.js:16:24204)\n  at Function._checkForCompletion (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:305269)\n  at a._processRequest (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304461)\n  at async a._handle (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304249)"
+}
+Oops something went wrong. Try refreshing the page.

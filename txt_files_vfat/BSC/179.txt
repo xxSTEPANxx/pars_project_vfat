@@ -1,0 +1,119 @@
+*************** 👨‍🌾 UNOFFICIAL DEFY FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://app.defy.farm
+*********************************************************************************
+
+Thu Jan 27 2022 20:48:27 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 9 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [WBNB]-[DEFY] Cake LP [+] [-] [<=>] Price: $314,893.55 TVL: $4,126.88
+WBNB Price: $370.11
+DEFY Price: $0.003364
+Staked: 0.0002 Cake-LP ($77.83)
+DEFY Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WBNB]-[DEFY] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[DEFY] Cake LP
+Unstake 0.00 [WBNB]-[DEFY] Cake LP
+Claim 0.00 DEFY ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [DEFY]-[BUSD] Cake LP [+] [-] [<=>] Price: $28,401.15 TVL: $239.97
+DEFY Price: $0.003364
+BUSD Price: $1.00
+Staked: 0.0001 Cake-LP ($2.84)
+DEFY Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [DEFY]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DEFY]-[BUSD] Cake LP
+Unstake 0.00 [DEFY]-[BUSD] Cake LP
+Claim 0.00 DEFY ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [TNDR]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.14 TVL: $1,282.29
+TNDR Price: $0.003608
+BUSD Price: $1.00
+Staked: 8.1144 Cake-LP ($1.13)
+DEFY Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [TNDR]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TNDR]-[BUSD] Cake LP
+Unstake 0.00 [TNDR]-[BUSD] Cake LP
+Claim 0.00 DEFY ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WBNB]-[DEFY] APE LP [+] [-] [<=>] Price: $311,013.81 TVL: $220.12
+WBNB Price: $370.11
+DEFY Price: $0.003364
+Staked: 0.0002 APE-LP ($69.14)
+DEFY Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WBNB]-[DEFY] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[DEFY] APE LP
+Unstake 0.00 [WBNB]-[DEFY] APE LP
+Claim 0.00 DEFY ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [DEFY]-[BUSD] APE LP [+] [-] [<=>] Price: $17,685.46 TVL: $298.16
+DEFY Price: $0.003364
+BUSD Price: $1.00
+Staked: 0.0135 APE-LP ($239.42)
+DEFY Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [DEFY]-[BUSD] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DEFY]-[BUSD] APE LP
+Unstake 0.00 [DEFY]-[BUSD] APE LP
+Claim 0.00 DEFY ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WBNB]-[DEFY] Cake LP [+] [-] [<=>] Price: $1,083,785.49 TVL: $4.86
+WBNB Price: $370.11
+DEFY Price: $0.003364
+Staked: 0.0000 Cake-LP ($0.00)
+DEFY Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [WBNB]-[DEFY] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBNB]-[DEFY] Cake LP
+Unstake 0.00 [WBNB]-[DEFY] Cake LP
+Claim 0.00 DEFY ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [DEFY]-[BUSD] Cake LP [+] [-] [<=>] Price: $179,308.19 TVL: $1.85
+DEFY Price: $0.003364
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+DEFY Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [DEFY]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [DEFY]-[BUSD] Cake LP
+Unstake 0.00 [DEFY]-[BUSD] Cake LP
+Claim 0.00 DEFY ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - DEFY Price: $0.003364 Market Cap: $0.00 [%]
+Staked: 32044.2870 DEFY ($107.80)
+DEFY Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 DEFY ($0.00), 0.00% of the pool.
+Stake 0.00 DEFY
+Unstake 0.00 DEFY
+Claim 0.00 DEFY ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - RESC Price: $0.00 Market Cap: $0.00 
+Staked: 101.0000 RESC ($0.00)
+DEFY Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 RESC ($0.00), NaN% of the pool.
+Stake 0.00 RESC
+Unstake 0.00 RESC
+Claim 0.00 DEFY ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $498.16

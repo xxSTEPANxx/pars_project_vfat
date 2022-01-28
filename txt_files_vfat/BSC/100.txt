@@ -1,0 +1,95 @@
+*************** 👨‍🌾 UNOFFICIAL CUB FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://cubdefi.com
+**************************************************************************
+
+Thu Jan 27 2022 20:33:42 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 30 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+12 - CUB Price: $0.00 Market Cap: $0.00 
+Staked: 6317610.8293 CUB ($0.00)
+CUB Per Week: 44470.59 ($10,660.66)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 CUB ($0.00), NaN% of the pool.
+Stake 0.00 CUB
+Unstake 0.00 CUB
+Claim 0.00 CUB ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - CUB-FUNDING Price: $0.00 Market Cap: $0.00 
+Staked: 0.1000 CUB-FUNDING ($0.00)
+CUB Per Week: 11117.65 ($2,665.16)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 CUB-FUNDING ($0.00), NaN% of the pool.
+Stake 0.00 CUB-FUNDING
+Unstake 0.00 CUB-FUNDING
+Claim 0.00 CUB ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - [CAKEPOP]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.03 TVL: $168,058.94
+CAKEPOP Price: $0.000281
+BUSD Price: $1.00
+Staked: 407732.3821 Cake-LP ($13,821.66)
+CUB Per Week: 1482.35 ($355.36)
+APR: Day 0.37% Week 2.57% Year 133.69%
+You are staking 0.00 [CAKEPOP]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CAKEPOP]-[BUSD] Cake LP
+Unstake 0.00 [CAKEPOP]-[BUSD] Cake LP
+Claim 0.00 CUB ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - [DEC]-[BUSD] Cake LP [+] [-] [<=>] Price: $6,670,587.78 TVL: $728,480.01
+DEC Price: $0.002941
+BUSD Price: $1.00
+Staked: 0.0898 Cake-LP ($599,013.45)
+CUB Per Week: 2223.53 ($533.03)
+APR: Day 0.01% Week 0.09% Year 4.63%
+You are staking 0.00 [DEC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DEC]-[BUSD] Cake LP
+Unstake 0.00 [DEC]-[BUSD] Cake LP
+Claim 0.00 CUB ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - [CUB]-[WBNB] Cake LP [+] [-] [<=>] Price: $19.53 TVL: $671,275.05
+CUB Price: $0.24
+WBNB Price: $370.95
+Staked: 34357.1814 Cake-LP ($671,027.98)
+CUB Per Week: 50400.00 ($12,082.08)
+APR: Day 0.26% Week 1.80% Year 93.63%
+You are staking 0.00 [CUB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CUB]-[WBNB] Cake LP
+Unstake 0.00 [CUB]-[WBNB] Cake LP
+Claim 0.00 CUB ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - [bLEO]-[WBNB] Cake LP [+] [-] [<=>] Price: $46,475,212,571,078.78 TVL: $370,806.56
+bLEO Price: $0.17
+WBNB Price: $370.95
+Staked: 0.0000 Cake-LP ($368,544.69)
+CUB Per Week: 17788.24 ($4,264.26)
+APR: Day 0.17% Week 1.16% Year 60.17%
+You are staking 0.00 [bLEO]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [bLEO]-[WBNB] Cake LP
+Unstake 0.00 [bLEO]-[WBNB] Cake LP
+Claim 0.00 CUB ($0.00)
+Staking or unstaking also claims rewards.
+
+29 - [CUB]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.99 TVL: $1,130,629.83
+CUB Price: $0.24
+BUSD Price: $1.00
+Staked: 1143407.6105 Cake-LP ($1,130,125.81)
+CUB Per Week: 74117.65 ($17,767.76)
+APR: Day 0.22% Week 1.57% Year 81.75%
+You are staking 0.00 [CUB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CUB]-[BUSD] Cake LP
+Unstake 0.00 [CUB]-[BUSD] Cake LP
+Claim 0.00 CUB ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $2,782,533.58

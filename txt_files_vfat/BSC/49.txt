@@ -1,0 +1,519 @@
+*************** 👨‍🌾 UNOFFICIAL CORALFARM.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://www.coralfarm.finance/
+**********************************************************************************
+
+Thu Jan 27 2022 20:23:36 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 43 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - CRL Price: $0.002709 Market Cap: $4,593.38 [%]
+Staked: 694007.1243 CRL ($1,880.08)
+CRL Per Week: 5645.30 ($15.29)
+APR: Day 0.12% Week 0.81% Year 42.30%
+You are staking 0.00 CRL ($0.00), 0.00% of the pool.
+Stake 0.00 CRL
+Unstake 0.00 CRL
+Claim 0.00 CRL ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [CRL]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.11 TVL: $234.88
+CRL Price: $0.002709
+BUSD Price: $1.00
+Staked: 1549.9631 Cake-LP ($169.50)
+CRL Per Week: 188.18 ($0.51)
+APR: Day 0.04% Week 0.30% Year 15.64%
+You are staking 0.00 [CRL]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CRL]-[BUSD] Cake LP
+Unstake 0.00 [CRL]-[BUSD] Cake LP
+Claim 0.00 CRL ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[CRL] Cake LP [+] [-] [<=>] Price: $2.14 TVL: $1,468.81
+WBNB Price: $371.09
+CRL Price: $0.002709
+Staked: 133.3182 Cake-LP ($285.63)
+CRL Per Week: 188.18 ($0.51)
+APR: Day 0.03% Week 0.18% Year 9.28%
+You are staking 0.00 [WBNB]-[CRL] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[CRL] Cake LP
+Unstake 0.00 [WBNB]-[CRL] Cake LP
+Claim 0.00 CRL ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $65.97 TVL: $2,134,720.76
+WBNB Price: $371.09
+BUSD Price: $1.00
+Staked: 0.2623 Cake-LP ($17.31)
+CRL Per Week: 188.18 ($0.51)
+APR: Day 0.42% Week 2.95% Year 153.18%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 3.9%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 CRL ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - BUSD Price: $1.00 Market Cap: $4,831,721,517.06 [%]
+Staked: 131.4047 BUSD ($130.88)
+CRL Per Week: 376.35 ($1.02)
+APR: Day 0.11% Week 0.78% Year 40.51%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 3.9%
+Unstake 0.00 BUSD
+Claim 0.00 CRL ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - WBNB Price: $371.09 Market Cap: $1,937,781,802.57 [%]
+Staked: 0.0819 WBNB ($30.39)
+CRL Per Week: 564.53 ($1.53)
+APR: Day 0.72% Week 5.03% Year 261.65%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 3.9%
+Unstake 0.00 WBNB
+Claim 0.00 CRL ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - USDT Price: $1.00 Market Cap: $3,870,006,927.53 [%]
+Staked: 344.1342 USDT ($343.25)
+CRL Per Week: 188.18 ($0.51)
+APR: Day 0.02% Week 0.15% Year 7.72%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 3.9%
+Unstake 0.00 USDT
+Claim 0.00 CRL ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - BTCB Price: $36,542.00 Market Cap: $4,111,011,542.00 [%]
+Staked: 0.0005 BTCB ($17.03)
+CRL Per Week: 376.35 ($1.02)
+APR: Day 0.86% Week 5.99% Year 311.40%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 3.9%
+Unstake 0.00 BTCB
+Claim 0.00 CRL ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - DAI Price: $1.00 Market Cap: $261,993,450.00 [%]
+Staked: 14.3267 DAI ($14.33)
+CRL Per Week: 188.18 ($0.51)
+APR: Day 0.51% Week 3.56% Year 185.03%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 3.9%
+Unstake 0.00 DAI
+Claim 0.00 CRL ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.17 TVL: $3,549,245.50
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 19.2863 Cake-LP ($41.78)
+CRL Per Week: 94.09 ($0.25)
+APR: Day 0.09% Week 0.61% Year 31.72%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 3.9%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 CRL ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,206.95 TVL: $481,564.71
+ETH Price: $2,459.73
+WBNB Price: $371.09
+Staked: 0.0475 Cake-LP ($104.78)
+CRL Per Week: 188.18 ($0.51)
+APR: Day 0.07% Week 0.49% Year 25.30%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 3.9%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 CRL ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [DAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.05 TVL: $1,362,678.93
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 1.4126 Cake-LP ($2.90)
+CRL Per Week: 188.18 ($0.51)
+APR: Day 2.51% Week 17.60% Year 915.39%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 3.9%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 CRL ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $8,261.67 TVL: $300,235.55
+BTCB Price: $36,542.00
+WBNB Price: $371.09
+Staked: 0.0124 Cake-LP ($102.15)
+CRL Per Week: 188.18 ($0.51)
+APR: Day 0.07% Week 0.50% Year 25.95%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 3.9%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 CRL ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.28 TVL: $253,084.61
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 1.5137 Cake-LP ($3.45)
+CRL Per Week: 188.18 ($0.51)
+APR: Day 2.11% Week 14.79% Year 769.19%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 3.9%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 CRL ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [DOT]-[WBNB] Cake LP [+] [-] [<=>] Price: $179.82 TVL: $322,217.39
+DOT Price: $17.94
+WBNB Price: $371.09
+Staked: 0.0832 Cake-LP ($14.97)
+CRL Per Week: 188.18 ($0.51)
+APR: Day 0.49% Week 3.41% Year 177.11%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 3.9%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 CRL ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $124.24 TVL: $3,354,926.80
+Cake Price: $7.18
+WBNB Price: $371.09
+Staked: 1.6966 Cake-LP ($210.79)
+CRL Per Week: 188.18 ($0.51)
+APR: Day 0.03% Week 0.24% Year 12.58%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 3.9%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 CRL ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [Cake]-[BUSD] Cake LP [+] [-] [<=>] Price: $8.67 TVL: $68,588.55
+Cake Price: $7.18
+BUSD Price: $1.00
+Staked: 1.1827 Cake-LP ($10.26)
+CRL Per Week: 188.18 ($0.51)
+APR: Day 0.71% Week 4.97% Year 258.47%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP - Fee 3.9%
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 CRL ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [SUPRA]-[CRL] Cake LP [+] [-] [<=>] Price: $0.44 TVL: $2.08
+SUPRA Price: $17.28
+CRL Price: $0.002709
+Staked: 4.3703 Cake-LP ($1.92)
+CRL Per Week: 94.09 ($0.25)
+APR: Day 1.90% Week 13.27% Year 690.10%
+You are staking 0.00 [SUPRA]-[CRL] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SUPRA]-[CRL] Cake LP - Fee 2%
+Unstake 0.00 [SUPRA]-[CRL] Cake LP
+Claim 0.00 CRL ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [FLP]-[CRL] Cake LP [+] [-] [<=>] Price: $0.90 TVL: $0.80
+FLP Price: $35.35
+CRL Price: $0.002709
+Staked: 0.8267 Cake-LP ($0.75)
+CRL Per Week: 94.09 ($0.25)
+APR: Day 4.88% Week 34.18% Year 1777.22%
+You are staking 0.00 [FLP]-[CRL] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FLP]-[CRL] Cake LP - Fee 2%
+Unstake 0.00 [FLP]-[CRL] Cake LP
+Claim 0.00 CRL ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [CRL]-[EGG] Cake LP [+] [-] [<=>] Price: $0.04 TVL: $0.09
+CRL Price: $0.002709
+EGG Price: $0.14
+Staked: 1.7044 Cake-LP ($0.07)
+CRL Per Week: 18.82 ($0.05)
+APR: Day 10.88% Week 76.15% Year 3959.55%
+You are staking 0.00 [CRL]-[EGG] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CRL]-[EGG] Cake LP - Fee 2%
+Unstake 0.00 [CRL]-[EGG] Cake LP
+Claim 0.00 CRL ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - [Cake]-[CRL] Cake LP [+] [-] [<=>] Price: $0.28 TVL: $209.74
+Cake Price: $7.18
+CRL Price: $0.002709
+Staked: 29.5462 Cake-LP ($8.39)
+CRL Per Week: 94.09 ($0.25)
+APR: Day 0.43% Week 3.04% Year 158.02%
+You are staking 0.00 [Cake]-[CRL] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[CRL] Cake LP - Fee 2%
+Unstake 0.00 [Cake]-[CRL] Cake LP
+Claim 0.00 CRL ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - [AUTO]-[CRL] Cake LP [+] [-] [<=>] Price: $2.12 TVL: $13.45
+AUTO Price: $407.66
+CRL Price: $0.002709
+Staked: 4.5521 Cake-LP ($9.66)
+CRL Per Week: 376.35 ($1.02)
+APR: Day 1.51% Week 10.56% Year 548.97%
+You are staking 0.00 [AUTO]-[CRL] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AUTO]-[CRL] Cake LP - Fee 2%
+Unstake 0.00 [AUTO]-[CRL] Cake LP
+Claim 0.00 CRL ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - [CRL]-[REEF] Cake LP [+] [-] [<=>] Price: $0.01 TVL: $10.84
+CRL Price: $0.002709
+REEF Price: $0.009798
+Staked: 227.1868 Cake-LP ($2.38)
+CRL Per Week: 37.64 ($0.10)
+APR: Day 0.61% Week 4.28% Year 222.75%
+You are staking 0.00 [CRL]-[REEF] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CRL]-[REEF] Cake LP - Fee 2%
+Unstake 0.00 [CRL]-[REEF] Cake LP
+Claim 0.00 CRL ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [Fuel]-[CRL] Cake LP [+] [-] [<=>] Price: $0.46 TVL: $0.91
+Fuel Price: $16.11
+CRL Price: $0.002709
+Staked: 1.8598 Cake-LP ($0.86)
+CRL Per Week: 37.64 ($0.10)
+APR: Day 1.69% Week 11.81% Year 614.01%
+You are staking 0.00 [Fuel]-[CRL] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Fuel]-[CRL] Cake LP - Fee 2%
+Unstake 0.00 [Fuel]-[CRL] Cake LP
+Claim 0.00 CRL ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - [GFCE]-[CRL] Cake LP [+] [-] [<=>] Price: $5,040.45 TVL: $2.09
+GFCE Price: $1.93
+CRL Price: $0.002709
+Staked: 0.0004 Cake-LP ($1.79)
+CRL Per Week: 37.64 ($0.10)
+APR: Day 0.81% Week 5.70% Year 296.30%
+You are staking 0.00 [GFCE]-[CRL] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GFCE]-[CRL] Cake LP - Fee 2%
+Unstake 0.00 [GFCE]-[CRL] Cake LP
+Claim 0.00 CRL ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - [WBNB]-[CRL] Uni LP [+] [-] [<=>] Price: $2.05 TVL: $689.64
+WBNB Price: $371.09
+CRL Price: $0.002709
+Staked: 334.6284 CLP ($686.10)
+CRL Per Week: 4892.59 ($13.25)
+APR: Day 0.28% Week 1.93% Year 100.45%
+You are staking 0.00 [WBNB]-[CRL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[CRL] Uni LP
+Unstake 0.00 [WBNB]-[CRL] Uni LP
+Claim 0.00 CRL ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - [CRL]-[BUSD] Uni LP [+] [-] [<=>] Price: $0.11 TVL: $1,265.60
+CRL Price: $0.002709
+BUSD Price: $1.00
+Staked: 8184.2874 CLP ($866.37)
+CRL Per Week: 4892.59 ($13.25)
+APR: Day 0.22% Week 1.53% Year 79.55%
+You are staking 0.00 [CRL]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CRL]-[BUSD] Uni LP
+Unstake 0.00 [CRL]-[BUSD] Uni LP
+Claim 0.00 CRL ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - [WBNB]-[BUSD] Uni LP [+] [-] [<=>] Price: $39.45 TVL: $41.99
+WBNB Price: $371.09
+BUSD Price: $1.00
+Staked: 1.0640 CLP ($41.97)
+CRL Per Week: 1129.06 ($3.06)
+APR: Day 1.04% Week 7.29% Year 378.92%
+You are staking 0.00 [WBNB]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Uni LP - Fee 3.9%
+Unstake 0.00 [WBNB]-[BUSD] Uni LP
+Claim 0.00 CRL ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - [USDC]-[BUSD] Uni LP [+] [-] [<=>] Price: $2.00 TVL: $249.39
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 29.3963 CLP ($58.69)
+CRL Per Week: 564.53 ($1.53)
+APR: Day 0.37% Week 2.61% Year 135.49%
+You are staking 0.00 [USDC]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Uni LP - Fee 3.9%
+Unstake 0.00 [USDC]-[BUSD] Uni LP
+Claim 0.00 CRL ($0.00)
+Staking or unstaking also claims rewards.
+
+29 - [ETH]-[WBNB] Uni LP [+] [-] [<=>] Price: $1,922.46 TVL: $43.20
+ETH Price: $2,459.73
+WBNB Price: $371.09
+Staked: 0.0204 CLP ($39.31)
+CRL Per Week: 940.88 ($2.55)
+APR: Day 0.93% Week 6.48% Year 337.16%
+You are staking 0.00 [ETH]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Uni LP - Fee 3.9%
+Unstake 0.00 [ETH]-[WBNB] Uni LP
+Claim 0.00 CRL ($0.00)
+Staking or unstaking also claims rewards.
+
+30 - [BTCB]-[WBNB] Uni LP [+] [-] [<=>] Price: $7,402.96 TVL: $51.19
+BTCB Price: $36,542.00
+WBNB Price: $371.09
+Staked: 0.0060 CLP ($44.06)
+CRL Per Week: 940.88 ($2.55)
+APR: Day 0.83% Week 5.78% Year 300.81%
+You are staking 0.00 [BTCB]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Uni LP - Fee 3.9%
+Unstake 0.00 [BTCB]-[WBNB] Uni LP
+Claim 0.00 CRL ($0.00)
+Staking or unstaking also claims rewards.
+
+31 - [DOT]-[WBNB] Uni LP [+] [-] [<=>] Price: $164.44 TVL: $48.85
+DOT Price: $17.94
+WBNB Price: $371.09
+Staked: 0.2909 CLP ($47.83)
+CRL Per Week: 940.88 ($2.55)
+APR: Day 0.76% Week 5.33% Year 277.08%
+You are staking 0.00 [DOT]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Uni LP - Fee 3.9%
+Unstake 0.00 [DOT]-[WBNB] Uni LP
+Claim 0.00 CRL ($0.00)
+Staking or unstaking also claims rewards.
+
+32 - [SUPRA]-[CRL] Uni LP [+] [-] [<=>] Price: $0.50 TVL: $45.80
+SUPRA Price: $17.28
+CRL Price: $0.002709
+Staked: 90.6824 CLP ($45.60)
+CRL Per Week: 752.71 ($2.04)
+APR: Day 0.64% Week 4.47% Year 232.53%
+You are staking 0.00 [SUPRA]-[CRL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SUPRA]-[CRL] Uni LP - Fee 2%
+Unstake 0.00 [SUPRA]-[CRL] Uni LP
+Claim 0.00 CRL ($0.00)
+Staking or unstaking also claims rewards.
+
+33 - [FLP]-[CRL] Uni LP [+] [-] [<=>] Price: $0.77 TVL: $14.88
+FLP Price: $35.35
+CRL Price: $0.002709
+Staked: 19.2403 CLP ($14.84)
+CRL Per Week: 752.71 ($2.04)
+APR: Day 1.96% Week 13.74% Year 714.54%
+You are staking 0.00 [FLP]-[CRL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FLP]-[CRL] Uni LP - Fee 2%
+Unstake 0.00 [FLP]-[CRL] Uni LP
+Claim 0.00 CRL ($0.00)
+Staking or unstaking also claims rewards.
+
+34 - [Fuel]-[CRL] Uni LP [+] [-] [<=>] Price: $0.45 TVL: $15.35
+Fuel Price: $16.11
+CRL Price: $0.002709
+Staked: 29.9595 CLP ($13.49)
+CRL Per Week: 752.71 ($2.04)
+APR: Day 2.16% Week 15.12% Year 786.27%
+You are staking 0.00 [Fuel]-[CRL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Fuel]-[CRL] Uni LP - Fee 2%
+Unstake 0.00 [Fuel]-[CRL] Uni LP
+Claim 0.00 CRL ($0.00)
+Staking or unstaking also claims rewards.
+
+35 - [GFCE]-[CRL] Uni LP [+] [-] [<=>] Price: $4,814.52 TVL: $85.99
+GFCE Price: $1.93
+CRL Price: $0.002709
+Staked: 0.0140 CLP ($67.50)
+CRL Per Week: 752.71 ($2.04)
+APR: Day 0.43% Week 3.02% Year 157.08%
+You are staking 0.00 [GFCE]-[CRL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GFCE]-[CRL] Uni LP - Fee 2%
+Unstake 0.00 [GFCE]-[CRL] Uni LP
+Claim 0.00 CRL ($0.00)
+Staking or unstaking also claims rewards.
+
+36 - [AUTO]-[CRL] Uni LP [+] [-] [<=>] Price: $2.12 TVL: $17.06
+AUTO Price: $407.66
+CRL Price: $0.002709
+Staked: 8.0151 CLP ($16.98)
+CRL Per Week: 564.53 ($1.53)
+APR: Day 1.29% Week 9.01% Year 468.31%
+You are staking 0.00 [AUTO]-[CRL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AUTO]-[CRL] Uni LP - Fee 2%
+Unstake 0.00 [AUTO]-[CRL] Uni LP
+Claim 0.00 CRL ($0.00)
+Staking or unstaking also claims rewards.
+
+37 - [BTCB]-[BUSD] Uni LP [+] [-] [<=>] Price: $384.13 TVL: $17.91
+BTCB Price: $36,542.00
+BUSD Price: $1.00
+Staked: 0.0462 CLP ($17.76)
+CRL Per Week: 376.35 ($1.02)
+APR: Day 0.82% Week 5.74% Year 298.58%
+You are staking 0.00 [BTCB]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[BUSD] Uni LP - Fee 3.9%
+Unstake 0.00 [BTCB]-[BUSD] Uni LP
+Claim 0.00 CRL ($0.00)
+Staking or unstaking also claims rewards.
+
+38 - [Cake]-[CRL] Uni LP [+] [-] [<=>] Price: $0.28 TVL: $12.15
+Cake Price: $7.18
+CRL Price: $0.002709
+Staked: 40.2135 CLP ($11.29)
+CRL Per Week: 376.35 ($1.02)
+APR: Day 1.29% Week 9.03% Year 469.45%
+You are staking 0.00 [Cake]-[CRL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[CRL] Uni LP - Fee 2%
+Unstake 0.00 [Cake]-[CRL] Uni LP
+Claim 0.00 CRL ($0.00)
+Staking or unstaking also claims rewards.
+
+39 - [DAI]-[BUSD] Uni LP [+] [-] [<=>] Price: $2.00 TVL: $15.67
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 7.8433 CLP ($15.67)
+CRL Per Week: 376.35 ($1.02)
+APR: Day 0.93% Week 6.50% Year 338.24%
+You are staking 0.00 [DAI]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Uni LP - Fee 3.9%
+Unstake 0.00 [DAI]-[BUSD] Uni LP
+Claim 0.00 CRL ($0.00)
+Staking or unstaking also claims rewards.
+
+40 - [CRL]-[REEF] Uni LP [+] [-] [<=>] Price: $0.01 TVL: $50.99
+CRL Price: $0.002709
+REEF Price: $0.009798
+Staked: 4910.7640 CLP ($50.90)
+CRL Per Week: 376.35 ($1.02)
+APR: Day 0.29% Week 2.00% Year 104.16%
+You are staking 0.00 [CRL]-[REEF] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CRL]-[REEF] Uni LP - Fee 2%
+Unstake 0.00 [CRL]-[REEF] Uni LP
+Claim 0.00 CRL ($0.00)
+Staking or unstaking also claims rewards.
+
+41 - [USDT]-[BUSD] Uni LP [+] [-] [<=>] Price: $2.00 TVL: $67.55
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 33.7061 CLP ($67.55)
+CRL Per Week: 376.35 ($1.02)
+APR: Day 0.22% Week 1.51% Year 78.49%
+You are staking 0.00 [USDT]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Uni LP - Fee 3.9%
+Unstake 0.00 [USDT]-[BUSD] Uni LP
+Claim 0.00 CRL ($0.00)
+Staking or unstaking also claims rewards.
+
+42 - [ETH]-[BUSD] Uni LP [+] [-] [<=>] Price: $99.67 TVL: $111.18
+ETH Price: $2,459.73
+BUSD Price: $1.00
+Staked: 0.3393 CLP ($33.82)
+CRL Per Week: 376.35 ($1.02)
+APR: Day 0.43% Week 3.01% Year 156.77%
+You are staking 0.00 [ETH]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[BUSD] Uni LP - Fee 3.9%
+Unstake 0.00 [ETH]-[BUSD] Uni LP
+Claim 0.00 CRL ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $5,545.02

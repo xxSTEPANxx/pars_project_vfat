@@ -1,0 +1,590 @@
+***************************** HUOBI ECO CHAIN *******************************
+    
+*************** 👨‍🌾 UNOFFICIAL MAKISWAP FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://app.makiswap.com
+*****************************************************************************
+
+Thu Jan 27 2022 21:53:20 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 49 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - MAKI Price: $0.02 Market Cap: $2,908,817.46 
+Staked: 47061667.3488 MAKI ($865,909.58)
+MAKI Per Week: 806336.67 ($14,836.16)
+APR: Day 0.24% Week 1.71% Year 89.09%
+You are staking 0.00 MAKI ($0.00), 0.00% of the pool.
+Stake 0.00 MAKI
+Unstake 0.00 MAKI
+Claim 0.00 MAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WHT]-[MAKI] Uni LP [+] [-] [<=>] Price: $0.92 TVL: $278,089.83
+WHT Price: $8.65
+MAKI Price: $0.02
+Staked: 302827.8941 MAKI-LP ($277,330.37)
+MAKI Per Week: 208993.95 ($3,845.38)
+APR: Day 0.20% Week 1.39% Year 72.10%
+You are staking 0.00 [WHT]-[MAKI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WHT]-[MAKI] Uni LP
+Unstake 0.00 [WHT]-[MAKI] Uni LP
+Claim 0.00 MAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WHT]-[LAYER] Uni LP [+] [-] [<=>] Price: $2.64 TVL: $63,993.60
+WHT Price: $8.65
+LAYER Price: $0.18
+Staked: 24230.2613 MAKI-LP ($63,983.12)
+MAKI Per Week: 25332.60 ($466.11)
+APR: Day 0.10% Week 0.73% Year 37.88%
+You are staking 0.00 [WHT]-[LAYER] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WHT]-[LAYER] Uni LP
+Unstake 0.00 [WHT]-[LAYER] Uni LP
+Claim 0.00 MAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [HUSD]-[MAKI] Uni LP [+] [-] [<=>] Price: $29,301.21 TVL: $57,869.63
+HUSD Price: $1.00
+MAKI Price: $0.02
+Staked: 1.9479 MAKI-LP ($57,077.03)
+MAKI Per Week: 82330.95 ($1,514.85)
+APR: Day 0.38% Week 2.65% Year 138.01%
+You are staking 0.00 [HUSD]-[MAKI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [HUSD]-[MAKI] Uni LP
+Unstake 0.00 [HUSD]-[MAKI] Uni LP
+Claim 0.00 MAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [HUSD]-[WHT] Uni LP [+] [-] [<=>] Price: $639,149.12 TVL: $67,250.95
+HUSD Price: $1.00
+WHT Price: $8.65
+Staked: 0.1039 MAKI-LP ($66,404.39)
+MAKI Per Week: 25332.60 ($466.11)
+APR: Day 0.10% Week 0.70% Year 36.50%
+You are staking 0.00 [HUSD]-[WHT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [HUSD]-[WHT] Uni LP
+Unstake 0.00 [HUSD]-[WHT] Uni LP
+Claim 0.00 MAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [HUSD]-[ETH] Uni LP [+] [-] [<=>] Price: $10,169,420.76 TVL: $60,144.90
+HUSD Price: $1.00
+ETH Price: $2,432.52
+Staked: 0.0059 MAKI-LP ($59,686.74)
+MAKI Per Week: 25332.60 ($466.11)
+APR: Day 0.11% Week 0.78% Year 40.61%
+You are staking 0.00 [HUSD]-[ETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [HUSD]-[ETH] Uni LP
+Unstake 0.00 [HUSD]-[ETH] Uni LP
+Claim 0.00 MAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [HUSD]-[HBTC] Uni LP [+] [-] [<=>] Price: $38,928,196.13 TVL: $50,920.73
+HUSD Price: $1.00
+HBTC Price: $36,206.00
+Staked: 0.0013 MAKI-LP ($50,888.86)
+MAKI Per Week: 25332.60 ($466.11)
+APR: Day 0.13% Week 0.92% Year 47.63%
+You are staking 0.00 [HUSD]-[HBTC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [HUSD]-[HBTC] Uni LP
+Unstake 0.00 [HUSD]-[HBTC] Uni LP
+Claim 0.00 MAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [WHT]-[USDT] Uni LP [+] [-] [<=>] Price: $6.63 TVL: $83,211.30
+WHT Price: $8.65
+USDT Price: $1.00
+Staked: 12526.0569 MAKI-LP ($82,994.94)
+MAKI Per Week: 25332.60 ($466.11)
+APR: Day 0.08% Week 0.56% Year 29.20%
+You are staking 0.00 [WHT]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WHT]-[USDT] Uni LP
+Unstake 0.00 [WHT]-[USDT] Uni LP
+Claim 0.00 MAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [HUSD]-[USDT] Uni LP [+] [-] [<=>] Price: $203,264.10 TVL: $650,723.17
+HUSD Price: $1.00
+USDT Price: $1.00
+Staked: 3.1978 MAKI-LP ($650,003.31)
+MAKI Per Week: 50665.20 ($932.21)
+APR: Day 0.02% Week 0.14% Year 7.46%
+You are staking 0.00 [HUSD]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [HUSD]-[USDT] Uni LP
+Unstake 0.00 [HUSD]-[USDT] Uni LP
+Claim 0.00 MAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [ETH]-[HBTC] Uni LP [+] [-] [<=>] Price: $18,906.23 TVL: $621,050.89
+ETH Price: $2,432.52
+HBTC Price: $36,206.00
+Staked: 32.4082 MAKI-LP ($612,717.78)
+MAKI Per Week: 53831.78 ($990.48)
+APR: Day 0.02% Week 0.16% Year 8.41%
+You are staking 0.00 [ETH]-[HBTC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[HBTC] Uni LP
+Unstake 0.00 [ETH]-[HBTC] Uni LP
+Claim 0.00 MAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [WHT]-[ETH] Uni LP [+] [-] [<=>] Price: $299.99 TVL: $102,833.93
+WHT Price: $8.65
+ETH Price: $2,432.52
+Staked: 342.5938 MAKI-LP ($102,774.66)
+MAKI Per Week: 25332.60 ($466.11)
+APR: Day 0.06% Week 0.45% Year 23.58%
+You are staking 0.00 [WHT]-[ETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WHT]-[ETH] Uni LP
+Unstake 0.00 [WHT]-[ETH] Uni LP
+Claim 0.00 MAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [WHT]-[HBTC] Uni LP [+] [-] [<=>] Price: $1,146.88 TVL: $259,605.74
+WHT Price: $8.65
+HBTC Price: $36,206.00
+Staked: 226.2894 MAKI-LP ($259,525.65)
+MAKI Per Week: 25332.60 ($466.11)
+APR: Day 0.03% Week 0.18% Year 9.34%
+You are staking 0.00 [WHT]-[HBTC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WHT]-[HBTC] Uni LP
+Unstake 0.00 [WHT]-[HBTC] Uni LP
+Claim 0.00 MAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [WHT]-[anyETH] Uni LP [+] [-] [<=>] Price: $295.39 TVL: $35,147.25
+WHT Price: $8.65
+anyETH Price: $2,365.71
+Staked: 118.9284 MAKI-LP ($35,130.20)
+MAKI Per Week: 18999.45 ($349.58)
+APR: Day 0.14% Week 1.00% Year 51.75%
+You are staking 0.00 [WHT]-[anyETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WHT]-[anyETH] Uni LP
+Unstake 0.00 [WHT]-[anyETH] Uni LP
+Claim 0.00 MAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [USDC-HECO]-[USDT] Uni LP [+] [-] [<=>] Price: $2,027,376.69 TVL: $352,188.34
+USDC-HECO Price: $1.00
+USDT Price: $1.00
+Staked: 0.1736 MAKI-LP ($351,974.06)
+MAKI Per Week: 50665.20 ($932.21)
+APR: Day 0.04% Week 0.26% Year 13.77%
+You are staking 0.00 [USDC-HECO]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC-HECO]-[USDT] Uni LP
+Unstake 0.00 [USDC-HECO]-[USDT] Uni LP
+Claim 0.00 MAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [MAKI]-[USDC-HECO] Uni LP [+] [-] [<=>] Price: $284,898.39 TVL: $46,283.87
+MAKI Price: $0.02
+USDC-HECO Price: $1.00
+Staked: 0.1623 MAKI-LP ($46,248.39)
+MAKI Per Week: 82330.95 ($1,514.85)
+APR: Day 0.47% Week 3.28% Year 170.32%
+You are staking 0.00 [MAKI]-[USDC-HECO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MAKI]-[USDC-HECO] Uni LP
+Unstake 0.00 [MAKI]-[USDC-HECO] Uni LP
+Claim 0.00 MAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [MAKI]-[ETH] Uni LP [+] [-] [<=>] Price: $13.86 TVL: $55,111.33
+MAKI Price: $0.02
+ETH Price: $2,432.52
+Staked: 3848.2134 MAKI-LP ($53,324.20)
+MAKI Per Week: 82330.95 ($1,514.85)
+APR: Day 0.41% Week 2.84% Year 147.72%
+You are staking 0.00 [MAKI]-[ETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MAKI]-[ETH] Uni LP
+Unstake 0.00 [MAKI]-[ETH] Uni LP
+Claim 0.00 MAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [MAKI]-[USDT] Uni LP [+] [-] [<=>] Price: $0.33 TVL: $116,753.26
+MAKI Price: $0.02
+USDT Price: $1.00
+Staked: 352956.0407 MAKI-LP ($116,352.70)
+MAKI Per Week: 82330.95 ($1,514.85)
+APR: Day 0.19% Week 1.30% Year 67.70%
+You are staking 0.00 [MAKI]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MAKI]-[USDT] Uni LP
+Unstake 0.00 [MAKI]-[USDT] Uni LP
+Claim 0.00 MAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [AAVE]-[WHT] Uni LP [+] [-] [<=>] Price: $73.28 TVL: $71,818.81
+AAVE Price: $146.02
+WHT Price: $8.65
+Staked: 979.4077 MAKI-LP ($71,771.14)
+MAKI Per Week: 18999.45 ($349.58)
+APR: Day 0.07% Week 0.49% Year 25.33%
+You are staking 0.00 [AAVE]-[WHT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AAVE]-[WHT] Uni LP
+Unstake 0.00 [AAVE]-[WHT] Uni LP
+Claim 0.00 MAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [MAKI]-[HBTC] Uni LP [+] [-] [<=>] Price: $53.03 TVL: $56,179.47
+MAKI Price: $0.02
+HBTC Price: $36,206.00
+Staked: 1047.7640 MAKI-LP ($55,559.72)
+MAKI Per Week: 82330.95 ($1,514.85)
+APR: Day 0.39% Week 2.73% Year 141.78%
+You are staking 0.00 [MAKI]-[HBTC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MAKI]-[HBTC] Uni LP
+Unstake 0.00 [MAKI]-[HBTC] Uni LP
+Claim 0.00 MAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [WHT]-[MATIC] Uni LP [+] [-] [<=>] Price: $7.91 TVL: $70,676.39
+WHT Price: $8.65
+MATIC Price: $1.59
+Staked: 8852.0844 MAKI-LP ($70,023.52)
+MAKI Per Week: 18999.45 ($349.58)
+APR: Day 0.07% Week 0.50% Year 25.96%
+You are staking 0.00 [WHT]-[MATIC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WHT]-[MATIC] Uni LP
+Unstake 0.00 [WHT]-[MATIC] Uni LP
+Claim 0.00 MAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - [WHT]-[LINK] Uni LP [+] [-] [<=>] Price: $23.71 TVL: $78,354.67
+WHT Price: $8.65
+LINK Price: $15.05
+Staked: 3284.7160 MAKI-LP ($77,884.66)
+MAKI Per Week: 18999.45 ($349.58)
+APR: Day 0.06% Week 0.45% Year 23.34%
+You are staking 0.00 [WHT]-[LINK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WHT]-[LINK] Uni LP
+Unstake 0.00 [WHT]-[LINK] Uni LP
+Claim 0.00 MAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - [MAKI]-[anyETH] Uni LP [+] [-] [<=>] Price: $13.53 TVL: $39,224.91
+MAKI Price: $0.02
+anyETH Price: $2,365.71
+Staked: 2849.4194 MAKI-LP ($38,563.89)
+MAKI Per Week: 82330.95 ($1,514.85)
+APR: Day 0.56% Week 3.93% Year 204.26%
+You are staking 0.00 [MAKI]-[anyETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MAKI]-[anyETH] Uni LP
+Unstake 0.00 [MAKI]-[anyETH] Uni LP
+Claim 0.00 MAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - [ETH]-[HDOT] Uni LP [+] [-] [<=>] Price: $427.31 TVL: $67,521.95
+ETH Price: $2,432.52
+HDOT Price: $17.94
+Staked: 151.6849 MAKI-LP ($64,816.33)
+MAKI Per Week: 18999.45 ($349.58)
+APR: Day 0.08% Week 0.54% Year 28.05%
+You are staking 0.00 [ETH]-[HDOT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[HDOT] Uni LP
+Unstake 0.00 [ETH]-[HDOT] Uni LP
+Claim 0.00 MAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [WHT]-[HFIL] Uni LP [+] [-] [<=>] Price: $26.76 TVL: $62,294.58
+WHT Price: $8.65
+HFIL Price: $19.03
+Staked: 2311.7431 MAKI-LP ($61,861.47)
+MAKI Per Week: 18999.45 ($349.58)
+APR: Day 0.08% Week 0.57% Year 29.39%
+You are staking 0.00 [WHT]-[HFIL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WHT]-[HFIL] Uni LP
+Unstake 0.00 [WHT]-[HFIL] Uni LP
+Claim 0.00 MAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - [MAKI]-[HDOT] Uni LP [+] [-] [<=>] Price: $1.19 TVL: $31,861.11
+MAKI Price: $0.02
+HDOT Price: $17.94
+Staked: 26207.0149 MAKI-LP ($31,237.74)
+MAKI Per Week: 63331.50 ($1,165.27)
+APR: Day 0.53% Week 3.73% Year 193.98%
+You are staking 0.00 [MAKI]-[HDOT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MAKI]-[HDOT] Uni LP
+Unstake 0.00 [MAKI]-[HDOT] Uni LP
+Claim 0.00 MAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - [WHT]-[HBCH] Uni LP [+] [-] [<=>] Price: $102.16 TVL: $84,364.01
+WHT Price: $8.65
+HBCH Price: $289.21
+Staked: 825.6596 MAKI-LP ($84,346.96)
+MAKI Per Week: 18999.45 ($349.58)
+APR: Day 0.06% Week 0.41% Year 21.55%
+You are staking 0.00 [WHT]-[HBCH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WHT]-[HBCH] Uni LP
+Unstake 0.00 [WHT]-[HBCH] Uni LP
+Claim 0.00 MAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - [WHT]-[ADA] Uni LP [+] [-] [<=>] Price: $6,130,731.43 TVL: $70,446.56
+WHT Price: $8.65
+ADA Price: $1.03
+Staked: 0.0115 MAKI-LP ($70,380.60)
+MAKI Per Week: 18999.45 ($349.58)
+APR: Day 0.07% Week 0.50% Year 25.83%
+You are staking 0.00 [WHT]-[ADA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WHT]-[ADA] Uni LP
+Unstake 0.00 [WHT]-[ADA] Uni LP
+Claim 0.00 MAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - [DAI-HECO]-[WHT] Uni LP [+] [-] [<=>] Price: $6.04 TVL: $83,774.10
+DAI-HECO Price: $1.00
+WHT Price: $8.65
+Staked: 13804.8246 MAKI-LP ($83,436.93)
+MAKI Per Week: 18999.45 ($349.58)
+APR: Day 0.06% Week 0.42% Year 21.79%
+You are staking 0.00 [DAI-HECO]-[WHT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI-HECO]-[WHT] Uni LP
+Unstake 0.00 [DAI-HECO]-[WHT] Uni LP
+Claim 0.00 MAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - [WHT]-[HDOT] Uni LP [+] [-] [<=>] Price: $25.93 TVL: $173,641.09
+WHT Price: $8.65
+HDOT Price: $17.94
+Staked: 6660.2830 MAKI-LP ($172,717.03)
+MAKI Per Week: 50665.20 ($932.21)
+APR: Day 0.08% Week 0.54% Year 28.07%
+You are staking 0.00 [WHT]-[HDOT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WHT]-[HDOT] Uni LP
+Unstake 0.00 [WHT]-[HDOT] Uni LP
+Claim 0.00 MAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+29 - [MAKI]-[MATIC] Uni LP [+] [-] [<=>] Price: $0.35 TVL: $53,279.50
+MAKI Price: $0.02
+MATIC Price: $1.59
+Staked: 147061.9399 MAKI-LP ($51,780.14)
+MAKI Per Week: 82330.95 ($1,514.85)
+APR: Day 0.42% Week 2.93% Year 152.13%
+You are staking 0.00 [MAKI]-[MATIC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MAKI]-[MATIC] Uni LP
+Unstake 0.00 [MAKI]-[MATIC] Uni LP
+Claim 0.00 MAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+30 - [ETH]-[MATIC] Uni LP [+] [-] [<=>] Price: $127.86 TVL: $70,799.63
+ETH Price: $2,432.52
+MATIC Price: $1.59
+Staked: 528.6182 MAKI-LP ($67,587.61)
+MAKI Per Week: 22166.03 ($407.84)
+APR: Day 0.09% Week 0.60% Year 31.38%
+You are staking 0.00 [ETH]-[MATIC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[MATIC] Uni LP
+Unstake 0.00 [ETH]-[MATIC] Uni LP
+Claim 0.00 MAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+31 - [MAKI]-[O3] Uni LP [+] [-] [<=>] Price: $0.16 TVL: $22,158.19
+MAKI Price: $0.02
+O3 Price: $0.30
+Staked: 140554.0741 MAKI-LP ($21,871.67)
+MAKI Per Week: 50665.20 ($932.21)
+APR: Day 0.61% Week 4.26% Year 221.63%
+You are staking 0.00 [MAKI]-[O3] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MAKI]-[O3] Uni LP
+Unstake 0.00 [MAKI]-[O3] Uni LP
+Claim 0.00 MAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+32 - [MAKI]-[HLTC] Uni LP [+] [-] [<=>] Price: $2.89 TVL: $39,831.23
+MAKI Price: $0.02
+HLTC Price: $106.97
+Staked: 13387.0946 MAKI-LP ($38,659.55)
+MAKI Per Week: 82330.95 ($1,514.85)
+APR: Day 0.56% Week 3.92% Year 203.76%
+You are staking 0.00 [MAKI]-[HLTC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MAKI]-[HLTC] Uni LP
+Unstake 0.00 [MAKI]-[HLTC] Uni LP
+Claim 0.00 MAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+33 - [DAI-HECO]-[MAKI] Uni LP [+] [-] [<=>] Price: $0.28 TVL: $37,287.99
+DAI-HECO Price: $1.00
+MAKI Price: $0.02
+Staked: 132073.1672 MAKI-LP ($36,688.18)
+MAKI Per Week: 82330.95 ($1,514.85)
+APR: Day 0.59% Week 4.13% Year 214.71%
+You are staking 0.00 [DAI-HECO]-[MAKI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI-HECO]-[MAKI] Uni LP
+Unstake 0.00 [DAI-HECO]-[MAKI] Uni LP
+Claim 0.00 MAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+34 - [MAKI]-[LAYER] Uni LP [+] [-] [<=>] Price: $0.12 TVL: $48,486.14
+MAKI Price: $0.02
+LAYER Price: $0.18
+Staked: 399588.4084 MAKI-LP ($47,916.16)
+MAKI Per Week: 82330.95 ($1,514.85)
+APR: Day 0.45% Week 3.16% Year 164.40%
+You are staking 0.00 [MAKI]-[LAYER] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MAKI]-[LAYER] Uni LP
+Unstake 0.00 [MAKI]-[LAYER] Uni LP
+Claim 0.00 MAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+35 - [HBTC]-[USDT] Uni LP [+] [-] [<=>] Price: $156,549,285.83 TVL: $67,183.68
+HBTC Price: $36,206.00
+USDT Price: $1.00
+Staked: 0.0004 MAKI-LP ($66,902.57)
+MAKI Per Week: 25332.60 ($466.11)
+APR: Day 0.10% Week 0.70% Year 36.23%
+You are staking 0.00 [HBTC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [HBTC]-[USDT] Uni LP
+Unstake 0.00 [HBTC]-[USDT] Uni LP
+Claim 0.00 MAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+36 - [DOGE]-[USDT] Uni LP [+] [-] [<=>] Price: $77,937.07 TVL: $51,705.83
+DOGE Price: $0.14
+USDT Price: $1.00
+Staked: 0.6576 MAKI-LP ($51,253.79)
+MAKI Per Week: 25332.60 ($466.11)
+APR: Day 0.13% Week 0.91% Year 47.29%
+You are staking 0.00 [DOGE]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOGE]-[USDT] Uni LP
+Unstake 0.00 [DOGE]-[USDT] Uni LP
+Claim 0.00 MAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+37 - [MAKI]-[Heco-Peg SHIB Token] Uni LP [+] [-] [<=>] Price: $0.00 TVL: $72,304.08
+MAKI Price: $0.02
+Heco-Peg SHIB Token Price: $0.0000208287
+Staked: 54050192.2610 MAKI-LP ($70,746.85)
+MAKI Per Week: 63331.50 ($1,165.27)
+APR: Day 0.24% Week 1.65% Year 85.65%
+You are staking 0.00 [MAKI]-[Heco-Peg SHIB Token] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MAKI]-[Heco-Peg SHIB Token] Uni LP
+Unstake 0.00 [MAKI]-[Heco-Peg SHIB Token] Uni LP
+Claim 0.00 MAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+38 - [ACH]-[MAKI] Uni LP [+] [-] [<=>] Price: $5,406.23 TVL: $27,306.74
+ACH Price: $0.04
+MAKI Price: $0.02
+Staked: 4.9940 MAKI-LP ($26,998.79)
+MAKI Per Week: 82330.95 ($1,514.85)
+APR: Day 0.80% Week 5.61% Year 291.76%
+You are staking 0.00 [ACH]-[MAKI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ACH]-[MAKI] Uni LP
+Unstake 0.00 [ACH]-[MAKI] Uni LP
+Claim 0.00 MAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+39 - [TUSD]-[MAKI] Uni LP [+] [-] [<=>] Price: $0.27 TVL: $42,464.00
+TUSD Price: $0.99
+MAKI Price: $0.02
+Staked: 151484.7946 MAKI-LP ($41,636.51)
+MAKI Per Week: 82330.95 ($1,514.85)
+APR: Day 0.52% Week 3.64% Year 189.19%
+You are staking 0.00 [TUSD]-[MAKI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TUSD]-[MAKI] Uni LP
+Unstake 0.00 [TUSD]-[MAKI] Uni LP
+Claim 0.00 MAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+40 - [PTD]-[MAKI] Uni LP [+] [-] [<=>] Price: $0.02 TVL: $20,422.61
+PTD Price: $0.005072
+MAKI Price: $0.02
+Staked: 1027322.3390 MAKI-LP ($20,324.64)
+MAKI Per Week: 44332.05 ($815.69)
+APR: Day 0.57% Week 4.01% Year 208.69%
+You are staking 0.00 [PTD]-[MAKI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PTD]-[MAKI] Uni LP
+Unstake 0.00 [PTD]-[MAKI] Uni LP
+Claim 0.00 MAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+41 - [PTD]-[WHT] Uni LP [+] [-] [<=>] Price: $0.43 TVL: $38,668.04
+PTD Price: $0.005072
+WHT Price: $8.65
+Staked: 90097.5541 MAKI-LP ($38,660.96)
+MAKI Per Week: 18999.45 ($349.58)
+APR: Day 0.13% Week 0.90% Year 47.02%
+You are staking 0.00 [PTD]-[WHT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PTD]-[WHT] Uni LP
+Unstake 0.00 [PTD]-[WHT] Uni LP
+Claim 0.00 MAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+42 - [MAKI]-[LINK] Uni LP [+] [-] [<=>] Price: $1.07 TVL: $46,647.06
+MAKI Price: $0.02
+LINK Price: $15.05
+Staked: 42764.1653 MAKI-LP ($45,920.16)
+MAKI Per Week: 82330.95 ($1,514.85)
+APR: Day 0.47% Week 3.30% Year 171.54%
+You are staking 0.00 [MAKI]-[LINK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MAKI]-[LINK] Uni LP
+Unstake 0.00 [MAKI]-[LINK] Uni LP
+Claim 0.00 MAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+43 - [HUSD]-[TUSD] Uni LP [+] [-] [<=>] Price: $199,713.28 TVL: $153,941.41
+HUSD Price: $1.00
+TUSD Price: $0.99
+Staked: 0.7696 MAKI-LP ($153,707.99)
+MAKI Per Week: 31665.75 ($582.63)
+APR: Day 0.05% Week 0.38% Year 19.71%
+You are staking 0.00 [HUSD]-[TUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [HUSD]-[TUSD] Uni LP
+Unstake 0.00 [HUSD]-[TUSD] Uni LP
+Claim 0.00 MAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+44 - [HUSD]-[DAI-HECO] Uni LP [+] [-] [<=>] Price: $200,757.63 TVL: $225,577.00
+HUSD Price: $1.00
+DAI-HECO Price: $1.00
+Staked: 1.1216 MAKI-LP ($225,165.05)
+MAKI Per Week: 31665.75 ($582.63)
+APR: Day 0.04% Week 0.26% Year 13.46%
+You are staking 0.00 [HUSD]-[DAI-HECO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [HUSD]-[DAI-HECO] Uni LP
+Unstake 0.00 [HUSD]-[DAI-HECO] Uni LP
+Claim 0.00 MAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+45 - [USDC-HECO]-[SOY] Uni LP [+] [-] [<=>] Price: $8,481,943.93 TVL: $142,422.22
+USDC-HECO Price: $1.00
+SOY Price: $0.01
+Staked: 0.0168 MAKI-LP ($142,144.06)
+MAKI Per Week: 101330.40 ($1,864.43)
+APR: Day 0.19% Week 1.31% Year 68.21%
+You are staking 0.00 [USDC-HECO]-[SOY] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC-HECO]-[SOY] Uni LP
+Unstake 0.00 [USDC-HECO]-[SOY] Uni LP
+Claim 0.00 MAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+46 - [MAKI]-[SOY] Uni LP [+] [-] [<=>] Price: $0.03 TVL: $72,100.48
+MAKI Price: $0.02
+SOY Price: $0.01
+Staked: 2084483.3629 MAKI-LP ($71,071.20)
+MAKI Per Week: 82330.95 ($1,514.85)
+APR: Day 0.30% Week 2.13% Year 110.84%
+You are staking 0.00 [MAKI]-[SOY] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MAKI]-[SOY] Uni LP
+Unstake 0.00 [MAKI]-[SOY] Uni LP
+Claim 0.00 MAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+48 - [DAI-HECO]-[USDC-HECO] Uni LP [+] [-] [<=>] Price: $2,004,099.75 TVL: $112,151.88
+DAI-HECO Price: $1.00
+USDC-HECO Price: $1.00
+Staked: 0.0559 MAKI-LP ($112,053.64)
+MAKI Per Week: 25332.60 ($466.11)
+APR: Day 0.06% Week 0.42% Year 21.63%
+You are staking 0.00 [DAI-HECO]-[USDC-HECO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI-HECO]-[USDC-HECO] Uni LP
+Unstake 0.00 [DAI-HECO]-[USDC-HECO] Uni LP
+Claim 0.00 MAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $5,966,015.53

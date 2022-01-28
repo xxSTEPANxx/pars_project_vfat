@@ -6,169 +6,31 @@ INFO  : https://rediant.finance
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Fri Dec 17 2021 10:20:23 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 22:40:56 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
-Found 15 pools.
-Showing incentivized pools only.
-Finished reading smart contracts.
-0 - [USDC]-[RDT] Uni LP [+] [-] [<=>] Price: $484.56 TVL: $0.92
-USDC Price: $1.00
-RDT Price: $0.0000000243
-Staked: 0.0003 UNI-V2 ($0.17)
-RDT Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 [USDC]-[RDT] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[RDT] Uni LP
-Unstake 0.00 [USDC]-[RDT] Uni LP
-Claim 0.00 RDT ($0.00)
-Staking or unstaking also claims rewards.
-
-1 - [WMATIC]-[RDT] Uni LP [+] [-] [<=>] Price: $0.00 TVL: $3.80
-WMATIC Price: $2.05
-RDT Price: $0.0000000243
-Staked: 734.4007 UNI-V2 ($0.39)
-RDT Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 [WMATIC]-[RDT] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[RDT] Uni LP
-Unstake 0.00 [WMATIC]-[RDT] Uni LP
-Claim 0.00 RDT ($0.00)
-Staking or unstaking also claims rewards.
-
-2 - RDT Price: $0.0000000243 Market Cap: $481,061.84 [%]
-Staked: 18000002929368.5469 RDT ($437,328.94)
-RDT Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 RDT ($0.00), 0.00% of the pool.
-Stake 0.00 RDT
-Unstake 0.00 RDT
-Claim 0.00 RDT ($0.00)
-Staking or unstaking also claims rewards.
-
-3 - USDC Price: $1.00 Market Cap: $947,472,315.93 [%]
-Staked: 1433.5822 USDC ($1,426.46)
-RDT Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 USDC ($0.00), 0.00% of the pool.
-Stake 0.00 USDC - Fee 4%
-Unstake 0.00 USDC
-Claim 0.00 RDT ($0.00)
-Staking or unstaking also claims rewards.
-
-4 - WMATIC Price: $2.05 Market Cap: $625,764,870.20 [%]
-Staked: 4698.4532 WMATIC ($9,631.83)
-RDT Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
-Stake 0.00 WMATIC - Fee 4%
-Unstake 0.00 WMATIC
-Claim 0.00 RDT ($0.00)
-Staking or unstaking also claims rewards.
-
-5 - WETH Price: $3,892.79 Market Cap: $1,728,425,218.44 [%]
-Staked: 0.1935 WETH ($753.26)
-RDT Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 WETH ($0.00), 0.00% of the pool.
-Stake 0.00 WETH - Fee 4%
-Unstake 0.00 WETH
-Claim 0.00 RDT ($0.00)
-Staking or unstaking also claims rewards.
-
-6 - WBTC Price: $46,996.00 Market Cap: $474,839,879.09 [%]
-Staked: 0.0007 WBTC ($34.21)
-RDT Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
-Stake 0.00 WBTC - Fee 4%
-Unstake 0.00 WBTC
-Claim 0.00 RDT ($0.00)
-Staking or unstaking also claims rewards.
-
-7 - DAI Price: $1.00 Market Cap: $366,279,090.69 [%]
-Staked: 492.5761 DAI ($490.74)
-RDT Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 DAI ($0.00), 0.00% of the pool.
-Stake 0.00 DAI - Fee 4%
-Unstake 0.00 DAI
-Claim 0.00 RDT ($0.00)
-Staking or unstaking also claims rewards.
-
-8 - QUICK Price: $241.20 Market Cap: $230,475,864.82 [%]
-Staked: 0.1110 QUICK ($26.76)
-RDT Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
-Stake 0.00 QUICK - Fee 4%
-Unstake 0.00 QUICK
-Claim 0.00 RDT ($0.00)
-Staking or unstaking also claims rewards.
-
-9 - USDT Price: $1.00 Market Cap: $318,202,586.16 [%]
-Staked: 2954.5489 USDT ($2,940.25)
-RDT Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 USDT ($0.00), 0.00% of the pool.
-Stake 0.00 USDT - Fee 4%
-Unstake 0.00 USDT
-Claim 0.00 RDT ($0.00)
-Staking or unstaking also claims rewards.
-
-10 - LINK Price: $18.84 Market Cap: $32,761,844.81 [%]
-Staked: 1.5953 LINK ($30.05)
-RDT Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 LINK ($0.00), 0.00% of the pool.
-Stake 0.00 LINK - Fee 4%
-Unstake 0.00 LINK
-Claim 0.00 RDT ($0.00)
-Staking or unstaking also claims rewards.
-
-11 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,725,551.20 TVL: $51,038,504.19
-WMATIC Price: $2.05
-USDC Price: $1.00
-Staked: 0.0081 UNI-V2 ($46,127.42)
-RDT Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
-Unstake 0.00 [WMATIC]-[USDC] Uni LP
-Claim 0.00 RDT ($0.00)
-Staking or unstaking also claims rewards.
-
-12 - miMATIC Price: $0.00 Market Cap: $0.00 
-Staked: 29.1936 miMATIC ($0.00)
-RDT Per Week: 0.00 ($0.00)
-APR: Day NaN% Week NaN% Year NaN%
-You are staking 0.00 miMATIC ($0.00), NaN% of the pool.
-Stake 0.00 miMATIC - Fee 4%
-Unstake 0.00 miMATIC
-Claim 0.00 RDT ($0.00)
-Staking or unstaking also claims rewards.
-
-13 - PolyDoge Price: $0.0000000230 Market Cap: $23,008,000.00 [%]
-Staked: 66531649482.3619 PolyDoge ($1,530.76)
-RDT Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 PolyDoge ($0.00), 0.00% of the pool.
-Stake 0.00 PolyDoge - Fee 4%
-Unstake 0.00 PolyDoge
-Claim 0.00 RDT ($0.00)
-Staking or unstaking also claims rewards.
-
-14 - RDT Price: $0.00 Market Cap: $0.00 
-Staked: 0.0000 RDT ($0.00)
-RDT Per Week: 0.00 ($0.00)
-APR: Day NaN% Week NaN% Year NaN%
-You are staking 0.00 RDT ($0.00), NaN% of the pool.
-Stake 0.00 RDT
-Unstake 0.00 RDT
-Claim 0.00 RDT ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $500,321.24
+{
+  "code": -32603,
+  "message": "JsonRpcEngine: Response has no error or result for request:\n{\n  \"method\": \"eth_call\",\n  \"params\": [\n    {\n      \"to\": \"0x5979959483b4aafa6a94ba8da6aa406c31d06cb6\",\n      \"data\": \"0x081e3eda\"\n    },\n    \"0x171d504\"\n  ],\n  \"jsonrpc\": \"2.0\",\n  \"id\": 1438305652,\n  \"origin\": \"https://vfat.tools\",\n  \"tabId\": 2\n}",
+  "data": {
+    "request": {
+      "method": "eth_call",
+      "params": [
+        {
+          "to": "0x5979959483b4aafa6a94ba8da6aa406c31d06cb6",
+          "data": "0x081e3eda"
+        },
+        "0x171d504"
+      ],
+      "jsonrpc": "2.0",
+      "id": 1438305652,
+      "origin": "https://vfat.tools",
+      "tabId": 2
+    }
+  },
+  "stack": "{\n  \"code\": -32603,\n  \"message\": \"JsonRpcEngine: Response has no error or result for request:\\n{\\n  \\\"method\\\": \\\"eth_call\\\",\\n  \\\"params\\\": [\\n    {\\n      \\\"to\\\": \\\"0x5979959483b4aafa6a94ba8da6aa406c31d06cb6\\\",\\n      \\\"data\\\": \\\"0x081e3eda\\\"\\n    },\\n    \\\"0x171d504\\\"\\n  ],\\n  \\\"jsonrpc\\\": \\\"2.0\\\",\\n  \\\"id\\\": 1438305652,\\n  \\\"origin\\\": \\\"https://vfat.tools\\\",\\n  \\\"tabId\\\": 2\\n}\",\n  \"data\": {\n    \"request\": {\n      \"method\": \"eth_call\",\n      \"params\": [\n        {\n          \"to\": \"0x5979959483b4aafa6a94ba8da6aa406c31d06cb6\",\n          \"data\": \"0x081e3eda\"\n        },\n        \"0x171d504\"\n      ],\n      \"jsonrpc\": \"2.0\",\n      \"id\": 1438305652,\n      \"origin\": \"https://vfat.tools\",\n      \"tabId\": 2\n    }\n  },\n  \"stack\": \"Error: JsonRpcEngine: Response has no error or result for request:\\n{\\n  \\\"method\\\": \\\"eth_call\\\",\\n  \\\"params\\\": [\\n    {\\n      \\\"to\\\": \\\"0x5979959483b4aafa6a94ba8da6aa406c31d06cb6\\\",\\n      \\\"data\\\": \\\"0x081e3eda\\\"\\n    },\\n    \\\"0x171d504\\\"\\n  ],\\n  \\\"jsonrpc\\\": \\\"2.0\\\",\\n  \\\"id\\\": 1438305652,\\n  \\\"origin\\\": \\\"https://vfat.tools\\\",\\n  \\\"tabId\\\": 2\\n}\\n    at new o (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/common-1.js:16:24204)\\n    at Function._checkForCompletion (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:305269)\\n    at a._processRequest (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304461)\\n    at async a._handle (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304249)\"\n}\n  at new o (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/common-1.js:16:24204)\n  at Function._checkForCompletion (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:305269)\n  at a._processRequest (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304461)\n  at async a._handle (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304249)"
+}
+Oops something went wrong. Try refreshing the page.

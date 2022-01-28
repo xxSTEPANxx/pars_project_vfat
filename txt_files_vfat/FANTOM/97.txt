@@ -1,0 +1,202 @@
+*************** 👨‍🌾 UNOFFICIAL KUZO DEFI FARMING CALCULATOR 👨‍🌾 ***************
+App  : https://kuzo.xyz
+Telegram: https://t.me/kuzodefiapp
+*********************************************************************************
+
+Fri Jan 28 2022 00:54:09 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 17 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [KUZO]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $0.44 TVL: $3.67
+KUZO Price: $0.02
+WFTM Price: $2.04
+Staked: 7.0381 spLP ($3.13)
+KUZO Per Week: 196151.35 ($4,624.59)
+APR: Day 21119.76% Week 147838.31% Year 7687592.28%
+You are staking 0.00 [KUZO]-[WFTM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KUZO]-[WFTM] SPOOKY LP
+Unstake 0.00 [KUZO]-[WFTM] SPOOKY LP
+Claim 0.00 KUZO ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [USDC]-[KUZO] SPOOKY LP [+] [-] [<=>] Price: $315,470.80 TVL: $0.33
+USDC Price: $1.01
+KUZO Price: $0.02
+Staked: 0.0000 spLP ($0.00)
+KUZO Per Week: 147113.51 ($3,468.44)
+APR: Day 15706407409719.52% Week 109944851868036.64% Year 5717132297137905.00%
+You are staking 0.00 [USDC]-[KUZO] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[KUZO] SPOOKY LP
+Unstake 0.00 [USDC]-[KUZO] SPOOKY LP
+Claim 0.00 KUZO ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WFTM]-[BOO] SPOOKY LP [+] [-] [<=>] Price: $15.02 TVL: $63,645,048.94
+WFTM Price: $2.04
+BOO Price: $25.32
+Staked: 0.0000 spLP ($0.00)
+KUZO Per Week: 8172.97 ($192.69)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WFTM]-[BOO] SPOOKY LP ($0.00), NaN% of the pool.
+Stake 0.00 [WFTM]-[BOO] SPOOKY LP - Fee 3.5%
+Unstake 0.00 [WFTM]-[BOO] SPOOKY LP
+Claim 0.00 KUZO ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WFTM]-[ETH] SPOOKY LP [+] [-] [<=>] Price: $158.08 TVL: $42,864,514.49
+WFTM Price: $2.04
+ETH Price: $2,372.59
+Staked: 0.0023 spLP ($0.36)
+KUZO Per Week: 8172.97 ($192.69)
+APR: Day 7678.74% Week 53751.20% Year 2795062.49%
+You are staking 0.00 [WFTM]-[ETH] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ETH] SPOOKY LP - Fee 3.5%
+Unstake 0.00 [WFTM]-[ETH] SPOOKY LP
+Claim 0.00 KUZO ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDC]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $4,395,445.10 TVL: $169,210,612.13
+USDC Price: $1.01
+WFTM Price: $2.04
+Staked: 0.0000 spLP ($0.02)
+KUZO Per Week: 8172.97 ($192.69)
+APR: Day 125759.56% Week 880316.94% Year 45776480.79%
+You are staking 0.00 [USDC]-[WFTM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WFTM] SPOOKY LP - Fee 3.5%
+Unstake 0.00 [USDC]-[WFTM] SPOOKY LP
+Claim 0.00 KUZO ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WFTM]-[SCREAM] SPOOKY LP [+] [-] [<=>] Price: $25.62 TVL: $16,788,493.61
+WFTM Price: $2.04
+SCREAM Price: $74.65
+Staked: 0.0211 spLP ($0.54)
+KUZO Per Week: 8172.97 ($192.69)
+APR: Day 5087.50% Week 35612.53% Year 1851851.58%
+You are staking 0.00 [WFTM]-[SCREAM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[SCREAM] SPOOKY LP - Fee 3.5%
+Unstake 0.00 [WFTM]-[SCREAM] SPOOKY LP
+Claim 0.00 KUZO ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [WFTM]-[BTC] SPOOKY LP [+] [-] [<=>] Price: $11,369,313,735.51 TVL: $22,018,918.53
+WFTM Price: $2.04
+BTC Price: $36,339.00
+Staked: 0.0000 spLP ($0.37)
+KUZO Per Week: 8172.97 ($192.69)
+APR: Day 7439.14% Week 52074.01% Year 2707848.57%
+You are staking 0.00 [WFTM]-[BTC] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BTC] SPOOKY LP - Fee 3.5%
+Unstake 0.00 [WFTM]-[BTC] SPOOKY LP
+Claim 0.00 KUZO ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [WFTM]-[DAI] SPOOKY LP [+] [-] [<=>] Price: $3.78 TVL: $44,114,889.69
+WFTM Price: $2.04
+DAI Price: $1.01
+Staked: 0.1283 spLP ($0.48)
+KUZO Per Week: 8172.97 ($192.69)
+APR: Day 5679.57% Week 39757.01% Year 2067364.52%
+You are staking 0.00 [WFTM]-[DAI] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[DAI] SPOOKY LP - Fee 3.5%
+Unstake 0.00 [WFTM]-[DAI] SPOOKY LP
+Claim 0.00 KUZO ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - KUZO Price: $0.02 Market Cap: $47.15 
+Staked: 630.3218 KUZO ($14.86)
+KUZO Per Week: 147113.51 ($3,468.44)
+APR: Day 3334.20% Week 23339.43% Year 1213650.33%
+You are staking 0.00 KUZO ($0.00), 0.00% of the pool.
+Stake 0.00 KUZO
+Unstake 0.00 KUZO
+Claim 0.00 KUZO ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - WFTM Price: $2.04 Market Cap: $1,473,159,029.29 
+Staked: 10.7450 WFTM ($21.92)
+KUZO Per Week: 8172.97 ($192.69)
+APR: Day 125.58% Week 879.07% Year 45711.70%
+You are staking 0.00 WFTM ($0.00), 0.00% of the pool.
+Stake 0.00 WFTM - Fee 3.5%
+Unstake 0.00 WFTM
+Claim 0.00 KUZO ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - USDC Price: $1.01 Market Cap: $1,744,757,684.97 
+Staked: 0.4921 USDC ($0.50)
+KUZO Per Week: 8172.97 ($192.69)
+APR: Day 5537.89% Week 38765.26% Year 2015793.51%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 3.5%
+Unstake 0.00 USDC
+Claim 0.00 KUZO ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - ETH Price: $2,372.59 Market Cap: $1,131,912,014.06 
+Staked: 0.0000 ETH ($0.00)
+KUZO Per Week: 8172.97 ($192.69)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 ETH ($0.00), NaN% of the pool.
+Stake 0.00 ETH - Fee 3.5%
+Unstake 0.00 ETH
+Claim 0.00 KUZO ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - BTC Price: $36,339.00 Market Cap: $625,278,129.03 
+Staked: 0.0000 BTC ($0.53)
+KUZO Per Week: 8172.97 ($192.69)
+APR: Day 5163.69% Week 36145.85% Year 1879584.35%
+You are staking 0.00 BTC ($0.00), 0.00% of the pool.
+Stake 0.00 BTC - Fee 3.5%
+Unstake 0.00 BTC
+Claim 0.00 KUZO ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - DAI Price: $1.01 Market Cap: $711,512,155.93 
+Staked: 14.4750 DAI ($14.62)
+KUZO Per Week: 8172.97 ($192.69)
+APR: Day 188.29% Week 1318.02% Year 68536.98%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 3.5%
+Unstake 0.00 DAI
+Claim 0.00 KUZO ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - fUSDT Price: $1.01 Market Cap: $353,946,320.35 
+Staked: 3.3410 fUSDT ($3.37)
+KUZO Per Week: 8172.97 ($192.69)
+APR: Day 815.77% Week 5710.41% Year 296941.27%
+You are staking 0.00 fUSDT ($0.00), 0.00% of the pool.
+Stake 0.00 fUSDT - Fee 3.5%
+Unstake 0.00 fUSDT
+Claim 0.00 KUZO ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - BNB Price: $367.17 Market Cap: $13,918,491.04 
+Staked: 0.0000 BNB ($0.00)
+KUZO Per Week: 8172.97 ($192.69)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 BNB ($0.00), NaN% of the pool.
+Stake 0.00 BNB - Fee 3.5%
+Unstake 0.00 BNB
+Claim 0.00 KUZO ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - BOO Price: $25.32 Market Cap: $213,628,875.36 
+Staked: 3.2458 BOO ($82.18)
+KUZO Per Week: 8172.97 ($192.69)
+APR: Day 33.49% Week 234.46% Year 12191.95%
+You are staking 0.00 BOO ($0.00), 0.00% of the pool.
+Stake 0.00 BOO - Fee 3.5%
+Unstake 0.00 BOO
+Claim 0.00 KUZO ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $142.89

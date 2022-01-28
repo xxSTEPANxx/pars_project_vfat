@@ -1,0 +1,251 @@
+*************** 👨‍🌾 UNOFFICIAL GHOST FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://ghost.maximum.farm
+**************************************************************************
+
+Fri Jan 28 2022 00:55:51 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 22 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - GHST Price: $0.009477 Market Cap: $142.16 
+Staked: 1580.3957 GHST ($14.98)
+GHST Per Week: 785.45 ($7.44)
+APR: Day 7.10% Week 49.70% Year 2584.39%
+You are staking 0.00 GHST ($0.00), 0.00% of the pool.
+Stake 0.00 GHST
+Unstake 0.00 GHST
+Claim 0.00 GHST ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [USDC]-[GHST] SPOOKY LP [+] [-] [<=>] Price: $199,163.37 TVL: $99.48
+USDC Price: $1.00
+GHST Price: $0.009477
+Staked: 0.0000 spLP ($0.65)
+GHST Per Week: 1570.91 ($14.89)
+APR: Day 325.49% Week 2278.43% Year 118478.58%
+You are staking 0.00 [USDC]-[GHST] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[GHST] SPOOKY LP
+Unstake 0.00 [USDC]-[GHST] SPOOKY LP
+Claim 0.00 GHST ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [USDC]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $4,373,771.91 TVL: $168,364,501.32
+USDC Price: $1.00
+WFTM Price: $2.04
+Staked: 0.0000 spLP ($0.00)
+GHST Per Week: 157.09 ($1.49)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[WFTM] SPOOKY LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[WFTM] SPOOKY LP - Fee 4%
+Unstake 0.00 [USDC]-[WFTM] SPOOKY LP
+Claim 0.00 GHST ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WFTM]-[GHST] SPOOKY LP [+] [-] [<=>] Price: $0.28 TVL: $89.33
+WFTM Price: $2.04
+GHST Price: $0.009477
+Staked: 1.5180 spLP ($0.43)
+GHST Per Week: 1570.91 ($14.89)
+APR: Day 491.91% Week 3443.34% Year 179053.52%
+You are staking 0.00 [WFTM]-[GHST] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[GHST] SPOOKY LP
+Unstake 0.00 [WFTM]-[GHST] SPOOKY LP
+Claim 0.00 GHST ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - MNSTR Price: $0.00 Market Cap: $0.00 
+Staked: 198.1722 MNSTR ($0.00)
+GHST Per Week: 78.55 ($0.74)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 MNSTR ($0.00), NaN% of the pool.
+Stake 0.00 MNSTR
+Unstake 0.00 MNSTR
+Claim 0.00 GHST ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - WFTM Price: $2.04 Market Cap: $1,472,979,814.34 
+Staked: 1.9296 WFTM ($3.94)
+GHST Per Week: 109.96 ($1.04)
+APR: Day 3.78% Week 26.47% Year 1376.69%
+You are staking 0.00 WFTM ($0.00), 0.00% of the pool.
+Stake 0.00 WFTM - Fee 4%
+Unstake 0.00 WFTM
+Claim 0.00 GHST ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - TOMB Price: $2.02 Market Cap: $362,355,263.64 
+Staked: 3.3839 TOMB ($6.84)
+GHST Per Week: 109.96 ($1.04)
+APR: Day 2.18% Week 15.25% Year 792.80%
+You are staking 0.00 TOMB ($0.00), 0.00% of the pool.
+Stake 0.00 TOMB - Fee 4%
+Unstake 0.00 TOMB
+Claim 0.00 GHST ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - DAI Price: $1.01 Market Cap: $711,512,155.93 
+Staked: 0.0000 DAI ($0.00)
+GHST Per Week: 109.96 ($1.04)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 DAI ($0.00), NaN% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 GHST ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - TSHARE Price: $9,733.52 Market Cap: $646,150,462.06 
+Staked: 0.0000 TSHARE ($0.00)
+GHST Per Week: 109.96 ($1.04)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 TSHARE ($0.00), NaN% of the pool.
+Stake 0.00 TSHARE - Fee 4%
+Unstake 0.00 TSHARE
+Claim 0.00 GHST ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - USDC Price: $1.00 Market Cap: $1,727,500,711.93 
+Staked: 266.5365 USDC ($266.54)
+GHST Per Week: 109.96 ($1.04)
+APR: Day 0.06% Week 0.39% Year 20.33%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 GHST ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - ETH Price: $2,373.59 Market Cap: $1,132,389,092.70 
+Staked: 0.0000 ETH ($0.00)
+GHST Per Week: 78.55 ($0.74)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 ETH ($0.00), NaN% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 GHST ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - BOO Price: $25.32 Market Cap: $213,629,284.93 
+Staked: 0.0000 BOO ($0.00)
+GHST Per Week: 78.55 ($0.74)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 BOO ($0.00), NaN% of the pool.
+Stake 0.00 BOO - Fee 4%
+Unstake 0.00 BOO
+Claim 0.00 GHST ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - SPA Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 SPA ($0.00)
+GHST Per Week: 78.55 ($0.74)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SPA ($0.00), NaN% of the pool.
+Stake 0.00 SPA - Fee 4%
+Unstake 0.00 SPA
+Claim 0.00 GHST ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - BTC Price: $36,392.00 Market Cap: $626,190,089.76 
+Staked: 0.0000 BTC ($0.74)
+GHST Per Week: 78.55 ($0.74)
+APR: Day 14.42% Week 100.96% Year 5250.03%
+You are staking 0.00 BTC ($0.00), 0.00% of the pool.
+Stake 0.00 BTC - Fee 4%
+Unstake 0.00 BTC
+Claim 0.00 GHST ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - fUSDT Price: $1.01 Market Cap: $353,946,320.35 
+Staked: 2.2883 fUSDT ($2.31)
+GHST Per Week: 78.55 ($0.74)
+APR: Day 4.60% Week 32.21% Year 1674.85%
+You are staking 0.00 fUSDT ($0.00), 0.00% of the pool.
+Stake 0.00 fUSDT - Fee 4%
+Unstake 0.00 fUSDT
+Claim 0.00 GHST ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - BNB Price: $367.46 Market Cap: $13,929,484.21 
+Staked: 0.0000 BNB ($0.00)
+GHST Per Week: 78.55 ($0.74)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 BNB ($0.00), NaN% of the pool.
+Stake 0.00 BNB - Fee 4%
+Unstake 0.00 BNB
+Claim 0.00 GHST ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [USDC]-[fUSDT] SPOOKY LP [+] [-] [<=>] Price: $2,101,829,269,189.59 TVL: $2,004,744.33
+USDC Price: $1.00
+fUSDT Price: $1.01
+Staked: 0.0000 spLP ($0.00)
+GHST Per Week: 157.09 ($1.49)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[fUSDT] SPOOKY LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[fUSDT] SPOOKY LP - Fee 4%
+Unstake 0.00 [USDC]-[fUSDT] SPOOKY LP
+Claim 0.00 GHST ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [USDC]-[MNSTR] SPOOKY LP [+] [-] [<=>] Price: $820,271.72 TVL: $2,625.14
+USDC Price: $1.00
+MNSTR Price: $0.16
+Staked: 0.0000 spLP ($0.00)
+GHST Per Week: 157.09 ($1.49)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[MNSTR] SPOOKY LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[MNSTR] SPOOKY LP
+Unstake 0.00 [USDC]-[MNSTR] SPOOKY LP
+Claim 0.00 GHST ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [SPA]-[DAI] SPOOKY LP [+] [-] [<=>] Price: $280,108.96 TVL: $16,281,557.72
+SPA Price: $17.38
+DAI Price: $1.01
+Staked: 0.0004 spLP ($112.62)
+GHST Per Week: 157.09 ($1.49)
+APR: Day 0.19% Week 1.32% Year 68.74%
+You are staking 0.00 [SPA]-[DAI] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SPA]-[DAI] SPOOKY LP - Fee 4%
+Unstake 0.00 [SPA]-[DAI] SPOOKY LP
+Claim 0.00 GHST ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [fUSDT]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $3,812,401.04 TVL: $37,450,351.06
+fUSDT Price: $1.01
+WFTM Price: $2.04
+Staked: 0.0000 spLP ($25.09)
+GHST Per Week: 157.09 ($1.49)
+APR: Day 0.85% Week 5.93% Year 308.55%
+You are staking 0.00 [fUSDT]-[WFTM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [fUSDT]-[WFTM] SPOOKY LP - Fee 4%
+Unstake 0.00 [fUSDT]-[WFTM] SPOOKY LP
+Claim 0.00 GHST ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - [WFTM]-[DAI] SPOOKY LP [+] [-] [<=>] Price: $3.78 TVL: $44,115,178.57
+WFTM Price: $2.04
+DAI Price: $1.01
+Staked: 0.0000 spLP ($0.00)
+GHST Per Week: 157.09 ($1.49)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WFTM]-[DAI] SPOOKY LP ($0.00), NaN% of the pool.
+Stake 0.00 [WFTM]-[DAI] SPOOKY LP - Fee 4%
+Unstake 0.00 [WFTM]-[DAI] SPOOKY LP
+Claim 0.00 GHST ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - MAX Price: $0.00 Market Cap: $0.00 
+Staked: 4296.0336 MAX ($0.00)
+GHST Per Week: 78.55 ($0.74)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 MAX ($0.00), NaN% of the pool.
+Stake 0.00 MAX
+Unstake 0.00 MAX
+Claim 0.00 GHST ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $434.13

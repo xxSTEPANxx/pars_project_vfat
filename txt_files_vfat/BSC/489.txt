@@ -1,0 +1,309 @@
+*************** 👨‍🌾 UNOFFICIAL SINGULAR FARMING CALCULATOR 👨‍🌾 *****************
+INFO  : https://singular.farm
+*******************************************************************************
+
+Thu Jan 27 2022 21:37:12 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 29 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [SING]-[BUSD] APE LP [+] [-] [<=>] Price: $0.60 TVL: $33,095.04
+SING Price: $0.05
+BUSD Price: $1.00
+Staked: 47308.0149 APE-LP ($28,437.19)
+SING Per Week: 6073.31 ($297.61)
+APR: Day 0.15% Week 1.05% Year 54.42%
+You are staking 0.00 [SING]-[BUSD] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SING]-[BUSD] APE LP
+Unstake 0.00 [SING]-[BUSD] APE LP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [SING]-[WBNB] APE LP [+] [-] [<=>] Price: $11.97 TVL: $14,680.27
+SING Price: $0.05
+WBNB Price: $368.50
+Staked: 1159.2474 APE-LP ($13,878.90)
+SING Per Week: 3036.65 ($148.81)
+APR: Day 0.15% Week 1.07% Year 55.75%
+You are staking 0.00 [SING]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SING]-[WBNB] APE LP
+Unstake 0.00 [SING]-[WBNB] APE LP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - SING Price: $0.05 Market Cap: $94,346.07 [%]
+Staked: 214036.4217 SING ($10,488.50)
+SING Per Week: 1214.66 ($59.52)
+APR: Day 0.08% Week 0.57% Year 29.51%
+You are staking 0.00 SING ($0.00), 0.00% of the pool.
+Stake 0.00 SING
+Unstake 0.00 SING
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [BANANA]-[WBNB] APE LP [+] [-] [<=>] Price: $34.23 TVL: $12,926,403.03
+BANANA Price: $0.61
+WBNB Price: $368.50
+Staked: 83.6737 APE-LP ($2,864.22)
+SING Per Week: 607.33 ($29.76)
+APR: Day 0.15% Week 1.04% Year 54.03%
+You are staking 0.00 [BANANA]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BANANA]-[WBNB] APE LP - Fee 0.25%
+Unstake 0.00 [BANANA]-[WBNB] APE LP
+Claim 0.00 SING ($0.00) + 0.00 BANANA ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [BANANA]-[BUSD] APE LP [+] [-] [<=>] Price: $1.94 TVL: $5,507,853.96
+BANANA Price: $0.61
+BUSD Price: $1.00
+Staked: 3982.3690 APE-LP ($7,706.22)
+SING Per Week: 607.33 ($29.76)
+APR: Day 0.06% Week 0.39% Year 20.08%
+You are staking 0.00 [BANANA]-[BUSD] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BANANA]-[BUSD] APE LP - Fee 0.25%
+Unstake 0.00 [BANANA]-[BUSD] APE LP
+Claim 0.00 SING ($0.00) + 0.00 BANANA ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [USDC]-[BUSD] APE LP [+] [-] [<=>] Price: $2.00 TVL: $6,205,017.91
+USDC Price: $0.97
+BUSD Price: $1.00
+Staked: 24244.1830 APE-LP ($48,509.70)
+SING Per Week: 607.33 ($29.76)
+APR: Day 0.01% Week 0.06% Year 3.19%
+You are staking 0.00 [USDC]-[BUSD] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] APE LP - Fee 0.25%
+Unstake 0.00 [USDC]-[BUSD] APE LP
+Claim 0.00 SING ($0.00) + 0.00 BANANA ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [WBNB]-[BUSD] APE LP [+] [-] [<=>] Price: $51.86 TVL: $9,453,158.32
+WBNB Price: $368.50
+BUSD Price: $1.00
+Staked: 135.7415 APE-LP ($7,038.96)
+SING Per Week: 607.33 ($29.76)
+APR: Day 0.06% Week 0.42% Year 21.99%
+You are staking 0.00 [WBNB]-[BUSD] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] APE LP - Fee 0.25%
+Unstake 0.00 [WBNB]-[BUSD] APE LP
+Claim 0.00 SING ($0.00) + 0.00 BANANA ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [ETH]-[WBNB] APE LP [+] [-] [<=>] Price: $1,993.81 TVL: $3,727,464.00
+ETH Price: $2,411.10
+WBNB Price: $368.50
+Staked: 1.3219 APE-LP ($2,635.62)
+SING Per Week: 607.33 ($29.76)
+APR: Day 0.16% Week 1.13% Year 58.72%
+You are staking 0.00 [ETH]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] APE LP - Fee 0.25%
+Unstake 0.00 [ETH]-[WBNB] APE LP
+Claim 0.00 SING ($0.00) + 0.00 BANANA ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [ADA]-[WBNB] APE LP [+] [-] [<=>] Price: $40.97 TVL: $2,637,610.52
+ADA Price: $1.03
+WBNB Price: $368.50
+Staked: 965.6773 APE-LP ($39,560.17)
+SING Per Week: 607.33 ($29.76)
+APR: Day 0.01% Week 0.08% Year 3.91%
+You are staking 0.00 [ADA]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] APE LP - Fee 0.25%
+Unstake 0.00 [ADA]-[WBNB] APE LP
+Claim 0.00 SING ($0.00) + 0.00 BANANA ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [BTCB]-[WBNB] APE LP [+] [-] [<=>] Price: $7,630.74 TVL: $2,845,478.54
+BTCB Price: $36,105.00
+WBNB Price: $368.50
+Staked: 1.7530 APE-LP ($13,376.87)
+SING Per Week: 607.33 ($29.76)
+APR: Day 0.03% Week 0.22% Year 11.57%
+You are staking 0.00 [BTCB]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] APE LP - Fee 0.25%
+Unstake 0.00 [BTCB]-[WBNB] APE LP
+Claim 0.00 SING ($0.00) + 0.00 BANANA ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [Cake]-[WBNB] APE LP [+] [-] [<=>] Price: $110.94 TVL: $350,362.85
+Cake Price: $6.98
+WBNB Price: $368.50
+Staked: 59.2750 APE-LP ($6,576.22)
+SING Per Week: 607.33 ($29.76)
+APR: Day 0.06% Week 0.45% Year 23.53%
+You are staking 0.00 [Cake]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] APE LP - Fee 0.25%
+Unstake 0.00 [Cake]-[WBNB] APE LP
+Claim 0.00 SING ($0.00) + 0.00 BANANA ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - BUSD Price: $1.00 Market Cap: $4,846,842,082.15 [%]
+Staked: 16536.1663 BUSD ($16,521.99)
+SING Per Week: 455.50 ($22.32)
+APR: Day 0.02% Week 0.14% Year 7.03%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 0.25%
+Unstake 0.00 BUSD
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [WBNB]-[LINK] APE LP [+] [-] [<=>] Price: $153.75 TVL: $1,928,932.44
+WBNB Price: $368.50
+LINK Price: $15.07
+Staked: 77.5209 APE-LP ($11,919.11)
+SING Per Week: 607.33 ($29.76)
+APR: Day 0.04% Week 0.25% Year 12.98%
+You are staking 0.00 [WBNB]-[LINK] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[LINK] APE LP - Fee 0.25%
+Unstake 0.00 [WBNB]-[LINK] APE LP
+Claim 0.00 SING ($0.00) + 0.00 BANANA ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [Cherry]-[WBNB] Cake LP [+] [-] [<=>] Price: $14.45 TVL: $22,716.55
+Cherry Price: $0.13
+WBNB Price: $368.50
+Staked: 23.6657 Cake-LP ($341.94)
+SING Per Week: 75.92 ($3.72)
+APR: Day 0.16% Week 1.09% Year 56.57%
+You are staking 0.00 [Cherry]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cherry]-[WBNB] Cake LP
+Unstake 0.00 [Cherry]-[WBNB] Cake LP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [ZIG]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.61 TVL: $6,127.99
+ZIG Price: $0.07
+BUSD Price: $1.00
+Staked: 10044.1039 Cake-LP ($6,123.01)
+SING Per Week: 455.50 ($22.32)
+APR: Day 0.05% Week 0.36% Year 18.96%
+You are staking 0.00 [ZIG]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ZIG]-[BUSD] Cake LP
+Unstake 0.00 [ZIG]-[BUSD] Cake LP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [BREW]-[WBNB] Uni LP [+] [-] [<=>] Price: $6.52 TVL: $80,847.66
+BREW Price: $0.03
+WBNB Price: $368.50
+Staked: 120.4923 Cafe-LP ($785.01)
+SING Per Week: 75.92 ($3.72)
+APR: Day 0.07% Week 0.47% Year 24.64%
+You are staking 0.00 [BREW]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BREW]-[WBNB] Uni LP
+Unstake 0.00 [BREW]-[WBNB] Uni LP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [SING]-[BUSD] Uni LP [+] [-] [<=>] Price: $0.63 TVL: $2,520.51
+SING Price: $0.05
+BUSD Price: $1.00
+Staked: 1548.3325 WINGS-LP ($981.64)
+SING Per Week: 151.83 ($7.44)
+APR: Day 0.11% Week 0.76% Year 39.41%
+You are staking 0.00 [SING]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SING]-[BUSD] Uni LP
+Unstake 0.00 [SING]-[BUSD] Uni LP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [WINGS]-[SING] Uni LP [+] [-] [<=>] Price: $0.06 TVL: $401.97
+WINGS Price: $0.02
+SING Price: $0.05
+Staked: 6391.5790 WINGS-LP ($400.75)
+SING Per Week: 75.92 ($3.72)
+APR: Day 0.13% Week 0.93% Year 48.27%
+You are staking 0.00 [WINGS]-[SING] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WINGS]-[SING] Uni LP
+Unstake 0.00 [WINGS]-[SING] Uni LP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - [WBNB]-[LORY] APE LP [+] [-] [<=>] Price: $10.87 TVL: $28,251.18
+WBNB Price: $368.50
+LORY Price: $0.07
+Staked: 22.7638 APE-LP ($247.46)
+SING Per Week: 151.83 ($7.44)
+APR: Day 0.43% Week 3.01% Year 156.35%
+You are staking 0.00 [WBNB]-[LORY] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[LORY] APE LP
+Unstake 0.00 [WBNB]-[LORY] APE LP
+Claim 0.00 SING ($0.00) + 0.00 BANANA ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [BEE]-[WBNB] Cake LP [+] [-] [<=>] Price: $31.33 TVL: $23,744.40
+BEE Price: $0.56
+WBNB Price: $368.50
+Staked: 1.0723 Cake-LP ($33.60)
+SING Per Week: 75.92 ($3.72)
+APR: Day 1.58% Week 11.07% Year 575.80%
+You are staking 0.00 [BEE]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BEE]-[WBNB] Cake LP - Fee 2%
+Unstake 0.00 [BEE]-[WBNB] Cake LP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - [WBNB]-[LOVES] Cake LP [+] [-] [<=>] Price: $2.00 TVL: $13,443.44
+WBNB Price: $368.50
+LOVES Price: $0.002335
+Staked: 40.9679 Cake-LP ($81.86)
+SING Per Week: 75.92 ($3.72)
+APR: Day 0.65% Week 4.54% Year 236.32%
+You are staking 0.00 [WBNB]-[LOVES] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[LOVES] Cake LP
+Unstake 0.00 [WBNB]-[LOVES] Cake LP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - [WBNB]-[SPACE] APE LP [+] [-] [<=>] Price: $39.06 TVL: $378,429.98
+WBNB Price: $368.50
+SPACE Price: $0.93
+Staked: 8.5059 APE-LP ($332.24)
+SING Per Week: 379.58 ($18.60)
+APR: Day 0.80% Week 5.60% Year 291.13%
+You are staking 0.00 [WBNB]-[SPACE] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[SPACE] APE LP
+Unstake 0.00 [WBNB]-[SPACE] APE LP
+Claim 0.00 SING ($0.00) + 0.00 BANANA ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - [SING]-[GUT] Uni LP [+] [-] [<=>] Price: $0.03 TVL: $37.67
+SING Price: $0.05
+GUT Price: $0.005152
+Staked: 404.5072 Guitar-LP ($14.07)
+SING Per Week: 75.92 ($3.72)
+APR: Day 3.78% Week 26.44% Year 1375.00%
+You are staking 0.00 [SING]-[GUT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SING]-[GUT] Uni LP
+Unstake 0.00 [SING]-[GUT] Uni LP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - [HHNFT]-[WBNB] Cake LP [+] [-] [<=>] Price: $2.45 TVL: $334,708.13
+HHNFT Price: $0.003938
+WBNB Price: $368.50
+Staked: 141.9363 Cake-LP ($347.52)
+SING Per Week: 227.75 ($11.16)
+APR: Day 0.46% Week 3.21% Year 167.00%
+You are staking 0.00 [HHNFT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [HHNFT]-[WBNB] Cake LP
+Unstake 0.00 [HHNFT]-[WBNB] Cake LP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - GEM Price: $0.00 Market Cap: $0.00 
+Staked: 776.5179 GEM ($0.00)
+SING Per Week: 75.92 ($3.72)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 GEM ($0.00), NaN% of the pool.
+Stake 0.00 GEM
+Unstake 0.00 GEM
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $219,202.76

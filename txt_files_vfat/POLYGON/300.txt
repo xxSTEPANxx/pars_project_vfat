@@ -6,193 +6,31 @@ INFO  : https://panfinance.xyz
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Thu Dec 16 2021 05:20:40 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 23:33:34 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
-Found 17 pools.
-Showing incentivized pools only.
-Finished reading smart contracts.
-0 - [USDC]-[PAN] Uni LP [+] [-] [<=>] Price: $21,902.94 TVL: $0.04
-USDC Price: $1.00
-PAN Price: $0.000113
-Staked: 0.0000 UNI-V2 ($0.00)
-PAN Per Week: 46.45 ($0.01)
-APR: Day 2264.09% Week 15848.64% Year 824129.40%
-You are staking 0.00 [USDC]-[PAN] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[PAN] Uni LP
-Unstake 0.00 [USDC]-[PAN] Uni LP
-Claim 0.00 PAN ($0.00)
-Staking or unstaking also claims rewards.
-
-1 - [WETH]-[PAN] Uni LP [+] [-] [<=>] Price: $1.37 TVL: $0.00
-WETH Price: $4,050.69
-PAN Price: $0.000113
-Staked: 0.0029 UNI-V2 ($0.00)
-PAN Per Week: 46.45 ($0.01)
-APR: Day 18.68% Week 130.77% Year 6799.80%
-You are staking 0.00 [WETH]-[PAN] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WETH]-[PAN] Uni LP
-Unstake 0.00 [WETH]-[PAN] Uni LP
-Claim 0.00 PAN ($0.00)
-Staking or unstaking also claims rewards.
-
-2 - [WMATIC]-[PAN] Uni LP [+] [-] [<=>] Price: $0.03 TVL: $0.02
-WMATIC Price: $2.16
-PAN Price: $0.000113
-Staked: 0.0164 UNI-V2 ($0.00)
-PAN Per Week: 46.45 ($0.01)
-APR: Day 139.94% Week 979.55% Year 50936.52%
-You are staking 0.00 [WMATIC]-[PAN] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[PAN] Uni LP
-Unstake 0.00 [WMATIC]-[PAN] Uni LP
-Claim 0.00 PAN ($0.00)
-Staking or unstaking also claims rewards.
-
-3 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,886,616.94 TVL: $52,445,944.91
-WMATIC Price: $2.16
-USDC Price: $1.00
-Staked: 0.0000 UNI-V2 ($9.21)
-PAN Per Week: 10.84 ($0.00)
-APR: Day 0.00% Week 0.01% Year 0.69%
-You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
-Unstake 0.00 [WMATIC]-[USDC] Uni LP
-Claim 0.00 PAN ($0.00)
-Staking or unstaking also claims rewards.
-
-4 - [USDC]-[WETH] Uni LP [+] [-] [<=>] Price: $188,276,750.59 TVL: $79,139,353.16
-USDC Price: $1.00
-WETH Price: $4,050.69
-Staked: 0.0000 UNI-V2 ($0.00)
-PAN Per Week: 10.84 ($0.00)
-APR: Day 93040851.32% Week 651285959.25% Year 33866869880.93%
-You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
-Unstake 0.00 [USDC]-[WETH] Uni LP
-Claim 0.00 PAN ($0.00)
-Staking or unstaking also claims rewards.
-
-5 - PAN Price: $0.000113 Market Cap: $0.08 [%]
-Staked: 219.9806 PAN ($0.02)
-PAN Per Week: 38.71 ($0.00)
-APR: Day 2.51% Week 17.60% Year 915.04%
-You are staking 0.00 PAN ($0.00), 0.00% of the pool.
-Stake 0.00 PAN
-Unstake 0.00 PAN
-Claim 0.00 PAN ($0.00)
-Staking or unstaking also claims rewards.
-
-6 - WMATIC Price: $2.16 Market Cap: $657,747,955.39 [%]
-Staked: 7.6800 WMATIC ($16.59)
-PAN Per Week: 10.84 ($0.00)
-APR: Day 0.00% Week 0.01% Year 0.38%
-You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
-Stake 0.00 WMATIC - Fee 4%
-Unstake 0.00 WMATIC
-Claim 0.00 PAN ($0.00)
-Staking or unstaking also claims rewards.
-
-7 - PolyDoge Price: $0.0000000239 Market Cap: $23,897,000.00 [%]
-Staked: 0.0960 PolyDoge ($0.00)
-PAN Per Week: 7.74 ($0.00)
-APR: Day 5454158.04% Week 38179106.25% Year 1985313524.93%
-You are staking 0.00 PolyDoge ($0.00), 0.00% of the pool.
-Stake 0.00 PolyDoge - Fee 4%
-Unstake 0.00 PolyDoge
-Claim 0.00 PAN ($0.00)
-Staking or unstaking also claims rewards.
-
-8 - WETH Price: $4,050.69 Market Cap: $1,797,845,421.55 [%]
-Staked: 0.0010 WETH ($3.89)
-PAN Per Week: 7.74 ($0.00)
-APR: Day 0.00% Week 0.02% Year 1.17%
-You are staking 0.00 WETH ($0.00), 0.00% of the pool.
-Stake 0.00 WETH - Fee 4%
-Unstake 0.00 WETH
-Claim 0.00 PAN ($0.00)
-Staking or unstaking also claims rewards.
-
-9 - WBTC Price: $49,062.00 Market Cap: $497,630,071.88 [%]
-Staked: 0.0000 WBTC ($0.00)
-PAN Per Week: 7.74 ($0.00)
-APR: Day 12.75% Week 89.26% Year 4641.61%
-You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
-Stake 0.00 WBTC - Fee 4%
-Unstake 0.00 WBTC
-Claim 0.00 PAN ($0.00)
-Staking or unstaking also claims rewards.
-
-10 - AAVE Price: $175.40 Market Cap: $47,747,275.49 [%]
-Staked: 0.0000 AAVE ($0.00)
-PAN Per Week: 7.74 ($0.00)
-APR: Day Infinity% Week Infinity% Year Infinity%
-You are staking 0.00 AAVE ($0.00), NaN% of the pool.
-Stake 0.00 AAVE - Fee 4%
-Unstake 0.00 AAVE
-Claim 0.00 PAN ($0.00)
-Staking or unstaking also claims rewards.
-
-11 - QUICK Price: $252.51 Market Cap: $241,282,801.56 [%]
-Staked: 0.0000 QUICK ($0.00)
-PAN Per Week: 7.74 ($0.00)
-APR: Day 49552292579291.94% Week 346866048055043.56% Year 18037034498862264.00%
-You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
-Stake 0.00 QUICK - Fee 4%
-Unstake 0.00 QUICK
-Claim 0.00 PAN ($0.00)
-Staking or unstaking also claims rewards.
-
-12 - FISH Price: $0.00 Market Cap: $0.00 
-Staked: 0.0190 FISH ($0.00)
-PAN Per Week: 7.74 ($0.00)
-APR: Day NaN% Week NaN% Year NaN%
-You are staking 0.00 FISH ($0.00), NaN% of the pool.
-Stake 0.00 FISH - Fee 4%
-Unstake 0.00 FISH
-Claim 0.00 PAN ($0.00)
-Staking or unstaking also claims rewards.
-
-13 - LINK Price: $19.99 Market Cap: $34,670,719.98 [%]
-Staked: 0.0000 LINK ($0.00)
-PAN Per Week: 7.74 ($0.00)
-APR: Day 167.61% Week 1173.29% Year 61011.27%
-You are staking 0.00 LINK ($0.00), 0.00% of the pool.
-Stake 0.00 LINK - Fee 4%
-Unstake 0.00 LINK
-Claim 0.00 PAN ($0.00)
-Staking or unstaking also claims rewards.
-
-14 - USDC Price: $1.00 Market Cap: $943,569,280.81 [%]
-Staked: 0.0000 USDC ($0.00)
-PAN Per Week: 7.74 ($0.00)
-APR: Day 1137.50% Week 7962.47% Year 414048.33%
-You are staking 0.00 USDC ($0.00), 0.00% of the pool.
-Stake 0.00 USDC - Fee 4%
-Unstake 0.00 USDC
-Claim 0.00 PAN ($0.00)
-Staking or unstaking also claims rewards.
-
-15 - DAI Price: $1.00 Market Cap: $374,104,453.43 [%]
-Staked: 0.9600 DAI ($0.96)
-PAN Per Week: 7.74 ($0.00)
-APR: Day 0.01% Week 0.09% Year 4.74%
-You are staking 0.00 DAI ($0.00), 0.00% of the pool.
-Stake 0.00 DAI - Fee 4%
-Unstake 0.00 DAI
-Claim 0.00 PAN ($0.00)
-Staking or unstaking also claims rewards.
-
-16 - USDT Price: $1.00 Market Cap: $313,439,913.37 [%]
-Staked: 3.1066 USDT ($3.11)
-PAN Per Week: 7.74 ($0.00)
-APR: Day 0.00% Week 0.03% Year 1.47%
-You are staking 0.00 USDT ($0.00), 0.00% of the pool.
-Stake 0.00 USDT - Fee 4%
-Unstake 0.00 USDT
-Claim 0.00 PAN ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $33.78
+{
+  "code": -32603,
+  "message": "JsonRpcEngine: Response has no error or result for request:\n{\n  \"method\": \"eth_call\",\n  \"params\": [\n    {\n      \"to\": \"0xf0eb583b0a6aae84067d28553c6738360546a2d2\",\n      \"data\": \"0x17caf6f1\"\n    },\n    \"0x171daba\"\n  ],\n  \"jsonrpc\": \"2.0\",\n  \"id\": 575685650,\n  \"origin\": \"https://vfat.tools\",\n  \"tabId\": 2\n}",
+  "data": {
+    "request": {
+      "method": "eth_call",
+      "params": [
+        {
+          "to": "0xf0eb583b0a6aae84067d28553c6738360546a2d2",
+          "data": "0x17caf6f1"
+        },
+        "0x171daba"
+      ],
+      "jsonrpc": "2.0",
+      "id": 575685650,
+      "origin": "https://vfat.tools",
+      "tabId": 2
+    }
+  },
+  "stack": "{\n  \"code\": -32603,\n  \"message\": \"JsonRpcEngine: Response has no error or result for request:\\n{\\n  \\\"method\\\": \\\"eth_call\\\",\\n  \\\"params\\\": [\\n    {\\n      \\\"to\\\": \\\"0xf0eb583b0a6aae84067d28553c6738360546a2d2\\\",\\n      \\\"data\\\": \\\"0x17caf6f1\\\"\\n    },\\n    \\\"0x171daba\\\"\\n  ],\\n  \\\"jsonrpc\\\": \\\"2.0\\\",\\n  \\\"id\\\": 575685650,\\n  \\\"origin\\\": \\\"https://vfat.tools\\\",\\n  \\\"tabId\\\": 2\\n}\",\n  \"data\": {\n    \"request\": {\n      \"method\": \"eth_call\",\n      \"params\": [\n        {\n          \"to\": \"0xf0eb583b0a6aae84067d28553c6738360546a2d2\",\n          \"data\": \"0x17caf6f1\"\n        },\n        \"0x171daba\"\n      ],\n      \"jsonrpc\": \"2.0\",\n      \"id\": 575685650,\n      \"origin\": \"https://vfat.tools\",\n      \"tabId\": 2\n    }\n  },\n  \"stack\": \"Error: JsonRpcEngine: Response has no error or result for request:\\n{\\n  \\\"method\\\": \\\"eth_call\\\",\\n  \\\"params\\\": [\\n    {\\n      \\\"to\\\": \\\"0xf0eb583b0a6aae84067d28553c6738360546a2d2\\\",\\n      \\\"data\\\": \\\"0x17caf6f1\\\"\\n    },\\n    \\\"0x171daba\\\"\\n  ],\\n  \\\"jsonrpc\\\": \\\"2.0\\\",\\n  \\\"id\\\": 575685650,\\n  \\\"origin\\\": \\\"https://vfat.tools\\\",\\n  \\\"tabId\\\": 2\\n}\\n    at new o (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/common-1.js:16:24204)\\n    at Function._checkForCompletion (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:305269)\\n    at a._processRequest (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304461)\\n    at async a._handle (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304249)\"\n}\n  at new o (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/common-1.js:16:24204)\n  at Function._checkForCompletion (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:305269)\n  at a._processRequest (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304461)\n  at async a._handle (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304249)"
+}
+Oops something went wrong. Try refreshing the page.

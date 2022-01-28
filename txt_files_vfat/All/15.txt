@@ -1,0 +1,82 @@
+*************** 👨‍🌾 UNOFFICIAL HARVEST FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://harvest.finance/
+**************************************************************************
+
+Thu Jan 27 2022 19:13:59 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+The APR shown only contains the FARM rewards, the native APR from other protocols is not added.
+FARM Price: $104.71 Market Cap: $71,556,393.10 [%]
+Staked: 159657.7288 FARM ($16,717,760.78)
+FARM Per Week: 692.89 ($72,552.43)
+APR: Day 0.06% Week 0.43% Year 22.57%
+You are staking 0.00 FARM ($0.00), 0.00% of the pool.
+Staking Contract
+Stake 0.000000 FARM
+Unstake 0.000000 FARM
+Claim 0.000000 FARM
+Exit
+
+[FARM]-[WETH] Uni LP [+] [-] [<=>] Price: $1,558.58 TVL: $285,312.52
+FARM Price: $104.71
+WETH Price: $2,467.12
+Staked: 149.9183 UNI-V2 ($233,660.03)
+FARM Per Week: 0.72 ($74.92)
+APR: Day 0.00% Week 0.03% Year 1.67%
+You are staking 0.00 [FARM]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Staking Contract
+Stake 0.000000 [FARM]-[WETH] Uni LP
+Unstake 0.000000 [FARM]-[WETH] Uni LP
+Claim 0.000000 FARM
+Exit
+
+[FARM]-[USDC] Uni LP [+] [-] [<=>] Price: $25,999,155.28 TVL: $154,185.61
+FARM Price: $104.71
+USDC Price: $1.00
+Staked: 0.0011 UNI-V2 ($28,691.87)
+FARM Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [FARM]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Staking Contract
+Stake 0.000000 [FARM]-[USDC] Uni LP
+Unstake 0.000000 [FARM]-[USDC] Uni LP
+Claim 0.000000 FARM
+Exit
+
+[GRAIN]-[FARM] Uni LP [+] [-] [<=>] Price: $2.53 TVL: $10,649.09
+GRAIN Price: $0.01
+FARM Price: $104.71
+Staked: 3032.5604 UNI-V2 ($7,677.84)
+FARM Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [GRAIN]-[FARM] Uni LP ($0.00), 0.00% of the pool.
+Staking Contract
+Stake 0.000000 [GRAIN]-[FARM] Uni LP
+Unstake 0.000000 [GRAIN]-[FARM] Uni LP
+Claim 0.000000 FARM
+Exit
+
+fWETH (Wrapped Wrapped Ether) Price: $2,476.42 TVL: $2,275,099.05
+Staked: 853.3325 fWETH ($2,113,213.29)
+FARM Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 fWETH ($0.00), 0.00% of the pool.
+Staking Contract
+Stake 0.000000 fWETH
+Unstake 0.000000 fWETH
+Claim 0.000000 FARM
+Exit
+
+fUNI-V2 (Wrapped [DPI]-[WETH] Uni LP) Price: $1,642.15 TVL: $248,400.47
+Staked: 140.5854 fUNI-V2 ($230,861.80)
+FARM Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 fUNI-V2 ($0.00), 0.00% of the pool.
+Staking Contract
+Stake 0.000000 fUNI-V2
+Unstake 0.000000 fUNI-V2
+Claim 0.000000 FARM
+Exit

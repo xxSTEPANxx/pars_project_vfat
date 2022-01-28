@@ -6,191 +6,20 @@ INFO  : https://growthfinance.app
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Thu Dec 16 2021 05:12:01 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 23:26:58 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
+Staking Contract
 Found 17 pools.
 Showing incentivized pools only.
-Finished reading smart contracts.
-0 - UNI-V2 Price: $0.00 Market Cap: $0.00 
-Staked: 0.0000 UNI-V2 ($0.00)
-GROWTH Per Week: 270.00 ($0.06)
-APR: Day NaN% Week NaN% Year NaN%
-You are staking 0.00 UNI-V2 ($0.00), NaN% of the pool.
-Stake 0.00 UNI-V2
-Unstake 0.00 UNI-V2
-Claim 0.00 GROWTH ($0.00)
-Staking or unstaking also claims rewards.
-
-1 - [WMATIC]-[GROWTH] Uni LP [+] [-] [<=>] Price: $0.05 TVL: $0.06
-WMATIC Price: $2.16
-GROWTH Price: $0.000237
-Staked: 1.1831 UNI-V2 ($0.06)
-GROWTH Per Week: 270.00 ($0.06)
-APR: Day 16.62% Week 116.37% Year 6051.33%
-You are staking 0.00 [WMATIC]-[GROWTH] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[GROWTH] Uni LP
-Unstake 0.00 [WMATIC]-[GROWTH] Uni LP
-Claim 0.00 GROWTH ($0.00)
-Staking or unstaking also claims rewards.
-
-2 - [GROWTH]-[WETH] Uni LP [+] [-] [<=>] Price: $2.00 TVL: $0.13
-GROWTH Price: $0.000237
-WETH Price: $4,054.45
-Staked: 0.0651 UNI-V2 ($0.13)
-GROWTH Per Week: 270.00 ($0.06)
-APR: Day 7.03% Week 49.19% Year 2558.09%
-You are staking 0.00 [GROWTH]-[WETH] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [GROWTH]-[WETH] Uni LP
-Unstake 0.00 [GROWTH]-[WETH] Uni LP
-Claim 0.00 GROWTH ($0.00)
-Staking or unstaking also claims rewards.
-
-3 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,886,155.63 TVL: $52,401,632.09
-WMATIC Price: $2.16
-USDC Price: $1.00
-Staked: 0.0000 UNI-V2 ($0.03)
-GROWTH Per Week: 54.00 ($0.01)
-APR: Day 5.61% Week 39.30% Year 2043.53%
-You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
-Unstake 0.00 [WMATIC]-[USDC] Uni LP
-Claim 0.00 GROWTH ($0.00)
-Staking or unstaking also claims rewards.
-
-4 - [USDC]-[WETH] Uni LP [+] [-] [<=>] Price: $188,361,651.30 TVL: $79,175,042.49
-USDC Price: $1.00
-WETH Price: $4,054.45
-Staked: 0.0000 UNI-V2 ($1.53)
-GROWTH Per Week: 54.00 ($0.01)
-APR: Day 0.12% Week 0.84% Year 43.44%
-You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
-Unstake 0.00 [USDC]-[WETH] Uni LP
-Claim 0.00 GROWTH ($0.00)
-Staking or unstaking also claims rewards.
-
-5 - GROWTH Price: $0.000237 Market Cap: $1.09 [%]
-Staked: 3290.1533 GROWTH ($0.78)
-GROWTH Per Week: 126.00 ($0.03)
-APR: Day 0.55% Week 3.83% Year 199.14%
-You are staking 0.00 GROWTH ($0.00), 0.00% of the pool.
-Stake 0.00 GROWTH
-Unstake 0.00 GROWTH
-Claim 0.00 GROWTH ($0.00)
-Staking or unstaking also claims rewards.
-
-6 - WMATIC Price: $2.16 Market Cap: $656,177,926.46 [%]
-Staked: 0.0192 WMATIC ($0.04)
-GROWTH Per Week: 36.00 ($0.01)
-APR: Day 2.94% Week 20.61% Year 1071.59%
-You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
-Stake 0.00 WMATIC - Fee 4%
-Unstake 0.00 WMATIC
-Claim 0.00 GROWTH ($0.00)
-Staking or unstaking also claims rewards.
-
-7 - PolyDoge Price: $0.0000000240 Market Cap: $24,035,000.00 [%]
-Staked: 2085059.0201 PolyDoge ($0.05)
-GROWTH Per Week: 36.00 ($0.01)
-APR: Day 2.44% Week 17.05% Year 886.79%
-You are staking 0.00 PolyDoge ($0.00), 0.00% of the pool.
-Stake 0.00 PolyDoge - Fee 4%
-Unstake 0.00 PolyDoge
-Claim 0.00 GROWTH ($0.00)
-Staking or unstaking also claims rewards.
-
-8 - WETH Price: $4,054.45 Market Cap: $1,799,493,661.03 [%]
-Staked: 0.0000 WETH ($0.06)
-GROWTH Per Week: 36.00 ($0.01)
-APR: Day 1.90% Week 13.30% Year 691.69%
-You are staking 0.00 WETH ($0.00), 0.00% of the pool.
-Stake 0.00 WETH - Fee 4%
-Unstake 0.00 WETH
-Claim 0.00 GROWTH ($0.00)
-Staking or unstaking also claims rewards.
-
-9 - WBTC Price: $49,124.00 Market Cap: $498,258,930.56 [%]
-Staked: 0.0000 WBTC ($0.02)
-GROWTH Per Week: 36.00 ($0.01)
-APR: Day 6.37% Week 44.61% Year 2319.67%
-You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
-Stake 0.00 WBTC - Fee 4%
-Unstake 0.00 WBTC
-Claim 0.00 GROWTH ($0.00)
-Staking or unstaking also claims rewards.
-
-10 - AAVE Price: $175.26 Market Cap: $47,709,164.78 [%]
-Staked: 0.0001 AAVE ($0.02)
-GROWTH Per Week: 36.00 ($0.01)
-APR: Day 7.15% Week 50.08% Year 2603.97%
-You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
-Stake 0.00 AAVE - Fee 4%
-Unstake 0.00 AAVE
-Claim 0.00 GROWTH ($0.00)
-Staking or unstaking also claims rewards.
-
-11 - QUICK Price: $252.62 Market Cap: $241,387,910.70 [%]
-Staked: 0.0040 QUICK ($1.02)
-GROWTH Per Week: 36.00 ($0.01)
-APR: Day 0.12% Week 0.84% Year 43.48%
-You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
-Stake 0.00 QUICK - Fee 4%
-Unstake 0.00 QUICK
-Claim 0.00 GROWTH ($0.00)
-Staking or unstaking also claims rewards.
-
-12 - FISH Price: $0.00 Market Cap: $0.00 
-Staked: 0.0048 FISH ($0.00)
-GROWTH Per Week: 36.00 ($0.01)
-APR: Day NaN% Week NaN% Year NaN%
-You are staking 0.00 FISH ($0.00), NaN% of the pool.
-Stake 0.00 FISH - Fee 4%
-Unstake 0.00 FISH
-Claim 0.00 GROWTH ($0.00)
-Staking or unstaking also claims rewards.
-
-13 - LINK Price: $20.02 Market Cap: $34,722,752.08 [%]
-Staked: 0.0006 LINK ($0.01)
-GROWTH Per Week: 36.00 ($0.01)
-APR: Day 10.74% Week 75.17% Year 3909.07%
-You are staking 0.00 LINK ($0.00), 0.00% of the pool.
-Stake 0.00 LINK - Fee 4%
-Unstake 0.00 LINK
-Claim 0.00 GROWTH ($0.00)
-Staking or unstaking also claims rewards.
-
-14 - USDC Price: $1.00 Market Cap: $943,568,642.05 [%]
-Staked: 0.1101 USDC ($0.11)
-GROWTH Per Week: 36.00 ($0.01)
-APR: Day 1.11% Week 7.76% Year 403.55%
-You are staking 0.00 USDC ($0.00), 0.00% of the pool.
-Stake 0.00 USDC - Fee 4%
-Unstake 0.00 USDC
-Claim 0.00 GROWTH ($0.00)
-Staking or unstaking also claims rewards.
-
-15 - DAI Price: $1.00 Market Cap: $374,104,303.43 [%]
-Staked: 0.0288 DAI ($0.03)
-GROWTH Per Week: 36.00 ($0.01)
-APR: Day 4.24% Week 29.70% Year 1544.35%
-You are staking 0.00 DAI ($0.00), 0.00% of the pool.
-Stake 0.00 DAI - Fee 4%
-Unstake 0.00 DAI
-Claim 0.00 GROWTH ($0.00)
-Staking or unstaking also claims rewards.
-
-16 - USDT Price: $1.00 Market Cap: $313,439,913.37 [%]
-Staked: 1.4414 USDT ($1.44)
-GROWTH Per Week: 36.00 ($0.01)
-APR: Day 0.08% Week 0.59% Year 30.83%
-You are staking 0.00 USDT ($0.00), 0.00% of the pool.
-Stake 0.00 USDT - Fee 4%
-Unstake 0.00 USDT
-Claim 0.00 GROWTH ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $5.34
+{
+  "code": -32603,
+  "message": "Non-200 status code: '400'",
+  "data": {
+    "error": "Unable to verify your data submission."
+  }
+}
+Oops something went wrong. Try refreshing the page.

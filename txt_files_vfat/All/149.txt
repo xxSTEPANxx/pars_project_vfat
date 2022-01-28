@@ -1,0 +1,41 @@
+*************** 👨‍🌾 UNOFFICIAL DAOVentures FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://app.daoventures.co
+********************************************************************************
+
+Thu Jan 27 2022 20:07:52 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+You can only deposit USDC
+Citadel Vault:  0x8fE826cC1225B03Aa06477Ad5AF745aEd5FE7066
+Currently $64,113.41 is staked inside the Citadel Vault
+Stake 0.00 USDC
+Unstake 0.00 USDC
+-----------------------------------------------------------------
+FAANG Vault:  0x9ee54014e1E6CF10fD7E9290FdB6101fd0d5D416
+Currently $12,073.63 is staked inside the FAANG Vault
+Stake 0.00 USDC
+Unstake 0.00 USDC
+-----------------------------------------------------------------
+Citadel V2 Vault:  0xCc6C417E991e810477b486d992faACa1b7440E76
+Currently $36,346.22 is staked inside the Citadel V2 Vault
+Stake 0.00 USDC
+Unstake 0.00 USDC
+-----------------------------------------------------------------
+{
+  "reason": "cannot estimate gas; transaction may fail or may require manual gas limit",
+  "code": "UNPREDICTABLE_GAS_LIMIT",
+  "error": {
+    "code": -32000,
+    "message": "execution reverted"
+  },
+  "method": "call",
+  "transaction": {
+    "to": "0x5b3ae8b672A753906B1592D44741f71FBD05ba8C",
+    "data": "0xbd244af4",
+    "accessList": null
+  }
+}
+Oops something went wrong. Try refreshing the page.

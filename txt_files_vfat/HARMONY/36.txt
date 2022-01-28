@@ -2,23 +2,43 @@
 INFO  : https://synapseprotocol.com
 *************************************************************************************
 
-Thu Dec 16 2021 08:10:17 GMT+0300 (Москва, стандартное время)
+Fri Jan 28 2022 01:06:02 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
-Found 2 pools.
+Found 6 pools.
 Showing incentivized pools only.
 Finished reading smart contracts.
-1 - nUSD-LP Price: $1.00 Market Cap: $15,813,351.11 
-Staked: 15428195.1418 nUSD-LP ($15,428,195.14)
-SYN Per Week: 30000.00 ($53,700.00)
-APR: Day 0.05% Week 0.35% Year 18.10%
+1 - nUSD-LP Price: $1.00 Market Cap: $13,399,528.90 
+Staked: 13317422.8576 nUSD-LP ($13,317,422.86)
+SYN Per Week: 18000.00 ($36,000.00)
+APR: Day 0.04% Week 0.27% Year 14.06%
 You are staking 0.00 nUSD-LP ($0.00), 0.00% of the pool.
 Stake 0.00 nUSD-LP
 Unstake 0.00 nUSD-LP
 Claim 0.00 SYN ($0.00)
 Staking or unstaking also claims rewards.
 
-Total Staked: $15,428,195.14
+2 - nETH-LP Price: $0.00 Market Cap: $0.00 
+Staked: 2280.4414 nETH-LP ($0.00)
+SYN Per Week: 6000.00 ($12,000.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 nETH-LP ($0.00), NaN% of the pool.
+Stake 0.00 nETH-LP
+Unstake 0.00 nETH-LP
+Claim 0.00 SYN ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - nETH-LP Price: $0.00 Market Cap: $0.00 
+Staked: 2280.4414 nETH-LP ($0.00)
+SYN Per Week: 6000.00 ($12,000.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 nETH-LP ($0.00), NaN% of the pool.
+Stake 0.00 nETH-LP
+Unstake 0.00 nETH-LP
+Claim 0.00 SYN ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $13,317,422.86

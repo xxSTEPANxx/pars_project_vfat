@@ -1,0 +1,65 @@
+*************** 👨‍🌾 UNOFFICIAL DODO EXCHANGE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://app.dodoex.io
+**********************************************************************************
+
+Thu Jan 27 2022 21:38:04 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 10 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+5 - Cake Price: $6.99 Market Cap: $4,298,631,699.69 [%]
+Staked: 1237.6641 Cake ($8,651.27)
+DODO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake
+Unstake 0.00 Cake
+Claim 0.00 DODO ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - BUSD Token_DODO_LP_TOKEN_ (Wrapped BUSD Token) Price: $1.44 TVL: $25,122,056.96
+Staked: 17392366.4455 BUSD Token_DODO_LP_TOKEN_ ($25,122,056.96)
+DODO Per Week: 9856.00 ($4,673.83)
+APR: Day 0.00% Week 0.02% Year 0.97%
+You are staking 0.00 BUSD Token_DODO_LP_TOKEN_ ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD Token_DODO_LP_TOKEN_
+Unstake 0.00 BUSD Token_DODO_LP_TOKEN_
+Claim 0.00 DODO ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - Tether USD_DODO_LP_TOKEN_ (Wrapped Tether USD) Price: $0.60 TVL: $10,899,848.77
+Staked: 18243055.4817 Tether USD_DODO_LP_TOKEN_ ($10,899,848.77)
+DODO Per Week: 9856.00 ($4,673.83)
+APR: Day 0.01% Week 0.04% Year 2.23%
+You are staking 0.00 Tether USD_DODO_LP_TOKEN_ ($0.00), 0.00% of the pool.
+Stake 0.00 Tether USD_DODO_LP_TOKEN_
+Unstake 0.00 Tether USD_DODO_LP_TOKEN_
+Claim 0.00 DODO ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - USD Coin_DODO_LP_TOKEN_ (Wrapped USD Coin) Price: $0.89 TVL: $3,673,782.11
+Staked: 4125524.7905 USD Coin_DODO_LP_TOKEN_ ($3,673,782.11)
+DODO Per Week: 2240.00 ($1,062.23)
+APR: Day 0.00% Week 0.03% Year 1.50%
+You are staking 0.00 USD Coin_DODO_LP_TOKEN_ ($0.00), 0.00% of the pool.
+Stake 0.00 USD Coin_DODO_LP_TOKEN_
+Unstake 0.00 USD Coin_DODO_LP_TOKEN_
+Claim 0.00 DODO ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - BUSD Token_DODO_LP_TOKEN_ (Wrapped BUSD Token) Price: $1.13 TVL: $4,398,482.97
+Staked: 3881692.5006 BUSD Token_DODO_LP_TOKEN_ ($4,398,482.97)
+DODO Per Week: 2240.00 ($1,062.23)
+APR: Day 0.00% Week 0.02% Year 1.26%
+You are staking 0.00 BUSD Token_DODO_LP_TOKEN_ ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD Token_DODO_LP_TOKEN_
+Unstake 0.00 BUSD Token_DODO_LP_TOKEN_
+Claim 0.00 DODO ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $44,102,822.08

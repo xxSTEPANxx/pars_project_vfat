@@ -1,0 +1,345 @@
+*************** 😏 SmugDoge Staking Calc 🐕  ***************
+
+WEBSITE  : https://smugdoge.com
+
+DEX      : https://smugswap.com
+
+TG       : https://t.me/smugdogeone
+
+TWITTER  : https://twitter.com/smugdoge
+
+SmugSwap - New DEX on the Harmony Blockchain
+
+
+        ░░░░░░░░░░░░░░▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+        ░░░░░░░░░░░░░░▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░
+        ░░░░░░░░░░░░░▒▒▒▒▒▒▓▒░░░░░░░░░░░░░▒▒▒▒▒░░░░░░
+        ░░░░░░░░▒░░░░▓▒▓█▒▒▒▓▒▒▒▒▒▒▒▒░░░▒▓▒▒▒▒▒░░░░░░
+        ░░░░░░▒▒▒▒▒░▒▓▒▓▓▒▒▒▒▓▓▓▓▓▓▓▓▓▒▓▓▒▒▓█▓▒░░░░░░
+        ░░░░░▒▒▒▒▒░░▒▓▒▒▒▒▒▒▒▒▒▓▓▓▓▓▒▒▒▒▒▒▓█▓▓▒░░░░░░
+        ░░░▒▒▒▒▒▒▒░░▒▒▒▒▒▒▒▒▒░░▒▓▓▒▒░░░░▒░▒▓▓▓░░░░░░░
+        ░░▒▒▒▒▒▒▒░░▒▒▒▒▒▒▓▓▓█▒▒▒▒▒▒▒▒▒▒▒▒▒░░▒▒░░░░░░░
+        ░░▒▒▒▒▒▒▒░▒▒▒▒░░░░▒▓▒▒░▒▒▒▒░▒█▓█▓▒▒▒▒▒░░░░░░░
+        ░▒▒▒▒▒▒▒▒▒▓▒▒░░░░░░░░░▒▒▒▒▒░░░▒▒░░▒▒▒▒░░░░░░░
+        ░▒▒▒▒▒▒▒▒▒▓▒▒▒▒▒░░░░░▒██████░░░░░░░▒▒▒░░░░░░░
+        ░▒▒▒▒▒▒▒▒▒▓▓▓▒▒▒▒▒░░░▒█████▓░░░░░▒▒▒▒▒░░░░░░░
+        ░▒▒▒▒▒▒▒▒▓▓▓▓▓▒▒▒▓▓▓▓▓████▓▒▒▒▒▒▒▒▒▒▒░░░░░░░░
+        ░▒▒▒▒▒▒▒▒▓▒▓▓▓▒▒▒▒▓▓▓▓█████▓▓▓▓▒▒▒▒▒░░░░░░░░░
+        ░░▒▒▒▒▒▒▓▒▒▒▓▒▒▒▒▒▒▒▒▓▓▓▓▓▓▓▓▓▒▒▒▓░░░░░░░░░░░
+        ░░▒▒▒▒▒▒▓▒▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▒░░░░░░░░░░░
+        ░░░▒▒▒▒▒▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░
+        ░░░░░▒▒▓▓▓▓▓▓▓▒▒░▒▓▓▒▒▓▓▓▒▒▓▓▓▓▓▒▒▒▒▒░░░░░░░░
+        ░░░░░░▒▓▓▓▓▓▓▓▓▒▒░░▒▒▓▓▒▒░░░░░▒▒▒░▒▓▒▒░░░░░░░
+        ░░░░░░▒▓▓▓▓▓▓▓▓▓▓▒▒▒░░▒▓▓▓▒▒▒▒░░░░▒▓▓░░░░░░░░
+        ░░░░░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░
+        ░░░░░░█▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒░░░░░░░░░
+
+
+
+**************************************************************
+
+Fri Jan 28 2022 01:05:36 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 24 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [SMUG]-[BABYSMUG] Smug LP Token [+] [-] [<=>] Price: $0.00 TVL: $1,959.52
+SMUG Price: $0.0000000002
+BABYSMUG Price: $0.0000000001
+Staked: 0.0000 SMUG-LP ($0.00)
+BABYSMUG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [SMUG]-[BABYSMUG] Smug LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [SMUG]-[BABYSMUG] Smug LP Token
+Unstake 0.00 [SMUG]-[BABYSMUG] Smug LP Token
+Claim 0.00 BABYSMUG ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [BABYSMUG]-[sWAGMI] Smug LP Token [+] [-] [<=>] Price: $6.23 TVL: $1.65
+BABYSMUG Price: $0.0000000001
+sWAGMI Price: $32.62
+Staked: 0.0004 SMUG-LP ($0.00)
+BABYSMUG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [BABYSMUG]-[sWAGMI] Smug LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [BABYSMUG]-[sWAGMI] Smug LP Token
+Unstake 0.00 [BABYSMUG]-[sWAGMI] Smug LP Token
+Claim 0.00 BABYSMUG ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [BABYSMUG]-[MIS] Smug LP Token [+] [-] [<=>] Price: $0.00 TVL: $13.66
+BABYSMUG Price: $0.0000000001
+MIS Price: $0.30
+Staked: 31303.1228 SMUG-LP ($0.39)
+BABYSMUG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [BABYSMUG]-[MIS] Smug LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [BABYSMUG]-[MIS] Smug LP Token
+Unstake 0.00 [BABYSMUG]-[MIS] Smug LP Token
+Claim 0.00 BABYSMUG ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [FOX]-[BABYSMUG] Smug LP Token [+] [-] [<=>] Price: $0.00 TVL: $3.11
+FOX Price: $2.82
+BABYSMUG Price: $0.0000000001
+Staked: 29116.6311 SMUG-LP ($1.13)
+BABYSMUG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [FOX]-[BABYSMUG] Smug LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [FOX]-[BABYSMUG] Smug LP Token
+Unstake 0.00 [FOX]-[BABYSMUG] Smug LP Token
+Claim 0.00 BABYSMUG ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [FUZZ]-[BABYSMUG] Smug LP Token [+] [-] [<=>] Price: $0.00 TVL: $79.25
+FUZZ Price: $0.03
+BABYSMUG Price: $0.0000000001
+Staked: 115707.6309 SMUG-LP ($0.44)
+BABYSMUG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [FUZZ]-[BABYSMUG] Smug LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [FUZZ]-[BABYSMUG] Smug LP Token
+Unstake 0.00 [FUZZ]-[BABYSMUG] Smug LP Token
+Claim 0.00 BABYSMUG ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [FLOKI]-[BABYSMUG] Smug LP Token [+] [-] [<=>] Price: $0.00 TVL: $1.70
+FLOKI Price: $0.0000000001
+BABYSMUG Price: $0.0000000001
+Staked: 485.3119 SMUG-LP ($0.00)
+BABYSMUG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [FLOKI]-[BABYSMUG] Smug LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [FLOKI]-[BABYSMUG] Smug LP Token
+Unstake 0.00 [FLOKI]-[BABYSMUG] Smug LP Token
+Claim 0.00 BABYSMUG ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [TRANQ]-[BABYSMUG] Smug LP Token [+] [-] [<=>] Price: $0.00 TVL: $23.50
+TRANQ Price: $0.38
+BABYSMUG Price: $0.0000000001
+Staked: 3.0676 SMUG-LP ($0.00)
+BABYSMUG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [TRANQ]-[BABYSMUG] Smug LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [TRANQ]-[BABYSMUG] Smug LP Token
+Unstake 0.00 [TRANQ]-[BABYSMUG] Smug LP Token
+Claim 0.00 BABYSMUG ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [JEWEL]-[BABYSMUG] Smug LP Token [+] [-] [<=>] Price: $0.00 TVL: $26.51
+JEWEL Price: $6.76
+BABYSMUG Price: $0.0000000001
+Staked: 0.8106 SMUG-LP ($0.00)
+BABYSMUG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [JEWEL]-[BABYSMUG] Smug LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [JEWEL]-[BABYSMUG] Smug LP Token
+Unstake 0.00 [JEWEL]-[BABYSMUG] Smug LP Token
+Claim 0.00 BABYSMUG ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [BABYSMUG]-[BOSS] Smug LP Token [+] [-] [<=>] Price: $0.00 TVL: $1.20
+BABYSMUG Price: $0.0000000001
+BOSS Price: $0.02
+Staked: 2260.6914 SMUG-LP ($0.01)
+BABYSMUG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [BABYSMUG]-[BOSS] Smug LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [BABYSMUG]-[BOSS] Smug LP Token
+Unstake 0.00 [BABYSMUG]-[BOSS] Smug LP Token
+Claim 0.00 BABYSMUG ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [KURO]-[BABYSMUG] Smug LP Token [+] [-] [<=>] Price: $0.06 TVL: $9.48
+KURO Price: $0.004901
+BABYSMUG Price: $0.0000000001
+Staked: 0.0150 SMUG-LP ($0.00)
+BABYSMUG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [KURO]-[BABYSMUG] Smug LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [KURO]-[BABYSMUG] Smug LP Token
+Unstake 0.00 [KURO]-[BABYSMUG] Smug LP Token
+Claim 0.00 BABYSMUG ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [BABYSMUG]-[VIPER] Smug LP Token [+] [-] [<=>] Price: $0.00 TVL: $5.66
+BABYSMUG Price: $0.0000000001
+VIPER Price: $0.53
+Staked: 4506.2892 SMUG-LP ($0.08)
+BABYSMUG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [BABYSMUG]-[VIPER] Smug LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [BABYSMUG]-[VIPER] Smug LP Token
+Unstake 0.00 [BABYSMUG]-[VIPER] Smug LP Token
+Claim 0.00 BABYSMUG ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [hMOCHI]-[BABYSMUG] Smug LP Token [+] [-] [<=>] Price: $0.00 TVL: $9.67
+hMOCHI Price: $0.001687
+BABYSMUG Price: $0.0000000001
+Staked: 150226.2654 SMUG-LP ($0.14)
+BABYSMUG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [hMOCHI]-[BABYSMUG] Smug LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [hMOCHI]-[BABYSMUG] Smug LP Token
+Unstake 0.00 [hMOCHI]-[BABYSMUG] Smug LP Token
+Claim 0.00 BABYSMUG ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [OpenX]-[BABYSMUG] Smug LP Token [+] [-] [<=>] Price: $0.00 TVL: $18.88
+OpenX Price: $0.07
+BABYSMUG Price: $0.0000000001
+Staked: 1796.3476 SMUG-LP ($0.01)
+BABYSMUG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [OpenX]-[BABYSMUG] Smug LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [OpenX]-[BABYSMUG] Smug LP Token
+Unstake 0.00 [OpenX]-[BABYSMUG] Smug LP Token
+Claim 0.00 BABYSMUG ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [BOOM]-[BABYSMUG] Smug LP Token [+] [-] [<=>] Price: $0.00 TVL: $1.36
+BOOM Price: $9.36
+BABYSMUG Price: $0.0000000001
+Staked: 117.3645 SMUG-LP ($0.01)
+BABYSMUG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [BOOM]-[BABYSMUG] Smug LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [BOOM]-[BABYSMUG] Smug LP Token
+Unstake 0.00 [BOOM]-[BABYSMUG] Smug LP Token
+Claim 0.00 BABYSMUG ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [XYA]-[BABYSMUG] Smug LP Token [+] [-] [<=>] Price: $0.00 TVL: $2.01
+XYA Price: $0.14
+BABYSMUG Price: $0.0000000001
+Staked: 4627.3550 SMUG-LP ($0.04)
+BABYSMUG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [XYA]-[BABYSMUG] Smug LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [XYA]-[BABYSMUG] Smug LP Token
+Unstake 0.00 [XYA]-[BABYSMUG] Smug LP Token
+Claim 0.00 BABYSMUG ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [BABYSMUG]-[RVRS] Smug LP Token [+] [-] [<=>] Price: $0.00 TVL: $1.05
+BABYSMUG Price: $0.0000000001
+RVRS Price: $0.16
+Staked: 65810.4388 SMUG-LP ($0.61)
+BABYSMUG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [BABYSMUG]-[RVRS] Smug LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [BABYSMUG]-[RVRS] Smug LP Token
+Unstake 0.00 [BABYSMUG]-[RVRS] Smug LP Token
+Claim 0.00 BABYSMUG ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [COINK]-[BABYSMUG] Smug LP Token [+] [-] [<=>] Price: $0.00 TVL: $0.63
+COINK Price: $0.001621
+BABYSMUG Price: $0.0000000001
+Staked: 58427.9910 SMUG-LP ($0.06)
+BABYSMUG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [COINK]-[BABYSMUG] Smug LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [COINK]-[BABYSMUG] Smug LP Token
+Unstake 0.00 [COINK]-[BABYSMUG] Smug LP Token
+Claim 0.00 BABYSMUG ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [JENN]-[BABYSMUG] Smug LP Token [+] [-] [<=>] Price: $0.00 TVL: $28.17
+JENN Price: $0.10
+BABYSMUG Price: $0.0000000001
+Staked: 886025.9612 SMUG-LP ($6.44)
+BABYSMUG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [JENN]-[BABYSMUG] Smug LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [JENN]-[BABYSMUG] Smug LP Token
+Unstake 0.00 [JENN]-[BABYSMUG] Smug LP Token
+Claim 0.00 BABYSMUG ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [bscCOBRA]-[BABYSMUG] Smug LP Token [+] [-] [<=>] Price: $0.00 TVL: $26.50
+bscCOBRA Price: $0.09
+BABYSMUG Price: $0.0000000001
+Staked: 1887878.6254 SMUG-LP ($13.18)
+BABYSMUG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [bscCOBRA]-[BABYSMUG] Smug LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [bscCOBRA]-[BABYSMUG] Smug LP Token
+Unstake 0.00 [bscCOBRA]-[BABYSMUG] Smug LP Token
+Claim 0.00 BABYSMUG ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [BABYSMUG]-[ROY] Smug LP Token [+] [-] [<=>] Price: $0.00 TVL: $8.07
+BABYSMUG Price: $0.0000000001
+ROY Price: $0.06
+Staked: 34155.4015 SMUG-LP ($0.19)
+BABYSMUG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [BABYSMUG]-[ROY] Smug LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [BABYSMUG]-[ROY] Smug LP Token
+Unstake 0.00 [BABYSMUG]-[ROY] Smug LP Token
+Claim 0.00 BABYSMUG ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - [KIBA]-[BABYSMUG] Smug LP Token [+] [-] [<=>] Price: $0.00 TVL: $0.28
+KIBA Price: $0.0000000000
+BABYSMUG Price: $0.0000000001
+Staked: 3663.1474 SMUG-LP ($0.02)
+BABYSMUG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [KIBA]-[BABYSMUG] Smug LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [KIBA]-[BABYSMUG] Smug LP Token
+Unstake 0.00 [KIBA]-[BABYSMUG] Smug LP Token
+Claim 0.00 BABYSMUG ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - [COSMIC]-[BABYSMUG] Smug LP Token [+] [-] [<=>] Price: $0.15 TVL: $12.37
+COSMIC Price: $0.04
+BABYSMUG Price: $0.0000000001
+Staked: 0.2984 SMUG-LP ($0.05)
+BABYSMUG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [COSMIC]-[BABYSMUG] Smug LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [COSMIC]-[BABYSMUG] Smug LP Token
+Unstake 0.00 [COSMIC]-[BABYSMUG] Smug LP Token
+Claim 0.00 BABYSMUG ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - [SMUG]-[WONE] Uni LP [+] [-] [<=>] Price: $0.45 TVL: $29,795.58
+SMUG Price: $0.0000000002
+WONE Price: $0.18
+Staked: 0.2839 JEWEL-LP ($0.13)
+BABYSMUG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [SMUG]-[WONE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SMUG]-[WONE] Uni LP
+Unstake 0.00 [SMUG]-[WONE] Uni LP
+Claim 0.00 BABYSMUG ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [bscBUSD]-[BABYSMUG] Smug LP Token [+] [-] [<=>] Price: $0.00 TVL: $17.27
+bscBUSD Price: $1.01
+BABYSMUG Price: $0.0000000001
+Staked: 319287.7538 SMUG-LP ($7.41)
+BABYSMUG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [bscBUSD]-[BABYSMUG] Smug LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [bscBUSD]-[BABYSMUG] Smug LP Token
+Unstake 0.00 [bscBUSD]-[BABYSMUG] Smug LP Token
+Claim 0.00 BABYSMUG ($0.00)
+Staking or unstaking also claims rewards.
+
+SmugStake TVL: $5.84
+BABYSMUG Price: $0.00
+Staked: 45077148720.40 BABYSMUG ($5.84)
+You are staking 0.00 BABYSMUG ($0.00), 0.00% of the pool.
+Stake 0.00 BABYSMUG
+SmugStake rewards are visible after unstaking / exiting the pool.
+
+Total Staked: $36.20

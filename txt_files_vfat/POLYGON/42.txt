@@ -6,7 +6,7 @@ INFO  : https://www.monkefarm.finance
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Fri Dec 17 2021 09:27:55 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 22:09:56 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
@@ -14,109 +14,11 @@ Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
 Found 10 pools.
 Showing incentivized pools only.
-Finished reading smart contracts.
-[MONKE]-[USDC] Uni LP [+] [-] [<=>] Price: $13,060.44 TVL: $53.19
-MONKE Price: $0.0000362458
-USDC Price: $1.00
-Staked: 0.00254447 UNI-V2 ($33.23)
-MONKE Per Week: 46956.52 ($1.70)
-APR: Day 0.73% Week 5.12% Year 266.32%
-You are staking 0.00 [MONKE]-[USDC] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [MONKE]-[USDC] Uni LP
-Unstake 0.00 [MONKE]-[USDC] Uni LP
-Claim 0.00 MONKE ($0.00)
-Staking or unstaking also claims rewards.
-
-MONKE Price: $0.0000362458 Market Cap: $167.01 [%]
-Staked: 1486543.9575 MONKE ($53.88)
-MONKE Per Week: 18782.61 ($0.68)
-APR: Day 0.18% Week 1.26% Year 65.70%
-You are staking 0.00 MONKE ($0.00), 0.00% of the pool.
-Stake 0.00 MONKE
-Unstake 0.00 MONKE
-Claim 0.00 MONKE ($0.00)
-Staking or unstaking also claims rewards.
-
-WMATIC Price: $2.10 Market Cap: $639,999,346.27 [%]
-Staked: 24.3251 WMATIC ($51.08)
-MONKE Per Week: 9391.30 ($0.34)
-APR: Day 0.10% Week 0.67% Year 34.65%
-You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
-Stake 0.00 WMATIC
-Unstake 0.00 WMATIC
-Claim 0.00 MONKE ($0.00)
-Staking or unstaking also claims rewards.
-
-WETH Price: $3,954.76 Market Cap: $1,755,647,140.44 [%]
-Staked: 0.0106 WETH ($42.05)
-MONKE Per Week: 18782.61 ($0.68)
-APR: Day 0.23% Week 1.62% Year 84.19%
-You are staking 0.00 WETH ($0.00), 0.00% of the pool.
-Stake 0.00 WETH
-Unstake 0.00 WETH
-Claim 0.00 MONKE ($0.00)
-Staking or unstaking also claims rewards.
-
-WBTC Price: $47,641.00 Market Cap: $480,707,647.35 [%]
-Staked: 0.0007 WBTC ($33.35)
-MONKE Per Week: 18782.61 ($0.68)
-APR: Day 0.29% Week 2.04% Year 106.14%
-You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
-Stake 0.00 WBTC
-Unstake 0.00 WBTC
-Claim 0.00 MONKE ($0.00)
-Staking or unstaking also claims rewards.
-
-USDC Price: $1.00 Market Cap: $951,679,123.32 [%]
-Staked: 73.4140 USDC ($73.37)
-MONKE Per Week: 18782.61 ($0.68)
-APR: Day 0.13% Week 0.93% Year 48.25%
-You are staking 0.00 USDC ($0.00), 0.00% of the pool.
-Stake 0.00 USDC
-Unstake 0.00 USDC
-Claim 0.00 MONKE ($0.00)
-Staking or unstaking also claims rewards.
-
-USDT Price: $1.00 Market Cap: $319,349,935.44 [%]
-Staked: 75.8833 USDT ($75.79)
-MONKE Per Week: 18782.61 ($0.68)
-APR: Day 0.13% Week 0.90% Year 46.71%
-You are staking 0.00 USDT ($0.00), 0.00% of the pool.
-Stake 0.00 USDT
-Unstake 0.00 USDT
-Claim 0.00 MONKE ($0.00)
-Staking or unstaking also claims rewards.
-
-QUICK Price: $244.92 Market Cap: $234,030,467.71 [%]
-Staked: 0.0113 QUICK ($2.77)
-MONKE Per Week: 9391.30 ($0.34)
-APR: Day 1.76% Week 12.29% Year 638.96%
-You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
-Stake 0.00 QUICK
-Unstake 0.00 QUICK
-Claim 0.00 MONKE ($0.00)
-Staking or unstaking also claims rewards.
-
-NAN Price: $0.00 Market Cap: $0.00 
-Staked: 259.7767 NAN ($0.00)
-MONKE Per Week: 18782.61 ($0.68)
-APR: Day NaN% Week NaN% Year NaN%
-You are staking 0.00 NAN ($0.00), NaN% of the pool.
-Stake 0.00 NAN
-Unstake 0.00 NAN
-Claim 0.00 MONKE ($0.00)
-Staking or unstaking also claims rewards.
-
-[USDC]-[NAN] Uni LP [+] [-] [<=>] Price: $552,212.00 TVL: $51.27
-USDC Price: $1.00
-NAN Price: $0.07
-Staked: 0.00009208 UNI-V2 ($50.85)
-MONKE Per Week: 37565.22 ($1.36)
-APR: Day 0.38% Week 2.68% Year 139.24%
-You are staking 0.00 [USDC]-[NAN] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[NAN] Uni LP
-Unstake 0.00 [USDC]-[NAN] Uni LP
-Claim 0.00 MONKE ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $416.38
+{
+  "code": -32603,
+  "message": "Non-200 status code: '400'",
+  "data": {
+    "error": "Unable to verify your data submission."
+  }
+}
+Oops something went wrong. Try refreshing the page.

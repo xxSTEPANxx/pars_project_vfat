@@ -1,0 +1,247 @@
+*************** 👨‍🌾 UNOFFICIAL UZUMAKI.NARUTOFINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://uzumaki.narutofinance.com
+******************************************************************************************
+
+Thu Jan 27 2022 20:56:37 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 21 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [UZUMAKI]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.01 TVL: $10.16
+UZUMAKI Price: $0.0000131403
+BUSD Price: $1.00
+Staked: 504.2408 Cake-LP ($3.95)
+UZUMAKI Per Week: 32101.91 ($0.42)
+APR: Day 1.52% Week 10.67% Year 554.88%
+You are staking 0.00 [UZUMAKI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UZUMAKI]-[BUSD] Cake LP
+Unstake 0.00 [UZUMAKI]-[BUSD] Cake LP
+Claim 0.00 UZUMAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [UZUMAKI]-[WBNB] Cake LP [+] [-] [<=>] Price: $0.15 TVL: $8.64
+UZUMAKI Price: $0.0000131403
+WBNB Price: $369.24
+Staked: 39.8066 Cake-LP ($5.93)
+UZUMAKI Per Week: 25681.53 ($0.34)
+APR: Day 0.81% Week 5.69% Year 295.93%
+You are staking 0.00 [UZUMAKI]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UZUMAKI]-[WBNB] Cake LP
+Unstake 0.00 [UZUMAKI]-[WBNB] Cake LP
+Claim 0.00 UZUMAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.51 TVL: $346,632,580.55
+WBNB Price: $369.24
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+UZUMAKI Per Week: 3852.23 ($0.05)
+APR: Day 6760.60% Week 47324.17% Year 2460857.09%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 UZUMAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $296,846,876.00
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 0.9600 Cake-LP ($2.01)
+UZUMAKI Per Week: 3852.23 ($0.05)
+APR: Day 0.36% Week 2.52% Year 130.99%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 UZUMAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $7,755.09 TVL: $68,812,217.16
+BTCB Price: $36,289.00
+WBNB Price: $369.24
+Staked: 0.0000 Cake-LP ($0.17)
+UZUMAKI Per Week: 3852.23 ($0.05)
+APR: Day 4.20% Week 29.41% Year 1529.51%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 UZUMAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,046.03 TVL: $74,541,433.66
+ETH Price: $2,454.60
+WBNB Price: $369.24
+Staked: 0.0000 Cake-LP ($0.00)
+UZUMAKI Per Week: 3852.23 ($0.05)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 UZUMAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [DAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $16,867,959.93
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 24.5524 Cake-LP ($51.24)
+UZUMAKI Per Week: 3852.23 ($0.05)
+APR: Day 0.01% Week 0.10% Year 5.14%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 UZUMAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $131,515,023.32
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 10.5600 Cake-LP ($22.08)
+UZUMAKI Per Week: 3852.23 ($0.05)
+APR: Day 0.03% Week 0.23% Year 11.92%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 UZUMAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [DOT]-[WBNB] Cake LP [+] [-] [<=>] Price: $173.03 TVL: $17,763,414.18
+DOT Price: $18.01
+WBNB Price: $369.24
+Staked: 0.0000 Cake-LP ($0.00)
+UZUMAKI Per Week: 3852.23 ($0.05)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 UZUMAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - UZUMAKI Price: $0.0000131403 Market Cap: $18.54 [%]
+Staked: 423871.8586 UZUMAKI ($5.57)
+UZUMAKI Per Week: 19261.15 ($0.25)
+APR: Day 0.65% Week 4.54% Year 236.29%
+You are staking 0.00 UZUMAKI ($0.00), 0.00% of the pool.
+Stake 0.00 UZUMAKI
+Unstake 0.00 UZUMAKI
+Claim 0.00 UZUMAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - BUSD Price: $1.00 Market Cap: $4,850,300,844.72 [%]
+Staked: 26.9686 BUSD ($26.96)
+UZUMAKI Per Week: 2568.15 ($0.03)
+APR: Day 0.02% Week 0.13% Year 6.51%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 UZUMAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - WBNB Price: $369.24 Market Cap: $1,927,676,897.34 [%]
+Staked: 0.4800 WBNB ($177.24)
+UZUMAKI Per Week: 2568.15 ($0.03)
+APR: Day 0.00% Week 0.02% Year 0.99%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 UZUMAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - USDT Price: $1.00 Market Cap: $3,869,618,927.74 [%]
+Staked: 0.0960 USDT ($0.10)
+UZUMAKI Per Week: 2568.15 ($0.03)
+APR: Day 5.04% Week 35.25% Year 1832.83%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 UZUMAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - BTCB Price: $36,289.00 Market Cap: $4,082,548,789.00 [%]
+Staked: 0.0000 BTCB ($0.00)
+UZUMAKI Per Week: 2568.15 ($0.03)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 BTCB ($0.00), NaN% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 UZUMAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - ETH Price: $2,454.60 Market Cap: $3,448,713,000.00 [%]
+Staked: 0.0029 ETH ($7.20)
+UZUMAKI Per Week: 2568.15 ($0.03)
+APR: Day 0.07% Week 0.47% Year 24.36%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 UZUMAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - DAI Price: $1.00 Market Cap: $262,000,000.00 [%]
+Staked: 0.0000 DAI ($0.00)
+UZUMAKI Per Week: 2568.15 ($0.03)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 DAI ($0.00), NaN% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 UZUMAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - USDC Price: $1.00 Market Cap: $1,779,000,000.00 [%]
+Staked: 28.5756 USDC ($28.58)
+UZUMAKI Per Week: 2568.15 ($0.03)
+APR: Day 0.02% Week 0.12% Year 6.14%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 UZUMAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - DOT Price: $18.01 Market Cap: $288,159,999.84 [%]
+Staked: 0.0960 DOT ($1.73)
+UZUMAKI Per Week: 2568.15 ($0.03)
+APR: Day 0.28% Week 1.95% Year 101.49%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 UZUMAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [NAR]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.03 TVL: $58.51
+NAR Price: $0.000168
+BUSD Price: $1.00
+Staked: 342.5660 Cake-LP ($9.44)
+UZUMAKI Per Week: 32101.91 ($0.42)
+APR: Day 0.64% Week 4.47% Year 232.40%
+You are staking 0.00 [NAR]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [NAR]-[BUSD] Cake LP
+Unstake 0.00 [NAR]-[BUSD] Cake LP
+Claim 0.00 UZUMAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [NAR]-[WBNB] Cake LP [+] [-] [<=>] Price: $0.53 TVL: $34.75
+NAR Price: $0.000168
+WBNB Price: $369.24
+Staked: 6.2134 Cake-LP ($3.30)
+UZUMAKI Per Week: 25681.53 ($0.34)
+APR: Day 1.46% Week 10.23% Year 531.81%
+You are staking 0.00 [NAR]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [NAR]-[WBNB] Cake LP
+Unstake 0.00 [NAR]-[WBNB] Cake LP
+Claim 0.00 UZUMAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - NAR Price: $0.000168 Market Cap: $86.27 [%]
+Staked: 3298.2241 NAR ($0.55)
+UZUMAKI Per Week: 19261.15 ($0.25)
+APR: Day 6.52% Week 45.67% Year 2375.09%
+You are staking 0.00 NAR ($0.00), 0.00% of the pool.
+Stake 0.00 NAR
+Unstake 0.00 NAR
+Claim 0.00 UZUMAKI ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $346.05

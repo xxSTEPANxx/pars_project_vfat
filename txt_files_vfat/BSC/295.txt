@@ -1,0 +1,160 @@
+*************** 👨‍🌾 UNOFFICIAL TEA-SWAP-APP.FINANCE FARMING CALCULATOR 👨‍🌾 *****************
+INFO  : https://app.tea-swap.finance/
+*******************************************************************************************
+
+Thu Jan 27 2022 21:09:26 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 12 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [MINTv2]-[WBNB] Cake LP [+] [-] [<=>] Price: $4.83 TVL: $115.87
+MINTv2 Price: $0.01
+WBNB Price: $369.13
+Staked: 0.0000 Cake-LP ($0.00)
+MINT Per Week: 0.00 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [MINTv2]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [MINTv2]-[WBNB] Cake LP
+Unstake 0.00 [MINTv2]-[WBNB] Cake LP
+Claim 0.00 MINT ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [MINTv2]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.26 TVL: $649.30
+MINTv2 Price: $0.01
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+MINT Per Week: 0.00 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [MINTv2]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [MINTv2]-[BUSD] Cake LP
+Unstake 0.00 [MINTv2]-[BUSD] Cake LP
+Claim 0.00 MINT ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.45 TVL: $346,166,536.97
+WBNB Price: $369.13
+BUSD Price: $1.00
+Staked: 2.0356 Cake-LP ($96.58)
+MINT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 MINT ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - MINTv2 Price: $0.01 Market Cap: $1,893.56 [%]
+Staked: 14066.2893 MINTv2 ($176.66)
+MINT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 MINTv2 ($0.00), 0.00% of the pool.
+Stake 0.00 MINTv2
+Unstake 0.00 MINTv2
+Claim 0.00 MINT ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [Cake]-[BUSD] Cake LP [+] [-] [<=>] Price: $8.54 TVL: $67,581.49
+Cake Price: $6.96
+BUSD Price: $1.00
+Staked: 0.0010 Cake-LP ($0.01)
+MINT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 MINT ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.45 TVL: $346,166,536.97
+WBNB Price: $369.13
+BUSD Price: $1.00
+Staked: 2.0356 Cake-LP ($96.58)
+MINT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 MINT ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [SUGAR]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.02 TVL: $315.24
+SUGAR Price: $0.0000740443
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+MINT Per Week: 0.00 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [SUGAR]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [SUGAR]-[BUSD] Cake LP
+Unstake 0.00 [SUGAR]-[BUSD] Cake LP
+Claim 0.00 MINT ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - BUSD Price: $1.00 Market Cap: $4,838,619,638.19 [%]
+Staked: 0.0000 BUSD ($0.00)
+MINT Per Week: 0.00 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 BUSD ($0.00), NaN% of the pool.
+Stake 0.00 BUSD
+Unstake 0.00 BUSD
+Claim 0.00 MINT ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - Cake Price: $6.96 Market Cap: $4,280,127,519.76 [%]
+Staked: 0.1000 Cake ($0.70)
+MINT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake
+Unstake 0.00 Cake
+Claim 0.00 MINT ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - BUSD Price: $1.00 Market Cap: $4,838,619,638.19 [%]
+Staked: 0.0000 BUSD ($0.00)
+MINT Per Week: 0.00 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 BUSD ($0.00), NaN% of the pool.
+Stake 0.00 BUSD
+Unstake 0.00 BUSD
+Claim 0.00 MINT ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - WBNB Price: $369.13 Market Cap: $1,927,032,588.08 [%]
+Staked: 0.0000 WBNB ($0.00)
+MINT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB
+Unstake 0.00 WBNB
+Claim 0.00 MINT ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [MINTv2]-[SUGAR] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $20.17
+MINTv2 Price: $0.01
+SUGAR Price: $0.0000740443
+Staked: 0.0000 Cake-LP ($0.00)
+MINT Per Week: 0.00 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [MINTv2]-[SUGAR] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [MINTv2]-[SUGAR] Cake LP
+Unstake 0.00 [MINTv2]-[SUGAR] Cake LP
+Claim 0.00 MINT ($0.00)
+Staking or unstaking also claims rewards.
+
+Staking Contract
+Found 22 pools.
+Showing incentivized pools only.
+{
+  "code": -32603,
+  "message": "Internal JSON-RPC error.",
+  "data": {
+    "code": -32000,
+    "message": "execution reverted"
+  }
+}
+Oops something went wrong. Try refreshing the page.

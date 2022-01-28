@@ -1,0 +1,35 @@
+*************** 👨‍🌾 UNOFFICIAL SYNAPSEPROTOCOL FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://synapseprotocol.com
+************************************************************************************
+
+Thu Jan 27 2022 21:51:12 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 3 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - nETH-LP Price: $2,424.96 Market Cap: $61,984,397.44 
+Staked: 25508.0096 nETH-LP ($61,855,902.93)
+SYNAPSE Per Week: 49313.18 ($102,571.41)
+APR: Day 0.02% Week 0.17% Year 8.62%
+You are staking 0.00 nETH-LP ($0.00), 0.00% of the pool.
+Stake 0.00 nETH-LP
+Unstake 0.00 nETH-LP
+Claim 0.00 SYNAPSE ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - nUSD-LP Price: $0.00 Market Cap: $0.00 
+Staked: 38051511.6195 nUSD-LP ($0.00)
+SYNAPSE Per Week: 49313.18 ($102,571.41)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 nUSD-LP ($0.00), NaN% of the pool.
+Stake 0.00 nUSD-LP
+Unstake 0.00 nUSD-LP
+Claim 0.00 SYNAPSE ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $61,855,902.93

@@ -1,0 +1,535 @@
+*************** 👨‍🌾 UNOFFICIAL COUGARSWAP FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://fantomapp.cougarswap.io
+**********************************************************************************
+
+Fri Jan 28 2022 00:44:45 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 51 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [WFTM]-[CGS] SPOOKY LP [+] [-] [<=>] Price: $0.28 TVL: $34,633.80
+WFTM Price: $2.02
+CGS Price: $0.008893
+Staked: 15336.1870 spLP ($4,286.45)
+CGS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WFTM]-[CGS] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[CGS] SPOOKY LP
+Unstake 0.00 [WFTM]-[CGS] SPOOKY LP
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [USDC]-[CGS] SPOOKY LP [+] [-] [<=>] Price: $197,524.80 TVL: $13,442.74
+USDC Price: $1.00
+CGS Price: $0.008893
+Staked: 0.0003 spLP ($59.69)
+CGS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDC]-[CGS] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[CGS] SPOOKY LP
+Unstake 0.00 [USDC]-[CGS] SPOOKY LP
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [USDC]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $4,352,054.75 TVL: $167,538,191.19
+USDC Price: $1.00
+WFTM Price: $2.02
+Staked: 0.0000 spLP ($8.46)
+CGS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDC]-[WFTM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WFTM] SPOOKY LP - Fee 4%
+Unstake 0.00 [USDC]-[WFTM] SPOOKY LP
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WFTM]-[ETH] SPOOKY LP [+] [-] [<=>] Price: $155.62 TVL: $42,196,984.67
+WFTM Price: $2.02
+ETH Price: $2,322.13
+Staked: 1.3736 spLP ($213.76)
+CGS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WFTM]-[ETH] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ETH] SPOOKY LP - Fee 4%
+Unstake 0.00 [WFTM]-[ETH] SPOOKY LP
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [WFTM]-[BTC] SPOOKY LP [+] [-] [<=>] Price: $11,245,278,583.22 TVL: $21,778,699.99
+WFTM Price: $2.02
+BTC Price: $35,903.00
+Staked: 0.0000 spLP ($4.51)
+CGS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WFTM]-[BTC] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BTC] SPOOKY LP - Fee 4%
+Unstake 0.00 [WFTM]-[BTC] SPOOKY LP
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - CGS Price: $0.008893 Market Cap: $35,570.88 
+Staked: 150930.3507 CGS ($1,342.17)
+CGS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 CGS ($0.00), 0.00% of the pool.
+Stake 0.00 CGS
+Unstake 0.00 CGS
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - WFTM Price: $2.02 Market Cap: $1,459,207,692.26 
+Staked: 302.8902 WFTM ($611.84)
+CGS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WFTM ($0.00), 0.00% of the pool.
+Stake 0.00 WFTM - Fee 4%
+Unstake 0.00 WFTM
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - ETH Price: $2,322.13 Market Cap: $1,107,891,836.25 
+Staked: 0.0005 ETH ($1.07)
+CGS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - BTC Price: $35,903.00 Market Cap: $617,775,961.54 
+Staked: 0.0000 BTC ($0.22)
+CGS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BTC ($0.00), 0.00% of the pool.
+Stake 0.00 BTC - Fee 4%
+Unstake 0.00 BTC
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - USDC Price: $1.00 Market Cap: $1,731,180,326.87 
+Staked: 11.9358 USDC ($11.94)
+CGS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - fUSDT Price: $1.00 Market Cap: $350,442,101.33 
+Staked: 2.3404 fUSDT ($2.34)
+CGS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 fUSDT ($0.00), 0.00% of the pool.
+Stake 0.00 fUSDT - Fee 4%
+Unstake 0.00 fUSDT
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - FUSD Price: $0.00 Market Cap: $0.00 
+Staked: 0.7359 FUSD ($0.00)
+CGS Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FUSD ($0.00), NaN% of the pool.
+Stake 0.00 FUSD - Fee 4%
+Unstake 0.00 FUSD
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - DAI Price: $1.00 Market Cap: $706,482,504.19 
+Staked: 1.9138 DAI ($1.91)
+CGS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - BOO Price: $25.21 Market Cap: $212,699,468.04 
+Staked: 3.4844 BOO ($87.84)
+CGS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BOO ($0.00), 0.00% of the pool.
+Stake 0.00 BOO - Fee 4%
+Unstake 0.00 BOO
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - SPIRIT Price: $0.13 Market Cap: $67,694,117.69 
+Staked: 40.2542 SPIRIT ($5.27)
+CGS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 SPIRIT ($0.00), 0.00% of the pool.
+Stake 0.00 SPIRIT - Fee 4%
+Unstake 0.00 SPIRIT
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - WOO Price: $0.00 Market Cap: $0.00 
+Staked: 2.8788 WOO ($0.00)
+CGS Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 WOO ($0.00), NaN% of the pool.
+Stake 0.00 WOO - Fee 4%
+Unstake 0.00 WOO
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - ZOO Price: $0.00 Market Cap: $0.00 
+Staked: 493.0000 ZOO ($0.00)
+CGS Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 ZOO ($0.00), NaN% of the pool.
+Stake 0.00 ZOO - Fee 4%
+Unstake 0.00 ZOO
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - SCREAM Price: $74.31 Market Cap: $148,620,000.00 
+Staked: 0.0679 SCREAM ($5.04)
+CGS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 SCREAM ($0.00), 0.00% of the pool.
+Stake 0.00 SCREAM - Fee 4%
+Unstake 0.00 SCREAM
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - YFI Price: $23,306.00 Market Cap: $44,593,373.03 
+Staked: 0.0000 YFI ($0.28)
+CGS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 YFI ($0.00), 0.00% of the pool.
+Stake 0.00 YFI - Fee 4%
+Unstake 0.00 YFI
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - ICE Price: $3.85 Market Cap: $15,137,041.31 
+Staked: 0.4800 ICE ($1.85)
+CGS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 ICE ($0.00), 0.00% of the pool.
+Stake 0.00 ICE - Fee 4%
+Unstake 0.00 ICE
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - SNX Price: $0.00 Market Cap: $0.00 
+Staked: 2.5574 SNX ($0.00)
+CGS Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SNX ($0.00), NaN% of the pool.
+Stake 0.00 SNX - Fee 4%
+Unstake 0.00 SNX
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - AAVE Price: $0.00 Market Cap: $0.00 
+Staked: 0.0416 AAVE ($0.00)
+CGS Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 AAVE ($0.00), NaN% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - CRV Price: $2.73 Market Cap: $11,911,939.96 
+Staked: 0.9688 CRV ($2.64)
+CGS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 CRV ($0.00), 0.00% of the pool.
+Stake 0.00 CRV - Fee 4%
+Unstake 0.00 CRV
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - SUSHI Price: $3.90 Market Cap: $6,832,477.96 
+Staked: 0.4189 SUSHI ($1.63)
+CGS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 SUSHI ($0.00), 0.00% of the pool.
+Stake 0.00 SUSHI - Fee 4%
+Unstake 0.00 SUSHI
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - LINK Price: $14.68 Market Cap: $38,284,733.67 
+Staked: 1.1503 LINK ($16.89)
+CGS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - BNB Price: $363.95 Market Cap: $13,803,212.24 
+Staked: 0.0018 BNB ($0.66)
+CGS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BNB ($0.00), 0.00% of the pool.
+Stake 0.00 BNB - Fee 4%
+Unstake 0.00 BNB
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - [WFTM]-[BOO] SPOOKY LP [+] [-] [<=>] Price: $14.92 TVL: $63,184,950.14
+WFTM Price: $2.02
+BOO Price: $25.21
+Staked: 0.0541 spLP ($0.81)
+CGS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WFTM]-[BOO] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BOO] SPOOKY LP - Fee 4%
+Unstake 0.00 [WFTM]-[BOO] SPOOKY LP
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - [WFTM]-[BNB] SPOOKY LP [+] [-] [<=>] Price: $60.38 TVL: $12,963,195.48
+WFTM Price: $2.02
+BNB Price: $363.95
+Staked: 0.0000 spLP ($0.00)
+CGS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WFTM]-[BNB] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BNB] SPOOKY LP - Fee 4%
+Unstake 0.00 [WFTM]-[BNB] SPOOKY LP
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - [fUSDT]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $3,774,701.59 TVL: $37,080,018.13
+fUSDT Price: $1.00
+WFTM Price: $2.02
+Staked: 0.0000 spLP ($4.88)
+CGS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [fUSDT]-[WFTM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [fUSDT]-[WFTM] SPOOKY LP - Fee 4%
+Unstake 0.00 [fUSDT]-[WFTM] SPOOKY LP
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+29 - [USDC]-[fUSDT] SPOOKY LP [+] [-] [<=>] Price: $2,091,369,596,531.78 TVL: $2,057,468.67
+USDC Price: $1.00
+fUSDT Price: $1.00
+Staked: 0.0000 spLP ($3.58)
+CGS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDC]-[fUSDT] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[fUSDT] SPOOKY LP - Fee 4%
+Unstake 0.00 [USDC]-[fUSDT] SPOOKY LP
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+30 - [fUSDT]-[CGS] SPOOKY LP [+] [-] [<=>] Price: $215,163.54 TVL: $120.38
+fUSDT Price: $1.00
+CGS Price: $0.008893
+Staked: 0.0002 spLP ($41.62)
+CGS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [fUSDT]-[CGS] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [fUSDT]-[CGS] SPOOKY LP
+Unstake 0.00 [fUSDT]-[CGS] SPOOKY LP
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+31 - fOLIVE Price: $0.00 Market Cap: $0.00 
+Staked: 75183.4406 fOLIVE ($0.00)
+CGS Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 fOLIVE ($0.00), NaN% of the pool.
+Stake 0.00 fOLIVE
+Unstake 0.00 fOLIVE
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+32 - SAPPHIRE Price: $0.00 Market Cap: $0.00 
+Staked: 18.5487 SAPPHIRE ($0.00)
+CGS Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SAPPHIRE ($0.00), NaN% of the pool.
+Stake 0.00 SAPPHIRE
+Unstake 0.00 SAPPHIRE
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+33 - [USDC]-[CGS] SPIRIT LP [+] [-] [<=>] Price: $203,114.43 TVL: $1,004.35
+USDC Price: $1.00
+CGS Price: $0.008893
+Staked: 0.0001 SPIRIT-LP ($18.57)
+CGS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDC]-[CGS] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[CGS] SPIRIT LP
+Unstake 0.00 [USDC]-[CGS] SPIRIT LP
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+34 - [WFTM]-[CGS] SPIRIT LP [+] [-] [<=>] Price: $0.28 TVL: $728.66
+WFTM Price: $2.02
+CGS Price: $0.008893
+Staked: 2300.2109 SPIRIT-LP ($654.36)
+CGS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WFTM]-[CGS] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[CGS] SPIRIT LP
+Unstake 0.00 [WFTM]-[CGS] SPIRIT LP
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+35 - [USDC]-[PRNTR] SPIRIT LP [+] [-] [<=>] Price: $4,346,599.82 TVL: $17,011.62
+USDC Price: $1.00
+PRNTR Price: $3.47
+Staked: 0.0000 SPIRIT-LP ($2.27)
+CGS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDC]-[PRNTR] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[PRNTR] SPIRIT LP
+Unstake 0.00 [USDC]-[PRNTR] SPIRIT LP
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+36 - [WFTM]-[GRIM] SPIRIT LP [+] [-] [<=>] Price: $1.32 TVL: $515,791.20
+WFTM Price: $2.02
+GRIM Price: $0.005787
+Staked: 0.0000 SPIRIT-LP ($0.00)
+CGS Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [WFTM]-[GRIM] SPIRIT LP ($0.00), NaN% of the pool.
+Stake 0.00 [WFTM]-[GRIM] SPIRIT LP
+Unstake 0.00 [WFTM]-[GRIM] SPIRIT LP
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+37 - REAPER Price: $0.00 Market Cap: $0.00 
+Staked: 1626.8645 REAPER ($0.00)
+CGS Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 REAPER ($0.00), NaN% of the pool.
+Stake 0.00 REAPER
+Unstake 0.00 REAPER
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+38 - SCARE Price: $0.00 Market Cap: $0.00 
+Staked: 5.9350 SCARE ($0.00)
+CGS Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SCARE ($0.00), NaN% of the pool.
+Stake 0.00 SCARE
+Unstake 0.00 SCARE
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+39 - WAR Price: $0.00 Market Cap: $0.00 
+Staked: 30.1855 WAR ($0.00)
+CGS Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 WAR ($0.00), NaN% of the pool.
+Stake 0.00 WAR
+Unstake 0.00 WAR
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+40 - [WFTM]-[DMD] SPOOKY LP [+] [-] [<=>] Price: $0.60 TVL: $154,039.97
+WFTM Price: $2.02
+DMD Price: $0.04
+Staked: 841.1934 spLP ($506.77)
+CGS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WFTM]-[DMD] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[DMD] SPOOKY LP
+Unstake 0.00 [WFTM]-[DMD] SPOOKY LP
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+41 - DMD Price: $0.04 Market Cap: $593,200.86 
+Staked: 361.1843 DMD ($15.54)
+CGS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 DMD ($0.00), 0.00% of the pool.
+Stake 0.00 DMD
+Unstake 0.00 DMD
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+42 - MAX Price: $0.00 Market Cap: $0.00 
+Staked: 44.5660 MAX ($0.00)
+CGS Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 MAX ($0.00), NaN% of the pool.
+Stake 0.00 MAX
+Unstake 0.00 MAX
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+45 - TREAT Price: $0.00 Market Cap: $0.00 
+Staked: 4.6951 TREAT ($0.00)
+CGS Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 TREAT ($0.00), NaN% of the pool.
+Stake 0.00 TREAT
+Unstake 0.00 TREAT
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+46 - SPELL Price: $0.004996 Market Cap: $8,913,421.64 
+Staked: 736.6645 SPELL ($3.68)
+CGS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 SPELL ($0.00), 0.00% of the pool.
+Stake 0.00 SPELL - Fee 2%
+Unstake 0.00 SPELL
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+47 - MIM Price: $1.00 Market Cap: $443,495,484.86 
+Staked: 8.0925 MIM ($8.09)
+CGS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 MIM ($0.00), 0.00% of the pool.
+Stake 0.00 MIM - Fee 2%
+Unstake 0.00 MIM
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+48 - wMEMO Price: $0.00 Market Cap: $0.00 
+Staked: 0.0003 wMEMO ($0.00)
+CGS Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 wMEMO ($0.00), NaN% of the pool.
+Stake 0.00 wMEMO - Fee 2%
+Unstake 0.00 wMEMO
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+49 - MNSTR Price: $0.00 Market Cap: $0.00 
+Staked: 65.4974 MNSTR ($0.00)
+CGS Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 MNSTR ($0.00), NaN% of the pool.
+Stake 0.00 MNSTR
+Unstake 0.00 MNSTR
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+50 - XPAST Price: $0.00 Market Cap: $0.00 
+Staked: 893.9852 XPAST ($0.00)
+CGS Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 XPAST ($0.00), NaN% of the pool.
+Stake 0.00 XPAST
+Unstake 0.00 XPAST
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $7,926.65

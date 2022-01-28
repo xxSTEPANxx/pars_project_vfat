@@ -1,0 +1,229 @@
+*************** 👨‍🌾 UNOFFICIAL MONSTER FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://monsterfinance.app
+************************************************************************************
+
+Fri Jan 28 2022 00:54:21 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 20 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - MNSTR Price: $0.17 Market Cap: $7,453.77 
+Staked: 681.4555 MNSTR ($112.88)
+MNSTR Per Week: 864.00 ($143.11)
+APR: Day 18.11% Week 126.79% Year 6592.95%
+You are staking 0.00 MNSTR ($0.00), 0.00% of the pool.
+Stake 0.00 MNSTR
+Unstake 0.00 MNSTR
+Claim 0.00 MNSTR ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [USDC]-[MNSTR] SPOOKY LP [+] [-] [<=>] Price: $828,474.44 TVL: $2,651.39
+USDC Price: $1.01
+MNSTR Price: $0.17
+Staked: 0.0001 spLP ($58.90)
+MNSTR Per Week: 1440.00 ($238.52)
+APR: Day 57.85% Week 404.96% Year 21057.80%
+You are staking 0.00 [USDC]-[MNSTR] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[MNSTR] SPOOKY LP
+Unstake 0.00 [USDC]-[MNSTR] SPOOKY LP
+Claim 0.00 MNSTR ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [USDC]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $4,395,445.10 TVL: $169,210,612.13
+USDC Price: $1.01
+WFTM Price: $2.04
+Staked: 0.0000 spLP ($4.61)
+MNSTR Per Week: 201.60 ($33.39)
+APR: Day 103.46% Week 724.20% Year 37658.39%
+You are staking 0.00 [USDC]-[WFTM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WFTM] SPOOKY LP - Fee 3.5%
+Unstake 0.00 [USDC]-[WFTM] SPOOKY LP
+Claim 0.00 MNSTR ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - WFTM Price: $2.04 Market Cap: $1,473,159,029.29 
+Staked: 0.0000 WFTM ($0.00)
+MNSTR Per Week: 115.20 ($19.08)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 WFTM ($0.00), NaN% of the pool.
+Stake 0.00 WFTM - Fee 3.5%
+Unstake 0.00 WFTM
+Claim 0.00 MNSTR ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - BOO Price: $25.32 Market Cap: $213,628,875.36 
+Staked: 0.0000 BOO ($0.00)
+MNSTR Per Week: 115.20 ($19.08)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 BOO ($0.00), NaN% of the pool.
+Stake 0.00 BOO - Fee 3.5%
+Unstake 0.00 BOO
+Claim 0.00 MNSTR ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - USDC Price: $1.01 Market Cap: $1,744,757,684.97 
+Staked: 0.0000 USDC ($0.00)
+MNSTR Per Week: 115.20 ($19.08)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 USDC ($0.00), NaN% of the pool.
+Stake 0.00 USDC - Fee 3.5%
+Unstake 0.00 USDC
+Claim 0.00 MNSTR ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - ETH Price: $2,372.59 Market Cap: $1,131,912,014.06 
+Staked: 0.0000 ETH ($0.00)
+MNSTR Per Week: 86.40 ($14.31)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 ETH ($0.00), NaN% of the pool.
+Stake 0.00 ETH - Fee 3.5%
+Unstake 0.00 ETH
+Claim 0.00 MNSTR ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - BTC Price: $36,339.00 Market Cap: $625,278,129.03 
+Staked: 0.0000 BTC ($0.74)
+MNSTR Per Week: 86.40 ($14.31)
+APR: Day 276.19% Week 1933.36% Year 100534.84%
+You are staking 0.00 BTC ($0.00), 0.00% of the pool.
+Stake 0.00 BTC - Fee 3.5%
+Unstake 0.00 BTC
+Claim 0.00 MNSTR ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - TOMB Price: $2.02 Market Cap: $362,355,263.64 
+Staked: 0.0000 TOMB ($0.00)
+MNSTR Per Week: 86.40 ($14.31)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 TOMB ($0.00), NaN% of the pool.
+Stake 0.00 TOMB - Fee 3.5%
+Unstake 0.00 TOMB
+Claim 0.00 MNSTR ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - fUSDT Price: $1.01 Market Cap: $353,946,320.35 
+Staked: 1.7436 fUSDT ($1.76)
+MNSTR Per Week: 86.40 ($14.31)
+APR: Day 116.10% Week 812.68% Year 42259.33%
+You are staking 0.00 fUSDT ($0.00), 0.00% of the pool.
+Stake 0.00 fUSDT - Fee 3.5%
+Unstake 0.00 fUSDT
+Claim 0.00 MNSTR ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - ICE Price: $3.80 Market Cap: $14,956,223.36 
+Staked: 0.0000 ICE ($0.00)
+MNSTR Per Week: 57.60 ($9.54)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 ICE ($0.00), NaN% of the pool.
+Stake 0.00 ICE - Fee 3.5%
+Unstake 0.00 ICE
+Claim 0.00 MNSTR ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - DAI Price: $1.01 Market Cap: $711,512,155.93 
+Staked: 0.0000 DAI ($0.00)
+MNSTR Per Week: 57.60 ($9.54)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 DAI ($0.00), NaN% of the pool.
+Stake 0.00 DAI - Fee 3.5%
+Unstake 0.00 DAI
+Claim 0.00 MNSTR ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - BNB Price: $367.17 Market Cap: $13,918,491.04 
+Staked: 0.0000 BNB ($0.00)
+MNSTR Per Week: 57.60 ($9.54)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 BNB ($0.00), NaN% of the pool.
+Stake 0.00 BNB - Fee 3.5%
+Unstake 0.00 BNB
+Claim 0.00 MNSTR ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - MAX Price: $0.00 Market Cap: $0.00 
+Staked: 668.7568 MAX ($0.00)
+MNSTR Per Week: 288.00 ($47.70)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 MAX ($0.00), NaN% of the pool.
+Stake 0.00 MAX
+Unstake 0.00 MAX
+Claim 0.00 MNSTR ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [fUSDT]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $3,812,382.14 TVL: $37,450,165.39
+fUSDT Price: $1.01
+WFTM Price: $2.04
+Staked: 0.0000 spLP ($0.00)
+MNSTR Per Week: 201.60 ($33.39)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [fUSDT]-[WFTM] SPOOKY LP ($0.00), NaN% of the pool.
+Stake 0.00 [fUSDT]-[WFTM] SPOOKY LP - Fee 3.5%
+Unstake 0.00 [fUSDT]-[WFTM] SPOOKY LP
+Claim 0.00 MNSTR ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [WFTM]-[DAI] SPOOKY LP [+] [-] [<=>] Price: $3.78 TVL: $44,114,889.69
+WFTM Price: $2.04
+DAI Price: $1.01
+Staked: 0.0000 spLP ($0.00)
+MNSTR Per Week: 144.00 ($23.85)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WFTM]-[DAI] SPOOKY LP ($0.00), NaN% of the pool.
+Stake 0.00 [WFTM]-[DAI] SPOOKY LP - Fee 3.5%
+Unstake 0.00 [WFTM]-[DAI] SPOOKY LP
+Claim 0.00 MNSTR ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [USDC]-[fUSDT] SPOOKY LP [+] [-] [<=>] Price: $2,112,306,773,665.07 TVL: $2,078,066.46
+USDC Price: $1.01
+fUSDT Price: $1.01
+Staked: 0.0000 spLP ($24.64)
+MNSTR Per Week: 144.00 ($23.85)
+APR: Day 13.83% Week 96.79% Year 5033.24%
+You are staking 0.00 [USDC]-[fUSDT] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[fUSDT] SPOOKY LP - Fee 3.5%
+Unstake 0.00 [USDC]-[fUSDT] SPOOKY LP
+Claim 0.00 MNSTR ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [MNSTR]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $1.18 TVL: $2,304.77
+MNSTR Price: $0.17
+WFTM Price: $2.04
+Staked: 18.6030 spLP ($21.87)
+MNSTR Per Week: 1440.00 ($238.52)
+APR: Day 155.78% Week 1090.47% Year 56704.51%
+You are staking 0.00 [MNSTR]-[WFTM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MNSTR]-[WFTM] SPOOKY LP
+Unstake 0.00 [MNSTR]-[WFTM] SPOOKY LP
+Claim 0.00 MNSTR ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [USDC]-[MAX] SPOOKY LP [+] [-] [<=>] Price: $1,338,286.98 TVL: $7,031.57
+USDC Price: $1.01
+MAX Price: $0.42
+Staked: 0.0000 spLP ($45.13)
+MNSTR Per Week: 432.00 ($71.56)
+APR: Day 22.65% Week 158.55% Year 8244.44%
+You are staking 0.00 [USDC]-[MAX] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[MAX] SPOOKY LP
+Unstake 0.00 [USDC]-[MAX] SPOOKY LP
+Claim 0.00 MNSTR ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - CGS Price: $0.00 Market Cap: $0.00 
+Staked: 10197.3920 CGS ($0.00)
+MNSTR Per Week: 28.80 ($4.77)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 CGS ($0.00), NaN% of the pool.
+Stake 0.00 CGS
+Unstake 0.00 CGS
+Claim 0.00 MNSTR ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $270.54

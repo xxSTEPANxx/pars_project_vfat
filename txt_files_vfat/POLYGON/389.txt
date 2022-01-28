@@ -5,33 +5,20 @@ INFO  : https://angle.farm
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Thu Dec 16 2021 06:08:11 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 23:56:15 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
+Staking Contract
 Found 26 pools.
 Showing incentivized pools only.
 {
   "code": -32603,
-  "message": "JsonRpcEngine: Response has no error or result for request:\n{\n  \"method\": \"eth_call\",\n  \"params\": [\n    {\n      \"to\": \"0xd3c0466da04c1843a99479a202fa5bf2a2b6f5e0\",\n      \"data\": \"0x93f1a40b000000000000000000000000000000000000000000000000000000000000000e0000000000000000000000009fc94f19a42067a4620a9885808aeee8b1b9a444\"\n    },\n    \"0x1587c1f\"\n  ],\n  \"jsonrpc\": \"2.0\",\n  \"id\": 2166019966,\n  \"origin\": \"https://vfat.tools\",\n  \"tabId\": 2\n}",
+  "message": "Non-200 status code: '400'",
   "data": {
-    "request": {
-      "method": "eth_call",
-      "params": [
-        {
-          "to": "0xd3c0466da04c1843a99479a202fa5bf2a2b6f5e0",
-          "data": "0x93f1a40b000000000000000000000000000000000000000000000000000000000000000e0000000000000000000000009fc94f19a42067a4620a9885808aeee8b1b9a444"
-        },
-        "0x1587c1f"
-      ],
-      "jsonrpc": "2.0",
-      "id": 2166019966,
-      "origin": "https://vfat.tools",
-      "tabId": 2
-    }
-  },
-  "stack": "{\n  \"code\": -32603,\n  \"message\": \"JsonRpcEngine: Response has no error or result for request:\\n{\\n  \\\"method\\\": \\\"eth_call\\\",\\n  \\\"params\\\": [\\n    {\\n      \\\"to\\\": \\\"0xd3c0466da04c1843a99479a202fa5bf2a2b6f5e0\\\",\\n      \\\"data\\\": \\\"0x93f1a40b000000000000000000000000000000000000000000000000000000000000000e0000000000000000000000009fc94f19a42067a4620a9885808aeee8b1b9a444\\\"\\n    },\\n    \\\"0x1587c1f\\\"\\n  ],\\n  \\\"jsonrpc\\\": \\\"2.0\\\",\\n  \\\"id\\\": 2166019966,\\n  \\\"origin\\\": \\\"https://vfat.tools\\\",\\n  \\\"tabId\\\": 2\\n}\",\n  \"data\": {\n    \"request\": {\n      \"method\": \"eth_call\",\n      \"params\": [\n        {\n          \"to\": \"0xd3c0466da04c1843a99479a202fa5bf2a2b6f5e0\",\n          \"data\": \"0x93f1a40b000000000000000000000000000000000000000000000000000000000000000e0000000000000000000000009fc94f19a42067a4620a9885808aeee8b1b9a444\"\n        },\n        \"0x1587c1f\"\n      ],\n      \"jsonrpc\": \"2.0\",\n      \"id\": 2166019966,\n      \"origin\": \"https://vfat.tools\",\n      \"tabId\": 2\n    }\n  },\n  \"stack\": \"Error: JsonRpcEngine: Response has no error or result for request:\\n{\\n  \\\"method\\\": \\\"eth_call\\\",\\n  \\\"params\\\": [\\n    {\\n      \\\"to\\\": \\\"0xd3c0466da04c1843a99479a202fa5bf2a2b6f5e0\\\",\\n      \\\"data\\\": \\\"0x93f1a40b000000000000000000000000000000000000000000000000000000000000000e0000000000000000000000009fc94f19a42067a4620a9885808aeee8b1b9a444\\\"\\n    },\\n    \\\"0x1587c1f\\\"\\n  ],\\n  \\\"jsonrpc\\\": \\\"2.0\\\",\\n  \\\"id\\\": 2166019966,\\n  \\\"origin\\\": \\\"https://vfat.tools\\\",\\n  \\\"tabId\\\": 2\\n}\\n    at new o (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/common-1.js:16:24204)\\n    at Function._checkForCompletion (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:305269)\\n    at a._processRequest (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304461)\\n    at async a._handle (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304249)\"\n}\n  at new o (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/common-1.js:16:24204)\n  at Function._checkForCompletion (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:305269)\n  at a._processRequest (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304461)\n  at async a._handle (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304249)"
+    "error": "Unable to verify your data submission."
+  }
 }
 Oops something went wrong. Try refreshing the page.

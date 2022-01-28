@@ -1,0 +1,243 @@
+*************** 👨‍🌾 UNOFFICIAL GREYHOUND.FARM FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://greyhound.farm
+*******************************************************************************************
+
+Thu Jan 27 2022 21:00:14 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 21 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [BUSD]-[GREYHOUND] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $7.17
+BUSD Price: $1.00
+GREYHOUND Price: $0.0000036885
+Staked: 1341.1991 Cake-LP ($5.63)
+GREYHOUND Per Week: 110880.00 ($0.41)
+APR: Day 1.04% Week 7.27% Year 377.99%
+You are staking 0.00 [BUSD]-[GREYHOUND] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUSD]-[GREYHOUND] Cake LP
+Unstake 0.00 [BUSD]-[GREYHOUND] Cake LP
+Claim 0.00 GREYHOUND ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WBNB]-[GREYHOUND] Cake LP [+] [-] [<=>] Price: $0.08 TVL: $5.62
+WBNB Price: $368.71
+GREYHOUND Price: $0.0000036885
+Staked: 46.1452 Cake-LP ($3.72)
+GREYHOUND Per Week: 110880.00 ($0.41)
+APR: Day 1.57% Week 10.98% Year 571.15%
+You are staking 0.00 [WBNB]-[GREYHOUND] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[GREYHOUND] Cake LP
+Unstake 0.00 [WBNB]-[GREYHOUND] Cake LP
+Claim 0.00 GREYHOUND ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.48 TVL: $346,408,999.26
+WBNB Price: $368.71
+BUSD Price: $1.00
+Staked: 8.8050 Cake-LP ($418.06)
+GREYHOUND Per Week: 10080.00 ($0.04)
+APR: Day 0.00% Week 0.01% Year 0.46%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 GREYHOUND ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.10 TVL: $297,266,044.07
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 0.4800 Cake-LP ($1.01)
+GREYHOUND Per Week: 10080.00 ($0.04)
+APR: Day 0.53% Week 3.70% Year 192.15%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 GREYHOUND ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $7,751.23 TVL: $68,778,009.08
+BTCB Price: $36,305.00
+WBNB Price: $368.71
+Staked: 0.0002 Cake-LP ($1.25)
+GREYHOUND Per Week: 10080.00 ($0.04)
+APR: Day 0.43% Week 2.98% Year 154.87%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 GREYHOUND ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,047.02 TVL: $74,577,201.96
+ETH Price: $2,460.47
+WBNB Price: $368.71
+Staked: 0.0000 Cake-LP ($0.08)
+GREYHOUND Per Week: 10080.00 ($0.04)
+APR: Day 6.75% Week 47.24% Year 2456.52%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 GREYHOUND ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [DAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $16,869,174.35
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+GREYHOUND Per Week: 10080.00 ($0.04)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 GREYHOUND ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $131,523,843.03
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+GREYHOUND Per Week: 10080.00 ($0.04)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 GREYHOUND ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [DOT]-[WBNB] Cake LP [+] [-] [<=>] Price: $173.24 TVL: $17,785,221.22
+DOT Price: $18.08
+WBNB Price: $368.71
+Staked: 0.0108 Cake-LP ($1.88)
+GREYHOUND Per Week: 10080.00 ($0.04)
+APR: Day 0.28% Week 1.98% Year 102.89%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 GREYHOUND ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - GREYHOUND Price: $0.0000036885 Market Cap: $37.49 [%]
+Staked: 6408408.9701 GREYHOUND ($23.64)
+GREYHOUND Per Week: 90720.00 ($0.33)
+APR: Day 0.20% Week 1.42% Year 73.61%
+You are staking 0.00 GREYHOUND ($0.00), 0.00% of the pool.
+Stake 0.00 GREYHOUND
+Unstake 0.00 GREYHOUND
+Claim 0.00 GREYHOUND ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - BUSD Price: $1.00 Market Cap: $4,850,999,388.63 [%]
+Staked: 294.6651 BUSD ($294.67)
+GREYHOUND Per Week: 20160.00 ($0.07)
+APR: Day 0.00% Week 0.03% Year 1.31%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 GREYHOUND ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - WBNB Price: $368.71 Market Cap: $1,924,843,199.85 [%]
+Staked: 0.7883 WBNB ($290.67)
+GREYHOUND Per Week: 20160.00 ($0.07)
+APR: Day 0.00% Week 0.03% Year 1.33%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 GREYHOUND ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - USDT Price: $1.00 Market Cap: $3,879,997,922.18 [%]
+Staked: 4.1986 USDT ($4.20)
+GREYHOUND Per Week: 10080.00 ($0.04)
+APR: Day 0.13% Week 0.89% Year 46.05%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 GREYHOUND ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - BTCB Price: $36,305.00 Market Cap: $4,084,348,805.00 [%]
+Staked: 0.0000 BTCB ($0.00)
+GREYHOUND Per Week: 10080.00 ($0.04)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 BTCB ($0.00), NaN% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 GREYHOUND ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - ETH Price: $2,460.47 Market Cap: $3,456,960,350.00 [%]
+Staked: 0.0030 ETH ($7.38)
+GREYHOUND Per Week: 10080.00 ($0.04)
+APR: Day 0.07% Week 0.50% Year 26.19%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 GREYHOUND ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - DAI Price: $1.00 Market Cap: $262,000,000.00 [%]
+Staked: 81.1341 DAI ($81.13)
+GREYHOUND Per Week: 10080.00 ($0.04)
+APR: Day 0.01% Week 0.05% Year 2.38%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 GREYHOUND ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - USDC Price: $1.00 Market Cap: $1,779,000,000.00 [%]
+Staked: 22.3813 USDC ($22.38)
+GREYHOUND Per Week: 10080.00 ($0.04)
+APR: Day 0.02% Week 0.17% Year 8.64%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 GREYHOUND ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - DOT Price: $18.08 Market Cap: $289,279,999.84 [%]
+Staked: 0.0547 DOT ($0.99)
+GREYHOUND Per Week: 10080.00 ($0.04)
+APR: Day 0.54% Week 3.76% Year 195.42%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 GREYHOUND ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - Cake Price: $7.02 Market Cap: $4,317,004,482.53 [%]
+Staked: 0.0641 Cake ($0.45)
+GREYHOUND Per Week: 10080.00 ($0.04)
+APR: Day 1.18% Week 8.26% Year 429.61%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 GREYHOUND ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - AUTO Price: $408.03 Market Cap: $32,902,800.39 [%]
+Staked: 0.1355 AUTO ($55.28)
+GREYHOUND Per Week: 5040.00 ($0.02)
+APR: Day 0.00% Week 0.03% Year 1.75%
+You are staking 0.00 AUTO ($0.00), 0.00% of the pool.
+Stake 0.00 AUTO - Fee 4%
+Unstake 0.00 AUTO
+Claim 0.00 GREYHOUND ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - ADA Price: $1.04 Market Cap: $291,200,000.00 [%]
+Staked: 417.9647 ADA ($434.68)
+GREYHOUND Per Week: 5040.00 ($0.02)
+APR: Day 0.00% Week 0.00% Year 0.22%
+You are staking 0.00 ADA ($0.00), 0.00% of the pool.
+Stake 0.00 ADA - Fee 4%
+Unstake 0.00 ADA
+Claim 0.00 GREYHOUND ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $1,647.10

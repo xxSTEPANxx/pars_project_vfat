@@ -1,0 +1,125 @@
+*************** 👨‍🌾 UNOFFICIAL BADGER FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://app.badger.finance
+***************************************************************************
+
+Please note 50% of your rewards in the Badger geysers are automatically reinvested into your LP stake.
+
+The below APRs do not include underlying rewards such as from curve, sushi or fees. They are only BADGER/DIGG farming APRs.
+
+Thu Jan 27 2022 19:32:50 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Badger/wBTC Sushi-LP - Underlying - Sett - Geyser
+You have 0 SLP
+You have 0 bSLP
+[WBTC]-[BADGER] SLP [+] [-] [<=>] Price: $129,751,713.91 TVL: $12,821,749.21
+WBTC Price: $36,612.00
+BADGER Price: $9.21
+Staked: 0.0000 SLP ($0.00)
+Staked in Geyser: $1,196,621.67
+BADGER Per Week: 4071.63 ($37,499.76)
+APR: Day 0.45% Week 3.13% Year 162.96%
+DIGG Per Week: 0.19 ($5,782.46)
+APR: Day 0.07% Week 0.48% Year 25.13%
+Stake 0.000000000000 SLP
+Unstake 0.000000000000 SLP
+Stake 0.000000000000 bSLP
+Unstake 0.000000000000 bSLP
+Revoke (set approval to 0)
+
+Badger/wBTC Uni-LP - Underlying - Sett - Geyser
+You have 0 UNI-V2
+You have 0 bUNI-V2
+[WBTC]-[BADGER] Uni LP [+] [-] [<=>] Price: $140,399,378.66 TVL: $2,535,611.27
+WBTC Price: $36,612.00
+BADGER Price: $9.21
+Staked: 0.0000 UNI-V2 ($0.00)
+Staked in Geyser: $1,810,789.04
+BADGER Per Week: 4071.63 ($37,499.76)
+APR: Day 0.30% Week 2.07% Year 107.69%
+DIGG Per Week: 0.19 ($5,782.46)
+APR: Day 0.05% Week 0.32% Year 16.61%
+Stake 0.000000000000 UNI-V2
+Unstake 0.000000000000 UNI-V2
+Stake 0.000000000000 bUNI-V2
+Unstake 0.000000000000 bUNI-V2
+Revoke (set approval to 0)
+
+DIGG/wBTC Uni-LP - Underlying - Sett - Geyser
+You have 0 UNI-V2
+You have 0 bUNI-V2
+[WBTC]-[DIGG] Uni LP [+] [-] [<=>] Price: $82,583,612,477,122.91 TVL: $431,924.56
+WBTC Price: $36,612.00
+DIGG Price: $30,513.00
+Staked: 0.0000 UNI-V2 ($0.00)
+Staked in Geyser: $355,898.12
+DIGG Per Week: 1.26 ($38,464.29)
+APR: Day 1.54% Week 10.81% Year 562.00%
+Stake 0.000000000000 UNI-V2
+Unstake 0.000000000000 UNI-V2
+Stake 0.000000000000 bUNI-V2
+Unstake 0.000000000000 bUNI-V2
+Revoke (set approval to 0)
+
+DIGG/wBTC Sushi-LP - Underlying - Sett - Geyser
+You have 0 SLP
+You have 0 bSLP
+[WBTC]-[DIGG] SLP [+] [-] [<=>] Price: $71,014,357,296,877.69 TVL: $10,929,330.07
+WBTC Price: $36,612.00
+DIGG Price: $30,513.00
+Staked: 0.0000 SLP ($0.00)
+Staked in Geyser: $473,346.80
+DIGG Per Week: 1.26 ($38,464.29)
+APR: Day 1.16% Week 8.13% Year 422.55%
+Stake 0.000000000000 SLP
+Unstake 0.000000000000 SLP
+Stake 0.000000000000 bSLP
+Unstake 0.000000000000 bSLP
+Revoke (set approval to 0)
+
+Badger - Underlying - Sett - Geyser
+You have 0 BADGER
+You have 0 bBADGER
+BADGER Price: $9.21 Market Cap: $193,410,000.00 [%]
+Staked: 0.0000 BADGER ($0.00)
+Staked in Geyser: $3,319,069.13
+BADGER Per Week: 2035.82 ($18,749.90)
+APR: Day 0.08% Week 0.56% Year 29.38%
+DIGG Per Week: 0.09 ($2,893.22)
+APR: Day 0.01% Week 0.09% Year 4.53%
+Stake 0.000000000000 BADGER
+Unstake 0.000000000000 BADGER
+Stake 0.000000000000 bBADGER
+Unstake 0.000000000000 bBADGER
+Revoke (set approval to 0)
+
+DIGG - Underlying - Sett
+You have 0 DIGG
+You have 0 bDIGG
+DIGG Price: $30,513.00 Market Cap: $15,896,799.68 [%]
+Staked: 245.7817 DIGG ($7,499,536.10)
+Stake 0.000000000000 DIGG
+Unstake 0.000000000000 DIGG
+
+ETH/wBTC Sushi-LP - Underlying - Sett - Geyser
+You have 0 SLP
+You have 0 bSLP
+[WBTC]-[WETH] SLP [+] [-] [<=>] Price: $46,318,094,406.10 TVL: $85,427,550.24
+WBTC Price: $36,612.00
+WETH Price: $2,425.22
+Staked: 0.0000 SLP ($0.00)
+Staked in Geyser: $11,181,917.10
+BADGER Per Week: 6368.46 ($58,653.52)
+APR: Day 0.07% Week 0.52% Year 27.28%
+DIGG Per Week: 0.15 ($4,522.64)
+APR: Day 0.01% Week 0.04% Year 2.10%
+Stake 0.000000000000 SLP
+Unstake 0.000000000000 SLP
+Stake 0.000000000000 bSLP
+Unstake 0.000000000000 bSLP
+Revoke (set approval to 0)
+
+curve.fi / renBTC - Underlying - Sett - Geyser

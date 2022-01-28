@@ -1,0 +1,39 @@
+*************** 👨‍🌾 UNOFFICIAL ARBIS.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://arbis.finance
+**********************************************************************************
+
+Thu Jan 27 2022 21:49:46 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+NYAN-SHARES (Wrapped NYAN) Price: $0.19 TVL: $131,843.91
+Total Staked: 703612.6392 NYAN Stake Shares (4131943.4882 NYAN-SHARES (Wrapped NYAN)), $774,249.30
+You are staking 0.0000 NYAN-SHARES (Wrapped NYAN) ($0.00), 0.00% of the pool.
+
+NYAN/ETH-SHARES (Wrapped [WETH]-[NYAN] SLP) Price: $49.82 TVL: $74,474.33
+Total Staked: 582.1994 NYAN/ETH ARBI Shares (1494.8685 NYAN/ETH-SHARES (Wrapped [WETH]-[NYAN] SLP)), $74,474.33
+You are staking 0.0000 NYAN/ETH-SHARES (Wrapped [WETH]-[NYAN] SLP) ($0.00), 0.00% of the pool.
+
+SWPR/ETH-SHARES (Wrapped [WETH]-[SWPR] Uni LP) Price: $19.85 TVL: $46.63
+Total Staked: 2.1820 Arbi's SWPR/ETH LP Farm Shares (2.3486 SWPR/ETH-SHARES (Wrapped [WETH]-[SWPR] Uni LP)), $46.63
+You are staking 0.0000 SWPR/ETH-SHARES (Wrapped [WETH]-[SWPR] Uni LP) ($0.00), 0.00% of the pool.
+
+MAGIC/USDC-SHARES (Wrapped [MAGIC]-[USDC] SLP) Price: $755,552.44 TVL: $0.00
+Total Staked: 0.0000 MAGIC/USDC ARBI Shares (0.0000 MAGIC/USDC-SHARES (Wrapped [MAGIC]-[USDC] SLP)), $0.00
+You are staking 0.0000 MAGIC/USDC-SHARES (Wrapped [MAGIC]-[USDC] SLP) ($0.00), 0.00% of the pool.
+
+USDC/ETH-SHARES (Wrapped [WETH]-[USDC] SLP) Price: $119,525,441.74 TVL: $2,713.00
+Total Staked: 0.0000 Arbi's Sushi USDC/ETH LP Farm Shares (0.0000 USDC/ETH-SHARES (Wrapped [WETH]-[USDC] SLP)), $2,713.00
+You are staking 0.0000 USDC/ETH-SHARES (Wrapped [WETH]-[USDC] SLP) ($0.00), 0.00% of the pool.
+
+MIM/ETH-SHARES-2 (Wrapped [WETH]-[MIM] SLP) Price: $115.93 TVL: $7,600.26
+Total Staked: 57.5172 Arbis Sushi MIM/ETH LP Farm Shares 2 (65.5598 MIM/ETH-SHARES-2 (Wrapped [WETH]-[MIM] SLP)), $7,600.26
+You are staking 0.0000 MIM/ETH-SHARES-2 (Wrapped [WETH]-[MIM] SLP) ($0.00), 0.00% of the pool.
+
+SPELL/ETH-SHARES (Wrapped [SPELL]-[WETH] SLP) Price: $99.53 TVL: $3,417,787.55
+Total Staked: 2614.3136 rbis SPELL/ETH Sushi LP Shares (34337.5528 SPELL/ETH-SHARES (Wrapped [SPELL]-[WETH] SLP)), $3,417,787.55
+You are staking 0.0000 SPELL/ETH-SHARES (Wrapped [SPELL]-[WETH] SLP) ($0.00), 0.00% of the pool.
+
+Total Value Locked: $3,634,465.68

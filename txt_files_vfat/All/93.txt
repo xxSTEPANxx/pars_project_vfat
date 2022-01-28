@@ -1,0 +1,63 @@
+*************** 👨‍🌾 UNOFFICIAL CRYPTEX.FINANCE FARMING CALCULATOR 👨‍🌾 ************
+INFO  : https://app.cryptex.finance
+*********************************************************************************
+
+Thu Jan 27 2022 19:49:49 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+[TCAP]-[WETH] SLP [+] [-] [<=>] Price: $1,461.13 TVL: $6,417,527.35
+TCAP Price: $203.49
+WETH Price: $2,482.54
+Staked: 4391.3418 SLP ($6,416,313.93)
+CTX Per Week: 3767.34 ($33,378.64)
+APR: Day 0.07% Week 0.52% Year 27.05%
+You are staking 0.000000 [TCAP]-[WETH] SLP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [TCAP]-[WETH] SLP
+Unstake 0.000000 [TCAP]-[WETH] SLP
+Claim 0.000000 CTX ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[CTX]-[WETH] SLP [+] [-] [<=>] Price: $333.79 TVL: $1,293,101.52
+CTX Price: $8.86
+WETH Price: $2,482.54
+Staked: 3749.8639 SLP ($1,251,654.15)
+CTX Per Week: 3820.80 ($33,852.33)
+APR: Day 0.39% Week 2.70% Year 140.64%
+You are staking 0.000000 [CTX]-[WETH] SLP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [CTX]-[WETH] SLP
+Unstake 0.000000 [CTX]-[WETH] SLP
+Claim 0.000000 CTX ($0.00)
+Revoke (set approval to 0)
+Exit
+
+WETH Price: $2,482.54 Market Cap: $20,089,550,329.34 [%]
+Staked: 3171.8926 WETH ($7,874,350.24)
+CTX Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 WETH $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 WETH
+Unstake 0.000000 WETH
+Claim 0.000000 CTX ($0.00)
+Revoke (set approval to 0)
+Exit
+
+DAI Price: $1.00 Market Cap: $9,185,981,024.56 [%]
+Staked: 32456.0857 DAI ($32,452.94)
+CTX Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 DAI $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 DAI
+Unstake 0.000000 DAI
+Claim 0.000000 CTX ($0.00)
+Revoke (set approval to 0)
+Exit
+
+Total staked: $15,574,771.26

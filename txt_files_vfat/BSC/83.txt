@@ -1,0 +1,27 @@
+*************** 👨‍🌾 UNOFFICIAL POLIS FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://farms.polispay.org
+**************************************************************************
+
+Thu Jan 27 2022 20:29:39 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 2 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+1 - [DAI]-[POLIS] Cake LP [+] [-] [<=>] Price: $1.19 TVL: $667,170.35
+DAI Price: $1.00
+POLIS Price: $0.35
+Staked: 559795.6383 Cake-LP ($667,025.63)
+POLIS Per Week: 25804.80 ($9,123.26)
+APR: Day 0.20% Week 1.37% Year 71.12%
+You are staking 0.00 [DAI]-[POLIS] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[POLIS] Cake LP
+Unstake 0.00 [DAI]-[POLIS] Cake LP
+Claim 0.00 POLIS ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $667,025.63

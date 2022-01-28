@@ -1,0 +1,273 @@
+*************** 👨‍🌾 UNOFFICIAL SKUNKSWAP.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://skunkswap.finance
+*******************************************************************************************
+
+Thu Jan 27 2022 21:10:53 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 25 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [SKUNK]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $26.51
+SKUNK Price: $0.0000003779
+BUSD Price: $1.00
+Staked: 18411.8993 Cake-LP ($24.49)
+SKUNK Per Week: 2407164.18 ($0.91)
+APR: Day 0.53% Week 3.71% Year 193.12%
+You are staking 0.00 [SKUNK]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SKUNK]-[BUSD] Cake LP
+Unstake 0.00 [SKUNK]-[BUSD] Cake LP
+Claim 0.00 SKUNK ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WBNB]-[SKUNK] Cake LP [+] [-] [<=>] Price: $0.03 TVL: $18.37
+WBNB Price: $369.13
+SKUNK Price: $0.0000003779
+Staked: 427.1998 Cake-LP ($10.90)
+SKUNK Per Week: 2407164.18 ($0.91)
+APR: Day 1.19% Week 8.34% Year 433.92%
+You are staking 0.00 [WBNB]-[SKUNK] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[SKUNK] Cake LP
+Unstake 0.00 [WBNB]-[SKUNK] Cake LP
+Claim 0.00 SKUNK ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.44 TVL: $346,149,898.75
+WBNB Price: $369.13
+BUSD Price: $1.00
+Staked: 243.4655 Cake-LP ($11,551.17)
+SKUNK Per Week: 150447.76 ($0.06)
+APR: Day 0.00% Week 0.00% Year 0.03%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 1.99%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 SKUNK ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $296,872,309.26
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 71.4599 Cake-LP ($149.59)
+SKUNK Per Week: 150447.76 ($0.06)
+APR: Day 0.01% Week 0.04% Year 1.98%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 1.99%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 SKUNK ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $7,746.14 TVL: $68,500,669.93
+BTCB Price: $36,216.00
+WBNB Price: $369.13
+Staked: 0.0487 Cake-LP ($377.19)
+SKUNK Per Week: 150447.76 ($0.06)
+APR: Day 0.00% Week 0.02% Year 0.78%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 1.99%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 SKUNK ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,041.52 TVL: $74,376,905.06
+ETH Price: $2,444.50
+WBNB Price: $369.13
+Staked: 0.0001 Cake-LP ($0.25)
+SKUNK Per Week: 150447.76 ($0.06)
+APR: Day 3.23% Week 22.62% Year 1176.46%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 1.99%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 SKUNK ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [DAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.08 TVL: $16,846,768.97
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+SKUNK Per Week: 150447.76 ($0.06)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 1.99%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 SKUNK ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $131,277,386.65
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 99.8504 Cake-LP ($208.39)
+SKUNK Per Week: 150447.76 ($0.06)
+APR: Day 0.00% Week 0.03% Year 1.42%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 1.99%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 SKUNK ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [DOT]-[WBNB] Cake LP [+] [-] [<=>] Price: $172.96 TVL: $17,755,878.07
+DOT Price: $18.00
+WBNB Price: $369.13
+Staked: 0.0000 Cake-LP ($0.00)
+SKUNK Per Week: 150447.76 ($0.06)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 1.99%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 SKUNK ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - SKUNK Price: $0.0000003779 Market Cap: $95.00 [%]
+Staked: 144937710.9585 SKUNK ($54.77)
+SKUNK Per Week: 1805373.13 ($0.68)
+APR: Day 0.18% Week 1.25% Year 64.77%
+You are staking 0.00 SKUNK ($0.00), 0.00% of the pool.
+Stake 0.00 SKUNK
+Unstake 0.00 SKUNK
+Claim 0.00 SKUNK ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - BUSD Price: $1.00 Market Cap: $4,838,153,942.25 [%]
+Staked: 969.8966 BUSD ($967.33)
+SKUNK Per Week: 300895.52 ($0.11)
+APR: Day 0.00% Week 0.01% Year 0.61%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 1.99%
+Unstake 0.00 BUSD
+Claim 0.00 SKUNK ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - WBNB Price: $369.13 Market Cap: $1,926,931,961.44 [%]
+Staked: 0.0550 WBNB ($20.30)
+SKUNK Per Week: 300895.52 ($0.11)
+APR: Day 0.08% Week 0.56% Year 29.13%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 1.99%
+Unstake 0.00 WBNB
+Claim 0.00 SKUNK ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - USDT Price: $1.00 Market Cap: $3,879,997,922.18 [%]
+Staked: 1278.0851 USDT ($1,278.09)
+SKUNK Per Week: 150447.76 ($0.06)
+APR: Day 0.00% Week 0.00% Year 0.23%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 1.99%
+Unstake 0.00 USDT
+Claim 0.00 SKUNK ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - BTCB Price: $36,216.00 Market Cap: $4,074,336,216.00 [%]
+Staked: 0.0000 BTCB ($1.04)
+SKUNK Per Week: 150447.76 ($0.06)
+APR: Day 0.78% Week 5.45% Year 283.36%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 1.99%
+Unstake 0.00 BTCB
+Claim 0.00 SKUNK ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - ETH Price: $2,444.50 Market Cap: $3,434,522,500.00 [%]
+Staked: 0.0000 ETH ($0.00)
+SKUNK Per Week: 150447.76 ($0.06)
+APR: Day 6287.77% Week 44014.40% Year 2288748.84%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 1.99%
+Unstake 0.00 ETH
+Claim 0.00 SKUNK ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - DAI Price: $1.00 Market Cap: $261,996,594.00 [%]
+Staked: 1.9602 DAI ($1.96)
+SKUNK Per Week: 150447.76 ($0.06)
+APR: Day 0.41% Week 2.90% Year 150.82%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 1.99%
+Unstake 0.00 DAI
+Claim 0.00 SKUNK ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - USDC Price: $1.00 Market Cap: $1,777,043,100.00 [%]
+Staked: 20.0000 USDC ($19.98)
+SKUNK Per Week: 150447.76 ($0.06)
+APR: Day 0.04% Week 0.28% Year 14.80%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 1.99%
+Unstake 0.00 USDC
+Claim 0.00 SKUNK ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - DOT Price: $18.00 Market Cap: $287,999,999.84 [%]
+Staked: 0.0000 DOT ($0.00)
+SKUNK Per Week: 150447.76 ($0.06)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 DOT ($0.00), NaN% of the pool.
+Stake 0.00 DOT - Fee 1.99%
+Unstake 0.00 DOT
+Claim 0.00 SKUNK ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - Cake Price: $6.95 Market Cap: $4,273,980,524.53 [%]
+Staked: 2.1821 Cake ($15.17)
+SKUNK Per Week: 150447.76 ($0.06)
+APR: Day 0.05% Week 0.37% Year 19.49%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 1.99%
+Unstake 0.00 Cake
+Claim 0.00 SKUNK ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - AUTO Price: $406.58 Market Cap: $32,785,875.02 [%]
+Staked: 0.0018 AUTO ($0.75)
+SKUNK Per Week: 150447.76 ($0.06)
+APR: Day 1.08% Week 7.59% Year 394.72%
+You are staking 0.00 AUTO ($0.00), 0.00% of the pool.
+Stake 0.00 AUTO - Fee 1.99%
+Unstake 0.00 AUTO
+Claim 0.00 SKUNK ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - ADA Price: $1.03 Market Cap: $288,400,000.00 [%]
+Staked: 0.0000 ADA ($0.00)
+SKUNK Per Week: 150447.76 ($0.06)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 ADA ($0.00), NaN% of the pool.
+Stake 0.00 ADA - Fee 1.99%
+Unstake 0.00 ADA
+Claim 0.00 SKUNK ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - LTC Price: $106.33 Market Cap: $66,456,250.00 [%]
+Staked: 0.0000 LTC ($0.00)
+SKUNK Per Week: 150447.76 ($0.06)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 LTC ($0.00), NaN% of the pool.
+Stake 0.00 LTC - Fee 1.99%
+Unstake 0.00 LTC
+Claim 0.00 SKUNK ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - XRP Price: $0.60 Market Cap: $167,062,578.00 [%]
+Staked: 2.4688 XRP ($1.49)
+SKUNK Per Week: 150447.76 ($0.06)
+APR: Day 0.55% Week 3.82% Year 198.55%
+You are staking 0.00 XRP ($0.00), 0.00% of the pool.
+Stake 0.00 XRP - Fee 1.99%
+Unstake 0.00 XRP
+Claim 0.00 SKUNK ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - DOGE Price: $0.14 Market Cap: $281,908,000.00 [%]
+Staked: 0.0000 DOGE ($0.00)
+SKUNK Per Week: 150447.76 ($0.06)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 DOGE ($0.00), NaN% of the pool.
+Stake 0.00 DOGE - Fee 1.99%
+Unstake 0.00 DOGE
+Claim 0.00 SKUNK ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $14,682.85

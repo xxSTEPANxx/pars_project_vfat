@@ -1,0 +1,147 @@
+*************** 👨‍🌾 UNOFFICIAL SPACE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://farm.space
+**************************************************************************
+
+Thu Jan 27 2022 20:10:54 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 14 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [SPACEX]-[WBNB] APE LP [+] [-] [<=>] Price: $3.93 TVL: $27,566.56
+SPACEX Price: $0.009866
+WBNB Price: $373.11
+Staked: 6971.4183 APE-LP ($27,366.47)
+SPACEX Per Week: 88615.38 ($874.29)
+APR: Day 0.46% Week 3.19% Year 166.13%
+You are staking 0.00 [SPACEX]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SPACEX]-[WBNB] APE LP
+Unstake 0.00 [SPACEX]-[WBNB] APE LP - Fee 0.5%
+Claim 0.00 SPACEX ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - SPACEX Price: $0.009866 Market Cap: $47,732.24 [%]
+Staked: 3001586.7910 SPACEX ($29,613.93)
+SPACEX Per Week: 33230.77 ($327.86)
+APR: Day 0.16% Week 1.11% Year 57.57%
+You are staking 0.00 SPACEX ($0.00), 0.00% of the pool.
+Stake 0.00 SPACEX
+Unstake 0.00 SPACEX - Fee 0.5%
+Claim 0.00 SPACEX ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - WBNB Price: $373.11 Market Cap: $1,947,455,132.16 [%]
+Staked: 38.9089 WBNB ($14,517.32)
+SPACEX Per Week: 11076.92 ($109.29)
+APR: Day 0.11% Week 0.75% Year 39.15%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 1.75%
+Unstake 0.00 WBNB
+Claim 0.00 SPACEX ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - BUSD Price: $1.00 Market Cap: $4,850,999,388.63 [%]
+Staked: 38229.5969 BUSD ($38,229.60)
+SPACEX Per Week: 8861.54 ($87.43)
+APR: Day 0.03% Week 0.23% Year 11.89%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 1.75%
+Unstake 0.00 BUSD
+Claim 0.00 SPACEX ($0.00) + 0.00 WBNB ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - ETH Price: $2,482.53 Market Cap: $3,487,954,650.00 [%]
+Staked: 15.0432 ETH ($37,345.11)
+SPACEX Per Week: 6646.15 ($65.57)
+APR: Day 0.03% Week 0.18% Year 9.13%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 1.75%
+Unstake 0.00 ETH
+Claim 0.00 SPACEX ($0.00) + 0.00 WBNB ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - BTCB Price: $36,685.00 Market Cap: $4,127,099,185.00 [%]
+Staked: 2.7266 BTCB ($100,026.65)
+SPACEX Per Week: 6646.15 ($65.57)
+APR: Day 0.01% Week 0.07% Year 3.41%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 1.75%
+Unstake 0.00 BTCB
+Claim 0.00 SPACEX ($0.00) + 0.00 WBNB ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - USDC Price: $1.00 Market Cap: $1,779,000,000.00 [%]
+Staked: 26771.8286 USDC ($26,771.83)
+SPACEX Per Week: 6646.15 ($65.57)
+APR: Day 0.03% Week 0.24% Year 12.74%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 1.75%
+Unstake 0.00 USDC
+Claim 0.00 SPACEX ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - USDT Price: $1.00 Market Cap: $3,879,997,922.18 [%]
+Staked: 27089.9396 USDT ($27,089.94)
+SPACEX Per Week: 6646.15 ($65.57)
+APR: Day 0.03% Week 0.24% Year 12.59%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 1.75%
+Unstake 0.00 USDT
+Claim 0.00 SPACEX ($0.00) + 0.00 WBNB ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - DAI Price: $1.00 Market Cap: $262,000,000.00 [%]
+Staked: 20103.5624 DAI ($20,103.56)
+SPACEX Per Week: 6646.15 ($65.57)
+APR: Day 0.05% Week 0.33% Year 16.96%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 1.75%
+Unstake 0.00 DAI
+Claim 0.00 SPACEX ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - BANANA Price: $0.62 Market Cap: $69,870,047.35 [%]
+Staked: 4280.4433 BANANA ($2,664.37)
+SPACEX Per Week: 6646.15 ($65.57)
+APR: Day 0.35% Week 2.46% Year 127.97%
+You are staking 0.00 BANANA ($0.00), 0.00% of the pool.
+Stake 0.00 BANANA - Fee 1.75%
+Unstake 0.00 BANANA
+Claim 0.00 SPACEX ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - LINK Price: $15.47 Market Cap: $133,042,000.00 [%]
+Staked: 648.8164 LINK ($10,037.19)
+SPACEX Per Week: 6646.15 ($65.57)
+APR: Day 0.09% Week 0.65% Year 33.97%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 1.75%
+Unstake 0.00 LINK
+Claim 0.00 SPACEX ($0.00) + 0.00 WBNB ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - DOT Price: $18.11 Market Cap: $289,759,999.84 [%]
+Staked: 925.6398 DOT ($16,763.34)
+SPACEX Per Week: 6646.15 ($65.57)
+APR: Day 0.06% Week 0.39% Year 20.34%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 1.75%
+Unstake 0.00 DOT
+Claim 0.00 SPACEX ($0.00) + 0.00 WBNB ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - Cake Price: $7.26 Market Cap: $4,464,497,394.48 [%]
+Staked: 543.8571 Cake ($3,948.40)
+SPACEX Per Week: 6646.15 ($65.57)
+APR: Day 0.24% Week 1.66% Year 86.36%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 1.75%
+Unstake 0.00 Cake
+Claim 0.00 SPACEX ($0.00) + 0.00 WBNB ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $354,477.71

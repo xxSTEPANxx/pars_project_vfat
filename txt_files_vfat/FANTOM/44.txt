@@ -1,0 +1,87 @@
+*************** 👨‍🌾 UNOFFICIAL ZOOCOIN FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://dex.zoocoin.cash
+*****************************************************************************
+
+Fri Jan 28 2022 00:41:40 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 9 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [WFTM]-[WILD] ZooDex LP [+] [-] [<=>] Price: $0.69 TVL: $1,093,834.38
+WFTM Price: $2.02
+WILD Price: $0.06
+Staked: 1119958.2684 ZDEXLP ($767,591.57)
+WILD Per Week: 391879.05 ($22,569.68)
+APR: Day 0.42% Week 2.94% Year 152.90%
+You are staking 0.00 [WFTM]-[WILD] ZooDex LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[WILD] ZooDex LP
+Unstake 0.00 [WFTM]-[WILD] ZooDex LP
+Claim 0.00 WILD ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [USDC]-[WFTM] ZooDex LP [+] [-] [<=>] Price: $3,120,782.44 TVL: $111,827.77
+USDC Price: $1.00
+WFTM Price: $2.02
+Staked: 0.0357 ZDEXLP ($111,503.65)
+WILD Per Week: 36575.38 ($2,106.50)
+APR: Day 0.27% Week 1.89% Year 98.24%
+You are staking 0.00 [USDC]-[WFTM] ZooDex LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WFTM] ZooDex LP
+Unstake 0.00 [USDC]-[WFTM] ZooDex LP
+Claim 0.00 WILD ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [fUSDT]-[WFTM] ZooDex LP [+] [-] [<=>] Price: $3,043,486.30 TVL: $51,658.70
+fUSDT Price: $1.00
+WFTM Price: $2.02
+Staked: 0.0169 ZDEXLP ($51,387.94)
+WILD Per Week: 26125.27 ($1,504.65)
+APR: Day 0.42% Week 2.93% Year 152.26%
+You are staking 0.00 [fUSDT]-[WFTM] ZooDex LP ($0.00), 0.00% of the pool.
+Stake 0.00 [fUSDT]-[WFTM] ZooDex LP
+Unstake 0.00 [fUSDT]-[WFTM] ZooDex LP
+Claim 0.00 WILD ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WFTM]-[ETH] ZooDex LP [+] [-] [<=>] Price: $141.99 TVL: $355,993.42
+WFTM Price: $2.02
+ETH Price: $2,318.39
+Staked: 2504.2222 ZDEXLP ($355,568.92)
+WILD Per Week: 78375.81 ($4,513.94)
+APR: Day 0.18% Week 1.27% Year 66.01%
+You are staking 0.00 [WFTM]-[ETH] ZooDex LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ETH] ZooDex LP
+Unstake 0.00 [WFTM]-[ETH] ZooDex LP
+Claim 0.00 WILD ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [ZOO]-[WFTM] ZooDex LP [+] [-] [<=>] Price: $370,089,441.37 TVL: $2,402,732.50
+ZOO Price: $0.02
+WFTM Price: $2.02
+Staked: 0.0018 ZDEXLP ($666,269.98)
+WILD Per Week: 32656.59 ($1,880.81)
+APR: Day 0.04% Week 0.28% Year 14.68%
+You are staking 0.00 [ZOO]-[WFTM] ZooDex LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ZOO]-[WFTM] ZooDex LP
+Unstake 0.00 [ZOO]-[WFTM] ZooDex LP
+Claim 0.00 WILD ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [ZOO]-[TOMB] ZooDex LP [+] [-] [<=>] Price: $2,136,372,843.38 TVL: $973,846.27
+ZOO Price: $0.02
+TOMB Price: $2.00
+Staked: 0.0005 ZDEXLP ($972,866.37)
+WILD Per Week: 39187.90 ($2,256.97)
+APR: Day 0.03% Week 0.23% Year 12.06%
+You are staking 0.00 [ZOO]-[TOMB] ZooDex LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ZOO]-[TOMB] ZooDex LP
+Unstake 0.00 [ZOO]-[TOMB] ZooDex LP
+Claim 0.00 WILD ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $2,925,188.43

@@ -6,159 +6,17 @@ INFO  : https://app.polyyeld.finance
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Thu Dec 16 2021 05:21:32 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 23:33:49 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
-Found 15 pools.
-Showing incentivized pools only.
-Finished reading smart contracts.
-0 - YELD V2 Price: $0.77 Market Cap: $57,667.19 [%]
-Staked: 16697.9381 YELD V2 ($12,844.37)
-YELD V2 Per Week: 532.02 ($409.24)
-APR: Day 0.46% Week 3.19% Year 165.68%
-You are staking 0.00 YELD V2 ($0.00), 0.00% of the pool.
-Stake 0.00 YELD V2
-Unstake 0.00 YELD V2
-Claim 0.00 YELD V2 ($0.00)
-Staking or unstaking also claims rewards.
-
-1 - WMATIC Price: $2.16 Market Cap: $657,718,012.90 [%]
-Staked: 12089.9688 WMATIC ($26,114.33)
-YELD V2 Per Week: 148.97 ($114.59)
-APR: Day 0.06% Week 0.44% Year 22.82%
-You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
-Stake 0.00 WMATIC - Fee 4%
-Unstake 0.00 WMATIC
-Claim 0.00 YELD V2 ($0.00)
-Staking or unstaking also claims rewards.
-
-2 - WBTC Price: $49,062.00 Market Cap: $497,630,071.88 [%]
-Staked: 0.8023 WBTC ($39,364.13)
-YELD V2 Per Week: 148.97 ($114.59)
-APR: Day 0.04% Week 0.29% Year 15.14%
-You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
-Stake 0.00 WBTC - Fee 4%
-Unstake 0.00 WBTC
-Claim 0.00 YELD V2 ($0.00)
-Staking or unstaking also claims rewards.
-
-3 - WETH Price: $4,047.26 Market Cap: $1,796,328,512.50 [%]
-Staked: 3.8759 WETH ($15,686.70)
-YELD V2 Per Week: 148.97 ($114.59)
-APR: Day 0.10% Week 0.73% Year 37.98%
-You are staking 0.00 WETH ($0.00), 0.00% of the pool.
-Stake 0.00 WETH - Fee 4%
-Unstake 0.00 WETH
-Claim 0.00 YELD V2 ($0.00)
-Staking or unstaking also claims rewards.
-
-4 - USDT Price: $1.00 Market Cap: $313,439,913.37 [%]
-Staked: 8226.1707 USDT ($8,226.17)
-YELD V2 Per Week: 106.40 ($81.85)
-APR: Day 0.14% Week 0.99% Year 51.74%
-You are staking 0.00 USDT ($0.00), 0.00% of the pool.
-Stake 0.00 USDT - Fee 4%
-Unstake 0.00 USDT
-Claim 0.00 YELD V2 ($0.00)
-Staking or unstaking also claims rewards.
-
-5 - USDC Price: $1.00 Market Cap: $943,569,936.81 [%]
-Staked: 2625.6419 USDC ($2,625.64)
-YELD V2 Per Week: 106.40 ($81.85)
-APR: Day 0.45% Week 3.12% Year 162.10%
-You are staking 0.00 USDC ($0.00), 0.00% of the pool.
-Stake 0.00 USDC - Fee 4%
-Unstake 0.00 USDC
-Claim 0.00 YELD V2 ($0.00)
-Staking or unstaking also claims rewards.
-
-6 - DAI Price: $1.00 Market Cap: $374,104,453.43 [%]
-Staked: 21406.1888 DAI ($21,406.19)
-YELD V2 Per Week: 106.40 ($81.85)
-APR: Day 0.05% Week 0.38% Year 19.88%
-You are staking 0.00 DAI ($0.00), 0.00% of the pool.
-Stake 0.00 DAI - Fee 4%
-Unstake 0.00 DAI
-Claim 0.00 YELD V2 ($0.00)
-Staking or unstaking also claims rewards.
-
-7 - PolyDoge Price: $0.0000000239 Market Cap: $23,897,000.00 [%]
-Staked: 598797772857.7538 PolyDoge ($14,309.47)
-YELD V2 Per Week: 106.40 ($81.85)
-APR: Day 0.08% Week 0.57% Year 29.74%
-You are staking 0.00 PolyDoge ($0.00), 0.00% of the pool.
-Stake 0.00 PolyDoge - Fee 4%
-Unstake 0.00 PolyDoge
-Claim 0.00 YELD V2 ($0.00)
-Staking or unstaking also claims rewards.
-
-8 - ICE Price: $0.00 Market Cap: $0.00 
-Staked: 1112616.2812 ICE ($0.00)
-YELD V2 Per Week: 148.97 ($114.59)
-APR: Day NaN% Week NaN% Year NaN%
-You are staking 0.00 ICE ($0.00), NaN% of the pool.
-Stake 0.00 ICE - Fee 4%
-Unstake 0.00 ICE
-Claim 0.00 YELD V2 ($0.00)
-Staking or unstaking also claims rewards.
-
-10 - [WMATIC]-[YELD V2] APE LP [+] [-] [<=>] Price: $2.65 TVL: $11,760.30
-WMATIC Price: $2.16
-YELD V2 Price: $0.77
-Staked: 4074.1184 APE-LP ($10,798.68)
-YELD V2 Per Week: 851.23 ($654.78)
-APR: Day 0.87% Week 6.06% Year 315.30%
-You are staking 0.00 [WMATIC]-[YELD V2] APE LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[YELD V2] APE LP
-Unstake 0.00 [WMATIC]-[YELD V2] APE LP
-Claim 0.00 YELD V2 ($0.00)
-Staking or unstaking also claims rewards.
-
-11 - [YELD V2]-[USDC] APE LP [+] [-] [<=>] Price: $1,804,559.13 TVL: $12,536.32
-YELD V2 Price: $0.77
-USDC Price: $1.00
-Staked: 0.0063 APE-LP ($11,430.88)
-YELD V2 Per Week: 851.23 ($654.78)
-APR: Day 0.82% Week 5.73% Year 297.87%
-You are staking 0.00 [YELD V2]-[USDC] APE LP ($0.00), 0.00% of the pool.
-Stake 0.00 [YELD V2]-[USDC] APE LP
-Unstake 0.00 [YELD V2]-[USDC] APE LP
-Claim 0.00 YELD V2 ($0.00)
-Staking or unstaking also claims rewards.
-
-12 - [WMATIC]-[YELD V2] SLP [+] [-] [<=>] Price: $2.88 TVL: $11,703.20
-WMATIC Price: $2.16
-YELD V2 Price: $0.77
-Staked: 3589.5184 SLP ($10,330.21)
-YELD V2 Per Week: 851.23 ($654.78)
-APR: Day 0.91% Week 6.34% Year 329.60%
-You are staking 0.00 [WMATIC]-[YELD V2] SLP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[YELD V2] SLP
-Unstake 0.00 [WMATIC]-[YELD V2] SLP
-Claim 0.00 YELD V2 ($0.00)
-Staking or unstaking also claims rewards.
-
-13 - LINK Price: $19.99 Market Cap: $34,670,719.98 [%]
-Staked: 455.5999 LINK ($9,107.44)
-YELD V2 Per Week: 106.40 ($81.85)
-APR: Day 0.13% Week 0.90% Year 46.73%
-You are staking 0.00 LINK ($0.00), 0.00% of the pool.
-Stake 0.00 LINK - Fee 4%
-Unstake 0.00 LINK
-Claim 0.00 YELD V2 ($0.00)
-Staking or unstaking also claims rewards.
-
-14 - BANANA Price: $0.00 Market Cap: $0.00 
-Staked: 1097.9955 BANANA ($0.00)
-YELD V2 Per Week: 106.40 ($81.85)
-APR: Day NaN% Week NaN% Year NaN%
-You are staking 0.00 BANANA ($0.00), NaN% of the pool.
-Stake 0.00 BANANA - Fee 4%
-Unstake 0.00 BANANA
-Claim 0.00 YELD V2 ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $182,244.21
+{
+  "code": -32603,
+  "message": "Non-200 status code: '400'",
+  "data": {
+    "error": "Unable to verify your data submission."
+  }
+}
+Oops something went wrong. Try refreshing the page.

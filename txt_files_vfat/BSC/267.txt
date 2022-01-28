@@ -1,0 +1,39 @@
+*************** 👨‍🌾 UNOFFICIAL FLUITY.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://fluity.finance
+***********************************************************************************
+
+There is a withdraw penalty in some cases, please check the site
+
+Thu Jan 27 2022 21:03:51 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+[FLTY]-[WBNB] Cake LP [+] [-] [<=>] Price: $2.67 TVL: $30,678.71
+FLTY Price: $0.004770
+WBNB Price: $369.34
+Staked: 11349.3445 Cake-LP ($30,294.08)
+FLTY Per Week: 191780.82 ($914.84)
+APR: Day 0.43% Week 3.02% Year 157.03%
+You are staking 0.000000 [FLTY]-[WBNB] Cake LP $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 [FLTY]-[WBNB] Cake LP
+Unstake 0.000000 [FLTY]-[WBNB] Cake LP
+Claim 0.000000 FLTY ($0.00)
+Revoke (set approval to 0)
+Exit
+
+FLUSD Price: $1.00 Market Cap: $18,999.98 [%]
+Staked: 5505429.4210 FLUSD ($5,505,429.42)
+FLTY Per Week: 336538.46 ($1,605.36)
+APR: Day 0.00% Week 0.03% Year 1.52%
+You are staking 0.000000 FLUSD $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 FLUSD
+Unstake 0.000000 FLUSD
+Claim 0.000000 FLTY ($0.00)
+Revoke (set approval to 0)
+Exit
+
+Total staked: $5,535,723.50

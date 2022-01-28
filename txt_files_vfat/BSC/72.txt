@@ -1,0 +1,195 @@
+*************** 👨‍🌾 UNOFFICIAL SWIPESWAP FARMING CALCULATOR 👨‍🌾 *****************
+INFO  : https://swipe.org/farm
+********************************************************************************
+
+Thu Jan 27 2022 20:27:19 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 15 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [SXP]-[BUSD] SLP [+] [-] [<=>] Price: $2.53 TVL: $26,440.32
+SXP Price: $1.31
+BUSD Price: $1.00
+Staked: 9412.7270 SLP ($23,807.23)
+SWIPE Per Week: 68.29 ($89.46)
+APR: Day 0.05% Week 0.38% Year 19.54%
+You are staking 0.00 [SXP]-[BUSD] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [SXP]-[BUSD] SLP
+Unstake 0.00 [SXP]-[BUSD] SLP
+Claim 0.00 SWIPE ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [SXP]-[WBNB] SLP [+] [-] [<=>] Price: $47.28 TVL: $100,243.21
+SXP Price: $1.31
+WBNB Price: $370.65
+Staked: 666.6341 SLP ($31,515.24)
+SWIPE Per Week: 68.29 ($89.46)
+APR: Day 0.04% Week 0.28% Year 14.76%
+You are staking 0.00 [SXP]-[WBNB] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [SXP]-[WBNB] SLP
+Unstake 0.00 [SXP]-[WBNB] SLP
+Claim 0.00 SWIPE ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [SXP]-[BTCB] SLP [+] [-] [<=>] Price: $463.65 TVL: $12,592.82
+SXP Price: $1.31
+BTCB Price: $36,472.00
+Staked: 26.3730 SLP ($12,227.96)
+SWIPE Per Week: 68.29 ($89.46)
+APR: Day 0.10% Week 0.73% Year 38.04%
+You are staking 0.00 [SXP]-[BTCB] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [SXP]-[BTCB] SLP
+Unstake 0.00 [SXP]-[BTCB] SLP
+Claim 0.00 SWIPE ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDT]-[BUSD] SLP [+] [-] [<=>] Price: $2.00 TVL: $67,783.31
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 33894.2450 SLP ($67,765.52)
+SWIPE Per Week: 47.80 ($62.62)
+APR: Day 0.01% Week 0.09% Year 4.81%
+You are staking 0.00 [USDT]-[BUSD] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] SLP
+Unstake 0.00 [USDT]-[BUSD] SLP
+Claim 0.00 SWIPE ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [BTCB]-[WBNB] SLP [+] [-] [<=>] Price: $7,527.84 TVL: $25,255.03
+BTCB Price: $36,472.00
+WBNB Price: $370.65
+Staked: 3.2798 SLP ($24,689.67)
+SWIPE Per Week: 47.80 ($62.62)
+APR: Day 0.04% Week 0.25% Year 13.19%
+You are staking 0.00 [BTCB]-[WBNB] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] SLP
+Unstake 0.00 [BTCB]-[WBNB] SLP
+Claim 0.00 SWIPE ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WBNB]-[XVS] SLP [+] [-] [<=>] Price: $120.82 TVL: $1,560.31
+WBNB Price: $370.65
+XVS Price: $8.04
+Staked: 12.7485 SLP ($1,540.22)
+SWIPE Per Week: 34.15 ($44.73)
+APR: Day 0.41% Week 2.90% Year 151.02%
+You are staking 0.00 [WBNB]-[XVS] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[XVS] SLP
+Unstake 0.00 [WBNB]-[XVS] SLP
+Claim 0.00 SWIPE ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [VAI]-[BUSD] SLP [+] [-] [<=>] Price: $1.98 TVL: $10,528.41
+VAI Price: $0.94
+BUSD Price: $1.00
+Staked: 5306.3295 SLP ($10,496.58)
+SWIPE Per Week: 34.15 ($44.73)
+APR: Day 0.06% Week 0.43% Year 22.16%
+You are staking 0.00 [VAI]-[BUSD] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [VAI]-[BUSD] SLP
+Unstake 0.00 [VAI]-[BUSD] SLP
+Claim 0.00 SWIPE ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [WBNB]-[BUSD] SLP [+] [-] [<=>] Price: $41.36 TVL: $4,165.45
+WBNB Price: $370.65
+BUSD Price: $1.00
+Staked: 98.4865 SLP ($4,073.82)
+SWIPE Per Week: 20.49 ($26.84)
+APR: Day 0.09% Week 0.66% Year 34.26%
+You are staking 0.00 [WBNB]-[BUSD] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] SLP
+Unstake 0.00 [WBNB]-[BUSD] SLP
+Claim 0.00 SWIPE ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [VAI]-[WBNB] SLP [+] [-] [<=>] Price: $39.46 TVL: $43.87
+VAI Price: $0.94
+WBNB Price: $370.65
+Staked: 0.0000 SLP ($0.00)
+SWIPE Per Week: 20.49 ($26.84)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [VAI]-[WBNB] SLP ($0.00), NaN% of the pool.
+Stake 0.00 [VAI]-[WBNB] SLP
+Unstake 0.00 [VAI]-[WBNB] SLP
+Claim 0.00 SWIPE ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [ETH]-[WBNB] SLP [+] [-] [<=>] Price: $1,951.74 TVL: $4,077.87
+ETH Price: $2,456.12
+WBNB Price: $370.65
+Staked: 2.0742 SLP ($4,048.27)
+SWIPE Per Week: 20.49 ($26.84)
+APR: Day 0.09% Week 0.66% Year 34.47%
+You are staking 0.00 [ETH]-[WBNB] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] SLP
+Unstake 0.00 [ETH]-[WBNB] SLP
+Claim 0.00 SWIPE ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [DOT]-[WBNB] SLP [+] [-] [<=>] Price: $168.01 TVL: $18,618.25
+DOT Price: $17.95
+WBNB Price: $370.65
+Staked: 110.4287 SLP ($18,553.19)
+SWIPE Per Week: 20.49 ($26.84)
+APR: Day 0.02% Week 0.14% Year 7.52%
+You are staking 0.00 [DOT]-[WBNB] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] SLP
+Unstake 0.00 [DOT]-[WBNB] SLP
+Claim 0.00 SWIPE ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [ADA]-[WBNB] SLP [+] [-] [<=>] Price: $40.31 TVL: $6,467.25
+ADA Price: $1.03
+WBNB Price: $370.65
+Staked: 157.3471 SLP ($6,343.03)
+SWIPE Per Week: 20.49 ($26.84)
+APR: Day 0.06% Week 0.42% Year 22.00%
+You are staking 0.00 [ADA]-[WBNB] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] SLP
+Unstake 0.00 [ADA]-[WBNB] SLP
+Claim 0.00 SWIPE ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [TWT]-[WBNB] SLP [+] [-] [<=>] Price: $28.40 TVL: $36,639.57
+TWT Price: $0.50
+WBNB Price: $370.65
+Staked: 1241.9006 SLP ($35,265.17)
+SWIPE Per Week: 20.49 ($26.84)
+APR: Day 0.01% Week 0.08% Year 3.96%
+You are staking 0.00 [TWT]-[WBNB] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [TWT]-[WBNB] SLP
+Unstake 0.00 [TWT]-[WBNB] SLP
+Claim 0.00 SWIPE ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [ACS]-[SXP] SLP [+] [-] [<=>] Price: $6.42 TVL: $4,872.44
+ACS Price: $7.10
+SXP Price: $1.31
+Staked: 668.5779 SLP ($4,289.06)
+SWIPE Per Week: 20.49 ($26.84)
+APR: Day 0.09% Week 0.63% Year 32.54%
+You are staking 0.00 [ACS]-[SXP] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [ACS]-[SXP] SLP
+Unstake 0.00 [ACS]-[SXP] SLP
+Claim 0.00 SWIPE ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [USDT]-[WBNB] SLP [+] [-] [<=>] Price: $41.02 TVL: $597.81
+USDT Price: $1.00
+WBNB Price: $370.65
+Staked: 8.0926 SLP ($331.92)
+SWIPE Per Week: 47.80 ($62.62)
+APR: Day 2.70% Week 18.87% Year 981.07%
+You are staking 0.00 [USDT]-[WBNB] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WBNB] SLP
+Unstake 0.00 [USDT]-[WBNB] SLP
+Claim 0.00 SWIPE ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $244,946.89

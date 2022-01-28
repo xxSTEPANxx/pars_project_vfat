@@ -1,0 +1,343 @@
+*************** 👨‍🌾 UNOFFICIAL CHAMPAGNE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://champagne.farm
+******************************************************************************
+
+Thu Jan 27 2022 20:59:12 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 30 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [CHPG]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.05 TVL: $27.49
+CHPG Price: $0.000463
+BUSD Price: $1.00
+Staked: 216.5661 Cake-LP ($10.18)
+CHPG Per Week: 993.52 ($0.46)
+APR: Day 0.64% Week 4.51% Year 234.63%
+You are staking 0.00 [CHPG]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CHPG]-[BUSD] Cake LP
+Unstake 0.00 [CHPG]-[BUSD] Cake LP
+Claim 0.00 CHPG ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [CHPG]-[WBNB] Cake LP [+] [-] [<=>] Price: $0.93 TVL: $4.64
+CHPG Price: $0.000463
+WBNB Price: $368.93
+Staked: 2.8762 Cake-LP ($2.66)
+CHPG Per Week: 851.59 ($0.39)
+APR: Day 2.11% Week 14.78% Year 768.78%
+You are staking 0.00 [CHPG]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CHPG]-[WBNB] Cake LP
+Unstake 0.00 [CHPG]-[WBNB] Cake LP
+Claim 0.00 CHPG ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.49 TVL: $346,512,141.09
+WBNB Price: $368.93
+BUSD Price: $1.00
+Staked: 0.0345 Cake-LP ($1.64)
+CHPG Per Week: 122.06 ($0.06)
+APR: Day 0.49% Week 3.45% Year 179.24%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 3%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 CHPG ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [COCKTAIL]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.05 TVL: $34.45
+COCKTAIL Price: $0.000434
+BUSD Price: $1.00
+Staked: 261.0232 Cake-LP ($11.77)
+CHPG Per Week: 283.86 ($0.13)
+APR: Day 0.16% Week 1.12% Year 57.99%
+You are staking 0.00 [COCKTAIL]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [COCKTAIL]-[BUSD] Cake LP
+Unstake 0.00 [COCKTAIL]-[BUSD] Cake LP
+Claim 0.00 CHPG ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [COCKTAIL]-[WBNB] Cake LP [+] [-] [<=>] Price: $0.85 TVL: $34.56
+COCKTAIL Price: $0.000434
+WBNB Price: $368.93
+Staked: 4.6887 Cake-LP ($3.98)
+CHPG Per Week: 283.86 ($0.13)
+APR: Day 0.47% Week 3.30% Year 171.75%
+You are staking 0.00 [COCKTAIL]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [COCKTAIL]-[WBNB] Cake LP
+Unstake 0.00 [COCKTAIL]-[WBNB] Cake LP
+Claim 0.00 CHPG ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [YFC]-[BUSD] Cake LP [+] [-] [<=>] Price: $3.33 TVL: $38.00
+YFC Price: $2.53
+BUSD Price: $1.00
+Staked: 0.8937 Cake-LP ($2.98)
+CHPG Per Week: 1050.30 ($0.49)
+APR: Day 2.33% Week 16.31% Year 848.22%
+You are staking 0.00 [YFC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [YFC]-[BUSD] Cake LP
+Unstake 0.00 [YFC]-[BUSD] Cake LP
+Claim 0.00 CHPG ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [DAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $16,869,174.35
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 62.6900 Cake-LP ($130.85)
+CHPG Per Week: 56.77 ($0.03)
+APR: Day 0.00% Week 0.02% Year 1.04%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 3%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 CHPG ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $131,523,841.47
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 59.0300 Cake-LP ($123.43)
+CHPG Per Week: 28.39 ($0.01)
+APR: Day 0.00% Week 0.01% Year 0.55%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 3%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 CHPG ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.10 TVL: $297,265,991.96
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 59.1166 Cake-LP ($123.92)
+CHPG Per Week: 28.39 ($0.01)
+APR: Day 0.00% Week 0.01% Year 0.55%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 3%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 CHPG ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $7,753.54 TVL: $68,798,503.63
+BTCB Price: $36,305.00
+WBNB Price: $368.93
+Staked: 0.0006 Cake-LP ($4.53)
+CHPG Per Week: 28.39 ($0.01)
+APR: Day 0.04% Week 0.29% Year 15.06%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 3%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 CHPG ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,045.18 TVL: $74,510,172.42
+ETH Price: $2,454.60
+WBNB Price: $368.93
+Staked: 0.0059 Cake-LP ($12.03)
+CHPG Per Week: 42.58 ($0.02)
+APR: Day 0.02% Week 0.16% Year 8.51%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 3%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 CHPG ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - CHPG Price: $0.000463 Market Cap: $69.00 [%]
+Staked: 82932.8896 CHPG ($38.36)
+CHPG Per Week: 624.50 ($0.29)
+APR: Day 0.11% Week 0.75% Year 39.16%
+You are staking 0.00 CHPG ($0.00), 0.00% of the pool.
+Stake 0.00 CHPG
+Unstake 0.00 CHPG
+Claim 0.00 CHPG ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - COCKTAIL Price: $0.000434 Market Cap: $166.55 [%]
+Staked: 6011.5702 COCKTAIL ($2.61)
+CHPG Per Week: 283.86 ($0.13)
+APR: Day 0.72% Week 5.03% Year 261.78%
+You are staking 0.00 COCKTAIL ($0.00), 0.00% of the pool.
+Stake 0.00 COCKTAIL
+Unstake 0.00 COCKTAIL
+Claim 0.00 CHPG ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - YFC Price: $2.53 Market Cap: $2,534.80 [%]
+Staked: 19.7831 YFC ($50.15)
+CHPG Per Week: 1419.32 ($0.66)
+APR: Day 0.19% Week 1.31% Year 68.07%
+You are staking 0.00 YFC ($0.00), 0.00% of the pool.
+Stake 0.00 YFC
+Unstake 0.00 YFC
+Claim 0.00 CHPG ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - BUSD Price: $1.00 Market Cap: $4,850,999,388.63 [%]
+Staked: 57.1123 BUSD ($57.11)
+CHPG Per Week: 70.97 ($0.03)
+APR: Day 0.01% Week 0.06% Year 2.99%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 3%
+Unstake 0.00 BUSD
+Claim 0.00 CHPG ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - USDC Price: $1.00 Market Cap: $1,779,000,000.00 [%]
+Staked: 5.5872 USDC ($5.59)
+CHPG Per Week: 70.97 ($0.03)
+APR: Day 0.08% Week 0.59% Year 30.55%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 3%
+Unstake 0.00 USDC
+Claim 0.00 CHPG ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - USDT Price: $1.00 Market Cap: $3,879,997,922.18 [%]
+Staked: 4.6426 USDT ($4.64)
+CHPG Per Week: 70.97 ($0.03)
+APR: Day 0.10% Week 0.71% Year 36.76%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 3%
+Unstake 0.00 USDT
+Claim 0.00 CHPG ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - DAI Price: $1.00 Market Cap: $262,000,000.00 [%]
+Staked: 34.1715 DAI ($34.17)
+CHPG Per Week: 85.16 ($0.04)
+APR: Day 0.02% Week 0.12% Year 5.99%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 3%
+Unstake 0.00 DAI
+Claim 0.00 CHPG ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - WBNB Price: $368.93 Market Cap: $1,925,935,488.59 [%]
+Staked: 0.5815 WBNB ($214.54)
+CHPG Per Week: 56.77 ($0.03)
+APR: Day 0.00% Week 0.01% Year 0.64%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 3%
+Unstake 0.00 WBNB
+Claim 0.00 CHPG ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - BTCB Price: $36,305.00 Market Cap: $4,084,348,805.00 [%]
+Staked: 0.0192 BTCB ($696.42)
+CHPG Per Week: 56.77 ($0.03)
+APR: Day 0.00% Week 0.00% Year 0.20%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 3%
+Unstake 0.00 BTCB
+Claim 0.00 CHPG ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - ETH Price: $2,454.60 Market Cap: $3,448,713,000.00 [%]
+Staked: 0.0000 ETH ($0.00)
+CHPG Per Week: 56.77 ($0.03)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 ETH ($0.00), NaN% of the pool.
+Stake 0.00 ETH - Fee 3%
+Unstake 0.00 ETH
+Claim 0.00 CHPG ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - Cake Price: $7.02 Market Cap: $4,317,002,712.32 [%]
+Staked: 0.0000 Cake ($0.00)
+CHPG Per Week: 22.71 ($0.01)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 Cake ($0.00), NaN% of the pool.
+Stake 0.00 Cake - Fee 3%
+Unstake 0.00 Cake
+Claim 0.00 CHPG ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - [YFC]-[WBNB] Cake LP [+] [-] [<=>] Price: $64.72 TVL: $3.64
+YFC Price: $2.53
+WBNB Price: $368.93
+Staked: 0.0121 Cake-LP ($0.78)
+CHPG Per Week: 1021.91 ($0.47)
+APR: Day 8.62% Week 60.37% Year 3139.31%
+You are staking 0.00 [YFC]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [YFC]-[WBNB] Cake LP
+Unstake 0.00 [YFC]-[WBNB] Cake LP
+Claim 0.00 CHPG ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - cCBD Price: $0.00 Market Cap: $0.00 
+Staked: 0.0985 cCBD ($0.00)
+CHPG Per Week: 170.32 ($0.08)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 cCBD ($0.00), NaN% of the pool.
+Stake 0.00 cCBD - Fee 1.5%
+Unstake 0.00 cCBD
+Claim 0.00 CHPG ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - sCBD Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 sCBD ($0.00)
+CHPG Per Week: 227.09 ($0.11)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 sCBD ($0.00), NaN% of the pool.
+Stake 0.00 sCBD - Fee 1.5%
+Unstake 0.00 sCBD
+Claim 0.00 CHPG ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - bCBD Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 bCBD ($0.00)
+CHPG Per Week: 170.32 ($0.08)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 bCBD ($0.00), NaN% of the pool.
+Stake 0.00 bCBD - Fee 1.5%
+Unstake 0.00 bCBD
+Claim 0.00 CHPG ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - NIGHT Price: $0.00 Market Cap: $0.00 
+Staked: 82.0396 NIGHT ($0.00)
+CHPG Per Week: 454.18 ($0.21)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 NIGHT ($0.00), NaN% of the pool.
+Stake 0.00 NIGHT
+Unstake 0.00 NIGHT
+Claim 0.00 CHPG ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - [NIGHT]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.41 TVL: $3.44
+NIGHT Price: $0.04
+BUSD Price: $1.00
+Staked: 0.0574 Cake-LP ($0.02)
+CHPG Per Week: 539.34 ($0.25)
+APR: Day 152.12% Week 1064.87% Year 55373.18%
+You are staking 0.00 [NIGHT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [NIGHT]-[BUSD] Cake LP
+Unstake 0.00 [NIGHT]-[BUSD] Cake LP
+Claim 0.00 CHPG ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - BLOOD Price: $0.00 Market Cap: $0.00 
+Staked: 0.4942 BLOOD ($0.00)
+CHPG Per Week: 454.18 ($0.21)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BLOOD ($0.00), NaN% of the pool.
+Stake 0.00 BLOOD
+Unstake 0.00 BLOOD
+Claim 0.00 CHPG ($0.00)
+Staking or unstaking also claims rewards.
+
+29 - [BLOOD]-[BUSD] Cake LP [+] [-] [<=>] Price: $9.32 TVL: $4.79
+BLOOD Price: $21.50
+BUSD Price: $1.00
+Staked: 0.0363 Cake-LP ($0.34)
+CHPG Per Week: 454.18 ($0.21)
+APR: Day 8.88% Week 62.13% Year 3230.77%
+You are staking 0.00 [BLOOD]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BLOOD]-[BUSD] Cake LP
+Unstake 0.00 [BLOOD]-[BUSD] Cake LP
+Claim 0.00 CHPG ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $1,532.70

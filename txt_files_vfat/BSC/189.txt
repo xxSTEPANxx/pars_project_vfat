@@ -1,0 +1,45 @@
+*************** 👨‍🌾 UNOFFICIAL FEEDER.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://app.feeder.finance
+***********************************************************************************
+
+Thu Jan 27 2022 20:49:49 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 2 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+[FEED]-[WBNB] Cake LP [+] [-] [<=>] Price: $10.23 TVL: $1,063,105.45
+FEED Price: $0.06
+WBNB Price: $370.49
+Staked: 87049.7839 Cake-LP ($890,346.74)
+FEED Per Week: 493920.00 ($30,853.56)
+APR: Day 0.50% Week 3.47% Year 180.20%
+You are staking 0.00 [FEED]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FEED]-[WBNB] Cake LP
+Unstake 0.00 [FEED]-[WBNB] Cake LP
+Claim 0.00 FEED ($0.00)
+Staking or unstaking also claims rewards.
+
+stFEED Price: $0.00 Market Cap: $0.00 
+Staked: 1.0000 stFEED ($0.00)
+FEED Per Week: 211680.00 ($13,222.95)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 stFEED ($0.00), NaN% of the pool.
+Stake 0.00 stFEED
+Unstake 0.00 stFEED
+Claim 0.00 FEED ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $890,346.74
+sFEED Price: $0.15 Total Supply: 24118017.6717 TVL: $3,770,531.43
+FEED Price: $0.06
+There is a total of 60360650.71 FEED staked in sFEED
+FEED Per Week: 211680.00 ($33,093.35)
+APR: Day 0.13% Week 0.88% Year 45.64%
+Your balance is 0.00 sFEED (0.00 FEED), $0.00, 0.00% of the pool
+Stake 0.00 FEED
+Unstake 0.00 sFEED

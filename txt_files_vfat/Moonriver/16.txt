@@ -1,0 +1,301 @@
+*************** 🌓 UNOFFICIAL HUCKLEBERRY FARMING CALCULATOR 🌓 ***************
+INFO  : https://www.huckleberry.finance
+********************************************************************************
+
+Fri Jan 28 2022 01:15:29 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 33 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [WMOVR]-[USDT.m] Huckleberry LP [+] [-] [<=>] Price: $18,974,153.78 TVL: $158,833.03
+WMOVR Price: $71.64
+USDT.m Price: $0.99
+Staked: 0.0083 HBLP ($156,631.35)
+FINN Per Week: 11231.67 ($2,839.93)
+APR: Day 0.26% Week 1.81% Year 94.28%
+You are staking 0.00 [WMOVR]-[USDT.m] Huckleberry LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMOVR]-[USDT.m] Huckleberry LP
+Unstake 0.00 [WMOVR]-[USDT.m] Huckleberry LP
+Claim 0.00 FINN ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WAN.m]-[WMOVR] Huckleberry LP [+] [-] [<=>] Price: $10.94 TVL: $328,829.17
+WAN.m Price: $0.40
+WMOVR Price: $71.64
+Staked: 29997.6895 HBLP ($328,109.88)
+FINN Per Week: 11231.67 ($2,839.93)
+APR: Day 0.12% Week 0.87% Year 45.01%
+You are staking 0.00 [WAN.m]-[WMOVR] Huckleberry LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WAN.m]-[WMOVR] Huckleberry LP
+Unstake 0.00 [WAN.m]-[WMOVR] Huckleberry LP
+Claim 0.00 FINN ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [ETH.m]-[WMOVR] Huckleberry LP [+] [-] [<=>] Price: $845.04 TVL: $251,700.64
+ETH.m Price: $2,337.02
+WMOVR Price: $71.64
+Staked: 296.5969 HBLP ($250,634.88)
+FINN Per Week: 11231.67 ($2,839.93)
+APR: Day 0.16% Week 1.13% Year 58.92%
+You are staking 0.00 [ETH.m]-[WMOVR] Huckleberry LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH.m]-[WMOVR] Huckleberry LP
+Unstake 0.00 [ETH.m]-[WMOVR] Huckleberry LP
+Claim 0.00 FINN ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [BTC.m]-[WMOVR] Huckleberry LP [+] [-] [<=>] Price: $327,442,447.73 TVL: $370,227.86
+BTC.m Price: $35,596.57
+WMOVR Price: $71.64
+Staked: 0.0011 HBLP ($369,985.57)
+FINN Per Week: 11231.67 ($2,839.93)
+APR: Day 0.11% Week 0.77% Year 39.91%
+You are staking 0.00 [BTC.m]-[WMOVR] Huckleberry LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTC.m]-[WMOVR] Huckleberry LP
+Unstake 0.00 [BTC.m]-[WMOVR] Huckleberry LP
+Claim 0.00 FINN ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [WMOVR]-[FINN] Huckleberry LP [+] [-] [<=>] Price: $10.75 TVL: $1,005,400.31
+WMOVR Price: $71.64
+FINN Price: $0.25
+Staked: 87908.5389 HBLP ($944,800.18)
+FINN Per Week: 78621.71 ($19,879.48)
+APR: Day 0.30% Week 2.10% Year 109.41%
+You are staking 0.00 [WMOVR]-[FINN] Huckleberry LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMOVR]-[FINN] Huckleberry LP
+Unstake 0.00 [WMOVR]-[FINN] Huckleberry LP
+Claim 0.00 FINN ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [USDC.m]-[USDT.m] Huckleberry LP [+] [-] [<=>] Price: $2,025,385,827,464.26 TVL: $1,796,165.97
+USDC.m Price: $0.99
+USDT.m Price: $0.99
+Staked: 0.0000 HBLP ($1,795,879.64)
+FINN Per Week: 6739.00 ($1,703.96)
+APR: Day 0.01% Week 0.09% Year 4.93%
+You are staking 0.00 [USDC.m]-[USDT.m] Huckleberry LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC.m]-[USDT.m] Huckleberry LP
+Unstake 0.00 [USDC.m]-[USDT.m] Huckleberry LP
+Claim 0.00 FINN ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [FINN]-[XRP.m] Huckleberry LP [+] [-] [<=>] Price: $828,439.54 TVL: $105,869.30
+FINN Price: $0.25
+XRP.m Price: $0.57
+Staked: 0.1271 HBLP ($105,308.84)
+FINN Per Week: 6739.00 ($1,703.96)
+APR: Day 0.23% Week 1.62% Year 84.14%
+You are staking 0.00 [FINN]-[XRP.m] Huckleberry LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FINN]-[XRP.m] Huckleberry LP
+Unstake 0.00 [FINN]-[XRP.m] Huckleberry LP
+Claim 0.00 FINN ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [DOT.m]-[FINN] Huckleberry LP [+] [-] [<=>] Price: $44,318.27 TVL: $109,864.16
+DOT.m Price: $16.94
+FINN Price: $0.25
+Staked: 2.4754 HBLP ($109,706.35)
+FINN Per Week: 11231.67 ($2,839.93)
+APR: Day 0.37% Week 2.59% Year 134.61%
+You are staking 0.00 [DOT.m]-[FINN] Huckleberry LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT.m]-[FINN] Huckleberry LP
+Unstake 0.00 [DOT.m]-[FINN] Huckleberry LP
+Claim 0.00 FINN ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [USDC.m]-[FINN] Huckleberry LP [+] [-] [<=>] Price: $1,107,988.53 TVL: $201,020.71
+USDC.m Price: $0.99
+FINN Price: $0.25
+Staked: 0.1803 HBLP ($199,787.62)
+FINN Per Week: 22463.35 ($5,679.85)
+APR: Day 0.41% Week 2.84% Year 147.83%
+You are staking 0.00 [USDC.m]-[FINN] Huckleberry LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC.m]-[FINN] Huckleberry LP
+Unstake 0.00 [USDC.m]-[FINN] Huckleberry LP
+Claim 0.00 FINN ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [FINN]-[AVAX.m] Huckleberry LP [+] [-] [<=>] Price: $8.37 TVL: $56,822.14
+FINN Price: $0.25
+AVAX.m Price: $61.26
+Staked: 6779.6143 HBLP ($56,751.29)
+FINN Per Week: 6739.00 ($1,703.96)
+APR: Day 0.43% Week 3.00% Year 156.13%
+You are staking 0.00 [FINN]-[AVAX.m] Huckleberry LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FINN]-[AVAX.m] Huckleberry LP
+Unstake 0.00 [FINN]-[AVAX.m] Huckleberry LP
+Claim 0.00 FINN ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [FINN]-[USDT.m] Huckleberry LP [+] [-] [<=>] Price: $34,964,599.65 TVL: $93,248.82
+FINN Price: $0.25
+USDT.m Price: $0.99
+Staked: 0.0026 HBLP ($90,964.58)
+FINN Per Week: 22463.35 ($5,679.85)
+APR: Day 0.89% Week 6.24% Year 324.69%
+You are staking 0.00 [FINN]-[USDT.m] Huckleberry LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FINN]-[USDT.m] Huckleberry LP
+Unstake 0.00 [FINN]-[USDT.m] Huckleberry LP
+Claim 0.00 FINN ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [FINN]-[BEANS] Huckleberry LP [+] [-] [<=>] Price: $2.09 TVL: $22,343.70
+FINN Price: $0.25
+BEANS Price: $1.93
+Staked: 10495.5026 HBLP ($21,933.18)
+FINN Per Week: 2246.33 ($567.99)
+APR: Day 0.37% Week 2.59% Year 134.66%
+You are staking 0.00 [FINN]-[BEANS] Huckleberry LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FINN]-[BEANS] Huckleberry LP
+Unstake 0.00 [FINN]-[BEANS] Huckleberry LP
+Claim 0.00 FINN ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [RivrDoge]-[FINN] Huckleberry LP [+] [-] [<=>] Price: $0.01 TVL: $11,854.44
+RivrDoge Price: $0.0000796346
+FINN Price: $0.25
+Staked: 1257238.0032 HBLP ($11,783.65)
+FINN Per Week: 561.58 ($142.00)
+APR: Day 0.17% Week 1.21% Year 62.66%
+You are staking 0.00 [RivrDoge]-[FINN] Huckleberry LP ($0.00), 0.00% of the pool.
+Stake 0.00 [RivrDoge]-[FINN] Huckleberry LP
+Unstake 0.00 [RivrDoge]-[FINN] Huckleberry LP
+Claim 0.00 FINN ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [FINN]-[FTM.m] Huckleberry LP [+] [-] [<=>] Price: $1.54 TVL: $70,154.19
+FINN Price: $0.25
+FTM.m Price: $2.03
+Staked: 45223.3292 HBLP ($69,642.67)
+FINN Per Week: 6739.00 ($1,703.96)
+APR: Day 0.35% Week 2.45% Year 127.23%
+You are staking 0.00 [FINN]-[FTM.m] Huckleberry LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FINN]-[FTM.m] Huckleberry LP
+Unstake 0.00 [FINN]-[FTM.m] Huckleberry LP
+Claim 0.00 FINN ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [FINN]-[RKITTY] Huckleberry LP [+] [-] [<=>] Price: $0.00 TVL: $76,234.70
+FINN Price: $0.25
+RKITTY Price: $0.0000001100
+Staked: 212124445.4755 HBLP ($75,547.46)
+FINN Per Week: 11231.67 ($2,839.93)
+APR: Day 0.54% Week 3.76% Year 195.47%
+You are staking 0.00 [FINN]-[RKITTY] Huckleberry LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FINN]-[RKITTY] Huckleberry LP
+Unstake 0.00 [FINN]-[RKITTY] Huckleberry LP
+Claim 0.00 FINN ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - TOM Price: $0.00 Market Cap: $0.00 
+Staked: 2177217.7476 TOM ($0.00)
+FINN Per Week: 78621.71 ($19,879.48)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 TOM ($0.00), NaN% of the pool.
+Stake 0.00 TOM
+Unstake 0.00 TOM
+Claim 0.00 FINN ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - [FINN]-[BNB.m] Huckleberry LP [+] [-] [<=>] Price: $19.83 TVL: $26,027.31
+FINN Price: $0.25
+BNB.m Price: $353.75
+Staked: 1305.9301 HBLP ($25,895.25)
+FINN Per Week: 2246.33 ($567.99)
+APR: Day 0.31% Week 2.19% Year 114.06%
+You are staking 0.00 [FINN]-[BNB.m] Huckleberry LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FINN]-[BNB.m] Huckleberry LP
+Unstake 0.00 [FINN]-[BNB.m] Huckleberry LP
+Claim 0.00 FINN ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [1SWAP]-[FINN] Huckleberry LP [+] [-] [<=>] Price: $0.03 TVL: $13,122.63
+1SWAP Price: $0.000577
+FINN Price: $0.25
+Staked: 517531.8630 HBLP ($13,045.00)
+FINN Per Week: 2246.33 ($567.99)
+APR: Day 0.62% Week 4.35% Year 226.41%
+You are staking 0.00 [1SWAP]-[FINN] Huckleberry LP ($0.00), 0.00% of the pool.
+Stake 0.00 [1SWAP]-[FINN] Huckleberry LP
+Unstake 0.00 [1SWAP]-[FINN] Huckleberry LP
+Claim 0.00 FINN ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - [FINN]-[LTC.m] Huckleberry LP [+] [-] [<=>] Price: $1,030,756.07 TVL: $12,785.03
+FINN Price: $0.25
+LTC.m Price: $100.91
+Staked: 0.0124 HBLP ($12,771.57)
+FINN Per Week: 1123.17 ($283.99)
+APR: Day 0.32% Week 2.22% Year 115.63%
+You are staking 0.00 [FINN]-[LTC.m] Huckleberry LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FINN]-[LTC.m] Huckleberry LP
+Unstake 0.00 [FINN]-[LTC.m] Huckleberry LP
+Claim 0.00 FINN ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - [MIM]-[FINN] Huckleberry LP [+] [-] [<=>] Price: $1.07 TVL: $63,137.96
+MIM Price: $0.98
+FINN Price: $0.25
+Staked: 58321.3825 HBLP ($62,478.24)
+FINN Per Week: 11231.67 ($2,839.93)
+APR: Day 0.65% Week 4.55% Year 236.36%
+You are staking 0.00 [MIM]-[FINN] Huckleberry LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MIM]-[FINN] Huckleberry LP
+Unstake 0.00 [MIM]-[FINN] Huckleberry LP
+Claim 0.00 FINN ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - [USDC.m]-[WMOVR] Huckleberry LP [+] [-] [<=>] Price: $17,335,250.49 TVL: $149,771.87
+USDC.m Price: $0.99
+WMOVR Price: $71.64
+Staked: 0.0086 HBLP ($149,509.68)
+FINN Per Week: 11231.67 ($2,839.93)
+APR: Day 0.27% Week 1.90% Year 98.77%
+You are staking 0.00 [USDC.m]-[WMOVR] Huckleberry LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC.m]-[WMOVR] Huckleberry LP
+Unstake 0.00 [USDC.m]-[WMOVR] Huckleberry LP
+Claim 0.00 FINN ($0.00)
+Staking or unstaking also claims rewards.
+
+29 - [FRAX]-[FINN] Huckleberry LP [+] [-] [<=>] Price: $1.04 TVL: $56,905.34
+FRAX Price: $0.99
+FINN Price: $0.25
+Staked: 54655.2437 HBLP ($56,850.90)
+FINN Per Week: 11231.67 ($2,839.93)
+APR: Day 0.71% Week 5.00% Year 259.76%
+You are staking 0.00 [FRAX]-[FINN] Huckleberry LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FRAX]-[FINN] Huckleberry LP
+Unstake 0.00 [FRAX]-[FINN] Huckleberry LP
+Claim 0.00 FINN ($0.00)
+Staking or unstaking also claims rewards.
+
+30 - [FINN]-[xcKSM] Huckleberry LP [+] [-] [<=>] Price: $12,889.92 TVL: $121,638.31
+FINN Price: $0.25
+xcKSM Price: $153.88
+Staked: 9.3785 HBLP ($120,887.43)
+FINN Per Week: 22463.35 ($5,679.85)
+APR: Day 0.67% Week 4.70% Year 244.32%
+You are staking 0.00 [FINN]-[xcKSM] Huckleberry LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FINN]-[xcKSM] Huckleberry LP
+Unstake 0.00 [FINN]-[xcKSM] Huckleberry LP
+Claim 0.00 FINN ($0.00)
+Staking or unstaking also claims rewards.
+
+31 - [FINN]-[xcRMRK] Huckleberry LP [+] [-] [<=>] Price: $41,239.03 TVL: $43,801.42
+FINN Price: $0.25
+xcRMRK Price: $16.01
+Staked: 1.0437 HBLP ($43,040.36)
+FINN Per Week: 22463.35 ($5,679.85)
+APR: Day 1.89% Week 13.20% Year 686.22%
+You are staking 0.00 [FINN]-[xcRMRK] Huckleberry LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FINN]-[xcRMRK] Huckleberry LP
+Unstake 0.00 [FINN]-[xcRMRK] Huckleberry LP
+Claim 0.00 FINN ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $5,071,945.56

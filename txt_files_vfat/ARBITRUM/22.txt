@@ -1,0 +1,135 @@
+*************** 👨‍🌾 UNOFFICIAL DRAGONARBI FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://dragonarbi.com
+*******************************************************************************
+
+Thu Jan 27 2022 21:49:54 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 11 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [WETH]-[DRAGON] SLP [+] [-] [<=>] Price: $4.80 TVL: $45.37
+WETH Price: $2,428.06
+DRAGON Price: $0.002219
+Staked: 2.9586 SLP ($14.20)
+DRAGON Per Week: 4266.67 ($9.47)
+APR: Day 9.52% Week 66.67% Year 3466.95%
+You are staking 0.00 [WETH]-[DRAGON] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[DRAGON] SLP
+Unstake 0.00 [WETH]-[DRAGON] SLP
+Claim 0.00 DRAGON ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [DRAGON]-[USDC] SLP [+] [-] [<=>] Price: $103,659.81 TVL: $38.92
+DRAGON Price: $0.002219
+USDC Price: $1.00
+Staked: 0.0000 SLP ($2.02)
+DRAGON Per Week: 4266.67 ($9.47)
+APR: Day 66.94% Week 468.58% Year 24366.21%
+You are staking 0.00 [DRAGON]-[USDC] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [DRAGON]-[USDC] SLP
+Unstake 0.00 [DRAGON]-[USDC] SLP
+Claim 0.00 DRAGON ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WETH]-[USDC] SLP [+] [-] [<=>] Price: $117,746,331.39 TVL: $65,979,529.23
+WETH Price: $2,428.06
+USDC Price: $1.00
+Staked: 0.0000 SLP ($2,860.25)
+DRAGON Per Week: 1066.67 ($2.37)
+APR: Day 0.01% Week 0.08% Year 4.30%
+You are staking 0.00 [WETH]-[USDC] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[USDC] SLP - Fee 4%
+Unstake 0.00 [WETH]-[USDC] SLP
+Claim 0.00 DRAGON ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WBTC]-[WETH] SLP [+] [-] [<=>] Price: $1,912,350,236.42 TVL: $5,139,666.22
+WBTC Price: $36,091.00
+WETH Price: $2,428.06
+Staked: 0.0000 SLP ($2.39)
+DRAGON Per Week: 1066.67 ($2.37)
+APR: Day 14.13% Week 98.92% Year 5143.98%
+You are staking 0.00 [WBTC]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[WETH] SLP - Fee 4%
+Unstake 0.00 [WBTC]-[WETH] SLP
+Claim 0.00 DRAGON ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - DRAGON Price: $0.002219 Market Cap: $112.27 
+Staked: 20263.6223 DRAGON ($44.97)
+DRAGON Per Week: 2133.33 ($4.73)
+APR: Day 1.50% Week 10.53% Year 547.45%
+You are staking 0.00 DRAGON ($0.00), 0.00% of the pool.
+Stake 0.00 DRAGON
+Unstake 0.00 DRAGON
+Claim 0.00 DRAGON ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - WETH Price: $2,428.06 Market Cap: $574,469,543.41 
+Staked: 0.0000 WETH ($0.00)
+DRAGON Per Week: 1208.89 ($2.68)
+APR: Day 26322.27% Week 184255.87% Year 9581305.48%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 DRAGON ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - USDC Price: $1.00 Market Cap: $371,892,993.60 
+Staked: 96.0000 USDC ($95.74)
+DRAGON Per Week: 711.11 ($1.58)
+APR: Day 0.24% Week 1.65% Year 85.71%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 DRAGON ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - USDT Price: $1.00 Market Cap: $177,405,379.79 
+Staked: 0.0960 USDT ($0.10)
+DRAGON Per Week: 711.11 ($1.58)
+APR: Day 234.84% Week 1643.88% Year 85481.74%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 DRAGON ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - SUSHI Price: $4.07 Market Cap: $1,232,267.56 
+Staked: 0.1153 SUSHI ($0.47)
+DRAGON Per Week: 711.11 ($1.58)
+APR: Day 48.02% Week 336.17% Year 17480.79%
+You are staking 0.00 SUSHI ($0.00), 0.00% of the pool.
+Stake 0.00 SUSHI - Fee 4%
+Unstake 0.00 SUSHI
+Claim 0.00 DRAGON ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - WBTC Price: $36,091.00 Market Cap: $85,874,768.58 
+Staked: 0.0000 WBTC ($0.00)
+DRAGON Per Week: 711.11 ($1.58)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 WBTC ($0.00), NaN% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 DRAGON ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [WETH]-[USDT] SLP [+] [-] [<=>] Price: $112,651,033.50 TVL: $4,506,034.29
+WETH Price: $2,428.06
+USDT Price: $1.00
+Staked: 0.0000 SLP ($5.80)
+DRAGON Per Week: 1066.67 ($2.37)
+APR: Day 5.83% Week 40.83% Year 2123.24%
+You are staking 0.00 [WETH]-[USDT] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[USDT] SLP - Fee 4%
+Unstake 0.00 [WETH]-[USDT] SLP
+Claim 0.00 DRAGON ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $3,025.94

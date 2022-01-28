@@ -1,0 +1,215 @@
+*************** 👨‍🌾 UNOFFICIAL TAKODEFI FARMING CALCULATOR 👨‍🌾 *****************
+INFO  : https://takodefi.com
+***************************************************************************************
+
+Thu Jan 27 2022 21:00:20 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 26 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - TAKO Price: $0.00 Market Cap: $0.00 
+Staked: 1561879.6992 TAKO ($0.00)
+TAKO Per Week: 17167.88 ($72.63)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 TAKO ($0.00), NaN% of the pool.
+Stake 0.00 TAKO
+Unstake 0.00 TAKO
+Claim 0.00 TAKO ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [TAKO]-[WBNB] APE LP [+] [-] [<=>] Price: $2.94 TVL: $9,348.05
+TAKO Price: $0.004230
+WBNB Price: $368.71
+Staked: 2754.7621 APE-LP ($8,104.09)
+TAKO Per Week: 20846.72 ($88.19)
+APR: Day 0.16% Week 1.09% Year 56.59%
+You are staking 0.00 [TAKO]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TAKO]-[WBNB] APE LP
+Unstake 0.00 [TAKO]-[WBNB] APE LP
+Claim 0.00 TAKO ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [TAKO]-[BUSD] APE LP [+] [-] [<=>] Price: $0.14 TVL: $3,075.43
+TAKO Price: $0.004230
+BUSD Price: $1.00
+Staked: 20809.1858 APE-LP ($2,971.27)
+TAKO Per Week: 7357.66 ($31.13)
+APR: Day 0.15% Week 1.05% Year 54.47%
+You are staking 0.00 [TAKO]-[BUSD] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TAKO]-[BUSD] APE LP
+Unstake 0.00 [TAKO]-[BUSD] APE LP
+Claim 0.00 TAKO ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [TAKO]-[BANANA] APE LP [+] [-] [<=>] Price: $0.11 TVL: $1,515.41
+TAKO Price: $0.004230
+BANANA Price: $0.62
+Staked: 8493.8217 APE-LP ($932.34)
+TAKO Per Week: 3678.83 ($15.56)
+APR: Day 0.24% Week 1.67% Year 86.80%
+You are staking 0.00 [TAKO]-[BANANA] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TAKO]-[BANANA] APE LP
+Unstake 0.00 [TAKO]-[BANANA] APE LP
+Claim 0.00 TAKO ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [Cake]-[TAKO] APE LP [+] [-] [<=>] Price: $0.36 TVL: $695.27
+Cake Price: $7.02
+TAKO Price: $0.004230
+Staked: 1392.5819 APE-LP ($504.66)
+TAKO Per Week: 3065.69 ($12.97)
+APR: Day 0.37% Week 2.57% Year 133.63%
+You are staking 0.00 [Cake]-[TAKO] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[TAKO] APE LP
+Unstake 0.00 [Cake]-[TAKO] APE LP
+Claim 0.00 TAKO ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [WBNB]-[BUSD] APE LP [+] [-] [<=>] Price: $51.89 TVL: $9,459,773.60
+WBNB Price: $368.71
+BUSD Price: $1.00
+Staked: 155.5058 APE-LP ($8,069.52)
+TAKO Per Week: 1839.42 ($7.78)
+APR: Day 0.01% Week 0.10% Year 5.01%
+You are staking 0.00 [WBNB]-[BUSD] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] APE LP - Fee 3%
+Unstake 0.00 [WBNB]-[BUSD] APE LP
+Claim 0.00 TAKO ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - BANANA Price: $0.62 Market Cap: $69,386,667.66 [%]
+Staked: 1848.5225 BANANA ($1,142.58)
+TAKO Per Week: 1226.28 ($5.19)
+APR: Day 0.06% Week 0.45% Year 23.61%
+You are staking 0.00 BANANA ($0.00), 0.00% of the pool.
+Stake 0.00 BANANA - Fee 3%
+Unstake 0.00 BANANA
+Claim 0.00 TAKO ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - WBNB Price: $368.71 Market Cap: $1,924,869,477.20 [%]
+Staked: 12.0317 WBNB ($4,436.20)
+TAKO Per Week: 1839.42 ($7.78)
+APR: Day 0.03% Week 0.18% Year 9.12%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 3%
+Unstake 0.00 WBNB
+Claim 0.00 TAKO ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [Cake]-[WBNB] APE LP [+] [-] [<=>] Price: $111.29 TVL: $351,456.42
+Cake Price: $7.02
+WBNB Price: $368.71
+Staked: 24.2802 APE-LP ($2,702.16)
+TAKO Per Week: 1839.42 ($7.78)
+APR: Day 0.04% Week 0.29% Year 14.97%
+You are staking 0.00 [Cake]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] APE LP - Fee 3%
+Unstake 0.00 [Cake]-[WBNB] APE LP
+Claim 0.00 TAKO ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [ETH]-[WBNB] APE LP [+] [-] [<=>] Price: $2,014.68 TVL: $3,766,471.84
+ETH Price: $2,460.47
+WBNB Price: $368.71
+Staked: 0.1658 APE-LP ($334.05)
+TAKO Per Week: 1839.42 ($7.78)
+APR: Day 0.33% Week 2.33% Year 121.13%
+You are staking 0.00 [ETH]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] APE LP - Fee 3%
+Unstake 0.00 [ETH]-[WBNB] APE LP
+Claim 0.00 TAKO ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [BANANA]-[WBNB] APE LP [+] [-] [<=>] Price: $34.33 TVL: $12,962,954.82
+BANANA Price: $0.62
+WBNB Price: $368.71
+Staked: 3.2194 APE-LP ($110.52)
+TAKO Per Week: 1839.42 ($7.78)
+APR: Day 1.01% Week 7.04% Year 366.13%
+You are staking 0.00 [BANANA]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BANANA]-[WBNB] APE LP - Fee 3%
+Unstake 0.00 [BANANA]-[WBNB] APE LP
+Claim 0.00 TAKO ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - BUSD Price: $1.00 Market Cap: $4,850,999,388.63 [%]
+Staked: 4234.2364 BUSD ($4,234.24)
+TAKO Per Week: 1226.28 ($5.19)
+APR: Day 0.02% Week 0.12% Year 6.37%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 3%
+Unstake 0.00 BUSD
+Claim 0.00 TAKO ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - [INKU]-[WBNB] APE LP [+] [-] [<=>] Price: $7.68 TVL: $719.86
+INKU Price: $0.03
+WBNB Price: $368.71
+Staked: 85.9643 APE-LP ($660.15)
+TAKO Per Week: 8583.94 ($36.31)
+APR: Day 0.79% Week 5.50% Year 286.04%
+You are staking 0.00 [INKU]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [INKU]-[WBNB] APE LP
+Unstake 0.00 [INKU]-[WBNB] APE LP
+Claim 0.00 TAKO ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - INKU Price: $0.03 Market Cap: $3,727.49 [%]
+Staked: 38183.5423 INKU ($1,235.56)
+TAKO Per Week: 9810.22 ($41.50)
+APR: Day 0.48% Week 3.36% Year 174.66%
+You are staking 0.00 INKU ($0.00), 0.00% of the pool.
+Stake 0.00 INKU
+Unstake 0.00 INKU
+Claim 0.00 TAKO ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - [INKU]-[BUSD] APE LP [+] [-] [<=>] Price: $0.38 TVL: $967.51
+INKU Price: $0.03
+BUSD Price: $1.00
+Staked: 1332.1413 APE-LP ($508.26)
+TAKO Per Week: 4905.11 ($20.75)
+APR: Day 0.58% Week 4.08% Year 212.30%
+You are staking 0.00 [INKU]-[BUSD] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [INKU]-[BUSD] APE LP
+Unstake 0.00 [INKU]-[BUSD] APE LP
+Claim 0.00 TAKO ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - USDC Price: $1.00 Market Cap: $1,779,000,000.00 [%]
+Staked: 3096.2707 USDC ($3,096.27)
+TAKO Per Week: 1226.28 ($5.19)
+APR: Day 0.02% Week 0.17% Year 8.71%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 3%
+Unstake 0.00 USDC
+Claim 0.00 TAKO ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - MATIC Price: $1.62 Market Cap: $486,000,000.00 [%]
+Staked: 2247.6668 MATIC ($3,641.22)
+TAKO Per Week: 1226.28 ($5.19)
+APR: Day 0.02% Week 0.14% Year 7.41%
+You are staking 0.00 MATIC ($0.00), 0.00% of the pool.
+Stake 0.00 MATIC - Fee 3%
+Unstake 0.00 MATIC
+Claim 0.00 TAKO ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - pTAKO Price: $0.00 Market Cap: $0.00 
+Staked: 1.0000 pTAKO ($0.00)
+TAKO Per Week: 11281.75 ($47.73)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 pTAKO ($0.00), NaN% of the pool.
+Stake 0.00 pTAKO
+Unstake 0.00 pTAKO
+Claim 0.00 TAKO ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $42,683.09

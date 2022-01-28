@@ -1,0 +1,241 @@
+*************** 👨‍🌾 UNOFFICIAL SAPPHIRE.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://war.sapphiredefi.com/
+*********************************************************************************
+
+Fri Jan 28 2022 00:48:01 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 21 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [WFTM]-[WAR] SPOOKY LP [+] [-] [<=>] Price: $0.94 TVL: $593.15
+WFTM Price: $2.03
+WAR Price: $0.10
+Staked: 221.4605 spLP ($209.24)
+WAR Per Week: 267.81 ($27.26)
+APR: Day 1.86% Week 13.03% Year 677.40%
+You are staking 0.00 [WFTM]-[WAR] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[WAR] SPOOKY LP
+Unstake 0.00 [WFTM]-[WAR] SPOOKY LP
+Claim 0.00 WAR ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WFTM]-[SAPPHIRE] SPOOKY LP [+] [-] [<=>] Price: $2.01 TVL: $3,278.55
+WFTM Price: $2.03
+SAPPHIRE Price: $0.45
+Staked: 31.3294 spLP ($63.07)
+WAR Per Week: 3.35 ($0.34)
+APR: Day 0.08% Week 0.54% Year 28.09%
+You are staking 0.00 [WFTM]-[SAPPHIRE] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[SAPPHIRE] SPOOKY LP
+Unstake 0.00 [WFTM]-[SAPPHIRE] SPOOKY LP
+Claim 0.00 WAR ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WFTM]-[BOO] SPOOKY LP [+] [-] [<=>] Price: $14.94 TVL: $63,278,392.04
+WFTM Price: $2.03
+BOO Price: $25.16
+Staked: 1.5845 spLP ($23.67)
+WAR Per Week: 11.16 ($1.14)
+APR: Day 0.69% Week 4.80% Year 249.52%
+You are staking 0.00 [WFTM]-[BOO] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BOO] SPOOKY LP - Fee 4%
+Unstake 0.00 [WFTM]-[BOO] SPOOKY LP
+Claim 0.00 WAR ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WFTM]-[ETH] SPOOKY LP [+] [-] [<=>] Price: $157.04 TVL: $42,580,854.48
+WFTM Price: $2.03
+ETH Price: $2,352.96
+Staked: 0.0074 spLP ($1.16)
+WAR Per Week: 8.93 ($0.91)
+APR: Day 11.22% Week 78.51% Year 4082.73%
+You are staking 0.00 [WFTM]-[ETH] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ETH] SPOOKY LP - Fee 4%
+Unstake 0.00 [WFTM]-[ETH] SPOOKY LP
+Claim 0.00 WAR ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDC]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $4,362,885.93 TVL: $167,955,968.13
+USDC Price: $1.00
+WFTM Price: $2.03
+Staked: 0.0000 spLP ($0.00)
+WAR Per Week: 8.93 ($0.91)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[WFTM] SPOOKY LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[WFTM] SPOOKY LP - Fee 4%
+Unstake 0.00 [USDC]-[WFTM] SPOOKY LP
+Claim 0.00 WAR ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WFTM]-[SCREAM] SPOOKY LP [+] [-] [<=>] Price: $25.51 TVL: $16,712,213.07
+WFTM Price: $2.03
+SCREAM Price: $74.36
+Staked: 2.5459 spLP ($64.94)
+WAR Per Week: 8.93 ($0.91)
+APR: Day 0.20% Week 1.40% Year 72.75%
+You are staking 0.00 [WFTM]-[SCREAM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[SCREAM] SPOOKY LP - Fee 4%
+Unstake 0.00 [WFTM]-[SCREAM] SPOOKY LP
+Claim 0.00 WAR ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [WFTM]-[BTC] SPOOKY LP [+] [-] [<=>] Price: $11,287,541,035.45 TVL: $21,860,549.57
+WFTM Price: $2.03
+BTC Price: $35,995.00
+Staked: 0.0000 spLP ($56.44)
+WAR Per Week: 8.93 ($0.91)
+APR: Day 0.23% Week 1.61% Year 83.71%
+You are staking 0.00 [WFTM]-[BTC] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BTC] SPOOKY LP - Fee 4%
+Unstake 0.00 [WFTM]-[BTC] SPOOKY LP
+Claim 0.00 WAR ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [WFTM]-[DAI] SPOOKY LP [+] [-] [<=>] Price: $3.75 TVL: $43,744,291.35
+WFTM Price: $2.03
+DAI Price: $1.00
+Staked: 0.0800 spLP ($0.30)
+WAR Per Week: 8.93 ($0.91)
+APR: Day 43.25% Week 302.78% Year 15744.53%
+You are staking 0.00 [WFTM]-[DAI] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[DAI] SPOOKY LP - Fee 4%
+Unstake 0.00 [WFTM]-[DAI] SPOOKY LP
+Claim 0.00 WAR ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - WAR Price: $0.10 Market Cap: $1,017.75 
+Staked: 3327.8732 WAR ($338.71)
+WAR Per Week: 200.86 ($20.44)
+APR: Day 0.86% Week 6.04% Year 313.85%
+You are staking 0.00 WAR ($0.00), 0.00% of the pool.
+Stake 0.00 WAR
+Unstake 0.00 WAR
+Claim 0.00 WAR ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - SAPPHIRE Price: $0.45 Market Cap: $4,458.47 
+Staked: 35.4097 SAPPHIRE ($15.79)
+WAR Per Week: 3.35 ($0.34)
+APR: Day 0.31% Week 2.16% Year 112.23%
+You are staking 0.00 SAPPHIRE ($0.00), 0.00% of the pool.
+Stake 0.00 SAPPHIRE
+Unstake 0.00 SAPPHIRE
+Claim 0.00 WAR ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - SCARE Price: $0.00 Market Cap: $0.00 
+Staked: 11.7857 SCARE ($0.00)
+WAR Per Week: 2.23 ($0.23)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SCARE ($0.00), NaN% of the pool.
+Stake 0.00 SCARE
+Unstake 0.00 SCARE
+Claim 0.00 WAR ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - fOLIVE Price: $0.00 Market Cap: $0.00 
+Staked: 5735.8414 fOLIVE ($0.00)
+WAR Per Week: 2.23 ($0.23)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 fOLIVE ($0.00), NaN% of the pool.
+Stake 0.00 fOLIVE
+Unstake 0.00 fOLIVE
+Claim 0.00 WAR ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - WFTM Price: $2.03 Market Cap: $1,466,155,338.54 
+Staked: 295.1358 WFTM ($599.13)
+WAR Per Week: 11.16 ($1.14)
+APR: Day 0.03% Week 0.19% Year 9.86%
+You are staking 0.00 WFTM ($0.00), 0.00% of the pool.
+Stake 0.00 WFTM - Fee 4%
+Unstake 0.00 WFTM
+Claim 0.00 WAR ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - USDC Price: $1.00 Market Cap: $1,729,178,327.80 
+Staked: 4.4895 USDC ($4.49)
+WAR Per Week: 6.70 ($0.68)
+APR: Day 2.17% Week 15.18% Year 789.29%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 WAR ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - ETH Price: $2,352.96 Market Cap: $1,122,592,759.09 
+Staked: 0.0063 ETH ($14.73)
+WAR Per Week: 8.93 ($0.91)
+APR: Day 0.88% Week 6.17% Year 320.72%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 WAR ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - BTC Price: $35,995.00 Market Cap: $619,358,987.71 
+Staked: 0.0000 BTC ($0.00)
+WAR Per Week: 8.93 ($0.91)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 BTC ($0.00), NaN% of the pool.
+Stake 0.00 BTC - Fee 4%
+Unstake 0.00 BTC
+Claim 0.00 WAR ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - DAI Price: $1.00 Market Cap: $704,467,481.12 
+Staked: 9299.4720 DAI ($9,299.47)
+WAR Per Week: 6.70 ($0.68)
+APR: Day 0.00% Week 0.01% Year 0.38%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 WAR ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - fUSDT Price: $1.00 Market Cap: $350,441,901.33 
+Staked: 0.0000 fUSDT ($0.00)
+WAR Per Week: 6.70 ($0.68)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 fUSDT ($0.00), NaN% of the pool.
+Stake 0.00 fUSDT - Fee 4%
+Unstake 0.00 fUSDT
+Claim 0.00 WAR ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - BNB Price: $363.96 Market Cap: $13,799,230.10 
+Staked: 0.0088 BNB ($3.19)
+WAR Per Week: 8.93 ($0.91)
+APR: Day 4.07% Week 28.49% Year 1481.31%
+You are staking 0.00 BNB ($0.00), 0.00% of the pool.
+Stake 0.00 BNB - Fee 4%
+Unstake 0.00 BNB
+Claim 0.00 WAR ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - BOO Price: $25.16 Market Cap: $212,278,136.09 
+Staked: 0.9382 BOO ($23.61)
+WAR Per Week: 8.93 ($0.91)
+APR: Day 0.55% Week 3.85% Year 200.15%
+You are staking 0.00 BOO ($0.00), 0.00% of the pool.
+Stake 0.00 BOO - Fee 4%
+Unstake 0.00 BOO
+Claim 0.00 WAR ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - CGS Price: $0.00 Market Cap: $0.00 
+Staked: 1204.8933 CGS ($0.00)
+WAR Per Week: 2.23 ($0.23)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 CGS ($0.00), NaN% of the pool.
+Stake 0.00 CGS
+Unstake 0.00 CGS
+Claim 0.00 WAR ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $10,717.93

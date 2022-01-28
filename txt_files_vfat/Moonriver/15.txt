@@ -1,0 +1,37 @@
+*************** UNOFFICIAL ELK FARMING CALCULATOR ***************
+INFO  : https://elk.finance
+*****************************************************************
+
+Fri Jan 28 2022 01:15:22 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+[WMOVR]-[ELK] ELK LP [+] [-] [<=>] Price: $27.92 TVL: $120,764.19
+WMOVR Price: $71.64
+ELK Price: $2.41
+Staked: 4026.6099 ELP ($112,436.41)
+ELK Per Week: 1260.00 ($3,036.60)
+APR: Day 0.39% Week 2.70% Year 140.44%
+You are staking 0.000000 [WMOVR]-[ELK] ELK LP $0.00 (0.00% of the pool).
+Stake 0.000000 [WMOVR]-[ELK] ELK LP
+Unstake 0.000000 [WMOVR]-[ELK] ELK LP
+Claim 0.000000 ELK ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[DAI]-[ELK] ELK LP [+] [-] [<=>] Price: $3.24 TVL: $29,922.29
+DAI Price: $1.00
+ELK Price: $2.41
+Staked: 9167.3312 ELP ($29,706.59)
+ELK Per Week: 301.00 ($725.41)
+APR: Day 0.35% Week 2.44% Year 126.98%
+You are staking 0.000000 [DAI]-[ELK] ELK LP $0.00 (0.00% of the pool).
+Stake 0.000000 [DAI]-[ELK] ELK LP
+Unstake 0.000000 [DAI]-[ELK] ELK LP
+Claim 0.000000 ELK ($0.00)
+Revoke (set approval to 0)
+Exit
+
+Total staked: $142,143.00

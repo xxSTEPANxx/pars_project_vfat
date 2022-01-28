@@ -6,187 +6,20 @@ INFO  : https://cancer.astrofarms.finance
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Fri Dec 17 2021 10:36:40 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 22:48:02 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
+Staking Contract
 Found 17 pools.
 Showing incentivized pools only.
-Finished reading smart contracts.
-0 - [CANCER]-[USDC] Uni LP [+] [-] [<=>] Price: $22,188.00 TVL: $26.41
-CANCER Price: $0.0000882867
-USDC Price: $1.00
-Staked: 0.0008 UNI-V2 ($17.08)
-CANCER Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 [CANCER]-[USDC] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [CANCER]-[USDC] Uni LP
-Unstake 0.00 [CANCER]-[USDC] Uni LP
-Claim 0.00 CANCER ($0.00)
-Staking or unstaking also claims rewards.
-
-1 - [CANCER]-[WMATIC] Uni LP [+] [-] [<=>] Price: $0.03 TVL: $17.12
-CANCER Price: $0.0000882867
-WMATIC Price: $2.03
-Staked: 10.4609 UNI-V2 ($0.32)
-CANCER Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 [CANCER]-[WMATIC] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [CANCER]-[WMATIC] Uni LP
-Unstake 0.00 [CANCER]-[WMATIC] Uni LP
-Claim 0.00 CANCER ($0.00)
-Staking or unstaking also claims rewards.
-
-2 - WMATIC Price: $2.03 Market Cap: $619,580,346.32 [%]
-Staked: 26.9542 WMATIC ($54.72)
-CANCER Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
-Stake 0.00 WMATIC - Fee 4%
-Unstake 0.00 WMATIC
-Claim 0.00 CANCER ($0.00)
-Staking or unstaking also claims rewards.
-
-3 - LEO Price: $0.00 Market Cap: $0.00 
-Staked: 0.6643 LEO ($0.00)
-CANCER Per Week: 1309.09 ($0.12)
-APR: Day NaN% Week NaN% Year NaN%
-You are staking 0.00 LEO ($0.00), NaN% of the pool.
-Stake 0.00 LEO
-Unstake 0.00 LEO
-Claim 0.00 CANCER ($0.00)
-Staking or unstaking also claims rewards.
-
-4 - [USDC]-[LEO] Uni LP [+] [-] [<=>] Price: $37,188,207.49 TVL: $12,689.86
-USDC Price: $1.00
-LEO Price: $294.32
-Staked: 0.0000 UNI-V2 ($279.25)
-CANCER Per Week: 13090.91 ($1.16)
-APR: Day 0.06% Week 0.41% Year 21.52%
-You are staking 0.00 [USDC]-[LEO] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[LEO] Uni LP
-Unstake 0.00 [USDC]-[LEO] Uni LP
-Claim 0.00 CANCER ($0.00)
-Staking or unstaking also claims rewards.
-
-5 - [USDC]-[USDT] Uni LP [+] [-] [<=>] Price: $2,619,438,335,921.24 TVL: $24,046,749.11
-USDC Price: $1.00
-USDT Price: $1.00
-Staked: 0.0000 UNI-V2 ($0.00)
-CANCER Per Week: 0.00 ($0.00)
-APR: Day Infinity% Week Infinity% Year Infinity%
-You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), NaN% of the pool.
-Stake 0.00 [USDC]-[USDT] Uni LP - Fee 4%
-Unstake 0.00 [USDC]-[USDT] Uni LP
-Claim 0.00 CANCER ($0.00)
-Staking or unstaking also claims rewards.
-
-6 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,705,598.82 TVL: $50,860,709.01
-WMATIC Price: $2.03
-USDC Price: $1.00
-Staked: 0.0000 UNI-V2 ($0.00)
-CANCER Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.22%
-You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
-Unstake 0.00 [WMATIC]-[USDC] Uni LP
-Claim 0.00 CANCER ($0.00)
-Staking or unstaking also claims rewards.
-
-7 - [WMATIC]-[QUICK] Uni LP [+] [-] [<=>] Price: $62.73 TVL: $9,303,948.29
-WMATIC Price: $2.03
-QUICK Price: $240.77
-Staked: 0.0000 UNI-V2 ($0.00)
-CANCER Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 [WMATIC]-[QUICK] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[QUICK] Uni LP - Fee 4%
-Unstake 0.00 [WMATIC]-[QUICK] Uni LP
-Claim 0.00 CANCER ($0.00)
-Staking or unstaking also claims rewards.
-
-8 - [WBTC]-[USDC] Uni LP [+] [-] [<=>] Price: $50,828,858,018,166.88 TVL: $11,383,918.94
-WBTC Price: $46,938.00
-USDC Price: $1.00
-Staked: 0.0000 UNI-V2 ($0.00)
-CANCER Per Week: 0.00 ($0.00)
-APR: Day Infinity% Week Infinity% Year Infinity%
-You are staking 0.00 [WBTC]-[USDC] Uni LP ($0.00), NaN% of the pool.
-Stake 0.00 [WBTC]-[USDC] Uni LP - Fee 4%
-Unstake 0.00 [WBTC]-[USDC] Uni LP
-Claim 0.00 CANCER ($0.00)
-Staking or unstaking also claims rewards.
-
-9 - CANCER Price: $0.0000882867 Market Cap: $27.75 [%]
-Staked: 16636.3636 CANCER ($1.47)
-CANCER Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 CANCER ($0.00), 0.00% of the pool.
-Stake 0.00 CANCER
-Unstake 0.00 CANCER
-Claim 0.00 CANCER ($0.00)
-Staking or unstaking also claims rewards.
-
-10 - WETH Price: $3,886.67 Market Cap: $1,725,720,785.67 [%]
-Staked: 0.0000 WETH ($0.00)
-CANCER Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.01% Year 0.39%
-You are staking 0.00 WETH ($0.00), 0.00% of the pool.
-Stake 0.00 WETH - Fee 4%
-Unstake 0.00 WETH
-Claim 0.00 CANCER ($0.00)
-Staking or unstaking also claims rewards.
-
-11 - WBTC Price: $46,938.00 Market Cap: $474,253,856.60 [%]
-Staked: 0.0001 WBTC ($5.94)
-CANCER Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
-Stake 0.00 WBTC - Fee 4%
-Unstake 0.00 WBTC
-Claim 0.00 CANCER ($0.00)
-Staking or unstaking also claims rewards.
-
-12 - USDT Price: $1.00 Market Cap: $319,086,376.54 [%]
-Staked: 9.6000 USDT ($9.58)
-CANCER Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 USDT ($0.00), 0.00% of the pool.
-Stake 0.00 USDT - Fee 4%
-Unstake 0.00 USDT
-Claim 0.00 CANCER ($0.00)
-Staking or unstaking also claims rewards.
-
-13 - USDC Price: $1.00 Market Cap: $950,284,676.67 [%]
-Staked: 1.9771 USDC ($1.97)
-CANCER Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 USDC ($0.00), 0.00% of the pool.
-Stake 0.00 USDC - Fee 4%
-Unstake 0.00 USDC
-Claim 0.00 CANCER ($0.00)
-Staking or unstaking also claims rewards.
-
-14 - DAI Price: $1.00 Market Cap: $367,225,783.89 [%]
-Staked: 319.6392 DAI ($319.27)
-CANCER Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 DAI ($0.00), 0.00% of the pool.
-Stake 0.00 DAI - Fee 4%
-Unstake 0.00 DAI
-Claim 0.00 CANCER ($0.00)
-Staking or unstaking also claims rewards.
-
-15 - QUICK Price: $240.77 Market Cap: $230,064,983.31 [%]
-Staked: 0.0269 QUICK ($6.48)
-CANCER Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
-Stake 0.00 QUICK - Fee 4%
-Unstake 0.00 QUICK
-Claim 0.00 CANCER ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $696.08
+{
+  "code": -32603,
+  "message": "Non-200 status code: '400'",
+  "data": {
+    "error": "Unable to verify your data submission."
+  }
+}
+Oops something went wrong. Try refreshing the page.

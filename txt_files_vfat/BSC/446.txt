@@ -1,0 +1,217 @@
+*************** 👨‍🌾 UNOFFICIAL MARSSWAP.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://marsswap.finance
+*******************************************************************************************
+
+Thu Jan 27 2022 21:29:47 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 17 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [MARS]-[WBNB] Uni LP [+] [-] [<=>] Price: $1.05 TVL: $1,413.52
+MARS Price: $0.000732
+WBNB Price: $368.13
+Staked: 833.0971 MARS-LP ($871.90)
+MARS Per Week: 30240.00 ($22.13)
+APR: Day 0.36% Week 2.54% Year 131.97%
+You are staking 0.00 [MARS]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MARS]-[WBNB] Uni LP
+Unstake 0.00 [MARS]-[WBNB] Uni LP
+Claim 0.00 MARS ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [mAAPL]-[WBNB] Uni LP [+] [-] [<=>] Price: $1,755.64 TVL: $202.78
+mAAPL Price: $2,087.57
+WBNB Price: $368.13
+Staked: 0.1154 MARS-LP ($202.58)
+MARS Per Week: 1008.00 ($0.74)
+APR: Day 0.05% Week 0.36% Year 18.93%
+You are staking 0.00 [mAAPL]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [mAAPL]-[WBNB] Uni LP
+Unstake 0.00 [mAAPL]-[WBNB] Uni LP
+Claim 0.00 MARS ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [mMSFT]-[WBNB] Uni LP [+] [-] [<=>] Price: $692.25 TVL: $21.04
+mMSFT Price: $325.39
+WBNB Price: $368.13
+Staked: 0.0304 MARS-LP ($21.04)
+MARS Per Week: 1008.00 ($0.74)
+APR: Day 0.50% Week 3.51% Year 182.31%
+You are staking 0.00 [mMSFT]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [mMSFT]-[WBNB] Uni LP
+Unstake 0.00 [mMSFT]-[WBNB] Uni LP
+Claim 0.00 MARS ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [mAMZN]-[WBNB] Uni LP [+] [-] [<=>] Price: $2,057.86 TVL: $21.22
+mAMZN Price: $2,866.39
+WBNB Price: $368.13
+Staked: 0.0102 MARS-LP ($20.98)
+MARS Per Week: 1008.00 ($0.74)
+APR: Day 0.50% Week 3.52% Year 182.80%
+You are staking 0.00 [mAMZN]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [mAMZN]-[WBNB] Uni LP
+Unstake 0.00 [mAMZN]-[WBNB] Uni LP
+Claim 0.00 MARS ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [mGOOGL]-[WBNB] Uni LP [+] [-] [<=>] Price: $1,973.85 TVL: $81.73
+mGOOGL Price: $2,632.46
+WBNB Price: $368.13
+Staked: 0.0410 MARS-LP ($80.90)
+MARS Per Week: 1008.00 ($0.74)
+APR: Day 0.13% Week 0.91% Year 47.41%
+You are staking 0.00 [mGOOGL]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [mGOOGL]-[WBNB] Uni LP
+Unstake 0.00 [mGOOGL]-[WBNB] Uni LP
+Claim 0.00 MARS ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WBNB]-[mTSLA] Uni LP [+] [-] [<=>] Price: $1,120.97 TVL: $20.09
+WBNB Price: $368.13
+mTSLA Price: $850.47
+Staked: 0.0174 MARS-LP ($19.53)
+MARS Per Week: 1008.00 ($0.74)
+APR: Day 0.54% Week 3.78% Year 196.36%
+You are staking 0.00 [WBNB]-[mTSLA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[mTSLA] Uni LP
+Unstake 0.00 [WBNB]-[mTSLA] Uni LP
+Claim 0.00 MARS ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [mCOIN]-[WBNB] Uni LP [+] [-] [<=>] Price: $543.34 TVL: $16.91
+mCOIN Price: $200.05
+WBNB Price: $368.13
+Staked: 0.0309 MARS-LP ($16.79)
+MARS Per Week: 1008.00 ($0.74)
+APR: Day 0.63% Week 4.39% Year 228.41%
+You are staking 0.00 [mCOIN]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [mCOIN]-[WBNB] Uni LP
+Unstake 0.00 [mCOIN]-[WBNB] Uni LP
+Claim 0.00 MARS ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [mNFLX]-[WBNB] Uni LP [+] [-] [<=>] Price: $762.84 TVL: $31.22
+mNFLX Price: $385.91
+WBNB Price: $368.13
+Staked: 0.0308 MARS-LP ($23.53)
+MARS Per Week: 1008.00 ($0.74)
+APR: Day 0.45% Week 3.13% Year 163.01%
+You are staking 0.00 [mNFLX]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [mNFLX]-[WBNB] Uni LP
+Unstake 0.00 [mNFLX]-[WBNB] Uni LP
+Claim 0.00 MARS ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [mFB]-[WBNB] Uni LP [+] [-] [<=>] Price: $735.08 TVL: $22.13
+mFB Price: $366.61
+WBNB Price: $368.13
+Staked: 0.0300 MARS-LP ($22.05)
+MARS Per Week: 1008.00 ($0.74)
+APR: Day 0.48% Week 3.34% Year 173.93%
+You are staking 0.00 [mFB]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [mFB]-[WBNB] Uni LP
+Unstake 0.00 [mFB]-[WBNB] Uni LP
+Claim 0.00 MARS ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [mTWTR]-[WBNB] Uni LP [+] [-] [<=>] Price: $311.24 TVL: $22.37
+mTWTR Price: $65.78
+WBNB Price: $368.13
+Staked: 0.0719 MARS-LP ($22.36)
+MARS Per Week: 1008.00 ($0.74)
+APR: Day 0.47% Week 3.30% Year 171.50%
+You are staking 0.00 [mTWTR]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [mTWTR]-[WBNB] Uni LP
+Unstake 0.00 [mTWTR]-[WBNB] Uni LP
+Claim 0.00 MARS ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [WBNB]-[mBABA] Uni LP [+] [-] [<=>] Price: $873.77 TVL: $57.00
+WBNB Price: $368.13
+mBABA Price: $517.18
+Staked: 0.0651 MARS-LP ($56.92)
+MARS Per Week: 1008.00 ($0.74)
+APR: Day 0.19% Week 1.30% Year 67.39%
+You are staking 0.00 [WBNB]-[mBABA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[mBABA] Uni LP
+Unstake 0.00 [WBNB]-[mBABA] Uni LP
+Claim 0.00 MARS ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [mQQQ]-[WBNB] Uni LP [+] [-] [<=>] Price: $829.83 TVL: $54.48
+mQQQ Price: $462.63
+WBNB Price: $368.13
+Staked: 0.0617 MARS-LP ($51.18)
+MARS Per Week: 1008.00 ($0.74)
+APR: Day 0.21% Week 1.44% Year 74.95%
+You are staking 0.00 [mQQQ]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [mQQQ]-[WBNB] Uni LP
+Unstake 0.00 [mQQQ]-[WBNB] Uni LP
+Claim 0.00 MARS ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [mIAU]-[WBNB] Uni LP [+] [-] [<=>] Price: $0.00 TVL: $0.00
+mIAU Price: $0.00
+WBNB Price: $368.13
+Staked: 0.0000 MARS-LP ($0.00)
+MARS Per Week: 1008.00 ($0.74)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [mIAU]-[WBNB] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [mIAU]-[WBNB] Uni LP
+Unstake 0.00 [mIAU]-[WBNB] Uni LP
+Claim 0.00 MARS ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [mSLV]-[WBNB] Uni LP [+] [-] [<=>] Price: $175.30 TVL: $23.26
+mSLV Price: $20.87
+WBNB Price: $368.13
+Staked: 0.1327 MARS-LP ($23.26)
+MARS Per Week: 1008.00 ($0.74)
+APR: Day 0.45% Week 3.17% Year 164.90%
+You are staking 0.00 [mSLV]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [mSLV]-[WBNB] Uni LP
+Unstake 0.00 [mSLV]-[WBNB] Uni LP
+Claim 0.00 MARS ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [mUSO]-[WBNB] Uni LP [+] [-] [<=>] Price: $260.97 TVL: $21.98
+mUSO Price: $46.23
+WBNB Price: $368.13
+Staked: 0.0841 MARS-LP ($21.95)
+MARS Per Week: 1008.00 ($0.74)
+APR: Day 0.48% Week 3.36% Year 174.71%
+You are staking 0.00 [mUSO]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [mUSO]-[WBNB] Uni LP
+Unstake 0.00 [mUSO]-[WBNB] Uni LP
+Claim 0.00 MARS ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [mVIXY]-[WBNB] Uni LP [+] [-] [<=>] Price: $0.00 TVL: $0.00
+mVIXY Price: $0.00
+WBNB Price: $368.13
+Staked: 0.0000 MARS-LP ($0.00)
+MARS Per Week: 1008.00 ($0.74)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [mVIXY]-[WBNB] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [mVIXY]-[WBNB] Uni LP
+Unstake 0.00 [mVIXY]-[WBNB] Uni LP
+Claim 0.00 MARS ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - MARS Price: $0.000732 Market Cap: $1,835.68 [%]
+Staked: 459560.0005 MARS ($336.28)
+MARS Per Week: 15120.00 ($11.06)
+APR: Day 0.47% Week 3.29% Year 171.09%
+You are staking 0.00 MARS ($0.00), 0.00% of the pool.
+Stake 0.00 MARS
+Unstake 0.00 MARS
+Claim 0.00 MARS ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $1,791.27

@@ -1,0 +1,277 @@
+*************** 👨‍🌾 UNOFFICIAL MAGICLAND FINANCE FARMING CALCULATOR 👨‍🌾 ************
+INFO  : https://magicland.fi
+***********************************************************************************
+
+Fri Jan 28 2022 01:11:52 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 24 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - iMAGIC Price: $0.05 Market Cap: $43,648.43 
+Staked: 317392.8060 iMAGIC ($15,941.05)
+MAGIC Per Week: 3976.77 ($199.73)
+APR: Day 0.18% Week 1.25% Year 65.15%
+You are staking 0.00 iMAGIC ($0.00), 0.00% of the pool.
+Stake 0.00 iMAGIC
+Unstake 0.00 iMAGIC - Fee 0.5%
+Claim 0.00 MAGIC ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [iMAGIC]-[ioBUSD] Mimo LP Token [+] [-] [<=>] Price: $0.47 TVL: $8,872.62
+iMAGIC Price: $0.05
+ioBUSD Price: $1.00
+Staked: 15109.8642 MIMO-LP ($7,091.82)
+MAGIC Per Week: 5302.36 ($266.31)
+APR: Day 0.54% Week 3.76% Year 195.27%
+You are staking 0.00 [iMAGIC]-[ioBUSD] Mimo LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [iMAGIC]-[ioBUSD] Mimo LP Token
+Unstake 0.00 [iMAGIC]-[ioBUSD] Mimo LP Token
+Claim 0.00 MAGIC ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [iMAGIC]-[WIOTX] Mimo LP Token [+] [-] [<=>] Price: $0.13 TVL: $25,415.10
+iMAGIC Price: $0.05
+WIOTX Price: $0.07
+Staked: 181632.9948 MIMO-LP ($24,318.53)
+MAGIC Per Week: 10604.71 ($532.62)
+APR: Day 0.31% Week 2.19% Year 113.89%
+You are staking 0.00 [iMAGIC]-[WIOTX] Mimo LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [iMAGIC]-[WIOTX] Mimo LP Token
+Unstake 0.00 [iMAGIC]-[WIOTX] Mimo LP Token
+Claim 0.00 MAGIC ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - WIOTX Price: $0.07 Market Cap: $74,495,323.03 
+Staked: 25472273.4984 WIOTX ($1,867,830.87)
+MAGIC Per Week: 10604.71 ($532.62)
+APR: Day 0.00% Week 0.03% Year 1.48%
+You are staking 0.00 WIOTX ($0.00), 0.00% of the pool.
+Stake 0.00 WIOTX
+Unstake 0.00 WIOTX - Fee 1.99%
+Claim 0.00 MAGIC ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - MCN Price: $20.89 Market Cap: $154,854.42 
+Staked: 1349.0299 MCN ($28,181.24)
+MAGIC Per Week: 2651.18 ($133.16)
+APR: Day 0.07% Week 0.47% Year 24.57%
+You are staking 0.00 MCN ($0.00), 0.00% of the pool.
+Stake 0.00 MCN
+Unstake 0.00 MCN - Fee 1.99%
+Claim 0.00 MAGIC ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - CYC Price: $131.87 Market Cap: $2,157,232.53 
+Staked: 385.7359 CYC ($50,866.99)
+MAGIC Per Week: 1723.27 ($86.55)
+APR: Day 0.02% Week 0.17% Year 8.85%
+You are staking 0.00 CYC ($0.00), 0.00% of the pool.
+Stake 0.00 CYC
+Unstake 0.00 CYC - Fee 3.99%
+Claim 0.00 MAGIC ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - ioETH Price: $2,240.15 Market Cap: $2,181,135.28 
+Staked: 17.0251 ioETH ($38,138.71)
+MAGIC Per Week: 397.68 ($19.97)
+APR: Day 0.01% Week 0.05% Year 2.72%
+You are staking 0.00 ioETH ($0.00), 0.00% of the pool.
+Stake 0.00 ioETH
+Unstake 0.00 ioETH - Fee 3.99%
+Claim 0.00 MAGIC ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - ioWBTC Price: $35,907.00 Market Cap: $456,697.11 
+Staked: 0.2629 ioWBTC ($9,440.46)
+MAGIC Per Week: 397.68 ($19.97)
+APR: Day 0.03% Week 0.21% Year 11.00%
+You are staking 0.00 ioWBTC ($0.00), 0.00% of the pool.
+Stake 0.00 ioWBTC
+Unstake 0.00 ioWBTC - Fee 3.99%
+Claim 0.00 MAGIC ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - DAI-matic Price: $1.00 Market Cap: $259,772.01 
+Staked: 10000.3000 DAI-matic ($10,000.30)
+MAGIC Per Week: 265.12 ($13.32)
+APR: Day 0.02% Week 0.13% Year 6.92%
+You are staking 0.00 DAI-matic ($0.00), 0.00% of the pool.
+Stake 0.00 DAI-matic
+Unstake 0.00 DAI-matic - Fee 3.99%
+Claim 0.00 MAGIC ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - ioBUSD Price: $1.00 Market Cap: $871,484.75 
+Staked: 5203.6830 ioBUSD ($5,203.68)
+MAGIC Per Week: 132.56 ($6.66)
+APR: Day 0.02% Week 0.13% Year 6.65%
+You are staking 0.00 ioBUSD ($0.00), 0.00% of the pool.
+Stake 0.00 ioBUSD
+Unstake 0.00 ioBUSD - Fee 3.99%
+Claim 0.00 MAGIC ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - BUSD-bsc Price: $1.00 Market Cap: $2,823,886.41 
+Staked: 5329.1479 BUSD-bsc ($5,329.15)
+MAGIC Per Week: 132.56 ($6.66)
+APR: Day 0.02% Week 0.12% Year 6.50%
+You are staking 0.00 BUSD-bsc ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD-bsc
+Unstake 0.00 BUSD-bsc - Fee 3.99%
+Claim 0.00 MAGIC ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - ioUSDC Price: $1.00 Market Cap: $1,234,623.51 
+Staked: 1096.4159 ioUSDC ($1,096.42)
+MAGIC Per Week: 132.56 ($6.66)
+APR: Day 0.09% Week 0.61% Year 31.58%
+You are staking 0.00 ioUSDC ($0.00), 0.00% of the pool.
+Stake 0.00 ioUSDC
+Unstake 0.00 ioUSDC - Fee 3.99%
+Claim 0.00 MAGIC ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [MCN]-[WIOTX] Mimo LP Token [+] [-] [<=>] Price: $2.51 TVL: $116,771.77
+MCN Price: $20.89
+WIOTX Price: $0.07
+Staked: 22856.2507 MIMO-LP ($57,476.66)
+MAGIC Per Week: 2651.18 ($133.16)
+APR: Day 0.03% Week 0.23% Year 12.05%
+You are staking 0.00 [MCN]-[WIOTX] Mimo LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [MCN]-[WIOTX] Mimo LP Token
+Unstake 0.00 [MCN]-[WIOTX] Mimo LP Token
+Claim 0.00 MAGIC ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [CYC]-[WIOTX] Mimo LP Token [+] [-] [<=>] Price: $6.44 TVL: $1,608,997.16
+CYC Price: $131.87
+WIOTX Price: $0.07
+Staked: 275.0150 MIMO-LP ($1,770.74)
+MAGIC Per Week: 662.79 ($33.29)
+APR: Day 0.27% Week 1.88% Year 97.76%
+You are staking 0.00 [CYC]-[WIOTX] Mimo LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [CYC]-[WIOTX] Mimo LP Token
+Unstake 0.00 [CYC]-[WIOTX] Mimo LP Token - Fee 2.99%
+Claim 0.00 MAGIC ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [iMAGIC]-[CYC] Mimo LP Token [+] [-] [<=>] Price: $5.28 TVL: $1,698.11
+iMAGIC Price: $0.05
+CYC Price: $131.87
+Staked: 315.7574 MIMO-LP ($1,667.99)
+MAGIC Per Week: 1325.59 ($66.58)
+APR: Day 0.57% Week 3.99% Year 207.56%
+You are staking 0.00 [iMAGIC]-[CYC] Mimo LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [iMAGIC]-[CYC] Mimo LP Token
+Unstake 0.00 [iMAGIC]-[CYC] Mimo LP Token
+Claim 0.00 MAGIC ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [CIOTX]-[WIOTX] Mimo LP Token [+] [-] [<=>] Price: $0.15 TVL: $5,670,146.98
+CIOTX Price: $0.07
+WIOTX Price: $0.07
+Staked: 97549.2975 MIMO-LP ($14,305.24)
+MAGIC Per Week: 662.79 ($33.29)
+APR: Day 0.03% Week 0.23% Year 12.10%
+You are staking 0.00 [CIOTX]-[WIOTX] Mimo LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [CIOTX]-[WIOTX] Mimo LP Token
+Unstake 0.00 [CIOTX]-[WIOTX] Mimo LP Token - Fee 2.99%
+Claim 0.00 MAGIC ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [ioUSDC]-[iMAGIC] Mimo LP Token [+] [-] [<=>] Price: $462,157.93 TVL: $3,134.93
+ioUSDC Price: $1.00
+iMAGIC Price: $0.05
+Staked: 0.0067 MIMO-LP ($3,094.96)
+MAGIC Per Week: 1988.38 ($99.87)
+APR: Day 0.46% Week 3.23% Year 167.79%
+You are staking 0.00 [ioUSDC]-[iMAGIC] Mimo LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [ioUSDC]-[iMAGIC] Mimo LP Token
+Unstake 0.00 [ioUSDC]-[iMAGIC] Mimo LP Token
+Claim 0.00 MAGIC ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [GFT]-[WIOTX] Mimo LP Token [+] [-] [<=>] Price: $1.72 TVL: $2,535,493.17
+GFT Price: $9.36
+WIOTX Price: $0.07
+Staked: 2343.7435 MIMO-LP ($4,037.42)
+MAGIC Per Week: 662.79 ($33.29)
+APR: Day 0.12% Week 0.82% Year 42.87%
+You are staking 0.00 [GFT]-[WIOTX] Mimo LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [GFT]-[WIOTX] Mimo LP Token
+Unstake 0.00 [GFT]-[WIOTX] Mimo LP Token - Fee 2.99%
+Claim 0.00 MAGIC ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - GFT Price: $9.36 Market Cap: $17,174,839.29 
+Staked: 485.2347 GFT ($4,542.99)
+MAGIC Per Week: 397.68 ($19.97)
+APR: Day 0.06% Week 0.44% Year 22.86%
+You are staking 0.00 GFT ($0.00), 0.00% of the pool.
+Stake 0.00 GFT
+Unstake 0.00 GFT - Fee 3.99%
+Claim 0.00 MAGIC ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - METX Price: $0.00 Market Cap: $0.00 
+Staked: 5411419.7713 METX ($0.00)
+MAGIC Per Week: 132.56 ($6.66)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 METX ($0.00), NaN% of the pool.
+Stake 0.00 METX
+Unstake 0.00 METX - Fee 3.99%
+Claim 0.00 MAGIC ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - [DAI-matic]-[BUSD-bsc] Mimo LP Token [+] [-] [<=>] Price: $2.03 TVL: $3,003.35
+DAI-matic Price: $1.00
+BUSD-bsc Price: $1.00
+Staked: 506.1466 MIMO-LP ($1,029.39)
+MAGIC Per Week: 132.56 ($6.66)
+APR: Day 0.09% Week 0.65% Year 33.63%
+You are staking 0.00 [DAI-matic]-[BUSD-bsc] Mimo LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI-matic]-[BUSD-bsc] Mimo LP Token
+Unstake 0.00 [DAI-matic]-[BUSD-bsc] Mimo LP Token - Fee 2.99%
+Claim 0.00 MAGIC ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - [USDT-matic]-[ioUSDT] Mimo LP Token [+] [-] [<=>] Price: $2,037,904,721,460.75 TVL: $3,700.94
+USDT-matic Price: $1.00
+ioUSDT Price: $0.99
+Staked: 0.0000 MIMO-LP ($651.29)
+MAGIC Per Week: 132.56 ($6.66)
+APR: Day 0.15% Week 1.02% Year 53.16%
+You are staking 0.00 [USDT-matic]-[ioUSDT] Mimo LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT-matic]-[ioUSDT] Mimo LP Token
+Unstake 0.00 [USDT-matic]-[ioUSDT] Mimo LP Token - Fee 2.99%
+Claim 0.00 MAGIC ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - [ioUSDT]-[BUSD-bsc] Mimo LP Token [+] [-] [<=>] Price: $2,023,599.07 TVL: $421,949.58
+ioUSDT Price: $0.99
+BUSD-bsc Price: $1.00
+Staked: 0.0008 MIMO-LP ($1,594.43)
+MAGIC Per Week: 662.79 ($33.29)
+APR: Day 0.30% Week 2.09% Year 108.57%
+You are staking 0.00 [ioUSDT]-[BUSD-bsc] Mimo LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [ioUSDT]-[BUSD-bsc] Mimo LP Token
+Unstake 0.00 [ioUSDT]-[BUSD-bsc] Mimo LP Token - Fee 1.99%
+Claim 0.00 MAGIC ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - XIM Price: $0.00 Market Cap: $0.00 
+Staked: 6940.0928 XIM ($0.00)
+MAGIC Per Week: 2651.18 ($133.16)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 XIM ($0.00), NaN% of the pool.
+Stake 0.00 XIM
+Unstake 0.00 XIM - Fee 0.5%
+Claim 0.00 MAGIC ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $2,153,610.34

@@ -1,0 +1,159 @@
+*************** 👨‍🌾 UNOFFICIAL PARADISEFI FARMING CALCULATOR 👨‍🌾 ***********************************************
+
+      /$$$$$$$   /$$$$$$  /$$$$$$$   /$$$$$$  /$$$$$$$  /$$$$$$  /$$$$$$  /$$$$$$$$ /$$$$$$$$ /$$$$$$
+      | $$__  $$ /$$__  $$| $$__  $$ /$$__  $$| $$__  $$|_  $$_/ /$$__  $$| $$_____/| $$_____/|_  $$_/
+      | $$  \ $$| $$  \ $$| $$  \ $$| $$  \ $$| $$  \ $$  | $$  | $$  \__/| $$      | $$        | $$  
+      | $$$$$$$/| $$$$$$$$| $$$$$$$/| $$$$$$$$| $$  | $$  | $$  |  $$$$$$ | $$$$$   | $$$$$     | $$  
+      | $$____/ | $$__  $$| $$__  $$| $$__  $$| $$  | $$  | $$   \____  $$| $$__/   | $$__/     | $$  
+      | $$      | $$  | $$| $$  \ $$| $$  | $$| $$  | $$  | $$   /$$  \ $$| $$      | $$        | $$  
+      | $$      | $$  | $$| $$  | $$| $$  | $$| $$$$$$$/ /$$$$$$|  $$$$$$/| $$$$$$$$| $$       /$$$$$$
+      |__/      |__/  |__/|__/  |__/|__/  |__/|_______/ |______/ \______/ |________/|__/      |______/
+                             
+      
+
+      
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmhhhhddhhhhmMMMMdhhhhddhhhhmMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMyo+++/////++oyNNyo++/////+++ssMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMhs++/-.````.-++/dd/++..````.-+++shMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNs/+:`        -/ooos:.        `/o/sMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN+ss.` ``...    -s//o-    ...`` .:+yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN+ss```..----`  -o//+.  .----.. `.shMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN/ss```.--:/+-  .+///.  -o/:--.`.-ohMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmyo-...:o++y:  .+///. `/y+++-.`-/+yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMy++:`.:so+s:  .+///. `:yoos:.`:o+sMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMy+o/`.:so+o-  -o//+.  :s+os:../sydMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmdo+:.:sso-. `:s//s-  ./ooo-./++NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM+oo..:// ``:/+//+:- ``//-.-ssoMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMyyo/:```   ````````   ```/++hNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMdy+o/                   `/o+ydMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMdh+++.`                    `.+++hdMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNys++:``./:-              -:/.``:++ssNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN+ss.` -/y/-              -/y+: `.ss/NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNm++/   ``.`                `.``   /++mNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMsss:`                              `:sssMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMo+o-                                -o+oMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMo+o-    ``   ``           `   ``    -o+oMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMo+o-    `.//:`             ://.`    -o+oMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMo+o:.    `..`     `..`     ``.``   `:o+oMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMsos/-``  `...   `.:oo:.`   ..-`` ``-/sosMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmho++...``      `.----.`      ``...++odmMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNyys+/--....```````````````...--/+oyyNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNhysso+/::--............--::/+ossydNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMdhyoos+/:------------:/+sooyhdMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmhs+/.`..............`.:+shmMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNh+o/`````  `````   `````/o+hNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmooooos:. -:`            `:- .-sooooomMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMsoyss/:.`.:+o``           `o+:.`.:/ssyosMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMsoyyy..-:/+oo::-````````-::oo+/:-..yyyosMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMdhsss++o-.`..---://::///:--..`.-++osssyyMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNmoooso/`       .:++/..`       `-+yooomNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNooo:-.``::/:-``       ``.--/osNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMyysoo++++-``` ..---:::///+ossyMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmdhhhyss+:-:/++ooosssyyhhhhmMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmdsssooshhdddddmmNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmmmmmmNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+
+                                    Website: https://paradisefi.io/ 
+
+                                    Twitter: https://twitter.com/Paradisefi_io
+
+                                    Telegram: https://t.me/ParadiseFi
+
+                                    Discord: https://discord.gg/8y8QfbpMqq
+
+**********************************************************************************************************************
+
+Fri Jan 28 2022 01:05:13 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+There is a withdraw fee of 10% in ONE pool
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+ONE Price: $0.18 Market Cap: $0.00 
+Staked: 41601.9800 ONE ($7,291.54)
+EDEN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 ONE $0.00 (0.00% of the pool).
+Harmony Explorer
+Please use the official website to stake ONE.
+Unstake 0.000000 ONE + 10% FEE
+Claim 0.000000 EDEN ($0.00)
+Revoke (set approval to 0)
+Exit
+
+ONE Price: $0.18 Market Cap: $0.00 
+Staked: 0.0000 ONE ($0.00)
+EDEN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 ONE $0.00 (NaN% of the pool).
+Harmony Explorer
+Please use the official website to stake ONE.
+Unstake 0.000000 ONE
+Claim 0.000000 EDEN ($0.00)
+Revoke (set approval to 0)
+Exit
+
+ONE Price: $0.18 Market Cap: $0.00 
+Staked: 0.0000 ONE ($0.00)
+EDEN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 ONE $0.00 (NaN% of the pool).
+Harmony Explorer
+Please use the official website to stake ONE.
+Unstake 0.000000 ONE
+Claim 0.000000 EDEN ($0.00)
+Revoke (set approval to 0)
+Exit
+
+EDEN Price: $0.00 Market Cap: $0.00 
+Staked: 96307289.2573 EDEN ($0.00)
+EDEN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 EDEN $0.00 (NaN% of the pool).
+Harmony Explorer
+Stake 0.000000 EDEN
+Unstake 0.000000 EDEN
+Claim 0.000000 EDEN ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[JEWEL]-[EDEN] Uni LP [+] [-] [<=>] Price: $0.02 TVL: $1,455.43
+JEWEL Price: $6.76
+EDEN Price: $0.0000082136
+Staked: 87895.5661 JEWEL-LP ($1,355.86)
+EDEN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [JEWEL]-[EDEN] Uni LP $0.00 (0.00% of the pool).
+Harmony Explorer
+Stake 0.000000 [JEWEL]-[EDEN] Uni LP
+Unstake 0.000000 [JEWEL]-[EDEN] Uni LP
+Claim 0.000000 EDEN ($0.00)
+Revoke (set approval to 0)
+Exit
+
+JEWEL Price: $6.76 Market Cap: $2,234,587,044.77 
+Staked: 10.0538 JEWEL ($67.96)
+EDEN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 JEWEL $0.00 (0.00% of the pool).
+Harmony Explorer
+Stake 0.000000 JEWEL
+Unstake 0.000000 JEWEL
+Claim 0.000000 EDEN ($0.00)
+Revoke (set approval to 0)
+Exit
+
+Total staked: $1,423.83

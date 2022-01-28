@@ -6,139 +6,17 @@ INFO  : https://polywoof.finance
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Fri Dec 17 2021 09:59:36 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 22:29:51 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
-Found 12 pools.
-Showing incentivized pools only.
-Finished reading smart contracts.
-0 - TREAT Price: $0.00 Market Cap: $0.00 
-Staked: 898713.7742 TREAT ($0.00)
-TREAT Per Week: 10329.99 ($1.26)
-APR: Day NaN% Week NaN% Year NaN%
-You are staking 0.00 TREAT ($0.00), NaN% of the pool.
-Stake 0.00 TREAT
-Unstake 0.00 TREAT
-Claim 0.00 TREAT ($0.00)
-Staking or unstaking also claims rewards.
-
-1 - [USDC]-[TREAT] Uni LP [+] [-] [<=>] Price: $23,364.11 TVL: $55.55
-USDC Price: $1.00
-TREAT Price: $0.000122
-Staked: 0.0018 UNI-V2 ($42.52)
-TREAT Per Week: 20659.97 ($2.53)
-APR: Day 0.85% Week 5.94% Year 309.10%
-You are staking 0.00 [USDC]-[TREAT] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[TREAT] Uni LP
-Unstake 0.00 [USDC]-[TREAT] Uni LP
-Claim 0.00 TREAT ($0.00)
-Staking or unstaking also claims rewards.
-
-2 - [WMATIC]-[PWOOF] Uni LP [+] [-] [<=>] Price: $2,270.38 TVL: $29,757.12
-WMATIC Price: $2.08
-PWOOF Price: $0.000576
-Staked: 0.1283 UNI-V2 ($291.21)
-TREAT Per Week: 8263.99 ($1.01)
-APR: Day 0.05% Week 0.35% Year 18.05%
-You are staking 0.00 [WMATIC]-[PWOOF] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[PWOOF] Uni LP - Fee 2%
-Unstake 0.00 [WMATIC]-[PWOOF] Uni LP
-Claim 0.00 TREAT ($0.00)
-Staking or unstaking also claims rewards.
-
-3 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,781,117.21 TVL: $51,532,998.29
-WMATIC Price: $2.08
-USDC Price: $1.00
-Staked: 0.0000 UNI-V2 ($25.33)
-TREAT Per Week: 4131.99 ($0.51)
-APR: Day 0.29% Week 2.00% Year 103.80%
-You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
-Unstake 0.00 [WMATIC]-[USDC] Uni LP
-Claim 0.00 TREAT ($0.00)
-Staking or unstaking also claims rewards.
-
-4 - PWOOF Price: $0.000576 Market Cap: $57,583.06 [%]
-Staked: 6479808.8747 PWOOF ($3,731.27)
-TREAT Per Week: 4648.49 ($0.57)
-APR: Day 0.00% Week 0.02% Year 0.79%
-You are staking 0.00 PWOOF ($0.00), 0.00% of the pool.
-Stake 0.00 PWOOF - Fee 2%
-Unstake 0.00 PWOOF
-Claim 0.00 TREAT ($0.00)
-Staking or unstaking also claims rewards.
-
-5 - WMATIC Price: $2.08 Market Cap: $634,015,573.34 [%]
-Staked: 558.2969 WMATIC ($1,161.26)
-TREAT Per Week: 3615.49 ($0.44)
-APR: Day 0.01% Week 0.04% Year 1.98%
-You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
-Stake 0.00 WMATIC - Fee 4%
-Unstake 0.00 WMATIC
-Claim 0.00 TREAT ($0.00)
-Staking or unstaking also claims rewards.
-
-6 - WETH Price: $3,944.72 Market Cap: $1,751,411,262.62 [%]
-Staked: 0.0094 WETH ($36.99)
-TREAT Per Week: 3615.49 ($0.44)
-APR: Day 0.17% Week 1.20% Year 62.18%
-You are staking 0.00 WETH ($0.00), 0.00% of the pool.
-Stake 0.00 WETH - Fee 4%
-Unstake 0.00 WETH
-Claim 0.00 TREAT ($0.00)
-Staking or unstaking also claims rewards.
-
-7 - WBTC Price: $47,520.00 Market Cap: $479,486,732.06 [%]
-Staked: 0.0003 WBTC ($15.74)
-TREAT Per Week: 3615.49 ($0.44)
-APR: Day 0.40% Week 2.81% Year 146.16%
-You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
-Stake 0.00 WBTC - Fee 4%
-Unstake 0.00 WBTC
-Claim 0.00 TREAT ($0.00)
-Staking or unstaking also claims rewards.
-
-8 - USDC Price: $1.00 Market Cap: $952,194,375.30 [%]
-Staked: 29.8662 USDC ($29.87)
-TREAT Per Week: 3615.49 ($0.44)
-APR: Day 0.21% Week 1.48% Year 77.02%
-You are staking 0.00 USDC ($0.00), 0.00% of the pool.
-Stake 0.00 USDC - Fee 4%
-Unstake 0.00 USDC
-Claim 0.00 TREAT ($0.00)
-Staking or unstaking also claims rewards.
-
-9 - DAI Price: $1.00 Market Cap: $367,647,843.61 [%]
-Staked: 22.0577 DAI ($22.06)
-TREAT Per Week: 3615.49 ($0.44)
-APR: Day 0.29% Week 2.01% Year 104.28%
-You are staking 0.00 DAI ($0.00), 0.00% of the pool.
-Stake 0.00 DAI - Fee 4%
-Unstake 0.00 DAI
-Claim 0.00 TREAT ($0.00)
-Staking or unstaking also claims rewards.
-
-10 - QUICK Price: $244.08 Market Cap: $233,227,815.45 [%]
-Staked: 0.0103 QUICK ($2.52)
-TREAT Per Week: 4131.99 ($0.51)
-APR: Day 2.86% Week 20.03% Year 1041.78%
-You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
-Stake 0.00 QUICK - Fee 4%
-Unstake 0.00 QUICK
-Claim 0.00 TREAT ($0.00)
-Staking or unstaking also claims rewards.
-
-11 - PCHART Price: $0.00 Market Cap: $0.00 
-Staked: 180903.6091 PCHART ($0.00)
-TREAT Per Week: 1756.10 ($0.21)
-APR: Day NaN% Week NaN% Year NaN%
-You are staking 0.00 PCHART ($0.00), NaN% of the pool.
-Stake 0.00 PCHART - Fee 4%
-Unstake 0.00 PCHART
-Claim 0.00 TREAT ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $5,358.76
+{
+  "code": -32603,
+  "message": "Non-200 status code: '400'",
+  "data": {
+    "error": "Unable to verify your data submission."
+  }
+}
+Oops something went wrong. Try refreshing the page.

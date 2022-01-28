@@ -1,0 +1,291 @@
+*************** 👨‍🌾 UNOFFICIAL DONALD.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://app.donald.finance
+**********************************************************************************
+
+Thu Jan 27 2022 20:54:49 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 25 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+[DONALD]-[WBNB] Cake LP [+] [-] [<=>] Price: $1.81 TVL: $2,396.95
+DONALD Price: $0.001671
+WBNB Price: $369.29
+Staked: 154.4245 Cake-LP ($279.93)
+DONALD Per Week: 7682.93 ($12.84)
+APR: Day 0.66% Week 4.59% Year 238.51%
+You are staking 0.00 [DONALD]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DONALD]-[WBNB] Cake LP
+Unstake 0.00 [DONALD]-[WBNB] Cake LP - Fee 5.00%
+Claim 0.00 DONALD ($0.00)
+Staking or unstaking also claims rewards.
+
+[DONALD]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.10 TVL: $321.94
+DONALD Price: $0.001671
+BUSD Price: $1.00
+Staked: 2759.3582 Cake-LP ($276.00)
+DONALD Per Week: 10756.10 ($17.98)
+APR: Day 0.93% Week 6.51% Year 338.66%
+You are staking 0.00 [DONALD]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DONALD]-[BUSD] Cake LP
+Unstake 0.00 [DONALD]-[BUSD] Cake LP - Fee 5.00%
+Claim 0.00 DONALD ($0.00)
+Staking or unstaking also claims rewards.
+
+[WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.50 TVL: $346,583,525.50
+WBNB Price: $369.29
+BUSD Price: $1.00
+Staked: 34.4741 Cake-LP ($1,637.67)
+DONALD Per Week: 2151.22 ($3.60)
+APR: Day 0.03% Week 0.22% Year 11.42%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4.00%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP - Fee 5.00%
+Claim 0.00 DONALD ($0.00)
+Staking or unstaking also claims rewards.
+
+[ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,045.98 TVL: $74,539,631.76
+ETH Price: $2,454.15
+WBNB Price: $369.29
+Staked: 0.0301 Cake-LP ($61.57)
+DONALD Per Week: 1843.90 ($3.08)
+APR: Day 0.72% Week 5.01% Year 260.26%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4.00%
+Unstake 0.00 [ETH]-[WBNB] Cake LP - Fee 5.00%
+Claim 0.00 DONALD ($0.00)
+Staking or unstaking also claims rewards.
+
+[BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $7,755.61 TVL: $68,816,873.02
+BTCB Price: $36,289.00
+WBNB Price: $369.29
+Staked: 0.2393 Cake-LP ($1,855.75)
+DONALD Per Week: 1843.90 ($3.08)
+APR: Day 0.02% Week 0.17% Year 8.63%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4.00%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP - Fee 5.00%
+Claim 0.00 DONALD ($0.00)
+Staking or unstaking also claims rewards.
+
+[USDT]-[WBNB] Cake LP [+] [-] [<=>] Price: $48.72 TVL: $190,375,926.56
+USDT Price: $1.00
+WBNB Price: $369.29
+Staked: 20.4725 Cake-LP ($997.52)
+DONALD Per Week: 1536.59 ($2.57)
+APR: Day 0.04% Week 0.26% Year 13.39%
+You are staking 0.00 [USDT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WBNB] Cake LP - Fee 4.00%
+Unstake 0.00 [USDT]-[WBNB] Cake LP - Fee 5.00%
+Claim 0.00 DONALD ($0.00)
+Staking or unstaking also claims rewards.
+
+[DAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $16,864,442.88
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 225.6718 Cake-LP ($470.90)
+DONALD Per Week: 1536.59 ($2.57)
+APR: Day 0.08% Week 0.55% Year 28.36%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4.00%
+Unstake 0.00 [DAI]-[BUSD] Cake LP - Fee 5.00%
+Claim 0.00 DONALD ($0.00)
+Staking or unstaking also claims rewards.
+
+[WBNB]-[BELT] Cake LP [+] [-] [<=>] Price: $43.84 TVL: $9,937,895.52
+WBNB Price: $369.29
+BELT Price: $1.25
+Staked: 0.0595 Cake-LP ($2.61)
+DONALD Per Week: 1229.27 ($2.05)
+APR: Day 11.24% Week 78.71% Year 4092.88%
+You are staking 0.00 [WBNB]-[BELT] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BELT] Cake LP - Fee 4.00%
+Unstake 0.00 [WBNB]-[BELT] Cake LP - Fee 5.00%
+Claim 0.00 DONALD ($0.00)
+Staking or unstaking also claims rewards.
+
+[ADA]-[WBNB] Cake LP [+] [-] [<=>] Price: $42.34 TVL: $12,092,196.19
+ADA Price: $1.03
+WBNB Price: $369.29
+Staked: 1.8875 Cake-LP ($79.93)
+DONALD Per Week: 921.95 ($1.54)
+APR: Day 0.28% Week 1.93% Year 100.24%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 4.00%
+Unstake 0.00 [ADA]-[WBNB] Cake LP - Fee 5.00%
+Claim 0.00 DONALD ($0.00)
+Staking or unstaking also claims rewards.
+
+[USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $296,784,901.01
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 391.6833 Cake-LP ($819.71)
+DONALD Per Week: 921.95 ($1.54)
+APR: Day 0.03% Week 0.19% Year 9.77%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4.00%
+Unstake 0.00 [USDT]-[BUSD] Cake LP - Fee 5.00%
+Claim 0.00 DONALD ($0.00)
+Staking or unstaking also claims rewards.
+
+[Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $105.76 TVL: $201,430,314.05
+Cake Price: $7.02
+WBNB Price: $369.29
+Staked: 3.4204 Cake-LP ($361.74)
+DONALD Per Week: 921.95 ($1.54)
+APR: Day 0.06% Week 0.43% Year 22.15%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4.00%
+Unstake 0.00 [Cake]-[WBNB] Cake LP - Fee 5.00%
+Claim 0.00 DONALD ($0.00)
+Staking or unstaking also claims rewards.
+
+DONALD Price: $0.001671 Market Cap: $101,590.30 [%]
+Staked: 881881.5998 DONALD ($1,473.78)
+DONALD Per Week: 3073.17 ($5.14)
+APR: Day 0.05% Week 0.35% Year 18.12%
+You are staking 0.00 DONALD ($0.00), 0.00% of the pool.
+Stake 0.00 DONALD
+Unstake 0.00 DONALD - Fee 5.00%
+Claim 0.00 DONALD ($0.00)
+Staking or unstaking also claims rewards.
+
+BTCB Price: $36,289.00 Market Cap: $4,082,548,789.00 [%]
+Staked: 0.0190 BTCB ($688.54)
+DONALD Per Week: 1229.27 ($2.05)
+APR: Day 0.04% Week 0.30% Year 15.51%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4.00%
+Unstake 0.00 BTCB - Fee 5.00%
+Claim 0.00 DONALD ($0.00)
+Staking or unstaking also claims rewards.
+
+ETH Price: $2,454.15 Market Cap: $3,448,080,750.00 [%]
+Staked: 0.0316 ETH ($77.67)
+DONALD Per Week: 1229.27 ($2.05)
+APR: Day 0.38% Week 2.64% Year 137.54%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4.00%
+Unstake 0.00 ETH - Fee 5.00%
+Claim 0.00 DONALD ($0.00)
+Staking or unstaking also claims rewards.
+
+WBNB Price: $369.29 Market Cap: $1,928,027,449.87 [%]
+Staked: 1.6248 WBNB ($600.00)
+DONALD Per Week: 1229.27 ($2.05)
+APR: Day 0.05% Week 0.34% Year 17.80%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4.00%
+Unstake 0.00 WBNB - Fee 5.00%
+Claim 0.00 DONALD ($0.00)
+Staking or unstaking also claims rewards.
+
+BUSD Price: $1.00 Market Cap: $4,848,277,977.97 [%]
+Staked: 1597.9741 BUSD ($1,597.08)
+DONALD Per Week: 921.95 ($1.54)
+APR: Day 0.01% Week 0.10% Year 5.02%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4.00%
+Unstake 0.00 BUSD - Fee 5.00%
+Claim 0.00 DONALD ($0.00)
+Staking or unstaking also claims rewards.
+
+BELT Price: $1.25 Market Cap: $13,768,122.52 [%]
+Staked: 60.5543 BELT ($75.99)
+DONALD Per Week: 921.95 ($1.54)
+APR: Day 0.29% Week 2.03% Year 105.44%
+You are staking 0.00 BELT ($0.00), 0.00% of the pool.
+Stake 0.00 BELT - Fee 4.00%
+Unstake 0.00 BELT - Fee 5.00%
+Claim 0.00 DONALD ($0.00)
+Staking or unstaking also claims rewards.
+
+ADA Price: $1.03 Market Cap: $288,400,000.00 [%]
+Staked: 139.5763 ADA ($143.76)
+DONALD Per Week: 921.95 ($1.54)
+APR: Day 0.15% Week 1.07% Year 55.73%
+You are staking 0.00 ADA ($0.00), 0.00% of the pool.
+Stake 0.00 ADA - Fee 4.00%
+Unstake 0.00 ADA - Fee 5.00%
+Claim 0.00 DONALD ($0.00)
+Staking or unstaking also claims rewards.
+
+USDC Price: $1.00 Market Cap: $1,776,329,721.00 [%]
+Staked: 96.6466 USDC ($96.50)
+DONALD Per Week: 614.63 ($1.03)
+APR: Day 0.15% Week 1.06% Year 55.35%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4.00%
+Unstake 0.00 USDC - Fee 5.00%
+Claim 0.00 DONALD ($0.00)
+Staking or unstaking also claims rewards.
+
+USDT Price: $1.00 Market Cap: $3,869,618,927.74 [%]
+Staked: 101.7513 USDT ($101.48)
+DONALD Per Week: 614.63 ($1.03)
+APR: Day 0.14% Week 1.01% Year 52.63%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4.00%
+Unstake 0.00 USDT - Fee 5.00%
+Claim 0.00 DONALD ($0.00)
+Staking or unstaking also claims rewards.
+
+DAI Price: $1.00 Market Cap: $262,000,000.00 [%]
+Staked: 51.1885 DAI ($51.19)
+DONALD Per Week: 614.63 ($1.03)
+APR: Day 0.29% Week 2.01% Year 104.34%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4.00%
+Unstake 0.00 DAI - Fee 5.00%
+Claim 0.00 DONALD ($0.00)
+Staking or unstaking also claims rewards.
+
+BUNNY Price: $0.58 Market Cap: $8,624,183.70 [%]
+Staked: 14.9112 BUNNY ($8.65)
+DONALD Per Week: 614.63 ($1.03)
+APR: Day 1.70% Week 11.88% Year 617.72%
+You are staking 0.00 BUNNY ($0.00), 0.00% of the pool.
+Stake 0.00 BUNNY - Fee 4.00%
+Unstake 0.00 BUNNY - Fee 5.00%
+Claim 0.00 DONALD ($0.00)
+Staking or unstaking also claims rewards.
+
+[DOT]-[DONALD] Cake LP [+] [-] [<=>] Price: $0.44 TVL: $60.11
+DOT Price: $18.00
+DONALD Price: $0.001671
+Staked: 111.9966 Cake-LP ($49.41)
+DONALD Per Week: 3073.17 ($5.14)
+APR: Day 1.48% Week 10.39% Year 540.46%
+You are staking 0.00 [DOT]-[DONALD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[DONALD] Cake LP
+Unstake 0.00 [DOT]-[DONALD] Cake LP - Fee 5.00%
+Claim 0.00 DONALD ($0.00)
+Staking or unstaking also claims rewards.
+
+DOGE Price: $0.14 Market Cap: $282,176,000.00 [%]
+Staked: 2092.9908 DOGE ($295.30)
+DONALD Per Week: 921.95 ($1.54)
+APR: Day 0.07% Week 0.52% Year 27.13%
+You are staking 0.00 DOGE ($0.00), 0.00% of the pool.
+Stake 0.00 DOGE - Fee 4.00%
+Unstake 0.00 DOGE - Fee 5.00%
+Claim 0.00 DONALD ($0.00)
+Staking or unstaking also claims rewards.
+
+[Cake]-[DONALD] Cake LP [+] [-] [<=>] Price: $0.30 TVL: $29.47
+Cake Price: $7.02
+DONALD Price: $0.001671
+Staked: 69.5107 Cake-LP ($21.08)
+DONALD Per Week: 3073.17 ($5.14)
+APR: Day 3.48% Week 24.36% Year 1266.63%
+You are staking 0.00 [Cake]-[DONALD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[DONALD] Cake LP
+Unstake 0.00 [Cake]-[DONALD] Cake LP - Fee 5.00%
+Claim 0.00 DONALD ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $12,123.76

@@ -6,139 +6,17 @@ INFO  : https://www.polyghost.finance
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Fri Dec 17 2021 10:49:05 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 22:54:38 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
-Found 12 pools.
-Showing incentivized pools only.
-Finished reading smart contracts.
-0 - [WMATIC]-[GHOST] Uni LP [+] [-] [<=>] Price: $0.34 TVL: $136.41
-WMATIC Price: $2.04
-GHOST Price: $0.01
-Staked: 93.5319 UNI-V2 ($31.56)
-GHOST Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 [WMATIC]-[GHOST] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[GHOST] Uni LP
-Unstake 0.00 [WMATIC]-[GHOST] Uni LP
-Claim 0.00 GHOST ($0.00)
-Staking or unstaking also claims rewards.
-
-1 - GHOST Price: $0.01 Market Cap: $509.99 [%]
-Staked: 21248.9536 GHOST ($260.89)
-GHOST Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 GHOST ($0.00), 0.00% of the pool.
-Stake 0.00 GHOST
-Unstake 0.00 GHOST
-Claim 0.00 GHOST ($0.00)
-Staking or unstaking also claims rewards.
-
-2 - DAI Price: $1.00 Market Cap: $367,280,931.07 [%]
-Staked: 22.0800 DAI ($22.06)
-GHOST Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 DAI ($0.00), 0.00% of the pool.
-Stake 0.00 DAI - Fee 4%
-Unstake 0.00 DAI
-Claim 0.00 GHOST ($0.00)
-Staking or unstaking also claims rewards.
-
-3 - WMATIC Price: $2.04 Market Cap: $622,510,216.33 [%]
-Staked: 101.9738 WMATIC ($208.03)
-GHOST Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
-Stake 0.00 WMATIC - Fee 4%
-Unstake 0.00 WMATIC
-Claim 0.00 GHOST ($0.00)
-Staking or unstaking also claims rewards.
-
-4 - WBTC Price: $47,025.00 Market Cap: $475,447,772.56 [%]
-Staked: 0.0011 WBTC ($53.15)
-GHOST Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
-Stake 0.00 WBTC - Fee 4%
-Unstake 0.00 WBTC
-Claim 0.00 GHOST ($0.00)
-Staking or unstaking also claims rewards.
-
-5 - USDT Price: $1.00 Market Cap: $319,505,889.20 [%]
-Staked: 7.3486 USDT ($7.34)
-GHOST Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 USDT ($0.00), 0.00% of the pool.
-Stake 0.00 USDT - Fee 4%
-Unstake 0.00 USDT
-Claim 0.00 GHOST ($0.00)
-Staking or unstaking also claims rewards.
-
-6 - SUSHI Price: $5.59 Market Cap: $3,154,328.59 [%]
-Staked: 3.1938 SUSHI ($17.85)
-GHOST Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 SUSHI ($0.00), 0.00% of the pool.
-Stake 0.00 SUSHI - Fee 4%
-Unstake 0.00 SUSHI
-Claim 0.00 GHOST ($0.00)
-Staking or unstaking also claims rewards.
-
-7 - USDC Price: $1.00 Market Cap: $951,971,291.93 [%]
-Staked: 12.6000 USDC ($12.60)
-GHOST Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 USDC ($0.00), 0.00% of the pool.
-Stake 0.00 USDC - Fee 4%
-Unstake 0.00 USDC
-Claim 0.00 GHOST ($0.00)
-Staking or unstaking also claims rewards.
-
-8 - WETH Price: $3,886.33 Market Cap: $1,725,574,711.65 [%]
-Staked: 0.0039 WETH ($15.13)
-GHOST Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 WETH ($0.00), 0.00% of the pool.
-Stake 0.00 WETH - Fee 4%
-Unstake 0.00 WETH
-Claim 0.00 GHOST ($0.00)
-Staking or unstaking also claims rewards.
-
-9 - [WMATIC]-[GHOST] SLP [+] [-] [<=>] Price: $0.33 TVL: $94.24
-WMATIC Price: $2.04
-GHOST Price: $0.01
-Staked: 94.7993 SLP ($30.82)
-GHOST Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 [WMATIC]-[GHOST] SLP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[GHOST] SLP
-Unstake 0.00 [WMATIC]-[GHOST] SLP
-Claim 0.00 GHOST ($0.00)
-Staking or unstaking also claims rewards.
-
-10 - [WMATIC]-[GHOST] APE LP [+] [-] [<=>] Price: $0.32 TVL: $92.66
-WMATIC Price: $2.04
-GHOST Price: $0.01
-Staked: 92.9032 APE-LP ($29.83)
-GHOST Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 [WMATIC]-[GHOST] APE LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[GHOST] APE LP
-Unstake 0.00 [WMATIC]-[GHOST] APE LP
-Claim 0.00 GHOST ($0.00)
-Staking or unstaking also claims rewards.
-
-11 - xUSD Price: $1.01 Market Cap: $420,620.46 [%]
-Staked: 54.6136 xUSD ($55.16)
-GHOST Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 xUSD ($0.00), 0.00% of the pool.
-Stake 0.00 xUSD - Fee 2%
-Unstake 0.00 xUSD
-Claim 0.00 GHOST ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $744.41
+{
+  "code": -32603,
+  "message": "Non-200 status code: '400'",
+  "data": {
+    "error": "Unable to verify your data submission."
+  }
+}
+Oops something went wrong. Try refreshing the page.

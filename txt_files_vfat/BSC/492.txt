@@ -1,0 +1,121 @@
+*************** 👨‍🌾 UNOFFICIAL UNITED FARMERS FINANCE FARMING CALCULATOR 👨‍🌾 *******************
+INFO  : https://app.unitedfarmers.finance/uff-farms
+*********************************************************************************
+
+Thu Jan 27 2022 21:37:38 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 12 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - UFF Price: $0.01 Market Cap: $28,361.69 [%]
+Staked: 276771.3821 UFF ($2,877.45)
+UFF Per Week: 26631.11 ($276.87)
+APR: Day 1.37% Week 9.62% Year 500.35%
+You are staking 0.00 UFF ($0.00), 0.00% of the pool.
+Stake 0.00 UFF
+Unstake 0.00 UFF - Fee 12%
+Claim 0.00 UFF ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [UFF]-[WBNB] Cake LP [+] [-] [<=>] Price: $4.28 TVL: $43,348.47
+UFF Price: $0.01
+WBNB Price: $368.50
+Staked: 1211.6267 Cake-LP ($5,190.19)
+UFF Per Week: 16644.44 ($173.04)
+APR: Day 0.48% Week 3.33% Year 173.37%
+You are staking 0.00 [UFF]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UFF]-[WBNB] Cake LP
+Unstake 0.00 [UFF]-[WBNB] Cake LP - Fee 12%
+Claim 0.00 UFF ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [UFF]-[BTCB] Cake LP [+] [-] [<=>] Price: $48.83 TVL: $278.13
+UFF Price: $0.01
+BTCB Price: $36,105.00
+Staked: 4.9103 Cake-LP ($239.76)
+UFF Per Week: 2996.00 ($31.15)
+APR: Day 1.86% Week 12.99% Year 675.55%
+You are staking 0.00 [UFF]-[BTCB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UFF]-[BTCB] Cake LP
+Unstake 0.00 [UFF]-[BTCB] Cake LP - Fee 12%
+Claim 0.00 UFF ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [ETH]-[UFF] Cake LP [+] [-] [<=>] Price: $12.26 TVL: $368.85
+ETH Price: $2,415.14
+UFF Price: $0.01
+Staked: 25.7955 Cake-LP ($316.16)
+UFF Per Week: 5992.00 ($62.30)
+APR: Day 2.81% Week 19.70% Year 1024.59%
+You are staking 0.00 [ETH]-[UFF] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[UFF] Cake LP
+Unstake 0.00 [ETH]-[UFF] Cake LP - Fee 12%
+Claim 0.00 UFF ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [Cake]-[UFF] Cake LP [+] [-] [<=>] Price: $0.68 TVL: $314.88
+Cake Price: $6.98
+UFF Price: $0.01
+Staked: 342.0856 Cake-LP ($233.67)
+UFF Per Week: 6657.78 ($69.22)
+APR: Day 4.23% Week 29.62% Year 1540.35%
+You are staking 0.00 [Cake]-[UFF] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[UFF] Cake LP
+Unstake 0.00 [Cake]-[UFF] Cake LP - Fee 12%
+Claim 0.00 UFF ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [UFF]-[DOT] Cake LP [+] [-] [<=>] Price: $1.10 TVL: $732.05
+UFF Price: $0.01
+DOT Price: $17.94
+Staked: 222.2785 Cake-LP ($243.67)
+UFF Per Week: 5659.11 ($58.83)
+APR: Day 3.45% Week 24.15% Year 1255.58%
+You are staking 0.00 [UFF]-[DOT] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UFF]-[DOT] Cake LP
+Unstake 0.00 [UFF]-[DOT] Cake LP - Fee 12%
+Claim 0.00 UFF ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [UFF]-[ADA] Cake LP [+] [-] [<=>] Price: $0.27 TVL: $242.73
+UFF Price: $0.01
+ADA Price: $1.03
+Staked: 880.1416 Cake-LP ($233.44)
+UFF Per Week: 6657.78 ($69.22)
+APR: Day 4.24% Week 29.65% Year 1541.83%
+You are staking 0.00 [UFF]-[ADA] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UFF]-[ADA] Cake LP
+Unstake 0.00 [UFF]-[ADA] Cake LP - Fee 12%
+Claim 0.00 UFF ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [XRP]-[UFF] Cake LP [+] [-] [<=>] Price: $0.19 TVL: $234.21
+XRP Price: $0.60
+UFF Price: $0.01
+Staked: 1167.9081 Cake-LP ($227.50)
+UFF Per Week: 6657.78 ($69.22)
+APR: Day 4.35% Week 30.42% Year 1582.08%
+You are staking 0.00 [XRP]-[UFF] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [XRP]-[UFF] Cake LP
+Unstake 0.00 [XRP]-[UFF] Cake LP - Fee 12%
+Claim 0.00 UFF ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [GRAIN]-[UFF] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $122.80
+GRAIN Price: $0.0000088679
+UFF Price: $0.01
+Staked: 141375.0471 Cake-LP ($115.96)
+UFF Per Week: 29960.00 ($311.48)
+APR: Day 38.37% Week 268.62% Year 13968.23%
+You are staking 0.00 [GRAIN]-[UFF] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GRAIN]-[UFF] Cake LP
+Unstake 0.00 [GRAIN]-[UFF] Cake LP - Fee 12%
+Claim 0.00 UFF ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $9,677.79

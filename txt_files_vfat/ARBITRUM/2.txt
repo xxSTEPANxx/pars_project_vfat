@@ -1,0 +1,197 @@
+*************** UNOFFICIAL PARROTDEFI FARMS FARMING CALCULATOR ***************
+INFO  : https://parrotdefi.com
+******************************************************************************
+
+Thu Jan 27 2022 21:46:36 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 17 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [PPEGG]-[USDC] SLP [+] [-] [<=>] Price: $239,659.99 TVL: $1,898.08
+PPEGG Price: $0.01
+USDC Price: $1.00
+Staked: 0.0024 SLP ($576.53)
+PPEGG Per Week: 2226.09 ($28.87)
+APR: Day 0.72% Week 5.01% Year 260.41%
+You are staking 0.00 [PPEGG]-[USDC] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [PPEGG]-[USDC] SLP
+Unstake 0.00 [PPEGG]-[USDC] SLP
+Claim 0.00 PPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [PPEGG]-[WETH] SLP [+] [-] [<=>] Price: $11.73 TVL: $203.51
+PPEGG Price: $0.01
+WETH Price: $2,429.30
+Staked: 16.3885 SLP ($192.19)
+PPEGG Per Week: 2226.09 ($28.87)
+APR: Day 2.15% Week 15.02% Year 781.18%
+You are staking 0.00 [PPEGG]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [PPEGG]-[WETH] SLP
+Unstake 0.00 [PPEGG]-[WETH] SLP
+Claim 0.00 PPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WETH]-[USDC] SLP [+] [-] [<=>] Price: $117,935,314.31 TVL: $66,085,426.41
+WETH Price: $2,429.30
+USDC Price: $1.00
+Staked: 0.0000 SLP ($3,951.82)
+PPEGG Per Week: 556.52 ($7.22)
+APR: Day 0.03% Week 0.18% Year 9.50%
+You are staking 0.00 [WETH]-[USDC] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[USDC] SLP - Fee 4%
+Unstake 0.00 [WETH]-[USDC] SLP
+Claim 0.00 PPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WBTC]-[WETH] SLP [+] [-] [<=>] Price: $1,914,084,366.66 TVL: $5,144,326.90
+WBTC Price: $36,138.00
+WETH Price: $2,429.30
+Staked: 0.0000 SLP ($1,086.25)
+PPEGG Per Week: 556.52 ($7.22)
+APR: Day 0.09% Week 0.66% Year 34.55%
+You are staking 0.00 [WBTC]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[WETH] SLP - Fee 4%
+Unstake 0.00 [WBTC]-[WETH] SLP
+Claim 0.00 PPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [WETH]-[USDT] SLP [+] [-] [<=>] Price: $112,679,818.87 TVL: $4,507,185.71
+WETH Price: $2,429.30
+USDT Price: $1.00
+Staked: 0.0000 SLP ($202.82)
+PPEGG Per Week: 556.52 ($7.22)
+APR: Day 0.51% Week 3.56% Year 185.06%
+You are staking 0.00 [WETH]-[USDT] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[USDT] SLP - Fee 4%
+Unstake 0.00 [WETH]-[USDT] SLP
+Claim 0.00 PPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - PPEGG Price: $0.01 Market Cap: $4,502.32 
+Staked: 132626.7561 PPEGG ($1,720.17)
+PPEGG Per Week: 1113.04 ($14.44)
+APR: Day 0.12% Week 0.84% Year 43.64%
+You are staking 0.00 PPEGG ($0.00), 0.00% of the pool.
+Stake 0.00 PPEGG
+Unstake 0.00 PPEGG
+Claim 0.00 PPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - USDC Price: $1.00 Market Cap: $372,901,692.68 
+Staked: 220.0364 USDC ($220.04)
+PPEGG Per Week: 371.01 ($4.81)
+APR: Day 0.31% Week 2.19% Year 113.72%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 PPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - WETH Price: $2,429.30 Market Cap: $575,304,714.56 
+Staked: 0.0808 WETH ($196.19)
+PPEGG Per Week: 371.01 ($4.81)
+APR: Day 0.35% Week 2.45% Year 127.54%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 PPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - WBTC Price: $36,138.00 Market Cap: $85,986,600.18 
+Staked: 0.0005 WBTC ($16.90)
+PPEGG Per Week: 371.01 ($4.81)
+APR: Day 4.07% Week 28.47% Year 1480.29%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 PPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - USDT Price: $1.00 Market Cap: $177,405,379.79 
+Staked: 100.4773 USDT ($100.48)
+PPEGG Per Week: 371.01 ($4.81)
+APR: Day 0.68% Week 4.79% Year 249.04%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 PPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - MAGIC Price: $0.007686 Market Cap: $32,332.85 
+Staked: 108288.8398 MAGIC ($832.27)
+PPEGG Per Week: 259.71 ($3.37)
+APR: Day 0.06% Week 0.40% Year 21.05%
+You are staking 0.00 MAGIC ($0.00), 0.00% of the pool.
+Stake 0.00 MAGIC - Fee 3%
+Unstake 0.00 MAGIC
+Claim 0.00 PPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - xUSD Price: $0.00 Market Cap: $0.00 
+Staked: 21.5898 xUSD ($0.00)
+PPEGG Per Week: 259.71 ($3.37)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 xUSD ($0.00), NaN% of the pool.
+Stake 0.00 xUSD - Fee 3%
+Unstake 0.00 xUSD
+Claim 0.00 PPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - MIM Price: $1.00 Market Cap: $164,087,880.45 
+Staked: 958.5293 MIM ($955.53)
+PPEGG Per Week: 259.71 ($3.37)
+APR: Day 0.05% Week 0.35% Year 18.33%
+You are staking 0.00 MIM ($0.00), 0.00% of the pool.
+Stake 0.00 MIM - Fee 3%
+Unstake 0.00 MIM
+Claim 0.00 PPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - LINK Price: $15.07 Market Cap: $10,613,442.08 
+Staked: 70.9777 LINK ($1,069.63)
+PPEGG Per Week: 371.01 ($4.81)
+APR: Day 0.06% Week 0.45% Year 23.39%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 PPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - SPELL Price: $0.00 Market Cap: $0.00 
+Staked: 13812.2986 SPELL ($0.00)
+PPEGG Per Week: 259.71 ($3.37)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SPELL ($0.00), NaN% of the pool.
+Stake 0.00 SPELL - Fee 3%
+Unstake 0.00 SPELL
+Claim 0.00 PPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [WETH]-[BPEGG] SLP [+] [-] [<=>] Price: $14.41 TVL: $304.65
+WETH Price: $2,429.30
+BPEGG Price: $0.02
+Staked: 19.6028 SLP ($282.42)
+PPEGG Per Week: 5194.20 ($67.37)
+APR: Day 3.41% Week 23.85% Year 1240.41%
+You are staking 0.00 [WETH]-[BPEGG] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[BPEGG] SLP
+Unstake 0.00 [WETH]-[BPEGG] SLP
+Claim 0.00 PPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - BPEGG Price: $0.02 Market Cap: $685.96 
+Staked: 22300.3471 BPEGG ($456.59)
+PPEGG Per Week: 2597.10 ($33.68)
+APR: Day 1.05% Week 7.38% Year 383.62%
+You are staking 0.00 BPEGG ($0.00), 0.00% of the pool.
+Stake 0.00 BPEGG
+Unstake 0.00 BPEGG
+Claim 0.00 PPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $11,859.85

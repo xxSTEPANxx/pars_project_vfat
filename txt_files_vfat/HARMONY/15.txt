@@ -1,0 +1,323 @@
+*************** 👨‍🌾 UNOFFICIAL SONICSWAP FARMING CALCULATOR 👨‍🌾 ***************
+
+INFO  : https://sonicswap.io/
+
+**************************************************************************************
+
+Fri Jan 28 2022 01:02:42 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 30 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [1MATIC]-[WONE] Uni LP [+] [-] [<=>] Price: $1.06 TVL: $9,900.89
+1MATIC Price: $1.53
+WONE Price: $0.18
+Staked: 7539.5669 SONIC-LP ($7,997.20)
+SONIC Per Week: 42400.78 ($360.92)
+APR: Day 0.64% Week 4.51% Year 234.68%
+You are staking 0.00 [1MATIC]-[WONE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [1MATIC]-[WONE] Uni LP
+Unstake 0.00 [1MATIC]-[WONE] Uni LP
+Claim 0.00 SONIC ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [bscBNB]-[WONE] Uni LP [+] [-] [<=>] Price: $16.78 TVL: $6,490.61
+bscBNB Price: $363.11
+WONE Price: $0.18
+Staked: 385.1602 SONIC-LP ($6,463.16)
+SONIC Per Week: 42400.78 ($360.92)
+APR: Day 0.80% Week 5.58% Year 290.38%
+You are staking 0.00 [bscBNB]-[WONE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [bscBNB]-[WONE] Uni LP
+Unstake 0.00 [bscBNB]-[WONE] Uni LP
+Claim 0.00 SONIC ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [1ETH]-[WONE] Uni LP [+] [-] [<=>] Price: $41.78 TVL: $9,035.72
+1ETH Price: $2,365.95
+WONE Price: $0.18
+Staked: 95.6867 SONIC-LP ($3,997.57)
+SONIC Per Week: 42400.78 ($360.92)
+APR: Day 1.29% Week 9.03% Year 469.48%
+You are staking 0.00 [1ETH]-[WONE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [1ETH]-[WONE] Uni LP
+Unstake 0.00 [1ETH]-[WONE] Uni LP
+Claim 0.00 SONIC ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [bscBUSD]-[WONE] Uni LP [+] [-] [<=>] Price: $0.90 TVL: $6,774.65
+bscBUSD Price: $1.01
+WONE Price: $0.18
+Staked: 7354.7452 SONIC-LP ($6,618.36)
+SONIC Per Week: 42400.78 ($360.92)
+APR: Day 0.78% Week 5.45% Year 283.57%
+You are staking 0.00 [bscBUSD]-[WONE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [bscBUSD]-[WONE] Uni LP
+Unstake 0.00 [bscBUSD]-[WONE] Uni LP
+Claim 0.00 SONIC ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [bscBUSD]-[SONIC] Uni LP [+] [-] [<=>] Price: $0.20 TVL: $11,932.10
+bscBUSD Price: $1.01
+SONIC Price: $0.008512
+Staked: 57123.5018 SONIC-LP ($11,308.96)
+SONIC Per Week: 282671.86 ($2,406.14)
+APR: Day 3.04% Week 21.28% Year 1106.37%
+You are staking 0.00 [bscBUSD]-[SONIC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [bscBUSD]-[SONIC] Uni LP
+Unstake 0.00 [bscBUSD]-[SONIC] Uni LP
+Claim 0.00 SONIC ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [SONIC]-[WONE] Uni LP [+] [-] [<=>] Price: $0.09 TVL: $109,449.76
+SONIC Price: $0.008512
+WONE Price: $0.18
+Staked: 1206731.3448 SONIC-LP ($103,080.23)
+SONIC Per Week: 2072926.97 ($17,645.00)
+APR: Day 2.45% Week 17.12% Year 890.12%
+You are staking 0.00 [SONIC]-[WONE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SONIC]-[WONE] Uni LP
+Unstake 0.00 [SONIC]-[WONE] Uni LP
+Claim 0.00 SONIC ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [SONIC]-[SONICx] Uni LP [+] [-] [<=>] Price: $0.02 TVL: $57,470.64
+SONIC Price: $0.008512
+SONICx Price: $0.01
+Staked: 2944468.2737 SONIC-LP ($56,872.39)
+SONIC Per Week: 235559.88 ($2,005.11)
+APR: Day 0.50% Week 3.53% Year 183.33%
+You are staking 0.00 [SONIC]-[SONICx] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SONIC]-[SONICx] Uni LP
+Unstake 0.00 [SONIC]-[SONICx] Uni LP
+Claim 0.00 SONIC ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [SONIC]-[1WBTC] Uni LP [+] [-] [<=>] Price: $3,563,849.43 TVL: $14,904.86
+SONIC Price: $0.008512
+1WBTC Price: $35,071.00
+Staked: 0.0040 SONIC-LP ($14,380.03)
+SONIC Per Week: 282671.86 ($2,406.14)
+APR: Day 2.39% Week 16.73% Year 870.09%
+You are staking 0.00 [SONIC]-[1WBTC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SONIC]-[1WBTC] Uni LP
+Unstake 0.00 [SONIC]-[1WBTC] Uni LP
+Claim 0.00 SONIC ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [SONIC]-[VINCI] Uni LP [+] [-] [<=>] Price: $0.05 TVL: $7,679.64
+SONIC Price: $0.008512
+VINCI Price: $0.08
+Staked: 106149.3442 SONIC-LP ($5,746.55)
+SONIC Per Week: 70667.96 ($601.53)
+APR: Day 1.50% Week 10.47% Year 544.32%
+You are staking 0.00 [SONIC]-[VINCI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SONIC]-[VINCI] Uni LP
+Unstake 0.00 [SONIC]-[VINCI] Uni LP
+Claim 0.00 SONIC ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [SONIC]-[VIPER] Uni LP [+] [-] [<=>] Price: $0.14 TVL: $4,397.61
+SONIC Price: $0.008512
+VIPER Price: $0.52
+Staked: 29989.3334 SONIC-LP ($4,098.05)
+SONIC Per Week: 47111.98 ($401.02)
+APR: Day 1.40% Week 9.79% Year 508.86%
+You are staking 0.00 [SONIC]-[VIPER] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SONIC]-[VIPER] Uni LP
+Unstake 0.00 [SONIC]-[VIPER] Uni LP
+Claim 0.00 SONIC ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [SONIC]-[1FTM] Uni LP [+] [-] [<=>] Price: $0.25 TVL: $7,078.54
+SONIC Price: $0.008512
+1FTM Price: $1.70
+Staked: 27142.8291 SONIC-LP ($6,706.45)
+SONIC Per Week: 164891.92 ($1,403.58)
+APR: Day 2.99% Week 20.93% Year 1088.30%
+You are staking 0.00 [SONIC]-[1FTM] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SONIC]-[1FTM] Uni LP
+Unstake 0.00 [SONIC]-[1FTM] Uni LP
+Claim 0.00 SONIC ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [SONIC]-[bscADA] Uni LP [+] [-] [<=>] Price: $0.19 TVL: $7,342.47
+SONIC Price: $0.008512
+bscADA Price: $1.01
+Staked: 35661.3603 SONIC-LP ($6,869.03)
+SONIC Per Week: 164891.92 ($1,403.58)
+APR: Day 2.92% Week 20.43% Year 1062.54%
+You are staking 0.00 [SONIC]-[bscADA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SONIC]-[bscADA] Uni LP
+Unstake 0.00 [SONIC]-[bscADA] Uni LP
+Claim 0.00 SONIC ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [SONIC]-[LUNA] Uni LP [+] [-] [<=>] Price: $1.39 TVL: $8,833.94
+SONIC Price: $0.008512
+LUNA Price: $53.59
+Staked: 6202.4614 SONIC-LP ($8,627.73)
+SONIC Per Week: 164891.92 ($1,403.58)
+APR: Day 2.32% Week 16.27% Year 845.95%
+You are staking 0.00 [SONIC]-[LUNA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SONIC]-[LUNA] Uni LP
+Unstake 0.00 [SONIC]-[LUNA] Uni LP
+Claim 0.00 SONIC ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [SONIC]-[UST] Uni LP [+] [-] [<=>] Price: $0.19 TVL: $9,146.87
+SONIC Price: $0.008512
+UST Price: $1.01
+Staked: 45075.4784 SONIC-LP ($8,668.59)
+SONIC Per Week: 188447.91 ($1,604.09)
+APR: Day 2.64% Week 18.50% Year 962.24%
+You are staking 0.00 [SONIC]-[UST] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SONIC]-[UST] Uni LP
+Unstake 0.00 [SONIC]-[UST] Uni LP
+Claim 0.00 SONIC ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [bscAVAX]-[SONIC] Uni LP [+] [-] [<=>] Price: $1.50 TVL: $7,509.80
+bscAVAX Price: $63.63
+SONIC Price: $0.008512
+Staked: 4899.0461 SONIC-LP ($7,339.55)
+SONIC Per Week: 164891.92 ($1,403.58)
+APR: Day 2.73% Week 19.12% Year 994.42%
+You are staking 0.00 [bscAVAX]-[SONIC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [bscAVAX]-[SONIC] Uni LP
+Unstake 0.00 [bscAVAX]-[SONIC] Uni LP
+Claim 0.00 SONIC ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [SONIC]-[JEWEL] Uni LP [+] [-] [<=>] Price: $3,562,181.65 TVL: $3,264.40
+SONIC Price: $0.008512
+JEWEL Price: $6.79
+Staked: 0.0008 SONIC-LP ($2,999.14)
+SONIC Per Week: 70667.96 ($601.53)
+APR: Day 2.87% Week 20.06% Year 1042.96%
+You are staking 0.00 [SONIC]-[JEWEL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SONIC]-[JEWEL] Uni LP
+Unstake 0.00 [SONIC]-[JEWEL] Uni LP
+Claim 0.00 SONIC ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - [WONE]-[VIPER] Uni LP [+] [-] [<=>] Price: $0.88 TVL: $0.00
+WONE Price: $0.18
+VIPER Price: $0.52
+Staked: 0.0000 SONIC-LP ($0.00)
+SONIC Per Week: 110713.15 ($942.40)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WONE]-[VIPER] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [WONE]-[VIPER] Uni LP
+Unstake 0.00 [WONE]-[VIPER] Uni LP
+Claim 0.00 SONIC ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - [SONIC]-[bscSCRT] Uni LP [+] [-] [<=>] Price: $0.45 TVL: $3,788.13
+SONIC Price: $0.008512
+bscSCRT Price: $5.80
+Staked: 8394.1538 SONIC-LP ($3,768.21)
+SONIC Per Week: 23555.99 ($200.51)
+APR: Day 0.76% Week 5.32% Year 276.70%
+You are staking 0.00 [SONIC]-[bscSCRT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SONIC]-[bscSCRT] Uni LP
+Unstake 0.00 [SONIC]-[bscSCRT] Uni LP
+Claim 0.00 SONIC ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [SONIC]-[BOSS] Uni LP [+] [-] [<=>] Price: $0.02 TVL: $5,767.94
+SONIC Price: $0.008512
+BOSS Price: $0.01
+Staked: 235581.6480 SONIC-LP ($4,568.34)
+SONIC Per Week: 106001.95 ($902.30)
+APR: Day 2.82% Week 19.75% Year 1027.06%
+You are staking 0.00 [SONIC]-[BOSS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SONIC]-[BOSS] Uni LP
+Unstake 0.00 [SONIC]-[BOSS] Uni LP
+Claim 0.00 SONIC ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - [SONIC]-[SYN] Uni LP [+] [-] [<=>] Price: $0.27 TVL: $4,967.39
+SONIC Price: $0.008512
+SYN Price: $2.01
+Staked: 18195.6216 SONIC-LP ($4,845.81)
+SONIC Per Week: 117779.94 ($1,002.56)
+APR: Day 2.96% Week 20.69% Year 1075.83%
+You are staking 0.00 [SONIC]-[SYN] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SONIC]-[SYN] Uni LP
+Unstake 0.00 [SONIC]-[SYN] Uni LP
+Claim 0.00 SONIC ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - [bscZIL]-[SONIC] Uni LP [+] [-] [<=>] Price: $58.75 TVL: $829.01
+bscZIL Price: $0.05
+SONIC Price: $0.008512
+Staked: 13.5408 SONIC-LP ($795.54)
+SONIC Per Week: 70667.96 ($601.53)
+APR: Day 10.80% Week 75.61% Year 3931.91%
+You are staking 0.00 [bscZIL]-[SONIC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [bscZIL]-[SONIC] Uni LP
+Unstake 0.00 [bscZIL]-[SONIC] Uni LP
+Claim 0.00 SONIC ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - [SONIC]-[bscFLUX] Uni LP [+] [-] [<=>] Price: $21,669.61 TVL: $589.16
+SONIC Price: $0.008512
+bscFLUX Price: $1.37
+Staked: 0.0272 SONIC-LP ($588.90)
+SONIC Per Week: 94223.95 ($802.05)
+APR: Day 19.46% Week 136.19% Year 7082.14%
+You are staking 0.00 [SONIC]-[bscFLUX] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SONIC]-[bscFLUX] Uni LP
+Unstake 0.00 [SONIC]-[bscFLUX] Uni LP
+Claim 0.00 SONIC ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - [bscXEC]-[SONIC] Uni LP [+] [-] [<=>] Price: $0.00 TVL: $71.20
+bscXEC Price: $0.0000748156
+SONIC Price: $0.008512
+Staked: 44035.8471 SONIC-LP ($70.60)
+SONIC Per Week: 70667.96 ($601.53)
+APR: Day 121.72% Week 852.07% Year 44307.55%
+You are staking 0.00 [bscXEC]-[SONIC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [bscXEC]-[SONIC] Uni LP
+Unstake 0.00 [bscXEC]-[SONIC] Uni LP
+Claim 0.00 SONIC ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - [SONIC]-[bscrenDGB] Uni LP [+] [-] [<=>] Price: $70,944.18 TVL: $82.77
+SONIC Price: $0.008512
+bscrenDGB Price: $14.35
+Staked: 0.0011 SONIC-LP ($81.29)
+SONIC Per Week: 94223.95 ($802.05)
+APR: Day 140.94% Week 986.60% Year 51303.06%
+You are staking 0.00 [SONIC]-[bscrenDGB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SONIC]-[bscrenDGB] Uni LP
+Unstake 0.00 [SONIC]-[bscrenDGB] Uni LP
+Claim 0.00 SONIC ($0.00)
+Staking or unstaking also claims rewards.
+
+29 - [SONIC]-[bscETC] Uni LP [+] [-] [<=>] Price: $1.11 TVL: $840.94
+SONIC Price: $0.008512
+bscETC Price: $35.77
+Staked: 759.8474 SONIC-LP ($840.84)
+SONIC Per Week: 70667.96 ($601.53)
+APR: Day 10.22% Week 71.54% Year 3720.06%
+You are staking 0.00 [SONIC]-[bscETC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SONIC]-[bscETC] Uni LP
+Unstake 0.00 [SONIC]-[bscETC] Uni LP
+Claim 0.00 SONIC ($0.00)
+Staking or unstaking also claims rewards.
+
+SonicCity TVL: $68,297.70
+SONIC Price: $0.01
+Staked: 8023584.56 SONIC ($68,297.70)
+You are staking 0.00 SONIC ($0.00), 0.00% of the pool.
+Stake 0.00 SONIC
+SonicCity rewards are visible after unstaking / exiting the pool.
+
+Total Staked: $345,630.19

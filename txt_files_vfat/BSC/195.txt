@@ -1,0 +1,253 @@
+*************** 👨‍🌾 UNOFFICIAL EPSILON.PARTHENON.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://epsilon.parthenon.finance
+**********************************************************************************************
+
+Thu Jan 27 2022 20:51:00 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 22 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [BUSD]-[EPSILON] Cake LP [+] [-] [<=>] Price: $0.02 TVL: $56.97
+BUSD Price: $1.00
+EPSILON Price: $0.0000512316
+Staked: 3301.4006 Cake-LP ($50.67)
+EPSILON Per Week: 41916.83 ($2.15)
+APR: Day 0.61% Week 4.24% Year 220.40%
+You are staking 0.00 [BUSD]-[EPSILON] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUSD]-[EPSILON] Cake LP
+Unstake 0.00 [BUSD]-[EPSILON] Cake LP
+Claim 0.00 EPSILON ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WBNB]-[EPSILON] Cake LP [+] [-] [<=>] Price: $0.29 TVL: $28.60
+WBNB Price: $370.04
+EPSILON Price: $0.0000512316
+Staked: 66.1696 Cake-LP ($19.18)
+EPSILON Per Week: 41916.83 ($2.15)
+APR: Day 1.60% Week 11.19% Year 582.11%
+You are staking 0.00 [WBNB]-[EPSILON] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[EPSILON] Cake LP
+Unstake 0.00 [WBNB]-[EPSILON] Cake LP
+Claim 0.00 EPSILON ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.53 TVL: $346,789,729.61
+WBNB Price: $370.04
+BUSD Price: $1.00
+Staked: 0.4800 Cake-LP ($22.82)
+EPSILON Per Week: 4790.50 ($0.25)
+APR: Day 0.15% Week 1.08% Year 55.94%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 EPSILON ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $296,810,165.02
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 25.0947 Cake-LP ($52.52)
+EPSILON Per Week: 4790.50 ($0.25)
+APR: Day 0.07% Week 0.47% Year 24.30%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 EPSILON ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $7,754.83 TVL: $68,809,923.55
+BTCB Price: $36,208.00
+WBNB Price: $370.04
+Staked: 0.0583 Cake-LP ($452.44)
+EPSILON Per Week: 4790.50 ($0.25)
+APR: Day 0.01% Week 0.05% Year 2.82%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 EPSILON ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,045.33 TVL: $74,515,647.83
+ETH Price: $2,447.60
+WBNB Price: $370.04
+Staked: 0.0249 Cake-LP ($50.90)
+EPSILON Per Week: 4790.50 ($0.25)
+APR: Day 0.07% Week 0.48% Year 25.08%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 EPSILON ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [DAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $16,857,307.03
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 114.6852 Cake-LP ($239.21)
+EPSILON Per Week: 4790.50 ($0.25)
+APR: Day 0.01% Week 0.10% Year 5.34%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 EPSILON ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $131,309,680.89
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 34.9216 Cake-LP ($72.90)
+EPSILON Per Week: 4790.50 ($0.25)
+APR: Day 0.05% Week 0.34% Year 17.51%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 EPSILON ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [DOT]-[WBNB] Cake LP [+] [-] [<=>] Price: $172.93 TVL: $17,752,965.56
+DOT Price: $17.95
+WBNB Price: $370.04
+Staked: 0.0768 Cake-LP ($13.28)
+EPSILON Per Week: 4790.50 ($0.25)
+APR: Day 0.26% Week 1.85% Year 96.09%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 EPSILON ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - EPSILON Price: $0.0000512316 Market Cap: $292.75 [%]
+Staked: 2825510.6770 EPSILON ($144.76)
+EPSILON Per Week: 28742.97 ($1.47)
+APR: Day 0.15% Week 1.02% Year 52.90%
+You are staking 0.00 EPSILON ($0.00), 0.00% of the pool.
+Stake 0.00 EPSILON
+Unstake 0.00 EPSILON
+Claim 0.00 EPSILON ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - BUSD Price: $1.00 Market Cap: $4,844,174,032.49 [%]
+Staked: 322.1477 BUSD ($321.69)
+EPSILON Per Week: 4790.50 ($0.25)
+APR: Day 0.01% Week 0.08% Year 3.97%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 EPSILON ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - WBNB Price: $370.04 Market Cap: $1,931,961,021.37 [%]
+Staked: 0.7731 WBNB ($286.10)
+EPSILON Per Week: 7185.74 ($0.37)
+APR: Day 0.02% Week 0.13% Year 6.69%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 EPSILON ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - USDT Price: $1.00 Market Cap: $3,873,561,005.62 [%]
+Staked: 696.7174 USDT ($695.56)
+EPSILON Per Week: 2395.25 ($0.12)
+APR: Day 0.00% Week 0.02% Year 0.92%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 EPSILON ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - BTCB Price: $36,208.00 Market Cap: $4,073,436,208.00 [%]
+Staked: 0.0023 BTCB ($81.92)
+EPSILON Per Week: 2395.25 ($0.12)
+APR: Day 0.02% Week 0.15% Year 7.79%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 EPSILON ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - ETH Price: $2,447.60 Market Cap: $3,438,878,000.00 [%]
+Staked: 0.0001 ETH ($0.29)
+EPSILON Per Week: 2395.25 ($0.12)
+APR: Day 5.99% Week 41.95% Year 2181.66%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 EPSILON ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - DAI Price: $1.00 Market Cap: $262,000,000.00 [%]
+Staked: 55.6352 DAI ($55.64)
+EPSILON Per Week: 2395.25 ($0.12)
+APR: Day 0.03% Week 0.22% Year 11.47%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 EPSILON ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - USDC Price: $1.00 Market Cap: $1,775,692,839.00 [%]
+Staked: 10.5324 USDC ($10.51)
+EPSILON Per Week: 2395.25 ($0.12)
+APR: Day 0.17% Week 1.17% Year 60.70%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 EPSILON ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - DOT Price: $17.95 Market Cap: $287,199,999.84 [%]
+Staked: 0.0000 DOT ($0.00)
+EPSILON Per Week: 2395.25 ($0.12)
+APR: Day 160150.65% Week 1121054.56% Year 58294837.07%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 EPSILON ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - Cake Price: $7.02 Market Cap: $4,316,987,555.44 [%]
+Staked: 0.1441 Cake ($1.01)
+EPSILON Per Week: 2395.25 ($0.12)
+APR: Day 1.73% Week 12.13% Year 630.80%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 EPSILON ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - MUSCLE Price: $0.00 Market Cap: $0.00 
+Staked: 100.4462 MUSCLE ($0.00)
+EPSILON Per Week: 1796.44 ($0.09)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 MUSCLE ($0.00), NaN% of the pool.
+Stake 0.00 MUSCLE - Fee 1%
+Unstake 0.00 MUSCLE
+Claim 0.00 EPSILON ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - DELTA Price: $0.00 Market Cap: $0.00 
+Staked: 52327.6079 DELTA ($0.00)
+EPSILON Per Week: 3592.87 ($0.18)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 DELTA ($0.00), NaN% of the pool.
+Stake 0.00 DELTA - Fee 4%
+Unstake 0.00 DELTA
+Claim 0.00 EPSILON ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - SALT Price: $0.00 Market Cap: $0.00 
+Staked: 182.6121 SALT ($0.00)
+EPSILON Per Week: 1197.62 ($0.06)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SALT ($0.00), NaN% of the pool.
+Stake 0.00 SALT - Fee 2.5%
+Unstake 0.00 SALT
+Claim 0.00 EPSILON ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $2,571.39

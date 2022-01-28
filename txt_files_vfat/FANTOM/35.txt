@@ -1,0 +1,199 @@
+*************** 👨‍🌾 UNOFFICIAL KNIGHT-FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://www.knight-finance.xyz
+***********************************************************************************
+
+Fri Jan 28 2022 00:39:52 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 17 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - KF Price: $0.0000023969 Market Cap: $34.24 
+Staked: 4383082.0203 KF ($10.51)
+KF Per Week: 54161.19 ($0.13)
+APR: Day 0.18% Week 1.24% Year 64.26%
+You are staking 0.00 KF ($0.00), 0.00% of the pool.
+Stake 0.00 KF
+Unstake 0.00 KF
+Claim 0.00 KF ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [fUSDT]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $3,774,737.79 TVL: $37,079,615.57
+fUSDT Price: $1.00
+WFTM Price: $2.02
+Staked: 0.0000 spLP ($107.52)
+KF Per Week: 18053.73 ($0.04)
+APR: Day 0.01% Week 0.04% Year 2.09%
+You are staking 0.00 [fUSDT]-[WFTM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [fUSDT]-[WFTM] SPOOKY LP - Fee 4%
+Unstake 0.00 [fUSDT]-[WFTM] SPOOKY LP
+Claim 0.00 KF ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [KF]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $0.00 TVL: $0.15
+KF Price: $0.0000023969
+WFTM Price: $2.02
+Staked: 12.2762 spLP ($0.06)
+KF Per Week: 72214.93 ($0.17)
+APR: Day 41.65% Week 291.57% Year 15161.78%
+You are staking 0.00 [KF]-[WFTM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KF]-[WFTM] SPOOKY LP
+Unstake 0.00 [KF]-[WFTM] SPOOKY LP
+Claim 0.00 KF ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [fUSDT]-[KF] SPOOKY LP [+] [-] [<=>] Price: $3,596.61 TVL: $19.52
+fUSDT Price: $1.00
+KF Price: $0.0000023969
+Staked: 0.0054 spLP ($19.38)
+KF Per Week: 63188.06 ($0.15)
+APR: Day 0.11% Week 0.78% Year 40.64%
+You are staking 0.00 [fUSDT]-[KF] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [fUSDT]-[KF] SPOOKY LP
+Unstake 0.00 [fUSDT]-[KF] SPOOKY LP
+Claim 0.00 KF ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [KF]-[ETH] SPOOKY LP [+] [-] [<=>] Price: $0.19 TVL: $2.02
+KF Price: $0.0000023969
+ETH Price: $2,320.47
+Staked: 10.6556 spLP ($2.01)
+KF Per Week: 72214.93 ($0.17)
+APR: Day 1.23% Week 8.63% Year 448.54%
+You are staking 0.00 [KF]-[ETH] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KF]-[ETH] SPOOKY LP
+Unstake 0.00 [KF]-[ETH] SPOOKY LP
+Claim 0.00 KF ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [USDC]-[fUSDT] SPOOKY LP [+] [-] [<=>] Price: $2,091,362,950,813.24 TVL: $2,057,462.13
+USDC Price: $1.00
+fUSDT Price: $1.00
+Staked: 0.0000 spLP ($234.84)
+KF Per Week: 18053.73 ($0.04)
+APR: Day 0.00% Week 0.02% Year 0.96%
+You are staking 0.00 [USDC]-[fUSDT] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[fUSDT] SPOOKY LP - Fee 4%
+Unstake 0.00 [USDC]-[fUSDT] SPOOKY LP
+Claim 0.00 KF ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [KF]-[BTC] SPOOKY LP [+] [-] [<=>] Price: $76,653.00 TVL: $3.44
+KF Price: $0.0000023969
+BTC Price: $35,870.00
+Staked: 0.0000 spLP ($3.42)
+KF Per Week: 63188.06 ($0.15)
+APR: Day 0.63% Week 4.42% Year 229.95%
+You are staking 0.00 [KF]-[BTC] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KF]-[BTC] SPOOKY LP
+Unstake 0.00 [KF]-[BTC] SPOOKY LP
+Claim 0.00 KF ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [KF]-[LINK] SPOOKY LP [+] [-] [<=>] Price: $0.02 TVL: $0.23
+KF Price: $0.0000023969
+LINK Price: $14.66
+Staked: 13.5371 spLP ($0.22)
+KF Per Week: 63188.06 ($0.15)
+APR: Day 9.70% Week 67.88% Year 3529.80%
+You are staking 0.00 [KF]-[LINK] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KF]-[LINK] SPOOKY LP
+Unstake 0.00 [KF]-[LINK] SPOOKY LP
+Claim 0.00 KF ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - WFTM Price: $2.02 Market Cap: $1,459,596,492.33 
+Staked: 0.0000 WFTM ($0.00)
+KF Per Week: 36107.46 ($0.09)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 WFTM ($0.00), NaN% of the pool.
+Stake 0.00 WFTM - Fee 4%
+Unstake 0.00 WFTM
+Claim 0.00 KF ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - BTC Price: $35,870.00 Market Cap: $617,208,136.94 
+Staked: 0.0002 BTC ($8.10)
+KF Per Week: 18053.73 ($0.04)
+APR: Day 0.08% Week 0.53% Year 27.79%
+You are staking 0.00 BTC ($0.00), 0.00% of the pool.
+Stake 0.00 BTC - Fee 4%
+Unstake 0.00 BTC
+Claim 0.00 KF ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - ETH Price: $2,320.47 Market Cap: $1,107,097,527.19 
+Staked: 0.0000 ETH ($0.00)
+KF Per Week: 18053.73 ($0.04)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 ETH ($0.00), NaN% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 KF ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - fUSDT Price: $1.00 Market Cap: $350,440,822.23 
+Staked: 0.9617 fUSDT ($0.96)
+KF Per Week: 18053.73 ($0.04)
+APR: Day 0.64% Week 4.50% Year 233.97%
+You are staking 0.00 fUSDT ($0.00), 0.00% of the pool.
+Stake 0.00 fUSDT - Fee 4%
+Unstake 0.00 fUSDT
+Claim 0.00 KF ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - LINK Price: $14.66 Market Cap: $38,232,574.63 
+Staked: 0.0141 LINK ($0.21)
+KF Per Week: 18053.73 ($0.04)
+APR: Day 2.99% Week 20.96% Year 1089.71%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 KF ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - BNB Price: $363.87 Market Cap: $13,800,178.15 
+Staked: 0.0001 BNB ($0.02)
+KF Per Week: 18053.73 ($0.04)
+APR: Day 30.19% Week 211.36% Year 10990.50%
+You are staking 0.00 BNB ($0.00), 0.00% of the pool.
+Stake 0.00 BNB - Fee 4%
+Unstake 0.00 BNB
+Claim 0.00 KF ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - AAVE Price: $0.00 Market Cap: $0.00 
+Staked: 0.0001 AAVE ($0.00)
+KF Per Week: 18053.73 ($0.04)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 AAVE ($0.00), NaN% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 KF ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - SUSHI Price: $3.89 Market Cap: $6,814,958.78 
+Staked: 0.0020 SUSHI ($0.01)
+KF Per Week: 18053.73 ($0.04)
+APR: Day 79.38% Week 555.68% Year 28895.23%
+You are staking 0.00 SUSHI ($0.00), 0.00% of the pool.
+Stake 0.00 SUSHI - Fee 4%
+Unstake 0.00 SUSHI
+Claim 0.00 KF ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - USDC Price: $1.00 Market Cap: $1,732,271,441.87 
+Staked: 0.0796 USDC ($0.08)
+KF Per Week: 18053.73 ($0.04)
+APR: Day 7.77% Week 54.38% Year 2827.79%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 KF ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $387.33

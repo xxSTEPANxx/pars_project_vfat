@@ -1,0 +1,155 @@
+*************** 👨‍🌾 UNOFFICIAL FRENCHIE FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://frenchiedefi.com
+****************************************************************************************
+
+Thu Jan 27 2022 20:57:53 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 17 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - FPP Price: $0.00 Market Cap: $0.00 
+Staked: 1001875.5425 FPP ($0.00)
+FPP Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FPP ($0.00), NaN% of the pool.
+Stake 0.00 FPP
+Unstake 0.00 FPP
+Claim 0.00 FPP ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WBNB]-[FPP] Cake LP [+] [-] [<=>] Price: $0.30 TVL: $213.33
+WBNB Price: $369.24
+FPP Price: $0.0000525742
+Staked: 557.1093 Cake-LP ($164.38)
+FPP Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WBNB]-[FPP] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[FPP] Cake LP
+Unstake 0.00 [WBNB]-[FPP] Cake LP
+Claim 0.00 FPP ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [FPP]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.02 TVL: $164.61
+FPP Price: $0.0000525742
+BUSD Price: $1.00
+Staked: 9296.1856 Cake-LP ($142.96)
+FPP Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [FPP]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FPP]-[BUSD] Cake LP
+Unstake 0.00 [FPP]-[BUSD] Cake LP
+Claim 0.00 FPP ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - BUSD Price: $1.00 Market Cap: $4,850,300,844.72 [%]
+Staked: 140.9383 BUSD ($140.92)
+FPP Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 3%
+Unstake 0.00 BUSD
+Claim 0.00 FPP ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - WBNB Price: $369.24 Market Cap: $1,927,579,344.20 [%]
+Staked: 6.2080 WBNB ($2,292.24)
+FPP Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 3%
+Unstake 0.00 WBNB
+Claim 0.00 FPP ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - BTCB Price: $36,305.00 Market Cap: $4,084,348,805.00 [%]
+Staked: 0.0000 BTCB ($0.00)
+FPP Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BTCB ($0.00), NaN% of the pool.
+Stake 0.00 BTCB - Fee 3%
+Unstake 0.00 BTCB
+Claim 0.00 FPP ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - ETH Price: $2,454.60 Market Cap: $3,448,713,000.00 [%]
+Staked: 0.0000 ETH ($0.00)
+FPP Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 ETH ($0.00), NaN% of the pool.
+Stake 0.00 ETH - Fee 3%
+Unstake 0.00 ETH
+Claim 0.00 FPP ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - DAI Price: $1.00 Market Cap: $262,000,000.00 [%]
+Staked: 50.5387 DAI ($50.54)
+FPP Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 3%
+Unstake 0.00 DAI
+Claim 0.00 FPP ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.10 TVL: $297,244,574.22
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 456.3183 Cake-LP ($956.46)
+FPP Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 3%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 FPP ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.51 TVL: $346,632,559.12
+WBNB Price: $369.24
+BUSD Price: $1.00
+Staked: 1.7042 Cake-LP ($80.97)
+FPP Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 3%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 FPP ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,046.03 TVL: $74,541,433.66
+ETH Price: $2,454.60
+WBNB Price: $369.24
+Staked: 0.0772 Cake-LP ($157.92)
+FPP Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 3%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 FPP ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - Cake Price: $7.02 Market Cap: $4,317,000,314.32 [%]
+Staked: 0.0652 Cake ($0.46)
+FPP Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 3%
+Unstake 0.00 Cake
+Claim 0.00 FPP ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - LINK Price: $15.15 Market Cap: $130,290,000.00 [%]
+Staked: 0.0000 LINK ($0.00)
+FPP Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 3%
+Unstake 0.00 LINK
+Claim 0.00 FPP ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $3,986.85

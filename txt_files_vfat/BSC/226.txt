@@ -1,0 +1,68 @@
+*************** 👨‍🌾 UNOFFICIAL WASABIX FARMING CALCULATOR 👨‍🌾 *******************
+INFO  : https://bsc.wasabix.finance/#/app/pool
+*********************************************************************************
+
+Thu Jan 27 2022 20:56:26 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Finished reading smart contracts.
+[WASABI]-[WBNB] Cake LP [+] [-] [<=>] Price: $29.28 TVL: $252,649.56
+WASABI Price: $0.57
+WBNB Price: $369.16
+Staked: 8597.2592 Cake-LP ($251,693.93)
+WASABI Per Week: 5662.59 ($3,228.95)
+APR: Day 0.18% Week 1.28% Year 66.71%
+You are staking 0.00 [WASABI]-[WBNB] Cake LP ($0.00)
+After considering veWASABI boosting (Boost factor -x), you own 0.00% of the pool.
+Staking Token Contract
+Deposit 0.00 [WASABI]-[WBNB] Cake LP
+Withdraw 0.00 [WASABI]-[WBNB] Cake LP
+
+waBUSD Price: $1.00 Market Cap: $525,261.04 [%]
+Staked: 366170.4762 waBUSD ($366,170.48)
+WASABI Per Week: 453.01 ($258.32)
+APR: Day 0.01% Week 0.07% Year 3.67%
+You are staking 0.00 waBUSD ($0.00)
+After considering veWASABI boosting (Boost factor -x), you own 0.00% of the pool.
+Staking Token Contract
+Deposit 0.00 waBUSD
+Withdraw 0.00 waBUSD
+
+[waBUSD]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.00 TVL: $288,990.88
+waBUSD Price: $1.00
+BUSD Price: $1.00
+Staked: 138641.4016 Cake-LP ($277,577.73)
+WASABI Per Week: 566.26 ($322.90)
+APR: Day 0.02% Week 0.12% Year 6.05%
+You are staking 0.00 [waBUSD]-[BUSD] Cake LP ($0.00)
+After considering veWASABI boosting (Boost factor -x), you own 0.00% of the pool.
+Staking Token Contract
+Deposit 0.00 [waBUSD]-[BUSD] Cake LP
+Withdraw 0.00 [waBUSD]-[BUSD] Cake LP
+
+waBNB Price: $0.00 Market Cap: $0.00 
+Staked: 152.9219 waBNB ($0.00)
+WASABI Per Week: 453.01 ($258.32)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 waBNB ($0.00)
+After considering veWASABI boosting (Boost factor -x), you own 0.00% of the pool.
+Staking Token Contract
+Deposit 0.00 waBNB
+Withdraw 0.00 waBNB
+
+[waBNB]-[WBNB] Cake LP [+] [-] [<=>] Price: $733.39 TVL: $21,822.19
+waBNB Price: $363.57
+WBNB Price: $369.16
+Staked: 29.1627 Cake-LP ($21,387.64)
+WASABI Per Week: 566.26 ($322.90)
+APR: Day 0.22% Week 1.51% Year 78.51%
+You are staking 0.00 [waBNB]-[WBNB] Cake LP ($0.00)
+After considering veWASABI boosting (Boost factor -x), you own 0.00% of the pool.
+Staking Token Contract
+Deposit 0.00 [waBNB]-[WBNB] Cake LP
+Withdraw 0.00 [waBNB]-[WBNB] Cake LP
+
+Total Staked: $916,829.78

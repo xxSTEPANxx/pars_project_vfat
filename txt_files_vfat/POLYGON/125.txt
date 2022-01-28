@@ -6,113 +6,20 @@ INFO  : https://legofarming-polygon.club
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Fri Dec 17 2021 10:18:49 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 22:39:40 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
+Staking Contract
 Found 9 pools.
 Showing incentivized pools only.
-Finished reading smart contracts.
-0 - [USDC]-[LEGO] SLP [+] [-] [<=>] Price: $2,115.76 TVL: $0.96
-USDC Price: $1.00
-LEGO Price: $0.0000010289
-Staked: 0.0004 SLP ($0.83)
-LEGO Per Week: 39587.63 ($0.04)
-APR: Day 0.71% Week 4.94% Year 256.63%
-You are staking 0.00 [USDC]-[LEGO] SLP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[LEGO] SLP
-Unstake 0.00 [USDC]-[LEGO] SLP
-Claim 0.00 LEGO ($0.00)
-Staking or unstaking also claims rewards.
-
-1 - [WMATIC]-[LEGO] SLP [+] [-] [<=>] Price: $0.00 TVL: $1.01
-WMATIC Price: $2.05
-LEGO Price: $0.0000010289
-Staked: 327.6203 SLP ($0.98)
-LEGO Per Week: 29690.72 ($0.03)
-APR: Day 0.45% Week 3.12% Year 162.08%
-You are staking 0.00 [WMATIC]-[LEGO] SLP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[LEGO] SLP
-Unstake 0.00 [WMATIC]-[LEGO] SLP
-Claim 0.00 LEGO ($0.00)
-Staking or unstaking also claims rewards.
-
-2 - LEGO Price: $0.0000010289 Market Cap: $1.81 [%]
-Staked: 255477.4591 LEGO ($0.26)
-LEGO Per Week: 4948.45 ($0.01)
-APR: Day 0.28% Week 1.94% Year 100.72%
-You are staking 0.00 LEGO ($0.00), 0.00% of the pool.
-Stake 0.00 LEGO
-Unstake 0.00 LEGO
-Claim 0.00 LEGO ($0.00)
-Staking or unstaking also claims rewards.
-
-3 - [WMATIC]-[USDC] SLP [+] [-] [<=>] Price: $5,396,417.41 TVL: $11,419,077.47
-WMATIC Price: $2.05
-USDC Price: $1.00
-Staked: 0.0000 SLP ($0.00)
-LEGO Per Week: 19793.81 ($0.02)
-APR: Day 53916234105.03% Week 377413638735.20% Year 19625509214230.40%
-You are staking 0.00 [WMATIC]-[USDC] SLP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[USDC] SLP - Fee 4%
-Unstake 0.00 [WMATIC]-[USDC] SLP
-Claim 0.00 LEGO ($0.00)
-Staking or unstaking also claims rewards.
-
-4 - WMATIC Price: $2.05 Market Cap: $625,761,988.77 [%]
-Staked: 4.8096 WMATIC ($9.86)
-LEGO Per Week: 3463.92 ($0.00)
-APR: Day 0.01% Week 0.04% Year 1.88%
-You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
-Stake 0.00 WMATIC - Fee 4%
-Unstake 0.00 WMATIC
-Claim 0.00 LEGO ($0.00)
-Staking or unstaking also claims rewards.
-
-5 - USDT Price: $1.00 Market Cap: $318,202,586.16 [%]
-Staked: 37.6313 USDT ($37.45)
-LEGO Per Week: 3463.92 ($0.00)
-APR: Day 0.00% Week 0.01% Year 0.49%
-You are staking 0.00 USDT ($0.00), 0.00% of the pool.
-Stake 0.00 USDT - Fee 4%
-Unstake 0.00 USDT
-Claim 0.00 LEGO ($0.00)
-Staking or unstaking also claims rewards.
-
-6 - WETH Price: $3,896.25 Market Cap: $1,729,957,186.53 [%]
-Staked: 0.0000 WETH ($0.00)
-LEGO Per Week: 3463.92 ($0.00)
-APR: Day 4072.19% Week 28505.32% Year 1482276.48%
-You are staking 0.00 WETH ($0.00), 0.00% of the pool.
-Stake 0.00 WETH - Fee 4%
-Unstake 0.00 WETH
-Claim 0.00 LEGO ($0.00)
-Staking or unstaking also claims rewards.
-
-7 - [WMATIC]-[WETH] SLP [+] [-] [<=>] Price: $202.94 TVL: $36,172,163.79
-WMATIC Price: $2.05
-WETH Price: $3,896.25
-Staked: 0.0000 SLP ($0.00)
-LEGO Per Week: 19793.81 ($0.02)
-APR: Day 22517.56% Week 157622.95% Year 8196393.65%
-You are staking 0.00 [WMATIC]-[WETH] SLP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[WETH] SLP - Fee 4%
-Unstake 0.00 [WMATIC]-[WETH] SLP
-Claim 0.00 LEGO ($0.00)
-Staking or unstaking also claims rewards.
-
-8 - [USDC]-[DAI] SLP [+] [-] [<=>] Price: $2,072,318.15 TVL: $7,533,683.81
-USDC Price: $1.00
-DAI Price: $1.00
-Staked: 0.0000 SLP ($0.00)
-LEGO Per Week: 19793.81 ($0.02)
-APR: Day 1333.95% Week 9337.65% Year 485557.78%
-You are staking 0.00 [USDC]-[DAI] SLP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[DAI] SLP - Fee 4%
-Unstake 0.00 [USDC]-[DAI] SLP
-Claim 0.00 LEGO ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $49.38
+{
+  "code": -32603,
+  "message": "Non-200 status code: '400'",
+  "data": {
+    "error": "Unable to verify your data submission."
+  }
+}
+Oops something went wrong. Try refreshing the page.

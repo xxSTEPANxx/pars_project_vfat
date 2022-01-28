@@ -1,0 +1,85 @@
+*************** 👨‍🌾 UNOFFICIAL APACHE.FINANCE FARMING CALCULATOR 👨‍🌾 *****************
+INFO  : https://app.apache.finance/
+*************************************************************************************
+
+Thu Jan 27 2022 20:47:59 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 16 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+1 - APACHE Price: $0.01 Market Cap: $5,383.62 [%]
+Staked: 198602.4230 APACHE ($2,437.27)
+APACHE Per Week: 1901.89 ($23.34)
+APR: Day 0.14% Week 0.96% Year 49.80%
+You are staking 0.00 APACHE ($0.00), 0.00% of the pool.
+Stake 0.00 APACHE
+Unstake 0.00 APACHE
+Claim 0.00 APACHE ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [APACHE]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.24 TVL: $1,574.17
+APACHE Price: $0.01
+BUSD Price: $1.00
+Staked: 5334.1265 Cake-LP ($1,269.56)
+APACHE Per Week: 190.19 ($2.33)
+APR: Day 0.03% Week 0.18% Year 9.56%
+You are staking 0.00 [APACHE]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [APACHE]-[BUSD] Cake LP
+Unstake 0.00 [APACHE]-[BUSD] Cake LP
+Claim 0.00 APACHE ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [APACHE]-[WBNB] Cake LP [+] [-] [<=>] Price: $4.66 TVL: $984.88
+APACHE Price: $0.01
+WBNB Price: $370.11
+Staked: 171.0140 Cake-LP ($797.18)
+APACHE Per Week: 190.19 ($2.33)
+APR: Day 0.04% Week 0.29% Year 15.22%
+You are staking 0.00 [APACHE]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [APACHE]-[WBNB] Cake LP
+Unstake 0.00 [APACHE]-[WBNB] Cake LP
+Claim 0.00 APACHE ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $66.01 TVL: $2,135,920.25
+WBNB Price: $370.11
+BUSD Price: $1.00
+Staked: 35.8045 Cake-LP ($2,363.30)
+APACHE Per Week: 190.19 ($2.33)
+APR: Day 0.01% Week 0.10% Year 5.14%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 APACHE ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [APACHE]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.23 TVL: $445.25
+APACHE Price: $0.01
+BUSD Price: $1.00
+Staked: 1789.7730 Cake-LP ($406.70)
+APACHE Per Week: 3803.77 ($46.68)
+APR: Day 1.64% Week 11.48% Year 596.85%
+You are staking 0.00 [APACHE]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [APACHE]-[BUSD] Cake LP
+Unstake 0.00 [APACHE]-[BUSD] Cake LP
+Claim 0.00 APACHE ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [APACHE]-[WBNB] Cake LP [+] [-] [<=>] Price: $5.04 TVL: $407.57
+APACHE Price: $0.01
+WBNB Price: $370.11
+Staked: 75.0786 Cake-LP ($378.32)
+APACHE Per Week: 3803.77 ($46.68)
+APR: Day 1.76% Week 12.34% Year 641.62%
+You are staking 0.00 [APACHE]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [APACHE]-[WBNB] Cake LP
+Unstake 0.00 [APACHE]-[WBNB] Cake LP
+Claim 0.00 APACHE ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $7,652.33

@@ -6,133 +6,23 @@ INFO  : https://polygon.bullrun.finance
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Fri Dec 17 2021 10:34:18 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 22:46:59 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
-Found 11 pools.
-Showing incentivized pools only.
-Finished reading smart contracts.
-0 - BULL Price: $0.0000118440 Market Cap: $825.09 [%]
-Staked: 29883878.3027 BULL ($353.94)
-BULL Per Week: 325088.78 ($3.85)
-APR: Day 0.16% Week 1.09% Year 56.57%
-You are staking 0.00 BULL ($0.00), 0.00% of the pool.
-Stake 0.00 BULL
-Unstake 0.00 BULL
-Claim 0.00 BULL ($0.00)
-Staking or unstaking also claims rewards.
-
-1 - WMATIC Price: $2.04 Market Cap: $622,635,295.92 [%]
-Staked: 56.4365 WMATIC ($115.13)
-BULL Per Week: 162544.39 ($1.93)
-APR: Day 0.24% Week 1.67% Year 86.95%
-You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
-Stake 0.00 WMATIC - Fee 4%
-Unstake 0.00 WMATIC
-Claim 0.00 BULL ($0.00)
-Staking or unstaking also claims rewards.
-
-2 - WBTC Price: $46,989.00 Market Cap: $474,769,152.24 [%]
-Staked: 0.0001 WBTC ($4.41)
-BULL Per Week: 162544.39 ($1.93)
-APR: Day 6.24% Week 43.67% Year 2270.81%
-You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
-Stake 0.00 WBTC - Fee 4%
-Unstake 0.00 WBTC
-Claim 0.00 BULL ($0.00)
-Staking or unstaking also claims rewards.
-
-3 - WETH Price: $3,892.09 Market Cap: $1,728,127,592.93 [%]
-Staked: 0.0323 WETH ($125.84)
-BULL Per Week: 162544.39 ($1.93)
-APR: Day 0.22% Week 1.53% Year 79.56%
-You are staking 0.00 WETH ($0.00), 0.00% of the pool.
-Stake 0.00 WETH - Fee 4%
-Unstake 0.00 WETH
-Claim 0.00 BULL ($0.00)
-Staking or unstaking also claims rewards.
-
-4 - QUICK Price: $241.10 Market Cap: $230,380,310.98 [%]
-Staked: 0.0067 QUICK ($1.62)
-BULL Per Week: 162544.39 ($1.93)
-APR: Day 16.99% Week 118.94% Year 6184.71%
-You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
-Stake 0.00 QUICK - Fee 4%
-Unstake 0.00 QUICK
-Claim 0.00 BULL ($0.00)
-Staking or unstaking also claims rewards.
-
-5 - USDC Price: $1.00 Market Cap: $951,163,648.45 [%]
-Staked: 959.9600 USDC ($958.82)
-BULL Per Week: 81272.20 ($0.96)
-APR: Day 0.01% Week 0.10% Year 5.22%
-You are staking 0.00 USDC ($0.00), 0.00% of the pool.
-Stake 0.00 USDC - Fee 4%
-Unstake 0.00 USDC
-Claim 0.00 BULL ($0.00)
-Staking or unstaking also claims rewards.
-
-6 - [WMATIC]-[BULL] Uni LP [+] [-] [<=>] Price: $0.01 TVL: $610.37
-WMATIC Price: $2.04
-BULL Price: $0.0000118440
-Staked: 2781.9742 UNI-V2 ($29.46)
-BULL Per Week: 650177.56 ($7.70)
-APR: Day 3.73% Week 26.14% Year 1359.28%
-You are staking 0.00 [WMATIC]-[BULL] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[BULL] Uni LP
-Unstake 0.00 [WMATIC]-[BULL] Uni LP
-Claim 0.00 BULL ($0.00)
-Staking or unstaking also claims rewards.
-
-7 - [USDC]-[BULL] Uni LP [+] [-] [<=>] Price: $8,755.55 TVL: $46.88
-USDC Price: $1.00
-BULL Price: $0.0000118440
-Staked: 0.0029 UNI-V2 ($25.21)
-BULL Per Week: 650177.56 ($7.70)
-APR: Day 4.36% Week 30.55% Year 1588.37%
-You are staking 0.00 [USDC]-[BULL] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[BULL] Uni LP
-Unstake 0.00 [USDC]-[BULL] Uni LP
-Claim 0.00 BULL ($0.00)
-Staking or unstaking also claims rewards.
-
-8 - [QUICK]-[BULL] Uni LP [+] [-] [<=>] Price: $0.13 TVL: $20.83
-QUICK Price: $241.10
-BULL Price: $0.0000118440
-Staked: 158.8088 UNI-V2 ($20.42)
-BULL Per Week: 650177.56 ($7.70)
-APR: Day 5.39% Week 37.70% Year 1960.53%
-You are staking 0.00 [QUICK]-[BULL] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [QUICK]-[BULL] Uni LP
-Unstake 0.00 [QUICK]-[BULL] Uni LP
-Claim 0.00 BULL ($0.00)
-Staking or unstaking also claims rewards.
-
-9 - [WMATIC]-[WETH] Uni LP [+] [-] [<=>] Price: $235.76 TVL: $108,455,040.01
-WMATIC Price: $2.04
-WETH Price: $3,892.09
-Staked: 0.1000 UNI-V2 ($23.58)
-BULL Per Week: 162544.39 ($1.93)
-APR: Day 1.17% Week 8.17% Year 424.63%
-You are staking 0.00 [WMATIC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[WETH] Uni LP - Fee 4%
-Unstake 0.00 [WMATIC]-[WETH] Uni LP
-Claim 0.00 BULL ($0.00)
-Staking or unstaking also claims rewards.
-
-10 - [WETH]-[USDT] Uni LP [+] [-] [<=>] Price: $3,082,871,658.49 TVL: $22,041,390.61
-WETH Price: $3,892.09
-USDT Price: $1.00
-Staked: 0.0000 UNI-V2 ($53.55)
-BULL Per Week: 162544.39 ($1.93)
-APR: Day 0.51% Week 3.59% Year 186.93%
-You are staking 0.00 [WETH]-[USDT] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WETH]-[USDT] Uni LP - Fee 4%
-Unstake 0.00 [WETH]-[USDT] Uni LP
-Claim 0.00 BULL ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $1,711.98
+{
+  "code": -32603,
+  "message": "Non-200 status code: '403'",
+  "data": {
+    "id": "forbidden",
+    "status": 403,
+    "title": "Forbidden",
+    "detail": "Issue with CSRF code",
+    "error": "http: named cookie not present",
+    "encrypted": false,
+    "multires": null
+  }
+}
+Oops something went wrong. Try refreshing the page.

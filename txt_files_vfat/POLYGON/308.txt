@@ -6,175 +6,20 @@ INFO  : https://sandman.farm
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Thu Dec 16 2021 05:24:13 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 23:34:46 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
+Staking Contract
 Found 15 pools.
 Showing incentivized pools only.
-Finished reading smart contracts.
-0 - [USDC]-[SANDMAN] Uni LP [+] [-] [<=>] Price: $1,549,896.52 TVL: $980.70
-USDC Price: $1.00
-SANDMAN Price: $0.54
-Staked: 0.0001 UNI-V2 ($210.20)
-sandman Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 [USDC]-[SANDMAN] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[SANDMAN] Uni LP
-Unstake 0.00 [USDC]-[SANDMAN] Uni LP
-Claim 0.00 sandman ($0.00)
-Staking or unstaking also claims rewards.
-
-1 - SANDMAN Price: $0.54 Market Cap: $54,154.64 [%]
-Staked: 632.2723 SANDMAN ($342.40)
-sandman Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 SANDMAN ($0.00), 0.00% of the pool.
-Stake 0.00 SANDMAN
-Unstake 0.00 SANDMAN
-Claim 0.00 sandman ($0.00)
-Staking or unstaking also claims rewards.
-
-2 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,886,531.15 TVL: $52,440,580.97
-WMATIC Price: $2.16
-USDC Price: $1.00
-Staked: 0.0000 UNI-V2 ($0.00)
-sandman Per Week: 0.00 ($0.00)
-APR: Day NaN% Week NaN% Year NaN%
-You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), NaN% of the pool.
-Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
-Unstake 0.00 [WMATIC]-[USDC] Uni LP
-Claim 0.00 sandman ($0.00)
-Staking or unstaking also claims rewards.
-
-3 - [USDC]-[USDT] Uni LP [+] [-] [<=>] Price: $2,624,062,453,196.18 TVL: $24,541,372.95
-USDC Price: $1.00
-USDT Price: $1.00
-Staked: 0.0000 UNI-V2 ($0.79)
-sandman Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[USDT] Uni LP - Fee 4%
-Unstake 0.00 [USDC]-[USDT] Uni LP
-Claim 0.00 sandman ($0.00)
-Staking or unstaking also claims rewards.
-
-4 - [USDC]-[DAI] Uni LP [+] [-] [<=>] Price: $76,274,352.91 TVL: $7,329,057.34
-USDC Price: $1.00
-DAI Price: $1.00
-Staked: 0.0001 UNI-V2 ($4,874.48)
-sandman Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 [USDC]-[DAI] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[DAI] Uni LP - Fee 4%
-Unstake 0.00 [USDC]-[DAI] Uni LP
-Claim 0.00 sandman ($0.00)
-Staking or unstaking also claims rewards.
-
-5 - [USDC]-[WETH] Uni LP [+] [-] [<=>] Price: $188,065,563.25 TVL: $79,059,228.77
-USDC Price: $1.00
-WETH Price: $4,041.65
-Staked: 0.0000 UNI-V2 ($0.00)
-sandman Per Week: 0.00 ($0.00)
-APR: Day NaN% Week NaN% Year NaN%
-You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), NaN% of the pool.
-Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
-Unstake 0.00 [USDC]-[WETH] Uni LP
-Claim 0.00 sandman ($0.00)
-Staking or unstaking also claims rewards.
-
-6 - WMATIC Price: $2.16 Market Cap: $657,601,464.10 [%]
-Staked: 6.1730 WMATIC ($13.33)
-sandman Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
-Stake 0.00 WMATIC - Fee 4%
-Unstake 0.00 WMATIC
-Claim 0.00 sandman ($0.00)
-Staking or unstaking also claims rewards.
-
-7 - DAI Price: $1.00 Market Cap: $374,067,417.09 [%]
-Staked: 0.0000 DAI ($0.00)
-sandman Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 DAI ($0.00), 0.00% of the pool.
-Stake 0.00 DAI - Fee 4%
-Unstake 0.00 DAI
-Claim 0.00 sandman ($0.00)
-Staking or unstaking also claims rewards.
-
-8 - WETH Price: $4,041.65 Market Cap: $1,793,839,463.08 [%]
-Staked: 0.0000 WETH ($0.00)
-sandman Per Week: 0.00 ($0.00)
-APR: Day NaN% Week NaN% Year NaN%
-You are staking 0.00 WETH ($0.00), NaN% of the pool.
-Stake 0.00 WETH - Fee 4%
-Unstake 0.00 WETH
-Claim 0.00 sandman ($0.00)
-Staking or unstaking also claims rewards.
-
-9 - WBTC Price: $49,039.00 Market Cap: $497,396,785.60 [%]
-Staked: 0.0000 WBTC ($0.00)
-sandman Per Week: 0.00 ($0.00)
-APR: Day NaN% Week NaN% Year NaN%
-You are staking 0.00 WBTC ($0.00), NaN% of the pool.
-Stake 0.00 WBTC - Fee 4%
-Unstake 0.00 WBTC
-Claim 0.00 sandman ($0.00)
-Staking or unstaking also claims rewards.
-
-10 - USDT Price: $1.00 Market Cap: $313,324,254.04 [%]
-Staked: 1382.4000 USDT ($1,381.89)
-sandman Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 USDT ($0.00), 0.00% of the pool.
-Stake 0.00 USDT - Fee 4%
-Unstake 0.00 USDT
-Claim 0.00 sandman ($0.00)
-Staking or unstaking also claims rewards.
-
-11 - USDC Price: $1.00 Market Cap: $943,569,936.81 [%]
-Staked: 5.4801 USDC ($5.48)
-sandman Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 USDC ($0.00), 0.00% of the pool.
-Stake 0.00 USDC - Fee 4%
-Unstake 0.00 USDC
-Claim 0.00 sandman ($0.00)
-Staking or unstaking also claims rewards.
-
-12 - LINK Price: $19.96 Market Cap: $34,618,687.89 [%]
-Staked: 0.0000 LINK ($0.00)
-sandman Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 LINK ($0.00), 0.00% of the pool.
-Stake 0.00 LINK - Fee 4%
-Unstake 0.00 LINK
-Claim 0.00 sandman ($0.00)
-Staking or unstaking also claims rewards.
-
-13 - QUICK Price: $252.34 Market Cap: $241,120,360.17 [%]
-Staked: 0.0000 QUICK ($0.00)
-sandman Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
-Stake 0.00 QUICK - Fee 4%
-Unstake 0.00 QUICK
-Claim 0.00 sandman ($0.00)
-Staking or unstaking also claims rewards.
-
-14 - [WMATIC]-[SANDMAN] Uni LP [+] [-] [<=>] Price: $2.29 TVL: $1,370.61
-WMATIC Price: $2.16
-SANDMAN Price: $0.54
-Staked: 33.5617 UNI-V2 ($76.74)
-sandman Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 [WMATIC]-[SANDMAN] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[SANDMAN] Uni LP
-Unstake 0.00 [WMATIC]-[SANDMAN] Uni LP
-Claim 0.00 sandman ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $6,905.32
+{
+  "code": -32603,
+  "message": "Non-200 status code: '400'",
+  "data": {
+    "error": "Unable to verify your data submission."
+  }
+}
+Oops something went wrong. Try refreshing the page.

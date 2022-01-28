@@ -1,0 +1,155 @@
+*************** 👨‍🌾 UNOFFICIAL PRISMFINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://bsc.prismfinance.net
+*********************************************************************************
+
+Thu Jan 27 2022 21:09:14 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 13 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [PRISM]-[BUSD] Cake LP [+] [-] [<=>] Price: $444,022.59 TVL: $26.49
+PRISM Price: $0.000134
+BUSD Price: $1.00
+Staked: 0.0001 Cake-LP ($23.01)
+PRISM Per Week: 38327.00 ($5.12)
+APR: Day 3.18% Week 22.27% Year 1157.97%
+You are staking 0.00 [PRISM]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PRISM]-[BUSD] Cake LP
+Unstake 0.00 [PRISM]-[BUSD] Cake LP
+Claim 0.00 PRISM ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [PRISM]-[WBNB] Cake LP [+] [-] [<=>] Price: $0.55 TVL: $30.43
+PRISM Price: $0.000134
+WBNB Price: $369.48
+Staked: 37.1041 Cake-LP ($20.25)
+PRISM Per Week: 38327.00 ($5.12)
+APR: Day 3.61% Week 25.30% Year 1315.82%
+You are staking 0.00 [PRISM]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PRISM]-[WBNB] Cake LP
+Unstake 0.00 [PRISM]-[WBNB] Cake LP
+Claim 0.00 PRISM ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.49 TVL: $346,511,472.91
+WBNB Price: $369.48
+BUSD Price: $1.00
+Staked: 3.9509 Cake-LP ($187.65)
+PRISM Per Week: 13797.72 ($1.84)
+APR: Day 0.14% Week 0.98% Year 51.12%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 PRISM ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,045.13 TVL: $74,508,594.95
+ETH Price: $2,450.84
+WBNB Price: $369.48
+Staked: 0.7043 Cake-LP ($1,440.29)
+PRISM Per Week: 11498.10 ($1.54)
+APR: Day 0.02% Week 0.11% Year 5.55%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 PRISM ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $105.33 TVL: $200,539,362.38
+Cake Price: $6.96
+WBNB Price: $369.48
+Staked: 0.6672 Cake-LP ($70.27)
+PRISM Per Week: 11498.10 ($1.54)
+APR: Day 0.31% Week 2.19% Year 113.76%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 PRISM ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - PRISM Price: $0.000134 Market Cap: $322.53 [%]
+Staked: 1479174.8916 PRISM ($197.78)
+PRISM Per Week: 15330.80 ($2.05)
+APR: Day 0.15% Week 1.04% Year 53.90%
+You are staking 0.00 PRISM ($0.00), 0.00% of the pool.
+Stake 0.00 PRISM
+Unstake 0.00 PRISM
+Claim 0.00 PRISM ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - BUSD Price: $1.00 Market Cap: $4,843,679,230.55 [%]
+Staked: 447.1501 BUSD ($446.48)
+PRISM Per Week: 10731.56 ($1.43)
+APR: Day 0.05% Week 0.32% Year 16.71%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 PRISM ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - WBNB Price: $369.48 Market Cap: $1,928,866,978.27 [%]
+Staked: 0.0521 WBNB ($19.24)
+PRISM Per Week: 11498.10 ($1.54)
+APR: Day 1.14% Week 7.99% Year 415.41%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 PRISM ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - USDT Price: $1.00 Market Cap: $3,879,997,922.18 [%]
+Staked: 4246.8599 USDT ($4,246.86)
+PRISM Per Week: 9198.48 ($1.23)
+APR: Day 0.00% Week 0.03% Year 1.51%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 PRISM ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - USDC Price: $1.00 Market Cap: $1,779,000,000.00 [%]
+Staked: 3.6864 USDC ($3.69)
+PRISM Per Week: 9198.48 ($1.23)
+APR: Day 4.77% Week 33.36% Year 1734.89%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 PRISM ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - BTCB Price: $36,259.00 Market Cap: $4,079,173,759.00 [%]
+Staked: 0.0001 BTCB ($3.61)
+PRISM Per Week: 9198.48 ($1.23)
+APR: Day 4.87% Week 34.07% Year 1771.75%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 PRISM ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - ETH Price: $2,450.84 Market Cap: $3,443,430,200.00 [%]
+Staked: 0.0011 ETH ($2.60)
+PRISM Per Week: 11498.10 ($1.54)
+APR: Day 8.45% Week 59.12% Year 3073.99%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 PRISM ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - Cake Price: $6.96 Market Cap: $4,280,126,896.55 [%]
+Staked: 5.1352 Cake ($35.74)
+PRISM Per Week: 11498.10 ($1.54)
+APR: Day 0.61% Week 4.30% Year 223.67%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 PRISM ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $6,697.47

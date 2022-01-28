@@ -1,0 +1,156 @@
+***************************** AVALANCHE **************************************
+    
+*************** 👨‍🌾 UNOFFICIAL MINT-SWAP FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://mint-swap.com
+******************************************************************************
+
+Fri Jan 28 2022 00:26:12 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 13 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - MINT Price: $0.27 Market Cap: $2,954.58 
+Staked: 1290.7140 MINT ($346.68)
+MINT Per Week: 493.71 ($132.61)
+APR: Day 5.46% Week 38.25% Year 1989.07%
+You are staking 0.00 MINT ($0.00), 0.00% of the pool.
+Stake 0.00 MINT
+Unstake 0.00 MINT
+Claim 0.00 MINT ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [MINT]-[USDC.e] PGL [+] [-] [<=>] Price: $1,115,791.84 TVL: $573.13
+MINT Price: $0.27
+USDC.e Price: $1.00
+Staked: 0.0001 PGL ($162.02)
+MINT Per Week: 1184.91 ($318.27)
+APR: Day 28.06% Week 196.43% Year 10214.55%
+You are staking 0.00 [MINT]-[USDC.e] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [MINT]-[USDC.e] PGL
+Unstake 0.00 [MINT]-[USDC.e] PGL
+Claim 0.00 MINT ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [MINT]-[WAVAX] PGL [+] [-] [<=>] Price: $9.10 TVL: $628.27
+MINT Price: $0.27
+WAVAX Price: $61.90
+Staked: 15.7269 PGL ($143.15)
+MINT Per Week: 1184.91 ($318.27)
+APR: Day 31.76% Week 222.32% Year 11560.84%
+You are staking 0.00 [MINT]-[WAVAX] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [MINT]-[WAVAX] PGL
+Unstake 0.00 [MINT]-[WAVAX] PGL
+Claim 0.00 MINT ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDC.e]-[WAVAX] PGL [+] [-] [<=>] Price: $19,800,749.30 TVL: $15,425,447.99
+USDC.e Price: $1.00
+WAVAX Price: $61.90
+Staked: 0.0000 PGL ($562.84)
+MINT Per Week: 370.29 ($99.46)
+APR: Day 2.52% Week 17.67% Year 918.88%
+You are staking 0.00 [USDC.e]-[WAVAX] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC.e]-[WAVAX] PGL - Fee 4%
+Unstake 0.00 [USDC.e]-[WAVAX] PGL
+Claim 0.00 MINT ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [WETH.e]-[WAVAX] PGL [+] [-] [<=>] Price: $833.40 TVL: $16,280,323.76
+WETH.e Price: $2,329.48
+WAVAX Price: $61.90
+Staked: 1.3248 PGL ($1,104.12)
+MINT Per Week: 370.29 ($99.46)
+APR: Day 1.29% Week 9.01% Year 468.41%
+You are staking 0.00 [WETH.e]-[WAVAX] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH.e]-[WAVAX] PGL - Fee 4%
+Unstake 0.00 [WETH.e]-[WAVAX] PGL
+Claim 0.00 MINT ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [USDC.e]-[USDT.e] PGL [+] [-] [<=>] Price: $2,049,455,663,000.19 TVL: $4,777,938.93
+USDC.e Price: $1.00
+USDT.e Price: $1.00
+Staked: 0.0000 PGL ($33.63)
+MINT Per Week: 370.29 ($99.46)
+APR: Day 42.25% Week 295.78% Year 15380.41%
+You are staking 0.00 [USDC.e]-[USDT.e] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC.e]-[USDT.e] PGL - Fee 4%
+Unstake 0.00 [USDC.e]-[USDT.e] PGL
+Claim 0.00 MINT ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - WAVAX Price: $61.90 Market Cap: $1,048,532,252.30 
+Staked: 5.8953 WAVAX ($364.92)
+MINT Per Week: 296.23 ($79.57)
+APR: Day 3.11% Week 21.80% Year 1133.81%
+You are staking 0.00 WAVAX ($0.00), 0.00% of the pool.
+Stake 0.00 WAVAX - Fee 4%
+Unstake 0.00 WAVAX
+Claim 0.00 MINT ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - WETH.e Price: $2,329.48 Market Cap: $1,019,664,236.49 
+Staked: 0.1055 WETH.e ($245.75)
+MINT Per Week: 296.23 ($79.57)
+APR: Day 4.63% Week 32.38% Year 1683.64%
+You are staking 0.00 WETH.e ($0.00), 0.00% of the pool.
+Stake 0.00 WETH.e - Fee 4%
+Unstake 0.00 WETH.e
+Claim 0.00 MINT ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - WBTC.e Price: $35,806.00 Market Cap: $726,133,587.96 
+Staked: 0.0010 WBTC.e ($34.29)
+MINT Per Week: 296.23 ($79.57)
+APR: Day 33.15% Week 232.04% Year 12066.22%
+You are staking 0.00 WBTC.e ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC.e - Fee 4%
+Unstake 0.00 WBTC.e
+Claim 0.00 MINT ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - PNG Price: $0.32 Market Cap: $172,111,580.00 
+Staked: 273.7053 PNG ($87.56)
+MINT Per Week: 296.23 ($79.57)
+APR: Day 12.98% Week 90.87% Year 4725.23%
+You are staking 0.00 PNG ($0.00), 0.00% of the pool.
+Stake 0.00 PNG - Fee 4%
+Unstake 0.00 PNG
+Claim 0.00 MINT ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - USDT.e Price: $1.00 Market Cap: $751,870,307.31 
+Staked: 106.4426 USDT.e ($106.44)
+MINT Per Week: 296.23 ($79.57)
+APR: Day 10.68% Week 74.75% Year 3887.03%
+You are staking 0.00 USDT.e ($0.00), 0.00% of the pool.
+Stake 0.00 USDT.e - Fee 4%
+Unstake 0.00 USDT.e
+Claim 0.00 MINT ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - USDC.e Price: $1.00 Market Cap: $1,443,236,301.64 
+Staked: 16.0196 USDC.e ($16.02)
+MINT Per Week: 296.23 ($79.57)
+APR: Day 70.95% Week 496.68% Year 25827.55%
+You are staking 0.00 USDC.e ($0.00), 0.00% of the pool.
+Stake 0.00 USDC.e - Fee 4%
+Unstake 0.00 USDC.e
+Claim 0.00 MINT ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - DAI.e Price: $1.00 Market Cap: $648,579,353.49 
+Staked: 4.8000 DAI.e ($4.80)
+MINT Per Week: 296.23 ($79.57)
+APR: Day 236.81% Week 1657.64% Year 86197.07%
+You are staking 0.00 DAI.e ($0.00), 0.00% of the pool.
+Stake 0.00 DAI.e - Fee 4%
+Unstake 0.00 DAI.e
+Claim 0.00 MINT ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $3,212.22

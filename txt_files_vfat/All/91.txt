@@ -1,0 +1,116 @@
+*************** 👨‍🌾 UNOFFICIAL BLOCKCHAIN ADVENTURERS GUILD CALCULATOR 👨‍🌾 ***************
+INFO  : https://app.thisistheway.finance/#/stake
+*****************************************************************************************
+
+Thu Jan 27 2022 19:49:10 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Rewards start at block 12213000 and end at block 12293639
+Staking Contract
+Found 5 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - WETH Price: $2,482.54 Market Cap: $20,089,234,286.90 [%]
+Staked: 0.1006 WETH ($249.79)
+BAG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH
+Unstake 0.00 WETH
+Claim 0.00 BAG ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - WBTC Price: $36,664.00 Market Cap: $9,941,707,414.64 [%]
+Staked: 2.1673 WBTC ($79,460.43)
+BAG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC
+Unstake 0.00 WBTC
+Claim 0.00 BAG ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - USDC Price: $1.00 Market Cap: $44,056,954,330.82 [%]
+Staked: 2.3362 USDC ($2.34)
+BAG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC
+Unstake 0.00 USDC
+Claim 0.00 BAG ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - DAI Price: $1.00 Market Cap: $9,185,981,024.56 [%]
+Staked: 18528.5839 DAI ($18,526.79)
+BAG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI
+Unstake 0.00 DAI
+Claim 0.00 BAG ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [WETH]-[BAG] Uni LP [+] [-] [<=>] Price: $144.01 TVL: $286,287.70
+WETH Price: $2,482.54
+BAG Price: $1.83
+Staked: 3.4385 UNI-V2 ($495.20)
+BAG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WETH]-[BAG] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[BAG] Uni LP
+Unstake 0.00 [WETH]-[BAG] Uni LP
+Claim 0.00 BAG ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $98,734.54
+There is a locking period for the pools, for more information please visit the website
+Staking Contract
+Found 4 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+BAG Price: $1.83 Market Cap: $1,608,473.96
+Staked: 141271.8867 BAG ($258,527.55)
+BGLD Per Week: 31963.47 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BAG ($0.00), 0.00% of the pool.
+Stake 0.00 BAG
+Unstake 0.00 BAG
+Claim 0.00 BGLD ($0.00)
+Staking or unstaking also claims rewards.
+
+BAG Price: $1.83 Market Cap: $1,608,473.96
+Staked: 176544.8653 BAG ($323,077.10)
+BGLD Per Week: 63926.94 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BAG ($0.00), 0.00% of the pool.
+Stake 0.00 BAG
+Unstake 0.00 BAG
+Claim 0.00 BGLD ($0.00)
+Staking or unstaking also claims rewards.
+
+BAG Price: $1.83 Market Cap: $1,608,473.96
+Staked: 296643.4594 BAG ($542,857.53)
+BGLD Per Week: 127853.88 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BAG ($0.00), 0.00% of the pool.
+Stake 0.00 BAG
+Unstake 0.00 BAG
+Claim 0.00 BGLD ($0.00)
+Staking or unstaking also claims rewards.
+
+[WETH]-[BAG] Uni LP [+] [-] [<=>] Price: $144.01 TVL: $286,287.70
+WETH Price: $2,482.54
+BAG Price: $1.83
+Staked: 1947.7944 UNI-V2 ($280,511.58)
+BGLD Per Week: 202435.31 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [WETH]-[BAG] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[BAG] Uni LP
+Unstake 0.00 [WETH]-[BAG] Uni LP
+Claim 0.00 BGLD ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $1,404,973.77

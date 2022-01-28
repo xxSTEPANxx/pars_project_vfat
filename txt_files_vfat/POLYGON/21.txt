@@ -6,153 +6,34 @@ INFO  : https://gameswap.netlify.app/
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Fri Dec 17 2021 09:14:31 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 22:00:47 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
+Staking Contract
 Found 13 pools.
 Showing incentivized pools only.
-Finished reading smart contracts.
-0 - [USDC]-[STONK] Uni LP [+] [-] [<=>] Price: $24,059.56 TVL: $183.08
-USDC Price: $1.00
-STONK Price: $0.000128
-Staked: 0.0067 UNI-V2 ($162.05)
-STONK Per Week: 44582.04 ($5.72)
-APR: Day 0.50% Week 3.53% Year 183.40%
-You are staking 0.00 [USDC]-[STONK] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[STONK] Uni LP
-Unstake 0.00 [USDC]-[STONK] Uni LP
-Claim 0.00 STONK ($0.00)
-Staking or unstaking also claims rewards.
-
-1 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,822,547.87 TVL: $51,880,918.77
-WMATIC Price: $2.11
-USDC Price: $1.00
-Staked: 0.0009 UNI-V2 ($5,269.22)
-STONK Per Week: 11145.51 ($1.43)
-APR: Day 0.00% Week 0.03% Year 1.41%
-You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 1%
-Unstake 0.00 [WMATIC]-[USDC] Uni LP
-Claim 0.00 STONK ($0.00)
-Staking or unstaking also claims rewards.
-
-2 - WMATIC Price: $2.11 Market Cap: $642,127,415.78 [%]
-Staked: 202.1699 WMATIC ($426.58)
-STONK Per Week: 4458.20 ($0.57)
-APR: Day 0.02% Week 0.13% Year 6.97%
-You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
-Stake 0.00 WMATIC - Fee 1%
-Unstake 0.00 WMATIC
-Claim 0.00 STONK ($0.00)
-Staking or unstaking also claims rewards.
-
-3 - WBTC Price: $47,769.00 Market Cap: $481,999,194.10 [%]
-Staked: 0.0063 WBTC ($300.40)
-STONK Per Week: 2229.10 ($0.29)
-APR: Day 0.01% Week 0.10% Year 4.95%
-You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
-Stake 0.00 WBTC - Fee 1%
-Unstake 0.00 WBTC
-Claim 0.00 STONK ($0.00)
-Staking or unstaking also claims rewards.
-
-4 - WETH Price: $3,961.08 Market Cap: $1,758,389,534.95 [%]
-Staked: 0.0088 WETH ($34.78)
-STONK Per Week: 8916.41 ($1.14)
-APR: Day 0.47% Week 3.29% Year 170.89%
-You are staking 0.00 WETH ($0.00), 0.00% of the pool.
-Stake 0.00 WETH - Fee 1%
-Unstake 0.00 WETH
-Claim 0.00 STONK ($0.00)
-Staking or unstaking also claims rewards.
-
-5 - QUICK Price: $244.94 Market Cap: $234,049,578.48 [%]
-Staked: 0.0916 QUICK ($22.45)
-STONK Per Week: 10253.87 ($1.31)
-APR: Day 0.84% Week 5.86% Year 304.51%
-You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
-Stake 0.00 QUICK - Fee 1%
-Unstake 0.00 QUICK
-Claim 0.00 STONK ($0.00)
-Staking or unstaking also claims rewards.
-
-6 - YLD Price: $0.32 Market Cap: $191,103.74 [%]
-Staked: 11.8800 YLD ($3.86)
-STONK Per Week: 2229.10 ($0.29)
-APR: Day 1.06% Week 7.41% Year 385.46%
-You are staking 0.00 YLD ($0.00), 0.00% of the pool.
-Stake 0.00 YLD - Fee 1%
-Unstake 0.00 YLD
-Claim 0.00 STONK ($0.00)
-Staking or unstaking also claims rewards.
-
-7 - USDT Price: $1.00 Market Cap: $319,744,445.29 [%]
-Staked: 87.2114 USDT ($87.21)
-STONK Per Week: 6687.31 ($0.86)
-APR: Day 0.14% Week 0.98% Year 51.12%
-You are staking 0.00 USDT ($0.00), 0.00% of the pool.
-Stake 0.00 USDT - Fee 1%
-Unstake 0.00 USDT
-Claim 0.00 STONK ($0.00)
-Staking or unstaking also claims rewards.
-
-8 - USDC Price: $1.00 Market Cap: $952,208,464.51 [%]
-Staked: 1548.9471 USDC ($1,548.95)
-STONK Per Week: 6687.31 ($0.86)
-APR: Day 0.01% Week 0.06% Year 2.88%
-You are staking 0.00 USDC ($0.00), 0.00% of the pool.
-Stake 0.00 USDC - Fee 1%
-Unstake 0.00 USDC
-Claim 0.00 STONK ($0.00)
-Staking or unstaking also claims rewards.
-
-9 - STONK Price: $0.000128 Market Cap: $401.57 [%]
-Staked: 1694635.6410 STONK ($217.25)
-STONK Per Week: 13374.61 ($1.71)
-APR: Day 0.11% Week 0.79% Year 41.04%
-You are staking 0.00 STONK ($0.00), 0.00% of the pool.
-Stake 0.00 STONK
-Unstake 0.00 STONK
-Claim 0.00 STONK ($0.00)
-Staking or unstaking also claims rewards.
-
-10 - [USDC]-[USDT] Uni LP [+] [-] [<=>] Price: $2,625,006,955,911.69 TVL: $24,096,991.83
-USDC Price: $1.00
-USDT Price: $1.00
-Staked: 0.0000 UNI-V2 ($154.56)
-STONK Per Week: 11145.51 ($1.43)
-APR: Day 0.13% Week 0.92% Year 48.07%
-You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[USDT] Uni LP - Fee 1%
-Unstake 0.00 [USDC]-[USDT] Uni LP
-Claim 0.00 STONK ($0.00)
-Staking or unstaking also claims rewards.
-
-11 - [WBTC]-[USDC] Uni LP [+] [-] [<=>] Price: $51,330,656,508,944.79 TVL: $11,495,539.25
-WBTC Price: $47,769.00
-USDC Price: $1.00
-Staked: 0.0000 UNI-V2 ($155.17)
-STONK Per Week: 11145.51 ($1.43)
-APR: Day 0.13% Week 0.92% Year 47.88%
-You are staking 0.00 [WBTC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WBTC]-[USDC] Uni LP - Fee 1%
-Unstake 0.00 [WBTC]-[USDC] Uni LP
-Claim 0.00 STONK ($0.00)
-Staking or unstaking also claims rewards.
-
-12 - [WMATIC]-[QUICK] Uni LP [+] [-] [<=>] Price: $64.50 TVL: $9,566,993.10
-WMATIC Price: $2.11
-QUICK Price: $244.94
-Staked: 0.5079 UNI-V2 ($32.76)
-STONK Per Week: 11145.51 ($1.43)
-APR: Day 0.62% Week 4.36% Year 226.80%
-You are staking 0.00 [WMATIC]-[QUICK] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[QUICK] Uni LP - Fee 1%
-Unstake 0.00 [WMATIC]-[QUICK] Uni LP
-Claim 0.00 STONK ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $8,415.23
+{
+  "code": -32603,
+  "message": "JsonRpcEngine: Response has no error or result for request:\n{\n  \"method\": \"eth_call\",\n  \"params\": [\n    {\n      \"to\": \"0xe823192885192092e73e42aab42d23bf18276c55\",\n      \"data\": \"0x1526fe270000000000000000000000000000000000000000000000000000000000000004\"\n    },\n    \"0x171d0bf\"\n  ],\n  \"jsonrpc\": \"2.0\",\n  \"id\": 2686425825,\n  \"origin\": \"https://vfat.tools\",\n  \"tabId\": 2\n}",
+  "data": {
+    "request": {
+      "method": "eth_call",
+      "params": [
+        {
+          "to": "0xe823192885192092e73e42aab42d23bf18276c55",
+          "data": "0x1526fe270000000000000000000000000000000000000000000000000000000000000004"
+        },
+        "0x171d0bf"
+      ],
+      "jsonrpc": "2.0",
+      "id": 2686425825,
+      "origin": "https://vfat.tools",
+      "tabId": 2
+    }
+  },
+  "stack": "{\n  \"code\": -32603,\n  \"message\": \"JsonRpcEngine: Response has no error or result for request:\\n{\\n  \\\"method\\\": \\\"eth_call\\\",\\n  \\\"params\\\": [\\n    {\\n      \\\"to\\\": \\\"0xe823192885192092e73e42aab42d23bf18276c55\\\",\\n      \\\"data\\\": \\\"0x1526fe270000000000000000000000000000000000000000000000000000000000000004\\\"\\n    },\\n    \\\"0x171d0bf\\\"\\n  ],\\n  \\\"jsonrpc\\\": \\\"2.0\\\",\\n  \\\"id\\\": 2686425825,\\n  \\\"origin\\\": \\\"https://vfat.tools\\\",\\n  \\\"tabId\\\": 2\\n}\",\n  \"data\": {\n    \"request\": {\n      \"method\": \"eth_call\",\n      \"params\": [\n        {\n          \"to\": \"0xe823192885192092e73e42aab42d23bf18276c55\",\n          \"data\": \"0x1526fe270000000000000000000000000000000000000000000000000000000000000004\"\n        },\n        \"0x171d0bf\"\n      ],\n      \"jsonrpc\": \"2.0\",\n      \"id\": 2686425825,\n      \"origin\": \"https://vfat.tools\",\n      \"tabId\": 2\n    }\n  },\n  \"stack\": \"Error: JsonRpcEngine: Response has no error or result for request:\\n{\\n  \\\"method\\\": \\\"eth_call\\\",\\n  \\\"params\\\": [\\n    {\\n      \\\"to\\\": \\\"0xe823192885192092e73e42aab42d23bf18276c55\\\",\\n      \\\"data\\\": \\\"0x1526fe270000000000000000000000000000000000000000000000000000000000000004\\\"\\n    },\\n    \\\"0x171d0bf\\\"\\n  ],\\n  \\\"jsonrpc\\\": \\\"2.0\\\",\\n  \\\"id\\\": 2686425825,\\n  \\\"origin\\\": \\\"https://vfat.tools\\\",\\n  \\\"tabId\\\": 2\\n}\\n    at new o (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/common-1.js:16:24204)\\n    at Function._checkForCompletion (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:305269)\\n    at a._processRequest (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304461)\\n    at async a._handle (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304249)\"\n}\n  at new o (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/common-1.js:16:24204)\n  at Function._checkForCompletion (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:305269)\n  at a._processRequest (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304461)\n  at async a._handle (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304249)"
+}
+Oops something went wrong. Try refreshing the page.

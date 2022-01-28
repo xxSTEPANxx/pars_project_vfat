@@ -1,0 +1,122 @@
+***************************** AVALANCHE *********************************
+    
+*************** 👨‍🌾 UNOFFICIAL OLIVE FARMING CALCULATOR 👨‍🌾 ***********
+INFO  : https://avax.olive.cash
+**********************************************************************
+
+Fri Jan 28 2022 00:10:13 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 63 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - OLIVE Price: $0.04 Market Cap: $393,852.28 
+Staked: 4701259.4722 OLIVE ($184,606.28)
+OLIVE Per Week: 58343.507433 ($2,291.00)
+APR: Day 0.18% Week 1.24% Year 64.53%
+You are staking 0.000000 OLIVE ($0.00), 0.00% of the pool.
+Stake 0.000000 OLIVE
+Unstake 0.000000 OLIVE
+Claim 0.000000 OLIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [OLIVE]-[WAVAX] Uni LP [+] [-] [<=>] Price: $5.10 TVL: $135,761.39
+OLIVE Price: $0.04
+WAVAX Price: $61.90
+Staked: 25536.2517 Olive-LP ($130,308.84)
+OLIVE Per Week: 155582.686487 ($6,109.33)
+APR: Day 0.67% Week 4.69% Year 243.79%
+You are staking 0.000000 [OLIVE]-[WAVAX] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.000000 [OLIVE]-[WAVAX] Uni LP
+Unstake 0.000000 [OLIVE]-[WAVAX] Uni LP
+Claim 0.000000 OLIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+40 - [OLIVE]-[USDT.e] Uni LP [+] [-] [<=>] Price: $26,277,359.42 TVL: $12,421.08
+OLIVE Price: $0.04
+USDT.e Price: $1.00
+Staked: 0.0005 Olive-LP ($11,836.42)
+OLIVE Per Week: 31116.537297 ($1,221.87)
+APR: Day 1.47% Week 10.32% Year 536.79%
+You are staking 0.000000 [OLIVE]-[USDT.e] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.000000 [OLIVE]-[USDT.e] Uni LP
+Unstake 0.000000 [OLIVE]-[USDT.e] Uni LP
+Claim 0.000000 OLIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+41 - [USDT.e]-[DAI.e] Uni LP [+] [-] [<=>] Price: $63,480,575.04 TVL: $86,383.87
+USDT.e Price: $1.00
+DAI.e Price: $1.00
+Staked: 0.0012 Olive-LP ($78,374.61)
+OLIVE Per Week: 23337.402973 ($916.40)
+APR: Day 0.17% Week 1.17% Year 60.80%
+You are staking 0.000000 [USDT.e]-[DAI.e] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.000000 [USDT.e]-[DAI.e] Uni LP
+Unstake 0.000000 [USDT.e]-[DAI.e] Uni LP
+Claim 0.000000 OLIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+42 - [BUSD.e]-[USDT.e] Uni LP [+] [-] [<=>] Price: $2,002,262.02 TVL: $87,939.38
+BUSD.e Price: $0.99
+USDT.e Price: $1.00
+Staked: 0.0439 Olive-LP ($87,851.10)
+OLIVE Per Week: 23337.402973 ($916.40)
+APR: Day 0.15% Week 1.04% Year 54.24%
+You are staking 0.000000 [BUSD.e]-[USDT.e] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.000000 [BUSD.e]-[USDT.e] Uni LP
+Unstake 0.000000 [BUSD.e]-[USDT.e] Uni LP
+Claim 0.000000 OLIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+52 - [WAVAX]-[SING] JLP [+] [-] [<=>] Price: $3.23 TVL: $5,139.32
+WAVAX Price: $61.90
+SING Price: $0.02
+Staked: 89.3500 JLP ($288.28)
+OLIVE Per Week: 1944.783581 ($76.37)
+APR: Day 3.78% Week 26.49% Year 1377.50%
+You are staking 0.000000 [WAVAX]-[SING] JLP ($0.00), 0.00% of the pool.
+Stake 0.000000 [WAVAX]-[SING] JLP
+Unstake 0.000000 [WAVAX]-[SING] JLP
+Claim 0.000000 OLIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+53 - [YTS]-[WAVAX] Uni LP [+] [-] [<=>] Price: $1.92 TVL: $408,051.99
+YTS Price: $0.009060
+WAVAX Price: $61.90
+Staked: 129.1605 YSL ($247.94)
+OLIVE Per Week: 1944.783581 ($76.37)
+APR: Day 4.40% Week 30.80% Year 1601.65%
+You are staking 0.000000 [YTS]-[WAVAX] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.000000 [YTS]-[WAVAX] Uni LP
+Unstake 0.000000 [YTS]-[WAVAX] Uni LP
+Claim 0.000000 OLIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+60 - [CGS]-[WAVAX] JLP [+] [-] [<=>] Price: $0.51 TVL: $7,512.34
+CGS Price: $0.000981
+WAVAX Price: $61.90
+Staked: 219.2487 JLP ($111.32)
+OLIVE Per Week: 777.913432 ($30.55)
+APR: Day 3.92% Week 27.44% Year 1426.92%
+You are staking 0.000000 [CGS]-[WAVAX] JLP ($0.00), 0.00% of the pool.
+Stake 0.000000 [CGS]-[WAVAX] JLP
+Unstake 0.000000 [CGS]-[WAVAX] JLP
+Claim 0.000000 OLIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+62 - [spy]-[WAVAX] JLP [+] [-] [<=>] Price: $0.57 TVL: $25,947.00
+spy Price: $0.0000000000
+WAVAX Price: $61.90
+Staked: 15969.6286 JLP ($9,075.41)
+OLIVE Per Week: 7779.134324 ($305.47)
+APR: Day 0.48% Week 3.37% Year 175.03%
+You are staking 0.000000 [spy]-[WAVAX] JLP ($0.00), 0.00% of the pool.
+Stake 0.000000 [spy]-[WAVAX] JLP
+Unstake 0.000000 [spy]-[WAVAX] JLP
+Claim 0.000000 OLIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $502,700.19

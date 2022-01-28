@@ -1,0 +1,887 @@
+***************************** AVALANCHE *********************************
+    
+*************** 👨‍🌾 UNOFFICIAL YIELDYAK FARMING CALCULATOR 👨‍🌾 ***********
+INFO  : https://yieldyak.com
+*************************************************************************
+
+Fri Jan 28 2022 00:26:58 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+YRT (Wrapped [KLO]-[WAVAX] JLP) Price: $10.96 TVL: $4,213.26
+Total Staked: 324.0657 Yield Yak: JLP KLO-AVAX (384.3344 YRT (Wrapped [KLO]-[WAVAX] JLP)), $4,213.26
+You are staking 0.0000 YRT (Wrapped [KLO]-[WAVAX] JLP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [AAVE.e]-[WAVAX] JLP) Price: $217.69 TVL: $100,843.76
+Total Staked: 412.3995 Yield Yak: JLP AAVE.e-AVAX (463.2424 YRT (Wrapped [AAVE.e]-[WAVAX] JLP)), $100,843.76
+You are staking 0.0000 YRT (Wrapped [AAVE.e]-[WAVAX] JLP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped WETH.e) Price: $2,369.10 TVL: $9,226.41
+Total Staked: 3.8945 Yield Yak: Marginswap WETH.e (3.9607 YRT (Wrapped WETH.e)), $9,383.35
+You are staking 0.0000 YRT (Wrapped WETH.e) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [BNB]-[WAVAX] JLP) Price: $349.35 TVL: $65,533.58
+Total Staked: 169.1114 Yield Yak: JLP BNB-AVAX (187.5898 YRT (Wrapped [BNB]-[WAVAX] JLP)), $65,533.58
+You are staking 0.0000 YRT (Wrapped [BNB]-[WAVAX] JLP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped PNG) Price: $0.36 TVL: $27,667.94
+Total Staked: 75873.9199 Yield Yak: Marginswap PNG (86486.6389 YRT (Wrapped PNG)), $31,537.94
+You are staking 0.0000 YRT (Wrapped PNG) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped YAK) Price: $1,468.03 TVL: $146,797.51
+Total Staked: 99.9962 Yield Yak: Marginswap YAK (101.7576 YRT (Wrapped YAK)), $149,383.26
+You are staking 0.0000 YRT (Wrapped YAK) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped gondolaYAKPool) Price: $0.00 TVL: $0.00
+Total Staked: 0.6392 Yield Yak: Gondola mYAK-YAK (0.6444 YRT (Wrapped gondolaYAKPool)), $0.00
+You are staking 0.0000 YRT (Wrapped gondolaYAKPool) ($0.00), NaN% of the pool.
+
+YRT (Wrapped [WAVAX]-[mYAK] Uni LP) Price: $0.00 TVL: $0.00
+Total Staked: 0.0000 Yield Yak: Olive-LP WAVAX-mYAK (0.0000 YRT (Wrapped [WAVAX]-[mYAK] Uni LP)), $0.00
+You are staking 0.0000 YRT (Wrapped [WAVAX]-[mYAK] Uni LP) ($0.00), NaN% of the pool.
+
+YRT (Wrapped [WAVAX]-[mYAK] JLP) Price: $678.76 TVL: $101,019.49
+Total Staked: 133.0744 Yield Yak: JLP mYAK-AVAX (148.8294 YRT (Wrapped [WAVAX]-[mYAK] JLP)), $101,019.49
+You are staking 0.0000 YRT (Wrapped [WAVAX]-[mYAK] JLP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [PARTY]-[WAVAX] Uni LP) Price: $36.60 TVL: $1,662.11
+Total Staked: 39.5715 Yield Yak: xPARTY PARTY-AVAX (45.4076 YRT (Wrapped [PARTY]-[WAVAX] Uni LP)), $1,662.11
+You are staking 0.0000 YRT (Wrapped [PARTY]-[WAVAX] Uni LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [TEDDY]-[WAVAX] PGL) Price: $3.32 TVL: $112.74
+Total Staked: 18.9869 Yield Yak: Teddy x PGL TEDDY-AVAX (33.9756 YRT (Wrapped [TEDDY]-[WAVAX] PGL)), $112.74
+You are staking 0.0000 YRT (Wrapped [TEDDY]-[WAVAX] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [USDC.e]-[USDT.e] JLP) Price: $2,125,877,239,453.10 TVL: $53.05
+Total Staked: 0.0000 Yield Yak: JLP USDT.e-USDC.e (0.0000 YRT (Wrapped [USDC.e]-[USDT.e] JLP)), $53.05
+You are staking 0.0000 YRT (Wrapped [USDC.e]-[USDT.e] JLP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [YAK]-[WAVAX] JLP) Price: $813.11 TVL: $0.00
+Total Staked: 0.0000 Yield Yak: Cycle x JLP YAK-AVAX (0.0000 YRT (Wrapped [YAK]-[WAVAX] JLP)), $0.00
+You are staking 0.0000 YRT (Wrapped [YAK]-[WAVAX] JLP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [QI]-[WAVAX] PGL) Price: $14,868,735,122,928.57 TVL: $9.98
+Total Staked: 0.0000 Yield Yak: Cycle x PGL QI-AVAX (0.0000 YRT (Wrapped [QI]-[WAVAX] PGL)), $9.98
+You are staking 0.0000 YRT (Wrapped [QI]-[WAVAX] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [YAK]-[ELK] ELK LP) Price: $152.23 TVL: $21.10
+Total Staked: 0.1162 Yield Yak: ELP ELK-YAK (0.1386 YRT (Wrapped [YAK]-[ELK] ELK LP)), $21.10
+You are staking 0.0000 YRT (Wrapped [YAK]-[ELK] ELK LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [USDT.e]-[ELK] ELK LP) Price: $6,239,402.23 TVL: $413.41
+Total Staked: 0.0000 Yield Yak: ELP ELK-USDT.e (0.0001 YRT (Wrapped [USDT.e]-[ELK] ELK LP)), $413.41
+You are staking 0.0000 YRT (Wrapped [USDT.e]-[ELK] ELK LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [DAI.e]-[ELK] ELK LP) Price: $3.95 TVL: $2.85
+Total Staked: 0.6390 Yield Yak: ELP ELK-DAI.e (0.7220 YRT (Wrapped [DAI.e]-[ELK] ELK LP)), $2.85
+You are staking 0.0000 YRT (Wrapped [DAI.e]-[ELK] ELK LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [WAVAX]-[ELK] ELK LP) Price: $38.11 TVL: $1,019.77
+Total Staked: 23.2576 Yield Yak: ELP ELK-AVAX (26.7585 YRT (Wrapped [WAVAX]-[ELK] ELK LP)), $1,019.77
+You are staking 0.0000 YRT (Wrapped [WAVAX]-[ELK] ELK LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped QI) Price: $0.06 TVL: $762,415.74
+Total Staked: 13575871.4846 Yield Yak: Benqi QI (16145432.6087 YRT (Wrapped QI)), $906,721.31
+You are staking 0.0000 YRT (Wrapped QI) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [WAVAX]-[SPELL] JLP) Price: $1.50 TVL: $10,313.70
+Total Staked: 6192.5992 Yield Yak: JLP SPELL-AVAX (6883.4282 YRT (Wrapped [WAVAX]-[SPELL] JLP)), $10,313.70
+You are staking 0.0000 YRT (Wrapped [WAVAX]-[SPELL] JLP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [WAVAX]-[FRAX] JLP) Price: $0.00 TVL: $0.00
+Total Staked: 0.0000 Yield Yak: JLP FRAX-AVAX (0.0000 YRT (Wrapped [WAVAX]-[FRAX] JLP)), $0.00
+You are staking 0.0000 YRT (Wrapped [WAVAX]-[FRAX] JLP) ($0.00), NaN% of the pool.
+
+YRT (Wrapped [WAVAX]-[TIME] JLP) Price: $44,334,991.43 TVL: $145.10
+Total Staked: 0.0000 Yield Yak: JLP TIME-AVAX (0.0000 YRT (Wrapped [WAVAX]-[TIME] JLP)), $145.10
+You are staking 0.0000 YRT (Wrapped [WAVAX]-[TIME] JLP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped PNG) Price: $0.37 TVL: $14,756.27
+Total Staked: 39961.2618 Yield Yak: Compounding PNG (46126.3033 YRT (Wrapped PNG)), $17,032.80
+You are staking 0.0000 YRT (Wrapped PNG) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [WAVAX]-[ELK] ELK LP) Price: $34.27 TVL: $0.00
+Total Staked: 0.0000 Yield Yak: ELP ELK-AVAX (0.0000 YRT (Wrapped [WAVAX]-[ELK] ELK LP)), $0.00
+You are staking 0.0000 YRT (Wrapped [WAVAX]-[ELK] ELK LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped YAK) Price: $1,661.76 TVL: $398.56
+Total Staked: 0.2398 Yield Yak: Storm YAK (0.2763 YRT (Wrapped YAK)), $459.10
+You are staking 0.0000 YRT (Wrapped YAK) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped JOE) Price: $1.01 TVL: $1,794.85
+Total Staked: 1770.1453 Yield Yak: Storm JOE (1977.7925 YRT (Wrapped JOE)), $2,005.40
+You are staking 0.0000 YRT (Wrapped JOE) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped QI) Price: $0.06 TVL: $1,531.04
+Total Staked: 27312.1633 Yield Yak: Storm QI (32422.3606 YRT (Wrapped QI)), $1,817.50
+You are staking 0.0000 YRT (Wrapped QI) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped USDC.e) Price: $1,166,031,440,797.71 TVL: $128.32
+Total Staked: 0.0000 Yield Yak: Storm USDC.e (0.0000 YRT (Wrapped USDC.e)), $149.63
+You are staking 0.0000 YRT (Wrapped USDC.e) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped DAI.e) Price: $1.18 TVL: $172,283.36
+Total Staked: 146562.6295 Yield Yak: Storm DAI.e (172283.3593 YRT (Wrapped DAI.e)), $202,517.90
+You are staking 0.0000 YRT (Wrapped DAI.e) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped WBTC.e) Price: $431,052,104,739,554.13 TVL: $33.80
+Total Staked: 0.0000 Yield Yak: Storm WBTC.e (0.0000 YRT (Wrapped WBTC.e)), $40.69
+You are staking 0.0000 YRT (Wrapped WBTC.e) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped USDT.e) Price: $1,168,045,956,184.50 TVL: $2,138.99
+Total Staked: 0.0000 Yield Yak: Storm USDT.e (0.0000 YRT (Wrapped USDT.e)), $2,498.44
+You are staking 0.0000 YRT (Wrapped USDT.e) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped PNG) Price: $0.44 TVL: $1,741.38
+Total Staked: 3996.5894 Yield Yak: Storm PNG (5443.3345 YRT (Wrapped PNG)), $2,371.75
+You are staking 0.0000 YRT (Wrapped PNG) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped WETH.e) Price: $2,790.31 TVL: $54,621.67
+Total Staked: 19.5755 Yield Yak: Storm WETH.e (23.4480 YRT (Wrapped WETH.e)), $65,427.15
+You are staking 0.0000 YRT (Wrapped WETH.e) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped WAVAX) Price: $71.14 TVL: $10,546.80
+Total Staked: 148.2607 Yield Yak: Storm WAVAX (170.1920 YRT (Wrapped WAVAX)), $12,106.93
+You are staking 0.0000 YRT (Wrapped WAVAX) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped STORM) Price: $0.07 TVL: $686.68
+Total Staked: 10434.7288 Yield Yak: Storm STORM (43595.5997 YRT (Wrapped STORM)), $2,868.91
+You are staking 0.0000 YRT (Wrapped STORM) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [STORM]-[USDT.e] PGL) Price: $3,652,272.63 TVL: $17,412.84
+Total Staked: 0.0004 Yield Yak: PGL STORM-USDT.e (0.0048 YRT (Wrapped [STORM]-[USDT.e] PGL)), $17,412.84
+You are staking 0.0000 YRT (Wrapped [STORM]-[USDT.e] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [STORM]-[WAVAX] PGL) Price: $22.19 TVL: $54,941.51
+Total Staked: 256.9072 Yield Yak: PGL STORM-AVAX (2476.2485 YRT (Wrapped [STORM]-[WAVAX] PGL)), $54,941.51
+You are staking 0.0000 YRT (Wrapped [STORM]-[WAVAX] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped gondolaUSDCe) Price: $0.00 TVL: $0.00
+Total Staked: 670.1350 Yield Yak: Gondola USDT.e-USDC.e (707.2332 YRT (Wrapped gondolaUSDCe)), $0.00
+You are staking 0.0000 YRT (Wrapped gondolaUSDCe) ($0.00), NaN% of the pool.
+
+YRT (Wrapped gondolaTSD) Price: $0.00 TVL: $0.00
+Total Staked: 379.4069 Yield Yak: Gondola USDT.e-TSD (442.7011 YRT (Wrapped gondolaTSD)), $0.00
+You are staking 0.0000 YRT (Wrapped gondolaTSD) ($0.00), NaN% of the pool.
+
+YRT (Wrapped [SYN]-[WAVAX] JLP) Price: $33.43 TVL: $432,065.25
+Total Staked: 9830.6829 Yield Yak: JLP SYN-AVAX (12924.6786 YRT (Wrapped [SYN]-[WAVAX] JLP)), $432,065.25
+You are staking 0.0000 YRT (Wrapped [SYN]-[WAVAX] JLP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [MIM]-[WAVAX] JLP) Price: $24.97 TVL: $356,416.53
+Total Staked: 11825.4734 Yield Yak: JLP MIM-AVAX (14272.6262 YRT (Wrapped [MIM]-[WAVAX] JLP)), $356,416.53
+You are staking 0.0000 YRT (Wrapped [MIM]-[WAVAX] JLP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [ELE]-[WAVAX] JLP) Price: $5.13 TVL: $0.00
+Total Staked: 0.0000 Yield Yak: JLP ELE-AVAX (0.0000 YRT (Wrapped [ELE]-[WAVAX] JLP)), $0.00
+You are staking 0.0000 YRT (Wrapped [ELE]-[WAVAX] JLP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [USDC.e]-[DAI.e] JLP) Price: $2,181,814.05 TVL: $0.61
+Total Staked: 0.0000 Yield Yak: Cycle x JLP USDC.e-DAI.e (0.0000 YRT (Wrapped [USDC.e]-[DAI.e] JLP)), $0.61
+You are staking 0.0000 YRT (Wrapped [USDC.e]-[DAI.e] JLP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [USDT.e]-[DAI.e] Uni LP) Price: $2,179,617.53 TVL: $351,383.99
+Total Staked: 0.1491 Yield Yak: Lydia-LP DAI.e-USDT.e (0.1612 YRT (Wrapped [USDT.e]-[DAI.e] Uni LP)), $351,383.99
+You are staking 0.0000 YRT (Wrapped [USDT.e]-[DAI.e] Uni LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [LYD]-[DAI.e] Uni LP) Price: $0.37 TVL: $28,570.98
+Total Staked: 36422.0711 Yield Yak: Lydia-LP LYD-DAI.e (77041.4771 YRT (Wrapped [LYD]-[DAI.e] Uni LP)), $28,570.98
+You are staking 0.0000 YRT (Wrapped [LYD]-[DAI.e] Uni LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [BAG]-[WET] Uni LP) Price: $0.27 TVL: $68.02
+Total Staked: 129.7342 Yield Yak: BGL BAG-WET (253.5702 YRT (Wrapped [BAG]-[WET] Uni LP)), $68.02
+You are staking 0.0000 YRT (Wrapped [BAG]-[WET] Uni LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [QI]-[BAG] Uni LP) Price: $0.06 TVL: $2,500.89
+Total Staked: 19976.6798 Yield Yak: BGL BAG-QI (45082.8544 YRT (Wrapped [QI]-[BAG] Uni LP)), $2,500.89
+You are staking 0.0000 YRT (Wrapped [QI]-[BAG] Uni LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [YAK]-[BAG] Uni LP) Price: $8.12 TVL: $3,457.06
+Total Staked: 216.0928 Yield Yak: BGL BAG-YAK (425.7686 YRT (Wrapped [YAK]-[BAG] Uni LP)), $3,457.06
+You are staking 0.0000 YRT (Wrapped [YAK]-[BAG] Uni LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [WETH.e]-[BAG] Uni LP) Price: $7.39 TVL: $0.24
+Total Staked: 0.0229 Yield Yak: BGL BAG-WETH.e (0.0324 YRT (Wrapped [WETH.e]-[BAG] Uni LP)), $0.24
+You are staking 0.0000 YRT (Wrapped [WETH.e]-[BAG] Uni LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [LINK.e]-[BAG] Uni LP) Price: $0.59 TVL: $39.63
+Total Staked: 47.0317 Yield Yak: BGL BAG-LINK.e (67.4745 YRT (Wrapped [LINK.e]-[BAG] Uni LP)), $39.63
+You are staking 0.0000 YRT (Wrapped [LINK.e]-[BAG] Uni LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [BAG]-[USDT.e] Uni LP) Price: $211,430.91 TVL: $15,429.66
+Total Staked: 0.0390 Yield Yak: BGL BAG-USDT.e (0.0730 YRT (Wrapped [BAG]-[USDT.e] Uni LP)), $15,429.66
+You are staking 0.0000 YRT (Wrapped [BAG]-[USDT.e] Uni LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped USDC.e) Price: $1,097,779,546,165.86 TVL: $10,357.62
+Total Staked: 0.0000 Yield Yak: Benqi USDC.e (0.0000 YRT (Wrapped USDC.e)), $11,370.38
+You are staking 0.0000 YRT (Wrapped USDC.e) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped WAVAX) Price: $62.35 TVL: $149.13
+Total Staked: 2.3917 Yield Yak: Zabu WAVAX (2.4064 YRT (Wrapped WAVAX)), $150.04
+You are staking 0.0000 YRT (Wrapped WAVAX) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped XAVA) Price: $6.20 TVL: $72.28
+Total Staked: 11.6670 Yield Yak: Zabu XAVA (11.9866 YRT (Wrapped XAVA)), $74.26
+You are staking 0.0000 YRT (Wrapped XAVA) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped PNG) Price: $0.33 TVL: $7.00
+Total Staked: 21.3302 Yield Yak: Zabu PNG (21.8796 YRT (Wrapped PNG)), $7.18
+You are staking 0.0000 YRT (Wrapped PNG) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped YAK) Price: $1,449.43 TVL: $10.79
+Total Staked: 0.0074 Yield Yak: Zabu YAK (0.0075 YRT (Wrapped YAK)), $10.84
+You are staking 0.0000 YRT (Wrapped YAK) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [USDT.e]-[ZABU] JLP) Price: $12,988.25 TVL: $0.00
+Total Staked: 0.0000 Yield Yak: JLP ZABU-USDT.e (0.0000 YRT (Wrapped [USDT.e]-[ZABU] JLP)), $0.00
+You are staking 0.0000 YRT (Wrapped [USDT.e]-[ZABU] JLP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [USDT.e]-[ZABU] PGL) Price: $13,563.36 TVL: $0.10
+Total Staked: 0.0000 Yield Yak: PGL ZABU-USDT.e (0.0000 YRT (Wrapped [USDT.e]-[ZABU] PGL)), $0.10
+You are staking 0.0000 YRT (Wrapped [USDT.e]-[ZABU] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [WAVAX]-[ZABU] JLP) Price: $0.11 TVL: $2.81
+Total Staked: 9.8765 Yield Yak: JLP ZABU-AVAX (25.8967 YRT (Wrapped [WAVAX]-[ZABU] JLP)), $2.81
+You are staking 0.0000 YRT (Wrapped [WAVAX]-[ZABU] JLP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [WAVAX]-[ZABU] PGL) Price: $0.13 TVL: $1.63
+Total Staked: 4.8640 Yield Yak: PGL ZABU-AVAX (13.0614 YRT (Wrapped [WAVAX]-[ZABU] PGL)), $1.63
+You are staking 0.0000 YRT (Wrapped [WAVAX]-[ZABU] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [PNG]-[USDC.e] PGL) Price: $NaN.N TVL: $NaN.N
+Total Staked: 0.0000 Yield Yak: PGL USDC.e-PNG (0.0000 YRT (Wrapped [PNG]-[USDC.e] PGL)), $NaN.N
+You are staking 0.0000 YRT (Wrapped [PNG]-[USDC.e] PGL) ($0.00), NaN% of the pool.
+
+YRT (Wrapped [USDC.e]-[WAVAX] PGL) Price: $21,904,180.34 TVL: $1,149.38
+Total Staked: 0.0000 Yield Yak: PGL USDC.e-AVAX (0.0001 YRT (Wrapped [USDC.e]-[WAVAX] PGL)), $1,149.38
+You are staking 0.0000 YRT (Wrapped [USDC.e]-[WAVAX] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped DAI.e) Price: $1.29 TVL: $0.00
+Total Staked: 0.0000 Yield Yak: Frost DAI.e (0.0000 YRT (Wrapped DAI.e)), $0.00
+You are staking 0.0000 YRT (Wrapped DAI.e) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped USDT.e) Price: $1,041,058,162,579.84 TVL: $97.21
+Total Staked: 0.0000 Yield Yak: Frost USDT.e (0.0000 YRT (Wrapped USDT.e)), $101.20
+You are staking 0.0000 YRT (Wrapped USDT.e) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped PNG) Price: $0.34 TVL: $1,128.31
+Total Staked: 3367.9952 Yield Yak: Frost PNG (3526.9736 YRT (Wrapped PNG)), $1,181.57
+You are staking 0.0000 YRT (Wrapped PNG) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped JOE) Price: $0.95 TVL: $29.93
+Total Staked: 31.5120 Yield Yak: Frost JOE (32.9809 YRT (Wrapped JOE)), $31.33
+You are staking 0.0000 YRT (Wrapped JOE) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [TUNDRA]-[DAI.e] PGL) Price: $37.12 TVL: $1,858.55
+Total Staked: 2.0747 Yield Yak: PGL TUNDRA-DAI.e (50.0703 YRT (Wrapped [TUNDRA]-[DAI.e] PGL)), $1,858.55
+You are staking 0.0000 YRT (Wrapped [TUNDRA]-[DAI.e] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped TUNDRA) Price: $3.31 TVL: $187.58
+Total Staked: 56.6442 Yield Yak: Frost TUNDRA (359.5966 YRT (Wrapped TUNDRA)), $1,190.84
+You are staking 0.0000 YRT (Wrapped TUNDRA) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped YAK) Price: $1,468.86 TVL: $278.64
+Total Staked: 0.1897 Yield Yak: Frost YAK (0.1931 YRT (Wrapped YAK)), $283.71
+You are staking 0.0000 YRT (Wrapped YAK) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [TUNDRA]-[USDT.e] PGL) Price: $57,987,574.57 TVL: $5,184.09
+Total Staked: 0.0000 Yield Yak: PGL TUNDRA-USDT.e (0.0001 YRT (Wrapped [TUNDRA]-[USDT.e] PGL)), $5,184.09
+You are staking 0.0000 YRT (Wrapped [TUNDRA]-[USDT.e] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [TUNDRA]-[WAVAX] PGL) Price: $186.38 TVL: $3,178.74
+Total Staked: 1.2756 Yield Yak: PGL TUNDRA-AVAX (17.0554 YRT (Wrapped [TUNDRA]-[WAVAX] PGL)), $3,178.74
+You are staking 0.0000 YRT (Wrapped [TUNDRA]-[WAVAX] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [QI]-[WAVAX] JLP) Price: $6.57 TVL: $70,640.39
+Total Staked: 6997.4022 Yield Yak: JLP QI-AVAX (10754.5873 YRT (Wrapped [QI]-[WAVAX] JLP)), $70,640.39
+You are staking 0.0000 YRT (Wrapped [QI]-[WAVAX] JLP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [PNG]-[SPORE] PGL) Price: $0.58 TVL: $0.00
+Total Staked: 0.0000 Yield Yak: PGL PNG-SPORE (0.0000 YRT (Wrapped [PNG]-[SPORE] PGL)), $0.00
+You are staking 0.0000 YRT (Wrapped [PNG]-[SPORE] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [SPORE]-[WAVAX] PGL) Price: $7.69 TVL: $0.00
+Total Staked: 0.0000 Yield Yak: PGL AVAX-SPORE (0.0000 YRT (Wrapped [SPORE]-[WAVAX] PGL)), $0.00
+You are staking 0.0000 YRT (Wrapped [SPORE]-[WAVAX] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [YAK]-[CNR] Uni LP) Price: $11.79 TVL: $3,825.50
+Total Staked: 164.2940 Yield Yak: CRL YAK-CNR (324.4148 YRT (Wrapped [YAK]-[CNR] Uni LP)), $3,825.50
+You are staking 0.0000 YRT (Wrapped [YAK]-[CNR] Uni LP) ($0.00), 0.00% of the pool.
+
+cJOE (Wrapped JOE) Price: $1.12 TVL: $75,194.58
+Total Staked: 67325.7444 Compounding JOE (82858.7702 cJOE (Wrapped JOE)), $92,543.06
+You are staking 0.0000 cJOE (Wrapped JOE) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [GAJ]-[PNG] PGL) Price: $0.15 TVL: $0.00
+Total Staked: 0.0000 Yield Yak: PGL GAJ-PNG (0.0000 YRT (Wrapped [GAJ]-[PNG] PGL)), $0.00
+You are staking 0.0000 YRT (Wrapped [GAJ]-[PNG] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [GAJ]-[WAVAX] PGL) Price: $2.60 TVL: $0.00
+Total Staked: 0.0000 Yield Yak: PGL GAJ-AVAX (0.0000 YRT (Wrapped [GAJ]-[WAVAX] PGL)), $0.00
+You are staking 0.0000 YRT (Wrapped [GAJ]-[WAVAX] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [USDT.e]-[DAI.e] JLP) Price: $2,214,112.82 TVL: $22,552.77
+Total Staked: 0.0095 Yield Yak: Cycle x JLP DAI.e-USDT.e (0.0102 YRT (Wrapped [USDT.e]-[DAI.e] JLP)), $22,552.77
+You are staking 0.0000 YRT (Wrapped [USDT.e]-[DAI.e] JLP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [WETH.e]-[WAVAX] JLP) Price: $1,006.39 TVL: $1,994,652.62
+Total Staked: 1634.7573 Yield Yak: Cycle x JLP WETH.e-AVAX (1981.9807 YRT (Wrapped [WETH.e]-[WAVAX] JLP)), $1,994,652.62
+You are staking 0.0000 YRT (Wrapped [WETH.e]-[WAVAX] JLP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [USDC.e]-[DAI.e] JLP) Price: $2,145,812.76 TVL: $12.99
+Total Staked: 0.0000 Yield Yak: JLP USDC.e-DAI.e (0.0000 YRT (Wrapped [USDC.e]-[DAI.e] JLP)), $12.99
+You are staking 0.0000 YRT (Wrapped [USDC.e]-[DAI.e] JLP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [USDC.e]-[WAVAX] JLP) Price: $21,670,166.84 TVL: $1,656,310.06
+Total Staked: 0.0645 Yield Yak: JLP USDC.e-AVAX (0.0764 YRT (Wrapped [USDC.e]-[WAVAX] JLP)), $1,656,310.06
+You are staking 0.0000 YRT (Wrapped [USDC.e]-[WAVAX] JLP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [WBTC.e]-[WAVAX] Uni LP) Price: $360,298,985.14 TVL: $46,602.44
+Total Staked: 0.0001 Yield Yak: Lydia-LP WBTC.e-AVAX (0.0001 YRT (Wrapped [WBTC.e]-[WAVAX] Uni LP)), $46,602.44
+You are staking 0.0000 YRT (Wrapped [WBTC.e]-[WAVAX] Uni LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [LINK.e]-[WAVAX] Uni LP) Price: $74.40 TVL: $114,523.88
+Total Staked: 1266.6631 Yield Yak: Lydia-LP LINK.e-AVAX (1539.3642 YRT (Wrapped [LINK.e]-[WAVAX] Uni LP)), $114,523.88
+You are staking 0.0000 YRT (Wrapped [LINK.e]-[WAVAX] Uni LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped WBTC.e) Price: $367,391,311,586,567.00 TVL: $10,559.15
+Total Staked: 0.0000 Yield Yak: Benqi WBTC.e (0.0000 YRT (Wrapped WBTC.e)), $10,834.33
+You are staking 0.0000 YRT (Wrapped WBTC.e) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped USDT.e) Price: $1,055,507,603,116.26 TVL: $2,094.47
+Total Staked: 0.0000 Yield Yak: Benqi USDT.e (0.0000 YRT (Wrapped USDT.e)), $2,210.73
+You are staking 0.0000 YRT (Wrapped USDT.e) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped LINK.e) Price: $15.22 TVL: $9,790,623.80
+Total Staked: 643395.2199 Yield Yak: Benqi LINK.e (671050.2947 YRT (Wrapped LINK.e)), $10,211,454.46
+You are staking 0.0000 YRT (Wrapped LINK.e) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [WAVAX]-[DAI.e] JLP) Price: $22.16 TVL: $6,832.20
+Total Staked: 261.4640 Yield Yak: JLP DAIe-AVAX (308.3480 YRT (Wrapped [WAVAX]-[DAI.e] JLP)), $6,832.20
+You are staking 0.0000 YRT (Wrapped [WAVAX]-[DAI.e] JLP) ($0.00), 0.00% of the pool.
+
+cQI (Wrapped QI) Price: $0.05 TVL: $4,133.44
+Total Staked: 84873.8372 Compounding QI (87532.4257 cQI (Wrapped QI)), $4,262.91
+You are staking 0.0000 cQI (Wrapped QI) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped WETH.e) Price: $2,386.52 TVL: $1,165,359.11
+Total Staked: 488.3083 Yield Yak: Benqi WETH.e (500.2658 YRT (Wrapped WETH.e)), $1,193,895.87
+You are staking 0.0000 YRT (Wrapped WETH.e) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped DAI.e) Price: $1.08 TVL: $5,987,674.39
+Total Staked: 5545043.8740 Yield Yak: Benqi DAI.e (5987674.3907 YRT (Wrapped DAI.e)), $6,465,637.68
+You are staking 0.0000 YRT (Wrapped DAI.e) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [PNG]-[QI] PGL) Price: $0.58 TVL: $11.02
+Total Staked: 9.2145 Yield Yak: PGL QI-PNG (18.9136 YRT (Wrapped [PNG]-[QI] PGL)), $11.02
+You are staking 0.0000 YRT (Wrapped [PNG]-[QI] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [QI]-[WAVAX] PGL) Price: $15,859,078,912,578.88 TVL: $0.66
+Total Staked: 0.0000 Yield Yak: PGL QI-AVAX (0.0000 YRT (Wrapped [QI]-[WAVAX] PGL)), $0.66
+You are staking 0.0000 YRT (Wrapped [QI]-[WAVAX] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [WETH.e]-[WAVAX] Uni LP) Price: $936.42 TVL: $235,200.72
+Total Staked: 209.9671 Yield Yak: Lydia-LP WETH.e-AVAX (251.1708 YRT (Wrapped [WETH.e]-[WAVAX] Uni LP)), $235,200.72
+You are staking 0.0000 YRT (Wrapped [WETH.e]-[WAVAX] Uni LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [WETH.e]-[LYD] Uni LP) Price: $15.28 TVL: $9,417.26
+Total Staked: 341.5892 Yield Yak: Lydia-LP LYD-WETH.e (616.4736 YRT (Wrapped [WETH.e]-[LYD] Uni LP)), $9,417.26
+You are staking 0.0000 YRT (Wrapped [WETH.e]-[LYD] Uni LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [WAVAX]-[USDT.e] Uni LP) Price: $22,974,138.23 TVL: $43,251.45
+Total Staked: 0.0015 Yield Yak: Lydia-LP USDT.e-AVAX (0.0019 YRT (Wrapped [WAVAX]-[USDT.e] Uni LP)), $43,251.45
+You are staking 0.0000 YRT (Wrapped [WAVAX]-[USDT.e] Uni LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [LYD]-[USDT.e] Uni LP) Price: $416,429.76 TVL: $93,475.24
+Total Staked: 0.0992 Yield Yak: Lydia-LP LYD-USDT.e (0.2245 YRT (Wrapped [LYD]-[USDT.e] Uni LP)), $93,475.24
+You are staking 0.0000 YRT (Wrapped [LYD]-[USDT.e] Uni LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [QI]-[WAVAX] Uni LP) Price: $6.07 TVL: $27,710.95
+Total Staked: 2656.7196 Yield Yak: Lydia-LP QI-AVAX (4568.2653 YRT (Wrapped [QI]-[WAVAX] Uni LP)), $27,710.95
+You are staking 0.0000 YRT (Wrapped [QI]-[WAVAX] Uni LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [WAVAX]-[XAVA] PGL) Price: $52.44 TVL: $0.00
+Total Staked: 0.0000 Yield Yak: PGL XAVA-AVAX (0.0000 YRT (Wrapped [WAVAX]-[XAVA] PGL)), $0.00
+You are staking 0.0000 YRT (Wrapped [WAVAX]-[XAVA] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped gondolaDAIeUSDTe) Price: $0.00 TVL: $0.00
+Total Staked: 5.2686 Yield Yak: Gondola DAI.e-USDT.e (5.7602 YRT (Wrapped gondolaDAIeUSDTe)), $0.00
+You are staking 0.0000 YRT (Wrapped gondolaDAIeUSDTe) ($0.00), NaN% of the pool.
+
+YRT (Wrapped [WBTC.e]-[WAVAX] PGL) Price: $443,564,459.70 TVL: $0.00
+Total Staked: 0.0000 Yield Yak: PGL WBTC.e-AVAX (0.0000 YRT (Wrapped [WBTC.e]-[WAVAX] PGL)), $0.00
+You are staking 0.0000 YRT (Wrapped [WBTC.e]-[WAVAX] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [WAVAX]-[DAI.e] PGL) Price: $29.04 TVL: $0.00
+Total Staked: 0.0000 Yield Yak: PGL DAI.e-AVAX (0.0000 YRT (Wrapped [WAVAX]-[DAI.e] PGL)), $0.00
+You are staking 0.0000 YRT (Wrapped [WAVAX]-[DAI.e] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [LINK.e]-[WAVAX] PGL) Price: $73.00 TVL: $0.00
+Total Staked: 0.0000 Yield Yak: PGL LINK.e-AVAX (0.0000 YRT (Wrapped [LINK.e]-[WAVAX] PGL)), $0.00
+You are staking 0.0000 YRT (Wrapped [LINK.e]-[WAVAX] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [WAVAX]-[USDT.e] PGL) Price: $24,003,852.88 TVL: $7,635.20
+Total Staked: 0.0003 Yield Yak: PGL USDT.e-AVAX (0.0003 YRT (Wrapped [WAVAX]-[USDT.e] PGL)), $7,635.20
+You are staking 0.0000 YRT (Wrapped [WAVAX]-[USDT.e] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [LINK.e]-[USDT.e] JLP) Price: $8,825,566.85 TVL: $0.15
+Total Staked: 0.0000 Yield Yak: JLP LINKe-USDTe (0.0000 YRT (Wrapped [LINK.e]-[USDT.e] JLP)), $0.15
+You are staking 0.0000 YRT (Wrapped [LINK.e]-[USDT.e] JLP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [WETH.e]-[USDT.e] JLP) Price: $109,353,250.38 TVL: $3,655.00
+Total Staked: 0.0000 Yield Yak: JLP WETHe-USDTe (0.0000 YRT (Wrapped [WETH.e]-[USDT.e] JLP)), $3,655.00
+You are staking 0.0000 YRT (Wrapped [WETH.e]-[USDT.e] JLP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [WBTC.e]-[USDT.e] JLP) Price: $42,375,300,141,366.19 TVL: $3,817.43
+Total Staked: 0.0000 Yield Yak: JLP WBTCe-USDTe (0.0000 YRT (Wrapped [WBTC.e]-[USDT.e] JLP)), $3,817.43
+You are staking 0.0000 YRT (Wrapped [WBTC.e]-[USDT.e] JLP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [USDT.e]-[DAI.e] JLP) Price: $2,174,381.40 TVL: $59,202.17
+Total Staked: 0.0257 Yield Yak: JLP DAIe-USDTe (0.0272 YRT (Wrapped [USDT.e]-[DAI.e] JLP)), $59,202.17
+You are staking 0.0000 YRT (Wrapped [USDT.e]-[DAI.e] JLP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [JOE]-[USDT.e] JLP) Price: $3,993,909.40 TVL: $1,736,883.43
+Total Staked: 0.2407 Yield Yak: JLP JOE-USDTe (0.4349 YRT (Wrapped [JOE]-[USDT.e] JLP)), $1,736,883.43
+You are staking 0.0000 YRT (Wrapped [JOE]-[USDT.e] JLP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [LINK.e]-[WAVAX] JLP) Price: $74.91 TVL: $187,365.67
+Total Staked: 2108.7941 Yield Yak: JLP LINKe-AVAX (2501.2871 YRT (Wrapped [LINK.e]-[WAVAX] JLP)), $187,365.67
+You are staking 0.0000 YRT (Wrapped [LINK.e]-[WAVAX] JLP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [WAVAX]-[USDT.e] JLP) Price: $23,614,498.27 TVL: $4,080,916.68
+Total Staked: 0.1420 Yield Yak: JLP USDTe-AVAX (0.1728 YRT (Wrapped [WAVAX]-[USDT.e] JLP)), $4,080,916.68
+You are staking 0.0000 YRT (Wrapped [WAVAX]-[USDT.e] JLP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [WBTC.e]-[WAVAX] JLP) Price: $369,157,756.72 TVL: $441,741.52
+Total Staked: 0.0010 Yield Yak: JLP WBTCe-AVAX (0.0012 YRT (Wrapped [WBTC.e]-[WAVAX] JLP)), $441,741.52
+You are staking 0.0000 YRT (Wrapped [WBTC.e]-[WAVAX] JLP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [WETH.e]-[WAVAX] JLP) Price: $962.36 TVL: $345,094.24
+Total Staked: 309.3050 Yield Yak: JLP WETHe-AVAX (358.5927 YRT (Wrapped [WETH.e]-[WAVAX] JLP)), $345,094.24
+You are staking 0.0000 YRT (Wrapped [WETH.e]-[WAVAX] JLP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped YAK) Price: $1,524.66 TVL: $3,817,469.15
+Total Staked: 2503.8121 Compounding YAK (2646.2056 YRT (Wrapped YAK)), $4,034,571.28
+You are staking 0.0000 YRT (Wrapped YAK) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [PNG]-[USDT.e] PGL) Price: $1,430,955.98 TVL: $0.00
+Total Staked: 0.0000 Yield Yak: PGL USDT.e-PNG (0.0000 YRT (Wrapped [PNG]-[USDT.e] PGL)), $0.00
+You are staking 0.0000 YRT (Wrapped [PNG]-[USDT.e] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [PNG]-[DAI.e] PGL) Price: $7.61 TVL: $1,193.74
+Total Staked: 27.2850 Yield Yak: PGL DAI.e-PNG (156.7792 YRT (Wrapped [PNG]-[DAI.e] PGL)), $1,193.74
+You are staking 0.0000 YRT (Wrapped [PNG]-[DAI.e] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [LINK.e]-[PNG] PGL) Price: $5.27 TVL: $496.63
+Total Staked: 90.6492 Yield Yak: PGL LINK.e-PNG (94.2077 YRT (Wrapped [LINK.e]-[PNG] PGL)), $496.63
+You are staking 0.0000 YRT (Wrapped [LINK.e]-[PNG] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [WETH.e]-[PNG] PGL) Price: $60.77 TVL: $364.03
+Total Staked: 5.7294 Yield Yak: PGL WETH.e-PNG (5.9906 YRT (Wrapped [WETH.e]-[PNG] PGL)), $364.03
+You are staking 0.0000 YRT (Wrapped [WETH.e]-[PNG] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [WETH.e]-[WAVAX] PGL) Price: $915.40 TVL: $11,778.72
+Total Staked: 11.7213 Yield Yak: PGL WETH.e-AVAX (12.8673 YRT (Wrapped [WETH.e]-[WAVAX] PGL)), $11,778.72
+You are staking 0.0000 YRT (Wrapped [WETH.e]-[WAVAX] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [YAK]-[WAVAX] PGL) Price: $758.84 TVL: $13,446.72
+Total Staked: 16.6918 Yield Yak: PGL YAK-AVAX (17.7202 YRT (Wrapped [YAK]-[WAVAX] PGL)), $13,446.72
+You are staking 0.0000 YRT (Wrapped [YAK]-[WAVAX] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [YAK]-[PNG] PGL) Price: $49.31 TVL: $0.03
+Total Staked: 0.0006 Yield Yak: PGL YAK-PNG (0.0007 YRT (Wrapped [YAK]-[PNG] PGL)), $0.03
+You are staking 0.0000 YRT (Wrapped [YAK]-[PNG] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [YAK]-[WAVAX] Uni LP) Price: $1,835.71 TVL: $5,133.93
+Total Staked: 0.9375 Yield Yak: Lydia-LP YAK-AVAX (2.7967 YRT (Wrapped [YAK]-[WAVAX] Uni LP)), $5,133.93
+You are staking 0.0000 YRT (Wrapped [YAK]-[WAVAX] Uni LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [YAK]-[WAVAX] JLP) Price: $807.91 TVL: $47,355.18
+Total Staked: 46.3501 Yield Yak: JLP YAK-AVAX (58.6142 YRT (Wrapped [YAK]-[WAVAX] JLP)), $47,355.18
+You are staking 0.0000 YRT (Wrapped [YAK]-[WAVAX] JLP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [YAK]-[WAVAX] PGL) Price: $741.79 TVL: $106.81
+Total Staked: 0.1388 Yield Yak: PGL YAK-AVAX (0.1440 YRT (Wrapped [YAK]-[WAVAX] PGL)), $106.81
+You are staking 0.0000 YRT (Wrapped [YAK]-[WAVAX] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [SHERPA]-[WAVAX] JLP) Price: $10.44 TVL: $22.00
+Total Staked: 1.6151 Yield Yak: JLP SHERPA-AVAX (2.1068 YRT (Wrapped [SHERPA]-[WAVAX] JLP)), $22.00
+You are staking 0.0000 YRT (Wrapped [SHERPA]-[WAVAX] JLP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [WET]-[WAVAX] JLP) Price: $32.13 TVL: $0.00
+Total Staked: 0.0000 Yield Yak: JLP WET-AVAX (0.0000 YRT (Wrapped [WET]-[WAVAX] JLP)), $0.00
+You are staking 0.0000 YRT (Wrapped [WET]-[WAVAX] JLP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [LINK]-[USDT] JLP) Price: $43,453,944.74 TVL: $61.58
+Total Staked: 0.0000 Yield Yak: JLP LINK-USDT (0.0000 YRT (Wrapped [LINK]-[USDT] JLP)), $61.58
+You are staking 0.0000 YRT (Wrapped [LINK]-[USDT] JLP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [DAI]-[USDT] JLP) Price: $453,226,046,945,054,500,000.00 TVL: $97,619,035,068,161,800.00
+Total Staked: 0.0000 Yield Yak: JLP DAI-USDT (0.0002 YRT (Wrapped [DAI]-[USDT] JLP)), $97,619,035,068,161,800.00
+You are staking 0.0000 YRT (Wrapped [DAI]-[USDT] JLP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [WAVAX]-[XAVA] PGL) Price: $50.60 TVL: $725.71
+Total Staked: 12.5121 Yield Yak: PGL XAVA-AVAX (14.3422 YRT (Wrapped [WAVAX]-[XAVA] PGL)), $725.71
+You are staking 0.0000 YRT (Wrapped [WAVAX]-[XAVA] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped XAVA) Price: $6.28 TVL: $6,031.41
+Total Staked: 960.1780 Compounding XAVA (1000.2344 YRT (Wrapped XAVA)), $6,283.03
+You are staking 0.0000 YRT (Wrapped XAVA) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [WAVAX]-[XAVA] PGL) Price: $51.44 TVL: $197.22
+Total Staked: 3.2896 Yield Yak: PGL XAVA-AVAX (3.8336 YRT (Wrapped [WAVAX]-[XAVA] PGL)), $197.22
+You are staking 0.0000 YRT (Wrapped [WAVAX]-[XAVA] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [WAVAX]-[PEFI] JLP) Price: $15.28 TVL: $11,103.75
+Total Staked: 476.6375 Yield Yak: JLP AVAX-PEFI (726.8772 YRT (Wrapped [WAVAX]-[PEFI] JLP)), $11,103.75
+You are staking 0.0000 YRT (Wrapped [WAVAX]-[PEFI] JLP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [HUSKY]-[WAVAX] JLP) Price: $0.00 TVL: $2,699.86
+Total Staked: 343625.2877 Yield Yak: JLP AVAX-HUSKY (575899.6880 YRT (Wrapped [HUSKY]-[WAVAX] JLP)), $2,699.86
+You are staking 0.0000 YRT (Wrapped [HUSKY]-[WAVAX] JLP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [JOE]-[WAVAX] JLP) Price: $32.93 TVL: $1,217,727.48
+Total Staked: 20054.5316 Yield Yak: JLP JOE-AVAX (36983.1226 YRT (Wrapped [JOE]-[WAVAX] JLP)), $1,217,727.48
+You are staking 0.0000 YRT (Wrapped [JOE]-[WAVAX] JLP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [WBTC]-[WAVAX] JLP) Price: $615,727,871.78 TVL: $786.52
+Total Staked: 0.0000 Yield Yak: JLP AVAX-WBTC (0.0000 YRT (Wrapped [WBTC]-[WAVAX] JLP)), $786.52
+You are staking 0.0000 YRT (Wrapped [WBTC]-[WAVAX] JLP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [WAVAX]-[SNOB] JLP) Price: $14.08 TVL: $11,533.79
+Total Staked: 469.3173 Yield Yak: JLP AVAX-SNOB (819.1726 YRT (Wrapped [WAVAX]-[SNOB] JLP)), $11,533.79
+You are staking 0.0000 YRT (Wrapped [WAVAX]-[SNOB] JLP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [PNG]-[WAVAX] JLP) Price: $13.43 TVL: $6,161.13
+Total Staked: 333.8919 Yield Yak: JLP AVAX-PNG (458.6443 YRT (Wrapped [PNG]-[WAVAX] JLP)), $6,161.13
+You are staking 0.0000 YRT (Wrapped [PNG]-[WAVAX] JLP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [WAVAX]-[XAVA] JLP) Price: $70.36 TVL: $17,187.40
+Total Staked: 153.9490 Yield Yak: JLP AVAX-XAVA (244.2789 YRT (Wrapped [WAVAX]-[XAVA] JLP)), $17,187.40
+You are staking 0.0000 YRT (Wrapped [WAVAX]-[XAVA] JLP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [WAVAX]-[ETH] JLP) Price: $1,034.44 TVL: $366.42
+Total Staked: 0.3283 Yield Yak: JLP AVAX-ETH (0.3542 YRT (Wrapped [WAVAX]-[ETH] JLP)), $366.42
+You are staking 0.0000 YRT (Wrapped [WAVAX]-[ETH] JLP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped WAVAX) Price: $64.58 TVL: $34,111.58
+Total Staked: 528.2393 Compounding WAVAX (550.4532 YRT (Wrapped WAVAX)), $35,546.07
+You are staking 0.0000 YRT (Wrapped WAVAX) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [WAVAX]-[ETH] Uni LP) Price: $1,167.84 TVL: $0.00
+Total Staked: 0.0000 Yield Yak: BGL AVAX-ETH (0.0000 YRT (Wrapped [WAVAX]-[ETH] Uni LP)), $0.00
+You are staking 0.0000 YRT (Wrapped [WAVAX]-[ETH] Uni LP) ($0.00), 0.00% of the pool.
+
+cBAG (Wrapped BAG) Price: $0.00 TVL: $28,310.45
+Total Staked: 8044558.3690 Compounding BAG (10210832.4095 cBAG (Wrapped BAG)), $35,934.01
+You are staking 0.0000 cBAG (Wrapped BAG) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped XAVA) Price: $6.35 TVL: $889.02
+Total Staked: 140.0123 Compounding XAVA (147.4334 YRT (Wrapped XAVA)), $936.14
+You are staking 0.0000 YRT (Wrapped XAVA) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [WBTC]-[WAVAX] Uni LP) Price: $401,837,026.45 TVL: $0.00
+Total Staked: 0.0000 Yield Yak: BGL AVAX-WBTC (0.0000 YRT (Wrapped [WBTC]-[WAVAX] Uni LP)), $0.00
+You are staking 0.0000 YRT (Wrapped [WBTC]-[WAVAX] Uni LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [WAVAX]-[XAVA] Uni LP) Price: $77.44 TVL: $34,215.30
+Total Staked: 252.7200 Yield Yak: BGL AVAX-XAVA (441.8178 YRT (Wrapped [WAVAX]-[XAVA] Uni LP)), $34,215.30
+You are staking 0.0000 YRT (Wrapped [WAVAX]-[XAVA] Uni LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [BAG]-[XAVA] Uni LP) Price: $0.88 TVL: $13,457.96
+Total Staked: 4847.8469 Yield Yak: BGL BAG-XAVA (15268.0634 YRT (Wrapped [BAG]-[XAVA] Uni LP)), $13,457.96
+You are staking 0.0000 YRT (Wrapped [BAG]-[XAVA] Uni LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [WAVAX]-[USDT] Uni LP) Price: $103,060,448.51 TVL: $1,232.41
+Total Staked: 0.0000 Yield Yak: BGL AVAX-USDT (0.0000 YRT (Wrapped [WAVAX]-[USDT] Uni LP)), $1,232.41
+You are staking 0.0000 YRT (Wrapped [WAVAX]-[USDT] Uni LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [BAG]-[DAI] Uni LP) Price: $0.14 TVL: $54.61
+Total Staked: 303.5199 Yield Yak: BGL BAG-DAI (380.5069 YRT (Wrapped [BAG]-[DAI] Uni LP)), $54.61
+You are staking 0.0000 YRT (Wrapped [BAG]-[DAI] Uni LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [BAG]-[ETH] Uni LP) Price: $14.38 TVL: $34.80
+Total Staked: 1.1317 Yield Yak: BGL BAG-ETH (2.4201 YRT (Wrapped [BAG]-[ETH] Uni LP)), $34.80
+You are staking 0.0000 YRT (Wrapped [BAG]-[ETH] Uni LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [WBTC]-[BAG] Uni LP) Price: $40,755,771,999.61 TVL: $140.67
+Total Staked: 0.0000 Yield Yak: BGL BAG-WBTC (0.0000 YRT (Wrapped [WBTC]-[BAG] Uni LP)), $140.67
+You are staking 0.0000 YRT (Wrapped [WBTC]-[BAG] Uni LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [BAG]-[USDT] Uni LP) Price: $943,867.31 TVL: $0.00
+Total Staked: 0.0000 Yield Yak: BGL BAG-USDT (0.0000 YRT (Wrapped [BAG]-[USDT] Uni LP)), $0.00
+You are staking 0.0000 YRT (Wrapped [BAG]-[USDT] Uni LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [BAG]-[LINK] Uni LP) Price: $1.12 TVL: $0.00
+Total Staked: 0.0000 Yield Yak: BGL BAG-LINK (0.0000 YRT (Wrapped [BAG]-[LINK] Uni LP)), $0.00
+You are staking 0.0000 YRT (Wrapped [BAG]-[LINK] Uni LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [AVE]-[WAVAX] PGL) Price: $14.72 TVL: $128,511.62
+Total Staked: 3270.0335 Yield Yak: PGL AVE-AVAX (8733.1180 YRT (Wrapped [AVE]-[WAVAX] PGL)), $128,511.62
+You are staking 0.0000 YRT (Wrapped [AVE]-[WAVAX] PGL) ($0.00), 0.00% of the pool.
+
+cCNR (Wrapped CNR) Price: $0.01 TVL: $3,113.93
+Total Staked: 218422.9357 Compounding CNR (553285.9531 cCNR (Wrapped CNR)), $7,887.88
+You are staking 0.0000 cCNR (Wrapped CNR) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped WAVAX) Price: $66.08 TVL: $1,338.44
+Total Staked: 20.2562 Compounding WAVAX (21.5983 YRT (Wrapped WAVAX)), $1,427.12
+You are staking 0.0000 YRT (Wrapped WAVAX) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [WAVAX]-[USDT] Uni LP) Price: $92,712,101.12 TVL: $1.12
+Total Staked: 0.0000 Yield Yak: CLR AVAX-USDT (0.0000 YRT (Wrapped [WAVAX]-[USDT] Uni LP)), $1.12
+You are staking 0.0000 YRT (Wrapped [WAVAX]-[USDT] Uni LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [PNG]-[WAVAX] Uni LP) Price: $14.62 TVL: $4,699.33
+Total Staked: 199.4566 Yield Yak: CLR AVAX-PNG (321.3907 YRT (Wrapped [PNG]-[WAVAX] Uni LP)), $4,699.33
+You are staking 0.0000 YRT (Wrapped [PNG]-[WAVAX] Uni LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [CNR]-[WAVAX] Uni LP) Price: $6.65 TVL: $102,359.67
+Total Staked: 4158.5547 Yield Yak: CRL CNR-AVAX (15384.1250 YRT (Wrapped [CNR]-[WAVAX] Uni LP)), $102,359.67
+You are staking 0.0000 YRT (Wrapped [CNR]-[WAVAX] Uni LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [PNG]-[CNR] Uni LP) Price: $0.45 TVL: $65,960.08
+Total Staked: 30629.3581 Yield Yak: CRL CNR-PNG (147247.7732 YRT (Wrapped [PNG]-[CNR] Uni LP)), $65,960.08
+You are staking 0.0000 YRT (Wrapped [PNG]-[CNR] Uni LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [CNR]-[USDT] Uni LP) Price: $2,873,560.26 TVL: $36.10
+Total Staked: 0.0000 Yield Yak: CRL CNR-USDT (0.0000 YRT (Wrapped [CNR]-[USDT] Uni LP)), $36.10
+You are staking 0.0000 YRT (Wrapped [CNR]-[USDT] Uni LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [CNR]-[LINK] Uni LP) Price: $1.84 TVL: $305.97
+Total Staked: 60.1149 Yield Yak: CRL CNR-LINK (166.2079 YRT (Wrapped [CNR]-[LINK] Uni LP)), $305.97
+You are staking 0.0000 YRT (Wrapped [CNR]-[LINK] Uni LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [WAVAX]-[USDT] Uni LP) Price: $104,568,083.09 TVL: $4,499.90
+Total Staked: 0.0000 Yield Yak: Lydia-LP AVAX-USDT (0.0000 YRT (Wrapped [WAVAX]-[USDT] Uni LP)), $4,499.90
+You are staking 0.0000 YRT (Wrapped [WAVAX]-[USDT] Uni LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [WAVAX]-[ETH] Uni LP) Price: $1,107.66 TVL: $322.26
+Total Staked: 0.2480 Yield Yak: Lydia-LP AVAX-ETH (0.2909 YRT (Wrapped [WAVAX]-[ETH] Uni LP)), $322.26
+You are staking 0.0000 YRT (Wrapped [WAVAX]-[ETH] Uni LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [SUSHI]-[WAVAX] Uni LP) Price: $1,027,859,710,402,236,400.00 TVL: $893,561,607,619,962,000.00
+Total Staked: 0.0000 Yield Yak: Lydia-LP AVAX-SUSHI (0.8693 YRT (Wrapped [SUSHI]-[WAVAX] Uni LP)), $893,561,607,619,962,000.00
+You are staking 0.0000 YRT (Wrapped [SUSHI]-[WAVAX] Uni LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [LYD]-[USDT] Uni LP) Price: $37,451,868.38 TVL: $155,215.49
+Total Staked: 0.0001 Yield Yak: Lydia-LP LYD-USDT (0.0041 YRT (Wrapped [LYD]-[USDT] Uni LP)), $155,215.49
+You are staking 0.0000 YRT (Wrapped [LYD]-[USDT] Uni LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [LYD]-[WAVAX] Uni LP) Price: $55.04 TVL: $1,067,616.12
+Total Staked: 596.6691 Yield Yak: Lydia-LP LYD-AVAX (19398.1381 YRT (Wrapped [LYD]-[WAVAX] Uni LP)), $1,067,616.12
+You are staking 0.0000 YRT (Wrapped [LYD]-[WAVAX] Uni LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [LYD]-[PNG] Uni LP) Price: $6.54 TVL: $932,665.13
+Total Staked: 2279.0158 Yield Yak: Lydia-LP LYD-PNG (142602.0255 YRT (Wrapped [LYD]-[PNG] Uni LP)), $932,665.13
+You are staking 0.0000 YRT (Wrapped [LYD]-[PNG] Uni LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [LYD]-[ETH] Uni LP) Price: $42.78 TVL: $218.78
+Total Staked: 1.2566 Yield Yak: Lydia-LP LYD-ETH (5.1143 YRT (Wrapped [LYD]-[ETH] Uni LP)), $218.78
+You are staking 0.0000 YRT (Wrapped [LYD]-[ETH] Uni LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [LYD]-[SNOB] Uni LP) Price: $0.33 TVL: $146.75
+Total Staked: 115.2582 Yield Yak: Lydia-LP LYD-SNOB (443.8259 YRT (Wrapped [LYD]-[SNOB] Uni LP)), $146.75
+You are staking 0.0000 YRT (Wrapped [LYD]-[SNOB] Uni LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [ZERO]-[CHART] Uni LP) Price: $0.02 TVL: $16.52
+Total Staked: 650.8178 Yield Yak: ZERO-LP ZERO-CHART (881.0001 YRT (Wrapped [ZERO]-[CHART] Uni LP)), $16.52
+You are staking 0.0000 YRT (Wrapped [ZERO]-[CHART] Uni LP) ($0.00), 0.00% of the pool.
+
+SNOW (Wrapped [ZERO]-[zDAI] Uni LP) Price: $0.18 TVL: $510.33
+Total Staked: 1865.7975 Snowball: ZERO-LP ZERO-zDAI (2845.7940 SNOW (Wrapped [ZERO]-[zDAI] Uni LP)), $510.33
+You are staking 0.0000 SNOW (Wrapped [ZERO]-[zDAI] Uni LP) ($0.00), 0.00% of the pool.
+
+undefined Price: $0.00 TVL: $0.00
+Total Staked: 685.8436 Snowball: COM-LP COM-WAVAX (1039.1244 undefined), $0.00
+You are staking 0.0000 undefined ($0.00), NaN% of the pool.
+
+undefined Price: $0.00 TVL: $0.00
+Total Staked: 335.6889 Snowball: COM-LP xCOM-WAVAX (665.6880 undefined), $0.00
+You are staking 0.0000 undefined ($0.00), NaN% of the pool.
+
+undefined Price: $0.00 TVL: $0.00
+Total Staked: 175.4951 Snowball: PGL WAVAX-SNOB (306.0179 undefined), $0.00
+You are staking 0.0000 undefined ($0.00), NaN% of the pool.
+
+undefined Price: $0.00 TVL: $0.00
+Total Staked: 0.0432 Yield Yak: Gondola ETH-zETH (0.0457 undefined), $0.00
+You are staking 0.0000 undefined ($0.00), NaN% of the pool.
+
+YRT (Wrapped gondolaUSDTPool) Price: $0.00 TVL: $0.00
+Total Staked: 145.2638 Yield Yak: Gondola USDT-zUSDT (154.9878 YRT (Wrapped gondolaUSDTPool)), $0.00
+You are staking 0.0000 YRT (Wrapped gondolaUSDTPool) ($0.00), NaN% of the pool.
+
+YRT (Wrapped [PNG]-[SPORE] PGL) Price: $0.44 TVL: $65.57
+Total Staked: 150.1913 Yield Yak: PGL PNG-SPORE (150.1913 YRT (Wrapped [PNG]-[SPORE] PGL)), $65.57
+You are staking 0.0000 YRT (Wrapped [PNG]-[SPORE] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [AVME]-[WAVAX] PGL) Price: $21.56 TVL: $1,281,370.50
+Total Staked: 22827.5903 Yield Yak: PGL AVME-AVAX (59421.2742 YRT (Wrapped [AVME]-[WAVAX] PGL)), $1,281,370.50
+You are staking 0.0000 YRT (Wrapped [AVME]-[WAVAX] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [CYCLE]-[WAVAX] PGL) Price: $79.13 TVL: $347,721.36
+Total Staked: 1228.6193 Yield Yak: PGL CYCLE-AVAX (4394.0424 YRT (Wrapped [CYCLE]-[WAVAX] PGL)), $347,721.36
+You are staking 0.0000 YRT (Wrapped [CYCLE]-[WAVAX] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [WAVAX]-[GDL] PGL) Price: $3.53 TVL: $75,028.70
+Total Staked: 3022.3832 Yield Yak: PGL GDL-AVAX (21277.3926 YRT (Wrapped [WAVAX]-[GDL] PGL)), $75,028.70
+You are staking 0.0000 YRT (Wrapped [WAVAX]-[GDL] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [ZERO]-[GDL] Uni LP) Price: $0.02 TVL: $2,103.97
+Total Staked: 15628.6360 Yield Yak: ZERO-LP GDL-ZERO (91733.4556 YRT (Wrapped [ZERO]-[GDL] Uni LP)), $2,103.97
+You are staking 0.0000 YRT (Wrapped [ZERO]-[GDL] Uni LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped GDL) Price: $0.00 TVL: $18,428.00
+Total Staked: 9974037.3909 Yield Yak: Compounding Gondola (28541343.0898 YRT (Wrapped GDL)), $52,732.91
+You are staking 0.0000 YRT (Wrapped GDL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [BIRD]-[WAVAX] PGL) Price: $10.08 TVL: $5,132.66
+Total Staked: 48.7247 Yield Yak: PGL BIRD-AVAX (509.2387 YRT (Wrapped [BIRD]-[WAVAX] PGL)), $5,132.66
+You are staking 0.0000 YRT (Wrapped [BIRD]-[WAVAX] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [BIRD]-[USDT] PGL) Price: $9,969,798.12 TVL: $475,587.26
+Total Staked: 0.0009 Yield Yak: PGL BIRD-USDT (0.0477 YRT (Wrapped [BIRD]-[USDT] PGL)), $475,587.26
+You are staking 0.0000 YRT (Wrapped [BIRD]-[USDT] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [WAVAX]-[PEFI] PGL) Price: $33.42 TVL: $12,930.60
+Total Staked: 149.0995 Yield Yak: PGL AVAX-PEFI (386.8847 YRT (Wrapped [WAVAX]-[PEFI] PGL)), $12,930.60
+You are staking 0.0000 YRT (Wrapped [WAVAX]-[PEFI] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [LINK]-[PEFI] PGL) Price: $18.29 TVL: $263.76
+Total Staked: 3.8611 Yield Yak: PGL PEFI-LINK (14.4202 YRT (Wrapped [LINK]-[PEFI] PGL)), $263.76
+You are staking 0.0000 YRT (Wrapped [LINK]-[PEFI] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [SUSHI]-[PEFI] PGL) Price: $6.96 TVL: $313.22
+Total Staked: 15.1810 Yield Yak: PGL SUSHI-PEFI (45.0286 YRT (Wrapped [SUSHI]-[PEFI] PGL)), $313.22
+You are staking 0.0000 YRT (Wrapped [SUSHI]-[PEFI] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [WAVAX]-[ETH] PGL) Price: $1,203.75 TVL: $266.56
+Total Staked: 0.1789 Yield Yak: PGL ETH-AVAX (0.2214 YRT (Wrapped [WAVAX]-[ETH] PGL)), $266.56
+You are staking 0.0000 YRT (Wrapped [WAVAX]-[ETH] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [PNG]-[PEFI] PGL) Price: $2.13 TVL: $1,859.52
+Total Staked: 293.8330 Yield Yak: PGL PNG-PEFI (871.4627 YRT (Wrapped [PNG]-[PEFI] PGL)), $1,859.52
+You are staking 0.0000 YRT (Wrapped [PNG]-[PEFI] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [SNOB]-[PEFI] PGL) Price: $1.96 TVL: $3,771.10
+Total Staked: 581.9331 Yield Yak: PGL SNOB-PEFI (1923.6624 YRT (Wrapped [SNOB]-[PEFI] PGL)), $3,771.10
+You are staking 0.0000 YRT (Wrapped [SNOB]-[PEFI] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [DAI]-[PEFI] PGL) Price: $3.17 TVL: $3,474.37
+Total Staked: 421.3847 Yield Yak: PGL PEFI-DAI (1096.8313 YRT (Wrapped [DAI]-[PEFI] PGL)), $3,474.37
+You are staking 0.0000 YRT (Wrapped [DAI]-[PEFI] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [VSO]-[WAVAX] PGL) Price: $3.49 TVL: $15,668.74
+Total Staked: 4081.0315 Yield Yak: PGL AVAX-VSO (4485.4063 YRT (Wrapped [VSO]-[WAVAX] PGL)), $15,668.74
+You are staking 0.0000 YRT (Wrapped [VSO]-[WAVAX] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [PNG]-[VSO] PGL) Price: $0.26 TVL: $153.22
+Total Staked: 477.7614 Yield Yak: PGL PNG-VSO (582.6332 YRT (Wrapped [PNG]-[VSO] PGL)), $153.22
+You are staking 0.0000 YRT (Wrapped [PNG]-[VSO] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [WAVAX]-[SNOB] PGL) Price: $10.76 TVL: $33.34
+Total Staked: 2.4786 Yield Yak: PGL AVAX-SNOB (3.0997 YRT (Wrapped [WAVAX]-[SNOB] PGL)), $33.34
+You are staking 0.0000 YRT (Wrapped [WAVAX]-[SNOB] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [PNG]-[SNOB] PGL) Price: $0.80 TVL: $4,803.74
+Total Staked: 4504.5048 Yield Yak: PGL PNG-SNOB (5983.2473 YRT (Wrapped [PNG]-[SNOB] PGL)), $4,803.74
+You are staking 0.0000 YRT (Wrapped [PNG]-[SNOB] PGL) ($0.00), 0.00% of the pool.
+
+undefined Price: $0.00 TVL: $0.00
+Total Staked: 50.4461 Snowball: PGL PNG-WAVAX (55.0948 undefined), $0.00
+You are staking 0.0000 undefined ($0.00), NaN% of the pool.
+
+YRT (Wrapped [WAVAX]-[ETH] PGL) Price: $1,064.07 TVL: $1,905.95
+Total Staked: 1.6374 Yield Yak: PGL AVAX-ETH (1.7912 YRT (Wrapped [WAVAX]-[ETH] PGL)), $1,905.95
+You are staking 0.0000 YRT (Wrapped [WAVAX]-[ETH] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [PNG]-[WAVAX] PGL) Price: $17.31 TVL: $298,991.63
+Total Staked: 10233.0123 Yield Yak: PGL AVAX-PNG (17274.0925 YRT (Wrapped [PNG]-[WAVAX] PGL)), $298,991.63
+You are staking 0.0000 YRT (Wrapped [PNG]-[WAVAX] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [WAVAX]-[UNI] PGL) Price: $514.21 TVL: $0.00
+Total Staked: 0.0000 Yield Yak: PGL AVAX-UNI (0.0000 YRT (Wrapped [WAVAX]-[UNI] PGL)), $0.00
+You are staking 0.0000 YRT (Wrapped [WAVAX]-[UNI] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [SUSHI]-[WAVAX] PGL) Price: $45.56 TVL: $62.69
+Total Staked: 1.0132 Yield Yak: PGL AVAX-SUSHI (1.3760 YRT (Wrapped [SUSHI]-[WAVAX] PGL)), $62.69
+You are staking 0.0000 YRT (Wrapped [SUSHI]-[WAVAX] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [WAVAX]-[LINK] PGL) Price: $74.59 TVL: $390.41
+Total Staked: 4.8271 Yield Yak: PGL AVAX-LINK (5.2340 YRT (Wrapped [WAVAX]-[LINK] PGL)), $390.41
+You are staking 0.0000 YRT (Wrapped [WAVAX]-[LINK] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [WAVAX]-[USDT] PGL) Price: $101,258,680.84 TVL: $48,731.19
+Total Staked: 0.0004 Yield Yak: PGL AVAX-USDT (0.0005 YRT (Wrapped [WAVAX]-[USDT] PGL)), $48,731.19
+You are staking 0.0000 YRT (Wrapped [WAVAX]-[USDT] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [WAVAX]-[DAI] PGL) Price: $23.94 TVL: $221.58
+Total Staked: 7.4241 Yield Yak: PGL AVAX-DAI (9.2550 YRT (Wrapped [WAVAX]-[DAI] PGL)), $221.58
+You are staking 0.0000 YRT (Wrapped [WAVAX]-[DAI] PGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [OLIVE]-[WAVAX] Uni LP) Price: $79.74 TVL: $681,198.46
+Total Staked: 555.3230 Yield Yak: Olive-LP OLIVE-WAVAX (8542.5263 YRT (Wrapped [OLIVE]-[WAVAX] Uni LP)), $681,198.46
+You are staking 0.0000 YRT (Wrapped [OLIVE]-[WAVAX] Uni LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped OLIVE) Price: $0.18 TVL: $22,070.90
+Total Staked: 125498.5685 Yield Yak: OLIVE (551551.5429 YRT (Wrapped OLIVE)), $96,999.04
+You are staking 0.0000 YRT (Wrapped OLIVE) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [OLIVE]-[USDT] Uni LP) Price: $9,944,929.33 TVL: $1,368.78
+Total Staked: 0.0000 Yield Yak: Olive-LP OLIVE-USDT (0.0001 YRT (Wrapped [OLIVE]-[USDT] Uni LP)), $1,368.78
+You are staking 0.0000 YRT (Wrapped [OLIVE]-[USDT] Uni LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [WAVAX]-[USDT] Uni LP) Price: $83,289,029.80 TVL: $82.61
+Total Staked: 0.0000 Yield Yak: Olive-LP WAVAX-USDT (0.0000 YRT (Wrapped [WAVAX]-[USDT] Uni LP)), $82.61
+You are staking 0.0000 YRT (Wrapped [WAVAX]-[USDT] Uni LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [WAVAX]-[ETH] Uni LP) Price: $1,093.31 TVL: $20.17
+Total Staked: 0.0159 Yield Yak: Olive-LP WAVAX-ETH (0.0184 YRT (Wrapped [WAVAX]-[ETH] Uni LP)), $20.17
+You are staking 0.0000 YRT (Wrapped [WAVAX]-[ETH] Uni LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [PNG]-[WAVAX] Uni LP) Price: $11.45 TVL: $8.82
+Total Staked: 0.6068 Yield Yak: Olive-LP PNG-WAVAX (0.7704 YRT (Wrapped [PNG]-[WAVAX] Uni LP)), $8.82
+You are staking 0.0000 YRT (Wrapped [PNG]-[WAVAX] Uni LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [DAI]-[USDT] Uni LP) Price: $10,372,113.66 TVL: $108.77
+Total Staked: 0.0000 Yield Yak: Olive-LP DAI-USDT (0.0000 YRT (Wrapped [DAI]-[USDT] Uni LP)), $108.77
+You are staking 0.0000 YRT (Wrapped [DAI]-[USDT] Uni LP) ($0.00), 0.00% of the pool.
+
+cBAMBOO (Wrapped BAMBOO-V2) Price: $0.00 TVL: $0.00
+Total Staked: 38965981.5977 Compounding Bamboo (50016846.1057 cBAMBOO (Wrapped BAMBOO-V2)), $0.00
+You are staking 0.0000 cBAMBOO (Wrapped BAMBOO-V2) ($0.00), NaN% of the pool.
+
+YRT (Wrapped [BAMBOO-V2]-[WAVAX] Pure Swap LP) Price: $0.24 TVL: $1,684.84
+Total Staked: 2297.9627 Yield Yak: PLP BAMBOO-V2-WAVAX (6896.3965 YRT (Wrapped [BAMBOO-V2]-[WAVAX] Pure Swap LP)), $1,684.84
+You are staking 0.0000 YRT (Wrapped [BAMBOO-V2]-[WAVAX] Pure Swap LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [BAMBOO-V2]-[LINK] Pure Swap LP) Price: $1.25 TVL: $3,172.43
+Total Staked: 80.1598 Yield Yak: PLP BAMBOO-V2-LINK (2541.2343 YRT (Wrapped [BAMBOO-V2]-[LINK] Pure Swap LP)), $3,172.43
+You are staking 0.0000 YRT (Wrapped [BAMBOO-V2]-[LINK] Pure Swap LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [DAI]-[USDT] Pure Swap LP) Price: $8,447,759.33 TVL: $2,459.42
+Total Staked: 0.0003 Yield Yak: PLP DAI-USDT (0.0003 YRT (Wrapped [DAI]-[USDT] Pure Swap LP)), $2,459.42
+You are staking 0.0000 YRT (Wrapped [DAI]-[USDT] Pure Swap LP) ($0.00), 0.00% of the pool.
+
+SNOW (Wrapped sPGL) Price: $11.98 TVL: $59.84
+Total Staked: 4.9960 Snowball: sPGL (PGL PNG-WAVAX) (5.8361 SNOW (Wrapped sPGL)), $69.90
+You are staking 0.0000 SNOW (Wrapped sPGL) ($0.00), 0.00% of the pool.
+
+SNOW (Wrapped sPGL) Price: $41.18 TVL: $558.44
+Total Staked: 13.5595 Snowball: sPGL (PGL SUSHI-WAVAX) (16.6464 SNOW (Wrapped sPGL)), $685.58
+You are staking 0.0000 SNOW (Wrapped sPGL) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [WAVAX]-[ELK] ELK LP) Price: $37.58 TVL: $411.74
+Total Staked: 10.1202 Yield Yak: ELP ELK-AVAX (10.9578 YRT (Wrapped [WAVAX]-[ELK] ELK LP)), $411.74
+You are staking 0.0000 YRT (Wrapped [WAVAX]-[ELK] ELK LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [YTS]-[WAVAX] Uni LP) Price: $8.24 TVL: $231,445.76
+Total Staked: 6544.6044 Yield Yak: YSL AVAX-YTS (28083.7475 YRT (Wrapped [YTS]-[WAVAX] Uni LP)), $231,445.76
+You are staking 0.0000 YRT (Wrapped [YTS]-[WAVAX] Uni LP) ($0.00), 0.00% of the pool.
+
+YRT (Wrapped [YTS]-[PNG] Uni LP) Price: $1.00 TVL: $65,526.94
+Total Staked: 7846.7218 Yield Yak: YSL YTS-PNG (65454.5754 YRT (Wrapped [YTS]-[PNG] Uni LP)), $65,526.94
+You are staking 0.0000 YRT (Wrapped [YTS]-[PNG] Uni LP) ($0.00), 0.00% of the pool.

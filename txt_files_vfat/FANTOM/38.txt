@@ -1,0 +1,85 @@
+*************** 👨‍🌾 UNOFFICIAL GALAXYFINANCE.ONE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://fantom-triton.galaxyfinance.one/
+************************************************************************************
+
+Fri Jan 28 2022 00:40:21 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 7 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - TRITON Price: $0.00 Market Cap: $0.00 
+Staked: 328743.7870 TRITON ($0.00)
+TRITON Per Week: 5498.18 ($0.21)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 TRITON ($0.00), NaN% of the pool.
+Stake 0.00 TRITON
+Unstake 0.00 TRITON
+Claim 0.00 TRITON ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [fUSDT]-[TRITON] Galaxy LP [+] [-] [<=>] Price: $13,174.66 TVL: $1.63
+fUSDT Price: $1.00
+TRITON Price: $0.0000384445
+Staked: 0.0001 Galaxy-LP ($1.30)
+TRITON Per Week: 14845.09 ($0.57)
+APR: Day 6.29% Week 44.00% Year 2288.14%
+You are staking 0.00 [fUSDT]-[TRITON] Galaxy LP ($0.00), 0.00% of the pool.
+Stake 0.00 [fUSDT]-[TRITON] Galaxy LP
+Unstake 0.00 [fUSDT]-[TRITON] Galaxy LP
+Claim 0.00 TRITON ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [DAI]-[TRITON] Galaxy LP [+] [-] [<=>] Price: $0.01 TVL: $30.50
+DAI Price: $1.02
+TRITON Price: $0.0000384445
+Staked: 0.0000 Galaxy-LP ($0.00)
+TRITON Per Week: 14845.09 ($0.57)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [DAI]-[TRITON] Galaxy LP ($0.00), NaN% of the pool.
+Stake 0.00 [DAI]-[TRITON] Galaxy LP
+Unstake 0.00 [DAI]-[TRITON] Galaxy LP
+Claim 0.00 TRITON ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDC]-[fUSDT] Galaxy LP [+] [-] [<=>] Price: $2,013,135,277,977.21 TVL: $14.71
+USDC Price: $1.00
+fUSDT Price: $1.00
+Staked: 0.0000 Galaxy-LP ($14.70)
+TRITON Per Week: 5498.18 ($0.21)
+APR: Day 0.21% Week 1.44% Year 74.75%
+You are staking 0.00 [USDC]-[fUSDT] Galaxy LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[fUSDT] Galaxy LP - Fee 4%
+Unstake 0.00 [USDC]-[fUSDT] Galaxy LP
+Claim 0.00 TRITON ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [fUSDT]-[DAI] Galaxy LP [+] [-] [<=>] Price: $2,022,678.80 TVL: $0.03
+fUSDT Price: $1.00
+DAI Price: $1.02
+Staked: 0.0000 Galaxy-LP ($0.03)
+TRITON Per Week: 5498.18 ($0.21)
+APR: Day 104.38% Week 730.68% Year 37995.37%
+You are staking 0.00 [fUSDT]-[DAI] Galaxy LP ($0.00), 0.00% of the pool.
+Stake 0.00 [fUSDT]-[DAI] Galaxy LP - Fee 4%
+Unstake 0.00 [fUSDT]-[DAI] Galaxy LP
+Claim 0.00 TRITON ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [USDC]-[DAI] Galaxy LP [+] [-] [<=>] Price: $2,028,515.39 TVL: $314.98
+USDC Price: $1.00
+DAI Price: $1.02
+Staked: 0.0002 Galaxy-LP ($314.97)
+TRITON Per Week: 5498.18 ($0.21)
+APR: Day 0.01% Week 0.07% Year 3.49%
+You are staking 0.00 [USDC]-[DAI] Galaxy LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAI] Galaxy LP - Fee 4%
+Unstake 0.00 [USDC]-[DAI] Galaxy LP
+Claim 0.00 TRITON ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $331.00

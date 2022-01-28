@@ -6,193 +6,31 @@ INFO  : https://nemofinance.top
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Thu Dec 16 2021 05:33:01 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 23:39:28 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
-Found 17 pools.
-Showing incentivized pools only.
-Finished reading smart contracts.
-0 - [USDC]-[NEMO] Uni LP [+] [-] [<=>] Price: $34,861.61 TVL: $0.01
-USDC Price: $1.00
-NEMO Price: $0.000294
-Staked: 0.0000 UNI-V2 ($0.01)
-NEMO Per Week: 109.37 ($0.03)
-APR: Day 40.67% Week 284.68% Year 14803.47%
-You are staking 0.00 [USDC]-[NEMO] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[NEMO] Uni LP
-Unstake 0.00 [USDC]-[NEMO] Uni LP
-Claim 0.00 NEMO ($0.00)
-Staking or unstaking also claims rewards.
-
-1 - [WMATIC]-[NEMO] Uni LP [+] [-] [<=>] Price: $0.05 TVL: $0.03
-WMATIC Price: $2.14
-NEMO Price: $0.000294
-Staked: 0.5239 UNI-V2 ($0.03)
-NEMO Per Week: 109.37 ($0.03)
-APR: Day 17.12% Week 119.83% Year 6231.21%
-You are staking 0.00 [WMATIC]-[NEMO] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[NEMO] Uni LP
-Unstake 0.00 [WMATIC]-[NEMO] Uni LP
-Claim 0.00 NEMO ($0.00)
-Staking or unstaking also claims rewards.
-
-2 - [WETH]-[NEMO] Uni LP [+] [-] [<=>] Price: $2.20 TVL: $0.04
-WETH Price: $4,039.20
-NEMO Price: $0.000294
-Staked: 0.0083 UNI-V2 ($0.02)
-NEMO Per Week: 109.37 ($0.03)
-APR: Day 25.16% Week 176.11% Year 9157.82%
-You are staking 0.00 [WETH]-[NEMO] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WETH]-[NEMO] Uni LP
-Unstake 0.00 [WETH]-[NEMO] Uni LP
-Claim 0.00 NEMO ($0.00)
-Staking or unstaking also claims rewards.
-
-3 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,859,085.00 TVL: $52,195,572.05
-WMATIC Price: $2.14
-USDC Price: $1.00
-Staked: 0.0000 UNI-V2 ($0.01)
-NEMO Per Week: 32.81 ($0.01)
-APR: Day 9.61% Week 67.30% Year 3499.45%
-You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
-Unstake 0.00 [WMATIC]-[USDC] Uni LP
-Claim 0.00 NEMO ($0.00)
-Staking or unstaking also claims rewards.
-
-4 - [USDC]-[WETH] Uni LP [+] [-] [<=>] Price: $188,008,414.73 TVL: $79,035,778.62
-USDC Price: $1.00
-WETH Price: $4,039.20
-Staked: 0.0000 UNI-V2 ($0.01)
-NEMO Per Week: 32.81 ($0.01)
-APR: Day 12.75% Week 89.24% Year 4640.35%
-You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
-Unstake 0.00 [USDC]-[WETH] Uni LP
-Claim 0.00 NEMO ($0.00)
-Staking or unstaking also claims rewards.
-
-5 - NEMO Price: $0.000294 Market Cap: $0.84 [%]
-Staked: 1735.2401 NEMO ($0.51)
-NEMO Per Week: 109.37 ($0.03)
-APR: Day 0.90% Week 6.30% Year 327.74%
-You are staking 0.00 NEMO ($0.00), 0.00% of the pool.
-Stake 0.00 NEMO
-Unstake 0.00 NEMO
-Claim 0.00 NEMO ($0.00)
-Staking or unstaking also claims rewards.
-
-6 - WMATIC Price: $2.14 Market Cap: $651,494,170.19 [%]
-Staked: 0.9600 WMATIC ($2.05)
-NEMO Per Week: 32.81 ($0.01)
-APR: Day 0.07% Week 0.47% Year 24.42%
-You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
-Stake 0.00 WMATIC - Fee 4%
-Unstake 0.00 WMATIC
-Claim 0.00 NEMO ($0.00)
-Staking or unstaking also claims rewards.
-
-7 - PolyDoge Price: $0.0000000241 Market Cap: $24,063,000.00 [%]
-Staked: 17180011.1554 PolyDoge ($0.41)
-NEMO Per Week: 32.81 ($0.01)
-APR: Day 0.33% Week 2.33% Year 121.34%
-You are staking 0.00 PolyDoge ($0.00), 0.00% of the pool.
-Stake 0.00 PolyDoge - Fee 4%
-Unstake 0.00 PolyDoge
-Claim 0.00 NEMO ($0.00)
-Staking or unstaking also claims rewards.
-
-8 - WETH Price: $4,039.20 Market Cap: $1,792,784,154.80 [%]
-Staked: 0.0000 WETH ($0.04)
-NEMO Per Week: 32.81 ($0.01)
-APR: Day 3.55% Week 24.88% Year 1293.68%
-You are staking 0.00 WETH ($0.00), 0.00% of the pool.
-Stake 0.00 WETH - Fee 4%
-Unstake 0.00 WETH
-Claim 0.00 NEMO ($0.00)
-Staking or unstaking also claims rewards.
-
-9 - WBTC Price: $49,019.00 Market Cap: $497,242,931.33 [%]
-Staked: 0.0000 WBTC ($0.10)
-NEMO Per Week: 32.81 ($0.01)
-APR: Day 1.38% Week 9.65% Year 501.65%
-You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
-Stake 0.00 WBTC - Fee 4%
-Unstake 0.00 WBTC
-Claim 0.00 NEMO ($0.00)
-Staking or unstaking also claims rewards.
-
-10 - AAVE Price: $175.60 Market Cap: $47,801,719.36 [%]
-Staked: 0.0011 AAVE ($0.20)
-NEMO Per Week: 32.81 ($0.01)
-APR: Day 0.70% Week 4.92% Year 255.79%
-You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
-Stake 0.00 AAVE - Fee 4%
-Unstake 0.00 AAVE
-Claim 0.00 NEMO ($0.00)
-Staking or unstaking also claims rewards.
-
-11 - QUICK Price: $251.57 Market Cap: $240,384,596.21 [%]
-Staked: 0.0001 QUICK ($0.02)
-NEMO Per Week: 32.81 ($0.01)
-APR: Day 8.65% Week 60.52% Year 3147.17%
-You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
-Stake 0.00 QUICK - Fee 4%
-Unstake 0.00 QUICK
-Claim 0.00 NEMO ($0.00)
-Staking or unstaking also claims rewards.
-
-12 - FISH Price: $0.00 Market Cap: $0.00 
-Staked: 0.0333 FISH ($0.00)
-NEMO Per Week: 32.81 ($0.01)
-APR: Day NaN% Week NaN% Year NaN%
-You are staking 0.00 FISH ($0.00), NaN% of the pool.
-Stake 0.00 FISH - Fee 4%
-Unstake 0.00 FISH
-Claim 0.00 NEMO ($0.00)
-Staking or unstaking also claims rewards.
-
-13 - LINK Price: $19.95 Market Cap: $34,601,343.85 [%]
-Staked: 0.0285 LINK ($0.57)
-NEMO Per Week: 32.81 ($0.01)
-APR: Day 0.24% Week 1.70% Year 88.17%
-You are staking 0.00 LINK ($0.00), 0.00% of the pool.
-Stake 0.00 LINK - Fee 4%
-Unstake 0.00 LINK
-Claim 0.00 NEMO ($0.00)
-Staking or unstaking also claims rewards.
-
-14 - USDC Price: $1.00 Market Cap: $943,599,926.25 [%]
-Staked: 0.0288 USDC ($0.03)
-NEMO Per Week: 32.81 ($0.01)
-APR: Day 4.79% Week 33.50% Year 1741.81%
-You are staking 0.00 USDC ($0.00), 0.00% of the pool.
-Stake 0.00 USDC - Fee 4%
-Unstake 0.00 USDC
-Claim 0.00 NEMO ($0.00)
-Staking or unstaking also claims rewards.
-
-15 - DAI Price: $1.00 Market Cap: $374,130,623.83 [%]
-Staked: 0.0488 DAI ($0.05)
-NEMO Per Week: 32.81 ($0.01)
-APR: Day 2.82% Week 19.77% Year 1027.81%
-You are staking 0.00 DAI ($0.00), 0.00% of the pool.
-Stake 0.00 DAI - Fee 4%
-Unstake 0.00 DAI
-Claim 0.00 NEMO ($0.00)
-Staking or unstaking also claims rewards.
-
-16 - USDT Price: $1.00 Market Cap: $313,326,962.51 [%]
-Staked: 0.1644 USDT ($0.16)
-NEMO Per Week: 32.81 ($0.01)
-APR: Day 0.84% Week 5.87% Year 305.19%
-You are staking 0.00 USDT ($0.00), 0.00% of the pool.
-Stake 0.00 USDT - Fee 4%
-Unstake 0.00 USDT
-Claim 0.00 NEMO ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $4.22
+{
+  "code": -32603,
+  "message": "JsonRpcEngine: Response has no error or result for request:\n{\n  \"method\": \"eth_call\",\n  \"params\": [\n    {\n      \"to\": \"0xd5ad28c5690330f56f5be131d0206ab76e02f6e6\",\n      \"data\": \"0x17caf6f1\"\n    },\n    \"0x171db64\"\n  ],\n  \"jsonrpc\": \"2.0\",\n  \"id\": 588486107,\n  \"origin\": \"https://vfat.tools\",\n  \"tabId\": 2\n}",
+  "data": {
+    "request": {
+      "method": "eth_call",
+      "params": [
+        {
+          "to": "0xd5ad28c5690330f56f5be131d0206ab76e02f6e6",
+          "data": "0x17caf6f1"
+        },
+        "0x171db64"
+      ],
+      "jsonrpc": "2.0",
+      "id": 588486107,
+      "origin": "https://vfat.tools",
+      "tabId": 2
+    }
+  },
+  "stack": "{\n  \"code\": -32603,\n  \"message\": \"JsonRpcEngine: Response has no error or result for request:\\n{\\n  \\\"method\\\": \\\"eth_call\\\",\\n  \\\"params\\\": [\\n    {\\n      \\\"to\\\": \\\"0xd5ad28c5690330f56f5be131d0206ab76e02f6e6\\\",\\n      \\\"data\\\": \\\"0x17caf6f1\\\"\\n    },\\n    \\\"0x171db64\\\"\\n  ],\\n  \\\"jsonrpc\\\": \\\"2.0\\\",\\n  \\\"id\\\": 588486107,\\n  \\\"origin\\\": \\\"https://vfat.tools\\\",\\n  \\\"tabId\\\": 2\\n}\",\n  \"data\": {\n    \"request\": {\n      \"method\": \"eth_call\",\n      \"params\": [\n        {\n          \"to\": \"0xd5ad28c5690330f56f5be131d0206ab76e02f6e6\",\n          \"data\": \"0x17caf6f1\"\n        },\n        \"0x171db64\"\n      ],\n      \"jsonrpc\": \"2.0\",\n      \"id\": 588486107,\n      \"origin\": \"https://vfat.tools\",\n      \"tabId\": 2\n    }\n  },\n  \"stack\": \"Error: JsonRpcEngine: Response has no error or result for request:\\n{\\n  \\\"method\\\": \\\"eth_call\\\",\\n  \\\"params\\\": [\\n    {\\n      \\\"to\\\": \\\"0xd5ad28c5690330f56f5be131d0206ab76e02f6e6\\\",\\n      \\\"data\\\": \\\"0x17caf6f1\\\"\\n    },\\n    \\\"0x171db64\\\"\\n  ],\\n  \\\"jsonrpc\\\": \\\"2.0\\\",\\n  \\\"id\\\": 588486107,\\n  \\\"origin\\\": \\\"https://vfat.tools\\\",\\n  \\\"tabId\\\": 2\\n}\\n    at new o (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/common-1.js:16:24204)\\n    at Function._checkForCompletion (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:305269)\\n    at a._processRequest (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304461)\\n    at async a._handle (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304249)\"\n}\n  at new o (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/common-1.js:16:24204)\n  at Function._checkForCompletion (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:305269)\n  at a._processRequest (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304461)\n  at async a._handle (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304249)"
+}
+Oops something went wrong. Try refreshing the page.

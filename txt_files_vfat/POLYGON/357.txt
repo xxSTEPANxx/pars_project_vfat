@@ -6,193 +6,20 @@ INFO  : https://girinfinance.pro
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Thu Dec 16 2021 05:51:44 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 23:47:50 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
+Staking Contract
 Found 17 pools.
 Showing incentivized pools only.
-Finished reading smart contracts.
-0 - [USDC]-[GIRIN] Uni LP [+] [-] [<=>] Price: $19,868.77 TVL: $0.08
-USDC Price: $1.00
-GIRIN Price: $0.0000928028
-Staked: 0.0000 UNI-V2 ($0.08)
-GIRIN Per Week: 314.18 ($0.03)
-APR: Day 5.36% Week 37.49% Year 1949.60%
-You are staking 0.00 [USDC]-[GIRIN] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[GIRIN] Uni LP
-Unstake 0.00 [USDC]-[GIRIN] Uni LP
-Claim 0.00 GIRIN ($0.00)
-Staking or unstaking also claims rewards.
-
-1 - [WMATIC]-[GIRIN] Uni LP [+] [-] [<=>] Price: $0.03 TVL: $0.05
-WMATIC Price: $2.15
-GIRIN Price: $0.0000928028
-Staked: 1.5483 UNI-V2 ($0.05)
-GIRIN Per Week: 314.18 ($0.03)
-APR: Day 9.21% Week 64.44% Year 3350.92%
-You are staking 0.00 [WMATIC]-[GIRIN] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[GIRIN] Uni LP
-Unstake 0.00 [WMATIC]-[GIRIN] Uni LP
-Claim 0.00 GIRIN ($0.00)
-Staking or unstaking also claims rewards.
-
-2 - [GIRIN]-[WETH] Uni LP [+] [-] [<=>] Price: $1.25 TVL: $0.02
-GIRIN Price: $0.0000928028
-WETH Price: $4,037.95
-Staked: 0.0161 UNI-V2 ($0.02)
-GIRIN Per Week: 314.18 ($0.03)
-APR: Day 20.72% Week 145.05% Year 7542.64%
-You are staking 0.00 [GIRIN]-[WETH] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [GIRIN]-[WETH] Uni LP
-Unstake 0.00 [GIRIN]-[WETH] Uni LP
-Claim 0.00 GIRIN ($0.00)
-Staking or unstaking also claims rewards.
-
-3 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,872,787.43 TVL: $52,318,332.77
-WMATIC Price: $2.15
-USDC Price: $1.00
-Staked: 0.0000 UNI-V2 ($0.16)
-GIRIN Per Week: 94.25 ($0.01)
-APR: Day 0.79% Week 5.55% Year 288.63%
-You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
-Unstake 0.00 [WMATIC]-[USDC] Uni LP
-Claim 0.00 GIRIN ($0.00)
-Staking or unstaking also claims rewards.
-
-4 - [USDC]-[WETH] Uni LP [+] [-] [<=>] Price: $187,979,511.60 TVL: $79,023,669.53
-USDC Price: $1.00
-WETH Price: $4,037.95
-Staked: 0.0000 UNI-V2 ($0.00)
-GIRIN Per Week: 94.25 ($0.01)
-APR: Day 66474435.56% Week 465321048.93% Year 24196694544.36%
-You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
-Unstake 0.00 [USDC]-[WETH] Uni LP
-Claim 0.00 GIRIN ($0.00)
-Staking or unstaking also claims rewards.
-
-5 - GIRIN Price: $0.0000928028 Market Cap: $0.36 [%]
-Staked: 2327.4108 GIRIN ($0.22)
-GIRIN Per Week: 251.35 ($0.02)
-APR: Day 1.54% Week 10.80% Year 561.57%
-You are staking 0.00 GIRIN ($0.00), 0.00% of the pool.
-Stake 0.00 GIRIN
-Unstake 0.00 GIRIN
-Claim 0.00 GIRIN ($0.00)
-Staking or unstaking also claims rewards.
-
-6 - WMATIC Price: $2.15 Market Cap: $654,547,663.80 [%]
-Staked: 4.8000 WMATIC ($10.32)
-GIRIN Per Week: 62.84 ($0.01)
-APR: Day 0.01% Week 0.06% Year 2.94%
-You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
-Stake 0.00 WMATIC - Fee 4%
-Unstake 0.00 WMATIC
-Claim 0.00 GIRIN ($0.00)
-Staking or unstaking also claims rewards.
-
-7 - WETH Price: $4,037.95 Market Cap: $1,792,253,465.36 [%]
-Staked: 0.0000 WETH ($0.00)
-GIRIN Per Week: 62.84 ($0.01)
-APR: Day 2063065.32% Week 14441457.26% Year 750955777.54%
-You are staking 0.00 WETH ($0.00), 0.00% of the pool.
-Stake 0.00 WETH - Fee 4%
-Unstake 0.00 WETH
-Claim 0.00 GIRIN ($0.00)
-Staking or unstaking also claims rewards.
-
-8 - USDC Price: $1.00 Market Cap: $943,395,526.17 [%]
-Staked: 0.0000 USDC ($0.00)
-GIRIN Per Week: 62.84 ($0.01)
-APR: Day Infinity% Week Infinity% Year Infinity%
-You are staking 0.00 USDC ($0.00), NaN% of the pool.
-Stake 0.00 USDC - Fee 4%
-Unstake 0.00 USDC
-Claim 0.00 GIRIN ($0.00)
-Staking or unstaking also claims rewards.
-
-9 - DAI Price: $1.00 Market Cap: $374,131,149.78 [%]
-Staked: 0.0000 DAI ($0.00)
-GIRIN Per Week: 62.84 ($0.01)
-APR: Day 8626.47% Week 60385.30% Year 3140035.64%
-You are staking 0.00 DAI ($0.00), 0.00% of the pool.
-Stake 0.00 DAI - Fee 4%
-Unstake 0.00 DAI
-Claim 0.00 GIRIN ($0.00)
-Staking or unstaking also claims rewards.
-
-10 - USDT Price: $1.00 Market Cap: $313,461,279.68 [%]
-Staked: 0.9202 USDT ($0.92)
-GIRIN Per Week: 62.84 ($0.01)
-APR: Day 0.09% Week 0.63% Year 32.95%
-You are staking 0.00 USDT ($0.00), 0.00% of the pool.
-Stake 0.00 USDT - Fee 4%
-Unstake 0.00 USDT
-Claim 0.00 GIRIN ($0.00)
-Staking or unstaking also claims rewards.
-
-11 - LINK Price: $19.96 Market Cap: $34,618,687.89 [%]
-Staked: 0.0140 LINK ($0.28)
-GIRIN Per Week: 62.84 ($0.01)
-APR: Day 0.30% Week 2.09% Year 108.52%
-You are staking 0.00 LINK ($0.00), 0.00% of the pool.
-Stake 0.00 LINK - Fee 4%
-Unstake 0.00 LINK
-Claim 0.00 GIRIN ($0.00)
-Staking or unstaking also claims rewards.
-
-12 - FISH Price: $0.00 Market Cap: $0.00 
-Staked: 0.0006 FISH ($0.00)
-GIRIN Per Week: 62.84 ($0.01)
-APR: Day NaN% Week NaN% Year NaN%
-You are staking 0.00 FISH ($0.00), NaN% of the pool.
-Stake 0.00 FISH - Fee 4%
-Unstake 0.00 FISH
-Claim 0.00 GIRIN ($0.00)
-Staking or unstaking also claims rewards.
-
-13 - QUICK Price: $251.12 Market Cap: $239,952,211.27 [%]
-Staked: 0.0000 QUICK ($0.00)
-GIRIN Per Week: 62.84 ($0.01)
-APR: Day 59.24% Week 414.67% Year 21562.84%
-You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
-Stake 0.00 QUICK - Fee 4%
-Unstake 0.00 QUICK
-Claim 0.00 GIRIN ($0.00)
-Staking or unstaking also claims rewards.
-
-14 - PolyDoge Price: $0.0000000241 Market Cap: $24,075,000.00 [%]
-Staked: 10111161.5143 PolyDoge ($0.24)
-GIRIN Per Week: 62.84 ($0.01)
-APR: Day 0.34% Week 2.40% Year 124.57%
-You are staking 0.00 PolyDoge ($0.00), 0.00% of the pool.
-Stake 0.00 PolyDoge - Fee 4%
-Unstake 0.00 PolyDoge
-Claim 0.00 GIRIN ($0.00)
-Staking or unstaking also claims rewards.
-
-15 - AAVE Price: $175.89 Market Cap: $47,880,662.98 [%]
-Staked: 0.0000 AAVE ($0.00)
-GIRIN Per Week: 62.84 ($0.01)
-APR: Day 78.94% Week 552.56% Year 28733.13%
-You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
-Stake 0.00 AAVE - Fee 4%
-Unstake 0.00 AAVE
-Claim 0.00 GIRIN ($0.00)
-Staking or unstaking also claims rewards.
-
-16 - WBTC Price: $49,044.00 Market Cap: $497,496,528.37 [%]
-Staked: 0.0000 WBTC ($0.00)
-GIRIN Per Week: 62.84 ($0.01)
-APR: Day 21.23% Week 148.63% Year 7728.58%
-You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
-Stake 0.00 WBTC - Fee 4%
-Unstake 0.00 WBTC
-Claim 0.00 GIRIN ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $12.29
+{
+  "code": -32603,
+  "message": "Non-200 status code: '400'",
+  "data": {
+    "error": "Unable to verify your data submission."
+  }
+}
+Oops something went wrong. Try refreshing the page.

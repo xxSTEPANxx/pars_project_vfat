@@ -1,0 +1,599 @@
+*************** 👨‍🌾 UNOFFICIAL ELIXIR-SWAP FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://www.elixir-swap.io
+********************************************************************************
+
+Thu Jan 27 2022 20:55:49 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 54 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [ELXR]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.05 TVL: $1,529.24
+ELXR Price: $0.000606
+BUSD Price: $1.00
+Staked: 28958.0140 Cake-LP ($1,527.27)
+ELXR Per Week: 18552.15 ($11.25)
+APR: Day 0.11% Week 0.74% Year 38.30%
+You are staking 0.00 [ELXR]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ELXR]-[BUSD] Cake LP
+Unstake 0.00 [ELXR]-[BUSD] Cake LP
+Claim 0.00 ELXR ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WBNB]-[ELXR] Cake LP [+] [-] [<=>] Price: $1.04 TVL: $1,194.10
+WBNB Price: $369.16
+ELXR Price: $0.000606
+Staked: 1089.9268 Cake-LP ($1,129.50)
+ELXR Per Week: 22262.58 ($13.50)
+APR: Day 0.17% Week 1.19% Year 62.14%
+You are staking 0.00 [WBNB]-[ELXR] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[ELXR] Cake LP
+Unstake 0.00 [WBNB]-[ELXR] Cake LP
+Claim 0.00 ELXR ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.50 TVL: $346,522,600.34
+WBNB Price: $369.16
+BUSD Price: $1.00
+Staked: 9.2609 Cake-LP ($439.85)
+ELXR Per Week: 2226.26 ($1.35)
+APR: Day 0.04% Week 0.31% Year 15.96%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 ELXR ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $296,784,908.68
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 94.5373 Cake-LP ($197.85)
+ELXR Per Week: 2226.26 ($1.35)
+APR: Day 0.10% Week 0.68% Year 35.47%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 ELXR ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,045.62 TVL: $74,526,522.57
+ETH Price: $2,454.15
+WBNB Price: $369.16
+Staked: 0.0801 Cake-LP ($163.85)
+ELXR Per Week: 2226.26 ($1.35)
+APR: Day 0.12% Week 0.82% Year 42.83%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 ELXR ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WBNB]-[pBTC] Cake LP [+] [-] [<=>] Price: $9,967.80 TVL: $29,309.63
+WBNB Price: $369.16
+pBTC Price: $36,338.00
+Staked: 0.0535 Cake-LP ($533.09)
+ELXR Per Week: 2226.26 ($1.35)
+APR: Day 0.04% Week 0.25% Year 13.17%
+You are staking 0.00 [WBNB]-[pBTC] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[pBTC] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[pBTC] Cake LP
+Claim 0.00 ELXR ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $105.74 TVL: $201,394,946.90
+Cake Price: $7.02
+WBNB Price: $369.16
+Staked: 0.9607 Cake-LP ($101.59)
+ELXR Per Week: 2226.26 ($1.35)
+APR: Day 0.19% Week 1.33% Year 69.09%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 ELXR ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - ELXR Price: $0.000606 Market Cap: $3,598.17 [%]
+Staked: 2473429.1077 ELXR ($1,499.58)
+ELXR Per Week: 7420.86 ($4.50)
+APR: Day 0.04% Week 0.30% Year 15.60%
+You are staking 0.00 ELXR ($0.00), 0.00% of the pool.
+Stake 0.00 ELXR
+Unstake 0.00 ELXR
+Claim 0.00 ELXR ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - BUSD Price: $1.00 Market Cap: $4,848,277,977.97 [%]
+Staked: 735.0267 BUSD ($734.61)
+ELXR Per Week: 2226.26 ($1.35)
+APR: Day 0.03% Week 0.18% Year 9.55%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 ELXR ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - WBNB Price: $369.16 Market Cap: $1,927,317,640.14 [%]
+Staked: 0.1884 WBNB ($69.55)
+ELXR Per Week: 2226.26 ($1.35)
+APR: Day 0.28% Week 1.94% Year 100.91%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 ELXR ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - USDT Price: $1.00 Market Cap: $3,869,618,927.74 [%]
+Staked: 90.0378 USDT ($89.80)
+ELXR Per Week: 2226.26 ($1.35)
+APR: Day 0.21% Week 1.50% Year 78.16%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 ELXR ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - BTCB Price: $36,289.00 Market Cap: $4,082,548,789.00 [%]
+Staked: 0.0044 BTCB ($160.16)
+ELXR Per Week: 1113.13 ($0.67)
+APR: Day 0.06% Week 0.42% Year 21.91%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 ELXR ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - ETH Price: $2,454.15 Market Cap: $3,448,080,750.00 [%]
+Staked: 0.1165 ETH ($285.85)
+ELXR Per Week: 1113.13 ($0.67)
+APR: Day 0.03% Week 0.24% Year 12.28%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 ELXR ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - Cake Price: $7.02 Market Cap: $4,316,996,431.44 [%]
+Staked: 4.0432 Cake ($28.38)
+ELXR Per Week: 742.09 ($0.45)
+APR: Day 0.23% Week 1.59% Year 82.43%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 ELXR ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - DAI Price: $1.00 Market Cap: $262,000,000.00 [%]
+Staked: 43.2110 DAI ($43.21)
+ELXR Per Week: 742.09 ($0.45)
+APR: Day 0.15% Week 1.04% Year 54.14%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 ELXR ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - USDC Price: $1.00 Market Cap: $1,779,000,000.00 [%]
+Staked: 55.1039 USDC ($55.10)
+ELXR Per Week: 742.09 ($0.45)
+APR: Day 0.12% Week 0.82% Year 42.46%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 ELXR ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - DOT Price: $18.00 Market Cap: $287,999,999.84 [%]
+Staked: 9.6000 DOT ($172.80)
+ELXR Per Week: 742.09 ($0.45)
+APR: Day 0.04% Week 0.26% Year 13.54%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 ELXR ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - AUTO Price: $405.91 Market Cap: $32,731,847.43 [%]
+Staked: 0.1370 AUTO ($55.61)
+ELXR Per Week: 742.09 ($0.45)
+APR: Day 0.12% Week 0.81% Year 42.07%
+You are staking 0.00 AUTO ($0.00), 0.00% of the pool.
+Stake 0.00 AUTO - Fee 4%
+Unstake 0.00 AUTO
+Claim 0.00 ELXR ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - TRADE Price: $0.00 Market Cap: $0.00 
+Staked: 744.3998 TRADE ($0.00)
+ELXR Per Week: 742.09 ($0.45)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 TRADE ($0.00), NaN% of the pool.
+Stake 0.00 TRADE - Fee 4%
+Unstake 0.00 TRADE
+Claim 0.00 ELXR ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - BIFI Price: $1,745.13 Market Cap: $139,610,400.00 [%]
+Staked: 0.0313 BIFI ($54.67)
+ELXR Per Week: 742.09 ($0.45)
+APR: Day 0.12% Week 0.82% Year 42.80%
+You are staking 0.00 BIFI ($0.00), 0.00% of the pool.
+Stake 0.00 BIFI - Fee 4%
+Unstake 0.00 BIFI
+Claim 0.00 ELXR ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $7,754.25 TVL: $68,804,761.04
+BTCB Price: $36,289.00
+WBNB Price: $369.16
+Staked: 0.0394 Cake-LP ($305.56)
+ELXR Per Week: 2226.26 ($1.35)
+APR: Day 0.06% Week 0.44% Year 22.97%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 ELXR ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - [SURF]-[WBNB] Cake LP [+] [-] [<=>] Price: $16.60 TVL: $2,874.69
+SURF Price: $0.18
+WBNB Price: $369.16
+Staked: 13.1132 Cake-LP ($217.69)
+ELXR Per Week: 1484.17 ($0.90)
+APR: Day 0.06% Week 0.41% Year 21.49%
+You are staking 0.00 [SURF]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SURF]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [SURF]-[WBNB] Cake LP
+Claim 0.00 ELXR ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - [τBTC]-[BTCB] Cake LP [+] [-] [<=>] Price: $861,277,247.66 TVL: $679,552.76
+τBTC Price: $5,010.24
+BTCB Price: $36,289.00
+Staked: 0.0000 Cake-LP ($99.68)
+ELXR Per Week: 1484.17 ($0.90)
+APR: Day 0.13% Week 0.90% Year 46.94%
+You are staking 0.00 [τBTC]-[BTCB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [τBTC]-[BTCB] Cake LP - Fee 4%
+Unstake 0.00 [τBTC]-[BTCB] Cake LP
+Claim 0.00 ELXR ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [UST]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.16 TVL: $16,431,087.97
+UST Price: $1.00
+BUSD Price: $1.00
+Staked: 1902.8173 Cake-LP ($4,107.09)
+ELXR Per Week: 1484.17 ($0.90)
+APR: Day 0.00% Week 0.02% Year 1.14%
+You are staking 0.00 [UST]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UST]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [UST]-[BUSD] Cake LP
+Claim 0.00 ELXR ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - [UST]-[mAMZN] Cake LP [+] [-] [<=>] Price: $108.91 TVL: $4,096.70
+UST Price: $1.00
+mAMZN Price: $2,869.80
+Staked: 1.1622 Cake-LP ($126.58)
+ELXR Per Week: 1484.17 ($0.90)
+APR: Day 0.10% Week 0.71% Year 36.97%
+You are staking 0.00 [UST]-[mAMZN] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UST]-[mAMZN] Cake LP - Fee 4%
+Unstake 0.00 [UST]-[mAMZN] Cake LP
+Claim 0.00 ELXR ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - [UST]-[mGOOGL] Cake LP [+] [-] [<=>] Price: $106.66 TVL: $6,364.63
+UST Price: $1.00
+mGOOGL Price: $2,731.60
+Staked: 0.5429 Cake-LP ($57.90)
+ELXR Per Week: 1484.17 ($0.90)
+APR: Day 0.22% Week 1.55% Year 80.81%
+You are staking 0.00 [UST]-[mGOOGL] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UST]-[mGOOGL] Cake LP - Fee 4%
+Unstake 0.00 [UST]-[mGOOGL] Cake LP
+Claim 0.00 ELXR ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - [UST]-[mNFLX] Cake LP [+] [-] [<=>] Price: $40.22 TVL: $18,521.82
+UST Price: $1.00
+mNFLX Price: $394.60
+Staked: 3.0576 Cake-LP ($122.98)
+ELXR Per Week: 1484.17 ($0.90)
+APR: Day 0.10% Week 0.73% Year 38.05%
+You are staking 0.00 [UST]-[mNFLX] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UST]-[mNFLX] Cake LP - Fee 4%
+Unstake 0.00 [UST]-[mNFLX] Cake LP
+Claim 0.00 ELXR ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - [UST]-[mTSLA] Cake LP [+] [-] [<=>] Price: $63.41 TVL: $30,652.58
+UST Price: $1.00
+mTSLA Price: $957.38
+Staked: 0.7904 Cake-LP ($50.12)
+ELXR Per Week: 1484.17 ($0.90)
+APR: Day 0.26% Week 1.80% Year 93.37%
+You are staking 0.00 [UST]-[mTSLA] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UST]-[mTSLA] Cake LP - Fee 4%
+Unstake 0.00 [UST]-[mTSLA] Cake LP
+Claim 0.00 ELXR ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - SURF Price: $0.18 Market Cap: $6,512.71 [%]
+Staked: 136.7035 SURF ($25.04)
+ELXR Per Week: 742.09 ($0.45)
+APR: Day 0.26% Week 1.80% Year 93.43%
+You are staking 0.00 SURF ($0.00), 0.00% of the pool.
+Stake 0.00 SURF - Fee 4%
+Unstake 0.00 SURF
+Claim 0.00 ELXR ($0.00)
+Staking or unstaking also claims rewards.
+
+29 - τBTC Price: $5,010.24 Market Cap: $8,787,561.79 [%]
+Staked: 0.0071 τBTC ($35.41)
+ELXR Per Week: 742.09 ($0.45)
+APR: Day 0.18% Week 1.27% Year 66.06%
+You are staking 0.00 τBTC ($0.00), 0.00% of the pool.
+Stake 0.00 τBTC - Fee 4%
+Unstake 0.00 τBTC
+Claim 0.00 ELXR ($0.00)
+Staking or unstaking also claims rewards.
+
+30 - UST Price: $1.00 Market Cap: $23,062,709.60 [%]
+Staked: 84.2592 UST ($84.26)
+ELXR Per Week: 742.09 ($0.45)
+APR: Day 0.08% Week 0.53% Year 27.77%
+You are staking 0.00 UST ($0.00), 0.00% of the pool.
+Stake 0.00 UST - Fee 4%
+Unstake 0.00 UST
+Claim 0.00 ELXR ($0.00)
+Staking or unstaking also claims rewards.
+
+31 - mAMZN Price: $2,869.80 Market Cap: $45,695.95 [%]
+Staked: 0.0332 mAMZN ($95.26)
+ELXR Per Week: 742.09 ($0.45)
+APR: Day 0.07% Week 0.47% Year 24.56%
+You are staking 0.00 mAMZN ($0.00), 0.00% of the pool.
+Stake 0.00 mAMZN - Fee 4%
+Unstake 0.00 mAMZN
+Claim 0.00 ELXR ($0.00)
+Staking or unstaking also claims rewards.
+
+32 - mGOOGL Price: $2,731.60 Market Cap: $92,624.33 [%]
+Staked: 0.1211 mGOOGL ($330.73)
+ELXR Per Week: 742.09 ($0.45)
+APR: Day 0.02% Week 0.14% Year 7.07%
+You are staking 0.00 mGOOGL ($0.00), 0.00% of the pool.
+Stake 0.00 mGOOGL - Fee 4%
+Unstake 0.00 mGOOGL
+Claim 0.00 ELXR ($0.00)
+Staking or unstaking also claims rewards.
+
+33 - mNFLX Price: $394.60 Market Cap: $37,818.11 [%]
+Staked: 0.0365 mNFLX ($14.40)
+ELXR Per Week: 742.09 ($0.45)
+APR: Day 0.45% Week 3.12% Year 162.43%
+You are staking 0.00 mNFLX ($0.00), 0.00% of the pool.
+Stake 0.00 mNFLX - Fee 4%
+Unstake 0.00 mNFLX
+Claim 0.00 ELXR ($0.00)
+Staking or unstaking also claims rewards.
+
+34 - mTSLA Price: $957.38 Market Cap: $217,918.20 [%]
+Staked: 0.0567 mTSLA ($54.24)
+ELXR Per Week: 742.09 ($0.45)
+APR: Day 0.12% Week 0.83% Year 43.13%
+You are staking 0.00 mTSLA ($0.00), 0.00% of the pool.
+Stake 0.00 mTSLA - Fee 4%
+Unstake 0.00 mTSLA
+Claim 0.00 ELXR ($0.00)
+Staking or unstaking also claims rewards.
+
+36 - [NUTS]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.87 TVL: $17,965.66
+NUTS Price: $0.18
+BUSD Price: $1.00
+Staked: 212.2273 Cake-LP ($185.38)
+ELXR Per Week: 1484.17 ($0.90)
+APR: Day 0.07% Week 0.49% Year 25.24%
+You are staking 0.00 [NUTS]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [NUTS]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [NUTS]-[BUSD] Cake LP
+Claim 0.00 ELXR ($0.00)
+Staking or unstaking also claims rewards.
+
+37 - [TRADE]-[WBNB] Cake LP [+] [-] [<=>] Price: $10.81 TVL: $37,221.77
+TRADE Price: $0.08
+WBNB Price: $369.16
+Staked: 13.5593 Cake-LP ($146.58)
+ELXR Per Week: 1484.17 ($0.90)
+APR: Day 0.09% Week 0.61% Year 31.92%
+You are staking 0.00 [TRADE]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TRADE]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [TRADE]-[WBNB] Cake LP
+Claim 0.00 ELXR ($0.00)
+Staking or unstaking also claims rewards.
+
+38 - [ADA]-[WBNB] Cake LP [+] [-] [<=>] Price: $42.34 TVL: $12,090,073.58
+ADA Price: $1.03
+WBNB Price: $369.16
+Staked: 4.6567 Cake-LP ($197.15)
+ELXR Per Week: 2226.26 ($1.35)
+APR: Day 0.10% Week 0.68% Year 35.60%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 ELXR ($0.00)
+Staking or unstaking also claims rewards.
+
+39 - [DOGE]-[WBNB] Cake LP [+] [-] [<=>] Price: $1,661,911.40 TVL: $5,612,709.03
+DOGE Price: $0.14
+WBNB Price: $369.16
+Staked: 0.0000 Cake-LP ($26.45)
+ELXR Per Week: 2226.26 ($1.35)
+APR: Day 0.73% Week 5.10% Year 265.35%
+You are staking 0.00 [DOGE]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOGE]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOGE]-[WBNB] Cake LP
+Claim 0.00 ELXR ($0.00)
+Staking or unstaking also claims rewards.
+
+40 - [ALPACA]-[BUSD] Cake LP [+] [-] [<=>] Price: $1.34 TVL: $8,704,406.66
+ALPACA Price: $0.35
+BUSD Price: $1.00
+Staked: 14.0153 Cake-LP ($18.78)
+ELXR Per Week: 2226.26 ($1.35)
+APR: Day 1.03% Week 7.19% Year 373.69%
+You are staking 0.00 [ALPACA]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ALPACA]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [ALPACA]-[BUSD] Cake LP
+Claim 0.00 ELXR ($0.00)
+Staking or unstaking also claims rewards.
+
+41 - [HOO]-[BUSD] Cake LP [+] [-] [<=>] Price: $217,769.76 TVL: $17,614.89
+HOO Price: $1.11
+BUSD Price: $1.00
+Staked: 0.0001 Cake-LP ($11.71)
+ELXR Per Week: 2226.26 ($1.35)
+APR: Day 1.65% Week 11.52% Year 599.19%
+You are staking 0.00 [HOO]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [HOO]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [HOO]-[BUSD] Cake LP
+Claim 0.00 ELXR ($0.00)
+Staking or unstaking also claims rewards.
+
+42 - [LTC]-[WBNB] Cake LP [+] [-] [<=>] Price: $417.14 TVL: $2,228,249.10
+LTC Price: $106.68
+WBNB Price: $369.16
+Staked: 0.3661 Cake-LP ($152.71)
+ELXR Per Week: 2226.26 ($1.35)
+APR: Day 0.13% Week 0.88% Year 45.96%
+You are staking 0.00 [LTC]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LTC]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [LTC]-[WBNB] Cake LP
+Claim 0.00 ELXR ($0.00)
+Staking or unstaking also claims rewards.
+
+43 - [WBNB]-[LINK] Cake LP [+] [-] [<=>] Price: $156.68 TVL: $10,422,662.53
+WBNB Price: $369.16
+LINK Price: $15.14
+Staked: 0.9000 Cake-LP ($141.01)
+ELXR Per Week: 2226.26 ($1.35)
+APR: Day 0.14% Week 0.96% Year 49.77%
+You are staking 0.00 [WBNB]-[LINK] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[LINK] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[LINK] Cake LP
+Claim 0.00 ELXR ($0.00)
+Staking or unstaking also claims rewards.
+
+44 - [WBNB]-[BIFI] Cake LP [+] [-] [<=>] Price: $1,747.86 TVL: $1,636,408.67
+WBNB Price: $369.16
+BIFI Price: $1,745.13
+Staked: 0.4168 Cake-LP ($728.53)
+ELXR Per Week: 2226.26 ($1.35)
+APR: Day 0.03% Week 0.19% Year 9.63%
+You are staking 0.00 [WBNB]-[BIFI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BIFI] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BIFI] Cake LP
+Claim 0.00 ELXR ($0.00)
+Staking or unstaking also claims rewards.
+
+45 - [WATCH]-[WBNB] Cake LP [+] [-] [<=>] Price: $13.40 TVL: $144,927.47
+WATCH Price: $0.12
+WBNB Price: $369.16
+Staked: 11.0727 Cake-LP ($148.37)
+ELXR Per Week: 2226.26 ($1.35)
+APR: Day 0.13% Week 0.91% Year 47.30%
+You are staking 0.00 [WATCH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WATCH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [WATCH]-[WBNB] Cake LP
+Claim 0.00 ELXR ($0.00)
+Staking or unstaking also claims rewards.
+
+46 - [DOT]-[WBNB] Cake LP [+] [-] [<=>] Price: $172.96 TVL: $17,756,554.49
+DOT Price: $18.00
+WBNB Price: $369.16
+Staked: 0.2153 Cake-LP ($37.24)
+ELXR Per Week: 2226.26 ($1.35)
+APR: Day 0.52% Week 3.62% Year 188.49%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 ELXR ($0.00)
+Staking or unstaking also claims rewards.
+
+47 - DOGE Price: $0.14 Market Cap: $282,854,000.00 [%]
+Staked: 189.7847 DOGE ($26.84)
+ELXR Per Week: 742.09 ($0.45)
+APR: Day 0.24% Week 1.68% Year 87.16%
+You are staking 0.00 DOGE ($0.00), 0.00% of the pool.
+Stake 0.00 DOGE - Fee 4%
+Unstake 0.00 DOGE
+Claim 0.00 ELXR ($0.00)
+Staking or unstaking also claims rewards.
+
+48 - ADA Price: $1.03 Market Cap: $288,400,000.00 [%]
+Staked: 23.9239 ADA ($24.64)
+ELXR Per Week: 742.09 ($0.45)
+APR: Day 0.26% Week 1.83% Year 94.94%
+You are staking 0.00 ADA ($0.00), 0.00% of the pool.
+Stake 0.00 ADA - Fee 4%
+Unstake 0.00 ADA
+Claim 0.00 ELXR ($0.00)
+Staking or unstaking also claims rewards.
+
+49 - HOO Price: $1.11 Market Cap: $110,520,001.95 [%]
+Staked: 369.7835 HOO ($408.68)
+ELXR Per Week: 742.09 ($0.45)
+APR: Day 0.02% Week 0.11% Year 5.72%
+You are staking 0.00 HOO ($0.00), 0.00% of the pool.
+Stake 0.00 HOO - Fee 4%
+Unstake 0.00 HOO
+Claim 0.00 ELXR ($0.00)
+Staking or unstaking also claims rewards.
+
+50 - LTC Price: $106.68 Market Cap: $66,675,000.00 [%]
+Staked: 0.8304 LTC ($88.59)
+ELXR Per Week: 742.09 ($0.45)
+APR: Day 0.07% Week 0.51% Year 26.41%
+You are staking 0.00 LTC ($0.00), 0.00% of the pool.
+Stake 0.00 LTC - Fee 4%
+Unstake 0.00 LTC
+Claim 0.00 ELXR ($0.00)
+Staking or unstaking also claims rewards.
+
+51 - SWAMP Price: $0.10 Market Cap: $177,020.38 [%]
+Staked: 45.0698 SWAMP ($4.57)
+ELXR Per Week: 742.09 ($0.45)
+APR: Day 1.41% Week 9.85% Year 512.15%
+You are staking 0.00 SWAMP ($0.00), 0.00% of the pool.
+Stake 0.00 SWAMP - Fee 4%
+Unstake 0.00 SWAMP
+Claim 0.00 ELXR ($0.00)
+Staking or unstaking also claims rewards.
+
+52 - [WLEV]-[WBNB] Cake LP [+] [-] [<=>] Price: $718.46 TVL: $591.12
+WLEV Price: $347.09
+WBNB Price: $369.16
+Staked: 0.8056 Cake-LP ($578.80)
+ELXR Per Week: 1484.17 ($0.90)
+APR: Day 0.02% Week 0.16% Year 8.08%
+You are staking 0.00 [WLEV]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WLEV]-[WBNB] Cake LP - Fee 2%
+Unstake 0.00 [WLEV]-[WBNB] Cake LP
+Claim 0.00 ELXR ($0.00)
+Staking or unstaking also claims rewards.
+
+53 - WLEV Price: $347.09 Market Cap: $576.23 [%]
+Staked: 0.7838 WLEV ($272.06)
+ELXR Per Week: 1484.17 ($0.90)
+APR: Day 0.05% Week 0.33% Year 17.20%
+You are staking 0.00 WLEV ($0.00), 0.00% of the pool.
+Stake 0.00 WLEV - Fee 2%
+Unstake 0.00 WLEV
+Claim 0.00 ELXR ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $16,267.38

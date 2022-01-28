@@ -1,0 +1,37 @@
+*************** 👨‍🌾 UNOFFICIAL YEL.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://yel.finance
+********************************************************************************
+
+Thu Jan 27 2022 21:33:35 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 2 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - YEL Price: $0.02 Market Cap: $2,931,355.43 [%]
+Staked: 42271716.6079 YEL ($943,326.61)
+YEL Per Week: 104895.10 ($2,340.82)
+APR: Day 0.04% Week 0.25% Year 12.90%
+You are staking 0.00 YEL ($0.00), 0.00% of the pool.
+Stake 0.00 YEL
+Unstake 0.00 YEL
+Claim 0.00 YEL ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WBNB]-[YEL] APE LP [+] [-] [<=>] Price: $6.35 TVL: $1,070,219.78
+WBNB Price: $368.02
+YEL Price: $0.02
+Staked: 155216.0403 APE-LP ($986,184.91)
+YEL Per Week: 1048951.05 ($23,408.17)
+APR: Day 0.34% Week 2.37% Year 123.43%
+You are staking 0.00 [WBNB]-[YEL] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[YEL] APE LP
+Unstake 0.00 [WBNB]-[YEL] APE LP
+Claim 0.00 YEL ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $1,929,511.52

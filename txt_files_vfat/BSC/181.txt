@@ -1,0 +1,171 @@
+*************** 👨‍🌾 UNOFFICIAL CELESFINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://app.celesfinance.com
+*********************************************************************************
+
+Thu Jan 27 2022 20:48:43 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 14 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [CELES]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.02 TVL: $120.26
+CELES Price: $0.0000827117
+BUSD Price: $1.00
+Staked: 5873.7994 Cake-LP ($112.49)
+CELES Per Week: 48578.31 ($4.02)
+APR: Day 0.51% Week 3.57% Year 185.74%
+You are staking 0.00 [CELES]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CELES]-[BUSD] Cake LP
+Unstake 0.00 [CELES]-[BUSD] Cake LP
+Claim 0.00 CELES ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [CELES]-[WBNB] Cake LP [+] [-] [<=>] Price: $0.38 TVL: $92.88
+CELES Price: $0.0000827117
+WBNB Price: $370.11
+Staked: 215.4764 Cake-LP ($81.00)
+CELES Per Week: 60722.89 ($5.02)
+APR: Day 0.89% Week 6.20% Year 322.43%
+You are staking 0.00 [CELES]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CELES]-[WBNB] Cake LP
+Unstake 0.00 [CELES]-[WBNB] Cake LP
+Claim 0.00 CELES ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.56 TVL: $347,003,214.56
+WBNB Price: $370.11
+BUSD Price: $1.00
+Staked: 1.9905 Cake-LP ($94.67)
+CELES Per Week: 6072.29 ($0.50)
+APR: Day 0.08% Week 0.53% Year 27.59%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 CELES ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - CELES Price: $0.0000827117 Market Cap: $482.39 [%]
+Staked: 2768938.0725 CELES ($229.02)
+CELES Per Week: 18216.87 ($1.51)
+APR: Day 0.09% Week 0.66% Year 34.21%
+You are staking 0.00 CELES ($0.00), 0.00% of the pool.
+Stake 0.00 CELES
+Unstake 0.00 CELES
+Claim 0.00 CELES ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $106.03 TVL: $201,941,191.12
+Cake Price: $7.04
+WBNB Price: $370.11
+Staked: 0.0335 Cake-LP ($3.55)
+CELES Per Week: 6072.29 ($0.50)
+APR: Day 2.02% Week 14.13% Year 734.88%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 CELES ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [CELES]-[Cake] Cake LP [+] [-] [<=>] Price: $0.05 TVL: $12.42
+CELES Price: $0.0000827117
+Cake Price: $7.04
+Staked: 48.6745 Cake-LP ($2.46)
+CELES Per Week: 12144.58 ($1.00)
+APR: Day 5.84% Week 40.91% Year 2127.07%
+You are staking 0.00 [CELES]-[Cake] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CELES]-[Cake] Cake LP
+Unstake 0.00 [CELES]-[Cake] Cake LP
+Claim 0.00 CELES ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - BUSD Price: $1.00 Market Cap: $4,849,257,879.85 [%]
+Staked: 1.8418 BUSD ($1.84)
+CELES Per Week: 2428.92 ($0.20)
+APR: Day 1.56% Week 10.91% Year 567.42%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 CELES ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - WBNB Price: $370.11 Market Cap: $1,932,302,726.83 [%]
+Staked: 0.6192 WBNB ($229.18)
+CELES Per Week: 2428.92 ($0.20)
+APR: Day 0.01% Week 0.09% Year 4.56%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 CELES ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - Cake Price: $7.04 Market Cap: $4,329,282,146.45 [%]
+Staked: 5.5011 Cake ($38.73)
+CELES Per Week: 2428.92 ($0.20)
+APR: Day 0.07% Week 0.52% Year 26.97%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 CELES ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [CELES]-[ETH] Cake LP [+] [-] [<=>] Price: $0.92 TVL: $22.51
+CELES Price: $0.0000827117
+ETH Price: $2,427.79
+Staked: 14.4078 Cake-LP ($13.26)
+CELES Per Week: 12144.58 ($1.00)
+APR: Day 1.08% Week 7.58% Year 393.99%
+You are staking 0.00 [CELES]-[ETH] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CELES]-[ETH] Cake LP
+Unstake 0.00 [CELES]-[ETH] Cake LP
+Claim 0.00 CELES ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - ETH Price: $2,427.79 Market Cap: $3,411,044,950.00 [%]
+Staked: 0.0207 ETH ($50.29)
+CELES Per Week: 3643.37 ($0.30)
+APR: Day 0.09% Week 0.60% Year 31.16%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 CELES ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [CELES]-[LIFE] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $0.79
+CELES Price: $0.0000827117
+LIFE Price: $0.02
+Staked: 281.8704 Cake-LP ($0.68)
+CELES Per Week: 12144.58 ($1.00)
+APR: Day 21.13% Week 147.89% Year 7690.24%
+You are staking 0.00 [CELES]-[LIFE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CELES]-[LIFE] Cake LP
+Unstake 0.00 [CELES]-[LIFE] Cake LP
+Claim 0.00 CELES ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - JulD Price: $0.01 Market Cap: $11,895,391.63 [%]
+Staked: 1207.0791 JulD ($17.96)
+CELES Per Week: 2428.92 ($0.20)
+APR: Day 0.16% Week 1.12% Year 58.16%
+You are staking 0.00 JulD ($0.00), 0.00% of the pool.
+Stake 0.00 JulD - Fee 4%
+Unstake 0.00 JulD
+Claim 0.00 CELES ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [CELES]-[JulD] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $6.95
+CELES Price: $0.0000827117
+JulD Price: $0.01
+Staked: 3039.6542 Cake-LP ($6.84)
+CELES Per Week: 12144.58 ($1.00)
+APR: Day 2.10% Week 14.69% Year 763.68%
+You are staking 0.00 [CELES]-[JulD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CELES]-[JulD] Cake LP
+Unstake 0.00 [CELES]-[JulD] Cake LP
+Claim 0.00 CELES ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $881.97

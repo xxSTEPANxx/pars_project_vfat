@@ -1,0 +1,27 @@
+*************** 👨‍🌾 UNOFFICIAL SYNAPSEPROTOCOL FARMING CALCULATOR 👨‍🌾 *********
+INFO  : https://synapseprotocol.com
+******************************************************************************
+
+Thu Jan 27 2022 20:05:24 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 1 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [SYN]-[WETH] SLP [+] [-] [<=>] Price: $165.34 TVL: $19,212,008.01
+SYN Price: $2.10
+WETH Price: $2,475.38
+Staked: 97408.4017 SLP ($16,105,211.72)
+SYNAPSE Per Week: 85750.00 ($180,075.00)
+APR: Day 0.16% Week 1.12% Year 58.14%
+You are staking 0.00 [SYN]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [SYN]-[WETH] SLP
+Unstake 0.00 [SYN]-[WETH] SLP
+Claim 0.00 SYNAPSE ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $16,105,211.72

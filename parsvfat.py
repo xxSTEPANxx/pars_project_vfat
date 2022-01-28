@@ -40,7 +40,9 @@ def open_chrom_with_metamask():
     s = Service(r'C:\Users\ASER\Documents\GitHub\pars_project_vfat\Chrom\chromedriver.exe')
     options = webdriver.ChromeOptions()
     options.add_experimental_option('excludeSwitches', ['enable-logging'])
+    # options.add_argument('--headless')
     options.add_extension(r'Chrom/MetaMask_v10.0.2.crx')
+
     driver = webdriver.Chrome(service=s, options=options)
     driver = metamask_connect(driver)
     driver.switch_to.window(driver.window_handles[1])
@@ -91,12 +93,42 @@ def connect_vfat(driver):
     driver.find_element(By.XPATH, '//*[@id="app-content"]/div/div[3]/div/div[2]/div[2]/div[2]/footer/button[2]').click()
     driver.switch_to.window(driver.window_handles[1])
 
+def get_all_projects(driver):
+    nets_to_find = driver.find_element(By.XPATH, '/html/body/div[3]')
+    net_names = nets_to_find.text.split(' - ')[1:]
 
-def get_all_txt(driver, nets):
+    links_10 = driver.find_elements(By.TAG_NAME, 'a')
+
+    net_links = [links_10[i].get_attribute('href') for i in range(2, len(net_names) + 2)]
+
+    all_projects_all_nets = {}
+    for i in range(len(net_names)):
+        url = net_links[i]
+        driver.get(url)
+
+        b = driver.find_element(By.XPATH, '//*[@id="log"]')
+        b = (b.find_elements(By.LINK_TEXT, 'Various'))
+        b = [i.get_attribute('href') for i in b]
+        all_projects_all_nets[net_names[i]] = b
+
+    with open(r'all_json_files/all_nets.txt', 'w') as file:
+        i = 0
+        for key in all_projects_all_nets.keys():
+
+            file.write(str(i)+'    ' + key+'\n')
+            i += 1
+
+    with open(r'all_json_files/all_projects_vfat.json', 'w') as file:
+        dump(all_projects_all_nets, file, indent=4)
+
+def get_all_txt(driver, bl_param = '0', start=1):
     with open(r'all_json_files/all_projects_vfat.json', 'r') as file:
         all_projects = load(file)
-    for net in list(all_projects)[1:]:
-        if len(all_projects[net]) < 1 or net in config.blacklist[nets]:
+    for net in list(all_projects)[int(start):]:
+        print(net)
+        if len(all_projects[net]) < 1 or net in config.blacklist[bl_param]:
+            continue
+        if len(all_projects[net]) > config.project_param:
             continue
 
         start_project(driver, net, all_projects)
@@ -123,13 +155,13 @@ def start_project(driver, net, all_projects, number=0):
 
 def switch_network(driver, net, all_projects):
 
-    url = all_projects[net][1]
+    url = all_projects[net][0]
     driver.get(url)
     chek_load(driver, url)
     try:
         driver.find_element(By.XPATH, '//*[@id="connect_wallet_button"]').click()
         driver.switch_to.window(driver.window_handles[0])
-        time.sleep(1)
+        time.sleep(2)
         driver.refresh()
         wait_selenium(driver, 1, 'button')
         driver.find_elements(By.TAG_NAME, "button")[1].click()
@@ -138,8 +170,5 @@ def switch_network(driver, net, all_projects):
     except common.exceptions.NoSuchElementException:
         print(url, 'switch')
 
-
-def get_nets_and_projects(driver):
-    pars_Nets_and_projects.get_all_projects(driver)
 
 

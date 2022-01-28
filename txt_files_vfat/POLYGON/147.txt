@@ -77,7 +77,7 @@ DEPOSIT FEES:
 
 *************************************************************************************
 
-Fri Dec 17 2021 10:31:17 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 22:45:48 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
@@ -105,60 +105,11 @@ Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 |___________|_______________________|________|________|___________|
 Claim ETH
 Claim BTC
-
-                               FARM                                
-
-Found 5 pools.
-0 - [TRZ]-[USDC] SLP [+] [-] [<=>] Price: $2,361,674.81 TVL: $123.61
-TRZ Price: $1.26
-USDC Price: $1.00
-Staked: 0.0000 SLP ($115.71)
-TRZ Per Week: 15.12000000 ($18.98)
-APR: Day 2.34% Week 16.40% Year 852.85%
-You are staking 0.00000000 [TRZ]-[USDC] SLP ($0.00), 0.00% of the pool.
-Stake 0.00000000 [TRZ]-[USDC] SLP
-Unstake 0.00000000 [TRZ]-[USDC] SLP
-Claim 0.00000000 TRZ ($0.00)
-Staking or unstaking also claims rewards.
-
-1 - TRZ Price: $1.26 Market Cap: $607.61 [%]
-Staked: 349.4663 TRZ ($438.62)
-TRZ Per Week: 7.56000000 ($9.49)
-APR: Day 0.31% Week 2.16% Year 112.49%
-You are staking 0.00000000 TRZ ($0.00), 0.00% of the pool.
-Stake 0.00000000 TRZ - Fee 1%
-Unstake 0.00000000 TRZ
-Claim 0.00000000 TRZ ($0.00)
-Staking or unstaking also claims rewards.
-
-2 - USDC Price: $1.00 Market Cap: $951,347,442.12 [%]
-Staked: 125.5582 USDC ($125.43)
-TRZ Per Week: 2.52000000 ($3.16)
-APR: Day 0.36% Week 2.52% Year 131.12%
-You are staking 0.00000000 USDC ($0.00), 0.00% of the pool.
-Stake 0.00000000 USDC - Fee 3%
-Unstake 0.00000000 USDC
-Claim 0.00000000 TRZ ($0.00)
-Staking or unstaking also claims rewards.
-
-3 - USDT Price: $1.00 Market Cap: $319,072,307.52 [%]
-Staked: 581.8570 USDT ($580.62)
-TRZ Per Week: 2.52000000 ($3.16)
-APR: Day 0.08% Week 0.54% Year 28.33%
-You are staking 0.00000000 USDT ($0.00), 0.00% of the pool.
-Stake 0.00000000 USDT - Fee 3%
-Unstake 0.00000000 USDT
-Claim 0.00000000 TRZ ($0.00)
-Staking or unstaking also claims rewards.
-
-4 - DAI Price: $1.00 Market Cap: $366,973,209.82 [%]
-Staked: 240.1432 DAI ($239.70)
-TRZ Per Week: 2.52000000 ($3.16)
-APR: Day 0.19% Week 1.32% Year 68.61%
-You are staking 0.00000000 DAI ($0.00), 0.00% of the pool.
-Stake 0.00000000 DAI - Fee 3%
-Unstake 0.00000000 DAI
-Claim 0.00000000 TRZ ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $1,500.08
+{
+  "code": -32603,
+  "message": "Non-200 status code: '400'",
+  "data": {
+    "error": "Unable to verify your data submission."
+  }
+}
+Oops something went wrong. Try refreshing the page.

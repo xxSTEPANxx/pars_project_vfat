@@ -1,0 +1,371 @@
+*************** 👨‍🌾 UNOFFICIAL PUMPY DEFI FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://pumpy.farm
+*******************************************************************************
+
+Thu Jan 27 2022 20:28:21 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 46 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - Cake Price: $7.18 Market Cap: $4,415,335,888.55 [%]
+Staked: 1169.5312 Cake ($8,397.23)
+PMP Per Week: 158.45 ($10.60)
+APR: Day 0.02% Week 0.13% Year 6.56%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake
+Unstake 0.00 Cake
+Claim 0.00 PMP ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [AUTO]-[WBNB] Cake LP [+] [-] [<=>] Price: $829.81 TVL: $1,021,588.43
+AUTO Price: $407.28
+WBNB Price: $370.65
+Staked: 0.3073 Cake-LP ($255.03)
+PMP Per Week: 7.92 ($0.53)
+APR: Day 0.03% Week 0.21% Year 10.81%
+You are staking 0.00 [AUTO]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AUTO]-[WBNB] Cake LP
+Unstake 0.00 [AUTO]-[WBNB] Cake LP
+Claim 0.00 PMP ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - PMP Price: $0.00 Market Cap: $0.00 
+Staked: 10481.6909 PMP ($0.00)
+PMP Per Week: 79.22 ($5.30)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 PMP ($0.00), NaN% of the pool.
+Stake 0.00 PMP
+Unstake 0.00 PMP
+Claim 0.00 PMP ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $107.15 TVL: $204,072,943.02
+Cake Price: $7.18
+WBNB Price: $370.65
+Staked: 14.6574 Cake-LP ($1,570.52)
+PMP Per Week: 316.89 ($21.20)
+APR: Day 0.19% Week 1.35% Year 70.20%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 PMP ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.52 TVL: $346,685,500.72
+WBNB Price: $370.65
+BUSD Price: $1.00
+Staked: 8.6264 Cake-LP ($409.92)
+PMP Per Week: 118.83 ($7.95)
+APR: Day 0.28% Week 1.94% Year 100.86%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 PMP ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,050.57 TVL: $74,706,328.39
+ETH Price: $2,456.12
+WBNB Price: $370.65
+Staked: 0.0094 Cake-LP ($19.38)
+PMP Per Week: 7.92 ($0.53)
+APR: Day 0.39% Week 2.74% Year 142.26%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 PMP ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - [ALLOY]-[WBNB] Trisolaris LP Token [+] [-] [<=>] Price: $3.16 TVL: $22,486.11
+ALLOY Price: $0.005881
+WBNB Price: $370.65
+Staked: 0.5946 TLP ($1.88)
+PMP Per Week: 0.79 ($0.05)
+APR: Day 0.40% Week 2.82% Year 146.63%
+You are staking 0.00 [ALLOY]-[WBNB] Trisolaris LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [ALLOY]-[WBNB] Trisolaris LP Token
+Unstake 0.00 [ALLOY]-[WBNB] Trisolaris LP Token
+Claim 0.00 PMP ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - [PMP]-[WBNB] Trisolaris LP Token [+] [-] [<=>] Price: $10.16 TVL: $15.29
+PMP Price: $0.07
+WBNB Price: $370.65
+Staked: 0.0056 TLP ($0.06)
+PMP Per Week: 0.79 ($0.05)
+APR: Day 13.25% Week 92.76% Year 4823.78%
+You are staking 0.00 [PMP]-[WBNB] Trisolaris LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [PMP]-[WBNB] Trisolaris LP Token
+Unstake 0.00 [PMP]-[WBNB] Trisolaris LP Token
+Claim 0.00 PMP ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [ALLOY]-[PMP] Trisolaris LP Token [+] [-] [<=>] Price: $0.04 TVL: $23.09
+ALLOY Price: $0.005881
+PMP Price: $0.07
+Staked: 188.2759 TLP ($7.64)
+PMP Per Week: 0.79 ($0.05)
+APR: Day 0.10% Week 0.69% Year 36.10%
+You are staking 0.00 [ALLOY]-[PMP] Trisolaris LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [ALLOY]-[PMP] Trisolaris LP Token
+Unstake 0.00 [ALLOY]-[PMP] Trisolaris LP Token
+Claim 0.00 PMP ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - [PMP]-[WBNB] Cake LP [+] [-] [<=>] Price: $10.23 TVL: $3,121.73
+PMP Price: $0.07
+WBNB Price: $370.65
+Staked: 276.7799 Cake-LP ($2,831.96)
+PMP Per Week: 792.23 ($53.01)
+APR: Day 0.27% Week 1.87% Year 97.33%
+You are staking 0.00 [PMP]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PMP]-[WBNB] Cake LP
+Unstake 0.00 [PMP]-[WBNB] Cake LP
+Claim 0.00 PMP ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $296,416,826.48
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 55.7344 Cake-LP ($116.50)
+PMP Per Week: 79.22 ($5.30)
+APR: Day 0.65% Week 4.55% Year 236.60%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 PMP ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - [WBNB]-[bROOBEE] Cake LP [+] [-] [<=>] Price: $2.10 TVL: $78,139.44
+WBNB Price: $370.65
+bROOBEE Price: $0.002831
+Staked: 258.8404 Cake-LP ($543.81)
+PMP Per Week: 7.92 ($0.53)
+APR: Day 0.01% Week 0.10% Year 5.07%
+You are staking 0.00 [WBNB]-[bROOBEE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[bROOBEE] Cake LP
+Unstake 0.00 [WBNB]-[bROOBEE] Cake LP
+Claim 0.00 PMP ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - [PANTHER]-[BUSD] Uni LP [+] [-] [<=>] Price: $0.16 TVL: $267,386.69
+PANTHER Price: $0.002748
+BUSD Price: $1.00
+Staked: 0.0000 PANTHER-LP ($0.00)
+PMP Per Week: 7.92 ($0.53)
+APR: Day 47141930738903920.00% Week 329993515172327424.00% Year 17159662788961026048.00%
+You are staking 0.00 [PANTHER]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PANTHER]-[BUSD] Uni LP
+Unstake 0.00 [PANTHER]-[BUSD] Uni LP
+Claim 0.00 PMP ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - [PANTHER]-[WBNB] Uni LP [+] [-] [<=>] Price: $2.94 TVL: $847,225.20
+PANTHER Price: $0.002748
+WBNB Price: $370.65
+Staked: 41.4338 PANTHER-LP ($121.64)
+PMP Per Week: 7.92 ($0.53)
+APR: Day 0.06% Week 0.44% Year 22.66%
+You are staking 0.00 [PANTHER]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PANTHER]-[WBNB] Uni LP
+Unstake 0.00 [PANTHER]-[WBNB] Uni LP
+Claim 0.00 PMP ($0.00)
+Staking or unstaking also claims rewards.
+
+29 - [Cake]-[WBNB] Uni LP [+] [-] [<=>] Price: $106.97 TVL: $14,329.11
+Cake Price: $7.18
+WBNB Price: $370.65
+Staked: 0.0000 PANTHER-LP ($0.00)
+PMP Per Week: 7.92 ($0.53)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking NaN [Cake]-[WBNB] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [Cake]-[WBNB] Uni LP
+Unstake NaN [Cake]-[WBNB] Uni LP
+Claim 0.00 PMP ($0.00)
+Staking or unstaking also claims rewards.
+
+30 - [ETH]-[WBNB] Uni LP [+] [-] [<=>] Price: $1,941.82 TVL: $266,895.76
+ETH Price: $2,456.12
+WBNB Price: $370.65
+Staked: 0.0000 PANTHER-LP ($0.00)
+PMP Per Week: 7.92 ($0.53)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking NaN [ETH]-[WBNB] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [ETH]-[WBNB] Uni LP
+Unstake NaN [ETH]-[WBNB] Uni LP
+Claim 0.00 PMP ($0.00)
+Staking or unstaking also claims rewards.
+
+31 - [DOGE]-[WBNB] Uni LP [+] [-] [<=>] Price: $1,486,145.73 TVL: $27,963.18
+DOGE Price: $0.14
+WBNB Price: $370.65
+Staked: 0.0007 PANTHER-LP ($1,112.62)
+PMP Per Week: 7.92 ($0.53)
+APR: Day 0.01% Week 0.05% Year 2.48%
+You are staking 0.00 [DOGE]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOGE]-[WBNB] Uni LP
+Unstake 0.00 [DOGE]-[WBNB] Uni LP
+Claim 0.00 PMP ($0.00)
+Staking or unstaking also claims rewards.
+
+32 - [USDT]-[WBNB] Uni LP [+] [-] [<=>] Price: $41.17 TVL: $49,118.86
+USDT Price: $1.00
+WBNB Price: $370.65
+Staked: 5.9099 PANTHER-LP ($243.28)
+PMP Per Week: 7.92 ($0.53)
+APR: Day 0.03% Week 0.22% Year 11.33%
+You are staking 0.00 [USDT]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WBNB] Uni LP
+Unstake 0.00 [USDT]-[WBNB] Uni LP
+Claim 0.00 PMP ($0.00)
+Staking or unstaking also claims rewards.
+
+33 - [BTCB]-[WBNB] Uni LP [+] [-] [<=>] Price: $7,471.70 TVL: $228,351.97
+BTCB Price: $36,472.00
+WBNB Price: $370.65
+Staked: 0.0013 PANTHER-LP ($9.81)
+PMP Per Week: 7.92 ($0.53)
+APR: Day 0.77% Week 5.40% Year 281.00%
+You are staking 0.00 [BTCB]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Uni LP
+Unstake 0.00 [BTCB]-[WBNB] Uni LP
+Claim 0.00 PMP ($0.00)
+Staking or unstaking also claims rewards.
+
+34 - [XRP]-[WBNB] Uni LP [+] [-] [<=>] Price: $30.48 TVL: $34,945.57
+XRP Price: $0.61
+WBNB Price: $370.65
+Staked: 0.0000 PANTHER-LP ($0.00)
+PMP Per Week: 7.92 ($0.53)
+APR: Day 124230183761837696.00% Week 869611286332863872.00% Year 45219786889308921856.00%
+You are staking 0.00 [XRP]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [XRP]-[WBNB] Uni LP
+Unstake 0.00 [XRP]-[WBNB] Uni LP
+Claim 0.00 PMP ($0.00)
+Staking or unstaking also claims rewards.
+
+35 - [ADA]-[WBNB] Uni LP [+] [-] [<=>] Price: $40.00 TVL: $34,586.49
+ADA Price: $1.03
+WBNB Price: $370.65
+Staked: 0.0000 PANTHER-LP ($0.00)
+PMP Per Week: 7.92 ($0.53)
+APR: Day 16768879.60% Week 117382157.17% Year 6103872172.86%
+You are staking 0.00 [ADA]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Uni LP
+Unstake 0.00 [ADA]-[WBNB] Uni LP
+Claim 0.00 PMP ($0.00)
+Staking or unstaking also claims rewards.
+
+37 - [USDT]-[BUSD] Uni LP [+] [-] [<=>] Price: $2.00 TVL: $245,094.98
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 PANTHER-LP ($0.00)
+PMP Per Week: 7.92 ($0.53)
+APR: Day 4034923903.66% Week 28244467325.63% Year 1468712300932.58%
+You are staking 0.00 [USDT]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Uni LP
+Unstake 0.00 [USDT]-[BUSD] Uni LP
+Claim 0.00 PMP ($0.00)
+Staking or unstaking also claims rewards.
+
+38 - [WBNB]-[BUSD] Uni LP [+] [-] [<=>] Price: $43.19 TVL: $205,049.10
+WBNB Price: $370.65
+BUSD Price: $1.00
+Staked: 18.5371 PANTHER-LP ($800.60)
+PMP Per Week: 7.92 ($0.53)
+APR: Day 0.01% Week 0.07% Year 3.44%
+You are staking 0.00 [WBNB]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Uni LP
+Unstake 0.00 [WBNB]-[BUSD] Uni LP
+Claim 0.00 PMP ($0.00)
+Staking or unstaking also claims rewards.
+
+39 - [USDC]-[BUSD] Uni LP [+] [-] [<=>] Price: $2.00 TVL: $133,248.35
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 PANTHER-LP ($0.00)
+PMP Per Week: 7.92 ($0.53)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking NaN [USDC]-[BUSD] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[BUSD] Uni LP
+Unstake NaN [USDC]-[BUSD] Uni LP
+Claim 0.00 PMP ($0.00)
+Staking or unstaking also claims rewards.
+
+40 - [DOT]-[WBNB] Uni LP [+] [-] [<=>] Price: $167.10 TVL: $134,906.09
+DOT Price: $17.95
+WBNB Price: $370.65
+Staked: 0.0712 PANTHER-LP ($11.90)
+PMP Per Week: 7.92 ($0.53)
+APR: Day 0.64% Week 4.46% Year 231.70%
+You are staking 0.00 [DOT]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Uni LP
+Unstake 0.00 [DOT]-[WBNB] Uni LP
+Claim 0.00 PMP ($0.00)
+Staking or unstaking also claims rewards.
+
+41 - [WBNB]-[LINK] Uni LP [+] [-] [<=>] Price: $152.52 TVL: $24,031.22
+WBNB Price: $370.65
+LINK Price: $15.24
+Staked: 0.0310 PANTHER-LP ($4.73)
+PMP Per Week: 7.92 ($0.53)
+APR: Day 1.60% Week 11.22% Year 583.18%
+You are staking 0.00 [WBNB]-[LINK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[LINK] Uni LP
+Unstake 0.00 [WBNB]-[LINK] Uni LP
+Claim 0.00 PMP ($0.00)
+Staking or unstaking also claims rewards.
+
+42 - [WBNB]-[UNI] Uni LP [+] [-] [<=>] Price: $127.62 TVL: $30,782.88
+WBNB Price: $370.65
+UNI Price: $10.69
+Staked: 0.3035 PANTHER-LP ($38.73)
+PMP Per Week: 7.92 ($0.53)
+APR: Day 0.20% Week 1.37% Year 71.16%
+You are staking 0.00 [WBNB]-[UNI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[UNI] Uni LP
+Unstake 0.00 [WBNB]-[UNI] Uni LP
+Claim 0.00 PMP ($0.00)
+Staking or unstaking also claims rewards.
+
+43 - [LTC]-[WBNB] Uni LP [+] [-] [<=>] Price: $403.05 TVL: $30,328.09
+LTC Price: $106.74
+WBNB Price: $370.65
+Staked: 0.1454 PANTHER-LP ($58.62)
+PMP Per Week: 7.92 ($0.53)
+APR: Day 0.13% Week 0.90% Year 47.02%
+You are staking 0.00 [LTC]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LTC]-[WBNB] Uni LP
+Unstake 0.00 [LTC]-[WBNB] Uni LP
+Claim 0.00 PMP ($0.00)
+Staking or unstaking also claims rewards.
+
+44 - [VAI]-[BUSD] Uni LP [+] [-] [<=>] Price: $1.96 TVL: $107,557.77
+VAI Price: $0.94
+BUSD Price: $1.00
+Staked: 51.8176 PANTHER-LP ($101.72)
+PMP Per Week: 7.92 ($0.53)
+APR: Day 0.07% Week 0.52% Year 27.10%
+You are staking 0.00 [VAI]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [VAI]-[BUSD] Uni LP
+Unstake 0.00 [VAI]-[BUSD] Uni LP
+Claim 0.00 PMP ($0.00)
+Staking or unstaking also claims rewards.
+
+45 - [UST]-[BUSD] Uni LP [+] [-] [<=>] Price: $2.01 TVL: $61,925.91
+UST Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 PANTHER-LP ($0.00)
+PMP Per Week: 7.92 ($0.53)
+APR: Day 3400398090312058.50% Week 23802786632184408.00% Year 1237744904873589248.00%
+You are staking 0.00 [UST]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UST]-[BUSD] Uni LP
+Unstake 0.00 [UST]-[BUSD] Uni LP
+Claim 0.00 PMP ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $16,657.57

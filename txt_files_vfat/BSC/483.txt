@@ -1,0 +1,49 @@
+*************** 👨‍🌾 UNOFFICIAL IBG.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://farm.ibg.finance
+********************************************************************************
+
+Thu Jan 27 2022 21:36:23 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 12 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - iBG Price: $0.17 Market Cap: $1,304,651.17 [%]
+Staked: 2450331.8667 iBG ($414,005.71)
+iBG Per Week: 29309.54 ($4,952.11)
+APR: Day 0.17% Week 1.20% Year 62.20%
+You are staking 0.00 iBG ($0.00), 0.00% of the pool.
+Stake 0.00 iBG
+Unstake 0.00 iBG
+Claim 0.00 iBG ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [iBG]-[WBNB] Cake LP [+] [-] [<=>] Price: $16.52 TVL: $143,198.58
+iBG Price: $0.17
+WBNB Price: $368.18
+Staked: 7336.5503 Cake-LP ($121,165.78)
+iBG Per Week: 48849.23 ($8,253.52)
+APR: Day 0.97% Week 6.81% Year 354.21%
+You are staking 0.00 [iBG]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [iBG]-[WBNB] Cake LP
+Unstake 0.00 [iBG]-[WBNB] Cake LP
+Claim 0.00 iBG ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [iBG]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.87 TVL: $173,036.67
+iBG Price: $0.17
+BUSD Price: $1.00
+Staked: 177044.9228 Cake-LP ($153,521.21)
+iBG Per Week: 48849.23 ($8,253.52)
+APR: Day 0.77% Week 5.38% Year 279.56%
+You are staking 0.00 [iBG]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [iBG]-[BUSD] Cake LP
+Unstake 0.00 [iBG]-[BUSD] Cake LP
+Claim 0.00 iBG ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $688,692.70

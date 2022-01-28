@@ -1,0 +1,253 @@
+*************** 👨‍🌾 UNOFFICIAL ETA.PARTHENON.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://eta.parthenon.finance
+******************************************************************************************
+
+Thu Jan 27 2022 20:57:26 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 22 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [ETA]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.02 TVL: $93.95
+ETA Price: $0.0000593587
+BUSD Price: $1.00
+Staked: 5472.2275 Cake-LP ($90.08)
+ETA Per Week: 42691.76 ($2.53)
+APR: Day 0.40% Week 2.81% Year 146.28%
+You are staking 0.00 [ETA]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETA]-[BUSD] Cake LP
+Unstake 0.00 [ETA]-[BUSD] Cake LP
+Claim 0.00 ETA ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [ETA]-[WBNB] Cake LP [+] [-] [<=>] Price: $0.31 TVL: $56.97
+ETA Price: $0.0000593587
+WBNB Price: $369.24
+Staked: 174.9072 Cake-LP ($54.71)
+ETA Per Week: 42691.76 ($2.53)
+APR: Day 0.66% Week 4.63% Year 240.85%
+You are staking 0.00 [ETA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETA]-[WBNB] Cake LP
+Unstake 0.00 [ETA]-[WBNB] Cake LP
+Claim 0.00 ETA ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.51 TVL: $346,632,605.42
+WBNB Price: $369.24
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+ETA Per Week: 4493.87 ($0.27)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 ETA ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $296,846,884.63
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 3.7694 Cake-LP ($7.89)
+ETA Per Week: 4493.87 ($0.27)
+APR: Day 0.48% Week 3.38% Year 175.80%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 ETA ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $7,755.09 TVL: $68,812,217.20
+BTCB Price: $36,289.00
+WBNB Price: $369.24
+Staked: 0.0028 Cake-LP ($21.58)
+ETA Per Week: 4493.87 ($0.27)
+APR: Day 0.18% Week 1.24% Year 64.27%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 ETA ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,046.03 TVL: $74,541,433.66
+ETH Price: $2,454.60
+WBNB Price: $369.24
+Staked: 0.0000 Cake-LP ($0.00)
+ETA Per Week: 4493.87 ($0.27)
+APR: Day 501729.96% Week 3512109.73% Year 182629705.81%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 ETA ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [DAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $16,867,959.93
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 95.9377 Cake-LP ($200.23)
+ETA Per Week: 4493.87 ($0.27)
+APR: Day 0.02% Week 0.13% Year 6.93%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 ETA ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $131,515,023.32
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 4.7720 Cake-LP ($9.98)
+ETA Per Week: 4493.87 ($0.27)
+APR: Day 0.38% Week 2.67% Year 139.03%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 ETA ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [DOT]-[WBNB] Cake LP [+] [-] [<=>] Price: $173.03 TVL: $17,763,413.38
+DOT Price: $18.01
+WBNB Price: $369.24
+Staked: 0.1558 Cake-LP ($26.97)
+ETA Per Week: 4493.87 ($0.27)
+APR: Day 0.14% Week 0.99% Year 51.44%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 ETA ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - ETA Price: $0.0000593587 Market Cap: $295.77 [%]
+Staked: 2225448.6595 ETA ($132.10)
+ETA Per Week: 31457.09 ($1.87)
+APR: Day 0.20% Week 1.41% Year 73.50%
+You are staking 0.00 ETA ($0.00), 0.00% of the pool.
+Stake 0.00 ETA
+Unstake 0.00 ETA
+Claim 0.00 ETA ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - BUSD Price: $1.00 Market Cap: $4,850,300,844.72 [%]
+Staked: 93.5165 BUSD ($93.50)
+ETA Per Week: 4493.87 ($0.27)
+APR: Day 0.04% Week 0.29% Year 14.83%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 ETA ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - WBNB Price: $369.24 Market Cap: $1,927,634,610.26 [%]
+Staked: 0.0154 WBNB ($5.67)
+ETA Per Week: 6740.80 ($0.40)
+APR: Day 1.01% Week 7.05% Year 366.86%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 ETA ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - USDT Price: $1.00 Market Cap: $3,869,618,927.74 [%]
+Staked: 96.0000 USDT ($95.74)
+ETA Per Week: 2246.93 ($0.13)
+APR: Day 0.02% Week 0.14% Year 7.24%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 ETA ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - BTCB Price: $36,289.00 Market Cap: $4,082,548,789.00 [%]
+Staked: 0.0000 BTCB ($0.00)
+ETA Per Week: 2246.93 ($0.13)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 BTCB ($0.00), NaN% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 ETA ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - ETH Price: $2,454.60 Market Cap: $3,448,713,000.00 [%]
+Staked: 0.0002 ETH ($0.51)
+ETA Per Week: 2246.93 ($0.13)
+APR: Day 3.75% Week 26.23% Year 1363.85%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 ETA ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - DAI Price: $1.00 Market Cap: $262,000,000.00 [%]
+Staked: 3.4893 DAI ($3.49)
+ETA Per Week: 2246.93 ($0.13)
+APR: Day 0.55% Week 3.82% Year 198.76%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 ETA ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - USDC Price: $1.00 Market Cap: $1,779,000,000.00 [%]
+Staked: 60.7605 USDC ($60.76)
+ETA Per Week: 2246.93 ($0.13)
+APR: Day 0.03% Week 0.22% Year 11.41%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 ETA ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - DOT Price: $18.01 Market Cap: $288,159,999.84 [%]
+Staked: 0.0960 DOT ($1.73)
+ETA Per Week: 2246.93 ($0.13)
+APR: Day 1.10% Week 7.71% Year 401.14%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 ETA ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - Cake Price: $7.02 Market Cap: $4,316,999,830.51 [%]
+Staked: 2.7587 Cake ($19.37)
+ETA Per Week: 2246.93 ($0.13)
+APR: Day 0.10% Week 0.69% Year 35.81%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 ETA ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - MUSCLE Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 MUSCLE ($0.00)
+ETA Per Week: 1685.20 ($0.10)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 MUSCLE ($0.00), NaN% of the pool.
+Stake 0.00 MUSCLE - Fee 1%
+Unstake 0.00 MUSCLE
+Claim 0.00 ETA ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - ZETA Price: $0.00 Market Cap: $0.00 
+Staked: 44266.8507 ZETA ($0.00)
+ETA Per Week: 3370.40 ($0.20)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 ZETA ($0.00), NaN% of the pool.
+Stake 0.00 ZETA - Fee 4%
+Unstake 0.00 ZETA
+Claim 0.00 ETA ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - SHRIMP Price: $0.00 Market Cap: $0.00 
+Staked: 2733.2492 SHRIMP ($0.00)
+ETA Per Week: 1123.47 ($0.07)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SHRIMP ($0.00), NaN% of the pool.
+Stake 0.00 SHRIMP - Fee 2.5%
+Unstake 0.00 SHRIMP
+Claim 0.00 ETA ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $824.31

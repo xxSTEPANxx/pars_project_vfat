@@ -1,0 +1,87 @@
+*************** 👨‍🌾 UNOFFICIAL CROCOFINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://crocofinance.club
+****************************************************************************************
+
+Thu Jan 27 2022 21:05:11 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 7 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [CROCO]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $0.55
+CROCO Price: $0.0000030898
+BUSD Price: $1.00
+Staked: 129.3024 Cake-LP ($0.47)
+CROCO Per Week: 2688.00 ($0.01)
+APR: Day 0.25% Week 1.77% Year 92.10%
+You are staking 0.00 [CROCO]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CROCO]-[BUSD] Cake LP - Fee 2.5%
+Unstake 0.00 [CROCO]-[BUSD] Cake LP
+Claim 0.00 CROCO ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.47 TVL: $346,359,297.38
+WBNB Price: $368.82
+BUSD Price: $1.00
+Staked: 1.7255 Cake-LP ($81.92)
+CROCO Per Week: 2688.00 ($0.01)
+APR: Day 0.00% Week 0.01% Year 0.53%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 2.5%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 CROCO ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [ETH]-[BUSD] Cake LP [+] [-] [<=>] Price: $235.37 TVL: $1,685,912.99
+ETH Price: $2,454.53
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+CROCO Per Week: 2688.00 ($0.01)
+APR: Day 11620.32% Week 81342.22% Year 4229795.43%
+You are staking 0.00 [ETH]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[BUSD] Cake LP - Fee 2.5%
+Unstake 0.00 [ETH]-[BUSD] Cake LP
+Claim 0.00 CROCO ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.10 TVL: $297,178,228.46
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+CROCO Per Week: 2688.00 ($0.01)
+APR: Day 11852.56% Week 82967.92% Year 4314331.97%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 2.5%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 CROCO ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $131,485,107.63
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0001 Cake-LP ($0.00)
+CROCO Per Week: 2688.00 ($0.01)
+APR: Day 567.61% Week 3973.28% Year 206610.32%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 2.5%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 CROCO ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [DAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $16,863,617.86
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0001 Cake-LP ($0.00)
+CROCO Per Week: 2688.00 ($0.01)
+APR: Day 568.63% Week 3980.38% Year 206979.77%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 2.5%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 CROCO ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $82.39

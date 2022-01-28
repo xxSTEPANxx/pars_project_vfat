@@ -6,193 +6,20 @@ INFO  : https://polybear.exchange
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Fri Dec 17 2021 09:36:10 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 22:15:37 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
+Staking Contract
 Found 35 pools.
 Showing incentivized pools only.
-Finished reading smart contracts.
-0 - [USDC]-[BEAR] Uni LP [+] [-] [<=>] Price: $18,329.03 TVL: $58.53
-USDC Price: $1.00
-BEAR Price: $0.0000647049
-Staked: 0.0020 UNI-V2 ($36.04)
-BEAR Per Week: 33882.35 ($2.19)
-APR: Day 0.87% Week 6.08% Year 316.32%
-You are staking 0.00 [USDC]-[BEAR] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[BEAR] Uni LP
-Unstake 0.00 [USDC]-[BEAR] Uni LP
-Claim 0.00 BEAR ($0.00)
-Staking or unstaking also claims rewards.
-
-1 - [WMATIC]-[BEAR] Uni LP [+] [-] [<=>] Price: $0.03 TVL: $41.42
-WMATIC Price: $2.10
-BEAR Price: $0.0000647049
-Staked: 1511.7244 UNI-V2 ($38.91)
-BEAR Per Week: 33882.35 ($2.19)
-APR: Day 0.80% Week 5.63% Year 293.02%
-You are staking 0.00 [WMATIC]-[BEAR] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[BEAR] Uni LP
-Unstake 0.00 [WMATIC]-[BEAR] Uni LP
-Claim 0.00 BEAR ($0.00)
-Staking or unstaking also claims rewards.
-
-2 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,808,843.92 TVL: $51,758,968.64
-WMATIC Price: $2.10
-USDC Price: $1.00
-Staked: 0.0000 UNI-V2 ($14.29)
-BEAR Per Week: 6352.94 ($0.41)
-APR: Day 0.41% Week 2.88% Year 149.62%
-You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
-Unstake 0.00 [WMATIC]-[USDC] Uni LP
-Claim 0.00 BEAR ($0.00)
-Staking or unstaking also claims rewards.
-
-5 - [USDC]-[USDT] Uni LP [+] [-] [<=>] Price: $2,622,317,309,106.19 TVL: $24,072,110.46
-USDC Price: $1.00
-USDT Price: $1.00
-Staked: 0.0000 UNI-V2 ($261.87)
-BEAR Per Week: 4235.29 ($0.27)
-APR: Day 0.01% Week 0.10% Year 5.44%
-You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[USDT] Uni LP - Fee 4%
-Unstake 0.00 [USDC]-[USDT] Uni LP
-Claim 0.00 BEAR ($0.00)
-Staking or unstaking also claims rewards.
-
-9 - BEAR Price: $0.0000647049 Market Cap: $373.54 [%]
-Staked: 1782753.5044 BEAR ($115.35)
-BEAR Per Week: 16941.18 ($1.10)
-APR: Day 0.14% Week 0.95% Year 49.41%
-You are staking 0.00 BEAR ($0.00), 0.00% of the pool.
-Stake 0.00 BEAR
-Unstake 0.00 BEAR
-Claim 0.00 BEAR ($0.00)
-Staking or unstaking also claims rewards.
-
-10 - WETH Price: $3,953.67 Market Cap: $1,755,278,844.30 [%]
-Staked: 0.9792 WETH ($3,871.33)
-BEAR Per Week: 4235.29 ($0.27)
-APR: Day 0.00% Week 0.01% Year 0.37%
-You are staking 0.00 WETH ($0.00), 0.00% of the pool.
-Stake 0.00 WETH - Fee 4%
-Unstake 0.00 WETH
-Claim 0.00 BEAR ($0.00)
-Staking or unstaking also claims rewards.
-
-11 - DAI Price: $1.00 Market Cap: $367,643,843.61 [%]
-Staked: 530.4350 DAI ($530.43)
-BEAR Per Week: 4235.29 ($0.27)
-APR: Day 0.01% Week 0.05% Year 2.69%
-You are staking 0.00 DAI ($0.00), 0.00% of the pool.
-Stake 0.00 DAI - Fee 4%
-Unstake 0.00 DAI
-Claim 0.00 BEAR ($0.00)
-Staking or unstaking also claims rewards.
-
-13 - AAVE Price: $174.68 Market Cap: $47,538,258.48 [%]
-Staked: 0.1687 AAVE ($29.46)
-BEAR Per Week: 4235.29 ($0.27)
-APR: Day 0.13% Week 0.93% Year 48.37%
-You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
-Stake 0.00 AAVE - Fee 4%
-Unstake 0.00 AAVE
-Claim 0.00 BEAR ($0.00)
-Staking or unstaking also claims rewards.
-
-15 - [USDC]-[WETH] Uni LP [+] [-] [<=>] Price: $186,054,323.49 TVL: $80,969,946.10
-USDC Price: $1.00
-WETH Price: $3,953.67
-Staked: 0.0000 UNI-V2 ($0.04)
-BEAR Per Week: 4235.29 ($0.27)
-APR: Day 91.78% Week 642.43% Year 33406.49%
-You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
-Unstake 0.00 [USDC]-[WETH] Uni LP
-Claim 0.00 BEAR ($0.00)
-Staking or unstaking also claims rewards.
-
-23 - [WMATIC]-[WETH] Uni LP [+] [-] [<=>] Price: $241.08 TVL: $110,576,718.27
-WMATIC Price: $2.10
-WETH Price: $3,953.67
-Staked: 0.0023 UNI-V2 ($0.56)
-BEAR Per Week: 4235.29 ($0.27)
-APR: Day 6.94% Week 48.60% Year 2527.06%
-You are staking 0.00 [WMATIC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[WETH] Uni LP - Fee 4%
-Unstake 0.00 [WMATIC]-[WETH] Uni LP
-Claim 0.00 BEAR ($0.00)
-Staking or unstaking also claims rewards.
-
-25 - [WMATIC]-[QUICK] Uni LP [+] [-] [<=>] Price: $64.32 TVL: $9,541,239.85
-WMATIC Price: $2.10
-QUICK Price: $244.78
-Staked: 0.0016 UNI-V2 ($0.10)
-BEAR Per Week: 4235.29 ($0.27)
-APR: Day 38.87% Week 272.11% Year 14149.56%
-You are staking 0.00 [WMATIC]-[QUICK] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[QUICK] Uni LP - Fee 4%
-Unstake 0.00 [WMATIC]-[QUICK] Uni LP
-Claim 0.00 BEAR ($0.00)
-Staking or unstaking also claims rewards.
-
-26 - [USDC]-[QUICK] Uni LP [+] [-] [<=>] Price: $55,691,769.31 TVL: $1,791,135.97
-USDC Price: $1.00
-QUICK Price: $244.78
-Staked: 0.0000 UNI-V2 ($10.01)
-BEAR Per Week: 4235.29 ($0.27)
-APR: Day 0.39% Week 2.74% Year 142.39%
-You are staking 0.00 [USDC]-[QUICK] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[QUICK] Uni LP - Fee 4%
-Unstake 0.00 [USDC]-[QUICK] Uni LP
-Claim 0.00 BEAR ($0.00)
-Staking or unstaking also claims rewards.
-
-27 - [USDC]-[DAI] Uni LP [+] [-] [<=>] Price: $76,294,768.40 TVL: $7,433,208.32
-USDC Price: $1.00
-DAI Price: $1.00
-Staked: 0.0000 UNI-V2 ($0.27)
-BEAR Per Week: 4235.29 ($0.27)
-APR: Day 14.55% Week 101.87% Year 5297.11%
-You are staking 0.00 [USDC]-[DAI] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[DAI] Uni LP - Fee 4%
-Unstake 0.00 [USDC]-[DAI] Uni LP
-Claim 0.00 BEAR ($0.00)
-Staking or unstaking also claims rewards.
-
-28 - [WBTC]-[USDC] Uni LP [+] [-] [<=>] Price: $51,240,353,340,325.29 TVL: $11,475,315.79
-WBTC Price: $47,601.00
-USDC Price: $1.00
-Staked: 0.0000 UNI-V2 ($1.54)
-BEAR Per Week: 4235.29 ($0.27)
-APR: Day 2.53% Week 17.74% Year 922.50%
-You are staking 0.00 [WBTC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WBTC]-[USDC] Uni LP - Fee 4%
-Unstake 0.00 [WBTC]-[USDC] Uni LP
-Claim 0.00 BEAR ($0.00)
-Staking or unstaking also claims rewards.
-
-32 - WMATIC Price: $2.10 Market Cap: $640,022,071.25 [%]
-Staked: 132.5990 WMATIC ($278.46)
-BEAR Per Week: 6352.94 ($0.41)
-APR: Day 0.02% Week 0.15% Year 7.68%
-You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
-Stake 0.00 WMATIC - Fee 4%
-Unstake 0.00 WMATIC
-Claim 0.00 BEAR ($0.00)
-Staking or unstaking also claims rewards.
-
-33 - QUICK Price: $244.78 Market Cap: $233,896,692.34 [%]
-Staked: 0.6026 QUICK ($147.52)
-BEAR Per Week: 4235.29 ($0.27)
-APR: Day 0.03% Week 0.19% Year 9.66%
-You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
-Stake 0.00 QUICK - Fee 4%
-Unstake 0.00 QUICK
-Claim 0.00 BEAR ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $5,336.18
+{
+  "code": -32603,
+  "message": "Non-200 status code: '400'",
+  "data": {
+    "error": "Unable to verify your data submission."
+  }
+}
+Oops something went wrong. Try refreshing the page.

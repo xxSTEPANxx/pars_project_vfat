@@ -1,0 +1,179 @@
+*************** 👨‍🌾 UNOFFICIAL CLAMIDLAND.FI FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://clamisland.fi/
+****************************************************************************************
+
+Thu Jan 27 2022 21:40:33 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 14 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - GEM Price: $0.03 Market Cap: $221,318.46 [%]
+Staked: 678315.9852 GEM ($23,492.66)
+GEM Per Week: 12378.24 ($428.71)
+APR: Day 0.26% Week 1.82% Year 94.89%
+You are staking 0.00 GEM ($0.00), 0.00% of the pool.
+Stake 0.00 GEM
+Unstake 0.00 GEM
+Claim 0.00 GEM ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - SHELL Price: $15.27 Market Cap: $102,003.90 [%]
+Staked: 2386.4739 SHELL ($36,442.11)
+GEM Per Week: 5304.96 ($183.73)
+APR: Day 0.07% Week 0.50% Year 26.22%
+You are staking 0.00 SHELL ($0.00), 0.00% of the pool.
+Stake 0.00 SHELL
+Unstake 0.00 SHELL
+Claim 0.00 GEM ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [SHELL]-[WBNB] Cake LP [+] [-] [<=>] Price: $160.07 TVL: $100,287.25
+SHELL Price: $15.27
+WBNB Price: $368.53
+Staked: 226.1107 Cake-LP ($36,193.37)
+GEM Per Week: 26524.80 ($918.65)
+APR: Day 0.36% Week 2.54% Year 131.99%
+You are staking 0.00 [SHELL]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SHELL]-[WBNB] Cake LP
+Unstake 0.00 [SHELL]-[WBNB] Cake LP
+Claim 0.00 GEM ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [GEM]-[WBNB] Cake LP [+] [-] [<=>] Price: $7.83 TVL: $52,179.45
+GEM Price: $0.03
+WBNB Price: $368.53
+Staked: 6374.6693 Cake-LP ($49,883.92)
+GEM Per Week: 70732.80 ($2,449.75)
+APR: Day 0.70% Week 4.91% Year 255.37%
+You are staking 0.00 [GEM]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GEM]-[WBNB] Cake LP
+Unstake 0.00 [GEM]-[WBNB] Cake LP
+Claim 0.00 GEM ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [BOG]-[WBNB] Cake LP [+] [-] [<=>] Price: $36.40 TVL: $2,423,804.16
+BOG Price: $0.82
+WBNB Price: $368.53
+Staked: 1413.4307 Cake-LP ($51,449.15)
+GEM Per Week: 8841.60 ($306.22)
+APR: Day 0.09% Week 0.60% Year 30.95%
+You are staking 0.00 [BOG]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BOG]-[WBNB] Cake LP
+Unstake 0.00 [BOG]-[WBNB] Cake LP
+Claim 0.00 GEM ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.46 TVL: $346,249,467.13
+WBNB Price: $368.53
+BUSD Price: $1.00
+Staked: 412.4174 Cake-LP ($19,572.62)
+GEM Per Week: 5304.96 ($183.73)
+APR: Day 0.13% Week 0.94% Year 48.81%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 1%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 GEM ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [ETH]-[USDC] Cake LP [+] [-] [<=>] Price: $104.54 TVL: $29,144,928.55
+ETH Price: $2,435.50
+USDC Price: $1.00
+Staked: 305.5107 Cake-LP ($31,936.78)
+GEM Per Week: 5304.96 ($183.73)
+APR: Day 0.08% Week 0.58% Year 29.92%
+You are staking 0.00 [ETH]-[USDC] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[USDC] Cake LP - Fee 1%
+Unstake 0.00 [ETH]-[USDC] Cake LP
+Claim 0.00 GEM ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,036.11 TVL: $74,178,454.87
+ETH Price: $2,435.50
+WBNB Price: $368.53
+Staked: 14.3424 Cake-LP ($29,202.68)
+GEM Per Week: 8841.60 ($306.22)
+APR: Day 0.15% Week 1.05% Year 54.53%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 2%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 GEM ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $7,727.97 TVL: $68,341,260.21
+BTCB Price: $36,105.00
+WBNB Price: $368.53
+Staked: 3.2993 Cake-LP ($25,497.09)
+GEM Per Week: 7073.28 ($244.97)
+APR: Day 0.14% Week 0.96% Year 49.96%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 2%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 GEM ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $105.50 TVL: $200,864,532.12
+Cake Price: $7.00
+WBNB Price: $368.53
+Staked: 174.8930 Cake-LP ($18,451.22)
+GEM Per Week: 7073.28 ($244.97)
+APR: Day 0.19% Week 1.33% Year 69.04%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 2%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 GEM ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [ADA]-[WBNB] Cake LP [+] [-] [<=>] Price: $42.30 TVL: $12,079,732.93
+ADA Price: $1.03
+WBNB Price: $368.53
+Staked: 158.9752 Cake-LP ($6,724.82)
+GEM Per Week: 7073.28 ($244.97)
+APR: Day 0.52% Week 3.64% Year 189.43%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 2%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 GEM ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [DOT]-[WBNB] Cake LP [+] [-] [<=>] Price: $172.58 TVL: $17,716,827.76
+DOT Price: $17.95
+WBNB Price: $368.53
+Staked: 104.3162 Cake-LP ($18,002.56)
+GEM Per Week: 7073.28 ($244.97)
+APR: Day 0.19% Week 1.36% Year 70.76%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 2%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 GEM ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $131,499,884.55
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 35835.6797 Cake-LP ($74,911.86)
+GEM Per Week: 7073.28 ($244.97)
+APR: Day 0.05% Week 0.33% Year 17.00%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 0.5%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 GEM ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [USDT]-[USDC] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $53,870,679.14
+USDT Price: $1.00
+USDC Price: $1.00
+Staked: 38387.1611 Cake-LP ($80,146.79)
+GEM Per Week: 7073.28 ($244.97)
+APR: Day 0.04% Week 0.31% Year 15.89%
+You are staking 0.00 [USDT]-[USDC] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[USDC] Cake LP - Fee 0.5%
+Unstake 0.00 [USDT]-[USDC] Cake LP
+Claim 0.00 GEM ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $501,907.64

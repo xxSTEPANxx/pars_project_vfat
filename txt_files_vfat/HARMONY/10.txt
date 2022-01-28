@@ -1,0 +1,320 @@
+*************** 👨‍🌾 UNOFFICIAL PIGGYBANK FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://piggybank.farm/#/
+**************************************************************************************
+
+Fri Jan 28 2022 01:01:31 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 42 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - COINK Price: $0.000533 Market Cap: $3,154.11 
+Staked: 268452.3092 COINK ($143.10)
+COINK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 COINK ($0.00), 0.00% of the pool.
+Stake 0.00 COINK
+Unstake 0.00 COINK
+Claim 0.00 COINK ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [bscBUSD]-[COINK] VENOM-LP Token [+] [-] [<=>] Price: $0.05 TVL: $78.97
+bscBUSD Price: $1.01
+COINK Price: $0.000533
+Staked: 69.5097 VENOM-LP ($3.69)
+COINK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [bscBUSD]-[COINK] VENOM-LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [bscBUSD]-[COINK] VENOM-LP Token
+Unstake 0.00 [bscBUSD]-[COINK] VENOM-LP Token
+Claim 0.00 COINK ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [COINK]-[WONE] VENOM-LP Token [+] [-] [<=>] Price: $0.02 TVL: $908.48
+COINK Price: $0.000533
+WONE Price: $0.18
+Staked: 19481.4445 VENOM-LP ($443.04)
+COINK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [COINK]-[WONE] VENOM-LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [COINK]-[WONE] VENOM-LP Token
+Unstake 0.00 [COINK]-[WONE] VENOM-LP Token
+Claim 0.00 COINK ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [COINK]-[VIPER] VENOM-LP Token [+] [-] [<=>] Price: $0.04 TVL: $59.75
+COINK Price: $0.000533
+VIPER Price: $0.52
+Staked: 747.3769 VENOM-LP ($28.19)
+COINK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [COINK]-[VIPER] VENOM-LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [COINK]-[VIPER] VENOM-LP Token
+Unstake 0.00 [COINK]-[VIPER] VENOM-LP Token
+Claim 0.00 COINK ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [COINK]-[MOONI] VENOM-LP Token [+] [-] [<=>] Price: $19.77 TVL: $12.82
+COINK Price: $0.000533
+MOONI Price: $0.000115
+Staked: 0.2346 VENOM-LP ($4.64)
+COINK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [COINK]-[MOONI] VENOM-LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [COINK]-[MOONI] VENOM-LP Token
+Unstake 0.00 [COINK]-[MOONI] VENOM-LP Token
+Claim 0.00 COINK ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [COINK]-[LONE] VENOM-LP Token [+] [-] [<=>] Price: $0.25 TVL: $13.14
+COINK Price: $0.000533
+LONE Price: $0.0000000204
+Staked: 6.9811 VENOM-LP ($1.73)
+COINK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [COINK]-[LONE] VENOM-LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [COINK]-[LONE] VENOM-LP Token
+Unstake 0.00 [COINK]-[LONE] VENOM-LP Token
+Claim 0.00 COINK ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [KURO]-[COINK] VENOM-LP Token [+] [-] [<=>] Price: $142.61 TVL: $130.21
+KURO Price: $0.003856
+COINK Price: $0.000533
+Staked: 0.6161 VENOM-LP ($87.86)
+COINK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [KURO]-[COINK] VENOM-LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [KURO]-[COINK] VENOM-LP Token
+Unstake 0.00 [KURO]-[COINK] VENOM-LP Token
+Claim 0.00 COINK ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [COINK]-[XYA] VENOM-LP Token [+] [-] [<=>] Price: $0.02 TVL: $242.42
+COINK Price: $0.000533
+XYA Price: $0.14
+Staked: 917.8616 VENOM-LP ($17.50)
+COINK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [COINK]-[XYA] VENOM-LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [COINK]-[XYA] VENOM-LP Token
+Unstake 0.00 [COINK]-[XYA] VENOM-LP Token
+Claim 0.00 COINK ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [MOONI]-[WONE] VENOM-LP Token [+] [-] [<=>] Price: $661.18 TVL: $1,446.80
+MOONI Price: $0.000115
+WONE Price: $0.18
+Staked: 0.0201 VENOM-LP ($13.32)
+COINK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [MOONI]-[WONE] VENOM-LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [MOONI]-[WONE] VENOM-LP Token
+Unstake 0.00 [MOONI]-[WONE] VENOM-LP Token
+Claim 0.00 COINK ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [WONE]-[bscINJ] VENOM-LP Token [+] [-] [<=>] Price: $1.86 TVL: $1,941.90
+WONE Price: $0.18
+bscINJ Price: $4.78
+Staked: 1044.0449 VENOM-LP ($1,941.90)
+COINK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WONE]-[bscINJ] VENOM-LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WONE]-[bscINJ] VENOM-LP Token
+Unstake 0.00 [WONE]-[bscINJ] VENOM-LP Token
+Claim 0.00 COINK ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [bscBUSD]-[UST] VENOM-LP Token [+] [-] [<=>] Price: $2.09 TVL: $16.16
+bscBUSD Price: $1.01
+UST Price: $1.01
+Staked: 6.7448 VENOM-LP ($14.07)
+COINK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [bscBUSD]-[UST] VENOM-LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [bscBUSD]-[UST] VENOM-LP Token
+Unstake 0.00 [bscBUSD]-[UST] VENOM-LP Token
+Claim 0.00 COINK ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [bscBUSD]-[WONE] VENOM-LP Token [+] [-] [<=>] Price: $1.25 TVL: $1,281.29
+bscBUSD Price: $1.01
+WONE Price: $0.18
+Staked: 2.6945 VENOM-LP ($3.36)
+COINK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [bscBUSD]-[WONE] VENOM-LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [bscBUSD]-[WONE] VENOM-LP Token
+Unstake 0.00 [bscBUSD]-[WONE] VENOM-LP Token
+Claim 0.00 COINK ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [UST]-[WONE] VENOM-LP Token [+] [-] [<=>] Price: $1.01 TVL: $848,783.37
+UST Price: $1.01
+WONE Price: $0.18
+Staked: 0.7839 VENOM-LP ($0.79)
+COINK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [UST]-[WONE] VENOM-LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [UST]-[WONE] VENOM-LP Token
+Unstake 0.00 [UST]-[WONE] VENOM-LP Token
+Claim 0.00 COINK ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [1ETH]-[WONE] VENOM-LP Token [+] [-] [<=>] Price: $48.88 TVL: $421,621.99
+1ETH Price: $2,365.70
+WONE Price: $0.18
+Staked: 0.7514 VENOM-LP ($36.72)
+COINK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [1ETH]-[WONE] VENOM-LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [1ETH]-[WONE] VENOM-LP Token
+Unstake 0.00 [1ETH]-[WONE] VENOM-LP Token
+Claim 0.00 COINK ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [1WBTC]-[WONE] VENOM-LP Token [+] [-] [<=>] Price: $17,214,420.07 TVL: $596,084.01
+1WBTC Price: $35,071.00
+WONE Price: $0.18
+Staked: 0.0000 VENOM-LP ($0.20)
+COINK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [1WBTC]-[WONE] VENOM-LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [1WBTC]-[WONE] VENOM-LP Token
+Unstake 0.00 [1WBTC]-[WONE] VENOM-LP Token
+Claim 0.00 COINK ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [bscADA]-[WONE] VENOM-LP Token [+] [-] [<=>] Price: $0.94 TVL: $250.13
+bscADA Price: $1.00
+WONE Price: $0.18
+Staked: 1.9222 VENOM-LP ($1.81)
+COINK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [bscADA]-[WONE] VENOM-LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [bscADA]-[WONE] VENOM-LP Token
+Unstake 0.00 [bscADA]-[WONE] VENOM-LP Token
+Claim 0.00 COINK ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - [JENN]-[COINK] VENOM-LP Token [+] [-] [<=>] Price: $0.01 TVL: $9.09
+JENN Price: $0.09
+COINK Price: $0.000533
+Staked: 31.3490 VENOM-LP ($0.46)
+COINK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [JENN]-[COINK] VENOM-LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [JENN]-[COINK] VENOM-LP Token
+Unstake 0.00 [JENN]-[COINK] VENOM-LP Token
+Claim 0.00 COINK ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - [hMOCHI]-[COINK] VENOM-LP Token [+] [-] [<=>] Price: $0.00 TVL: $7.13
+hMOCHI Price: $0.002108
+COINK Price: $0.000533
+Staked: 0.1480 VENOM-LP ($0.00)
+COINK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [hMOCHI]-[COINK] VENOM-LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [hMOCHI]-[COINK] VENOM-LP Token
+Unstake 0.00 [hMOCHI]-[COINK] VENOM-LP Token
+Claim 0.00 COINK ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - WONE Price: $0.18 Market Cap: $135,699,127.80 
+Staked: 62.6062 WONE ($11.04)
+COINK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WONE ($0.00), 0.00% of the pool.
+Stake 0.00 WONE
+Unstake 0.00 WONE
+Claim 0.00 COINK ($0.00)
+Staking or unstaking also claims rewards.
+
+29 - [COINK]-[YIN] VENOM-LP Token [+] [-] [<=>] Price: $0.01 TVL: $11.96
+COINK Price: $0.000533
+YIN Price: $0.04
+Staked: 1131.5287 VENOM-LP ($11.07)
+COINK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [COINK]-[YIN] VENOM-LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [COINK]-[YIN] VENOM-LP Token
+Unstake 0.00 [COINK]-[YIN] VENOM-LP Token
+Claim 0.00 COINK ($0.00)
+Staking or unstaking also claims rewards.
+
+30 - [YANG]-[COINK] VENOM-LP Token [+] [-] [<=>] Price: $0.01 TVL: $13.93
+YANG Price: $0.03
+COINK Price: $0.000533
+Staked: 1420.8569 VENOM-LP ($12.94)
+COINK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [YANG]-[COINK] VENOM-LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [YANG]-[COINK] VENOM-LP Token
+Unstake 0.00 [YANG]-[COINK] VENOM-LP Token
+Claim 0.00 COINK ($0.00)
+Staking or unstaking also claims rewards.
+
+31 - [COINK]-[ONEMOON] VENOM-LP Token [+] [-] [<=>] Price: $0.06 TVL: $13.85
+COINK Price: $0.000533
+ONEMOON Price: $0.0000000006
+Staked: 184.1269 VENOM-LP ($10.23)
+COINK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [COINK]-[ONEMOON] VENOM-LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [COINK]-[ONEMOON] VENOM-LP Token
+Unstake 0.00 [COINK]-[ONEMOON] VENOM-LP Token
+Claim 0.00 COINK ($0.00)
+Staking or unstaking also claims rewards.
+
+32 - [1SUSHI]-[WONE] VENOM-LP Token [+] [-] [<=>] Price: $1.75 TVL: $214.12
+1SUSHI Price: $3.97
+WONE Price: $0.18
+Staked: 0.0893 VENOM-LP ($0.16)
+COINK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [1SUSHI]-[WONE] VENOM-LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [1SUSHI]-[WONE] VENOM-LP Token
+Unstake 0.00 [1SUSHI]-[WONE] VENOM-LP Token
+Claim 0.00 COINK ($0.00)
+Staking or unstaking also claims rewards.
+
+37 - VIPER Price: $0.52 Market Cap: $202,980,848.24 
+Staked: 672.5256 VIPER ($349.16)
+COINK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 VIPER ($0.00), 0.00% of the pool.
+Stake 0.00 VIPER
+Unstake 0.00 VIPER
+Claim 0.00 COINK ($0.00)
+Staking or unstaking also claims rewards.
+
+38 - [ARB]-[COINK] VENOM-LP Token [+] [-] [<=>] Price: $0.01 TVL: $6.11
+ARB Price: $0.03
+COINK Price: $0.000533
+Staked: 0.0000 VENOM-LP ($0.00)
+COINK Per Week: 0.00 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [ARB]-[COINK] VENOM-LP Token ($0.00), NaN% of the pool.
+Stake 0.00 [ARB]-[COINK] VENOM-LP Token
+Unstake 0.00 [ARB]-[COINK] VENOM-LP Token
+Claim 0.00 COINK ($0.00)
+Staking or unstaking also claims rewards.
+
+41 - [FOX]-[COINK] VENOM-LP Token [+] [-] [<=>] Price: $0.08 TVL: $62.68
+FOX Price: $2.60
+COINK Price: $0.000533
+Staked: 548.7018 VENOM-LP ($44.22)
+COINK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [FOX]-[COINK] VENOM-LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [FOX]-[COINK] VENOM-LP Token
+Unstake 0.00 [FOX]-[COINK] VENOM-LP Token
+Claim 0.00 COINK ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $3,181.20

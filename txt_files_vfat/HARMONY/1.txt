@@ -1,0 +1,213 @@
+*************** 👨‍🌾 UNOFFICIAL PARROTDEFI HARMONY FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://harmony.parrotdefi.com
+***************************************************************************************
+
+Fri Jan 28 2022 00:57:51 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 21 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [1USDC]-[1PEGG] VENOM-LP Token [+] [-] [<=>] Price: $229,680.00 TVL: $3,112.41
+1USDC Price: $1.00
+1PEGG Price: $0.01
+Staked: 0.0068 VENOM-LP ($1,571.92)
+1PEGG Per Week: 9936.47 ($118.69)
+APR: Day 1.08% Week 7.55% Year 392.64%
+You are staking 0.00 [1USDC]-[1PEGG] VENOM-LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [1USDC]-[1PEGG] VENOM-LP Token
+Unstake 0.00 [1USDC]-[1PEGG] VENOM-LP Token
+Claim 0.00 1PEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [1PEGG]-[WONE] VENOM-LP Token [+] [-] [<=>] Price: $0.10 TVL: $1,040.83
+1PEGG Price: $0.01
+WONE Price: $0.18
+Staked: 10537.7352 VENOM-LP ($1,019.86)
+1PEGG Per Week: 9936.47 ($118.69)
+APR: Day 1.66% Week 11.64% Year 605.18%
+You are staking 0.00 [1PEGG]-[WONE] VENOM-LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [1PEGG]-[WONE] VENOM-LP Token
+Unstake 0.00 [1PEGG]-[WONE] VENOM-LP Token
+Claim 0.00 1PEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [1USDC]-[WONE] SLP [+] [-] [<=>] Price: $1,011,392.45 TVL: $7,921,222.17
+1USDC Price: $1.00
+WONE Price: $0.18
+Staked: 0.0014 SLP ($1,373.76)
+1PEGG Per Week: 2484.12 ($29.67)
+APR: Day 0.31% Week 2.16% Year 112.32%
+You are staking 0.00 [1USDC]-[WONE] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [1USDC]-[WONE] SLP - Fee 2.9%
+Unstake 0.00 [1USDC]-[WONE] SLP
+Claim 0.00 1PEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - 1PEGG Price: $0.01 Market Cap: $8,405.66 
+Staked: 222418.8033 1PEGG ($2,656.80)
+1PEGG Per Week: 4968.24 ($59.35)
+APR: Day 0.32% Week 2.23% Year 116.15%
+You are staking 0.00 1PEGG ($0.00), 0.00% of the pool.
+Stake 0.00 1PEGG
+Unstake 0.00 1PEGG
+Claim 0.00 1PEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - WONE Price: $0.18 Market Cap: $136,000,345.92 
+Staked: 20297.1319 WONE ($3,582.87)
+1PEGG Per Week: 3312.16 ($39.56)
+APR: Day 0.16% Week 1.10% Year 57.42%
+You are staking 0.00 WONE ($0.00), 0.00% of the pool.
+Stake 0.00 WONE - Fee 2.9%
+Unstake 0.00 WONE
+Claim 0.00 1PEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - 1USDC Price: $1.00 Market Cap: $142,878,455.91 
+Staked: 2454.6802 1USDC ($2,454.68)
+1PEGG Per Week: 2484.12 ($29.67)
+APR: Day 0.17% Week 1.21% Year 62.86%
+You are staking 0.00 1USDC ($0.00), 0.00% of the pool.
+Stake 0.00 1USDC - Fee 2.9%
+Unstake 0.00 1USDC
+Claim 0.00 1PEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - 1ETH Price: $0.00 Market Cap: $0.00 
+Staked: 0.6492 1ETH ($0.00)
+1PEGG Per Week: 2484.12 ($29.67)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 1ETH ($0.00), NaN% of the pool.
+Stake 0.00 1ETH - Fee 2.9%
+Unstake 0.00 1ETH
+Claim 0.00 1PEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - 1WBTC Price: $35,520.00 Market Cap: $56,898,229.18 
+Staked: 0.0401 1WBTC ($1,425.16)
+1PEGG Per Week: 2484.12 ($29.67)
+APR: Day 0.30% Week 2.08% Year 108.27%
+You are staking 0.00 1WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 1WBTC - Fee 2.9%
+Unstake 0.00 1WBTC
+Claim 0.00 1PEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - 1DAI Price: $1.00 Market Cap: $29,614,044.30 
+Staked: 5058.5217 1DAI ($5,058.52)
+1PEGG Per Week: 2484.12 ($29.67)
+APR: Day 0.08% Week 0.59% Year 30.50%
+You are staking 0.00 1DAI ($0.00), 0.00% of the pool.
+Stake 0.00 1DAI - Fee 2.9%
+Unstake 0.00 1DAI
+Claim 0.00 1PEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - VIPER Price: $0.00 Market Cap: $0.00 
+Staked: 3086.4469 VIPER ($0.00)
+1PEGG Per Week: 1656.08 ($19.78)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 VIPER ($0.00), NaN% of the pool.
+Stake 0.00 VIPER - Fee 2.9%
+Unstake 0.00 VIPER
+Claim 0.00 1PEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - APE Price: $0.000370 Market Cap: $369,889.74 
+Staked: 3344292.0347 APE ($1,238.26)
+1PEGG Per Week: 1656.08 ($19.78)
+APR: Day 0.23% Week 1.60% Year 83.07%
+You are staking 0.00 APE ($0.00), 0.00% of the pool.
+Stake 0.00 APE - Fee 2.9%
+Unstake 0.00 APE
+Claim 0.00 1PEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - wsWAGMI Price: $0.00 Market Cap: $0.00 
+Staked: 12.5392 wsWAGMI ($0.00)
+1PEGG Per Week: 2484.12 ($29.67)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 wsWAGMI ($0.00), NaN% of the pool.
+Stake 0.00 wsWAGMI - Fee 2.9%
+Unstake 0.00 wsWAGMI
+Claim 0.00 1PEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - 1USDT Price: $1.01 Market Cap: $50,934,211.76 
+Staked: 2384.7663 1USDT ($2,408.61)
+1PEGG Per Week: 2484.12 ($29.67)
+APR: Day 0.18% Week 1.23% Year 64.06%
+You are staking 0.00 1USDT ($0.00), 0.00% of the pool.
+Stake 0.00 1USDT - Fee 2.9%
+Unstake 0.00 1USDT
+Claim 0.00 1PEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - BUSD Price: $0.00 Market Cap: $0.00 
+Staked: 1318.8043 BUSD ($0.00)
+1PEGG Per Week: 2484.12 ($29.67)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BUSD ($0.00), NaN% of the pool.
+Stake 0.00 BUSD - Fee 2.9%
+Unstake 0.00 BUSD
+Claim 0.00 1PEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - UST Price: $1.01 Market Cap: $45,173,695.48 
+Staked: 864.0071 UST ($872.65)
+1PEGG Per Week: 2484.12 ($29.67)
+APR: Day 0.49% Week 3.40% Year 176.82%
+You are staking 0.00 UST ($0.00), 0.00% of the pool.
+Stake 0.00 UST - Fee 2.9%
+Unstake 0.00 UST
+Claim 0.00 1PEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - BPEGG Price: $0.00 Market Cap: $0.00 
+Staked: 35600.8939 BPEGG ($0.00)
+1PEGG Per Week: 4968.24 ($59.35)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BPEGG ($0.00), NaN% of the pool.
+Stake 0.00 BPEGG
+Unstake 0.00 BPEGG
+Claim 0.00 1PEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [BPEGG]-[1USDC] VENOM-LP Token [+] [-] [<=>] Price: $315,955.88 TVL: $1,016.69
+BPEGG Price: $0.02
+1USDC Price: $1.00
+Staked: 0.0032 VENOM-LP ($1,009.30)
+1PEGG Per Week: 4968.24 ($59.35)
+APR: Day 0.84% Week 5.88% Year 305.76%
+You are staking 0.00 [BPEGG]-[1USDC] VENOM-LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [BPEGG]-[1USDC] VENOM-LP Token
+Unstake 0.00 [BPEGG]-[1USDC] VENOM-LP Token
+Claim 0.00 1PEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - LUNA Price: $53.72 Market Cap: $8,378,720.38 
+Staked: 35.3031 LUNA ($1,896.48)
+1PEGG Per Week: 2484.12 ($29.67)
+APR: Day 0.22% Week 1.56% Year 81.36%
+You are staking 0.00 LUNA ($0.00), 0.00% of the pool.
+Stake 0.00 LUNA - Fee 2.9%
+Unstake 0.00 LUNA
+Claim 0.00 1PEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - CGS Price: $0.00 Market Cap: $0.00 
+Staked: 105954.2226 CGS ($0.00)
+1PEGG Per Week: 2484.12 ($29.67)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 CGS ($0.00), NaN% of the pool.
+Stake 0.00 CGS - Fee 2.9%
+Unstake 0.00 CGS
+Claim 0.00 1PEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $26,568.87

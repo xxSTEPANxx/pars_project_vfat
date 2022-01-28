@@ -6,7 +6,7 @@ INFO  : https://polykiwi.finance
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Thu Dec 16 2021 05:58:51 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 23:50:59 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
@@ -14,163 +14,11 @@ Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
 Found 20 pools.
 Showing incentivized pools only.
-Finished reading smart contracts.
-5 - WMATIC Price: $2.15 Market Cap: $654,653,109.88 [%]
-Staked: 497.3958 WMATIC ($1,069.40)
-KIWI Per Week: 0.43 ($22.64)
-APR: Day 0.30% Week 2.12% Year 110.08%
-You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
-Stake 0.00 WMATIC - Fee 4%
-Unstake 0.00 WMATIC
-Claim 0.00 KIWI ($0.00)
-Staking or unstaking also claims rewards.
-
-6 - WBTC Price: $49,029.00 Market Cap: $497,344,370.15 [%]
-Staked: 0.0099 WBTC ($483.15)
-KIWI Per Week: 0.43 ($22.64)
-APR: Day 0.67% Week 4.69% Year 243.66%
-You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
-Stake 0.00 WBTC - Fee 4%
-Unstake 0.00 WBTC
-Claim 0.00 KIWI ($0.00)
-Staking or unstaking also claims rewards.
-
-7 - WETH Price: $4,037.16 Market Cap: $1,791,984,558.97 [%]
-Staked: 0.5919 WETH ($2,389.75)
-KIWI Per Week: 0.43 ($22.64)
-APR: Day 0.14% Week 0.95% Year 49.26%
-You are staking 0.00 WETH ($0.00), 0.00% of the pool.
-Stake 0.00 WETH - Fee 4%
-Unstake 0.00 WETH
-Claim 0.00 KIWI ($0.00)
-Staking or unstaking also claims rewards.
-
-8 - DAI Price: $1.00 Market Cap: $374,131,149.78 [%]
-Staked: 653.6498 DAI ($653.65)
-KIWI Per Week: 0.21 ($11.32)
-APR: Day 0.25% Week 1.73% Year 90.05%
-You are staking 0.00 DAI ($0.00), 0.00% of the pool.
-Stake 0.00 DAI - Fee 4%
-Unstake 0.00 DAI
-Claim 0.00 KIWI ($0.00)
-Staking or unstaking also claims rewards.
-
-9 - USDC Price: $1.00 Market Cap: $943,500,239.53 [%]
-Staked: 503.9709 USDC ($503.97)
-KIWI Per Week: 0.21 ($11.32)
-APR: Day 0.32% Week 2.25% Year 116.80%
-You are staking 0.00 USDC ($0.00), 0.00% of the pool.
-Stake 0.00 USDC - Fee 4%
-Unstake 0.00 USDC
-Claim 0.00 KIWI ($0.00)
-Staking or unstaking also claims rewards.
-
-10 - USDT Price: $1.00 Market Cap: $313,461,279.68 [%]
-Staked: 484.2454 USDT ($484.25)
-KIWI Per Week: 0.21 ($11.32)
-APR: Day 0.33% Week 2.34% Year 121.55%
-You are staking 0.00 USDT ($0.00), 0.00% of the pool.
-Stake 0.00 USDT - Fee 4%
-Unstake 0.00 USDT
-Claim 0.00 KIWI ($0.00)
-Staking or unstaking also claims rewards.
-
-11 - SUSHI Price: $5.92 Market Cap: $3,231,699.24 [%]
-Staked: 32.5029 SUSHI ($192.42)
-KIWI Per Week: 0.21 ($11.32)
-APR: Day 0.84% Week 5.88% Year 305.91%
-You are staking 0.00 SUSHI ($0.00), 0.00% of the pool.
-Stake 0.00 SUSHI - Fee 4%
-Unstake 0.00 SUSHI
-Claim 0.00 KIWI ($0.00)
-Staking or unstaking also claims rewards.
-
-12 - QUICK Price: $251.04 Market Cap: $239,875,769.02 [%]
-Staked: 1.0108 QUICK ($253.76)
-KIWI Per Week: 0.21 ($11.32)
-APR: Day 0.64% Week 4.46% Year 231.96%
-You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
-Stake 0.00 QUICK - Fee 4%
-Unstake 0.00 QUICK
-Claim 0.00 KIWI ($0.00)
-Staking or unstaking also claims rewards.
-
-13 - DFYN Price: $0.34 Market Cap: $20,429,041.50 [%]
-Staked: 519.5478 DFYN ($177.02)
-KIWI Per Week: 0.21 ($11.32)
-APR: Day 0.91% Week 6.39% Year 332.52%
-You are staking 0.00 DFYN ($0.00), 0.00% of the pool.
-Stake 0.00 DFYN - Fee 4%
-Unstake 0.00 DFYN
-Claim 0.00 KIWI ($0.00)
-Staking or unstaking also claims rewards.
-
-14 - AAVE Price: $175.79 Market Cap: $47,853,441.04 [%]
-Staked: 1.2892 AAVE ($226.62)
-KIWI Per Week: 0.21 ($11.32)
-APR: Day 0.71% Week 4.99% Year 259.74%
-You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
-Stake 0.00 AAVE - Fee 4%
-Unstake 0.00 AAVE
-Claim 0.00 KIWI ($0.00)
-Staking or unstaking also claims rewards.
-
-15 - KIWI Price: $0.00 Market Cap: $0.00 
-Staked: 138.0773 KIWI ($0.00)
-KIWI Per Week: 1.29 ($67.92)
-APR: Day NaN% Week NaN% Year NaN%
-You are staking 0.00 KIWI ($0.00), NaN% of the pool.
-Stake 0.00 KIWI
-Unstake 0.00 KIWI
-Claim 0.00 KIWI ($0.00)
-Staking or unstaking also claims rewards.
-
-16 - [WMATIC]-[KIWI] Uni LP [+] [-] [<=>] Price: $21.69 TVL: $575.41
-WMATIC Price: $2.15
-KIWI Price: $52.67
-Staked: 21.4537 UNI-V2 ($465.29)
-KIWI Per Week: 2.58 ($135.84)
-APR: Day 4.17% Week 29.19% Year 1518.07%
-You are staking 0.00 [WMATIC]-[KIWI] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[KIWI] Uni LP - Fee 1%
-Unstake 0.00 [WMATIC]-[KIWI] Uni LP
-Claim 0.00 KIWI ($0.00)
-Staking or unstaking also claims rewards.
-
-17 - [USDC]-[KIWI] Uni LP [+] [-] [<=>] Price: $14,952,290.52 TVL: $1,372.90
-USDC Price: $1.00
-KIWI Price: $52.67
-Staked: 0.0001 UNI-V2 ($877.55)
-KIWI Per Week: 2.58 ($135.84)
-APR: Day 2.21% Week 15.48% Year 804.91%
-You are staking 0.00 [USDC]-[KIWI] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[KIWI] Uni LP - Fee 1%
-Unstake 0.00 [USDC]-[KIWI] Uni LP
-Claim 0.00 KIWI ($0.00)
-Staking or unstaking also claims rewards.
-
-18 - [KIWI]-[WMATIC] DFYN LP [+] [-] [<=>] Price: $21.58 TVL: $427.01
-KIWI Price: $52.67
-WMATIC Price: $2.16
-Staked: 15.5763 DFYNLP ($336.18)
-KIWI Per Week: 2.58 ($135.84)
-APR: Day 5.77% Week 40.41% Year 2101.06%
-You are staking 0.00 [KIWI]-[WMATIC] DFYN LP ($0.00), 0.00% of the pool.
-Stake 0.00 [KIWI]-[WMATIC] DFYN LP - Fee 1%
-Unstake 0.00 [KIWI]-[WMATIC] DFYN LP
-Claim 0.00 KIWI ($0.00)
-Staking or unstaking also claims rewards.
-
-19 - [WMATIC]-[KIWI] SLP [+] [-] [<=>] Price: $21.55 TVL: $467.20
-WMATIC Price: $2.15
-KIWI Price: $52.67
-Staked: 20.5478 SLP ($442.85)
-KIWI Per Week: 2.58 ($135.84)
-APR: Day 4.38% Week 30.67% Year 1594.98%
-You are staking 0.00 [WMATIC]-[KIWI] SLP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[KIWI] SLP - Fee 1%
-Unstake 0.00 [WMATIC]-[KIWI] SLP
-Claim 0.00 KIWI ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $8,555.86
+{
+  "code": -32603,
+  "message": "Non-200 status code: '400'",
+  "data": {
+    "error": "Unable to verify your data submission."
+  }
+}
+Oops something went wrong. Try refreshing the page.

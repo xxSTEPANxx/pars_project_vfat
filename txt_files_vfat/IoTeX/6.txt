@@ -1,0 +1,256 @@
+*************** 👨‍🌾 UNOFFICIAL SEAGULL FINANCE FARMING CALCULATOR 👨‍🌾 ************
+
+
+INFO  : https://seagull.finance/
+
+***********************************************************************************
+
+Fri Jan 28 2022 01:12:26 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 22 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [FISH]-[WIOTX] Mimo LP Token [+] [-] [<=>] Price: $0.15 TVL: $347.65
+FISH Price: $0.07
+WIOTX Price: $0.07
+Staked: 753.7345 MIMO-LP ($116.68)
+FISH Per Week: 76.56 ($5.07)
+APR: Day 0.62% Week 4.35% Year 225.98%
+You are staking 0.00 [FISH]-[WIOTX] Mimo LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [FISH]-[WIOTX] Mimo LP Token
+Unstake 0.00 [FISH]-[WIOTX] Mimo LP Token
+Claim 0.00 FISH ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [FISH]-[ioBUSD] Mimo LP Token [+] [-] [<=>] Price: $0.53 TVL: $585.53
+FISH Price: $0.07
+ioBUSD Price: $1.00
+Staked: 705.0809 MIMO-LP ($377.16)
+FISH Per Week: 76.56 ($5.07)
+APR: Day 0.19% Week 1.34% Year 69.91%
+You are staking 0.00 [FISH]-[ioBUSD] Mimo LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [FISH]-[ioBUSD] Mimo LP Token
+Unstake 0.00 [FISH]-[ioBUSD] Mimo LP Token
+Claim 0.00 FISH ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - FISH Price: $0.07 Market Cap: $722.91 
+Staked: 3282.5571 FISH ($217.41)
+FISH Per Week: 76.56 ($5.07)
+APR: Day 0.33% Week 2.33% Year 121.28%
+You are staking 0.00 FISH ($0.00), 0.00% of the pool.
+Stake 0.00 FISH
+Unstake 0.00 FISH
+Claim 0.00 FISH ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [ioUSDT]-[WIOTX] Mimo LP Token [+] [-] [<=>] Price: $569,852.85 TVL: $1,993,153.38
+ioUSDT Price: $1.01
+WIOTX Price: $0.07
+Staked: 0.0004 MIMO-LP ($205.86)
+FISH Per Week: 26.79 ($1.77)
+APR: Day 0.12% Week 0.86% Year 44.83%
+You are staking 0.00 [ioUSDT]-[WIOTX] Mimo LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [ioUSDT]-[WIOTX] Mimo LP Token - Fee 4%
+Unstake 0.00 [ioUSDT]-[WIOTX] Mimo LP Token
+Claim 0.00 FISH ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [CIOTX]-[WIOTX] Mimo LP Token [+] [-] [<=>] Price: $0.15 TVL: $5,670,146.98
+CIOTX Price: $0.07
+WIOTX Price: $0.07
+Staked: 122.6073 MIMO-LP ($17.98)
+FISH Per Week: 26.79 ($1.77)
+APR: Day 1.41% Week 9.87% Year 513.25%
+You are staking 0.00 [CIOTX]-[WIOTX] Mimo LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [CIOTX]-[WIOTX] Mimo LP Token - Fee 4%
+Unstake 0.00 [CIOTX]-[WIOTX] Mimo LP Token
+Claim 0.00 FISH ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [GFT]-[WIOTX] Mimo LP Token [+] [-] [<=>] Price: $1.72 TVL: $2,535,493.17
+GFT Price: $9.36
+WIOTX Price: $0.07
+Staked: 13.7150 MIMO-LP ($23.63)
+FISH Per Week: 22.97 ($1.52)
+APR: Day 0.92% Week 6.44% Year 334.80%
+You are staking 0.00 [GFT]-[WIOTX] Mimo LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [GFT]-[WIOTX] Mimo LP Token - Fee 4%
+Unstake 0.00 [GFT]-[WIOTX] Mimo LP Token
+Claim 0.00 FISH ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [ioUSDT]-[BUSD-bsc] Mimo LP Token [+] [-] [<=>] Price: $2,043,009.34 TVL: $425,996.90
+ioUSDT Price: $1.01
+BUSD-bsc Price: $1.00
+Staked: 0.0000 MIMO-LP ($49.46)
+FISH Per Week: 19.14 ($1.27)
+APR: Day 0.37% Week 2.56% Year 133.27%
+You are staking 0.00 [ioUSDT]-[BUSD-bsc] Mimo LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [ioUSDT]-[BUSD-bsc] Mimo LP Token - Fee 4%
+Unstake 0.00 [ioUSDT]-[BUSD-bsc] Mimo LP Token
+Claim 0.00 FISH ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - WIOTX Price: $0.07 Market Cap: $74,495,323.03 
+Staked: 10096.3300 WIOTX ($740.34)
+FISH Per Week: 26.79 ($1.77)
+APR: Day 0.03% Week 0.24% Year 12.46%
+You are staking 0.00 WIOTX ($0.00), 0.00% of the pool.
+Stake 0.00 WIOTX - Fee 4%
+Unstake 0.00 WIOTX
+Claim 0.00 FISH ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - CYC Price: $131.87 Market Cap: $2,157,232.53 
+Staked: 0.5018 CYC ($66.17)
+FISH Per Week: 26.79 ($1.77)
+APR: Day 0.38% Week 2.68% Year 139.46%
+You are staking 0.00 CYC ($0.00), 0.00% of the pool.
+Stake 0.00 CYC - Fee 4%
+Unstake 0.00 CYC
+Claim 0.00 FISH ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - USDT-matic Price: $1.00 Market Cap: $176,143.82 
+Staked: 264.6084 USDT-matic ($264.39)
+FISH Per Week: 22.97 ($1.52)
+APR: Day 0.08% Week 0.58% Year 29.92%
+You are staking 0.00 USDT-matic ($0.00), 0.00% of the pool.
+Stake 0.00 USDT-matic - Fee 4%
+Unstake 0.00 USDT-matic
+Claim 0.00 FISH ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - DAI-matic Price: $1.00 Market Cap: $259,772.01 
+Staked: 107.5496 DAI-matic ($107.55)
+FISH Per Week: 22.97 ($1.52)
+APR: Day 0.20% Week 1.41% Year 73.55%
+You are staking 0.00 DAI-matic ($0.00), 0.00% of the pool.
+Stake 0.00 DAI-matic - Fee 4%
+Unstake 0.00 DAI-matic
+Claim 0.00 FISH ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - ioBUSD Price: $1.00 Market Cap: $871,484.75 
+Staked: 157.9756 ioBUSD ($157.98)
+FISH Per Week: 19.14 ($1.27)
+APR: Day 0.11% Week 0.80% Year 41.73%
+You are staking 0.00 ioBUSD ($0.00), 0.00% of the pool.
+Stake 0.00 ioBUSD - Fee 4%
+Unstake 0.00 ioBUSD
+Claim 0.00 FISH ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - ioETH Price: $2,240.15 Market Cap: $2,181,135.28 
+Staked: 0.0329 ioETH ($73.61)
+FISH Per Week: 19.14 ($1.27)
+APR: Day 0.25% Week 1.72% Year 89.55%
+You are staking 0.00 ioETH ($0.00), 0.00% of the pool.
+Stake 0.00 ioETH - Fee 4%
+Unstake 0.00 ioETH
+Claim 0.00 FISH ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - ioUSDC Price: $1.00 Market Cap: $1,234,623.51 
+Staked: 360.3726 ioUSDC ($360.37)
+FISH Per Week: 19.14 ($1.27)
+APR: Day 0.05% Week 0.35% Year 18.29%
+You are staking 0.00 ioUSDC ($0.00), 0.00% of the pool.
+Stake 0.00 ioUSDC - Fee 4%
+Unstake 0.00 ioUSDC
+Claim 0.00 FISH ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - ioWBTC Price: $35,907.00 Market Cap: $456,697.11 
+Staked: 0.0015 ioWBTC ($53.99)
+FISH Per Week: 19.14 ($1.27)
+APR: Day 0.34% Week 2.35% Year 122.09%
+You are staking 0.00 ioWBTC ($0.00), 0.00% of the pool.
+Stake 0.00 ioWBTC - Fee 4%
+Unstake 0.00 ioWBTC
+Claim 0.00 FISH ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - MCN Price: $20.89 Market Cap: $154,854.42 
+Staked: 0.6848 MCN ($14.30)
+FISH Per Week: 22.97 ($1.52)
+APR: Day 1.52% Week 10.63% Year 552.96%
+You are staking 0.00 MCN ($0.00), 0.00% of the pool.
+Stake 0.00 MCN - Fee 4%
+Unstake 0.00 MCN
+Claim 0.00 FISH ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - METX Price: $0.00 Market Cap: $0.00 
+Staked: 442490.0350 METX ($0.00)
+FISH Per Week: 7.66 ($0.51)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 METX ($0.00), NaN% of the pool.
+Stake 0.00 METX - Fee 4%
+Unstake 0.00 METX
+Claim 0.00 FISH ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [CYC]-[WIOTX] Mimo LP Token [+] [-] [<=>] Price: $6.44 TVL: $1,608,997.16
+CYC Price: $131.87
+WIOTX Price: $0.07
+Staked: 5.7539 MIMO-LP ($37.05)
+FISH Per Week: 26.79 ($1.77)
+APR: Day 0.68% Week 4.79% Year 249.09%
+You are staking 0.00 [CYC]-[WIOTX] Mimo LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [CYC]-[WIOTX] Mimo LP Token - Fee 4%
+Unstake 0.00 [CYC]-[WIOTX] Mimo LP Token
+Claim 0.00 FISH ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [USDT-matic]-[ioUSDT] Mimo LP Token [+] [-] [<=>] Price: $2,056,647,917,864.47 TVL: $3,734.98
+USDT-matic Price: $1.00
+ioUSDT Price: $1.01
+Staked: 0.0000 MIMO-LP ($118.19)
+FISH Per Week: 19.14 ($1.27)
+APR: Day 0.15% Week 1.07% Year 55.77%
+You are staking 0.00 [USDT-matic]-[ioUSDT] Mimo LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT-matic]-[ioUSDT] Mimo LP Token - Fee 4%
+Unstake 0.00 [USDT-matic]-[ioUSDT] Mimo LP Token
+Claim 0.00 FISH ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [ioUSDC]-[WIOTX] Mimo LP Token [+] [-] [<=>] Price: $561,397.04 TVL: $1,230,384.94
+ioUSDC Price: $1.00
+WIOTX Price: $0.07
+Staked: 0.0001 MIMO-LP ($44.71)
+FISH Per Week: 19.14 ($1.27)
+APR: Day 0.41% Week 2.84% Year 147.44%
+You are staking 0.00 [ioUSDC]-[WIOTX] Mimo LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [ioUSDC]-[WIOTX] Mimo LP Token - Fee 4%
+Unstake 0.00 [ioUSDC]-[WIOTX] Mimo LP Token
+Claim 0.00 FISH ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - iMAGIC Price: $0.05 Market Cap: $43,648.43 
+Staked: 43.7133 iMAGIC ($2.20)
+FISH Per Week: 3.83 ($0.25)
+APR: Day 1.65% Week 11.55% Year 600.47%
+You are staking 0.00 iMAGIC ($0.00), 0.00% of the pool.
+Stake 0.00 iMAGIC - Fee 2%
+Unstake 0.00 iMAGIC
+Claim 0.00 FISH ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - CLOUD Price: $0.00 Market Cap: $0.00 
+Staked: 51.0039 CLOUD ($0.00)
+FISH Per Week: 3.83 ($0.25)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 CLOUD ($0.00), NaN% of the pool.
+Stake 0.00 CLOUD - Fee 2%
+Unstake 0.00 CLOUD
+Claim 0.00 FISH ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $3,049.02

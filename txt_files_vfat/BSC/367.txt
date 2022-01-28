@@ -1,0 +1,22 @@
+*************** 👨‍🌾 UNOFFICIAL COSMOS FARM (MARS) FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://mars.cosmos.farm
+****************************************************************************************
+
+Thu Jan 27 2022 21:19:02 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 47 pools.
+Showing incentivized pools only.
+{
+  "code": -32603,
+  "message": "Internal JSON-RPC error.",
+  "data": {
+    "code": -32000,
+    "message": "execution reverted"
+  }
+}
+Oops something went wrong. Try refreshing the page.

@@ -2,187 +2,31 @@
 INFO  : https://polyapp.cougarswap.io
 **************************************************************************************
 
-Thu Dec 16 2021 05:47:48 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 23:46:27 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
-Found 16 pools.
-Showing incentivized pools only.
-Finished reading smart contracts.
-0 - [COUGAR]-[USDC] Uni LP [+] [-] [<=>] Price: $195,394.75 TVL: $2,459.58
-COUGAR Price: $0.008883
-USDC Price: $1.00
-Staked: 0.0031 UNI-V2 ($601.49)
-CGS Per Week: 10472.73 ($93.03)
-APR: Day 2.21% Week 15.47% Year 804.27%
-You are staking 0.00 [COUGAR]-[USDC] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [COUGAR]-[USDC] Uni LP
-Unstake 0.00 [COUGAR]-[USDC] Uni LP
-Claim 0.00 CGS ($0.00)
-Staking or unstaking also claims rewards.
-
-1 - [COUGAR]-[WMATIC] Uni LP [+] [-] [<=>] Price: $0.29 TVL: $4,845.50
-COUGAR Price: $0.008883
-WMATIC Price: $2.15
-Staked: 2809.6078 UNI-V2 ($801.24)
-CGS Per Week: 10472.73 ($93.03)
-APR: Day 1.66% Week 11.61% Year 603.77%
-You are staking 0.00 [COUGAR]-[WMATIC] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [COUGAR]-[WMATIC] Uni LP
-Unstake 0.00 [COUGAR]-[WMATIC] Uni LP
-Claim 0.00 CGS ($0.00)
-Staking or unstaking also claims rewards.
-
-2 - [COUGAR]-[USDC] APE LP [+] [-] [<=>] Price: $191,804.19 TVL: $1,207.57
-COUGAR Price: $0.008883
-USDC Price: $1.00
-Staked: 0.0030 APE-LP ($572.63)
-CGS Per Week: 10472.73 ($93.03)
-APR: Day 2.32% Week 16.25% Year 844.81%
-You are staking 0.00 [COUGAR]-[USDC] APE LP ($0.00), 0.00% of the pool.
-Stake 0.00 [COUGAR]-[USDC] APE LP
-Unstake 0.00 [COUGAR]-[USDC] APE LP
-Claim 0.00 CGS ($0.00)
-Staking or unstaking also claims rewards.
-
-3 - [COUGAR]-[WMATIC] APE LP [+] [-] [<=>] Price: $0.29 TVL: $2,254.00
-COUGAR Price: $0.008883
-WMATIC Price: $2.15
-Staked: 4976.8044 APE-LP ($1,423.53)
-CGS Per Week: 10472.73 ($93.03)
-APR: Day 0.93% Week 6.54% Year 339.83%
-You are staking 0.00 [COUGAR]-[WMATIC] APE LP ($0.00), 0.00% of the pool.
-Stake 0.00 [COUGAR]-[WMATIC] APE LP
-Unstake 0.00 [COUGAR]-[WMATIC] APE LP
-Claim 0.00 CGS ($0.00)
-Staking or unstaking also claims rewards.
-
-4 - [COUGAR]-[USDC] SLP [+] [-] [<=>] Price: $194,343.87 TVL: $1,122.79
-COUGAR Price: $0.008883
-USDC Price: $1.00
-Staked: 0.0025 SLP ($483.47)
-CGS Per Week: 10472.73 ($93.03)
-APR: Day 2.75% Week 19.24% Year 1000.59%
-You are staking 0.00 [COUGAR]-[USDC] SLP ($0.00), 0.00% of the pool.
-Stake 0.00 [COUGAR]-[USDC] SLP
-Unstake 0.00 [COUGAR]-[USDC] SLP
-Claim 0.00 CGS ($0.00)
-Staking or unstaking also claims rewards.
-
-5 - [COUGAR]-[WMATIC] SLP [+] [-] [<=>] Price: $0.29 TVL: $1,364.33
-COUGAR Price: $0.008883
-WMATIC Price: $2.15
-Staked: 1885.7131 SLP ($544.09)
-CGS Per Week: 10472.73 ($93.03)
-APR: Day 2.44% Week 17.10% Year 889.12%
-You are staking 0.00 [COUGAR]-[WMATIC] SLP ($0.00), 0.00% of the pool.
-Stake 0.00 [COUGAR]-[WMATIC] SLP
-Unstake 0.00 [COUGAR]-[WMATIC] SLP
-Claim 0.00 CGS ($0.00)
-Staking or unstaking also claims rewards.
-
-6 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,872,784.48 TVL: $52,318,158.81
-WMATIC Price: $2.15
-USDC Price: $1.00
-Staked: 0.0001 UNI-V2 ($676.50)
-CGS Per Week: 2618.18 ($23.26)
-APR: Day 0.49% Week 3.44% Year 178.77%
-You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
-Unstake 0.00 [WMATIC]-[USDC] Uni LP
-Claim 0.00 CGS ($0.00)
-Staking or unstaking also claims rewards.
-
-7 - COUGAR Price: $0.008883 Market Cap: $23,536.81 [%]
-Staked: 157163.9896 COUGAR ($1,396.11)
-CGS Per Week: 7854.55 ($69.77)
-APR: Day 0.71% Week 5.00% Year 259.88%
-You are staking 0.00 COUGAR ($0.00), 0.00% of the pool.
-Stake 0.00 COUGAR
-Unstake 0.00 COUGAR
-Claim 0.00 CGS ($0.00)
-Staking or unstaking also claims rewards.
-
-8 - USDC Price: $1.00 Market Cap: $943,395,526.17 [%]
-Staked: 533.1008 USDC ($533.10)
-CGS Per Week: 1047.27 ($9.30)
-APR: Day 0.25% Week 1.75% Year 90.74%
-You are staking 0.00 USDC ($0.00), 0.00% of the pool.
-Stake 0.00 USDC - Fee 4%
-Unstake 0.00 USDC
-Claim 0.00 CGS ($0.00)
-Staking or unstaking also claims rewards.
-
-9 - USDT Price: $1.00 Market Cap: $313,461,123.87 [%]
-Staked: 426.3788 USDT ($426.38)
-CGS Per Week: 1047.27 ($9.30)
-APR: Day 0.31% Week 2.18% Year 113.46%
-You are staking 0.00 USDT ($0.00), 0.00% of the pool.
-Stake 0.00 USDT - Fee 4%
-Unstake 0.00 USDT
-Claim 0.00 CGS ($0.00)
-Staking or unstaking also claims rewards.
-
-10 - WMATIC Price: $2.15 Market Cap: $654,539,441.56 [%]
-Staked: 3048.8146 WMATIC ($6,554.95)
-CGS Per Week: 2094.55 ($18.61)
-APR: Day 0.04% Week 0.28% Year 14.76%
-You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
-Stake 0.00 WMATIC - Fee 4%
-Unstake 0.00 WMATIC
-Claim 0.00 CGS ($0.00)
-Staking or unstaking also claims rewards.
-
-11 - WBTC Price: $49,041.00 Market Cap: $497,466,096.73 [%]
-Staked: 0.0206 WBTC ($1,009.78)
-CGS Per Week: 2094.55 ($18.61)
-APR: Day 0.26% Week 1.84% Year 95.81%
-You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
-Stake 0.00 WBTC - Fee 4%
-Unstake 0.00 WBTC
-Claim 0.00 CGS ($0.00)
-Staking or unstaking also claims rewards.
-
-12 - WETH Price: $4,037.32 Market Cap: $1,791,976,592.67 [%]
-Staked: 0.1554 WETH ($627.35)
-CGS Per Week: 2094.55 ($18.61)
-APR: Day 0.42% Week 2.97% Year 154.22%
-You are staking 0.00 WETH ($0.00), 0.00% of the pool.
-Stake 0.00 WETH - Fee 4%
-Unstake 0.00 WETH
-Claim 0.00 CGS ($0.00)
-Staking or unstaking also claims rewards.
-
-13 - QUICK Price: $251.15 Market Cap: $239,980,877.11 [%]
-Staked: 1.1356 QUICK ($285.20)
-CGS Per Week: 1570.91 ($13.95)
-APR: Day 0.70% Week 4.89% Year 254.43%
-You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
-Stake 0.00 QUICK - Fee 4%
-Unstake 0.00 QUICK
-Claim 0.00 CGS ($0.00)
-Staking or unstaking also claims rewards.
-
-14 - BANANA Price: $0.00 Market Cap: $0.00 
-Staked: 162.5430 BANANA ($0.00)
-CGS Per Week: 1570.91 ($13.95)
-APR: Day NaN% Week NaN% Year NaN%
-You are staking 0.00 BANANA ($0.00), NaN% of the pool.
-Stake 0.00 BANANA - Fee 4%
-Unstake 0.00 BANANA
-Claim 0.00 CGS ($0.00)
-Staking or unstaking also claims rewards.
-
-15 - SUSHI Price: $5.92 Market Cap: $3,231,699.24 [%]
-Staked: 85.2492 SUSHI ($504.68)
-CGS Per Week: 1570.91 ($13.95)
-APR: Day 0.40% Week 2.77% Year 143.78%
-You are staking 0.00 SUSHI ($0.00), 0.00% of the pool.
-Stake 0.00 SUSHI - Fee 4%
-Unstake 0.00 SUSHI
-Claim 0.00 CGS ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $16,440.49
+{
+  "code": -32603,
+  "message": "JsonRpcEngine: Response has no error or result for request:\n{\n  \"method\": \"eth_call\",\n  \"params\": [\n    {\n      \"to\": \"0x9bfcf65e7de424a6d89eef23b3df8cdc965c654f\",\n      \"data\": \"0xd8d00c5c\"\n    },\n    \"0x171dc32\"\n  ],\n  \"jsonrpc\": \"2.0\",\n  \"id\": 4154954159,\n  \"origin\": \"https://vfat.tools\",\n  \"tabId\": 2\n}",
+  "data": {
+    "request": {
+      "method": "eth_call",
+      "params": [
+        {
+          "to": "0x9bfcf65e7de424a6d89eef23b3df8cdc965c654f",
+          "data": "0xd8d00c5c"
+        },
+        "0x171dc32"
+      ],
+      "jsonrpc": "2.0",
+      "id": 4154954159,
+      "origin": "https://vfat.tools",
+      "tabId": 2
+    }
+  },
+  "stack": "{\n  \"code\": -32603,\n  \"message\": \"JsonRpcEngine: Response has no error or result for request:\\n{\\n  \\\"method\\\": \\\"eth_call\\\",\\n  \\\"params\\\": [\\n    {\\n      \\\"to\\\": \\\"0x9bfcf65e7de424a6d89eef23b3df8cdc965c654f\\\",\\n      \\\"data\\\": \\\"0xd8d00c5c\\\"\\n    },\\n    \\\"0x171dc32\\\"\\n  ],\\n  \\\"jsonrpc\\\": \\\"2.0\\\",\\n  \\\"id\\\": 4154954159,\\n  \\\"origin\\\": \\\"https://vfat.tools\\\",\\n  \\\"tabId\\\": 2\\n}\",\n  \"data\": {\n    \"request\": {\n      \"method\": \"eth_call\",\n      \"params\": [\n        {\n          \"to\": \"0x9bfcf65e7de424a6d89eef23b3df8cdc965c654f\",\n          \"data\": \"0xd8d00c5c\"\n        },\n        \"0x171dc32\"\n      ],\n      \"jsonrpc\": \"2.0\",\n      \"id\": 4154954159,\n      \"origin\": \"https://vfat.tools\",\n      \"tabId\": 2\n    }\n  },\n  \"stack\": \"Error: JsonRpcEngine: Response has no error or result for request:\\n{\\n  \\\"method\\\": \\\"eth_call\\\",\\n  \\\"params\\\": [\\n    {\\n      \\\"to\\\": \\\"0x9bfcf65e7de424a6d89eef23b3df8cdc965c654f\\\",\\n      \\\"data\\\": \\\"0xd8d00c5c\\\"\\n    },\\n    \\\"0x171dc32\\\"\\n  ],\\n  \\\"jsonrpc\\\": \\\"2.0\\\",\\n  \\\"id\\\": 4154954159,\\n  \\\"origin\\\": \\\"https://vfat.tools\\\",\\n  \\\"tabId\\\": 2\\n}\\n    at new o (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/common-1.js:16:24204)\\n    at Function._checkForCompletion (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:305269)\\n    at a._processRequest (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304461)\\n    at async a._handle (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304249)\"\n}\n  at new o (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/common-1.js:16:24204)\n  at Function._checkForCompletion (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:305269)\n  at a._processRequest (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304461)\n  at async a._handle (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304249)"
+}
+Oops something went wrong. Try refreshing the page.

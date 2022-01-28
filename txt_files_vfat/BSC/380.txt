@@ -1,0 +1,347 @@
+*************** 👨‍🌾 UNOFFICIAL MAGICBEANS FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://magicbeans.finance/
+**********************************************************************************
+
+Thu Jan 27 2022 21:21:08 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 29 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - BEANS Price: $0.00 Market Cap: $0.00 
+Staked: 437321.6984 BEANS ($0.00)
+BEANS Per Week: 9376.74 ($0.23)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BEANS ($0.00), NaN% of the pool.
+Stake 0.00 BEANS
+Unstake 0.00 BEANS
+Claim 0.00 BEANS ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [BEANS]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.01 TVL: $14.94
+BEANS Price: $0.0000242649
+BUSD Price: $1.00
+Staked: 1352.0298 Cake-LP ($13.80)
+BEANS Per Week: 23441.86 ($0.57)
+APR: Day 0.59% Week 4.12% Year 214.40%
+You are staking 0.00 [BEANS]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BEANS]-[BUSD] Cake LP
+Unstake 0.00 [BEANS]-[BUSD] Cake LP
+Claim 0.00 BEANS ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [BEANS]-[WBNB] Cake LP [+] [-] [<=>] Price: $0.19 TVL: $16.33
+BEANS Price: $0.0000242649
+WBNB Price: $367.93
+Staked: 70.2714 Cake-LP ($13.66)
+BEANS Per Week: 17581.40 ($0.43)
+APR: Day 0.45% Week 3.12% Year 162.40%
+You are staking 0.00 [BEANS]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BEANS]-[WBNB] Cake LP
+Unstake 0.00 [BEANS]-[WBNB] Cake LP
+Claim 0.00 BEANS ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.40 TVL: $345,812,075.97
+WBNB Price: $367.93
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+BEANS Per Week: 3125.58 ($0.08)
+APR: Day 4711.92% Week 32983.45% Year 1715139.39%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 BEANS ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $297,059,214.36
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+BEANS Per Week: 3125.58 ($0.08)
+APR: Day 112730.82% Week 789115.72% Year 41034017.42%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 BEANS ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [DAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $16,857,810.58
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 9.4051 Cake-LP ($19.62)
+BEANS Per Week: 3125.58 ($0.08)
+APR: Day 0.06% Week 0.39% Year 20.10%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 BEANS ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [Cake]-[BUSD] Cake LP [+] [-] [<=>] Price: $7.80 TVL: $11,481,720.48
+Cake Price: $6.98
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+BEANS Per Week: 2344.19 ($0.06)
+APR: Day 5450.01% Week 38150.06% Year 1983803.19%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 BEANS ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [TWT]-[WBNB] Cake LP [+] [-] [<=>] Price: $29.38 TVL: $2,137,908.15
+TWT Price: $0.49
+WBNB Price: $367.93
+Staked: 0.0000 Cake-LP ($0.00)
+BEANS Per Week: 2344.19 ($0.06)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [TWT]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [TWT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [TWT]-[WBNB] Cake LP
+Claim 0.00 BEANS ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [WBNB]-[UNI] Cake LP [+] [-] [<=>] Price: $129.68 TVL: $6,848,960.75
+WBNB Price: $367.93
+UNI Price: $10.65
+Staked: 0.5888 Cake-LP ($76.35)
+BEANS Per Week: 2344.19 ($0.06)
+APR: Day 0.01% Week 0.07% Year 3.87%
+You are staking 0.00 [WBNB]-[UNI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[UNI] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[UNI] Cake LP
+Claim 0.00 BEANS ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $7,731.84 TVL: $68,375,301.88
+BTCB Price: $36,200.00
+WBNB Price: $367.93
+Staked: 0.0000 Cake-LP ($0.00)
+BEANS Per Week: 2344.19 ($0.06)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 BEANS ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,028.03 TVL: $73,885,734.66
+ETH Price: $2,420.15
+WBNB Price: $367.93
+Staked: 0.0000 Cake-LP ($0.00)
+BEANS Per Week: 2344.19 ($0.06)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 BEANS ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $105.26 TVL: $200,408,391.46
+Cake Price: $6.98
+WBNB Price: $367.93
+Staked: 0.0000 Cake-LP ($0.00)
+BEANS Per Week: 2344.19 ($0.06)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 BEANS ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $131,424,885.95
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+BEANS Per Week: 2344.19 ($0.06)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 BEANS ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [DOT]-[WBNB] Cake LP [+] [-] [<=>] Price: $172.48 TVL: $17,707,342.52
+DOT Price: $17.96
+WBNB Price: $367.93
+Staked: 0.4523 Cake-LP ($78.02)
+BEANS Per Week: 2344.19 ($0.06)
+APR: Day 0.01% Week 0.07% Year 3.79%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 BEANS ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [ADA]-[WBNB] Cake LP [+] [-] [<=>] Price: $42.27 TVL: $12,069,891.17
+ADA Price: $1.03
+WBNB Price: $367.93
+Staked: 0.0000 Cake-LP ($0.00)
+BEANS Per Week: 2344.19 ($0.06)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 BEANS ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [USDT]-[WBNB] Cake LP [+] [-] [<=>] Price: $48.70 TVL: $190,283,527.10
+USDT Price: $1.00
+WBNB Price: $367.93
+Staked: 0.0000 Cake-LP ($0.00)
+BEANS Per Week: 2344.19 ($0.06)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDT]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[WBNB] Cake LP
+Claim 0.00 BEANS ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [BTCB]-[BUSD] Cake LP [+] [-] [<=>] Price: $412.59 TVL: $50,395,984.51
+BTCB Price: $36,200.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+BEANS Per Week: 1562.79 ($0.04)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [BTCB]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [BTCB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[BUSD] Cake LP
+Claim 0.00 BEANS ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [WBNB]-[LINK] Cake LP [+] [-] [<=>] Price: $155.75 TVL: $10,360,558.46
+WBNB Price: $367.93
+LINK Price: $15.01
+Staked: 0.0000 Cake-LP ($0.00)
+BEANS Per Week: 1562.79 ($0.04)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WBNB]-[LINK] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBNB]-[LINK] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[LINK] Cake LP
+Claim 0.00 BEANS ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [DOGE]-[WBNB] Cake LP [+] [-] [<=>] Price: $1,657,024.90 TVL: $5,596,206.07
+DOGE Price: $0.14
+WBNB Price: $367.93
+Staked: 0.0000 Cake-LP ($0.00)
+BEANS Per Week: 1562.79 ($0.04)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [DOGE]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [DOGE]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOGE]-[WBNB] Cake LP
+Claim 0.00 BEANS ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [XRP]-[WBNB] Cake LP [+] [-] [<=>] Price: $31.66 TVL: $6,970,604.13
+XRP Price: $0.61
+WBNB Price: $367.93
+Staked: 0.0000 Cake-LP ($0.00)
+BEANS Per Week: 1562.79 ($0.04)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [XRP]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [XRP]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [XRP]-[WBNB] Cake LP
+Claim 0.00 BEANS ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - [VAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.04 TVL: $8,574,807.14
+VAI Price: $0.93
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+BEANS Per Week: 1562.79 ($0.04)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [VAI]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [VAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [VAI]-[BUSD] Cake LP
+Claim 0.00 BEANS ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - [TRX]-[WBNB] Cake LP [+] [-] [<=>] Price: $9.83 TVL: $251,365.92
+TRX Price: $0.06
+WBNB Price: $367.93
+Staked: 0.0000 Cake-LP ($0.00)
+BEANS Per Week: 1562.79 ($0.04)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [TRX]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [TRX]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [TRX]-[WBNB] Cake LP
+Claim 0.00 BEANS ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - DAI Price: $1.00 Market Cap: $262,000,000.00 [%]
+Staked: 96.0000 DAI ($96.00)
+BEANS Per Week: 1172.09 ($0.03)
+APR: Day 0.00% Week 0.03% Year 1.54%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 BEANS ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - Cake Price: $6.98 Market Cap: $4,292,449,904.12 [%]
+Staked: 0.9288 Cake ($6.48)
+BEANS Per Week: 1172.09 ($0.03)
+APR: Day 0.06% Week 0.44% Year 22.81%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 BEANS ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - BTCB Price: $36,200.00 Market Cap: $4,072,536,200.00 [%]
+Staked: 0.0000 BTCB ($0.00)
+BEANS Per Week: 1172.09 ($0.03)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 BTCB ($0.00), NaN% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 BEANS ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - WBNB Price: $367.93 Market Cap: $1,919,952,584.61 [%]
+Staked: 0.1152 WBNB ($42.39)
+BEANS Per Week: 1172.09 ($0.03)
+APR: Day 0.01% Week 0.07% Year 3.49%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 BEANS ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - BUSD Price: $1.00 Market Cap: $4,844,435,986.46 [%]
+Staked: 45.1919 BUSD ($45.13)
+BEANS Per Week: 1172.09 ($0.03)
+APR: Day 0.01% Week 0.06% Year 3.28%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 BEANS ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - USDC Price: $1.00 Market Cap: $1,778,726,034.00 [%]
+Staked: 0.0000 USDC ($0.00)
+BEANS Per Week: 1172.09 ($0.03)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 USDC ($0.00), NaN% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 BEANS ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - USDT Price: $1.00 Market Cap: $3,879,997,922.18 [%]
+Staked: 189.5409 USDT ($189.54)
+BEANS Per Week: 1172.09 ($0.03)
+APR: Day 0.00% Week 0.02% Year 0.78%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 BEANS ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $580.99

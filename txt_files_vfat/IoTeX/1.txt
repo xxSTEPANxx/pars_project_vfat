@@ -1,0 +1,333 @@
+*************** 👨‍🌾 UNOFFICIAL PARROTDEFI FARMING CALCULATOR 👨‍🌾 ************
+INFO  : https://iotex.parrotdefi.com
+****************************************************************************
+
+Fri Jan 28 2022 01:11:36 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 31 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [iPEGG]-[BUSD-bsc] Mimo LP Token [+] [-] [<=>] Price: $0.24 TVL: $1,321.75
+iPEGG Price: $0.01
+BUSD-bsc Price: $1.00
+Staked: 5134.9942 MIMO-LP ($1,230.10)
+iPEGG Per Week: 1116.51 ($13.88)
+APR: Day 0.16% Week 1.13% Year 58.67%
+You are staking 0.00 [iPEGG]-[BUSD-bsc] Mimo LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [iPEGG]-[BUSD-bsc] Mimo LP Token
+Unstake 0.00 [iPEGG]-[BUSD-bsc] Mimo LP Token
+Claim 0.00 iPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [iPEGG]-[WIOTX] Mimo LP Token [+] [-] [<=>] Price: $0.07 TVL: $1,712.23
+iPEGG Price: $0.01
+WIOTX Price: $0.07
+Staked: 24352.1707 MIMO-LP ($1,583.50)
+iPEGG Per Week: 1116.51 ($13.88)
+APR: Day 0.13% Week 0.88% Year 45.58%
+You are staking 0.00 [iPEGG]-[WIOTX] Mimo LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [iPEGG]-[WIOTX] Mimo LP Token
+Unstake 0.00 [iPEGG]-[WIOTX] Mimo LP Token
+Claim 0.00 iPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [BUSD-bsc]-[WIOTX] Mimo LP Token [+] [-] [<=>] Price: $0.64 TVL: $1,806,258.55
+BUSD-bsc Price: $1.00
+WIOTX Price: $0.07
+Staked: 1000.0096 MIMO-LP ($641.86)
+iPEGG Per Week: 209.35 ($2.60)
+APR: Day 0.06% Week 0.41% Year 21.08%
+You are staking 0.00 [BUSD-bsc]-[WIOTX] Mimo LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [BUSD-bsc]-[WIOTX] Mimo LP Token - Fee 0.5%
+Unstake 0.00 [BUSD-bsc]-[WIOTX] Mimo LP Token
+Claim 0.00 iPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [ioUSDT]-[BUSD-bsc] Mimo LP Token [+] [-] [<=>] Price: $2,026,092.59 TVL: $422,469.51
+ioUSDT Price: $1.00
+BUSD-bsc Price: $1.00
+Staked: 0.0005 MIMO-LP ($1,023.11)
+iPEGG Per Week: 209.35 ($2.60)
+APR: Day 0.04% Week 0.25% Year 13.23%
+You are staking 0.00 [ioUSDT]-[BUSD-bsc] Mimo LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [ioUSDT]-[BUSD-bsc] Mimo LP Token - Fee 0.5%
+Unstake 0.00 [ioUSDT]-[BUSD-bsc] Mimo LP Token
+Claim 0.00 iPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [ioUSDT]-[WIOTX] Mimo LP Token [+] [-] [<=>] Price: $565,173.05 TVL: $1,976,784.99
+ioUSDT Price: $1.00
+WIOTX Price: $0.07
+Staked: 0.0005 MIMO-LP ($258.24)
+iPEGG Per Week: 209.35 ($2.60)
+APR: Day 0.14% Week 1.01% Year 52.40%
+You are staking 0.00 [ioUSDT]-[WIOTX] Mimo LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [ioUSDT]-[WIOTX] Mimo LP Token - Fee 0.5%
+Unstake 0.00 [ioUSDT]-[WIOTX] Mimo LP Token
+Claim 0.00 iPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [ioUSDC]-[WIOTX] Mimo LP Token [+] [-] [<=>] Price: $561,397.04 TVL: $1,230,384.94
+ioUSDC Price: $1.00
+WIOTX Price: $0.07
+Staked: 0.0006 MIMO-LP ($314.28)
+iPEGG Per Week: 209.35 ($2.60)
+APR: Day 0.12% Week 0.83% Year 43.06%
+You are staking 0.00 [ioUSDC]-[WIOTX] Mimo LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [ioUSDC]-[WIOTX] Mimo LP Token - Fee 0.5%
+Unstake 0.00 [ioUSDC]-[WIOTX] Mimo LP Token
+Claim 0.00 iPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [BNB-bsc]-[WIOTX] Mimo LP Token [+] [-] [<=>] Price: $10.96 TVL: $753,500.64
+BNB-bsc Price: $378.63
+WIOTX Price: $0.07
+Staked: 190.6558 MIMO-LP ($2,089.22)
+iPEGG Per Week: 209.35 ($2.60)
+APR: Day 0.02% Week 0.12% Year 6.48%
+You are staking 0.00 [BNB-bsc]-[WIOTX] Mimo LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [BNB-bsc]-[WIOTX] Mimo LP Token - Fee 0.5%
+Unstake 0.00 [BNB-bsc]-[WIOTX] Mimo LP Token
+Claim 0.00 iPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [ioETH]-[WIOTX] Mimo LP Token [+] [-] [<=>] Price: $26.55 TVL: $1,640,988.52
+ioETH Price: $2,240.15
+WIOTX Price: $0.07
+Staked: 5.7595 MIMO-LP ($152.94)
+iPEGG Per Week: 209.35 ($2.60)
+APR: Day 0.24% Week 1.70% Year 88.48%
+You are staking 0.00 [ioETH]-[WIOTX] Mimo LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [ioETH]-[WIOTX] Mimo LP Token - Fee 0.5%
+Unstake 0.00 [ioETH]-[WIOTX] Mimo LP Token
+Claim 0.00 iPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - iPEGG Price: $0.01 Market Cap: $5,331.94 
+Staked: 145886.9006 iPEGG ($1,813.46)
+iPEGG Per Week: 628.04 ($7.81)
+APR: Day 0.06% Week 0.43% Year 22.39%
+You are staking 0.00 iPEGG ($0.00), 0.00% of the pool.
+Stake 0.00 iPEGG
+Unstake 0.00 iPEGG
+Claim 0.00 iPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - BUSD-bsc Price: $1.00 Market Cap: $2,823,886.41 
+Staked: 878.7800 BUSD-bsc ($878.78)
+iPEGG Per Week: 139.56 ($1.73)
+APR: Day 0.03% Week 0.20% Year 10.27%
+You are staking 0.00 BUSD-bsc ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD-bsc - Fee 0.5%
+Unstake 0.00 BUSD-bsc
+Claim 0.00 iPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - WIOTX Price: $0.07 Market Cap: $74,495,323.03 
+Staked: 2466232.7136 WIOTX ($180,843.91)
+iPEGG Per Week: 628.04 ($7.81)
+APR: Day 0.00% Week 0.00% Year 0.22%
+You are staking 0.00 WIOTX ($0.00), 0.00% of the pool.
+Stake 0.00 WIOTX - Fee 0.5%
+Unstake 0.00 WIOTX
+Claim 0.00 iPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - ioUSDT Price: $1.00 Market Cap: $2,974,396.06 
+Staked: 1277.3427 ioUSDT ($1,272.81)
+iPEGG Per Week: 139.56 ($1.73)
+APR: Day 0.02% Week 0.14% Year 7.09%
+You are staking 0.00 ioUSDT ($0.00), 0.00% of the pool.
+Stake 0.00 ioUSDT - Fee 0.5%
+Unstake 0.00 ioUSDT
+Claim 0.00 iPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - ioETH Price: $2,240.15 Market Cap: $2,181,135.28 
+Staked: 0.1411 ioETH ($316.18)
+iPEGG Per Week: 139.56 ($1.73)
+APR: Day 0.08% Week 0.55% Year 28.53%
+You are staking 0.00 ioETH ($0.00), 0.00% of the pool.
+Stake 0.00 ioETH - Fee 0.5%
+Unstake 0.00 ioETH
+Claim 0.00 iPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - BNB-bsc Price: $378.63 Market Cap: $618,343.75 
+Staked: 0.3573 BNB-bsc ($135.27)
+iPEGG Per Week: 139.56 ($1.73)
+APR: Day 0.18% Week 1.28% Year 66.69%
+You are staking 0.00 BNB-bsc ($0.00), 0.00% of the pool.
+Stake 0.00 BNB-bsc - Fee 0.5%
+Unstake 0.00 BNB-bsc
+Claim 0.00 iPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [MCN]-[WIOTX] Mimo LP Token [+] [-] [<=>] Price: $2.51 TVL: $116,771.77
+MCN Price: $20.89
+WIOTX Price: $0.07
+Staked: 120.5931 MIMO-LP ($303.26)
+iPEGG Per Week: 167.48 ($2.08)
+APR: Day 0.10% Week 0.69% Year 35.70%
+You are staking 0.00 [MCN]-[WIOTX] Mimo LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [MCN]-[WIOTX] Mimo LP Token - Fee 1%
+Unstake 0.00 [MCN]-[WIOTX] Mimo LP Token
+Claim 0.00 iPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [iMAGIC]-[WIOTX] Mimo LP Token [+] [-] [<=>] Price: $0.13 TVL: $25,415.10
+iMAGIC Price: $0.05
+WIOTX Price: $0.07
+Staked: 563.4242 MIMO-LP ($75.44)
+iPEGG Per Week: 167.48 ($2.08)
+APR: Day 0.39% Week 2.76% Year 143.51%
+You are staking 0.00 [iMAGIC]-[WIOTX] Mimo LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [iMAGIC]-[WIOTX] Mimo LP Token - Fee 1%
+Unstake 0.00 [iMAGIC]-[WIOTX] Mimo LP Token
+Claim 0.00 iPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - MCN Price: $20.89 Market Cap: $154,854.42 
+Staked: 5.1482 MCN ($107.55)
+iPEGG Per Week: 97.69 ($1.21)
+APR: Day 0.16% Week 1.13% Year 58.72%
+You are staking 0.00 MCN ($0.00), 0.00% of the pool.
+Stake 0.00 MCN - Fee 1%
+Unstake 0.00 MCN
+Claim 0.00 iPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - iMAGIC Price: $0.05 Market Cap: $43,648.43 
+Staked: 472.0377 iMAGIC ($23.71)
+iPEGG Per Week: 97.69 ($1.21)
+APR: Day 0.73% Week 5.12% Year 266.36%
+You are staking 0.00 iMAGIC ($0.00), 0.00% of the pool.
+Stake 0.00 iMAGIC - Fee 1%
+Unstake 0.00 iMAGIC
+Claim 0.00 iPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - ioUSDC Price: $1.00 Market Cap: $1,234,623.51 
+Staked: 494.3009 ioUSDC ($494.30)
+iPEGG Per Week: 139.56 ($1.73)
+APR: Day 0.05% Week 0.35% Year 18.25%
+You are staking 0.00 ioUSDC ($0.00), 0.00% of the pool.
+Stake 0.00 ioUSDC - Fee 0.5%
+Unstake 0.00 ioUSDC
+Claim 0.00 iPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - WMATIC Price: $1.36 Market Cap: $59,421.18 
+Staked: 194.9150 WMATIC ($265.08)
+iPEGG Per Week: 139.56 ($1.73)
+APR: Day 0.09% Week 0.65% Year 34.03%
+You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
+Stake 0.00 WMATIC - Fee 0.5%
+Unstake 0.00 WMATIC
+Claim 0.00 iPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - DAI-matic Price: $1.00 Market Cap: $259,772.01 
+Staked: 576.1410 DAI-matic ($576.14)
+iPEGG Per Week: 139.56 ($1.73)
+APR: Day 0.04% Week 0.30% Year 15.66%
+You are staking 0.00 DAI-matic ($0.00), 0.00% of the pool.
+Stake 0.00 DAI-matic - Fee 0.5%
+Unstake 0.00 DAI-matic
+Claim 0.00 iPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - USDT-matic Price: $1.00 Market Cap: $176,287.14 
+Staked: 541.0855 USDT-matic ($541.09)
+iPEGG Per Week: 139.56 ($1.73)
+APR: Day 0.05% Week 0.32% Year 16.67%
+You are staking 0.00 USDT-matic ($0.00), 0.00% of the pool.
+Stake 0.00 USDT-matic - Fee 0.5%
+Unstake 0.00 USDT-matic
+Claim 0.00 iPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - [BUSD-bsc]-[ioBUSD] Mimo LP Token [+] [-] [<=>] Price: $2.06 TVL: $2,416.57
+BUSD-bsc Price: $1.00
+ioBUSD Price: $1.00
+Staked: 106.7310 MIMO-LP ($219.92)
+iPEGG Per Week: 209.35 ($2.60)
+APR: Day 0.17% Week 1.18% Year 61.53%
+You are staking 0.00 [BUSD-bsc]-[ioBUSD] Mimo LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [BUSD-bsc]-[ioBUSD] Mimo LP Token - Fee 0.5%
+Unstake 0.00 [BUSD-bsc]-[ioBUSD] Mimo LP Token
+Claim 0.00 iPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - [USDT-matic]-[ioUSDT] Mimo LP Token [+] [-] [<=>] Price: $2,040,418,970,543.71 TVL: $3,705.50
+USDT-matic Price: $1.00
+ioUSDT Price: $1.00
+Staked: 0.0000 MIMO-LP ($238.33)
+iPEGG Per Week: 209.35 ($2.60)
+APR: Day 0.16% Week 1.09% Year 56.78%
+You are staking 0.00 [USDT-matic]-[ioUSDT] Mimo LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT-matic]-[ioUSDT] Mimo LP Token - Fee 0.5%
+Unstake 0.00 [USDT-matic]-[ioUSDT] Mimo LP Token
+Claim 0.00 iPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - [DAI-matic]-[BUSD-bsc] Mimo LP Token [+] [-] [<=>] Price: $2.03 TVL: $3,003.35
+DAI-matic Price: $1.00
+BUSD-bsc Price: $1.00
+Staked: 500.0000 MIMO-LP ($1,016.89)
+iPEGG Per Week: 209.35 ($2.60)
+APR: Day 0.04% Week 0.26% Year 13.31%
+You are staking 0.00 [DAI-matic]-[BUSD-bsc] Mimo LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI-matic]-[BUSD-bsc] Mimo LP Token - Fee 0.5%
+Unstake 0.00 [DAI-matic]-[BUSD-bsc] Mimo LP Token
+Claim 0.00 iPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - [USDT-matic]-[DAI-matic] Mimo LP Token [+] [-] [<=>] Price: $2,014,311.18 TVL: $418.79
+USDT-matic Price: $1.00
+DAI-matic Price: $1.00
+Staked: 0.0001 MIMO-LP ($206.59)
+iPEGG Per Week: 209.35 ($2.60)
+APR: Day 0.18% Week 1.26% Year 65.50%
+You are staking 0.00 [USDT-matic]-[DAI-matic] Mimo LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT-matic]-[DAI-matic] Mimo LP Token - Fee 0.5%
+Unstake 0.00 [USDT-matic]-[DAI-matic] Mimo LP Token
+Claim 0.00 iPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - BPEGG Price: $0.00 Market Cap: $0.00 
+Staked: 44897.3722 BPEGG ($0.00)
+iPEGG Per Week: 1535.20 ($19.08)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BPEGG ($0.00), NaN% of the pool.
+Stake 0.00 BPEGG
+Unstake 0.00 BPEGG
+Claim 0.00 iPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+29 - CYC Price: $131.87 Market Cap: $2,157,232.53 
+Staked: 0.5223 CYC ($68.87)
+iPEGG Per Week: 97.69 ($1.21)
+APR: Day 0.25% Week 1.76% Year 91.69%
+You are staking 0.00 CYC ($0.00), 0.00% of the pool.
+Stake 0.00 CYC - Fee 3%
+Unstake 0.00 CYC
+Claim 0.00 iPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+30 - METX Price: $0.00 Market Cap: $0.00 
+Staked: 509964.3242 METX ($0.00)
+iPEGG Per Week: 97.69 ($1.21)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 METX ($0.00), NaN% of the pool.
+Stake 0.00 METX - Fee 3%
+Unstake 0.00 METX
+Claim 0.00 iPEGG ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $196,690.81

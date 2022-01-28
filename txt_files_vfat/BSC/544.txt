@@ -1,0 +1,91 @@
+***************UNOFFICIAL WAPSWAP.FINANCE FARMING CALCULATOR ***************
+INFO  : https://dapp.wapswap.finance
+****************************************************************************
+
+Thu Jan 27 2022 21:45:26 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 8 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - WAP Price: $0.08 Market Cap: $162,646.38 [%]
+Staked: 1328465.1868 WAP ($100,540.23)
+WAP Per Week: 11193.86 ($847.17)
+APR: Day 0.12% Week 0.84% Year 43.82%
+You are staking 0.00 WAP ($0.00), 0.00% of the pool.
+Stake 0.00 WAP
+Unstake 0.00 WAP
+Claim 0.00 WAP ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WBNB]-[WAP] Uni LP [+] [-] [<=>] Price: $2.43 TVL: $9,684.14
+WBNB Price: $368.32
+WAP Price: $0.08
+Staked: 3975.0437 WAP-LP ($9,655.54)
+WAP Per Week: 14728.77 ($1,114.70)
+APR: Day 1.65% Week 11.54% Year 600.32%
+You are staking 0.00 [WBNB]-[WAP] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[WAP] Uni LP
+Unstake 0.00 [WBNB]-[WAP] Uni LP
+Claim 0.00 WAP ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [Cake]-[WAP] Uni LP [+] [-] [<=>] Price: $1.46 TVL: $658.04
+Cake Price: $7.00
+WAP Price: $0.08
+Staked: 449.1396 WAP-LP ($657.23)
+WAP Per Week: 589.15 ($44.59)
+APR: Day 0.97% Week 6.78% Year 352.78%
+You are staking 0.00 [Cake]-[WAP] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WAP] Uni LP
+Unstake 0.00 [Cake]-[WAP] Uni LP
+Claim 0.00 WAP ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [WAP]-[BUSD] Uni LP [+] [-] [<=>] Price: $0.55 TVL: $1,519.36
+WAP Price: $0.08
+BUSD Price: $1.00
+Staked: 2688.0560 WAP-LP ($1,491.07)
+WAP Per Week: 2209.32 ($167.20)
+APR: Day 1.60% Week 11.21% Year 583.11%
+You are staking 0.00 [WAP]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WAP]-[BUSD] Uni LP
+Unstake 0.00 [WAP]-[BUSD] Uni LP
+Claim 0.00 WAP ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - WBNB Price: $368.32 Market Cap: $1,922,930,377.36 [%]
+Staked: 83.4626 WBNB ($30,740.93)
+WAP Per Week: 294.58 ($22.29)
+APR: Day 0.01% Week 0.07% Year 3.77%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB
+Unstake 0.00 WBNB
+Claim 0.00 WAP ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - Cake Price: $7.00 Market Cap: $4,304,794,870.67 [%]
+Staked: 340.0041 Cake ($2,380.03)
+WAP Per Week: 294.58 ($22.29)
+APR: Day 0.13% Week 0.94% Year 48.71%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake
+Unstake 0.00 Cake
+Claim 0.00 WAP ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - LOTTWAP Price: $0.00 Market Cap: $0.00 
+Staked: 1.0000 LOTTWAP ($0.00)
+WAP Per Week: 2945.75 ($222.94)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 LOTTWAP ($0.00), NaN% of the pool.
+Stake 0.00 LOTTWAP
+Unstake 0.00 LOTTWAP
+Claim 0.00 WAP ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $145,465.04

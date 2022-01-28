@@ -1,0 +1,80 @@
+*************** 👨‍🌾 UNOFFICIAL SCIENTIX FARMING CALCULATOR 👨‍🌾 *******************
+INFO  : https://scientix.finance/#/farm
+*********************************************************************************
+
+Thu Jan 27 2022 20:14:40 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Finished reading smart contracts.
+ibALPACA Price: $0.35 Market Cap: $10,474,454.40 [%]
+Staked: 4467293.6674 ibALPACA ($1,584,135.50)
+SCIX Per Week: 1021.79 ($251.54)
+APR: Day 0.00% Week 0.02% Year 0.83%
+You are staking 0.00 ibALPACA ($0.00), 0.00% of the pool.
+Staking Contract
+Deposit 0.00 ibALPACA
+Withdraw 0.00 ibALPACA
+Claim 0.00 SCIX ($0.00)
+Staking or unstaking also claims rewards.
+
+VOTINGESCROW
+Staked: 110413.4151 VOTINGESCROW
+SCIX Per Week: 3536.93 ($870.69)
+APR: Day 0.46% Week 3.20% Year 166.57%
+You are staking 0.00 VOTINGESCROW ($0.00), 0.00% of the pool.
+Staking Contract
+Deposit 0.00 VOTINGESCROW
+Withdraw 0.00 VOTINGESCROW
+Claim 0.00 SCIX ($0.00)
+Staking or unstaking also claims rewards.
+
+[SCIX]-[BUSD] Cake LP [+] [-] [<=>] Price: $1.03 TVL: $51,765.08
+SCIX Price: $0.25
+BUSD Price: $1.00
+Staked: 48443.4009 Cake-LP ($50,001.15)
+SCIX Per Week: 6743.81 ($1,660.14)
+APR: Day 0.47% Week 3.32% Year 172.65%
+You are staking 0.00 [SCIX]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Staking Contract
+Deposit 0.00 [SCIX]-[BUSD] Cake LP
+Withdraw 0.00 [SCIX]-[BUSD] Cake LP
+Claim 0.00 SCIX ($0.00)
+Staking or unstaking also claims rewards.
+
+[scUSD]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.01 TVL: $8,961.70
+scUSD Price: $1.00
+BUSD Price: $1.00
+Staked: 2788.1186 Cake-LP ($5,604.63)
+SCIX Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [scUSD]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Staking Contract
+Deposit 0.00 [scUSD]-[BUSD] Cake LP
+Withdraw 0.00 [scUSD]-[BUSD] Cake LP
+Claim 0.00 SCIX ($0.00)
+Staking or unstaking also claims rewards.
+
+acsi(scUSD-BUSD) Price: $0.00 Market Cap: $0.00 
+Staked: 152628.3185 acsi(scUSD-BUSD) ($0.00)
+SCIX Per Week: 2247.94 ($553.38)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 acsi(scUSD-BUSD) ($0.00), NaN% of the pool.
+Staking Contract
+Deposit 0.00 acsi(scUSD-BUSD)
+Withdraw 0.00 acsi(scUSD-BUSD)
+Claim 0.00 SCIX ($0.00)
+Staking or unstaking also claims rewards.
+
+fdSCIX Price: $0.00 Market Cap: $0.00 
+Staked: 1.0000 fdSCIX ($0.00)
+SCIX Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 fdSCIX ($0.00), NaN% of the pool.
+Staking Contract
+Deposit 0.00 fdSCIX
+Withdraw 0.00 fdSCIX
+Claim 0.00 SCIX ($0.00)
+Staking or unstaking also claims rewards.

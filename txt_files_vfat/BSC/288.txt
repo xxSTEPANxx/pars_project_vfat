@@ -1,0 +1,147 @@
+*************** 👨‍🌾 UNOFFICIAL VESUVIUS.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://vesuvius.finance
+*******************************************************************************************
+
+Thu Jan 27 2022 21:08:32 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 12 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [VESUVIUS]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $11.19
+VESUVIUS Price: $0.0000018466
+BUSD Price: $1.00
+Staked: 3008.6732 Cake-LP ($8.68)
+VESUVIUS Per Week: 596449.70 ($1.10)
+APR: Day 1.81% Week 12.68% Year 659.46%
+You are staking 0.00 [VESUVIUS]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [VESUVIUS]-[BUSD] Cake LP
+Unstake 0.00 [VESUVIUS]-[BUSD] Cake LP
+Claim 0.00 VESUVIUS ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [VESUVIUS]-[WBNB] Cake LP [+] [-] [<=>] Price: $0.06 TVL: $39.35
+VESUVIUS Price: $0.0000018466
+WBNB Price: $369.48
+Staked: 678.0332 Cake-LP ($38.22)
+VESUVIUS Per Week: 596449.70 ($1.10)
+APR: Day 0.41% Week 2.88% Year 149.87%
+You are staking 0.00 [VESUVIUS]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [VESUVIUS]-[WBNB] Cake LP
+Unstake 0.00 [VESUVIUS]-[WBNB] Cake LP
+Claim 0.00 VESUVIUS ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.49 TVL: $346,511,289.49
+WBNB Price: $369.48
+BUSD Price: $1.00
+Staked: 27.7911 Cake-LP ($1,319.92)
+VESUVIUS Per Week: 47715.98 ($0.09)
+APR: Day 0.00% Week 0.01% Year 0.35%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 3%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 VESUVIUS ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $7,754.41 TVL: $68,573,803.58
+BTCB Price: $36,259.00
+WBNB Price: $369.48
+Staked: 0.0861 Cake-LP ($667.73)
+VESUVIUS Per Week: 47715.98 ($0.09)
+APR: Day 0.00% Week 0.01% Year 0.69%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 3%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 VESUVIUS ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,045.13 TVL: $74,508,594.78
+ETH Price: $2,450.84
+WBNB Price: $369.48
+Staked: 0.0000 Cake-LP ($0.00)
+VESUVIUS Per Week: 47715.98 ($0.09)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 3%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 VESUVIUS ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [DAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $16,856,379.39
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 954.9599 Cake-LP ($1,991.73)
+VESUVIUS Per Week: 47715.98 ($0.09)
+APR: Day 0.00% Week 0.00% Year 0.23%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 3%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 VESUVIUS ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - VESUVIUS Price: $0.0000018466 Market Cap: $89.83 [%]
+Staked: 21220944.9303 VESUVIUS ($39.19)
+VESUVIUS Per Week: 298224.85 ($0.55)
+APR: Day 0.20% Week 1.41% Year 73.08%
+You are staking 0.00 VESUVIUS ($0.00), 0.00% of the pool.
+Stake 0.00 VESUVIUS
+Unstake 0.00 VESUVIUS
+Claim 0.00 VESUVIUS ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - BUSD Price: $1.00 Market Cap: $4,843,679,230.55 [%]
+Staked: 119.9582 BUSD ($119.78)
+VESUVIUS Per Week: 95431.95 ($0.18)
+APR: Day 0.02% Week 0.15% Year 7.65%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 3%
+Unstake 0.00 BUSD
+Claim 0.00 VESUVIUS ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - WBNB Price: $369.48 Market Cap: $1,928,835,997.18 [%]
+Staked: 0.0013 WBNB ($0.48)
+VESUVIUS Per Week: 95431.95 ($0.18)
+APR: Day 5.24% Week 36.68% Year 1907.43%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 3%
+Unstake 0.00 WBNB
+Claim 0.00 VESUVIUS ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - BTCB Price: $36,259.00 Market Cap: $4,079,173,759.00 [%]
+Staked: 0.0002 BTCB ($6.79)
+VESUVIUS Per Week: 47715.98 ($0.09)
+APR: Day 0.19% Week 1.30% Year 67.46%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 3%
+Unstake 0.00 BTCB
+Claim 0.00 VESUVIUS ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - ETH Price: $2,450.84 Market Cap: $3,443,430,200.00 [%]
+Staked: 0.0013 ETH ($3.18)
+VESUVIUS Per Week: 47715.98 ($0.09)
+APR: Day 0.40% Week 2.77% Year 143.91%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 3%
+Unstake 0.00 ETH
+Claim 0.00 VESUVIUS ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - USDC Price: $1.00 Market Cap: $1,779,000,000.00 [%]
+Staked: 0.0000 USDC ($0.00)
+VESUVIUS Per Week: 47715.98 ($0.09)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 USDC ($0.00), NaN% of the pool.
+Stake 0.00 USDC - Fee 3%
+Unstake 0.00 USDC
+Claim 0.00 VESUVIUS ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $4,195.70

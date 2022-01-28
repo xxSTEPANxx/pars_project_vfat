@@ -6,96 +6,31 @@ INFO  : https://hawkdex.com
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Fri Dec 17 2021 09:07:24 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 21:58:14 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
-[HAWK]-[WETH] Uni LP [+] [-] [<=>] Price: $4.14 TVL: $5,389.38
-HAWK Price: $0.000970
-WETH Price: $3,960.45
-Staked: 1169.5632 UNI-V2 ($4,846.07)
-HAWK Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.000000 [HAWK]-[WETH] Uni LP $0.00 (0.00% of the pool).
-Polygon Explorer
-Stake 0.000000 [HAWK]-[WETH] Uni LP
-Unstake 0.000000 [HAWK]-[WETH] Uni LP
-Claim 0.000000 HAWK ($0.00)
-Revoke (set approval to 0)
-Exit
-
-WMATIC Price: $2.10 Market Cap: $639,020,903.63 [%]
-Staked: 16330.4703 WMATIC ($34,293.99)
-HAWK Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.000000 WMATIC $0.00 (0.00% of the pool).
-Polygon Explorer
-Stake 0.000000 WMATIC
-Unstake 0.000000 WMATIC
-Claim 0.000000 HAWK ($0.00)
-Revoke (set approval to 0)
-Exit
-
-WETH Price: $3,960.45 Market Cap: $1,758,066,433.94 [%]
-Staked: 0.1477 WETH ($585.14)
-HAWK Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.000000 WETH $0.00 (0.00% of the pool).
-Polygon Explorer
-Stake 0.000000 WETH
-Unstake 0.000000 WETH
-Claim 0.000000 HAWK ($0.00)
-Revoke (set approval to 0)
-Exit
-
-WBTC Price: $47,741.00 Market Cap: $481,716,668.25 [%]
-Staked: 0.0024 WBTC ($112.63)
-HAWK Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.000000 WBTC $0.00 (0.00% of the pool).
-Polygon Explorer
-Stake 0.000000 WBTC
-Unstake 0.000000 WBTC
-Claim 0.000000 HAWK ($0.00)
-Revoke (set approval to 0)
-Exit
-
-DAI Price: $1.00 Market Cap: $367,631,170.58 [%]
-Staked: 10457.0733 DAI ($10,457.07)
-HAWK Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.000000 DAI $0.00 (0.00% of the pool).
-Polygon Explorer
-Stake 0.000000 DAI
-Unstake 0.000000 DAI
-Claim 0.000000 HAWK ($0.00)
-Revoke (set approval to 0)
-Exit
-
-USDC Price: $1.00 Market Cap: $952,089,526.97 [%]
-Staked: 32295.7957 USDC ($32,291.66)
-HAWK Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.000000 USDC $0.00 (0.00% of the pool).
-Polygon Explorer
-Stake 0.000000 USDC
-Unstake 0.000000 USDC
-Claim 0.000000 HAWK ($0.00)
-Revoke (set approval to 0)
-Exit
-
-USDT Price: $1.00 Market Cap: $319,744,445.29 [%]
-Staked: 4350.0929 USDT ($4,350.09)
-HAWK Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.000000 USDT $0.00 (0.00% of the pool).
-Polygon Explorer
-Stake 0.000000 USDT
-Unstake 0.000000 USDT
-Claim 0.000000 HAWK ($0.00)
-Revoke (set approval to 0)
-Exit
-
-Total staked: $86,936.65
+{
+  "code": -32603,
+  "message": "JsonRpcEngine: Response has no error or result for request:\n{\n  \"method\": \"eth_call\",\n  \"params\": [\n    {\n      \"to\": \"0xaa538527c6aa3a15a615ba936b02655b0bb59af1\",\n      \"data\": \"0x51ed6a30\"\n    },\n    \"0x171d062\"\n  ],\n  \"jsonrpc\": \"2.0\",\n  \"id\": 671678786,\n  \"origin\": \"https://vfat.tools\",\n  \"tabId\": 2\n}",
+  "data": {
+    "request": {
+      "method": "eth_call",
+      "params": [
+        {
+          "to": "0xaa538527c6aa3a15a615ba936b02655b0bb59af1",
+          "data": "0x51ed6a30"
+        },
+        "0x171d062"
+      ],
+      "jsonrpc": "2.0",
+      "id": 671678786,
+      "origin": "https://vfat.tools",
+      "tabId": 2
+    }
+  },
+  "stack": "{\n  \"code\": -32603,\n  \"message\": \"JsonRpcEngine: Response has no error or result for request:\\n{\\n  \\\"method\\\": \\\"eth_call\\\",\\n  \\\"params\\\": [\\n    {\\n      \\\"to\\\": \\\"0xaa538527c6aa3a15a615ba936b02655b0bb59af1\\\",\\n      \\\"data\\\": \\\"0x51ed6a30\\\"\\n    },\\n    \\\"0x171d062\\\"\\n  ],\\n  \\\"jsonrpc\\\": \\\"2.0\\\",\\n  \\\"id\\\": 671678786,\\n  \\\"origin\\\": \\\"https://vfat.tools\\\",\\n  \\\"tabId\\\": 2\\n}\",\n  \"data\": {\n    \"request\": {\n      \"method\": \"eth_call\",\n      \"params\": [\n        {\n          \"to\": \"0xaa538527c6aa3a15a615ba936b02655b0bb59af1\",\n          \"data\": \"0x51ed6a30\"\n        },\n        \"0x171d062\"\n      ],\n      \"jsonrpc\": \"2.0\",\n      \"id\": 671678786,\n      \"origin\": \"https://vfat.tools\",\n      \"tabId\": 2\n    }\n  },\n  \"stack\": \"Error: JsonRpcEngine: Response has no error or result for request:\\n{\\n  \\\"method\\\": \\\"eth_call\\\",\\n  \\\"params\\\": [\\n    {\\n      \\\"to\\\": \\\"0xaa538527c6aa3a15a615ba936b02655b0bb59af1\\\",\\n      \\\"data\\\": \\\"0x51ed6a30\\\"\\n    },\\n    \\\"0x171d062\\\"\\n  ],\\n  \\\"jsonrpc\\\": \\\"2.0\\\",\\n  \\\"id\\\": 671678786,\\n  \\\"origin\\\": \\\"https://vfat.tools\\\",\\n  \\\"tabId\\\": 2\\n}\\n    at new o (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/common-1.js:16:24204)\\n    at Function._checkForCompletion (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:305269)\\n    at a._processRequest (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304461)\\n    at async a._handle (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304249)\"\n}\n  at new o (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/common-1.js:16:24204)\n  at Function._checkForCompletion (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:305269)\n  at a._processRequest (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304461)\n  at async a._handle (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304249)"
+}
+Oops something went wrong. Try refreshing the page.

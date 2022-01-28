@@ -1,0 +1,279 @@
+*************** 👨‍🌾 UNOFFICIAL DEXTERLAB.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://dexterlab.finance
+**************************************************************************************
+
+Thu Jan 27 2022 21:22:10 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 25 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [DXL]-[WBNB] Cake LP [+] [-] [<=>] Price: $0.96 TVL: $29.94
+DXL Price: $0.000510
+WBNB Price: $367.93
+Staked: 16.5507 Cake-LP ($15.84)
+DXL Per Week: 2144.68 ($1.09)
+APR: Day 0.99% Week 6.91% Year 359.25%
+You are staking 0.00 [DXL]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DXL]-[WBNB] Cake LP
+Unstake 0.00 [DXL]-[WBNB] Cake LP
+Claim 0.00 DXL ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [DXL]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.05 TVL: $14.71
+DXL Price: $0.000510
+BUSD Price: $1.00
+Staked: 35.9907 Cake-LP ($1.78)
+DXL Per Week: 2144.68 ($1.09)
+APR: Day 8.78% Week 61.43% Year 3194.36%
+You are staking 0.00 [DXL]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DXL]-[BUSD] Cake LP
+Unstake 0.00 [DXL]-[BUSD] Cake LP
+Claim 0.00 DXL ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - DXL Price: $0.000510 Market Cap: $99.79 [%]
+Staked: 96163.2418 DXL ($49.08)
+DXL Per Week: 765.96 ($0.39)
+APR: Day 0.11% Week 0.80% Year 41.42%
+You are staking 0.00 DXL ($0.00), 0.00% of the pool.
+Stake 0.00 DXL
+Unstake 0.00 DXL
+Claim 0.00 DXL ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.40 TVL: $345,812,184.93
+WBNB Price: $367.93
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+DXL Per Week: 153.19 ($0.08)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 DXL ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $297,061,094.90
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 22.6477 Cake-LP ($47.44)
+DXL Per Week: 122.55 ($0.06)
+APR: Day 0.02% Week 0.13% Year 6.86%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 DXL ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $7,731.84 TVL: $68,375,301.88
+BTCB Price: $36,200.00
+WBNB Price: $367.93
+Staked: 0.0000 Cake-LP ($0.00)
+DXL Per Week: 183.83 ($0.09)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 DXL ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,026.96 TVL: $73,846,607.75
+ETH Price: $2,417.58
+WBNB Price: $367.93
+Staked: 0.0000 Cake-LP ($0.00)
+DXL Per Week: 183.83 ($0.09)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 DXL ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [DAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $16,857,810.58
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+DXL Per Week: 122.55 ($0.06)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 DXL ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $131,424,915.26
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+DXL Per Week: 122.55 ($0.06)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 DXL ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [DOT]-[WBNB] Cake LP [+] [-] [<=>] Price: $172.48 TVL: $17,707,342.52
+DOT Price: $17.96
+WBNB Price: $367.93
+Staked: 0.0000 Cake-LP ($0.00)
+DXL Per Week: 183.83 ($0.09)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 DXL ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [Cake]-[BUSD] Cake LP [+] [-] [<=>] Price: $7.80 TVL: $11,481,746.18
+Cake Price: $6.98
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+DXL Per Week: 91.91 ($0.05)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 DXL ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $105.26 TVL: $200,408,458.10
+Cake Price: $6.98
+WBNB Price: $367.93
+Staked: 0.2933 Cake-LP ($30.88)
+DXL Per Week: 91.91 ($0.05)
+APR: Day 0.02% Week 0.15% Year 7.90%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 DXL ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - BUSD Price: $1.00 Market Cap: $4,844,435,986.46 [%]
+Staked: 100.8808 BUSD ($100.74)
+DXL Per Week: 122.55 ($0.06)
+APR: Day 0.01% Week 0.06% Year 3.23%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 DXL ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - WBNB Price: $367.93 Market Cap: $1,919,983,071.63 [%]
+Staked: 0.0539 WBNB ($19.84)
+DXL Per Week: 122.55 ($0.06)
+APR: Day 0.05% Week 0.32% Year 16.40%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 DXL ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - USDT Price: $1.00 Market Cap: $3,879,997,922.18 [%]
+Staked: 85.5959 USDT ($85.60)
+DXL Per Week: 107.23 ($0.05)
+APR: Day 0.01% Week 0.06% Year 3.33%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 DXL ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - BTCB Price: $36,200.00 Market Cap: $4,072,536,200.00 [%]
+Staked: 0.0001 BTCB ($4.04)
+DXL Per Week: 137.87 ($0.07)
+APR: Day 0.25% Week 1.74% Year 90.64%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 DXL ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - ETH Price: $2,417.58 Market Cap: $3,396,699,900.00 [%]
+Staked: 0.0001 ETH ($0.29)
+DXL Per Week: 137.87 ($0.07)
+APR: Day 3.44% Week 24.06% Year 1251.33%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 DXL ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - DAI Price: $1.00 Market Cap: $262,000,000.00 [%]
+Staked: 718.3942 DAI ($718.39)
+DXL Per Week: 107.23 ($0.05)
+APR: Day 0.00% Week 0.01% Year 0.40%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 DXL ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - USDC Price: $1.00 Market Cap: $1,778,726,034.00 [%]
+Staked: 0.4800 USDC ($0.48)
+DXL Per Week: 107.23 ($0.05)
+APR: Day 1.63% Week 11.40% Year 593.03%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 DXL ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - DOT Price: $17.96 Market Cap: $287,359,999.84 [%]
+Staked: 0.9066 DOT ($16.28)
+DXL Per Week: 137.87 ($0.07)
+APR: Day 0.06% Week 0.43% Year 22.47%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 DXL ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - Cake Price: $6.98 Market Cap: $4,292,451,368.22 [%]
+Staked: 0.7133 Cake ($4.98)
+DXL Per Week: 122.55 ($0.06)
+APR: Day 0.18% Week 1.26% Year 65.33%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 DXL ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - AUTO Price: $406.10 Market Cap: $32,747,168.68 [%]
+Staked: 0.0000 AUTO ($0.00)
+DXL Per Week: 61.28 ($0.03)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 AUTO ($0.00), NaN% of the pool.
+Stake 0.00 AUTO - Fee 4%
+Unstake 0.00 AUTO
+Claim 0.00 DXL ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [ETH]-[DXL] Cake LP [+] [-] [<=>] Price: $2.29 TVL: $11.32
+ETH Price: $2,417.58
+DXL Price: $0.000510
+Staked: 4.0291 Cake-LP ($9.24)
+DXL Per Week: 2144.68 ($1.09)
+APR: Day 1.69% Week 11.85% Year 616.02%
+You are staking 0.00 [ETH]-[DXL] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[DXL] Cake LP
+Unstake 0.00 [ETH]-[DXL] Cake LP
+Claim 0.00 DXL ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - GOD Price: $0.00 Market Cap: $0.00 
+Staked: 133019.6752 GOD ($0.00)
+DXL Per Week: 459.57 ($0.23)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 GOD ($0.00), NaN% of the pool.
+Stake 0.00 GOD - Fee 4%
+Unstake 0.00 GOD
+Claim 0.00 DXL ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $1,104.91

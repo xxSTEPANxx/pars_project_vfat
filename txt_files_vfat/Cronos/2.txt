@@ -1,0 +1,181 @@
+*************** 👨‍🌾 UNOFFICIAL VVS.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://vvs.finance
+********************************************************************************
+
+Wed Dec 22 2021 18:18:06 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 14 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - VVS Price: $0.0000576100 Market Cap: $2,121,111,093.97 
+Staked: 934601367480.4822 VVS ($53,842,384.78)
+VVS Per Week: 31377095499.26 ($1,807,634.47)
+APR: Day 0.48% Week 3.36% Year 174.58%
+You are staking 0.00 VVS ($0.00), 0.00% of the pool.
+Stake 0.00 VVS
+Unstake 0.00 VVS
+Claim 0.00 VVS ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WCRO]-[WETH] VVS LP Token [+] [-] [<=>] Price: $93.88 TVL: $196,746,139.09
+WCRO Price: $0.54
+WETH Price: $4,030.89
+Staked: 2088845.3498 VVS-LP ($196,110,908.56)
+VVS Per Week: 52208145589.46 ($3,007,711.27)
+APR: Day 0.22% Week 1.53% Year 79.75%
+You are staking 0.00 [WCRO]-[WETH] VVS LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WCRO]-[WETH] VVS LP Token
+Unstake 0.00 [WCRO]-[WETH] VVS LP Token
+Claim 0.00 VVS ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBTC]-[WCRO] VVS LP Token [+] [-] [<=>] Price: $34,011,842.52 TVL: $201,597,551.76
+WBTC Price: $49,270.00
+WCRO Price: $0.54
+Staked: 5.9150 VVS-LP ($201,181,257.77)
+VVS Per Week: 52208145589.46 ($3,007,711.27)
+APR: Day 0.21% Week 1.50% Year 77.74%
+You are staking 0.00 [WBTC]-[WCRO] VVS LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[WCRO] VVS LP Token
+Unstake 0.00 [WBTC]-[WCRO] VVS LP Token
+Claim 0.00 VVS ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WCRO]-[USDC] VVS LP Token [+] [-] [<=>] Price: $1,519,768.97 TVL: $67,235,251.55
+WCRO Price: $0.54
+USDC Price: $1.01
+Staked: 43.7237 VVS-LP ($66,449,869.08)
+VVS Per Week: 7831221838.42 ($451,156.69)
+APR: Day 0.10% Week 0.68% Year 35.31%
+You are staking 0.00 [WCRO]-[USDC] VVS LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WCRO]-[USDC] VVS LP Token
+Unstake 0.00 [WCRO]-[USDC] VVS LP Token
+Claim 0.00 VVS ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [VVS]-[WCRO] VVS LP Token [+] [-] [<=>] Price: $0.01 TVL: $139,518,836.93
+VVS Price: $0.0000576100
+WCRO Price: $0.54
+Staked: 11968451572.7922 VVS-LP ($138,736,722.13)
+VVS Per Week: 104416291178.92 ($6,015,422.53)
+APR: Day 0.62% Week 4.34% Year 225.46%
+You are staking 0.00 [VVS]-[WCRO] VVS LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [VVS]-[WCRO] VVS LP Token
+Unstake 0.00 [VVS]-[WCRO] VVS LP Token
+Claim 0.00 VVS ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [VVS]-[USDC] VVS LP Token [+] [-] [<=>] Price: $498,933.13 TVL: $24,808,949.21
+VVS Price: $0.0000576100
+USDC Price: $1.01
+Staked: 48.7871 VVS-LP ($24,341,514.15)
+VVS Per Week: 13052036397.36 ($751,927.82)
+APR: Day 0.44% Week 3.09% Year 160.63%
+You are staking 0.00 [VVS]-[USDC] VVS LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [VVS]-[USDC] VVS LP Token
+Unstake 0.00 [VVS]-[USDC] VVS LP Token
+Claim 0.00 VVS ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [USDT]-[USDC] VVS LP Token [+] [-] [<=>] Price: $2,024,606,083,237.21 TVL: $433,536,294.61
+USDT Price: $1.01
+USDC Price: $1.01
+Staked: 0.0002 VVS-LP ($433,085,208.42)
+VVS Per Week: 26104072794.73 ($1,503,855.63)
+APR: Day 0.05% Week 0.35% Year 18.06%
+You are staking 0.00 [USDT]-[USDC] VVS LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[USDC] VVS LP Token
+Unstake 0.00 [USDT]-[USDC] VVS LP Token
+Claim 0.00 VVS ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [VVS]-[USDT] VVS LP Token [+] [-] [<=>] Price: $13,588,939.93 TVL: $16,177,852.44
+VVS Price: $0.0000576100
+USDT Price: $1.01
+Staked: 1.1800 VVS-LP ($16,034,900.03)
+VVS Per Week: 13052036397.36 ($751,927.82)
+APR: Day 0.67% Week 4.69% Year 243.84%
+You are staking 0.00 [VVS]-[USDT] VVS LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [VVS]-[USDT] VVS LP Token
+Unstake 0.00 [VVS]-[USDT] VVS LP Token
+Claim 0.00 VVS ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [WCRO]-[SHIB] VVS LP Token [+] [-] [<=>] Price: $0.01 TVL: $5,617,183.78
+WCRO Price: $0.54
+SHIB Price: $0.0000340340
+Staked: 641964914.1921 VVS-LP ($5,579,372.51)
+VVS Per Week: 1305203639.74 ($75,192.78)
+APR: Day 0.19% Week 1.35% Year 70.08%
+You are staking 0.00 [WCRO]-[SHIB] VVS LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WCRO]-[SHIB] VVS LP Token
+Unstake 0.00 [WCRO]-[SHIB] VVS LP Token
+Claim 0.00 VVS ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [WCRO]-[USDT] VVS LP Token [+] [-] [<=>] Price: $1,499,219.76 TVL: $15,292,725.46
+WCRO Price: $0.54
+USDT Price: $1.01
+Staked: 10.0912 VVS-LP ($15,128,940.77)
+VVS Per Week: 2610407279.47 ($150,385.56)
+APR: Day 0.14% Week 0.99% Year 51.69%
+You are staking 0.00 [WCRO]-[USDT] VVS LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WCRO]-[USDT] VVS LP Token
+Unstake 0.00 [WCRO]-[USDT] VVS LP Token
+Claim 0.00 VVS ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [WCRO]-[DAI] VVS LP Token [+] [-] [<=>] Price: $1.48 TVL: $2,885,478.26
+WCRO Price: $0.54
+DAI Price: $1.01
+Staked: 1918002.3292 VVS-LP ($2,845,971.14)
+VVS Per Week: 261040727.95 ($15,038.56)
+APR: Day 0.08% Week 0.53% Year 27.48%
+You are staking 0.00 [WCRO]-[DAI] VVS LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WCRO]-[DAI] VVS LP Token
+Unstake 0.00 [WCRO]-[DAI] VVS LP Token
+Claim 0.00 VVS ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [WCRO]-[BIFI] VVS LP Token [+] [-] [<=>] Price: $56.41 TVL: $1,314,205.15
+WCRO Price: $0.54
+BIFI Price: $1,393.91
+Staked: 20230.9048 VVS-LP ($1,141,249.94)
+VVS Per Week: 261040727.95 ($15,038.56)
+APR: Day 0.19% Week 1.32% Year 68.52%
+You are staking 0.00 [WCRO]-[BIFI] VVS LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WCRO]-[BIFI] VVS LP Token
+Unstake 0.00 [WCRO]-[BIFI] VVS LP Token
+Claim 0.00 VVS ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [DOGE]-[WCRO] VVS LP Token [+] [-] [<=>] Price: $62,889.05 TVL: $2,904,872.18
+DOGE Price: $0.18
+WCRO Price: $0.54
+Staked: 44.8725 VVS-LP ($2,821,986.95)
+VVS Per Week: 1305203639.74 ($75,192.78)
+APR: Day 0.38% Week 2.66% Year 138.56%
+You are staking 0.00 [DOGE]-[WCRO] VVS LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [DOGE]-[WCRO] VVS LP Token
+Unstake 0.00 [DOGE]-[WCRO] VVS LP Token
+Claim 0.00 VVS ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [WCRO]-[ATOM] VVS LP Token [+] [-] [<=>] Price: $7,111,384.48 TVL: $17,720,279.39
+WCRO Price: $0.54
+ATOM Price: $23.24
+Staked: 2.4781 VVS-LP ($17,622,630.12)
+VVS Per Week: 7831221838.42 ($451,156.69)
+APR: Day 0.37% Week 2.56% Year 133.13%
+You are staking 0.00 [WCRO]-[ATOM] VVS LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WCRO]-[ATOM] VVS LP Token
+Unstake 0.00 [WCRO]-[ATOM] VVS LP Token
+Claim 0.00 VVS ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $1,174,922,916.34

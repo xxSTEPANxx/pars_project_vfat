@@ -1,0 +1,59 @@
+*************** 👨‍🌾 UNOFFICIAL DEGENTOKEN.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://degentoken.finance
+***************************************************************************************
+
+Thu Jan 27 2022 20:50:44 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 10 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - DGNZ Price: $0.0000199400 Market Cap: $244.16 [%]
+Staked: 2882248.3345 DGNZ ($57.47)
+DGNZ Per Week: 50400.00 ($1.00)
+APR: Day 0.25% Week 1.75% Year 90.93%
+You are staking 0.00 DGNZ ($0.00), 0.00% of the pool.
+Stake 0.00 DGNZ
+Unstake 0.00 DGNZ
+Claim 0.00 DGNZ ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - aDGNZ Price: $0.00 Market Cap: $0.00 
+Staked: 22524.8459 aDGNZ ($0.00)
+DGNZ Per Week: 25200.00 ($0.50)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 aDGNZ ($0.00), NaN% of the pool.
+Stake 0.00 aDGNZ
+Unstake 0.00 aDGNZ
+Claim 0.00 DGNZ ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [DGNZ]-[WBNB] Cake LP [+] [-] [<=>] Price: $0.22 TVL: $60.54
+DGNZ Price: $0.0000199400
+WBNB Price: $370.04
+Staked: 277.2576 Cake-LP ($60.29)
+DGNZ Per Week: 63000.00 ($1.26)
+APR: Day 0.30% Week 2.08% Year 108.35%
+You are staking 0.00 [DGNZ]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DGNZ]-[WBNB] Cake LP
+Unstake 0.00 [DGNZ]-[WBNB] Cake LP
+Claim 0.00 DGNZ ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [DGNZ]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.01 TVL: $98.04
+DGNZ Price: $0.0000199400
+BUSD Price: $1.00
+Staked: 8537.0029 Cake-LP ($97.14)
+DGNZ Per Week: 63000.00 ($1.26)
+APR: Day 0.18% Week 1.29% Year 67.25%
+You are staking 0.00 [DGNZ]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DGNZ]-[BUSD] Cake LP
+Unstake 0.00 [DGNZ]-[BUSD] Cake LP
+Claim 0.00 DGNZ ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $214.90

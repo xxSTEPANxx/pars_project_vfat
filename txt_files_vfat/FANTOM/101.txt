@@ -1,0 +1,245 @@
+*************** 👨‍🌾 UNOFFICIAL ELDRITCH FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://www.eldritch.app
+*************************************************************************************
+
+Fri Jan 28 2022 00:54:48 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 21 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [WFTM]-[ELDRv2] SPOOKY LP [+] [-] [<=>] Price: $0.32 TVL: $373.79
+WFTM Price: $2.04
+ELDRv2 Price: $0.01
+Staked: 49.1061 spLP ($15.91)
+ELDRv2 Per Week: 107.04 ($1.23)
+APR: Day 1.11% Week 7.75% Year 403.21%
+You are staking 0.00 [WFTM]-[ELDRv2] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ELDRv2] SPOOKY LP
+Unstake 0.00 [WFTM]-[ELDRv2] SPOOKY LP
+Claim 0.00 ELDRv2 ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [USDC]-[ELDRv2] SPOOKY LP [+] [-] [<=>] Price: $223,320.16 TVL: $344.03
+USDC Price: $1.00
+ELDRv2 Price: $0.01
+Staked: 0.0001 spLP ($15.17)
+ELDRv2 Per Week: 107.04 ($1.23)
+APR: Day 1.16% Week 8.13% Year 422.72%
+You are staking 0.00 [USDC]-[ELDRv2] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[ELDRv2] SPOOKY LP
+Unstake 0.00 [USDC]-[ELDRv2] SPOOKY LP
+Claim 0.00 ELDRv2 ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - ELDRv2 Price: $0.01 Market Cap: $727.65 
+Staked: 14287.6640 ELDRv2 ($164.63)
+ELDRv2 Per Week: 80.28 ($0.93)
+APR: Day 0.08% Week 0.56% Year 29.22%
+You are staking 0.00 ELDRv2 ($0.00), 0.00% of the pool.
+Stake 0.00 ELDRv2
+Unstake 0.00 ELDRv2
+Claim 0.00 ELDRv2 ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDC]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $4,373,779.01 TVL: $168,364,774.76
+USDC Price: $1.00
+WFTM Price: $2.04
+Staked: 0.0000 spLP ($9.13)
+ELDRv2 Per Week: 6.69 ($0.08)
+APR: Day 0.12% Week 0.84% Year 43.91%
+You are staking 0.00 [USDC]-[WFTM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WFTM] SPOOKY LP - Fee 2.5%
+Unstake 0.00 [USDC]-[WFTM] SPOOKY LP
+Claim 0.00 ELDRv2 ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [WFTM]-[ETH] SPOOKY LP [+] [-] [<=>] Price: $158.12 TVL: $42,873,530.56
+WFTM Price: $2.04
+ETH Price: $2,373.59
+Staked: 0.0292 spLP ($4.62)
+ELDRv2 Per Week: 6.69 ($0.08)
+APR: Day 0.24% Week 1.67% Year 86.76%
+You are staking 0.00 [WFTM]-[ETH] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ETH] SPOOKY LP - Fee 2.5%
+Unstake 0.00 [WFTM]-[ETH] SPOOKY LP
+Claim 0.00 ELDRv2 ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WFTM]-[ELDR] SPOOKY LP [+] [-] [<=>] Price: $1.85 TVL: $709.94
+WFTM Price: $2.04
+ELDR Price: $0.34
+Staked: 2.1995 spLP ($4.07)
+ELDRv2 Per Week: 6.69 ($0.08)
+APR: Day 0.27% Week 1.89% Year 98.50%
+You are staking 0.00 [WFTM]-[ELDR] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ELDR] SPOOKY LP
+Unstake 0.00 [WFTM]-[ELDR] SPOOKY LP
+Claim 0.00 ELDRv2 ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - ELDR Price: $0.34 Market Cap: $1,124.26 
+Staked: 49.0607 ELDR ($16.49)
+ELDRv2 Per Week: 3.35 ($0.04)
+APR: Day 0.03% Week 0.23% Year 12.15%
+You are staking 0.00 ELDR ($0.00), 0.00% of the pool.
+Stake 0.00 ELDR
+Unstake 0.00 ELDR
+Claim 0.00 ELDRv2 ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [ELDRv2]-[DAI] SPOOKY LP [+] [-] [<=>] Price: $0.25 TVL: $41.25
+ELDRv2 Price: $0.01
+DAI Price: $1.01
+Staked: 107.3566 spLP ($27.19)
+ELDRv2 Per Week: 107.04 ($1.23)
+APR: Day 0.65% Week 4.54% Year 235.87%
+You are staking 0.00 [ELDRv2]-[DAI] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ELDRv2]-[DAI] SPOOKY LP
+Unstake 0.00 [ELDRv2]-[DAI] SPOOKY LP
+Claim 0.00 ELDRv2 ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [ELDRv2]-[ETH] SPOOKY LP [+] [-] [<=>] Price: $11.34 TVL: $55.76
+ELDRv2 Price: $0.01
+ETH Price: $2,373.59
+Staked: 4.8738 spLP ($55.26)
+ELDRv2 Per Week: 107.04 ($1.23)
+APR: Day 0.32% Week 2.23% Year 116.06%
+You are staking 0.00 [ELDRv2]-[ETH] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ELDRv2]-[ETH] SPOOKY LP
+Unstake 0.00 [ELDRv2]-[ETH] SPOOKY LP
+Claim 0.00 ELDRv2 ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [WFTM]-[BOO] SPOOKY LP [+] [-] [<=>] Price: $15.02 TVL: $63,645,048.62
+WFTM Price: $2.04
+BOO Price: $25.32
+Staked: 0.4755 spLP ($7.14)
+ELDRv2 Per Week: 6.69 ($0.08)
+APR: Day 0.15% Week 1.08% Year 56.11%
+You are staking 0.00 [WFTM]-[BOO] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BOO] SPOOKY LP - Fee 2.5%
+Unstake 0.00 [WFTM]-[BOO] SPOOKY LP
+Claim 0.00 ELDRv2 ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [USDC]-[fUSDT] SPOOKY LP [+] [-] [<=>] Price: $2,101,868,635,514.81 TVL: $2,067,797.52
+USDC Price: $1.00
+fUSDT Price: $1.01
+Staked: 0.0000 spLP ($3.21)
+ELDRv2 Per Week: 6.69 ($0.08)
+APR: Day 0.34% Week 2.40% Year 124.75%
+You are staking 0.00 [USDC]-[fUSDT] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[fUSDT] SPOOKY LP - Fee 2.5%
+Unstake 0.00 [USDC]-[fUSDT] SPOOKY LP
+Claim 0.00 ELDRv2 ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [BTC]-[ETH] SPOOKY LP [+] [-] [<=>] Price: $41,768,621,897.24 TVL: $42,035,985.31
+BTC Price: $36,339.00
+ETH Price: $2,373.59
+Staked: 0.0000 spLP ($4.79)
+ELDRv2 Per Week: 13.38 ($0.15)
+APR: Day 0.46% Week 3.22% Year 167.29%
+You are staking 0.00 [BTC]-[ETH] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTC]-[ETH] SPOOKY LP - Fee 4%
+Unstake 0.00 [BTC]-[ETH] SPOOKY LP
+Claim 0.00 ELDRv2 ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - WFTM Price: $2.04 Market Cap: $1,473,235,598.99 
+Staked: 3.2514 WFTM ($6.63)
+ELDRv2 Per Week: 6.69 ($0.08)
+APR: Day 0.17% Week 1.16% Year 60.43%
+You are staking 0.00 WFTM ($0.00), 0.00% of the pool.
+Stake 0.00 WFTM - Fee 2.5%
+Unstake 0.00 WFTM
+Claim 0.00 ELDRv2 ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - USDC Price: $1.00 Market Cap: $1,727,500,711.93 
+Staked: 2.6929 USDC ($2.69)
+ELDRv2 Per Week: 3.35 ($0.04)
+APR: Day 0.20% Week 1.43% Year 74.43%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 2.5%
+Unstake 0.00 USDC
+Claim 0.00 ELDRv2 ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - ETH Price: $2,373.59 Market Cap: $1,132,389,092.70 
+Staked: 0.0131 ETH ($31.16)
+ELDRv2 Per Week: 5.35 ($0.06)
+APR: Day 0.03% Week 0.20% Year 10.29%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 2.5%
+Unstake 0.00 ETH
+Claim 0.00 ELDRv2 ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - BTC Price: $36,339.00 Market Cap: $625,278,129.03 
+Staked: 0.0001 BTC ($2.90)
+ELDRv2 Per Week: 6.69 ($0.08)
+APR: Day 0.38% Week 2.66% Year 138.39%
+You are staking 0.00 BTC ($0.00), 0.00% of the pool.
+Stake 0.00 BTC - Fee 2.5%
+Unstake 0.00 BTC
+Claim 0.00 ELDRv2 ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - BNB Price: $367.17 Market Cap: $13,918,491.04 
+Staked: 0.0062 BNB ($2.26)
+ELDRv2 Per Week: 5.35 ($0.06)
+APR: Day 0.39% Week 2.72% Year 141.60%
+You are staking 0.00 BNB ($0.00), 0.00% of the pool.
+Stake 0.00 BNB - Fee 2.5%
+Unstake 0.00 BNB
+Claim 0.00 ELDRv2 ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - fUSDT Price: $1.01 Market Cap: $353,946,320.35 
+Staked: 1.9598 fUSDT ($1.98)
+ELDRv2 Per Week: 3.35 ($0.04)
+APR: Day 0.28% Week 1.95% Year 101.26%
+You are staking 0.00 fUSDT ($0.00), 0.00% of the pool.
+Stake 0.00 fUSDT - Fee 2.5%
+Unstake 0.00 fUSDT
+Claim 0.00 ELDRv2 ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - DAI Price: $1.01 Market Cap: $711,512,155.93 
+Staked: 3.3829 DAI ($3.42)
+ELDRv2 Per Week: 3.35 ($0.04)
+APR: Day 0.16% Week 1.13% Year 58.66%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 2.5%
+Unstake 0.00 DAI
+Claim 0.00 ELDRv2 ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - BOO Price: $25.32 Market Cap: $213,628,884.44 
+Staked: 0.1540 BOO ($3.90)
+ELDRv2 Per Week: 5.35 ($0.06)
+APR: Day 0.23% Week 1.58% Year 82.24%
+You are staking 0.00 BOO ($0.00), 0.00% of the pool.
+Stake 0.00 BOO - Fee 2.5%
+Unstake 0.00 BOO
+Claim 0.00 ELDRv2 ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - SPELL Price: $0.005128 Market Cap: $9,193,176.67 
+Staked: 2967.8491 SPELL ($15.22)
+ELDRv2 Per Week: 6.69 ($0.08)
+APR: Day 0.07% Week 0.51% Year 26.34%
+You are staking 0.00 SPELL ($0.00), 0.00% of the pool.
+Stake 0.00 SPELL - Fee 2.5%
+Unstake 0.00 SPELL
+Claim 0.00 ELDRv2 ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $397.79

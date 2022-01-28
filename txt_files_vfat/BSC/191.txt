@@ -1,0 +1,403 @@
+*************** 👨‍🌾 UNOFFICIAL JAGUARSWAP FINANCE CALCULATOR 👨‍🌾 ***************
+INFO  : https://jaguarswap.com
+*******************************************************************************
+
+Thu Jan 27 2022 20:50:02 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 35 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [JAGUAR]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $31.98
+JAGUAR Price: $0.0000000076
+BUSD Price: $1.00
+Staked: 10337.1861 Cake-LP ($2.40)
+JAGUAR Per Week: 4244.21 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.07%
+You are staking 0.00 [JAGUAR]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [JAGUAR]-[BUSD] Cake LP
+Unstake 0.00 [JAGUAR]-[BUSD] Cake LP
+Claim 0.00 JAGUAR ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [JAGUAR]-[WBNB] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $1.98
+JAGUAR Price: $0.0000000076
+WBNB Price: $370.49
+Staked: 284.0953 Cake-LP ($1.28)
+JAGUAR Per Week: 2546.53 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.08%
+You are staking 0.00 [JAGUAR]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [JAGUAR]-[WBNB] Cake LP
+Unstake 0.00 [JAGUAR]-[WBNB] Cake LP
+Claim 0.00 JAGUAR ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $66.03 TVL: $2,136,849.00
+WBNB Price: $370.49
+BUSD Price: $1.00
+Staked: 27.3389 Cake-LP ($1,805.31)
+JAGUAR Per Week: 530.53 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 JAGUAR ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.17 TVL: $3,557,164.62
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 44.7116 Cake-LP ($97.08)
+JAGUAR Per Week: 424.42 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 JAGUAR ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $8,217.20 TVL: $298,619.32
+BTCB Price: $36,208.00
+WBNB Price: $370.49
+Staked: 0.0004 Cake-LP ($3.37)
+JAGUAR Per Week: 636.63 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.01%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 JAGUAR ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,191.71 TVL: $478,240.83
+ETH Price: $2,429.73
+WBNB Price: $370.49
+Staked: 0.0006 Cake-LP ($1.31)
+JAGUAR Per Week: 636.63 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.02%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 JAGUAR ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [DAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.05 TVL: $1,365,094.58
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 166.4587 Cake-LP ($341.85)
+JAGUAR Per Week: 424.42 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 JAGUAR ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.28 TVL: $253,455.92
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 170.3279 Cake-LP ($388.35)
+JAGUAR Per Week: 424.42 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 JAGUAR ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [DOT]-[WBNB] Cake LP [+] [-] [<=>] Price: $179.77 TVL: $322,135.68
+DOT Price: $17.96
+WBNB Price: $370.49
+Staked: 2.2834 Cake-LP ($410.50)
+JAGUAR Per Week: 636.63 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 JAGUAR ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [Cake]-[BUSD] Cake LP [+] [-] [<=>] Price: $8.60 TVL: $67,992.26
+Cake Price: $7.03
+BUSD Price: $1.00
+Staked: 0.5524 Cake-LP ($4.75)
+JAGUAR Per Week: 212.21 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 JAGUAR ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $122.84 TVL: $3,317,176.48
+Cake Price: $7.03
+WBNB Price: $370.49
+Staked: 12.9336 Cake-LP ($1,588.78)
+JAGUAR Per Week: 212.21 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 JAGUAR ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - JAGUAR Price: $0.0000000076 Market Cap: $172.39 [%]
+Staked: 829035325.1298 JAGUAR ($6.33)
+JAGUAR Per Week: 1061.05 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.01%
+You are staking 0.00 JAGUAR ($0.00), 0.00% of the pool.
+Stake 0.00 JAGUAR
+Unstake 0.00 JAGUAR
+Claim 0.00 JAGUAR ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - BUSD Price: $1.00 Market Cap: $4,848,758,226.91 [%]
+Staked: 3915.3350 BUSD ($3,913.53)
+JAGUAR Per Week: 212.21 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 JAGUAR ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - WBNB Price: $370.49 Market Cap: $1,934,282,359.14 [%]
+Staked: 9.7955 WBNB ($3,629.12)
+JAGUAR Per Week: 318.32 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 JAGUAR ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - USDT Price: $1.00 Market Cap: $3,873,561,005.62 [%]
+Staked: 1067.2023 USDT ($1,065.43)
+JAGUAR Per Week: 106.11 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 JAGUAR ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - BTCB Price: $36,208.00 Market Cap: $4,073,436,208.00 [%]
+Staked: 0.0111 BTCB ($402.76)
+JAGUAR Per Week: 212.21 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 JAGUAR ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - ETH Price: $2,429.73 Market Cap: $3,413,770,650.00 [%]
+Staked: 0.2533 ETH ($615.51)
+JAGUAR Per Week: 212.21 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 JAGUAR ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - DAI Price: $1.00 Market Cap: $262,000,000.00 [%]
+Staked: 142.7999 DAI ($142.80)
+JAGUAR Per Week: 106.11 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 JAGUAR ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - USDC Price: $1.00 Market Cap: $1,776,868,758.00 [%]
+Staked: 736.4652 USDC ($735.58)
+JAGUAR Per Week: 106.11 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 JAGUAR ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - DOT Price: $17.96 Market Cap: $287,359,999.84 [%]
+Staked: 58.7066 DOT ($1,054.37)
+JAGUAR Per Week: 212.21 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 JAGUAR ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - Cake Price: $7.03 Market Cap: $4,323,134,695.88 [%]
+Staked: 123.7751 Cake ($870.14)
+JAGUAR Per Week: 106.11 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 JAGUAR ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - BSCX Price: $2.43 Market Cap: $23,770,370.53 [%]
+Staked: 1.0621 BSCX ($2.58)
+JAGUAR Per Week: 106.11 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BSCX ($0.00), 0.00% of the pool.
+Stake 0.00 BSCX - Fee 4%
+Unstake 0.00 BSCX
+Claim 0.00 JAGUAR ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - AUTO Price: $405.46 Market Cap: $32,695,560.24 [%]
+Staked: 0.4231 AUTO ($171.57)
+JAGUAR Per Week: 106.11 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 AUTO ($0.00), 0.00% of the pool.
+Stake 0.00 AUTO - Fee 4%
+Unstake 0.00 AUTO
+Claim 0.00 JAGUAR ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - EGG Price: $0.13 Market Cap: $1,096,689.39 [%]
+Staked: 161.4230 EGG ($21.72)
+JAGUAR Per Week: 106.11 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 EGG ($0.00), 0.00% of the pool.
+Stake 0.00 EGG - Fee 4%
+Unstake 0.00 EGG
+Claim 0.00 JAGUAR ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - BUNNY Price: $0.58 Market Cap: $8,630,934.94 [%]
+Staked: 44.6657 BUNNY ($25.92)
+JAGUAR Per Week: 106.11 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BUNNY ($0.00), 0.00% of the pool.
+Stake 0.00 BUNNY - Fee 4%
+Unstake 0.00 BUNNY
+Claim 0.00 JAGUAR ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - UNI Price: $10.65 Market Cap: $44,730,000.00 [%]
+Staked: 126.6153 UNI ($1,348.45)
+JAGUAR Per Week: 106.11 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 UNI ($0.00), 0.00% of the pool.
+Stake 0.00 UNI - Fee 4%
+Unstake 0.00 UNI
+Claim 0.00 JAGUAR ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - BIFI Price: $1,744.17 Market Cap: $139,533,600.00 [%]
+Staked: 0.3395 BIFI ($592.13)
+JAGUAR Per Week: 106.11 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BIFI ($0.00), 0.00% of the pool.
+Stake 0.00 BIFI - Fee 4%
+Unstake 0.00 BIFI
+Claim 0.00 JAGUAR ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - [JAGUAR]-[PALM] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $0.68
+JAGUAR Price: $0.0000000076
+PALM Price: $0.03
+Staked: 12314.6796 Cake-LP ($0.38)
+JAGUAR Per Week: 1061.05 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.11%
+You are staking 0.00 [JAGUAR]-[PALM] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [JAGUAR]-[PALM] Cake LP - Fee 4%
+Unstake 0.00 [JAGUAR]-[PALM] Cake LP
+Claim 0.00 JAGUAR ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - [ADA]-[WBNB] Cake LP [+] [-] [<=>] Price: $42.41 TVL: $12,111,838.53
+ADA Price: $1.03
+WBNB Price: $370.49
+Staked: 12.0585 Cake-LP ($511.44)
+JAGUAR Per Week: 1061.05 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 JAGUAR ($0.00)
+Staking or unstaking also claims rewards.
+
+29 - [LTC]-[JAGUAR] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $0.30
+LTC Price: $106.67
+JAGUAR Price: $0.0000000076
+Staked: 137.4937 Cake-LP ($0.27)
+JAGUAR Per Week: 1061.05 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.15%
+You are staking 0.00 [LTC]-[JAGUAR] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LTC]-[JAGUAR] Cake LP - Fee 4%
+Unstake 0.00 [LTC]-[JAGUAR] Cake LP
+Claim 0.00 JAGUAR ($0.00)
+Staking or unstaking also claims rewards.
+
+30 - [DOGE]-[BUSD] Cake LP [+] [-] [<=>] Price: $102,779.31 TVL: $16,460.90
+DOGE Price: $0.14
+BUSD Price: $1.00
+Staked: 0.0034 Cake-LP ($346.85)
+JAGUAR Per Week: 424.42 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [DOGE]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOGE]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DOGE]-[BUSD] Cake LP
+Claim 0.00 JAGUAR ($0.00)
+Staking or unstaking also claims rewards.
+
+31 - [DOGE]-[WBNB] Cake LP [+] [-] [<=>] Price: $1,591,340.44 TVL: $3,362.30
+DOGE Price: $0.14
+WBNB Price: $370.49
+Staked: 0.0000 Cake-LP ($49.78)
+JAGUAR Per Week: 424.42 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [DOGE]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOGE]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOGE]-[WBNB] Cake LP
+Claim 0.00 JAGUAR ($0.00)
+Staking or unstaking also claims rewards.
+
+32 - [DODO]-[WBNB] Cake LP [+] [-] [<=>] Price: $28.33 TVL: $13,267.87
+DODO Price: $0.47
+WBNB Price: $370.49
+Staked: 2.9810 Cake-LP ($84.45)
+JAGUAR Per Week: 424.42 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [DODO]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DODO]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DODO]-[WBNB] Cake LP
+Claim 0.00 JAGUAR ($0.00)
+Staking or unstaking also claims rewards.
+
+33 - [CGS]-[JAGUAR] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $1.04
+CGS Price: $0.02
+JAGUAR Price: $0.0000000076
+Staked: 23575.4382 Cake-LP ($0.68)
+JAGUAR Per Week: 1061.05 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.06%
+You are staking 0.00 [CGS]-[JAGUAR] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CGS]-[JAGUAR] Cake LP - Fee 4%
+Unstake 0.00 [CGS]-[JAGUAR] Cake LP
+Claim 0.00 JAGUAR ($0.00)
+Staking or unstaking also claims rewards.
+
+34 - [ELEPHANT]-[WBNB] Cake LP [+] [-] [<=>] Price: $0.81 TVL: $483.00
+ELEPHANT Price: $0.000246
+WBNB Price: $370.49
+Staked: 248.6526 Cake-LP ($200.21)
+JAGUAR Per Week: 424.42 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [ELEPHANT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ELEPHANT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ELEPHANT]-[WBNB] Cake LP
+Claim 0.00 JAGUAR ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $20,436.99

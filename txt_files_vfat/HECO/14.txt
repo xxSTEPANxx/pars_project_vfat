@@ -1,0 +1,111 @@
+*************** 👨‍🌾 UNOFFICIAL WePiggy CALCULATOR 👨‍🌾 ***************
+INFO  : https://app.wepiggy.com
+*****************************************************************
+
+Thu Jan 27 2022 21:53:53 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Deposit Market Size : $333,573.32
+Borrow Market Size : $122,875.39
+TVL : $211,119.67
+
+HUSD ($1.00)
+Supplied : 35,381.05 ($35,370.64) at 0.82% APY
+Borrowed : 15,044.58 ($15,040.15) at 2.15% APY
+Reserves : 75.44 ($75.42)
+Farming APY Supply 0.00% Borrow 0.00%
+Net APY Supply 0.82% Borrow -2.15%
+
+USDT ($1.00)
+Supplied : 112,467.79 ($112,467.79) at 0.37% APY
+Borrowed : 32,194.10 ($32,194.10) at 1.44% APY
+Reserves : 78.49 ($78.49)
+Farming APY Supply 0.00% Borrow 0.00%
+Net APY Supply 0.37% Borrow -1.44%
+
+USDC-HECO ($1.00)
+Supplied : 5,377.96 ($5,377.96) at 1.93% APY
+Borrowed : 3,501.44 ($3,501.44) at 3.31% APY
+Reserves : 11.78 ($11.78)
+Farming APY Supply 0.00% Borrow 0.00%
+Net APY Supply 1.93% Borrow -3.31%
+
+ETH ($2,426.81)
+Supplied : 12.80 ($31,068.11) at 0.33% APY
+Borrowed : 2.35 ($5,708.16) at 2.29% APY
+Reserves : 0.00 ($2.98)
+Farming APY Supply 0.00% Borrow 0.00%
+Net APY Supply 0.33% Borrow -2.29%
+
+HBTC ($36,147.00)
+Supplied : 0.72 ($26,036.36) at 0.02% APY
+Borrowed : 0.03 ($1,193.07) at 0.57% APY
+Reserves : 0.00 ($1.20)
+Farming APY Supply 0.00% Borrow 0.00%
+Net APY Supply 0.02% Borrow -0.57%
+
+HT ($8.63)
+Supplied : 9,525.51 ($82,186.13) at 13.68% APY
+Borrowed : 6,389.88 ($55,131.88) at 29.02% APY
+Reserves : 22.74 ($196.21)
+Farming APY Supply 0.00% Borrow 0.00%
+Net APY Supply 13.68% Borrow -29.02%
+
+HPT ($0.00)
+Supplied : 312,299.24 ($691.54) at 0.00% APY
+Borrowed : 2,645.84 ($5.86) at 2.32% APY
+Reserves : 228.27 ($0.51)
+Farming APY Supply 0.00% Borrow 0.00%
+Net APY Supply 0.00% Borrow -2.32%
+
+HDOT ($18.04)
+Supplied : 60.11 ($1,084.48) at 6.78% APY
+Borrowed : 28.38 ($512.09) at 20.35% APY
+Reserves : 0.04 ($0.80)
+Farming APY Supply 0.00% Borrow 0.00%
+Net APY Supply 6.78% Borrow -20.35%
+
+HLTC ($106.94)
+Supplied : 10.94 ($1,169.70) at 5.08% APY
+Borrowed : 4.45 ($475.84) at 17.63% APY
+Reserves : 0.05 ($5.83)
+Farming APY Supply 0.00% Borrow 0.00%
+Net APY Supply 5.08% Borrow -17.63%
+
+HBCH ($288.82)
+Supplied : 35.49 ($10,251.47) at 0.74% APY
+Borrowed : 5.02 ($1,448.60) at 7.19% APY
+Reserves : 0.01 ($3.17)
+Farming APY Supply 0.00% Borrow 0.00%
+Net APY Supply 0.74% Borrow -7.19%
+
+MDX ($0.23)
+Supplied : 32,841.46 ($7,506.98) at 0.00% APY
+Borrowed : 4,434.61 ($1,013.67) at 6.96% APY
+Reserves : 54.39 ($12.43)
+Farming APY Supply 0.00% Borrow 0.00%
+Net APY Supply 0.00% Borrow -6.96%
+
+HFIL ($19.14)
+Supplied : 507.71 ($9,717.72) at 0.06% APY
+Borrowed : 13.59 ($260.09) at 2.98% APY
+Reserves : 0.06 ($1.15)
+Farming APY Supply 0.00% Borrow 0.00%
+Net APY Supply 0.06% Borrow -2.98%
+
+UNI ($10.52)
+Supplied : 309.31 ($3,253.07) at 0.11% APY
+Borrowed : 12.77 ($134.32) at 3.51% APY
+Reserves : 0.02 ($0.16)
+Farming APY Supply 0.00% Borrow 0.00%
+Net APY Supply 0.11% Borrow -3.51%
+
+DAI-HECO ($1.00)
+Supplied : 7,394.40 ($7,391.38) at 17.71% APY
+Borrowed : 6,258.67 ($6,256.10) at 23.87% APY
+Reserves : 31.62 ($31.60)
+Farming APY Supply 0.00% Borrow 0.00%
+Net APY Supply 17.71% Borrow -23.87%

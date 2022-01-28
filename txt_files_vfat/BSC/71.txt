@@ -1,0 +1,1137 @@
+*************** 👨‍🌾 UNOFFICIAL SWAMP.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://app.swamp.finance
+**********************************************************************************
+
+Thu Jan 27 2022 20:27:04 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 309 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+Cake Price: $7.18 Market Cap: $4,415,333,435.44 [%]
+Staked: 23001.2332 Cake ($165,148.85)
+SWAMP Per Week: 529.05 ($53.81)
+APR: Day 0.00% Week 0.03% Year 1.69%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake
+Unstake 0.00 Cake
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+SWAMP Price: $0.10 Market Cap: $177,636.91 [%]
+Staked: 866930.4194 SWAMP ($88,173.76)
+SWAMP Per Week: 13226.26 ($1,345.22)
+APR: Day 0.22% Week 1.53% Year 79.33%
+You are staking 0.00 SWAMP ($0.00), 0.00% of the pool.
+Stake 0.00 SWAMP
+Unstake 0.00 SWAMP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[BUSD]-[EGG] Cake LP [+] [-] [<=>] Price: $0.83 TVL: $309,101.73
+BUSD Price: $1.00
+EGG Price: $0.13
+Staked: 6936.9052 Cake-LP ($5,728.96)
+SWAMP Per Week: 26.45 ($2.69)
+APR: Day 0.01% Week 0.05% Year 2.44%
+You are staking 0.00 [BUSD]-[EGG] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUSD]-[EGG] Cake LP
+Unstake 0.00 [BUSD]-[EGG] Cake LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[WBNB]-[EGG] Cake LP [+] [-] [<=>] Price: $15.96 TVL: $239,261.46
+WBNB Price: $370.82
+EGG Price: $0.13
+Staked: 627.5696 Cake-LP ($10,013.91)
+SWAMP Per Week: 26.45 ($2.69)
+APR: Day 0.00% Week 0.03% Year 1.40%
+You are staking 0.00 [WBNB]-[EGG] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[EGG] Cake LP
+Unstake 0.00 [WBNB]-[EGG] Cake LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $131,269,447.37
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 52075.8752 Cake-LP ($108,674.75)
+SWAMP Per Week: 132.26 ($13.45)
+APR: Day 0.00% Week 0.01% Year 0.64%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[DAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.08 TVL: $16,836,449.23
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 23507.0343 Cake-LP ($48,969.93)
+SWAMP Per Week: 132.26 ($13.45)
+APR: Day 0.00% Week 0.03% Year 1.43%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[DOT]-[WBNB] Cake LP [+] [-] [<=>] Price: $172.92 TVL: $17,735,811.84
+DOT Price: $17.91
+WBNB Price: $370.82
+Staked: 22.6099 Cake-LP ($3,909.67)
+SWAMP Per Week: 66.13 ($6.73)
+APR: Day 0.02% Week 0.17% Year 8.95%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[WBNB]-[LINK] Cake LP [+] [-] [<=>] Price: $157.29 TVL: $10,461,583.09
+WBNB Price: $370.82
+LINK Price: $15.19
+Staked: 2.6298 Cake-LP ($413.64)
+SWAMP Per Week: 26.45 ($2.69)
+APR: Day 0.09% Week 0.65% Year 33.82%
+You are staking 0.00 [WBNB]-[LINK] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[LINK] Cake LP
+Unstake 0.00 [WBNB]-[LINK] Cake LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[WBNB]-[UNI] Cake LP [+] [-] [<=>] Price: $130.31 TVL: $6,882,241.62
+WBNB Price: $370.82
+UNI Price: $10.67
+Staked: 146.4037 Cake-LP ($19,077.17)
+SWAMP Per Week: 66.13 ($6.73)
+APR: Day 0.01% Week 0.04% Year 1.83%
+You are staking 0.00 [WBNB]-[UNI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[UNI] Cake LP
+Unstake 0.00 [WBNB]-[UNI] Cake LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[XRP]-[WBNB] Cake LP [+] [-] [<=>] Price: $31.79 TVL: $7,000,212.82
+XRP Price: $0.61
+WBNB Price: $370.82
+Staked: 2.2412 Cake-LP ($71.26)
+SWAMP Per Week: 26.45 ($2.69)
+APR: Day 0.54% Week 3.78% Year 196.34%
+You are staking 0.00 [XRP]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [XRP]-[WBNB] Cake LP
+Unstake 0.00 [XRP]-[WBNB] Cake LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[ADA]-[WBNB] Cake LP [+] [-] [<=>] Price: $42.43 TVL: $12,120,886.87
+ADA Price: $1.03
+WBNB Price: $370.82
+Staked: 187.8276 Cake-LP ($7,969.95)
+SWAMP Per Week: 26.45 ($2.69)
+APR: Day 0.00% Week 0.03% Year 1.76%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[ALPHA]-[WBNB] Cake LP [+] [-] [<=>] Price: $24.89 TVL: $1,211,063.63
+ALPHA Price: $0.38
+WBNB Price: $370.82
+Staked: 5.2348 Cake-LP ($130.31)
+SWAMP Per Week: 26.45 ($2.69)
+APR: Day 0.29% Week 2.06% Year 107.36%
+You are staking 0.00 [ALPHA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ALPHA]-[WBNB] Cake LP
+Unstake 0.00 [ALPHA]-[WBNB] Cake LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[ZIL]-[WBNB] Cake LP [+] [-] [<=>] Price: $8,621.09 TVL: $195,585.03
+ZIL Price: $0.04
+WBNB Price: $370.82
+Staked: 2.6645 Cake-LP ($22,970.98)
+SWAMP Per Week: 26.45 ($2.69)
+APR: Day 0.00% Week 0.01% Year 0.61%
+You are staking 0.00 [ZIL]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ZIL]-[WBNB] Cake LP
+Unstake 0.00 [ZIL]-[WBNB] Cake LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[TWT]-[WBNB] Cake LP [+] [-] [<=>] Price: $29.57 TVL: $2,151,660.70
+TWT Price: $0.50
+WBNB Price: $370.82
+Staked: 251.4833 Cake-LP ($7,435.47)
+SWAMP Per Week: 13.23 ($1.35)
+APR: Day 0.00% Week 0.02% Year 0.94%
+You are staking 0.00 [TWT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TWT]-[WBNB] Cake LP
+Unstake 0.00 [TWT]-[WBNB] Cake LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[WBNB]-[REEF] Cake LP [+] [-] [<=>] Price: $4.08 TVL: $285,722.02
+WBNB Price: $370.82
+REEF Price: $0.009776
+Staked: 119.4911 Cake-LP ($487.27)
+SWAMP Per Week: 26.45 ($2.69)
+APR: Day 0.08% Week 0.55% Year 28.71%
+You are staking 0.00 [WBNB]-[REEF] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[REEF] Cake LP
+Unstake 0.00 [WBNB]-[REEF] Cake LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[LIT]-[WBNB] Cake LP [+] [-] [<=>] Price: $49.56 TVL: $123,749.43
+LIT Price: $1.48
+WBNB Price: $370.82
+Staked: 74.6816 Cake-LP ($3,701.33)
+SWAMP Per Week: 26.45 ($2.69)
+APR: Day 0.01% Week 0.07% Year 3.78%
+You are staking 0.00 [LIT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LIT]-[WBNB] Cake LP
+Unstake 0.00 [LIT]-[WBNB] Cake LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[DEXE]-[BUSD] Cake LP [+] [-] [<=>] Price: $5.75 TVL: $81,777.64
+DEXE Price: $6.39
+BUSD Price: $1.00
+Staked: 672.8508 Cake-LP ($3,870.33)
+SWAMP Per Week: 26.45 ($2.69)
+APR: Day 0.01% Week 0.07% Year 3.61%
+You are staking 0.00 [DEXE]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DEXE]-[BUSD] Cake LP
+Unstake 0.00 [DEXE]-[BUSD] Cake LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $107.17 TVL: $204,119,787.19
+Cake Price: $7.18
+WBNB Price: $370.82
+Staked: 628.3904 Cake-LP ($67,346.87)
+SWAMP Per Week: 529.05 ($53.81)
+APR: Day 0.01% Week 0.08% Year 4.15%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.52 TVL: $346,705,715.37
+WBNB Price: $370.82
+BUSD Price: $1.00
+Staked: 907.7167 Cake-LP ($43,136.46)
+SWAMP Per Week: 132.26 ($13.45)
+APR: Day 0.00% Week 0.03% Year 1.62%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,051.04 TVL: $74,723,480.87
+ETH Price: $2,456.12
+WBNB Price: $370.82
+Staked: 37.6359 Cake-LP ($77,192.72)
+SWAMP Per Week: 132.26 ($13.45)
+APR: Day 0.00% Week 0.02% Year 0.91%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $7,791.24 TVL: $69,132,158.80
+BTCB Price: $36,472.00
+WBNB Price: $370.82
+Staked: 24.3577 Cake-LP ($189,776.39)
+SWAMP Per Week: 132.26 ($13.45)
+APR: Day 0.00% Week 0.01% Year 0.37%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $296,365,827.53
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 61488.4007 Cake-LP ($128,500.44)
+SWAMP Per Week: 132.26 ($13.45)
+APR: Day 0.00% Week 0.01% Year 0.54%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[xBLZD]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.91 TVL: $142,052.93
+xBLZD Price: $0.18
+BUSD Price: $1.00
+Staked: 6204.7071 Cake-LP ($5,624.19)
+SWAMP Per Week: 26.45 ($2.69)
+APR: Day 0.01% Week 0.05% Year 2.49%
+You are staking 0.00 [xBLZD]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [xBLZD]-[BUSD] Cake LP
+Unstake 0.00 [xBLZD]-[BUSD] Cake LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[WBNB]-[SWAMP] Cake LP [+] [-] [<=>] Price: $13.59 TVL: $17,101.74
+WBNB Price: $370.82
+SWAMP Price: $0.10
+Staked: 1207.5300 Cake-LP ($16,409.19)
+SWAMP Per Week: 2645.25 ($269.04)
+APR: Day 0.23% Week 1.64% Year 85.26%
+You are staking 0.00 [WBNB]-[SWAMP] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[SWAMP] Cake LP
+Unstake 0.00 [WBNB]-[SWAMP] Cake LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[SWAMP]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.70 TVL: $29,342.06
+SWAMP Price: $0.10
+BUSD Price: $1.00
+Staked: 41466.1311 Cake-LP ($28,934.02)
+SWAMP Per Week: 2645.25 ($269.04)
+APR: Day 0.13% Week 0.93% Year 48.35%
+You are staking 0.00 [SWAMP]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SWAMP]-[BUSD] Cake LP
+Unstake 0.00 [SWAMP]-[BUSD] Cake LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[Cake]-[SWAMP] Cake LP [+] [-] [<=>] Price: $1.77 TVL: $6,381.34
+Cake Price: $7.18
+SWAMP Price: $0.10
+Staked: 3440.9474 Cake-LP ($6,094.09)
+SWAMP Per Week: 1322.63 ($134.52)
+APR: Day 0.32% Week 2.21% Year 114.79%
+You are staking 0.00 [Cake]-[SWAMP] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[SWAMP] Cake LP
+Unstake 0.00 [Cake]-[SWAMP] Cake LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[BTCB]-[SWAMP] Cake LP [+] [-] [<=>] Price: $125.40 TVL: $2,303.33
+BTCB Price: $36,472.00
+SWAMP Price: $0.10
+Staked: 17.4960 Cake-LP ($2,193.96)
+SWAMP Per Week: 529.05 ($53.81)
+APR: Day 0.35% Week 2.45% Year 127.53%
+You are staking 0.00 [BTCB]-[SWAMP] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[SWAMP] Cake LP
+Unstake 0.00 [BTCB]-[SWAMP] Cake LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[ETH]-[BETH] Uni LP [+] [-] [<=>] Price: $4,764.60 TVL: $1,694,360.80
+ETH Price: $2,456.12
+BETH Price: $2,306.77
+Staked: 1.4250 MDEX LP ($6,789.39)
+SWAMP Per Week: 132.26 ($13.45)
+APR: Day 0.03% Week 0.20% Year 10.30%
+You are staking 0.00 [ETH]-[BETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[BETH] Uni LP
+Unstake 0.00 [ETH]-[BETH] Uni LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[ETH]-[BTCB] Uni LP [+] [-] [<=>] Price: $18,968.12 TVL: $5,131,466.57
+ETH Price: $2,456.12
+BTCB Price: $36,472.00
+Staked: 0.1074 MDEX LP ($2,037.87)
+SWAMP Per Week: 132.26 ($13.45)
+APR: Day 0.09% Week 0.66% Year 34.33%
+You are staking 0.00 [ETH]-[BTCB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[BTCB] Uni LP
+Unstake 0.00 [ETH]-[BTCB] Uni LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[USDT]-[USDC] Uni LP [+] [-] [<=>] Price: $2.01 TVL: $68,224,700.22
+USDT Price: $1.00
+USDC Price: $1.00
+Staked: 31415.8104 MDEX LP ($63,093.48)
+SWAMP Per Week: 132.26 ($13.45)
+APR: Day 0.00% Week 0.02% Year 1.11%
+You are staking 0.00 [USDT]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[USDC] Uni LP
+Unstake 0.00 [USDT]-[USDC] Uni LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[USDT]-[BUSD] Uni LP [+] [-] [<=>] Price: $2.01 TVL: $265,530,818.96
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 103907.8713 MDEX LP ($208,421.52)
+SWAMP Per Week: 132.26 ($13.45)
+APR: Day 0.00% Week 0.01% Year 0.34%
+You are staking 0.00 [USDT]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Uni LP
+Unstake 0.00 [USDT]-[BUSD] Uni LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+BANANA Price: $0.62 Market Cap: $69,384,885.35 [%]
+Staked: 43620.3978 BANANA ($26,962.38)
+SWAMP Per Week: 66.13 ($6.73)
+APR: Day 0.00% Week 0.02% Year 1.30%
+You are staking 0.00 BANANA ($0.00), 0.00% of the pool.
+Stake 0.00 BANANA
+Unstake 0.00 BANANA
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[BANANA]-[WBNB] APE LP [+] [-] [<=>] Price: $34.43 TVL: $13,021,313.96
+BANANA Price: $0.62
+WBNB Price: $370.82
+Staked: 1193.7987 APE-LP ($41,098.37)
+SWAMP Per Week: 66.13 ($6.73)
+APR: Day 0.00% Week 0.02% Year 0.85%
+You are staking 0.00 [BANANA]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BANANA]-[WBNB] APE LP
+Unstake 0.00 [BANANA]-[WBNB] APE LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[BANANA]-[BUSD] APE LP [+] [-] [<=>] Price: $1.94 TVL: $5,513,509.75
+BANANA Price: $0.62
+BUSD Price: $1.00
+Staked: 7889.8066 APE-LP ($15,283.32)
+SWAMP Per Week: 66.13 ($6.73)
+APR: Day 0.01% Week 0.04% Year 2.29%
+You are staking 0.00 [BANANA]-[BUSD] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BANANA]-[BUSD] APE LP
+Unstake 0.00 [BANANA]-[BUSD] APE LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[ETH]-[WBNB] APE LP [+] [-] [<=>] Price: $2,018.64 TVL: $3,773,881.62
+ETH Price: $2,456.12
+WBNB Price: $370.82
+Staked: 20.2906 APE-LP ($40,959.38)
+SWAMP Per Week: 132.26 ($13.45)
+APR: Day 0.00% Week 0.03% Year 1.71%
+You are staking 0.00 [ETH]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] APE LP
+Unstake 0.00 [ETH]-[WBNB] APE LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[USDC]-[BUSD] APE LP [+] [-] [<=>] Price: $2.03 TVL: $6,303,200.75
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 27034.3758 APE-LP ($54,948.55)
+SWAMP Per Week: 132.26 ($13.45)
+APR: Day 0.00% Week 0.02% Year 1.27%
+You are staking 0.00 [USDC]-[BUSD] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] APE LP
+Unstake 0.00 [USDC]-[BUSD] APE LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[USDT]-[DOT] Uni LP [+] [-] [<=>] Price: $8.59 TVL: $958,946.55
+USDT Price: $1.00
+DOT Price: $17.91
+Staked: 0.0000 MDEX LP ($0.00)
+SWAMP Per Week: 26.45 ($2.69)
+APR: Day 47124511998164136.00% Week 329871583987148928.00% Year 17153322367331743744.00%
+You are staking 0.00 [USDT]-[DOT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[DOT] Uni LP
+Unstake 0.00 [USDT]-[DOT] Uni LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[XRP]-[USDT] Uni LP [+] [-] [<=>] Price: $1.58 TVL: $425,608.23
+XRP Price: $0.61
+USDT Price: $1.00
+Staked: 828.9922 MDEX LP ($1,308.43)
+SWAMP Per Week: 26.45 ($2.69)
+APR: Day 0.03% Week 0.21% Year 10.69%
+You are staking 0.00 [XRP]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [XRP]-[USDT] Uni LP
+Unstake 0.00 [XRP]-[USDT] Uni LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+beltBNB (Wrapped Wrapped BNB) Price: $0.00 TVL: $0.00
+Staked: 1247.1150 beltBNB ($0.00)
+SWAMP Per Week: 132.26 ($13.45)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 beltBNB ($0.00), NaN% of the pool.
+Stake 0.00 beltBNB
+Unstake 0.00 beltBNB
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+beltBTC (Wrapped BTCB Token) Price: $0.00 TVL: $0.00
+Staked: 0.8125 beltBTC ($0.00)
+SWAMP Per Week: 132.26 ($13.45)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 beltBTC ($0.00), NaN% of the pool.
+Stake 0.00 beltBTC
+Unstake 0.00 beltBTC
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+beltETH (Wrapped Ethereum Token) Price: $0.00 TVL: $0.00
+Staked: 109.4890 beltETH ($0.00)
+SWAMP Per Week: 132.26 ($13.45)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 beltETH ($0.00), NaN% of the pool.
+Stake 0.00 beltETH
+Unstake 0.00 beltETH
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+4Belt Price: $0.00 Market Cap: $0.00 
+Staked: 15901.0783 4Belt ($0.00)
+SWAMP Per Week: 132.26 ($13.45)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 4Belt ($0.00), NaN% of the pool.
+Stake 0.00 4Belt
+Unstake 0.00 4Belt
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[WBNB]-[SWAMP] APE LP [+] [-] [<=>] Price: $13.11 TVL: $15,584.25
+WBNB Price: $370.82
+SWAMP Price: $0.10
+Staked: 1009.1112 APE-LP ($13,225.06)
+SWAMP Per Week: 26.45 ($2.69)
+APR: Day 0.00% Week 0.02% Year 1.06%
+You are staking 0.00 [WBNB]-[SWAMP] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[SWAMP] APE LP
+Unstake 0.00 [WBNB]-[SWAMP] APE LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[WBNB]-[IOTA] APE LP [+] [-] [<=>] Price: $36,264,475.44 TVL: $848,699.34
+WBNB Price: $370.82
+IOTA Price: $0.81
+Staked: 0.0006 APE-LP ($20,296.17)
+SWAMP Per Week: 26.45 ($2.69)
+APR: Day 0.00% Week 0.01% Year 0.69%
+You are staking 0.00 [WBNB]-[IOTA] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[IOTA] APE LP
+Unstake 0.00 [WBNB]-[IOTA] APE LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[DOGE]-[WBNB] APE LP [+] [-] [<=>] Price: $1,543,328.87 TVL: $1,194,306.79
+DOGE Price: $0.14
+WBNB Price: $370.82
+Staked: 0.0260 APE-LP ($40,175.20)
+SWAMP Per Week: 26.45 ($2.69)
+APR: Day 0.00% Week 0.01% Year 0.35%
+You are staking 0.00 [DOGE]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOGE]-[WBNB] APE LP
+Unstake 0.00 [DOGE]-[WBNB] APE LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[WBNB]-[ONT] APE LP [+] [-] [<=>] Price: $26.91 TVL: $472,083.33
+WBNB Price: $370.82
+ONT Price: $0.46
+Staked: 6720.9414 APE-LP ($180,856.80)
+SWAMP Per Week: 26.45 ($2.69)
+APR: Day 0.00% Week 0.00% Year 0.08%
+You are staking 0.00 [WBNB]-[ONT] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[ONT] APE LP
+Unstake 0.00 [WBNB]-[ONT] APE LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[WBNB]-[BAKE] APE LP [+] [-] [<=>] Price: $33.83 TVL: $408,399.56
+WBNB Price: $370.82
+BAKE Price: $0.61
+Staked: 3371.7950 APE-LP ($114,054.25)
+SWAMP Per Week: 26.45 ($2.69)
+APR: Day 0.00% Week 0.00% Year 0.12%
+You are staking 0.00 [WBNB]-[BAKE] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BAKE] APE LP
+Unstake 0.00 [WBNB]-[BAKE] APE LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[SUSHI]-[WBNB] APE LP [+] [-] [<=>] Price: $82.77 TVL: $928,158.41
+SUSHI Price: $4.14
+WBNB Price: $370.82
+Staked: 6.1360 APE-LP ($507.87)
+SWAMP Per Week: 26.45 ($2.69)
+APR: Day 0.08% Week 0.53% Year 27.55%
+You are staking 0.00 [SUSHI]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SUSHI]-[WBNB] APE LP
+Unstake 0.00 [SUSHI]-[WBNB] APE LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[ADA]-[WBNB] APE LP [+] [-] [<=>] Price: $41.09 TVL: $2,645,898.26
+ADA Price: $1.03
+WBNB Price: $370.82
+Staked: 606.1311 APE-LP ($24,908.93)
+SWAMP Per Week: 66.13 ($6.73)
+APR: Day 0.00% Week 0.03% Year 1.40%
+You are staking 0.00 [ADA]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] APE LP
+Unstake 0.00 [ADA]-[WBNB] APE LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[LTC]-[WBNB] APE LP [+] [-] [<=>] Price: $408.49 TVL: $2,127,158.43
+LTC Price: $106.72
+WBNB Price: $370.82
+Staked: 262.1949 APE-LP ($107,104.69)
+SWAMP Per Week: 26.45 ($2.69)
+APR: Day 0.00% Week 0.00% Year 0.13%
+You are staking 0.00 [LTC]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LTC]-[WBNB] APE LP
+Unstake 0.00 [LTC]-[WBNB] APE LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[ETH]-[SUSHI] APE LP [+] [-] [<=>] Price: $209.26 TVL: $495,900.01
+ETH Price: $2,456.12
+SUSHI Price: $4.14
+Staked: 3.2851 APE-LP ($687.42)
+SWAMP Per Week: 26.45 ($2.69)
+APR: Day 0.06% Week 0.39% Year 20.35%
+You are staking 0.00 [ETH]-[SUSHI] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[SUSHI] APE LP
+Unstake 0.00 [ETH]-[SUSHI] APE LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[ETH]-[ADA] APE LP [+] [-] [<=>] Price: $104.80 TVL: $2,049,881.55
+ETH Price: $2,456.12
+ADA Price: $1.03
+Staked: 191.1016 APE-LP ($20,028.03)
+SWAMP Per Week: 26.45 ($2.69)
+APR: Day 0.00% Week 0.01% Year 0.70%
+You are staking 0.00 [ETH]-[ADA] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[ADA] APE LP
+Unstake 0.00 [ETH]-[ADA] APE LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[BAT]-[ETH] APE LP [+] [-] [<=>] Price: $94.60 TVL: $688,129.35
+BAT Price: $0.84
+ETH Price: $2,456.12
+Staked: 3350.4433 APE-LP ($316,957.24)
+SWAMP Per Week: 66.13 ($6.73)
+APR: Day 0.00% Week 0.00% Year 0.11%
+You are staking 0.00 [BAT]-[ETH] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BAT]-[ETH] APE LP
+Unstake 0.00 [BAT]-[ETH] APE LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+3EPS Price: $1.04 Market Cap: $436,722,976.81 [%]
+Staked: 1079.4236 3EPS ($1,117.30)
+SWAMP Per Week: 132.26 ($13.45)
+APR: Day 0.17% Week 1.20% Year 62.61%
+You are staking 0.00 3EPS ($0.00), 0.00% of the pool.
+Stake 0.00 3EPS
+Unstake 0.00 3EPS
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+tusd3EPS Price: $1.02 Market Cap: $299,123,473.90 [%]
+Staked: 521.4899 tusd3EPS ($529.49)
+SWAMP Per Week: 132.26 ($13.45)
+APR: Day 0.36% Week 2.54% Year 132.11%
+You are staking 0.00 tusd3EPS ($0.00), 0.00% of the pool.
+Stake 0.00 tusd3EPS
+Unstake 0.00 tusd3EPS
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+dai3EPS Price: $1.03 Market Cap: $768,104.12 [%]
+Staked: 0.0000 dai3EPS ($0.00)
+SWAMP Per Week: 132.26 ($13.45)
+APR: Day 1442597004081104128.00% Week 10098179028567728128.00% Year 525105309485521829888.00%
+You are staking 0.00 dai3EPS ($0.00), 0.00% of the pool.
+Stake 0.00 dai3EPS
+Unstake 0.00 dai3EPS
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+btcEPS Price: $36,607.56 Market Cap: $17,967,804.01 [%]
+Staked: 0.0000 btcEPS ($0.00)
+SWAMP Per Week: 132.26 ($13.45)
+APR: Day 50966665316301.62% Week 356766657214111.31% Year 18551866175133788.00%
+You are staking 0.00 btcEPS ($0.00), 0.00% of the pool.
+Stake 0.00 btcEPS
+Unstake 0.00 btcEPS
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[BTCST]-[WBNB] Cake LP [+] [-] [<=>] Price: $533.34 TVL: $1,182,356.45
+BTCST Price: $15.09
+WBNB Price: $370.82
+Staked: 16.8953 Cake-LP ($9,010.91)
+SWAMP Per Week: 26.45 ($2.69)
+APR: Day 0.00% Week 0.03% Year 1.55%
+You are staking 0.00 [BTCST]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCST]-[WBNB] Cake LP
+Unstake 0.00 [BTCST]-[WBNB] Cake LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+Cake Price: $7.18 Market Cap: $4,415,333,435.44 [%]
+Staked: 2766.7047 Cake ($19,864.94)
+SWAMP Per Week: 529.05 ($53.81)
+APR: Day 0.04% Week 0.27% Year 14.09%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake
+Unstake 0.00 Cake
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[Cake]-[BUSD] Cake LP [+] [-] [<=>] Price: $7.90 TVL: $11,628,138.84
+Cake Price: $7.18
+BUSD Price: $1.00
+Staked: 4782.7506 Cake-LP ($37,761.70)
+SWAMP Per Week: 66.13 ($6.73)
+APR: Day 0.00% Week 0.02% Year 0.93%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[SHIB]-[WBNB] APE LP [+] [-] [<=>] Price: $0.20 TVL: $923,498.85
+SHIB Price: $0.0000212001
+WBNB Price: $370.82
+Staked: 8507.1268 APE-LP ($1,702.51)
+SWAMP Per Week: 26.45 ($2.69)
+APR: Day 0.02% Week 0.16% Year 8.22%
+You are staking 0.00 [SHIB]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SHIB]-[WBNB] APE LP
+Unstake 0.00 [SHIB]-[WBNB] APE LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[Fuel]-[WBNB] Uni LP [+] [-] [<=>] Price: $245.75 TVL: $2,047,798.38
+Fuel Price: $34.40
+WBNB Price: $370.82
+Staked: 90.8438 WINGS-LP ($22,324.56)
+SWAMP Per Week: 26.45 ($2.69)
+APR: Day 0.00% Week 0.01% Year 0.63%
+You are staking 0.00 [Fuel]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Fuel]-[WBNB] Uni LP
+Unstake 0.00 [Fuel]-[WBNB] Uni LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+BANANA Price: $0.62 Market Cap: $69,384,885.35 [%]
+Staked: 114894.4098 BANANA ($71,017.84)
+SWAMP Per Week: 66.13 ($6.73)
+APR: Day 0.00% Week 0.01% Year 0.49%
+You are staking 0.00 BANANA ($0.00), 0.00% of the pool.
+Stake 0.00 BANANA
+Unstake 0.00 BANANA
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[BSW]-[WBNB] Uni LP [+] [-] [<=>] Price: $30.53 TVL: $17,873,132.48
+BSW Price: $0.55
+WBNB Price: $370.82
+Staked: 80.4411 BSW-LP ($2,455.49)
+SWAMP Per Week: 26.45 ($2.69)
+APR: Day 0.02% Week 0.11% Year 5.70%
+You are staking 0.00 [BSW]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BSW]-[WBNB] Uni LP
+Unstake 0.00 [BSW]-[WBNB] Uni LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[UST]-[BUSD] Uni LP [+] [-] [<=>] Price: $2.01 TVL: $4,953,035.97
+UST Price: $1.00
+BUSD Price: $1.00
+Staked: 13015.4694 BSW-LP ($26,140.97)
+SWAMP Per Week: 132.26 ($13.45)
+APR: Day 0.01% Week 0.05% Year 2.68%
+You are staking 0.00 [UST]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UST]-[BUSD] Uni LP
+Unstake 0.00 [UST]-[BUSD] Uni LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+BSW Price: $0.55 Market Cap: $122,076,104.17 [%]
+Staked: 262896.4264 BSW ($144,591.19)
+SWAMP Per Week: 26.45 ($2.69)
+APR: Day 0.00% Week 0.00% Year 0.10%
+You are staking 0.00 BSW ($0.00), 0.00% of the pool.
+Stake 0.00 BSW
+Unstake 0.00 BSW
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[TUSD]-[BUSD] Uni LP [+] [-] [<=>] Price: $1.99 TVL: $1,750,973.88
+TUSD Price: $1.00
+BUSD Price: $1.00
+Staked: 14959.7176 BSW-LP ($29,841.60)
+SWAMP Per Week: 132.26 ($13.45)
+APR: Day 0.01% Week 0.05% Year 2.34%
+You are staking 0.00 [TUSD]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TUSD]-[BUSD] Uni LP
+Unstake 0.00 [TUSD]-[BUSD] Uni LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[AXS]-[WBNB] Cake LP [+] [-] [<=>] Price: $301.89 TVL: $3,296,924.38
+AXS Price: $47.49
+WBNB Price: $370.82
+Staked: 2.9460 Cake-LP ($889.37)
+SWAMP Per Week: 26.45 ($2.69)
+APR: Day 0.04% Week 0.30% Year 15.73%
+You are staking 0.00 [AXS]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AXS]-[WBNB] Cake LP
+Unstake 0.00 [AXS]-[WBNB] Cake LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[USDT]-[BUSD] Uni LP [+] [-] [<=>] Price: $2.05 TVL: $75,916,383.96
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 201.6685 BSW-LP ($413.65)
+SWAMP Per Week: 132.26 ($13.45)
+APR: Day 0.46% Week 3.25% Year 169.11%
+You are staking 0.00 [USDT]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Uni LP
+Unstake 0.00 [USDT]-[BUSD] Uni LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[DAI]-[USDT] Uni LP [+] [-] [<=>] Price: $2.00 TVL: $3,074,666.37
+DAI Price: $1.00
+USDT Price: $1.00
+Staked: 24677.3384 BSW-LP ($49,467.11)
+SWAMP Per Week: 132.26 ($13.45)
+APR: Day 0.00% Week 0.03% Year 1.41%
+You are staking 0.00 [DAI]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[USDT] Uni LP
+Unstake 0.00 [DAI]-[USDT] Uni LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[Cake]-[WBNB] Uni LP [+] [-] [<=>] Price: $105.38 TVL: $6,688,609.56
+Cake Price: $7.18
+WBNB Price: $370.82
+Staked: 36.2811 BSW-LP ($3,823.40)
+SWAMP Per Week: 132.26 ($13.45)
+APR: Day 0.05% Week 0.35% Year 18.30%
+You are staking 0.00 [Cake]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Uni LP
+Unstake 0.00 [Cake]-[WBNB] Uni LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[USDT]-[USDC] Uni LP [+] [-] [<=>] Price: $2.01 TVL: $24,005,309.82
+USDT Price: $1.00
+USDC Price: $1.00
+Staked: 37361.5799 BSW-LP ($75,078.60)
+SWAMP Per Week: 132.26 ($13.45)
+APR: Day 0.00% Week 0.02% Year 0.93%
+You are staking 0.00 [USDT]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[USDC] Uni LP
+Unstake 0.00 [USDT]-[USDC] Uni LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[USDT]-[BUSD] Uni LP [+] [-] [<=>] Price: $2.00 TVL: $954,936.96
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 134166.7132 ALI-LP ($268,558.26)
+SWAMP Per Week: 132.26 ($13.45)
+APR: Day 0.00% Week 0.01% Year 0.26%
+You are staking 0.00 [USDT]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Uni LP
+Unstake 0.00 [USDT]-[BUSD] Uni LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+Cake Price: $7.18 Market Cap: $4,415,333,435.44 [%]
+Staked: 800.2121 Cake ($5,745.52)
+SWAMP Per Week: 529.05 ($53.81)
+APR: Day 0.13% Week 0.94% Year 48.70%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake
+Unstake 0.00 Cake
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+beltBTC (Wrapped BTCB Token) Price: $0.00 TVL: $0.00
+Staked: 0.3402 beltBTC ($0.00)
+SWAMP Per Week: 132.26 ($13.45)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 beltBTC ($0.00), NaN% of the pool.
+Stake 0.00 beltBTC
+Unstake 0.00 beltBTC
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+beltBNB (Wrapped Wrapped BNB) Price: $0.00 TVL: $0.00
+Staked: 15.8483 beltBNB ($0.00)
+SWAMP Per Week: 132.26 ($13.45)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 beltBNB ($0.00), NaN% of the pool.
+Stake 0.00 beltBNB
+Unstake 0.00 beltBNB
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+4Belt Price: $0.00 Market Cap: $0.00 
+Staked: 1253.2981 4Belt ($0.00)
+SWAMP Per Week: 132.26 ($13.45)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 4Belt ($0.00), NaN% of the pool.
+Stake 0.00 4Belt
+Unstake 0.00 4Belt
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+beltETH (Wrapped Ethereum Token) Price: $0.00 TVL: $0.00
+Staked: 1.3719 beltETH ($0.00)
+SWAMP Per Week: 132.26 ($13.45)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 beltETH ($0.00), NaN% of the pool.
+Stake 0.00 beltETH
+Unstake 0.00 beltETH
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+Cake Price: $7.18 Market Cap: $4,415,333,435.44 [%]
+Staked: 3102.1106 Cake ($22,273.15)
+SWAMP Per Week: 529.05 ($53.81)
+APR: Day 0.03% Week 0.24% Year 12.56%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake
+Unstake 0.00 Cake
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[AQUA]-[WBNB] Uni LP [+] [-] [<=>] Price: $377.49 TVL: $1,460,614.60
+AQUA Price: $90.37
+WBNB Price: $370.82
+Staked: 6.6776 Net-LP ($2,520.70)
+SWAMP Per Week: 26.45 ($2.69)
+APR: Day 0.02% Week 0.11% Year 5.55%
+You are staking 0.00 [AQUA]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AQUA]-[WBNB] Uni LP
+Unstake 0.00 [AQUA]-[WBNB] Uni LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[ETH]-[BTCB] Uni LP [+] [-] [<=>] Price: $19,060.52 TVL: $292,448.12
+ETH Price: $2,456.12
+BTCB Price: $36,472.00
+Staked: 1.2241 Net-LP ($23,332.57)
+SWAMP Per Week: 26.45 ($2.69)
+APR: Day 0.00% Week 0.01% Year 0.60%
+You are staking 0.00 [ETH]-[BTCB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[BTCB] Uni LP
+Unstake 0.00 [ETH]-[BTCB] Uni LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[USDC]-[BUSD] Uni LP [+] [-] [<=>] Price: $2.01 TVL: $312,166.80
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 7707.6244 Net-LP ($15,514.90)
+SWAMP Per Week: 132.26 ($13.45)
+APR: Day 0.01% Week 0.09% Year 4.51%
+You are staking 0.00 [USDC]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Uni LP
+Unstake 0.00 [USDC]-[BUSD] Uni LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[UST]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.15 TVL: $16,342,722.24
+UST Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+SWAMP Per Week: 132.26 ($13.45)
+APR: Day 90292088985107840.00% Week 632044622895754880.00% Year 32866320390579253248.00%
+You are staking 0.00 [UST]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UST]-[BUSD] Cake LP
+Unstake 0.00 [UST]-[BUSD] Cake LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[TUSD]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.01 TVL: $62,356,260.12
+TUSD Price: $1.00
+BUSD Price: $1.00
+Staked: 144.4256 Cake-LP ($289.89)
+SWAMP Per Week: 132.26 ($13.45)
+APR: Day 0.66% Week 4.64% Year 241.30%
+You are staking 0.00 [TUSD]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TUSD]-[BUSD] Cake LP
+Unstake 0.00 [TUSD]-[BUSD] Cake LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[UST]-[USDC] Uni LP [+] [-] [<=>] Price: $2.02 TVL: $188,951.75
+UST Price: $1.00
+USDC Price: $1.00
+Staked: 0.5096 Net-LP ($1.03)
+SWAMP Per Week: 132.26 ($13.45)
+APR: Day 187.07% Week 1309.46% Year 68092.07%
+You are staking 0.00 [UST]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UST]-[USDC] Uni LP
+Unstake 0.00 [UST]-[USDC] Uni LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $107.17 TVL: $204,119,787.19
+Cake Price: $7.18
+WBNB Price: $370.82
+Staked: 7.0087 Cake-LP ($751.15)
+SWAMP Per Week: 26.45 ($2.69)
+APR: Day 0.05% Week 0.36% Year 18.63%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+Cake Price: $7.18 Market Cap: $4,415,333,435.44 [%]
+Staked: 142102.6635 Cake ($1,020,297.12)
+SWAMP Per Week: 529.05 ($53.81)
+APR: Day 0.00% Week 0.01% Year 0.27%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake
+Unstake 0.00 Cake
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+Cake Price: $7.18 Market Cap: $4,415,333,435.44 [%]
+Staked: 51557.4090 Cake ($370,182.20)
+SWAMP Per Week: 529.05 ($53.81)
+APR: Day 0.00% Week 0.01% Year 0.76%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake
+Unstake 0.00 Cake
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+USDC Price: $1.00 Market Cap: $1,779,000,000.00 [%]
+Staked: 88796.0916 USDC ($88,796.09)
+SWAMP Per Week: 529.05 ($53.81)
+APR: Day 0.01% Week 0.06% Year 3.15%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC
+Unstake 0.00 USDC
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+USDT Price: $1.00 Market Cap: $3,871,547,286.70 [%]
+Staked: 360158.4061 USDT ($359,373.98)
+SWAMP Per Week: 529.05 ($53.81)
+APR: Day 0.00% Week 0.01% Year 0.78%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT
+Unstake 0.00 USDT
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+DAI Price: $1.00 Market Cap: $262,000,000.00 [%]
+Staked: 60951.1617 DAI ($60,951.16)
+SWAMP Per Week: 529.05 ($53.81)
+APR: Day 0.01% Week 0.09% Year 4.59%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI
+Unstake 0.00 DAI
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+BTCB Price: $36,472.00 Market Cap: $4,103,136,472.00 [%]
+Staked: 3.8939 BTCB ($142,016.77)
+SWAMP Per Week: 529.05 ($53.81)
+APR: Day 0.01% Week 0.04% Year 1.97%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB
+Unstake 0.00 BTCB
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+ETH Price: $2,456.12 Market Cap: $3,450,848,600.00 [%]
+Staked: 176.6185 ETH ($433,796.30)
+SWAMP Per Week: 529.05 ($53.81)
+APR: Day 0.00% Week 0.01% Year 0.65%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH
+Unstake 0.00 ETH
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[AQUA]-[GAMMA] Uni LP [+] [-] [<=>] Price: $9.48 TVL: $125,165.87
+AQUA Price: $90.37
+GAMMA Price: $0.24
+Staked: 3.1339 Net-LP ($29.70)
+SWAMP Per Week: 26.45 ($2.69)
+APR: Day 1.29% Week 9.06% Year 471.10%
+You are staking 0.00 [AQUA]-[GAMMA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AQUA]-[GAMMA] Uni LP
+Unstake 0.00 [AQUA]-[GAMMA] Uni LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[WBNB]-[BUSD] Uni LP [+] [-] [<=>] Price: $39.17 TVL: $409,638.07
+WBNB Price: $370.82
+BUSD Price: $1.00
+Staked: 156.9554 Net-LP ($6,147.81)
+SWAMP Per Week: 132.26 ($13.45)
+APR: Day 0.03% Week 0.22% Year 11.38%
+You are staking 0.00 [WBNB]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Uni LP
+Unstake 0.00 [WBNB]-[BUSD] Uni LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[USDC]-[BUSD] Uni LP [+] [-] [<=>] Price: $2.01 TVL: $312,166.80
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 7391.2402 Net-LP ($14,878.04)
+SWAMP Per Week: 529.05 ($53.81)
+APR: Day 0.05% Week 0.36% Year 18.81%
+You are staking 0.00 [USDC]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Uni LP
+Unstake 0.00 [USDC]-[BUSD] Uni LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[USDT]-[BUSD] Uni LP [+] [-] [<=>] Price: $2.00 TVL: $778,094.97
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 4808.6055 Net-LP ($9,624.94)
+SWAMP Per Week: 529.05 ($53.81)
+APR: Day 0.08% Week 0.56% Year 29.07%
+You are staking 0.00 [USDT]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Uni LP
+Unstake 0.00 [USDT]-[BUSD] Uni LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+[USDT]-[USDC] Uni LP [+] [-] [<=>] Price: $2.00 TVL: $198,874.59
+USDT Price: $1.00
+USDC Price: $1.00
+Staked: 10230.6427 Net-LP ($20,475.96)
+SWAMP Per Week: 529.05 ($53.81)
+APR: Day 0.04% Week 0.26% Year 13.67%
+You are staking 0.00 [USDT]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[USDC] Uni LP
+Unstake 0.00 [USDT]-[USDC] Uni LP
+Claim 0.00 SWAMP ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $5,723,248.09

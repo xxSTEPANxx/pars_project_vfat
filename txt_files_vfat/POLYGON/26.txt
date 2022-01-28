@@ -6,47 +6,17 @@ INFO  : https://www.mai.finance
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Fri Dec 17 2021 09:18:40 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 22:03:17 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
-Found 5 pools.
-Showing incentivized pools only.
-Finished reading smart contracts.
-1 - [USDC]-[miMATIC] Uni LP [+] [-] [<=>] Price: $2,108,176.93 TVL: $28,398,165.69
-USDC Price: $1.00
-miMATIC Price: $0.98
-Staked: 13.2450 UNI-V2 ($27,922,890.55)
-Qi Per Week: 151200.00 ($95,683.00)
-APR: Day 0.05% Week 0.34% Year 17.82%
-You are staking 0.00 [USDC]-[miMATIC] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[miMATIC] Uni LP - Fee 0.5%
-Unstake 0.00 [USDC]-[miMATIC] Uni LP
-Claim 0.00 Qi ($0.00)
-Staking or unstaking also claims rewards.
-
-3 - QIMP Price: $0.00 Market Cap: $0.00 
-Staked: 1.0000 QIMP ($0.00)
-Qi Per Week: 453600.00 ($287,048.99)
-APR: Day NaN% Week NaN% Year NaN%
-You are staking 0.00 QIMP ($0.00), NaN% of the pool.
-Stake 0.00 QIMP
-Unstake 0.00 QIMP
-Claim 0.00 Qi ($0.00)
-Staking or unstaking also claims rewards.
-
-4 - [WMATIC]-[QI] Uni LP [+] [-] [<=>] Price: $7.23 TVL: $7,524,701.58
-WMATIC Price: $2.10
-QI Price: $0.63
-Staked: 1036425.0363 UNI-V2 ($7,494,047.43)
-Qi Per Week: 302400.00 ($191,365.99)
-APR: Day 0.36% Week 2.55% Year 132.79%
-You are staking 0.00 [WMATIC]-[QI] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[QI] Uni LP - Fee 0.5%
-Unstake 0.00 [WMATIC]-[QI] Uni LP
-Claim 0.00 Qi ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $35,416,937.98
+{
+  "code": -32603,
+  "message": "Non-200 status code: '400'",
+  "data": {
+    "error": "Unable to verify your data submission."
+  }
+}
+Oops something went wrong. Try refreshing the page.

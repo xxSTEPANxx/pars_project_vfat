@@ -1,0 +1,205 @@
+*************** 👨‍🌾 UNOFFICIAL YIELDBAY.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://yieldbay.finance
+*************************************************************************************
+
+Thu Jan 27 2022 20:31:09 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 16 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - PALM Price: $0.000574 Market Cap: $5,433.91 [%]
+Staked: 2077422.8203 PALM ($1,192.68)
+CAKE Per Week: 50398.03 ($28.93)
+APR: Day 0.35% Week 2.43% Year 126.15%
+You are staking 0.00 PALM ($0.00), 0.00% of the pool.
+Stake 0.00 PALM
+Unstake 0.00 PALM
+Claim 0.00 CAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [PALM]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.06 TVL: $1,062.73
+PALM Price: $0.000574
+BUSD Price: $1.00
+Staked: 13528.8963 Cake-LP ($765.19)
+CAKE Per Week: 3158.27 ($1.81)
+APR: Day 0.03% Week 0.24% Year 12.32%
+You are staking 0.00 [PALM]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PALM]-[BUSD] Cake LP
+Unstake 0.00 [PALM]-[BUSD] Cake LP
+Claim 0.00 CAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [PALM]-[WBNB] Cake LP [+] [-] [<=>] Price: $1.07 TVL: $634.45
+PALM Price: $0.000574
+WBNB Price: $370.91
+Staked: 236.8708 Cake-LP ($254.23)
+CAKE Per Week: 2368.70 ($1.36)
+APR: Day 0.08% Week 0.53% Year 27.82%
+You are staking 0.00 [PALM]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PALM]-[WBNB] Cake LP
+Unstake 0.00 [PALM]-[WBNB] Cake LP
+Claim 0.00 CAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [DAI]-[PALM] Cake LP [+] [-] [<=>] Price: $0.05 TVL: $284.56
+DAI Price: $1.00
+PALM Price: $0.000574
+Staked: 4133.2745 Cake-LP ($211.08)
+CAKE Per Week: 3158.27 ($1.81)
+APR: Day 0.12% Week 0.86% Year 44.67%
+You are staking 0.00 [DAI]-[PALM] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[PALM] Cake LP
+Unstake 0.00 [DAI]-[PALM] Cake LP
+Claim 0.00 CAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [BTCB]-[PALM] Cake LP [+] [-] [<=>] Price: $9.54 TVL: $123.22
+BTCB Price: $36,472.00
+PALM Price: $0.000574
+Staked: 7.1685 Cake-LP ($68.41)
+CAKE Per Week: 1973.92 ($1.13)
+APR: Day 0.24% Week 1.66% Year 86.14%
+You are staking 0.00 [BTCB]-[PALM] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[PALM] Cake LP
+Unstake 0.00 [BTCB]-[PALM] Cake LP
+Claim 0.00 CAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [ETH]-[PALM] Cake LP [+] [-] [<=>] Price: $2.49 TVL: $426.26
+ETH Price: $2,462.47
+PALM Price: $0.000574
+Staked: 143.0778 Cake-LP ($356.57)
+CAKE Per Week: 1579.13 ($0.91)
+APR: Day 0.04% Week 0.25% Year 13.22%
+You are staking 0.00 [ETH]-[PALM] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[PALM] Cake LP
+Unstake 0.00 [ETH]-[PALM] Cake LP
+Claim 0.00 CAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [LTC]-[PALM] Cake LP [+] [-] [<=>] Price: $0.51 TVL: $49.71
+LTC Price: $106.91
+PALM Price: $0.000574
+Staked: 89.0361 Cake-LP ($45.75)
+CAKE Per Week: 789.57 ($0.45)
+APR: Day 0.14% Week 0.99% Year 51.52%
+You are staking 0.00 [LTC]-[PALM] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LTC]-[PALM] Cake LP
+Unstake 0.00 [LTC]-[PALM] Cake LP
+Claim 0.00 CAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [PALM]-[BUSD] Uni LP [+] [-] [<=>] Price: $0.05 TVL: $1,199.64
+PALM Price: $0.000574
+BUSD Price: $1.00
+Staked: 24338.0949 Palm-LP ($1,171.74)
+CAKE Per Week: 31582.66 ($18.13)
+APR: Day 0.22% Week 1.55% Year 80.47%
+You are staking 0.00 [PALM]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PALM]-[BUSD] Uni LP
+Unstake 0.00 [PALM]-[BUSD] Uni LP
+Claim 0.00 CAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [PALM]-[WBNB] Uni LP [+] [-] [<=>] Price: $0.93 TVL: $575.70
+PALM Price: $0.000574
+WBNB Price: $370.91
+Staked: 594.1370 Palm-LP ($550.86)
+CAKE Per Week: 23686.99 ($13.60)
+APR: Day 0.35% Week 2.47% Year 128.37%
+You are staking 0.00 [PALM]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PALM]-[WBNB] Uni LP
+Unstake 0.00 [PALM]-[WBNB] Uni LP
+Claim 0.00 CAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [DAI]-[PALM] Uni LP [+] [-] [<=>] Price: $0.05 TVL: $639.39
+DAI Price: $1.00
+PALM Price: $0.000574
+Staked: 12812.8043 Palm-LP ($614.86)
+CAKE Per Week: 31582.66 ($18.13)
+APR: Day 0.42% Week 2.95% Year 153.35%
+You are staking 0.00 [DAI]-[PALM] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[PALM] Uni LP
+Unstake 0.00 [DAI]-[PALM] Uni LP
+Claim 0.00 CAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [BTCB]-[PALM] Uni LP [+] [-] [<=>] Price: $9.16 TVL: $164.72
+BTCB Price: $36,472.00
+PALM Price: $0.000574
+Staked: 17.3877 Palm-LP ($159.33)
+CAKE Per Week: 19739.16 ($11.33)
+APR: Day 1.02% Week 7.11% Year 369.86%
+You are staking 0.00 [BTCB]-[PALM] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[PALM] Uni LP
+Unstake 0.00 [BTCB]-[PALM] Uni LP
+Claim 0.00 CAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [ETH]-[PALM] Uni LP [+] [-] [<=>] Price: $2.38 TVL: $155.87
+ETH Price: $2,462.47
+PALM Price: $0.000574
+Staked: 64.0643 Palm-LP ($152.53)
+CAKE Per Week: 15791.33 ($9.07)
+APR: Day 0.85% Week 5.94% Year 309.07%
+You are staking 0.00 [ETH]-[PALM] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[PALM] Uni LP
+Unstake 0.00 [ETH]-[PALM] Uni LP
+Claim 0.00 CAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [LTC]-[PALM] Uni LP [+] [-] [<=>] Price: $0.50 TVL: $227.94
+LTC Price: $106.91
+PALM Price: $0.000574
+Staked: 454.4320 Palm-LP ($225.85)
+CAKE Per Week: 7895.66 ($4.53)
+APR: Day 0.29% Week 2.01% Year 104.37%
+You are staking 0.00 [LTC]-[PALM] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LTC]-[PALM] Uni LP
+Unstake 0.00 [LTC]-[PALM] Uni LP
+Claim 0.00 CAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [WBNB]-[BUSD] Uni LP [+] [-] [<=>] Price: $39.00 TVL: $704.31
+WBNB Price: $370.91
+BUSD Price: $1.00
+Staked: 17.4219 Palm-LP ($679.40)
+CAKE Per Week: 3158.27 ($1.81)
+APR: Day 0.04% Week 0.27% Year 13.88%
+You are staking 0.00 [WBNB]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Uni LP
+Unstake 0.00 [WBNB]-[BUSD] Uni LP
+Claim 0.00 CAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [BTCB]-[WBNB] Uni LP [+] [-] [<=>] Price: $7,364.82 TVL: $317.36
+BTCB Price: $36,472.00
+WBNB Price: $370.91
+Staked: 0.0417 Palm-LP ($307.15)
+CAKE Per Week: 2368.70 ($1.36)
+APR: Day 0.06% Week 0.44% Year 23.02%
+You are staking 0.00 [BTCB]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Uni LP
+Unstake 0.00 [BTCB]-[WBNB] Uni LP
+Claim 0.00 CAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [ETH]-[WBNB] Uni LP [+] [-] [<=>] Price: $1,913.11 TVL: $437.59
+ETH Price: $2,462.47
+WBNB Price: $370.91
+Staked: 0.2249 Palm-LP ($430.26)
+CAKE Per Week: 2368.70 ($1.36)
+APR: Day 0.05% Week 0.32% Year 16.44%
+You are staking 0.00 [ETH]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Uni LP
+Unstake 0.00 [ETH]-[WBNB] Uni LP
+Claim 0.00 CAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $7,185.90

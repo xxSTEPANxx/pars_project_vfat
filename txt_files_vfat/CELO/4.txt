@@ -1,0 +1,128 @@
+***************************** CELO ***********************************
+
+*************** 👨‍🌾 UNOFFICIAL SUSHI FARMING CALCULATOR 👨‍🌾 ***********
+INFO  : https://app.sushi.com
+**********************************************************************
+
+Fri Jan 28 2022 01:11:10 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 9 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+[WETH]-[cUSD] SLP [+] [-] [<=>] Price: $99.17 TVL: $5,351,158.48
+WETH Price: $2,375.26
+cUSD Price: $1.00
+Staked: 53827.0482 SLP ($5,338,067.60)
+SUSHI Per Week: 846.72 ($3,302.21)
+WCELO Per Week: 10886.40 ($32,332.61)
+APR SUSHI: Day 0.01% Week 0.06% Year 3.22%
+APR WCELO: Day 0.09% Week 0.61% Year 31.50%
+Total Per Week: $35,634.82
+Total APR: Day 0.0954% Week 0.67% Year 34.71%
+You are staking 0.00 [WETH]-[cUSD] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[cUSD] SLP
+Unstake 0.00 [WETH]-[cUSD] SLP
+Claim 0.00 SUSHI ($0.00) + 0.00 WCELO ($0.00)
+Staking or unstaking also claims rewards.
+
+[WETH]-[CELO] SLP [+] [-] [<=>] Price: $170.17 TVL: $8,309,640.77
+WETH Price: $2,375.26
+CELO Price: $2.97
+Staked: 48660.8718 SLP ($8,280,561.82)
+SUSHI Per Week: 1693.44 ($6,604.42)
+WCELO Per Week: 21772.80 ($64,665.22)
+APR SUSHI: Day 0.01% Week 0.08% Year 4.15%
+APR WCELO: Day 0.11% Week 0.78% Year 40.61%
+Total Per Week: $71,269.63
+Total APR: Day 0.1230% Week 0.86% Year 44.76%
+You are staking 0.00 [WETH]-[CELO] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[CELO] SLP
+Unstake 0.00 [WETH]-[CELO] SLP
+Claim 0.00 SUSHI ($0.00) + 0.00 WCELO ($0.00)
+Staking or unstaking also claims rewards.
+
+[cUSD]-[cEUR] SLP [+] [-] [<=>] Price: $2.13 TVL: $7,162,845.80
+cUSD Price: $1.00
+cEUR Price: $1.11
+Staked: 3129581.7492 SLP ($6,668,896.47)
+SUSHI Per Week: 423.36 ($1,651.10)
+WCELO Per Week: 5443.20 ($16,166.30)
+APR SUSHI: Day 0.00% Week 0.02% Year 1.29%
+APR WCELO: Day 0.03% Week 0.24% Year 12.61%
+Total Per Week: $17,817.41
+Total APR: Day 0.0382% Week 0.27% Year 13.89%
+You are staking 0.00 [cUSD]-[cEUR] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [cUSD]-[cEUR] SLP
+Unstake 0.00 [cUSD]-[cEUR] SLP
+Claim 0.00 SUSHI ($0.00) + 0.00 WCELO ($0.00)
+Staking or unstaking also claims rewards.
+
+[WETH]-[DAI] SLP [+] [-] [<=>] Price: $98.59 TVL: $2,828,654.01
+WETH Price: $2,375.26
+DAI Price: $1.01
+Staked: 28672.9602 SLP ($2,826,770.58)
+SUSHI Per Week: 338.69 ($1,320.88)
+WCELO Per Week: 4354.56 ($12,933.04)
+APR SUSHI: Day 0.01% Week 0.05% Year 2.43%
+APR WCELO: Day 0.07% Week 0.46% Year 23.79%
+Total Per Week: $14,253.93
+Total APR: Day 0.0720% Week 0.50% Year 26.22%
+You are staking 0.00 [WETH]-[DAI] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[DAI] SLP
+Unstake 0.00 [WETH]-[DAI] SLP
+Claim 0.00 SUSHI ($0.00) + 0.00 WCELO ($0.00)
+Staking or unstaking also claims rewards.
+
+[cUSD]-[USDC] SLP [+] [-] [<=>] Price: $2,012,711.39 TVL: $4,278,242.31
+cUSD Price: $1.00
+USDC Price: $1.01
+Staked: 2.1199 SLP ($4,266,809.09)
+SUSHI Per Week: 338.69 ($1,320.88)
+WCELO Per Week: 4354.56 ($12,933.04)
+APR SUSHI: Day 0.00% Week 0.03% Year 1.61%
+APR WCELO: Day 0.04% Week 0.30% Year 15.76%
+Total Per Week: $14,253.93
+Total APR: Day 0.0477% Week 0.33% Year 17.37%
+You are staking 0.00 [cUSD]-[USDC] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [cUSD]-[USDC] SLP
+Unstake 0.00 [cUSD]-[USDC] SLP
+Claim 0.00 SUSHI ($0.00) + 0.00 WCELO ($0.00)
+Staking or unstaking also claims rewards.
+
+[WETH]-[USDT] SLP [+] [-] [<=>] Price: $98,804,109.99 TVL: $3,114,424.23
+WETH Price: $2,375.26
+USDT Price: $1.01
+Staked: 0.0314 SLP ($3,103,429.93)
+SUSHI Per Week: 338.69 ($1,320.88)
+WCELO Per Week: 4354.56 ($12,933.04)
+APR SUSHI: Day 0.01% Week 0.04% Year 2.21%
+APR WCELO: Day 0.06% Week 0.42% Year 21.67%
+Total Per Week: $14,253.93
+Total APR: Day 0.0656% Week 0.46% Year 23.88%
+You are staking 0.00 [WETH]-[USDT] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[USDT] SLP
+Unstake 0.00 [WETH]-[USDT] SLP
+Claim 0.00 SUSHI ($0.00) + 0.00 WCELO ($0.00)
+Staking or unstaking also claims rewards.
+
+[CELO]-[MOBI] SLP [+] [-] [<=>] Price: $0.50 TVL: $405,859.01
+CELO Price: $2.97
+MOBI Price: $0.02
+Staked: 807364.6161 SLP ($405,406.67)
+SUSHI Per Week: 254.02 ($990.66)
+WCELO Per Week: 3265.92 ($9,699.78)
+APR SUSHI: Day 0.03% Week 0.24% Year 12.71%
+APR WCELO: Day 0.34% Week 2.39% Year 124.42%
+Total Per Week: $10,690.44
+Total APR: Day 0.3767% Week 2.64% Year 137.12%
+You are staking 0.00 [CELO]-[MOBI] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [CELO]-[MOBI] SLP
+Unstake 0.00 [CELO]-[MOBI] SLP
+Claim 0.00 SUSHI ($0.00) + 0.00 WCELO ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $30,889,942.16

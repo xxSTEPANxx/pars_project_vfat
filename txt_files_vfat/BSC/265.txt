@@ -1,0 +1,237 @@
+*************** 👨‍🌾 UNOFFICIAL MATISSE.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://app.matisse.finance
+************************************************************************************
+
+Thu Jan 27 2022 21:03:35 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 20 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [Nu]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.02 TVL: $23.72
+Nu Price: $0.0000666280
+BUSD Price: $1.00
+Staked: 361.6280 Cake-LP ($6.67)
+NU Per Week: 59276.70 ($3.95)
+APR: Day 8.45% Week 59.18% Year 3077.27%
+You are staking 0.00 [Nu]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Nu]-[BUSD] Cake LP
+Unstake 0.00 [Nu]-[BUSD] Cake LP
+Claim 0.00 NU ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [Nu]-[WBNB] Cake LP [+] [-] [<=>] Price: $0.36 TVL: $23.22
+Nu Price: $0.0000666280
+WBNB Price: $369.34
+Staked: 51.2426 Cake-LP ($18.67)
+NU Per Week: 59276.70 ($3.95)
+APR: Day 3.02% Week 21.16% Year 1100.10%
+You are staking 0.00 [Nu]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Nu]-[WBNB] Cake LP
+Unstake 0.00 [Nu]-[WBNB] Cake LP
+Claim 0.00 NU ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $65.94 TVL: $2,134,046.98
+WBNB Price: $369.34
+BUSD Price: $1.00
+Staked: 1.4599 Cake-LP ($96.27)
+NU Per Week: 4939.72 ($0.33)
+APR: Day 0.05% Week 0.34% Year 17.78%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 NU ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.17 TVL: $3,560,949.61
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0090 Cake-LP ($0.02)
+NU Per Week: 3951.78 ($0.26)
+APR: Day 192.00% Week 1344.03% Year 69889.81%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 NU ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $8,215.40 TVL: $298,554.05
+BTCB Price: $36,305.00
+WBNB Price: $369.34
+Staked: 0.0158 Cake-LP ($129.97)
+NU Per Week: 5927.67 ($0.39)
+APR: Day 0.04% Week 0.30% Year 15.80%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 NU ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,201.25 TVL: $480,321.95
+ETH Price: $2,458.64
+WBNB Price: $369.34
+Staked: 0.0619 Cake-LP ($136.21)
+NU Per Week: 5927.67 ($0.39)
+APR: Day 0.04% Week 0.29% Year 15.08%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 NU ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [DAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.05 TVL: $1,365,359.62
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 8.6978 Cake-LP ($17.87)
+NU Per Week: 3951.78 ($0.26)
+APR: Day 0.21% Week 1.47% Year 76.63%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 NU ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.28 TVL: $253,670.69
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0086 Cake-LP ($0.02)
+NU Per Week: 3951.78 ($0.26)
+APR: Day 190.91% Week 1336.38% Year 69491.92%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 NU ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [DOT]-[WBNB] Cake LP [+] [-] [<=>] Price: $180.09 TVL: $322,709.44
+DOT Price: $18.08
+WBNB Price: $369.34
+Staked: 0.0013 Cake-LP ($0.24)
+NU Per Week: 5927.67 ($0.39)
+APR: Day 23.47% Week 164.31% Year 8544.34%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 NU ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [Cake]-[BUSD] Cake LP [+] [-] [<=>] Price: $8.59 TVL: $67,910.76
+Cake Price: $7.01
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+NU Per Week: 1975.89 ($0.13)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP - Fee 2.5%
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 NU ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $122.48 TVL: $3,307,315.33
+Cake Price: $7.01
+WBNB Price: $369.34
+Staked: 0.0000 Cake-LP ($0.00)
+NU Per Week: 1975.89 ($0.13)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 2.5%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 NU ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - Nu Price: $0.0000666280 Market Cap: $46.27 [%]
+Staked: 103270.1614 Nu ($6.88)
+NU Per Week: 14819.17 ($0.99)
+APR: Day 2.05% Week 14.35% Year 746.20%
+You are staking 0.00 Nu ($0.00), 0.00% of the pool.
+Stake 0.00 Nu
+Unstake 0.00 Nu
+Claim 0.00 NU ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - BUSD Price: $1.00 Market Cap: $4,850,999,388.63 [%]
+Staked: 4870.0800 BUSD ($4,870.08)
+NU Per Week: 1975.89 ($0.13)
+APR: Day 0.00% Week 0.00% Year 0.14%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 NU ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - WBNB Price: $369.34 Market Cap: $1,928,130,630.95 [%]
+Staked: 1.0111 WBNB ($373.45)
+NU Per Week: 2963.83 ($0.20)
+APR: Day 0.01% Week 0.05% Year 2.75%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 NU ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - USDT Price: $1.00 Market Cap: $3,879,997,922.18 [%]
+Staked: 29.8320 USDT ($29.83)
+NU Per Week: 2963.83 ($0.20)
+APR: Day 0.09% Week 0.66% Year 34.42%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 NU ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - BTCB Price: $36,305.00 Market Cap: $4,084,348,805.00 [%]
+Staked: 0.1402 BTCB ($5,091.71)
+NU Per Week: 1975.89 ($0.13)
+APR: Day 0.00% Week 0.00% Year 0.13%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 NU ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - ETH Price: $2,458.64 Market Cap: $3,454,389,200.00 [%]
+Staked: 0.0405 ETH ($99.68)
+NU Per Week: 1975.89 ($0.13)
+APR: Day 0.02% Week 0.13% Year 6.87%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 NU ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - DAI Price: $1.00 Market Cap: $261,980,612.00 [%]
+Staked: 7.4494 DAI ($7.45)
+NU Per Week: 1975.89 ($0.13)
+APR: Day 0.25% Week 1.77% Year 91.90%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 NU ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - USDC Price: $1.00 Market Cap: $1,779,000,000.00 [%]
+Staked: 617.1357 USDC ($617.14)
+NU Per Week: 1975.89 ($0.13)
+APR: Day 0.00% Week 0.02% Year 1.11%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 NU ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - Cake Price: $7.01 Market Cap: $4,310,862,929.82 [%]
+Staked: 1.0003 Cake ($7.01)
+NU Per Week: 1975.89 ($0.13)
+APR: Day 0.27% Week 1.88% Year 97.63%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 NU ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $11,509.17

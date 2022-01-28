@@ -1,0 +1,582 @@
+***************************** AVALANCHE *************************************
+    
+*************** 👨‍🌾 UNOFFICIAL TRADERJOEXYZ FARMING CALCULATOR 👨‍🌾 ***********
+INFO  : https://www.traderjoexyz.com
+*****************************************************************************
+
+Fri Jan 28 2022 00:12:26 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 46 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [JOE]-[WAVAX] JLP [+] [-] [<=>] Price: $17.89 TVL: $31,647,384.91
+JOE Price: $0.91
+WAVAX Price: $61.83
+Staked: 1661062.0182 JLP ($29,714,962.04)
+JOE Per Week: 273680.45 ($249,892.14)
+APR: Day 0.12% Week 0.84% Year 43.73%
+You are staking 0.00 [JOE]-[WAVAX] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [JOE]-[WAVAX] JLP
+Unstake 0.00 [JOE]-[WAVAX] JLP
+Claim 0.00 JOE ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [YAK]-[WAVAX] JLP [+] [-] [<=>] Price: $624.64 TVL: $1,040,528.32
+YAK Price: $1,381.47
+WAVAX Price: $61.83
+Staked: 1566.6233 JLP ($978,581.20)
+JOE Per Week: 6081.79 ($5,553.16)
+APR: Day 0.08% Week 0.57% Year 29.51%
+You are staking 0.00 [YAK]-[WAVAX] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [YAK]-[WAVAX] JLP
+Unstake 0.00 [YAK]-[WAVAX] JLP
+Claim 0.00 JOE ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WAVAX]-[XAVA] JLP [+] [-] [<=>] Price: $44.36 TVL: $2,763,552.99
+WAVAX Price: $61.83
+XAVA Price: $6.05
+Staked: 61351.5512 JLP ($2,721,853.05)
+JOE Per Week: 24327.15 ($22,212.63)
+APR: Day 0.12% Week 0.82% Year 42.44%
+You are staking 0.00 [WAVAX]-[XAVA] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WAVAX]-[XAVA] JLP
+Unstake 0.00 [WAVAX]-[XAVA] JLP
+Claim 0.00 JOE ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WAVAX]-[SPELL] JLP [+] [-] [<=>] Price: $1.35 TVL: $3,103,442.69
+WAVAX Price: $61.83
+SPELL Price: $0.005260
+Staked: 2267393.8484 JLP ($3,060,158.79)
+JOE Per Week: 24327.15 ($22,212.63)
+APR: Day 0.10% Week 0.73% Year 37.75%
+You are staking 0.00 [WAVAX]-[SPELL] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WAVAX]-[SPELL] JLP
+Unstake 0.00 [WAVAX]-[SPELL] JLP
+Claim 0.00 JOE ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [WAVAX]-[SNOB] JLP [+] [-] [<=>] Price: $7.75 TVL: $609,422.88
+WAVAX Price: $61.83
+SNOB Price: $0.22
+Staked: 75654.9260 JLP ($586,444.15)
+JOE Per Week: 6081.79 ($5,553.16)
+APR: Day 0.14% Week 0.95% Year 49.24%
+You are staking 0.00 [WAVAX]-[SNOB] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WAVAX]-[SNOB] JLP
+Unstake 0.00 [WAVAX]-[SNOB] JLP
+Claim 0.00 JOE ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [WAVAX]-[PEFI] JLP [+] [-] [<=>] Price: $10.01 TVL: $1,585,460.73
+WAVAX Price: $61.83
+PEFI Price: $0.32
+Staked: 147272.1094 JLP ($1,473,817.14)
+JOE Per Week: 6081.79 ($5,553.16)
+APR: Day 0.05% Week 0.38% Year 19.59%
+You are staking 0.00 [WAVAX]-[PEFI] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WAVAX]-[PEFI] JLP
+Unstake 0.00 [WAVAX]-[PEFI] JLP
+Claim 0.00 JOE ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [CRA]-[WAVAX] JLP [+] [-] [<=>] Price: $19.55 TVL: $3,095,230.72
+CRA Price: $0.76
+WAVAX Price: $61.83
+Staked: 90323.2887 JLP ($1,766,131.53)
+JOE Per Week: 18245.36 ($16,659.48)
+APR: Day 0.13% Week 0.94% Year 49.05%
+You are staking 0.00 [CRA]-[WAVAX] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [CRA]-[WAVAX] JLP
+Unstake 0.00 [CRA]-[WAVAX] JLP
+Claim 0.00 JOE ($0.00)
+Staking or unstaking also claims rewards.
+
+[GRO]-[WAVAX] JLP [+] [-] [<=>] Price: $69.93 TVL: $406,984.67
+GRO Price: $18.33
+WAVAX Price: $61.83
+Staked: 5464.6862 JLP ($382,147.31)
+JOE Per Week: 3040.89 ($2,776.58)
+WAVAX Per Week: 233.33 ($14,427.00)
+APR JOE: Day 0.10% Week 0.73% Year 37.78%
+APR WAVAX: Day 0.54% Week 3.78% Year 196.31%
+Total Per Week: $17,203.58
+Total APR: Day 0.64% Week 4.50% Year 234.09%
+You are staking 0.00 [GRO]-[WAVAX] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [GRO]-[WAVAX] JLP
+Unstake 0.00 [GRO]-[WAVAX] JLP
+Claim 0.00 JOE ($0.00) + NaN WAVAX ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [MELT]-[WAVAX] JLP [+] [-] [<=>] Price: $17.43 TVL: $429,740.82
+MELT Price: $1.02
+WAVAX Price: $61.83
+Staked: 23504.1493 JLP ($409,691.32)
+JOE Per Week: 3040.89 ($2,776.58)
+APR: Day 0.10% Week 0.68% Year 35.24%
+You are staking 0.00 [MELT]-[WAVAX] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [MELT]-[WAVAX] JLP
+Unstake 0.00 [MELT]-[WAVAX] JLP
+Claim 0.00 JOE ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - [CRAFT]-[WAVAX] JLP [+] [-] [<=>] Price: $15.35 TVL: $912,474.93
+CRAFT Price: $0.67
+WAVAX Price: $61.83
+Staked: 23931.8448 JLP ($367,431.67)
+JOE Per Week: 12163.58 ($11,106.32)
+APR: Day 0.43% Week 3.02% Year 157.18%
+You are staking 0.00 [CRAFT]-[WAVAX] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [CRAFT]-[WAVAX] JLP
+Unstake 0.00 [CRAFT]-[WAVAX] JLP
+Claim 0.00 JOE ($0.00)
+Staking or unstaking also claims rewards.
+
+[gOHM]-[WAVAX] JLP [+] [-] [<=>] Price: $1,110.23 TVL: $4,510,570.30
+gOHM Price: $4,517.18
+WAVAX Price: $61.83
+Staked: 3929.4387 JLP ($4,362,576.86)
+JOE Per Week: 24327.15 ($22,212.63)
+gOHM Per Week: 2.80 ($12,648.10)
+APR JOE: Day 0.07% Week 0.51% Year 26.48%
+APR gOHM: Day 0.04% Week 0.29% Year 15.08%
+Total Per Week: $34,860.73
+Total APR: Day 0.11% Week 0.80% Year 41.55%
+You are staking 0.00 [gOHM]-[WAVAX] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [gOHM]-[WAVAX] JLP
+Unstake 0.00 [gOHM]-[WAVAX] JLP
+Claim 0.00 JOE ($0.00) + NaN gOHM ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - [KLO]-[WAVAX] JLP [+] [-] [<=>] Price: $9.21 TVL: $970,445.41
+KLO Price: $0.23
+WAVAX Price: $61.83
+Staked: 46944.0136 JLP ($432,547.39)
+JOE Per Week: 6081.79 ($5,553.16)
+APR: Day 0.18% Week 1.28% Year 66.76%
+You are staking 0.00 [KLO]-[WAVAX] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [KLO]-[WAVAX] JLP
+Unstake 0.00 [KLO]-[WAVAX] JLP
+Claim 0.00 JOE ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - [WAVAX]-[CLY] JLP [+] [-] [<=>] Price: $20.00 TVL: $870,892.76
+WAVAX Price: $61.83
+CLY Price: $0.83
+Staked: 15453.2167 JLP ($309,011.57)
+JOE Per Week: 6081.79 ($5,553.16)
+APR: Day 0.26% Week 1.80% Year 93.45%
+You are staking 0.00 [WAVAX]-[CLY] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WAVAX]-[CLY] JLP
+Unstake 0.00 [WAVAX]-[CLY] JLP
+Claim 0.00 JOE ($0.00)
+Staking or unstaking also claims rewards.
+
+[PTP]-[WAVAX] JLP [+] [-] [<=>] Price: $22.28 TVL: $7,746,723.47
+PTP Price: $1.81
+WAVAX Price: $61.83
+Staked: 268838.1256 JLP ($5,990,950.87)
+JOE Per Week: 6081.79 ($5,553.16)
+PTP Per Week: 140000.00 ($252,703.74)
+APR JOE: Day 0.01% Week 0.09% Year 4.82%
+APR PTP: Day 0.60% Week 4.22% Year 219.34%
+Total Per Week: $258,256.90
+Total APR: Day 0.62% Week 4.31% Year 224.16%
+You are staking 0.00 [PTP]-[WAVAX] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [PTP]-[WAVAX] JLP
+Unstake 0.00 [PTP]-[WAVAX] JLP
+Claim 0.00 JOE ($0.00) + NaN PTP ($0.00)
+Staking or unstaking also claims rewards.
+
+30 - [WAVAX]-[IME] JLP [+] [-] [<=>] Price: $3.15 TVL: $2,502,910.66
+WAVAX Price: $61.83
+IME Price: $0.04
+Staked: 412175.3074 JLP ($1,299,314.37)
+JOE Per Week: 6081.79 ($5,553.16)
+APR: Day 0.06% Week 0.43% Year 22.22%
+You are staking 0.00 [WAVAX]-[IME] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WAVAX]-[IME] JLP
+Unstake 0.00 [WAVAX]-[IME] JLP
+Claim 0.00 JOE ($0.00)
+Staking or unstaking also claims rewards.
+
+[EGG]-[WAVAX] JLP [+] [-] [<=>] Price: $24.62 TVL: $936,570.97
+EGG Price: $2.15
+WAVAX Price: $61.83
+Staked: 29259.2747 JLP ($720,251.99)
+JOE Per Week: 6081.79 ($5,553.16)
+FEED Per Week: 6000220.80 ($0.00)
+APR JOE: Day 0.11% Week 0.77% Year 40.09%
+APR FEED: Day NaN% Week NaN% Year NaN%
+Total Per Week: $0.00
+Total APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [EGG]-[WAVAX] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [EGG]-[WAVAX] JLP
+Unstake 0.00 [EGG]-[WAVAX] JLP
+Claim 0.00 JOE ($0.00) + NaN FEED ($0.00)
+Staking or unstaking also claims rewards.
+
+35 - [JGN]-[WAVAX] JLP [+] [-] [<=>] Price: $5.67 TVL: $181,899.89
+JGN Price: $0.13
+WAVAX Price: $61.83
+Staked: 31538.7908 JLP ($178,875.65)
+JOE Per Week: 6081.79 ($5,553.16)
+APR: Day 0.44% Week 3.10% Year 161.43%
+You are staking 0.00 [JGN]-[WAVAX] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [JGN]-[WAVAX] JLP
+Unstake 0.00 [JGN]-[WAVAX] JLP
+Claim 0.00 JOE ($0.00)
+Staking or unstaking also claims rewards.
+
+36 - [ISA]-[WAVAX] JLP [+] [-] [<=>] Price: $0.81 TVL: $794,166.00
+ISA Price: $0.002447
+WAVAX Price: $61.83
+Staked: 377117.0604 JLP ($306,527.53)
+JOE Per Week: 6081.79 ($5,553.16)
+APR: Day 0.26% Week 1.81% Year 94.20%
+You are staking 0.00 [ISA]-[WAVAX] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [ISA]-[WAVAX] JLP
+Unstake 0.00 [ISA]-[WAVAX] JLP
+Claim 0.00 JOE ($0.00)
+Staking or unstaking also claims rewards.
+
+[COOK]-[WAVAX] JLP [+] [-] [<=>] Price: $1.00 TVL: $643,047.87
+COOK Price: $0.003934
+WAVAX Price: $61.83
+Staked: 564795.7225 JLP ($564,809.48)
+JOE Per Week: 6081.79 ($5,553.16)
+COOK Per Week: 15272727.27 ($60,085.37)
+APR JOE: Day 0.14% Week 0.98% Year 51.13%
+APR COOK: Day 1.52% Week 10.64% Year 553.18%
+Total Per Week: $65,638.53
+Total APR: Day 1.66% Week 11.62% Year 604.31%
+You are staking 0.00 [COOK]-[WAVAX] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [COOK]-[WAVAX] JLP
+Unstake 0.00 [COOK]-[WAVAX] JLP
+Claim 0.00 JOE ($0.00) + NaN COOK ($0.00)
+Staking or unstaking also claims rewards.
+
+[DCAU]-[WAVAX] JLP [+] [-] [<=>] Price: $147.12 TVL: $1,147,726.40
+DCAU Price: $64.25
+WAVAX Price: $61.83
+Staked: 7140.2422 JLP ($1,050,447.70)
+JOE Per Week: 6081.79 ($5,553.16)
+DCAU Per Week: 559.44 ($35,946.48)
+APR JOE: Day 0.08% Week 0.53% Year 27.49%
+APR DCAU: Day 0.49% Week 3.42% Year 177.94%
+Total Per Week: $41,499.64
+Total APR: Day 0.56% Week 3.95% Year 205.43%
+You are staking 0.00 [DCAU]-[WAVAX] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [DCAU]-[WAVAX] JLP
+Unstake 0.00 [DCAU]-[WAVAX] JLP
+Claim 0.00 JOE ($0.00) + NaN DCAU ($0.00)
+Staking or unstaking also claims rewards.
+
+[WAVAX]-[HeC] JLP [+] [-] [<=>] Price: $22.13 TVL: $1,494,092.95
+WAVAX Price: $61.83
+HeC Price: $1.38
+Staked: 53009.8930 JLP ($1,173,176.03)
+JOE Per Week: 6081.79 ($5,553.16)
+HeC Per Week: 37333.33 ($51,582.75)
+APR JOE: Day 0.07% Week 0.47% Year 24.61%
+APR HeC: Day 0.63% Week 4.40% Year 228.64%
+Total Per Week: $57,135.91
+Total APR: Day 0.70% Week 4.87% Year 253.25%
+You are staking 0.00 [WAVAX]-[HeC] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WAVAX]-[HeC] JLP
+Unstake 0.00 [WAVAX]-[HeC] JLP
+Claim 0.00 JOE ($0.00) + NaN HeC ($0.00)
+Staking or unstaking also claims rewards.
+
+[WAVAX]-[FRM] JLP [+] [-] [<=>] Price: $4.58 TVL: $271,513.89
+WAVAX Price: $61.83
+FRM Price: $0.08
+Staked: 45305.4490 JLP ($207,611.52)
+JOE Per Week: 3040.89 ($2,776.58)
+FRM Per Week: 217391.30 ($18,192.07)
+APR JOE: Day 0.19% Week 1.34% Year 69.54%
+APR FRM: Day 1.25% Week 8.76% Year 455.65%
+Total Per Week: $20,968.65
+Total APR: Day 1.44% Week 10.10% Year 525.20%
+You are staking 0.00 [WAVAX]-[FRM] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WAVAX]-[FRM] JLP
+Unstake 0.00 [WAVAX]-[FRM] JLP
+Claim 0.00 JOE ($0.00) + NaN FRM ($0.00)
+Staking or unstaking also claims rewards.
+
+[GMX]-[WAVAX] JLP [+] [-] [<=>] Price: $92.29 TVL: $6,258,510.83
+GMX Price: $34.09
+WAVAX Price: $61.83
+Staked: 26428.4122 JLP ($2,439,060.31)
+JOE Per Week: 6081.79 ($5,553.16)
+GMX Per Week: 1630.43 ($55,577.57)
+APR JOE: Day 0.03% Week 0.23% Year 11.84%
+APR GMX: Day 0.33% Week 2.28% Year 118.49%
+Total Per Week: $61,130.73
+Total APR: Day 0.36% Week 2.51% Year 130.33%
+You are staking 0.00 [GMX]-[WAVAX] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [GMX]-[WAVAX] JLP
+Unstake 0.00 [GMX]-[WAVAX] JLP
+Claim 0.00 JOE ($0.00) + NaN GMX ($0.00)
+Staking or unstaking also claims rewards.
+
+[WAVAX]-[MORE] JLP [+] [-] [<=>] Price: $14.11 TVL: $4,444,363.97
+WAVAX Price: $61.83
+MORE Price: $0.78
+Staked: 313428.8432 JLP ($4,421,242.86)
+JOE Per Week: 6081.79 ($5,553.16)
+MORE Per Week: 3266669.93 ($2,558,113.97)
+APR JOE: Day 0.02% Week 0.13% Year 6.53%
+APR MORE: Day 8.27% Week 57.86% Year 3008.70%
+Total Per Week: $2,563,667.13
+Total APR: Day 8.28% Week 57.99% Year 3015.23%
+You are staking 0.00 [WAVAX]-[MORE] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WAVAX]-[MORE] JLP
+Unstake 0.00 [WAVAX]-[MORE] JLP
+Claim 0.00 JOE ($0.00) + NaN MORE ($0.00)
+Staking or unstaking also claims rewards.
+
+[UST]-[WAVAX] JLP [+] [-] [<=>] Price: $15,899,486.93 TVL: $3,691,242.04
+UST Price: $1.00
+WAVAX Price: $61.83
+Staked: 0.2226 JLP ($3,539,988.76)
+JOE Per Week: 30408.94 ($27,765.79)
+LUNA Per Week: 250.99 ($0.00)
+APR JOE: Day 0.11% Week 0.78% Year 40.79%
+APR LUNA: Day NaN% Week NaN% Year NaN%
+Total Per Week: $0.00
+Total APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [UST]-[WAVAX] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [UST]-[WAVAX] JLP
+Unstake 0.00 [UST]-[WAVAX] JLP
+Claim 0.00 JOE ($0.00) + NaN LUNA ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $68,457,611.08
+Found 68 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+24 - xJOE Price: $0.00 Market Cap: $0.00 
+Staked: 51924502.0643 xJOE ($0.00)
+JOE Per Week: 204631.58 ($186,845.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 xJOE ($0.00), NaN% of the pool.
+Stake 0.00 xJOE
+Unstake 0.00 xJOE
+Claim NaN JOE ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - [WETH.e]-[WAVAX] JLP [+] [-] [<=>] Price: $828.34 TVL: $84,241,379.59
+WETH.e Price: $2,324.99
+WAVAX Price: $61.83
+Staked: 100352.2674 JLP ($83,125,658.39)
+JOE Per Week: 204631.58 ($186,845.00)
+APR: Day 0.03% Week 0.22% Year 11.69%
+You are staking 0.00 [WETH.e]-[WAVAX] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH.e]-[WAVAX] JLP
+Unstake 0.00 [WETH.e]-[WAVAX] JLP
+Claim NaN JOE ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - [WBTC.e]-[WAVAX] JLP [+] [-] [<=>] Price: $320,625,584.38 TVL: $19,568,283.75
+WBTC.e Price: $35,675.00
+WAVAX Price: $61.83
+Staked: 0.0609 JLP ($19,523,578.57)
+JOE Per Week: 54568.42 ($49,825.33)
+APR: Day 0.04% Week 0.26% Year 13.27%
+You are staking 0.00 [WBTC.e]-[WAVAX] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC.e]-[WAVAX] JLP
+Unstake 0.00 [WBTC.e]-[WAVAX] JLP
+Claim NaN JOE ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - [WAVAX]-[USDT.e] JLP [+] [-] [<=>] Price: $19,345,921.82 TVL: $96,240,072.11
+WAVAX Price: $61.83
+USDT.e Price: $1.00
+Staked: 4.9082 JLP ($94,953,415.50)
+JOE Per Week: 306947.37 ($280,267.50)
+APR: Day 0.04% Week 0.30% Year 15.35%
+You are staking 0.00 [WAVAX]-[USDT.e] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WAVAX]-[USDT.e] JLP
+Unstake 0.00 [WAVAX]-[USDT.e] JLP
+Claim NaN JOE ($0.00)
+Staking or unstaking also claims rewards.
+
+29 - [LINK.e]-[WAVAX] JLP [+] [-] [<=>] Price: $63.00 TVL: $12,597,689.58
+LINK.e Price: $14.55
+WAVAX Price: $61.83
+Staked: 199770.2330 JLP ($12,584,598.95)
+JOE Per Week: 34105.26 ($31,140.83)
+APR: Day 0.04% Week 0.25% Year 12.87%
+You are staking 0.00 [LINK.e]-[WAVAX] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [LINK.e]-[WAVAX] JLP
+Unstake 0.00 [LINK.e]-[WAVAX] JLP
+Claim NaN JOE ($0.00)
+Staking or unstaking also claims rewards.
+
+35 - JOEBORROW Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 JOEBORROW ($0.00)
+JOE Per Week: 272842.11 ($249,126.67)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 JOEBORROW ($0.00), NaN% of the pool.
+Stake 0.00 JOEBORROW
+Unstake 0.00 JOEBORROW
+Claim NaN JOE ($0.00)
+Staking or unstaking also claims rewards.
+
+36 - JOELEND Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 JOELEND ($0.00)
+JOE Per Week: 272842.11 ($249,126.67)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 JOELEND ($0.00), NaN% of the pool.
+Stake 0.00 JOELEND
+Unstake 0.00 JOELEND
+Claim NaN JOE ($0.00)
+Staking or unstaking also claims rewards.
+
+39 - [USDC.e]-[WAVAX] JLP [+] [-] [<=>] Price: $18,249,821.98 TVL: $134,524,205.66
+USDC.e Price: $1.00
+WAVAX Price: $61.83
+Staked: 7.3318 JLP ($133,803,443.11)
+JOE Per Week: 375157.89 ($342,549.17)
+APR: Day 0.04% Week 0.26% Year 13.31%
+You are staking 0.00 [USDC.e]-[WAVAX] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC.e]-[WAVAX] JLP
+Unstake 0.00 [USDC.e]-[WAVAX] JLP
+Claim NaN JOE ($0.00)
+Staking or unstaking also claims rewards.
+
+41 - [QI]-[WAVAX] JLP [+] [-] [<=>] Price: $4.27 TVL: $504,706.31
+QI Price: $0.05
+WAVAX Price: $61.83
+Staked: 115047.1659 JLP ($491,626.88)
+JOE Per Week: 6821.05 ($6,228.17)
+APR: Day 0.18% Week 1.27% Year 65.88%
+You are staking 0.00 [QI]-[WAVAX] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [QI]-[WAVAX] JLP
+Unstake 0.00 [QI]-[WAVAX] JLP
+Claim NaN JOE ($0.00)
+Staking or unstaking also claims rewards.
+
+43 - [MIM]-[WAVAX] JLP [+] [-] [<=>] Price: $20.65 TVL: $22,870,225.48
+MIM Price: $1.00
+WAVAX Price: $61.83
+Staked: 929920.2574 JLP ($19,204,825.33)
+JOE Per Week: 81852.63 ($74,738.00)
+APR: Day 0.06% Week 0.39% Year 20.24%
+You are staking 0.00 [MIM]-[WAVAX] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [MIM]-[WAVAX] JLP
+Unstake 0.00 [MIM]-[WAVAX] JLP
+Claim NaN JOE ($0.00)
+Staking or unstaking also claims rewards.
+
+52 - [BNB]-[WAVAX] JLP [+] [-] [<=>] Price: $314.06 TVL: $6,763,437.62
+BNB Price: $361.27
+WAVAX Price: $61.83
+Staked: 21509.1117 JLP ($6,755,240.64)
+JOE Per Week: 13642.11 ($12,456.33)
+APR: Day 0.03% Week 0.18% Year 9.59%
+You are staking 0.00 [BNB]-[WAVAX] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [BNB]-[WAVAX] JLP
+Unstake 0.00 [BNB]-[WAVAX] JLP
+Claim NaN JOE ($0.00)
+Staking or unstaking also claims rewards.
+
+54 - [WBTC.e]-[USDC.e] JLP [+] [-] [<=>] Price: $39,242,230,931,322.46 TVL: $3,141,120.18
+WBTC.e Price: $35,675.00
+USDC.e Price: $1.00
+Staked: 0.0000 JLP ($3,133,210.11)
+JOE Per Week: 6821.05 ($6,228.17)
+APR: Day 0.03% Week 0.20% Year 10.34%
+You are staking 0.00 [WBTC.e]-[USDC.e] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC.e]-[USDC.e] JLP
+Unstake 0.00 [WBTC.e]-[USDC.e] JLP
+Claim NaN JOE ($0.00)
+Staking or unstaking also claims rewards.
+
+55 - [WETH.e]-[USDC.e] JLP [+] [-] [<=>] Price: $102,111,286.25 TVL: $3,158,045.16
+WETH.e Price: $2,324.99
+USDC.e Price: $1.00
+Staked: 0.0307 JLP ($3,139,457.47)
+JOE Per Week: 6821.05 ($6,228.17)
+APR: Day 0.03% Week 0.20% Year 10.32%
+You are staking 0.00 [WETH.e]-[USDC.e] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH.e]-[USDC.e] JLP
+Unstake 0.00 [WETH.e]-[USDC.e] JLP
+Claim NaN JOE ($0.00)
+Staking or unstaking also claims rewards.
+
+56 - [LINK.e]-[USDC.e] JLP [+] [-] [<=>] Price: $7,985,901.63 TVL: $984,032.23
+LINK.e Price: $14.55
+USDC.e Price: $1.00
+Staked: 0.1100 JLP ($878,253.98)
+JOE Per Week: 6821.05 ($6,228.17)
+APR: Day 0.10% Week 0.71% Year 36.88%
+You are staking 0.00 [LINK.e]-[USDC.e] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [LINK.e]-[USDC.e] JLP
+Unstake 0.00 [LINK.e]-[USDC.e] JLP
+Claim NaN JOE ($0.00)
+Staking or unstaking also claims rewards.
+
+58 - [JOE]-[USDC.e] JLP [+] [-] [<=>] Price: $2,255,254.06 TVL: $4,721,136.53
+JOE Price: $0.91
+USDC.e Price: $1.00
+Staked: 2.0844 JLP ($4,700,817.46)
+JOE Per Week: 68210.53 ($62,281.67)
+APR: Day 0.19% Week 1.32% Year 68.90%
+You are staking 0.00 [JOE]-[USDC.e] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [JOE]-[USDC.e] JLP
+Unstake 0.00 [JOE]-[USDC.e] JLP
+Claim NaN JOE ($0.00)
+Staking or unstaking also claims rewards.
+
+59 - [RELAY]-[WAVAX] JLP [+] [-] [<=>] Price: $17.07 TVL: $109,403.94
+RELAY Price: $0.95
+WAVAX Price: $61.83
+Staked: 6080.4242 JLP ($103,813.63)
+JOE Per Week: 3410.53 ($3,114.08)
+APR: Day 0.43% Week 3.00% Year 155.98%
+You are staking 0.00 [RELAY]-[WAVAX] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [RELAY]-[WAVAX] JLP
+Unstake 0.00 [RELAY]-[WAVAX] JLP
+Claim NaN JOE ($0.00)
+Staking or unstaking also claims rewards.
+
+62 - [AAVE.e]-[WAVAX] JLP [+] [-] [<=>] Price: $193.46 TVL: $1,881,397.74
+AAVE.e Price: $138.92
+WAVAX Price: $61.83
+Staked: 6014.0416 JLP ($1,163,484.18)
+JOE Per Week: 6821.05 ($6,228.17)
+APR: Day 0.08% Week 0.54% Year 27.84%
+You are staking 0.00 [AAVE.e]-[WAVAX] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [AAVE.e]-[WAVAX] JLP
+Unstake 0.00 [AAVE.e]-[WAVAX] JLP
+Claim NaN JOE ($0.00)
+Staking or unstaking also claims rewards.
+
+66 - DUMMY Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 DUMMY ($0.00)
+JOE Per Week: 610484.21 ($557,420.92)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 DUMMY ($0.00), NaN% of the pool.
+Stake 0.00 DUMMY
+Unstake 0.00 DUMMY
+Claim NaN JOE ($0.00)
+Staking or unstaking also claims rewards.
+
+67 - FUT Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 FUT ($0.00)
+JOE Per Week: 184168.42 ($168,160.50)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FUT ($0.00), NaN% of the pool.
+Stake 0.00 FUT
+Unstake 0.00 FUT
+Claim NaN JOE ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $383,561,424.21

@@ -1,0 +1,535 @@
+*************** 👨‍🌾 UNOFFICIAL BORGSWAP FARMING CALCULATOR 👨‍🌾 *****************
+INFO  : https://farm.borgswap.exchange
+****************************************************************************************
+
+Thu Jan 27 2022 20:41:41 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 77 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+11 - KLING Price: $0.00 Market Cap: $0.00 
+Staked: 1759.5979 KLING ($0.00)
+KLING Per Week: 2.38 ($0.47)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 KLING ($0.00), NaN% of the pool.
+Stake 0.00 KLING
+Unstake 0.00 KLING
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - BUSD Price: $1.00 Market Cap: $4,845,740,905.29 [%]
+Staked: 223.5858 BUSD ($223.34)
+KLING Per Week: 0.48 ($0.09)
+APR: Day 0.01% Week 0.04% Year 2.18%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - WBNB Price: $369.82 Market Cap: $1,930,913,628.67 [%]
+Staked: 4.8000 WBNB ($1,775.14)
+KLING Per Week: 0.71 ($0.14)
+APR: Day 0.00% Week 0.01% Year 0.41%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - USDT Price: $1.00 Market Cap: $3,876,672,763.96 [%]
+Staked: 318.8229 USDT ($318.55)
+KLING Per Week: 0.24 ($0.05)
+APR: Day 0.00% Week 0.01% Year 0.76%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - BTCB Price: $36,219.00 Market Cap: $4,074,673,719.00 [%]
+Staked: 0.0050 BTCB ($179.95)
+KLING Per Week: 0.48 ($0.09)
+APR: Day 0.01% Week 0.05% Year 2.71%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - ETH Price: $2,453.65 Market Cap: $3,447,378,250.00 [%]
+Staked: 0.1016 ETH ($249.17)
+KLING Per Week: 0.48 ($0.09)
+APR: Day 0.01% Week 0.04% Year 1.95%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - DAI Price: $1.00 Market Cap: $262,000,000.00 [%]
+Staked: 11.2119 DAI ($11.21)
+KLING Per Week: 0.24 ($0.05)
+APR: Day 0.06% Week 0.42% Year 21.71%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - USDC Price: $1.00 Market Cap: $1,777,398,900.00 [%]
+Staked: 213.7647 USDC ($213.57)
+KLING Per Week: 0.24 ($0.05)
+APR: Day 0.00% Week 0.02% Year 1.14%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - DOT Price: $17.96 Market Cap: $287,359,999.84 [%]
+Staked: 1.1366 DOT ($20.41)
+KLING Per Week: 0.48 ($0.09)
+APR: Day 0.07% Week 0.46% Year 23.85%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - Cake Price: $7.09 Market Cap: $4,360,014,743.98 [%]
+Staked: 0.9285 Cake ($6.58)
+KLING Per Week: 0.24 ($0.05)
+APR: Day 0.10% Week 0.71% Year 36.97%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - EGG Price: $0.13 Market Cap: $1,094,520.87 [%]
+Staked: 5.9375 EGG ($0.80)
+KLING Per Week: 0.24 ($0.05)
+APR: Day 0.84% Week 5.87% Year 305.32%
+You are staking 0.00 EGG ($0.00), 0.00% of the pool.
+Stake 0.00 EGG - Fee 4%
+Unstake 0.00 EGG
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - XVS Price: $8.01 Market Cap: $240,300,000.00 [%]
+Staked: 48.3715 XVS ($387.46)
+KLING Per Week: 0.24 ($0.05)
+APR: Day 0.00% Week 0.01% Year 0.63%
+You are staking 0.00 XVS ($0.00), 0.00% of the pool.
+Stake 0.00 XVS - Fee 4%
+Unstake 0.00 XVS
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - LINK Price: $15.17 Market Cap: $130,462,000.00 [%]
+Staked: 0.9160 LINK ($13.90)
+KLING Per Week: 0.24 ($0.05)
+APR: Day 0.05% Week 0.34% Year 17.51%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - ADA Price: $1.03 Market Cap: $288,400,000.00 [%]
+Staked: 42.2653 ADA ($43.53)
+KLING Per Week: 0.24 ($0.05)
+APR: Day 0.02% Week 0.11% Year 5.59%
+You are staking 0.00 ADA ($0.00), 0.00% of the pool.
+Stake 0.00 ADA - Fee 4%
+Unstake 0.00 ADA
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - VAI Price: $0.94 Market Cap: $56,941,887.30 [%]
+Staked: 103.2207 VAI ($97.23)
+KLING Per Week: 0.24 ($0.05)
+APR: Day 0.01% Week 0.05% Year 2.50%
+You are staking 0.00 VAI ($0.00), 0.00% of the pool.
+Stake 0.00 VAI - Fee 4%
+Unstake 0.00 VAI
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - AUTO Price: $406.67 Market Cap: $32,793,132.45 [%]
+Staked: 0.0059 AUTO ($2.40)
+KLING Per Week: 0.24 ($0.05)
+APR: Day 0.28% Week 1.95% Year 101.48%
+You are staking 0.00 AUTO ($0.00), 0.00% of the pool.
+Stake 0.00 AUTO - Fee 4%
+Unstake 0.00 AUTO
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - BETH Price: $2,306.82 Market Cap: $230,682,000,000.00 [%]
+Staked: 0.0017 BETH ($4.02)
+KLING Per Week: 0.24 ($0.05)
+APR: Day 0.17% Week 1.17% Year 60.60%
+You are staking 0.00 BETH ($0.00), 0.00% of the pool.
+Stake 0.00 BETH - Fee 4%
+Unstake 0.00 BETH
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - DOGE Price: $0.14 Market Cap: $282,422,000.00 [%]
+Staked: 134.3338 DOGE ($18.97)
+KLING Per Week: 0.24 ($0.05)
+APR: Day 0.04% Week 0.25% Year 12.83%
+You are staking 0.00 DOGE ($0.00), 0.00% of the pool.
+Stake 0.00 DOGE - Fee 4%
+Unstake 0.00 DOGE
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+
+29 - UNI Price: $10.66 Market Cap: $44,772,000.00 [%]
+Staked: 1.4624 UNI ($15.59)
+KLING Per Week: 0.24 ($0.05)
+APR: Day 0.04% Week 0.30% Year 15.61%
+You are staking 0.00 UNI ($0.00), 0.00% of the pool.
+Stake 0.00 UNI - Fee 4%
+Unstake 0.00 UNI
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+
+30 - UST Price: $1.00 Market Cap: $23,019,843.93 [%]
+Staked: 17.1982 UST ($17.18)
+KLING Per Week: 0.24 ($0.05)
+APR: Day 0.04% Week 0.27% Year 14.17%
+You are staking 0.00 UST ($0.00), 0.00% of the pool.
+Stake 0.00 UST - Fee 4%
+Unstake 0.00 UST
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+
+31 - LTC Price: $106.64 Market Cap: $66,650,000.00 [%]
+Staked: 3.4983 LTC ($373.06)
+KLING Per Week: 0.24 ($0.05)
+APR: Day 0.00% Week 0.01% Year 0.65%
+You are staking 0.00 LTC ($0.00), 0.00% of the pool.
+Stake 0.00 LTC - Fee 4%
+Unstake 0.00 LTC
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+
+32 - CREAM Price: $0.00 Market Cap: $0.00 
+Staked: 0.1682 CREAM ($0.00)
+KLING Per Week: 0.24 ($0.05)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 CREAM ($0.00), NaN% of the pool.
+Stake 0.00 CREAM - Fee 4%
+Unstake 0.00 CREAM
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+
+33 - COMP Price: $0.00 Market Cap: $0.00 
+Staked: 0.0837 COMP ($0.00)
+KLING Per Week: 0.24 ($0.05)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 COMP ($0.00), NaN% of the pool.
+Stake 0.00 COMP - Fee 4%
+Unstake 0.00 COMP
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+
+34 - YFI Price: $0.00 Market Cap: $0.00 
+Staked: 0.0002 YFI ($0.00)
+KLING Per Week: 0.24 ($0.05)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 YFI ($0.00), NaN% of the pool.
+Stake 0.00 YFI - Fee 4%
+Unstake 0.00 YFI
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+
+35 - TWT Price: $0.00 Market Cap: $0.00 
+Staked: 18.2535 TWT ($0.00)
+KLING Per Week: 0.24 ($0.05)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 TWT ($0.00), NaN% of the pool.
+Stake 0.00 TWT - Fee 4%
+Unstake 0.00 TWT
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+
+36 - EARS Price: $0.00 Market Cap: $0.00 
+Staked: 1114.4272 EARS ($0.00)
+KLING Per Week: 0.24 ($0.05)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 EARS ($0.00), NaN% of the pool.
+Stake 0.00 EARS
+Unstake 0.00 EARS
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+
+37 - GPL Price: $0.00 Market Cap: $0.00 
+Staked: 5268.1794 GPL ($0.00)
+KLING Per Week: 0.24 ($0.05)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 GPL ($0.00), NaN% of the pool.
+Stake 0.00 GPL
+Unstake 0.00 GPL
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+
+39 - ROMS Price: $0.00 Market Cap: $0.00 
+Staked: 2410392.4927 ROMS ($0.00)
+KLING Per Week: 0.24 ($0.05)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 ROMS ($0.00), NaN% of the pool.
+Stake 0.00 ROMS
+Unstake 0.00 ROMS
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+
+54 - [WBNB]-[KLING] Uni LP [+] [-] [<=>] Price: $18.58 TVL: $515.86
+WBNB Price: $369.82
+KLING Price: $0.20
+Staked: 25.8241 BORG-LP ($479.74)
+KLING Per Week: 23.77 ($4.68)
+APR: Day 0.14% Week 0.98% Year 50.73%
+You are staking 0.00 [WBNB]-[KLING] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[KLING] Uni LP
+Unstake 0.00 [WBNB]-[KLING] Uni LP
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+
+55 - [BUSD]-[KLING] Uni LP [+] [-] [<=>] Price: $0.92 TVL: $157.18
+BUSD Price: $1.00
+KLING Price: $0.20
+Staked: 156.8089 BORG-LP ($143.78)
+KLING Per Week: 9.51 ($1.87)
+APR: Day 0.19% Week 1.30% Year 67.71%
+You are staking 0.00 [BUSD]-[KLING] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUSD]-[KLING] Uni LP
+Unstake 0.00 [BUSD]-[KLING] Uni LP
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+
+56 - [BTCB]-[KLING] Uni LP [+] [-] [<=>] Price: $170.66 TVL: $144.93
+BTCB Price: $36,219.00
+KLING Price: $0.20
+Staked: 0.8482 BORG-LP ($144.75)
+KLING Per Week: 19.02 ($3.74)
+APR: Day 0.37% Week 2.59% Year 134.51%
+You are staking 0.00 [BTCB]-[KLING] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[KLING] Uni LP
+Unstake 0.00 [BTCB]-[KLING] Uni LP
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+
+57 - [ETH]-[KLING] Uni LP [+] [-] [<=>] Price: $44.72 TVL: $255.49
+ETH Price: $2,453.65
+KLING Price: $0.20
+Staked: 1.4910 BORG-LP ($66.68)
+KLING Per Week: 19.02 ($3.74)
+APR: Day 0.80% Week 5.62% Year 292.01%
+You are staking 0.00 [ETH]-[KLING] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[KLING] Uni LP
+Unstake 0.00 [ETH]-[KLING] Uni LP
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+
+58 - [BETH]-[KLING] Uni LP [+] [-] [<=>] Price: $43.06 TVL: $217.15
+BETH Price: $2,306.82
+KLING Price: $0.20
+Staked: 1.2981 BORG-LP ($55.90)
+KLING Per Week: 19.02 ($3.74)
+APR: Day 0.96% Week 6.70% Year 348.31%
+You are staking 0.00 [BETH]-[KLING] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BETH]-[KLING] Uni LP
+Unstake 0.00 [BETH]-[KLING] Uni LP
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+
+59 - [DOT]-[KLING] Uni LP [+] [-] [<=>] Price: $3.82 TVL: $286.18
+DOT Price: $17.96
+KLING Price: $0.20
+Staked: 74.1881 BORG-LP ($283.05)
+KLING Per Week: 23.77 ($4.68)
+APR: Day 0.24% Week 1.65% Year 85.99%
+You are staking 0.00 [DOT]-[KLING] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[KLING] Uni LP
+Unstake 0.00 [DOT]-[KLING] Uni LP
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+
+60 - [TRIB]-[KLING] Uni LP [+] [-] [<=>] Price: $0.26 TVL: $59.61
+TRIB Price: $0.09
+KLING Price: $0.20
+Staked: 227.8170 BORG-LP ($59.56)
+KLING Per Week: 19.02 ($3.74)
+APR: Day 0.90% Week 6.29% Year 326.91%
+You are staking 0.00 [TRIB]-[KLING] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TRIB]-[KLING] Uni LP
+Unstake 0.00 [TRIB]-[KLING] Uni LP
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+
+61 - [USDT]-[KLING] Uni LP [+] [-] [<=>] Price: $0.90 TVL: $125.43
+USDT Price: $1.00
+KLING Price: $0.20
+Staked: 139.3878 BORG-LP ($125.28)
+KLING Per Week: 9.51 ($1.87)
+APR: Day 0.21% Week 1.49% Year 77.71%
+You are staking 0.00 [USDT]-[KLING] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[KLING] Uni LP
+Unstake 0.00 [USDT]-[KLING] Uni LP
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+
+62 - [EARS]-[KLING] Uni LP [+] [-] [<=>] Price: $0.23 TVL: $143.01
+EARS Price: $0.03
+KLING Price: $0.20
+Staked: 606.9982 BORG-LP ($141.72)
+KLING Per Week: 9.51 ($1.87)
+APR: Day 0.19% Week 1.32% Year 68.69%
+You are staking 0.00 [EARS]-[KLING] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [EARS]-[KLING] Uni LP
+Unstake 0.00 [EARS]-[KLING] Uni LP
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+
+63 - [BORG-LP]-[BORG-LP] Uni LP [+] [-] [<=>] Price: $87.79 TVL: $325.08
+BORG-LP Price: $43.06
+BORG-LP Price: $44.72
+Staked: 3.7031 BORG-LP ($325.08)
+KLING Per Week: 22.58 ($4.45)
+APR: Day 0.20% Week 1.37% Year 71.13%
+You are staking 0.00 [BORG-LP]-[BORG-LP] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BORG-LP]-[BORG-LP] Uni LP
+Unstake 0.00 [BORG-LP]-[BORG-LP] Uni LP
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+
+67 - [VAI]-[BUSD] Uni LP [+] [-] [<=>] Price: $1.95 TVL: $34.37
+VAI Price: $0.94
+BUSD Price: $1.00
+Staked: 8.9644 BORG-LP ($17.49)
+KLING Per Week: 1.66 ($0.33)
+APR: Day 0.27% Week 1.87% Year 97.44%
+You are staking 0.00 [VAI]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [VAI]-[BUSD] Uni LP - Fee 4%
+Unstake 0.00 [VAI]-[BUSD] Uni LP
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+
+68 - [Cake]-[BUSD] Uni LP [+] [-] [<=>] Price: $5.43 TVL: $65.77
+Cake Price: $7.09
+BUSD Price: $1.00
+Staked: 6.1863 BORG-LP ($33.57)
+KLING Per Week: 1.66 ($0.33)
+APR: Day 0.14% Week 0.98% Year 50.76%
+You are staking 0.00 [Cake]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BUSD] Uni LP - Fee 4%
+Unstake 0.00 [Cake]-[BUSD] Uni LP
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+
+69 - [USDT]-[BUSD] Uni LP [+] [-] [<=>] Price: $2.00 TVL: $58.62
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 9.6593 BORG-LP ($19.36)
+KLING Per Week: 1.66 ($0.33)
+APR: Day 0.24% Week 1.69% Year 88.01%
+You are staking 0.00 [USDT]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Uni LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Uni LP
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+
+70 - [BTCB]-[WBNB] Uni LP [+] [-] [<=>] Price: $7,389.62 TVL: $426.09
+BTCB Price: $36,219.00
+WBNB Price: $369.82
+Staked: 0.0060 BORG-LP ($44.54)
+KLING Per Week: 1.66 ($0.33)
+APR: Day 0.11% Week 0.74% Year 38.25%
+You are staking 0.00 [BTCB]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Uni LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Uni LP
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+
+71 - [WBNB]-[BUSD] Uni LP [+] [-] [<=>] Price: $43.23 TVL: $645.65
+WBNB Price: $369.82
+BUSD Price: $1.00
+Staked: 6.1028 BORG-LP ($263.85)
+KLING Per Week: 1.66 ($0.33)
+APR: Day 0.02% Week 0.12% Year 6.46%
+You are staking 0.00 [WBNB]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Uni LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Uni LP
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+
+72 - [ETH]-[WBNB] Uni LP [+] [-] [<=>] Price: $1,922.17 TVL: $144.52
+ETH Price: $2,453.65
+WBNB Price: $369.82
+Staked: 0.0046 BORG-LP ($8.89)
+KLING Per Week: 1.66 ($0.33)
+APR: Day 0.53% Week 3.69% Year 191.66%
+You are staking 0.00 [ETH]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Uni LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Uni LP
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+
+73 - [DOT]-[WBNB] Uni LP [+] [-] [<=>] Price: $164.09 TVL: $28.85
+DOT Price: $17.96
+WBNB Price: $369.82
+Staked: 0.1260 BORG-LP ($20.68)
+KLING Per Week: 1.66 ($0.33)
+APR: Day 0.23% Week 1.58% Year 82.40%
+You are staking 0.00 [DOT]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Uni LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Uni LP
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+
+74 - [USDC]-[BUSD] Uni LP [+] [-] [<=>] Price: $2.00 TVL: $67.64
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 25.6361 BORG-LP ($51.36)
+KLING Per Week: 1.66 ($0.33)
+APR: Day 0.09% Week 0.64% Year 33.17%
+You are staking 0.00 [USDC]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Uni LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Uni LP
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+
+75 - [DAI]-[BUSD] Uni LP [+] [-] [<=>] Price: $2.00 TVL: $65.23
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 21.6338 BORG-LP ($43.37)
+KLING Per Week: 1.66 ($0.33)
+APR: Day 0.11% Week 0.76% Year 39.29%
+You are staking 0.00 [DAI]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Uni LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Uni LP
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+
+76 - [ETH]-[BETH] Uni LP [+] [-] [<=>] Price: $4,758.44 TVL: $115.64
+ETH Price: $2,453.65
+BETH Price: $2,306.82
+Staked: 0.0127 BORG-LP ($60.62)
+KLING Per Week: 1.66 ($0.33)
+APR: Day 0.08% Week 0.54% Year 28.11%
+You are staking 0.00 [ETH]-[BETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[BETH] Uni LP - Fee 4%
+Unstake 0.00 [ETH]-[BETH] Uni LP
+Claim 0.00 KLING ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $6,361.30

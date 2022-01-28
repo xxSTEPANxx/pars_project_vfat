@@ -1,0 +1,73 @@
+*************** 👨‍🌾 UNOFFICIAL ATAR.FINANCE FARMING CALCULATOR 👨‍🌾 *****************
+INFO  : https://atar.finance
+***********************************************************************************
+
+Thu Jan 27 2022 21:20:29 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 5 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - ATAR Price: $0.00 Market Cap: $0.00 
+Staked: 2582721.6134 ATAR ($0.00)
+ATAR Per Week: 4283608.16 ($87.87)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 ATAR ($0.00), NaN% of the pool.
+Stake 0.00 ATAR
+Unstake 0.00 ATAR
+Claim 0.00 ATAR ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [ATAR]-[WBNB] Uni LP [+] [-] [<=>] Price: $0.18 TVL: $228.18
+ATAR Price: $0.0000205134
+WBNB Price: $367.86
+Staked: 372.9263 DroneCC-LP ($66.37)
+ATAR Per Week: 7053141.86 ($144.68)
+APR: Day 31.14% Week 218.00% Year 11335.86%
+You are staking 0.00 [ATAR]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ATAR]-[WBNB] Uni LP
+Unstake 0.00 [ATAR]-[WBNB] Uni LP
+Claim 0.00 ATAR ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [ATAR]-[BUSD] Uni LP [+] [-] [<=>] Price: $0.01 TVL: $28.66
+ATAR Price: $0.0000205134
+BUSD Price: $1.00
+Staked: 1482.5703 DroneCC-LP ($13.86)
+ATAR Per Week: 5485777.01 ($112.53)
+APR: Day 115.95% Week 811.64% Year 42205.52%
+You are staking 0.00 [ATAR]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ATAR]-[BUSD] Uni LP
+Unstake 0.00 [ATAR]-[BUSD] Uni LP
+Claim 0.00 ATAR ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDT]-[BUSD] Uni LP [+] [-] [<=>] Price: $2.00 TVL: $23.69
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 2.0416 DroneCC-LP ($4.08)
+ATAR Per Week: 156736.49 ($3.22)
+APR: Day 11.25% Week 78.74% Year 4094.42%
+You are staking 0.00 [USDT]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Uni LP
+Unstake 0.00 [USDT]-[BUSD] Uni LP
+Claim 0.00 ATAR ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [DAI]-[BUSD] Uni LP [+] [-] [<=>] Price: $2.00 TVL: $1,249.44
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 333.6637 DroneCC-LP ($667.04)
+ATAR Per Week: 156736.49 ($3.22)
+APR: Day 0.07% Week 0.48% Year 25.06%
+You are staking 0.00 [DAI]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Uni LP
+Unstake 0.00 [DAI]-[BUSD] Uni LP
+Claim 0.00 ATAR ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $751.36

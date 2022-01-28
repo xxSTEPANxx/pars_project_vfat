@@ -1,0 +1,100 @@
+*************** 👨‍🌾 UNOFFICIAL KYBER-DMM FARMING CALCULATOR 👨‍🌾 *************
+INFO  : https://dmm.exchange/
+***************************************************************************
+
+Thu Jan 27 2022 19:59:55 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+NOTE: Once rewards are harvested, they vest for 30 days before they can be claimable.
+      Each time you harvest, that amount harvested starts vesting for 30 days.
+[USDC]-[USDT] DMM-LP USDC-USDT [+] [-] [<=>] LP Price: $2,001,838,975,535.43 TVL: $16,652,813.55
+USDC/USDT Price: 0.96102818
+USDT/USDC Price: 1.04055222
+Reward Tokens: KNC $1.83
+Rewards Per Week: KNC 0.00000000 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+Total Staked: 0.000008162873409698 DMM-LP USDC-USDT ($16,340,758.14)
+You are staking 0.000000000000000000 DMM-LP USDC-USDT $0.00 (0.00% of the pool).
+Vesting rewards: 0.00000000 KNC ($0.00)
+Vested rewards: 0.00000000 KNC ($0.00)
+Etherscan
+Stake 0.000000000000000000 DMM-LP USDC-USDT
+Withdraw 0.000000000000000000 DMM-LP USDC-USDT
+Harvest 0.0000 KNC ($0.00)
+Claim 0.00000000 KNC ($0.00)
+Revoke (set approval to 0)
+
+
+[WETH]-[USDT] DMM-LP WETH-USDT [+] [-] [<=>] LP Price: $102,738,614.37 TVL: $135,702.78
+WETH/USDT Price: 2456.64782707
+USDT/WETH Price: 0.00040706
+Reward Tokens: KNC $1.83
+Rewards Per Week: KNC 0.00000000 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+Total Staked: 0.001189944879302176 DMM-LP WETH-USDT ($122,253.29)
+You are staking 0.000000000000000000 DMM-LP WETH-USDT $0.00 (0.00% of the pool).
+Vesting rewards: 0.00000000 KNC ($0.00)
+Vested rewards: 0.00000000 KNC ($0.00)
+Etherscan
+Stake 0.000000000000000000 DMM-LP WETH-USDT
+Withdraw 0.000000000000000000 DMM-LP WETH-USDT
+Harvest 0.0000 KNC ($0.00)
+Claim 0.00000000 KNC ($0.00)
+Revoke (set approval to 0)
+
+
+[WBTC]-[USDT] DMM-LP WBTC-USDT [+] [-] [<=>] LP Price: $38,878,669,707,357.83 TVL: $214,149.81
+WBTC/USDT Price: 37545.64566821
+USDT/WBTC Price: 0.00002663
+Reward Tokens: KNC $1.83
+Rewards Per Week: KNC 0.00000000 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+Total Staked: 0.000000005492996082 DMM-LP WBTC-USDT ($213,560.38)
+You are staking 0.000000000000000000 DMM-LP WBTC-USDT $0.00 (0.00% of the pool).
+Vesting rewards: 0.00000000 KNC ($0.00)
+Vested rewards: 0.00000000 KNC ($0.00)
+Etherscan
+Stake 0.000000000000000000 DMM-LP WBTC-USDT
+Withdraw 0.000000000000000000 DMM-LP WBTC-USDT
+Harvest 0.0000 KNC ($0.00)
+Claim 0.00000000 KNC ($0.00)
+Revoke (set approval to 0)
+
+
+[WBTC]-[WETH] DMM-LP WBTC-WETH [+] [-] [<=>] LP Price: $1,851,891,854.77 TVL: $1,525,565.09
+WBTC/WETH Price: 7.45476359
+WETH/WBTC Price: 0.13414242
+Reward Tokens: KNC $1.83
+Rewards Per Week: KNC 0.00000000 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+Total Staked: 0.000795368429596214 DMM-LP WBTC-WETH ($1,472,936.32)
+You are staking 0.000000000000000000 DMM-LP WBTC-WETH $0.00 (0.00% of the pool).
+Vesting rewards: 0.00000000 KNC ($0.00)
+Vested rewards: 0.00000000 KNC ($0.00)
+Etherscan
+Stake 0.000000000000000000 DMM-LP WBTC-WETH
+Withdraw 0.000000000000000000 DMM-LP WBTC-WETH
+Harvest 0.0000 KNC ($0.00)
+Claim 0.00000000 KNC ($0.00)
+Revoke (set approval to 0)
+
+
+[WETH]-[KNC] DMM-LP WETH-KNC [+] [-] [<=>] LP Price: $140.13 TVL: $5,110,733.22
+WETH/KNC Price: 1919.49513385
+KNC/WETH Price: 0.00052097
+Reward Tokens: KNC $1.83
+Rewards Per Week: KNC 0.00000000 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+Total Staked: 33184.963641581780393608 DMM-LP WETH-KNC ($4,650,225.78)
+You are staking 0.000000000000000000 DMM-LP WETH-KNC $0.00 (0.00% of the pool).
+Vesting rewards: 0.00000000 KNC ($0.00)
+Vested rewards: 0.00000000 KNC ($0.00)
+Etherscan
+Stake 0.000000000000000000 DMM-LP WETH-KNC
+Withdraw 0.000000000000000000 DMM-LP WETH-KNC
+Harvest 0.0000 KNC ($0.00)
+Claim 0.00000000 KNC ($0.00)
+Revoke (set approval to 0)

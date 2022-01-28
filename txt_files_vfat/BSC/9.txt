@@ -1,0 +1,61 @@
+*************** 👨‍🌾 UNOFFICIAL RAMENSWAP.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://ramenswap.finance
+**************************************************************************************
+
+Thu Jan 27 2022 20:13:10 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 6 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - Ramen Price: $0.008755 Market Cap: $94,807.12 [%]
+Staked: 3260878.5664 Ramen ($28,550.30)
+RAMEN Per Week: 50400.00 ($441.27)
+APR: Day 0.22% Week 1.55% Year 80.37%
+You are staking 0.00 Ramen ($0.00), 0.00% of the pool.
+Stake 0.00 Ramen
+Unstake 0.00 Ramen
+Claim 0.00 RAMEN ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [Ramen]-[WBNB] Cake LP [+] [-] [<=>] Price: $4.15 TVL: $42,321.08
+Ramen Price: $0.008755
+WBNB Price: $372.91
+Staked: 9278.1930 Cake-LP ($38,472.04)
+RAMEN Per Week: 78750.00 ($689.49)
+APR: Day 0.26% Week 1.79% Year 93.19%
+You are staking 0.00 [Ramen]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Ramen]-[WBNB] Cake LP
+Unstake 0.00 [Ramen]-[WBNB] Cake LP
+Claim 0.00 RAMEN ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $66.25 TVL: $2,143,812.16
+WBNB Price: $372.91
+BUSD Price: $1.00
+Staked: 181.7077 Cake-LP ($12,038.05)
+RAMEN Per Week: 9450.00 ($82.74)
+APR: Day 0.10% Week 0.69% Year 35.74%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 RAMEN ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [Ramen]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.21 TVL: $32,665.83
+Ramen Price: $0.008755
+BUSD Price: $1.00
+Staked: 146950.8102 Cake-LP ($30,324.79)
+RAMEN Per Week: 63000.00 ($551.59)
+APR: Day 0.26% Week 1.82% Year 94.58%
+You are staking 0.00 [Ramen]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Ramen]-[BUSD] Cake LP
+Unstake 0.00 [Ramen]-[BUSD] Cake LP
+Claim 0.00 RAMEN ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $109,385.18

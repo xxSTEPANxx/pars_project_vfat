@@ -1,0 +1,340 @@
+*************** 👨‍🌾 UNOFFICIAL COUGARSWAP FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://avaapp.cougarswap.io
+**********************************************************************************
+
+Fri Jan 28 2022 00:26:43 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 32 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [CGS]-[WAVAX] JLP [+] [-] [<=>] Price: $0.51 TVL: $7,520.83
+CGS Price: $0.000982
+WAVAX Price: $61.97
+Staked: 10015.2075 JLP ($5,090.75)
+CGS Per Week: 347790.38 ($341.50)
+APR: Day 0.96% Week 6.71% Year 348.82%
+You are staking 0.00 [CGS]-[WAVAX] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [CGS]-[WAVAX] JLP
+Unstake 0.00 [CGS]-[WAVAX] JLP
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [CGS]-[USDC.e] JLP [+] [-] [<=>] Price: $64,417.04 TVL: $5,927.46
+CGS Price: $0.000982
+USDC.e Price: $1.00
+Staked: 0.0492 JLP ($3,167.59)
+CGS Per Week: 289825.32 ($284.58)
+APR: Day 1.28% Week 8.98% Year 467.17%
+You are staking 0.00 [CGS]-[USDC.e] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [CGS]-[USDC.e] JLP
+Unstake 0.00 [CGS]-[USDC.e] JLP
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [USDC.e]-[WAVAX] JLP [+] [-] [<=>] Price: $18,275,202.75 TVL: $134,719,734.89
+USDC.e Price: $1.00
+WAVAX Price: $61.97
+Staked: 0.0000 JLP ($655.77)
+CGS Per Week: 11593.01 ($11.38)
+APR: Day 0.25% Week 1.74% Year 90.26%
+You are staking 0.00 [USDC.e]-[WAVAX] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC.e]-[WAVAX] JLP - Fee 2%
+Unstake 0.00 [USDC.e]-[WAVAX] JLP
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WAVAX]-[USDT.e] JLP [+] [-] [<=>] Price: $19,398,821.59 TVL: $96,509,605.62
+WAVAX Price: $61.97
+USDT.e Price: $1.00
+Staked: 0.0000 JLP ($851.48)
+CGS Per Week: 11593.01 ($11.38)
+APR: Day 0.19% Week 1.34% Year 69.52%
+You are staking 0.00 [WAVAX]-[USDT.e] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WAVAX]-[USDT.e] JLP - Fee 2%
+Unstake 0.00 [WAVAX]-[USDT.e] JLP
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [WETH.e]-[WAVAX] JLP [+] [-] [<=>] Price: $830.08 TVL: $84,393,285.91
+WETH.e Price: $2,329.48
+WAVAX Price: $61.97
+Staked: 0.6450 JLP ($535.41)
+CGS Per Week: 9660.84 ($9.49)
+APR: Day 0.25% Week 1.77% Year 92.13%
+You are staking 0.00 [WETH.e]-[WAVAX] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH.e]-[WAVAX] JLP - Fee 2%
+Unstake 0.00 [WETH.e]-[WAVAX] JLP
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WBTC.e]-[WAVAX] JLP [+] [-] [<=>] Price: $321,577,007.47 TVL: $19,616,829.32
+WBTC.e Price: $35,806.00
+WAVAX Price: $61.97
+Staked: 0.0000 JLP ($507.32)
+CGS Per Week: 9660.84 ($9.49)
+APR: Day 0.27% Week 1.87% Year 97.23%
+You are staking 0.00 [WBTC.e]-[WAVAX] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC.e]-[WAVAX] JLP - Fee 2%
+Unstake 0.00 [WBTC.e]-[WAVAX] JLP
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [USDC.e]-[USDT.e] JLP [+] [-] [<=>] Price: $2,056,668,187,186.58 TVL: $4,858,658.33
+USDC.e Price: $1.00
+USDT.e Price: $1.00
+Staked: 0.0000 JLP ($731.46)
+CGS Per Week: 7728.68 ($7.59)
+APR: Day 0.15% Week 1.04% Year 53.95%
+You are staking 0.00 [USDC.e]-[USDT.e] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC.e]-[USDT.e] JLP - Fee 2%
+Unstake 0.00 [USDC.e]-[USDT.e] JLP
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [JOE]-[WAVAX] JLP [+] [-] [<=>] Price: $17.85 TVL: $31,583,928.84
+JOE Price: $0.91
+WAVAX Price: $61.97
+Staked: 13.2975 JLP ($237.42)
+CGS Per Week: 7728.68 ($7.59)
+APR: Day 0.46% Week 3.20% Year 166.21%
+You are staking 0.00 [JOE]-[WAVAX] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [JOE]-[WAVAX] JLP - Fee 2%
+Unstake 0.00 [JOE]-[WAVAX] JLP
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - CGS Price: $0.000982 Market Cap: $15,392.36 
+Staked: 6798752.3749 CGS ($6,675.69)
+CGS Per Week: 96608.44 ($94.86)
+APR: Day 0.20% Week 1.42% Year 73.89%
+You are staking 0.00 CGS ($0.00), 0.00% of the pool.
+Stake 0.00 CGS
+Unstake 0.00 CGS
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - WAVAX Price: $61.97 Market Cap: $1,049,712,924.12 
+Staked: 19.8363 WAVAX ($1,229.26)
+CGS Per Week: 9660.84 ($9.49)
+APR: Day 0.11% Week 0.77% Year 40.13%
+You are staking 0.00 WAVAX ($0.00), 0.00% of the pool.
+Stake 0.00 WAVAX - Fee 2%
+Unstake 0.00 WAVAX
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - USDC.e Price: $1.00 Market Cap: $1,443,238,167.06 
+Staked: 2008.2089 USDC.e ($2,008.21)
+CGS Per Week: 7728.68 ($7.59)
+APR: Day 0.05% Week 0.38% Year 19.65%
+You are staking 0.00 USDC.e ($0.00), 0.00% of the pool.
+Stake 0.00 USDC.e - Fee 2%
+Unstake 0.00 USDC.e
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - USDT.e Price: $1.00 Market Cap: $751,870,307.31 
+Staked: 3168.7924 USDT.e ($3,168.79)
+CGS Per Week: 7728.68 ($7.59)
+APR: Day 0.03% Week 0.24% Year 12.45%
+You are staking 0.00 USDT.e ($0.00), 0.00% of the pool.
+Stake 0.00 USDT.e - Fee 2%
+Unstake 0.00 USDT.e
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - WETH.e Price: $2,329.48 Market Cap: $1,019,664,236.49 
+Staked: 1.7304 WETH.e ($4,030.98)
+CGS Per Week: 7728.68 ($7.59)
+APR: Day 0.03% Week 0.19% Year 9.79%
+You are staking 0.00 WETH.e ($0.00), 0.00% of the pool.
+Stake 0.00 WETH.e - Fee 2%
+Unstake 0.00 WETH.e
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - WBTC.e Price: $35,806.00 Market Cap: $726,133,587.96 
+Staked: 0.0794 WBTC.e ($2,841.39)
+CGS Per Week: 5796.51 ($5.69)
+APR: Day 0.03% Week 0.20% Year 10.42%
+You are staking 0.00 WBTC.e ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC.e - Fee 2%
+Unstake 0.00 WBTC.e
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - JOE Price: $0.91 Market Cap: $258,244,541.98 
+Staked: 200.2209 JOE ($181.70)
+CGS Per Week: 5796.51 ($5.69)
+APR: Day 0.45% Week 3.13% Year 162.88%
+You are staking 0.00 JOE ($0.00), 0.00% of the pool.
+Stake 0.00 JOE - Fee 2%
+Unstake 0.00 JOE
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - TIME Price: $351.39 Market Cap: $461,175,797.91 
+Staked: 0.1496 TIME ($52.58)
+CGS Per Week: 5796.51 ($5.69)
+APR: Day 1.55% Week 10.82% Year 562.90%
+You are staking 0.00 TIME ($0.00), 0.00% of the pool.
+Stake 0.00 TIME - Fee 2%
+Unstake 0.00 TIME
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - MIM Price: $1.00 Market Cap: $724,195,636.86 
+Staked: 765.4020 MIM ($764.45)
+CGS Per Week: 5796.51 ($5.69)
+APR: Day 0.11% Week 0.74% Year 38.72%
+You are staking 0.00 MIM ($0.00), 0.00% of the pool.
+Stake 0.00 MIM - Fee 2%
+Unstake 0.00 MIM
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - SPELL Price: $0.00 Market Cap: $0.00 
+Staked: 196376.2032 SPELL ($0.00)
+CGS Per Week: 5796.51 ($5.69)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SPELL ($0.00), NaN% of the pool.
+Stake 0.00 SPELL - Fee 2%
+Unstake 0.00 SPELL
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - YAK Price: $1,442.62 Market Cap: $14,426,200.00 
+Staked: 0.0119 YAK ($17.10)
+CGS Per Week: 5796.51 ($5.69)
+APR: Day 4.76% Week 33.29% Year 1731.08%
+You are staking 0.00 YAK ($0.00), 0.00% of the pool.
+Stake 0.00 YAK - Fee 2%
+Unstake 0.00 YAK
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - QI Price: $0.05 Market Cap: $339,996,672.00 
+Staked: 2076.1780 QI ($98.04)
+CGS Per Week: 5796.51 ($5.69)
+APR: Day 0.83% Week 5.81% Year 301.88%
+You are staking 0.00 QI ($0.00), 0.00% of the pool.
+Stake 0.00 QI - Fee 2%
+Unstake 0.00 QI
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - BNB Price: $0.00 Market Cap: $0.00 
+Staked: 0.6212 BNB ($0.00)
+CGS Per Week: 5796.51 ($5.69)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BNB ($0.00), NaN% of the pool.
+Stake 0.00 BNB - Fee 2%
+Unstake 0.00 BNB
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - LINK.e Price: $14.59 Market Cap: $170,811,237.80 
+Staked: 7.1155 LINK.e ($103.82)
+CGS Per Week: 3864.34 ($3.79)
+APR: Day 0.52% Week 3.65% Year 190.06%
+You are staking 0.00 LINK.e ($0.00), 0.00% of the pool.
+Stake 0.00 LINK.e - Fee 2%
+Unstake 0.00 LINK.e
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - AAVE.e Price: $139.09 Market Cap: $26,296,027.62 
+Staked: 0.8410 AAVE.e ($116.97)
+CGS Per Week: 3864.34 ($3.79)
+APR: Day 0.46% Week 3.24% Year 168.68%
+You are staking 0.00 AAVE.e ($0.00), 0.00% of the pool.
+Stake 0.00 AAVE.e - Fee 2%
+Unstake 0.00 AAVE.e
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - PNG Price: $0.32 Market Cap: $172,111,580.00 
+Staked: 292.1019 PNG ($93.45)
+CGS Per Week: 3864.34 ($3.79)
+APR: Day 0.58% Week 4.06% Year 211.15%
+You are staking 0.00 PNG ($0.00), 0.00% of the pool.
+Stake 0.00 PNG - Fee 2%
+Unstake 0.00 PNG
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - SNOB Price: $0.24 Market Cap: $4,168,704.88 
+Staked: 459.1486 SNOB ($109.74)
+CGS Per Week: 3864.34 ($3.79)
+APR: Day 0.49% Week 3.46% Year 179.79%
+You are staking 0.00 SNOB ($0.00), 0.00% of the pool.
+Stake 0.00 SNOB - Fee 2%
+Unstake 0.00 SNOB
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - SYN Price: $1.99 Market Cap: $8,062,113.69 
+Staked: 84.1883 SYN ($167.53)
+CGS Per Week: 3864.34 ($3.79)
+APR: Day 0.32% Week 2.26% Year 117.77%
+You are staking 0.00 SYN ($0.00), 0.00% of the pool.
+Stake 0.00 SYN - Fee 2%
+Unstake 0.00 SYN
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - PEFI Price: $0.32 Market Cap: $6,685,667.80 
+Staked: 262.1393 PEFI ($84.30)
+CGS Per Week: 3864.34 ($3.79)
+APR: Day 0.64% Week 4.50% Year 234.06%
+You are staking 0.00 PEFI ($0.00), 0.00% of the pool.
+Stake 0.00 PEFI - Fee 2%
+Unstake 0.00 PEFI
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - BIFI Price: $0.00 Market Cap: $0.00 
+Staked: 0.0868 BIFI ($0.00)
+CGS Per Week: 3864.34 ($3.79)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BIFI ($0.00), NaN% of the pool.
+Stake 0.00 BIFI - Fee 2%
+Unstake 0.00 BIFI
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - XAVA Price: $6.03 Market Cap: $603,000,000.00 
+Staked: 22.3044 XAVA ($134.50)
+CGS Per Week: 3864.34 ($3.79)
+APR: Day 0.40% Week 2.82% Year 146.70%
+You are staking 0.00 XAVA ($0.00), 0.00% of the pool.
+Stake 0.00 XAVA - Fee 2%
+Unstake 0.00 XAVA
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+29 - OLIVE Price: $0.04 Market Cap: $401,644.87 
+Staked: 51527.6163 OLIVE ($2,061.93)
+CGS Per Week: 1932.17 ($1.90)
+APR: Day 0.01% Week 0.09% Year 4.78%
+You are staking 0.00 OLIVE ($0.00), 0.00% of the pool.
+Stake 0.00 OLIVE
+Unstake 0.00 OLIVE
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+30 - SMRTr Price: $0.00 Market Cap: $0.00 
+Staked: 416154999.6766 SMRTr ($0.00)
+CGS Per Week: 5796.51 ($5.69)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SMRTr ($0.00), NaN% of the pool.
+Stake 0.00 SMRTr - Fee 2%
+Unstake 0.00 SMRTr
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $35,717.62

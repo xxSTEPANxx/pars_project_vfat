@@ -1,0 +1,320 @@
+*************** 👨‍🌾 UNOFFICIAL DEFYSWAP FARMING CALCULATOR 👨‍🌾 ***************
+
+INFO : https://defyswap.finance
+FARM : https://defyswap.finance/farms
+TELEGRAM : https://t.me/defyswap
+TWITTER :  https://twitter.com/DefySwap
+
+DFY CONTRACT : 0x84b0b7718f8480A9eDa3133Fd385D7EDf2b1d1c4
+
+*****************************************************************************
+
+Fri Jan 28 2022 00:57:12 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 25 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - DFY Price: $0.37 Market Cap: $1,165,845.10 
+Staked: 226026.2109 DFY ($82,948.91)
+DFY Per Week: 2500.00 ($917.47)
+APR: Day 0.16% Week 1.11% Year 57.52%
+You are staking 0.00 DFY ($0.00), 0.00% of the pool.
+Stake 0.00 DFY
+Unstake 0.00 DFY
+Claim 0.00 DFY ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WFTM]-[DFY] Uni LP [+] [-] [<=>] Price: $1.76 TVL: $166,852.01
+WFTM Price: $2.04
+DFY Price: $0.37
+Staked: 40389.6836 DFY-LP ($70,981.72)
+DFY Per Week: 8750.00 ($3,211.15)
+APR: Day 0.65% Week 4.52% Year 235.24%
+You are staking 0.00 [WFTM]-[DFY] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[DFY] Uni LP
+Unstake 0.00 [WFTM]-[DFY] Uni LP
+Claim 0.00 DFY ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [USDC]-[DFY] Uni LP [+] [-] [<=>] Price: $1,219,695.15 TVL: $137,652.40
+USDC Price: $1.00
+DFY Price: $0.37
+Staked: 0.0459 DFY-LP ($55,990.87)
+DFY Per Week: 8750.00 ($3,211.15)
+APR: Day 0.82% Week 5.74% Year 298.23%
+You are staking 0.00 [USDC]-[DFY] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DFY] Uni LP
+Unstake 0.00 [USDC]-[DFY] Uni LP
+Claim 0.00 DFY ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WFTM]-[DEFY] Uni LP [+] [-] [<=>] Price: $2.17 TVL: $35,534.27
+WFTM Price: $2.04
+DEFY Price: $0.49
+Staked: 4757.9601 DFY-LP ($10,332.47)
+DFY Per Week: 2500.00 ($917.47)
+APR: Day 1.27% Week 8.88% Year 461.73%
+You are staking 0.00 [WFTM]-[DEFY] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[DEFY] Uni LP
+Unstake 0.00 [WFTM]-[DEFY] Uni LP
+Claim 0.00 DFY ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDC]-[DEFY] Uni LP [+] [-] [<=>] Price: $1,466,055.31 TVL: $30,469.35
+USDC Price: $1.00
+DEFY Price: $0.49
+Staked: 0.0087 DFY-LP ($12,701.12)
+DFY Per Week: 2500.00 ($917.47)
+APR: Day 1.03% Week 7.22% Year 375.62%
+You are staking 0.00 [USDC]-[DEFY] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DEFY] Uni LP
+Unstake 0.00 [USDC]-[DEFY] Uni LP
+Claim 0.00 DFY ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WFTM]-[BOO] Uni LP [+] [-] [<=>] Price: $14.38 TVL: $18,050.98
+WFTM Price: $2.04
+BOO Price: $25.32
+Staked: 1246.0347 DFY-LP ($17,917.05)
+DFY Per Week: 1875.00 ($688.10)
+APR: Day 0.55% Week 3.84% Year 199.71%
+You are staking 0.00 [WFTM]-[BOO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BOO] Uni LP
+Unstake 0.00 [WFTM]-[BOO] Uni LP
+Claim 0.00 DFY ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [WFTM]-[BNB] Uni LP [+] [-] [<=>] Price: $54.86 TVL: $49,798.46
+WFTM Price: $2.04
+BNB Price: $367.46
+Staked: 902.3993 DFY-LP ($49,504.77)
+DFY Per Week: 2500.00 ($917.47)
+APR: Day 0.26% Week 1.85% Year 96.37%
+You are staking 0.00 [WFTM]-[BNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BNB] Uni LP
+Unstake 0.00 [WFTM]-[BNB] Uni LP
+Claim 0.00 DFY ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [WFTM]-[BTC] Uni LP [+] [-] [<=>] Price: $54,610,035.24 TVL: $30,724.54
+WFTM Price: $2.04
+BTC Price: $36,392.00
+Staked: 0.0006 DFY-LP ($30,354.49)
+DFY Per Week: 1875.00 ($688.10)
+APR: Day 0.32% Week 2.27% Year 117.88%
+You are staking 0.00 [WFTM]-[BTC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BTC] Uni LP
+Unstake 0.00 [WFTM]-[BTC] Uni LP
+Claim 0.00 DFY ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [WFTM]-[bSLURP] Uni LP [+] [-] [<=>] Price: $4.53 TVL: $8,714.78
+WFTM Price: $2.04
+bSLURP Price: $0.0000000025
+Staked: 1910.3265 DFY-LP ($8,647.58)
+DFY Per Week: 625.00 ($229.37)
+APR: Day 0.38% Week 2.65% Year 137.92%
+You are staking 0.00 [WFTM]-[bSLURP] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[bSLURP] Uni LP
+Unstake 0.00 [WFTM]-[bSLURP] Uni LP
+Claim 0.00 DFY ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [WFTM]-[ICE] Uni LP [+] [-] [<=>] Price: $5.59 TVL: $30,639.88
+WFTM Price: $2.04
+ICE Price: $3.81
+Staked: 5242.6131 DFY-LP ($29,315.72)
+DFY Per Week: 2500.00 ($917.47)
+APR: Day 0.45% Week 3.13% Year 162.74%
+You are staking 0.00 [WFTM]-[ICE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ICE] Uni LP
+Unstake 0.00 [WFTM]-[ICE] Uni LP
+Claim 0.00 DFY ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [WFTM]-[MIM] Uni LP [+] [-] [<=>] Price: $2.88 TVL: $72,206.98
+WFTM Price: $2.04
+MIM Price: $1.01
+Staked: 24570.6278 DFY-LP ($70,710.07)
+DFY Per Week: 3125.00 ($1,146.84)
+APR: Day 0.23% Week 1.62% Year 84.34%
+You are staking 0.00 [WFTM]-[MIM] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[MIM] Uni LP
+Unstake 0.00 [WFTM]-[MIM] Uni LP
+Claim 0.00 DFY ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [WFTM]-[TOMB] Uni LP [+] [-] [<=>] Price: $4.06 TVL: $27,824.29
+WFTM Price: $2.04
+TOMB Price: $2.02
+Staked: 6829.7196 DFY-LP ($27,746.43)
+DFY Per Week: 1875.00 ($688.10)
+APR: Day 0.35% Week 2.48% Year 128.96%
+You are staking 0.00 [WFTM]-[TOMB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[TOMB] Uni LP
+Unstake 0.00 [WFTM]-[TOMB] Uni LP
+Claim 0.00 DFY ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [WFTM]-[SPELL] Uni LP [+] [-] [<=>] Price: $0.20 TVL: $20,126.55
+WFTM Price: $2.04
+SPELL Price: $0.005098
+Staked: 97486.6043 DFY-LP ($19,978.60)
+DFY Per Week: 1875.00 ($688.10)
+APR: Day 0.49% Week 3.44% Year 179.10%
+You are staking 0.00 [WFTM]-[SPELL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[SPELL] Uni LP
+Unstake 0.00 [WFTM]-[SPELL] Uni LP
+Claim 0.00 DFY ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [CRV]-[WFTM] Uni LP [+] [-] [<=>] Price: $4.78 TVL: $50,454.02
+CRV Price: $2.78
+WFTM Price: $2.04
+Staked: 10507.0629 DFY-LP ($50,190.06)
+DFY Per Week: 2500.00 ($917.47)
+APR: Day 0.26% Week 1.83% Year 95.06%
+You are staking 0.00 [CRV]-[WFTM] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CRV]-[WFTM] Uni LP
+Unstake 0.00 [CRV]-[WFTM] Uni LP
+Claim 0.00 DFY ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [WFTM]-[ETH] Uni LP [+] [-] [<=>] Price: $139.61 TVL: $93,433.36
+WFTM Price: $2.04
+ETH Price: $2,374.23
+Staked: 666.8441 DFY-LP ($93,097.71)
+DFY Per Week: 2500.00 ($917.47)
+APR: Day 0.14% Week 0.99% Year 51.25%
+You are staking 0.00 [WFTM]-[ETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ETH] Uni LP
+Unstake 0.00 [WFTM]-[ETH] Uni LP
+Claim 0.00 DFY ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [USDC]-[WFTM] Uni LP [+] [-] [<=>] Price: $2,887,542.50 TVL: $85,846.69
+USDC Price: $1.00
+WFTM Price: $2.04
+Staked: 0.0293 DFY-LP ($84,538.35)
+DFY Per Week: 3125.00 ($1,146.84)
+APR: Day 0.19% Week 1.36% Year 70.54%
+You are staking 0.00 [USDC]-[WFTM] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WFTM] Uni LP
+Unstake 0.00 [USDC]-[WFTM] Uni LP
+Claim 0.00 DFY ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [BTC]-[ETH] Uni LP [+] [-] [<=>] Price: $1,859,568,804.53 TVL: $141,288.74
+BTC Price: $36,392.00
+ETH Price: $2,374.23
+Staked: 0.0001 DFY-LP ($141,177.33)
+DFY Per Week: 1875.00 ($688.10)
+APR: Day 0.07% Week 0.49% Year 25.34%
+You are staking 0.00 [BTC]-[ETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTC]-[ETH] Uni LP
+Unstake 0.00 [BTC]-[ETH] Uni LP
+Claim 0.00 DFY ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [WFTM]-[SPIRIT] Uni LP [+] [-] [<=>] Price: $1.04 TVL: $13,636.87
+WFTM Price: $2.04
+SPIRIT Price: $0.13
+Staked: 12964.1635 DFY-LP ($13,489.80)
+DFY Per Week: 1875.00 ($688.10)
+APR: Day 0.73% Week 5.10% Year 265.25%
+You are staking 0.00 [WFTM]-[SPIRIT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[SPIRIT] Uni LP
+Unstake 0.00 [WFTM]-[SPIRIT] Uni LP
+Claim 0.00 DFY ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [fUSDT]-[MIM] Uni LP [+] [-] [<=>] Price: $2,021,124.46 TVL: $132,948.48
+fUSDT Price: $1.01
+MIM Price: $1.01
+Staked: 0.0652 DFY-LP ($131,828.74)
+DFY Per Week: 2500.00 ($917.47)
+APR: Day 0.10% Week 0.70% Year 36.19%
+You are staking 0.00 [fUSDT]-[MIM] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [fUSDT]-[MIM] Uni LP
+Unstake 0.00 [fUSDT]-[MIM] Uni LP
+Claim 0.00 DFY ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [USDC]-[DAI] Uni LP [+] [-] [<=>] Price: $2,000,540.95 TVL: $198,222.71
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.0988 DFY-LP ($197,576.19)
+DFY Per Week: 2500.00 ($917.47)
+APR: Day 0.07% Week 0.46% Year 24.15%
+You are staking 0.00 [USDC]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAI] Uni LP
+Unstake 0.00 [USDC]-[DAI] Uni LP
+Claim 0.00 DFY ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - [USDC]-[fUSDT] Uni LP [+] [-] [<=>] Price: $2,010,090,682,757.66 TVL: $201,980.53
+USDC Price: $1.00
+fUSDT Price: $1.01
+Staked: 0.0000 DFY-LP ($201,921.38)
+DFY Per Week: 2500.00 ($917.47)
+APR: Day 0.06% Week 0.45% Year 23.63%
+You are staking 0.00 [USDC]-[fUSDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[fUSDT] Uni LP
+Unstake 0.00 [USDC]-[fUSDT] Uni LP
+Claim 0.00 DFY ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - [SLURP]-[DFY] Uni LP [+] [-] [<=>] Price: $20.15 TVL: $89,810.15
+SLURP Price: $262.81
+DFY Price: $0.37
+Staked: 4404.6100 DFY-LP ($88,753.53)
+DFY Per Week: 3750.00 ($1,376.21)
+APR: Day 0.22% Week 1.55% Year 80.63%
+You are staking 0.00 [SLURP]-[DFY] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SLURP]-[DFY] Uni LP
+Unstake 0.00 [SLURP]-[DFY] Uni LP
+Claim 0.00 DFY ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - [WFTM]-[SMART] Uni LP [+] [-] [<=>] Price: $7.31 TVL: $3,096.17
+WFTM Price: $2.04
+SMART Price: $5.10
+Staked: 422.2248 DFY-LP ($3,086.97)
+DFY Per Week: 625.00 ($229.37)
+APR: Day 1.06% Week 7.43% Year 386.37%
+You are staking 0.00 [WFTM]-[SMART] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[SMART] Uni LP
+Unstake 0.00 [WFTM]-[SMART] Uni LP
+Claim 0.00 DFY ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [fLORY]-[WFTM] Uni LP [+] [-] [<=>] Price: $0.78 TVL: $8,173.16
+fLORY Price: $0.07
+WFTM Price: $2.04
+Staked: 10348.6563 DFY-LP ($8,056.57)
+DFY Per Week: 1250.00 ($458.74)
+APR: Day 0.81% Week 5.69% Year 296.08%
+You are staking 0.00 [fLORY]-[WFTM] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [fLORY]-[WFTM] Uni LP
+Unstake 0.00 [fLORY]-[WFTM] Uni LP
+Claim 0.00 DFY ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - [USDC]-[dKNIGHT] Uni LP [+] [-] [<=>] Price: $1,126,971.93 TVL: $41,338.91
+USDC Price: $1.00
+dKNIGHT Price: $0.32
+Staked: 0.0179 DFY-LP ($20,145.31)
+DFY Per Week: 3750.00 ($1,376.21)
+APR: Day 0.98% Week 6.83% Year 355.23%
+You are staking 0.00 [USDC]-[dKNIGHT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[dKNIGHT] Uni LP
+Unstake 0.00 [USDC]-[dKNIGHT] Uni LP
+Claim 0.00 DFY ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $1,520,991.75

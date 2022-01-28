@@ -1,0 +1,51 @@
+*************** 👨‍🌾 UNOFFICIAL INVERSE FINANCE CALCULATOR 👨‍🌾 ************
+INFO  : https://inverse.finance
+*************************************************************************
+
+Thu Jan 27 2022 19:32:30 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+DOLA-3CRV3CRV-f Price: $1.00 Market Cap: $10,003.57 
+Staked: 8879.3254 DOLA-3CRV3CRV-f ($8,894.28)
+INV Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 DOLA-3CRV3CRV-f $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 DOLA-3CRV3CRV-f
+Unstake 0.000000 DOLA-3CRV3CRV-f
+Claim 0.000000 INV ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[INV]-[WETH] Uni LP [+] [-] [<=>] Price: $5,284.79 TVL: $13,653.18
+INV Price: $400.14
+WETH Price: $2,463.78
+Staked: 1.2701 UNI-V2 ($6,712.06)
+INV Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [INV]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [INV]-[WETH] Uni LP
+Unstake 0.000000 [INV]-[WETH] Uni LP
+Claim 0.000000 INV ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[DOLA]-[WETH] Uni LP [+] [-] [<=>] Price: $113.69 TVL: $62,647.97
+DOLA Price: $0.99
+WETH Price: $2,463.78
+Staked: 533.6966 UNI-V2 ($60,674.55)
+INV Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [DOLA]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [DOLA]-[WETH] Uni LP
+Unstake 0.000000 [DOLA]-[WETH] Uni LP
+Claim 0.000000 INV ($0.00)
+Revoke (set approval to 0)
+Exit
+
+Total staked: $76,280.90

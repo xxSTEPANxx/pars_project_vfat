@@ -1,0 +1,181 @@
+*************** 👨‍🌾 UNOFFICIAL SUPERCUB FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://supercub.finance
+*********************************************************************************
+
+Fri Jan 28 2022 00:56:12 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 16 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [USDC]-[SCUB] SPOOKY LP [+] [-] [<=>] Price: $123,513.82 TVL: $0.49
+USDC Price: $1.00
+SCUB Price: $0.003653
+Staked: 0.0000 spLP ($0.47)
+SCUB Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDC]-[SCUB] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[SCUB] SPOOKY LP
+Unstake 0.00 [USDC]-[SCUB] SPOOKY LP
+Claim 0.00 SCUB ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WFTM]-[SCUB] SPOOKY LP [+] [-] [<=>] Price: $0.17 TVL: $126.65
+WFTM Price: $2.04
+SCUB Price: $0.003653
+Staked: 5.0210 spLP ($0.87)
+SCUB Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WFTM]-[SCUB] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[SCUB] SPOOKY LP
+Unstake 0.00 [WFTM]-[SCUB] SPOOKY LP
+Claim 0.00 SCUB ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [USDC]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $4,373,730.09 TVL: $168,362,891.30
+USDC Price: $1.00
+WFTM Price: $2.04
+Staked: 0.0000 spLP ($7.37)
+SCUB Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDC]-[WFTM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WFTM] SPOOKY LP - Fee 2.5%
+Unstake 0.00 [USDC]-[WFTM] SPOOKY LP
+Claim 0.00 SCUB ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDC]-[ETH] SPOOKY LP [+] [-] [<=>] Price: $1,296,335,409.71 TVL: $989.65
+USDC Price: $1.00
+ETH Price: $2,373.59
+Staked: 0.0000 spLP ($0.00)
+SCUB Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [USDC]-[ETH] SPOOKY LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[ETH] SPOOKY LP - Fee 2.5%
+Unstake 0.00 [USDC]-[ETH] SPOOKY LP
+Claim 0.00 SCUB ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDC]-[BTC] SPOOKY LP [+] [-] [<=>] Price: $39,367,133,102,228.03 TVL: $50.75
+USDC Price: $1.00
+BTC Price: $36,392.00
+Staked: 0.0000 spLP ($0.00)
+SCUB Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [USDC]-[BTC] SPOOKY LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[BTC] SPOOKY LP - Fee 2.5%
+Unstake 0.00 [USDC]-[BTC] SPOOKY LP
+Claim 0.00 SCUB ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [USDC]-[DAI] SPOOKY LP [+] [-] [<=>] Price: $1,773,751,427.27 TVL: $8,362,922.35
+USDC Price: $1.00
+DAI Price: $1.01
+Staked: 0.0000 spLP ($0.00)
+SCUB Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [USDC]-[DAI] SPOOKY LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[DAI] SPOOKY LP - Fee 2.5%
+Unstake 0.00 [USDC]-[DAI] SPOOKY LP
+Claim 0.00 SCUB ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [USDC]-[BOO] SPOOKY LP [+] [-] [<=>] Price: $193,133,783.68 TVL: $8,248.97
+USDC Price: $1.00
+BOO Price: $25.32
+Staked: 0.0000 spLP ($0.00)
+SCUB Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [USDC]-[BOO] SPOOKY LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[BOO] SPOOKY LP - Fee 2.5%
+Unstake 0.00 [USDC]-[BOO] SPOOKY LP
+Claim 0.00 SCUB ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [USDC]-[SPELL] SPOOKY LP [+] [-] [<=>] Price: $145,519.92 TVL: $637.36
+USDC Price: $1.00
+SPELL Price: $0.005116
+Staked: 0.0000 spLP ($0.00)
+SCUB Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [USDC]-[SPELL] SPOOKY LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[SPELL] SPOOKY LP - Fee 2.5%
+Unstake 0.00 [USDC]-[SPELL] SPOOKY LP
+Claim 0.00 SCUB ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - WFTM Price: $2.04 Market Cap: $1,472,812,681.42 
+Staked: 0.7800 WFTM ($1.59)
+SCUB Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WFTM ($0.00), 0.00% of the pool.
+Stake 0.00 WFTM - Fee 4.2%
+Unstake 0.00 WFTM
+Claim 0.00 SCUB ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - USDC Price: $1.00 Market Cap: $1,727,500,711.93 
+Staked: 0.0000 USDC ($0.00)
+SCUB Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 USDC ($0.00), NaN% of the pool.
+Stake 0.00 USDC - Fee 2.5%
+Unstake 0.00 USDC
+Claim 0.00 SCUB ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - ETH Price: $2,373.59 Market Cap: $1,132,389,092.70 
+Staked: 0.0004 ETH ($0.88)
+SCUB Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 2.5%
+Unstake 0.00 ETH
+Claim 0.00 SCUB ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - BTC Price: $36,392.00 Market Cap: $626,190,089.76 
+Staked: 0.0000 BTC ($0.00)
+SCUB Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BTC ($0.00), NaN% of the pool.
+Stake 0.00 BTC - Fee 2.5%
+Unstake 0.00 BTC
+Claim 0.00 SCUB ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - MIM Price: $1.00 Market Cap: $450,080,484.84 
+Staked: 0.9750 MIM ($0.97)
+SCUB Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 MIM ($0.00), 0.00% of the pool.
+Stake 0.00 MIM - Fee 2.5%
+Unstake 0.00 MIM
+Claim 0.00 SCUB ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - fUSDT Price: $1.01 Market Cap: $353,946,320.35 
+Staked: 0.0000 fUSDT ($0.00)
+SCUB Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 fUSDT ($0.00), NaN% of the pool.
+Stake 0.00 fUSDT - Fee 2.5%
+Unstake 0.00 fUSDT
+Claim 0.00 SCUB ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - DAI Price: $1.01 Market Cap: $711,512,155.93 
+Staked: 0.0000 DAI ($0.00)
+SCUB Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 DAI ($0.00), NaN% of the pool.
+Stake 0.00 DAI - Fee 2.5%
+Unstake 0.00 DAI
+Claim 0.00 SCUB ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $12.16

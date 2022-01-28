@@ -1,0 +1,233 @@
+*************** 👨‍🌾 UNOFFICIAL KAVIAN.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://fantom.kavian.finance
+***********************************************************************************
+
+Fri Jan 28 2022 00:46:12 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 20 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [USDC]-[fKAVIAN] SPOOKY LP [+] [-] [<=>] Price: $80,796.13 TVL: $344.94
+USDC Price: $1.00
+fKAVIAN Price: $0.001533
+Staked: 0.0007 spLP ($53.93)
+fKAVIAN Per Week: 7648.73 ($11.72)
+APR: Day 3.11% Week 21.74% Year 1130.47%
+You are staking 0.00 [USDC]-[fKAVIAN] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[fKAVIAN] SPOOKY LP
+Unstake 0.00 [USDC]-[fKAVIAN] SPOOKY LP
+Claim 0.00 fKAVIAN ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [fKAVIAN]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $0.12 TVL: $494.00
+fKAVIAN Price: $0.001533
+WFTM Price: $2.02
+Staked: 780.9166 spLP ($90.47)
+fKAVIAN Per Week: 7648.73 ($11.72)
+APR: Day 1.85% Week 12.96% Year 673.84%
+You are staking 0.00 [fKAVIAN]-[WFTM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [fKAVIAN]-[WFTM] SPOOKY LP
+Unstake 0.00 [fKAVIAN]-[WFTM] SPOOKY LP
+Claim 0.00 fKAVIAN ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WFTM]-[ETH] SPOOKY LP [+] [-] [<=>] Price: $155.62 TVL: $42,196,967.84
+WFTM Price: $2.02
+ETH Price: $2,322.13
+Staked: 0.1000 spLP ($15.56)
+fKAVIAN Per Week: 489.52 ($0.75)
+APR: Day 0.69% Week 4.82% Year 250.73%
+You are staking 0.00 [WFTM]-[ETH] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ETH] SPOOKY LP
+Unstake 0.00 [WFTM]-[ETH] SPOOKY LP - Fee 4%
+Claim 0.00 fKAVIAN ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDC]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $4,352,065.31 TVL: $167,538,597.62
+USDC Price: $1.00
+WFTM Price: $2.02
+Staked: 0.0000 spLP ($24.51)
+fKAVIAN Per Week: 489.52 ($0.75)
+APR: Day 0.44% Week 3.06% Year 159.18%
+You are staking 0.00 [USDC]-[WFTM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WFTM] SPOOKY LP
+Unstake 0.00 [USDC]-[WFTM] SPOOKY LP - Fee 4%
+Claim 0.00 fKAVIAN ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [WFTM]-[BOO] SPOOKY LP [+] [-] [<=>] Price: $14.92 TVL: $63,185,001.07
+WFTM Price: $2.02
+BOO Price: $25.21
+Staked: 32.3741 spLP ($482.88)
+fKAVIAN Per Week: 489.52 ($0.75)
+APR: Day 0.02% Week 0.16% Year 8.08%
+You are staking 0.00 [WFTM]-[BOO] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BOO] SPOOKY LP
+Unstake 0.00 [WFTM]-[BOO] SPOOKY LP - Fee 4%
+Claim 0.00 fKAVIAN ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WFTM]-[BTC] SPOOKY LP [+] [-] [<=>] Price: $11,245,278,583.22 TVL: $21,778,699.99
+WFTM Price: $2.02
+BTC Price: $35,903.00
+Staked: 0.0000 spLP ($22.60)
+fKAVIAN Per Week: 489.52 ($0.75)
+APR: Day 0.47% Week 3.32% Year 172.62%
+You are staking 0.00 [WFTM]-[BTC] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BTC] SPOOKY LP
+Unstake 0.00 [WFTM]-[BTC] SPOOKY LP - Fee 4%
+Claim 0.00 fKAVIAN ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [WFTM]-[DAI] SPOOKY LP [+] [-] [<=>] Price: $3.74 TVL: $43,636,088.40
+WFTM Price: $2.02
+DAI Price: $1.00
+Staked: 9.1000 spLP ($34.05)
+fKAVIAN Per Week: 489.52 ($0.75)
+APR: Day 0.31% Week 2.20% Year 114.59%
+You are staking 0.00 [WFTM]-[DAI] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[DAI] SPOOKY LP
+Unstake 0.00 [WFTM]-[DAI] SPOOKY LP - Fee 4%
+Claim 0.00 fKAVIAN ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [WFTM]-[SCREAM] SPOOKY LP [+] [-] [<=>] Price: $25.44 TVL: $16,665,488.04
+WFTM Price: $2.02
+SCREAM Price: $74.31
+Staked: 0.3009 spLP ($7.65)
+fKAVIAN Per Week: 489.52 ($0.75)
+APR: Day 1.40% Week 9.80% Year 509.81%
+You are staking 0.00 [WFTM]-[SCREAM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[SCREAM] SPOOKY LP
+Unstake 0.00 [WFTM]-[SCREAM] SPOOKY LP - Fee 4%
+Claim 0.00 fKAVIAN ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [fUSDT]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $3,774,707.88 TVL: $37,080,079.88
+fUSDT Price: $1.00
+WFTM Price: $2.02
+Staked: 0.0000 spLP ($22.78)
+fKAVIAN Per Week: 489.52 ($0.75)
+APR: Day 0.47% Week 3.29% Year 171.26%
+You are staking 0.00 [fUSDT]-[WFTM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [fUSDT]-[WFTM] SPOOKY LP
+Unstake 0.00 [fUSDT]-[WFTM] SPOOKY LP - Fee 4%
+Claim 0.00 fKAVIAN ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - fKAVIAN Price: $0.001533 Market Cap: $793.39 
+Staked: 156906.2784 fKAVIAN ($240.51)
+fKAVIAN Per Week: 7342.78 ($11.26)
+APR: Day 0.67% Week 4.68% Year 243.35%
+You are staking 0.00 fKAVIAN ($0.00), 0.00% of the pool.
+Stake 0.00 fKAVIAN
+Unstake 0.00 fKAVIAN
+Claim 0.00 fKAVIAN ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - BOO Price: $25.21 Market Cap: $212,699,554.05 
+Staked: 5.0853 BOO ($128.20)
+fKAVIAN Per Week: 465.04 ($0.71)
+APR: Day 0.08% Week 0.56% Year 28.91%
+You are staking 0.00 BOO ($0.00), 0.00% of the pool.
+Stake 0.00 BOO
+Unstake 0.00 BOO - Fee 4%
+Claim 0.00 fKAVIAN ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - WFTM Price: $2.02 Market Cap: $1,459,346,068.39 
+Staked: 97.4506 WFTM ($196.85)
+fKAVIAN Per Week: 465.04 ($0.71)
+APR: Day 0.05% Week 0.36% Year 18.83%
+You are staking 0.00 WFTM ($0.00), 0.00% of the pool.
+Stake 0.00 WFTM
+Unstake 0.00 WFTM - Fee 4%
+Claim 0.00 fKAVIAN ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - USDC Price: $1.00 Market Cap: $1,731,162,947.80 
+Staked: 6354.3926 USDC ($6,354.39)
+fKAVIAN Per Week: 465.04 ($0.71)
+APR: Day 0.00% Week 0.01% Year 0.58%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC
+Unstake 0.00 USDC - Fee 4%
+Claim 0.00 fKAVIAN ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - DAI Price: $1.00 Market Cap: $704,467,481.12 
+Staked: 25.0000 DAI ($25.00)
+fKAVIAN Per Week: 465.04 ($0.71)
+APR: Day 0.41% Week 2.85% Year 148.27%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI
+Unstake 0.00 DAI - Fee 4%
+Claim 0.00 fKAVIAN ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - ETH Price: $2,322.13 Market Cap: $1,107,891,836.25 
+Staked: 0.0319 ETH ($73.97)
+fKAVIAN Per Week: 465.04 ($0.71)
+APR: Day 0.14% Week 0.96% Year 50.11%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH
+Unstake 0.00 ETH - Fee 4%
+Claim 0.00 fKAVIAN ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - BTC Price: $35,903.00 Market Cap: $617,775,961.54 
+Staked: 0.0020 BTC ($71.65)
+fKAVIAN Per Week: 465.04 ($0.71)
+APR: Day 0.14% Week 0.99% Year 51.73%
+You are staking 0.00 BTC ($0.00), 0.00% of the pool.
+Stake 0.00 BTC
+Unstake 0.00 BTC - Fee 4%
+Claim 0.00 fKAVIAN ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - fUSDT Price: $1.00 Market Cap: $350,441,901.33 
+Staked: 200.0000 fUSDT ($200.00)
+fKAVIAN Per Week: 465.04 ($0.71)
+APR: Day 0.05% Week 0.36% Year 18.53%
+You are staking 0.00 fUSDT ($0.00), 0.00% of the pool.
+Stake 0.00 fUSDT
+Unstake 0.00 fUSDT - Fee 4%
+Claim 0.00 fKAVIAN ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - REAPER Price: $0.00 Market Cap: $0.00 
+Staked: 466.5778 REAPER ($0.00)
+fKAVIAN Per Week: 305.95 ($0.47)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 REAPER ($0.00), NaN% of the pool.
+Stake 0.00 REAPER
+Unstake 0.00 REAPER - Fee 1%
+Claim 0.00 fKAVIAN ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - GRIM Price: $0.005787 Market Cap: $57,867.70 
+Staked: 317.6868 GRIM ($1.84)
+fKAVIAN Per Week: 305.95 ($0.47)
+APR: Day 3.64% Week 25.51% Year 1326.51%
+You are staking 0.00 GRIM ($0.00), 0.00% of the pool.
+Stake 0.00 GRIM
+Unstake 0.00 GRIM - Fee 1%
+Claim 0.00 fKAVIAN ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - SAPPHIRE Price: $0.00 Market Cap: $0.00 
+Staked: 34.2440 SAPPHIRE ($0.00)
+fKAVIAN Per Week: 305.95 ($0.47)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SAPPHIRE ($0.00), NaN% of the pool.
+Stake 0.00 SAPPHIRE
+Unstake 0.00 SAPPHIRE - Fee 1%
+Claim 0.00 fKAVIAN ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $8,046.86

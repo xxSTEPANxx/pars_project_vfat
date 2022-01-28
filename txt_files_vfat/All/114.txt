@@ -1,0 +1,39 @@
+*************** 👨‍🌾 UNOFFICIAL FUSE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://fuse.io
+*************************************************************************
+
+Thu Jan 27 2022 19:58:09 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+[FUSE]-[USDC] Uni LP [+] [-] [<=>] Price: $1,948,867.36 TVL: $5,042.05
+FUSE Price: $0.81
+USDC Price: $1.00
+Staked: 0.0002 UNI-V2 ($353.38)
+FUSE Per Week: 41666.67 ($33,742.42)
+APR: Day 1364.06% Week 9548.43% Year 496518.12%
+You are staking 0.000000 [FUSE]-[USDC] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [FUSE]-[USDC] Uni LP
+Unstake 0.000000 [FUSE]-[USDC] Uni LP
+Claim 0.000000 FUSE ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[FUSE]-[WETH] Uni LP [+] [-] [<=>] Price: $124.97 TVL: $2,936,373.03
+FUSE Price: $0.81
+WETH Price: $2,483.63
+Staked: 444.4736 UNI-V2 ($55,545.66)
+FUSE Per Week: 41666.67 ($33,742.42)
+APR: Day 8.68% Week 60.75% Year 3158.85%
+You are staking 0.000000 [FUSE]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [FUSE]-[WETH] Uni LP
+Unstake 0.000000 [FUSE]-[WETH] Uni LP
+Claim 0.000000 FUSE ($0.00)
+Revoke (set approval to 0)
+Exit
+
+Total staked: $55,899.04

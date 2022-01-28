@@ -6,193 +6,20 @@ INFO  : https://melonfinance.cc
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Thu Dec 16 2021 06:12:20 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 23:58:26 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
+Staking Contract
 Found 17 pools.
 Showing incentivized pools only.
-Finished reading smart contracts.
-0 - [MELON]-[USDC] Uni LP [+] [-] [<=>] Price: $25,250.69 TVL: $0.08
-MELON Price: $0.000154
-USDC Price: $1.00
-Staked: 0.0000 UNI-V2 ($0.08)
-MELON Per Week: 248.28 ($0.04)
-APR: Day 6.86% Week 48.01% Year 2496.37%
-You are staking 0.00 [MELON]-[USDC] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [MELON]-[USDC] Uni LP
-Unstake 0.00 [MELON]-[USDC] Uni LP
-Claim 0.00 MELON ($0.00)
-Staking or unstaking also claims rewards.
-
-1 - [WMATIC]-[MELON] Uni LP [+] [-] [<=>] Price: $0.04 TVL: $0.07
-WMATIC Price: $2.14
-MELON Price: $0.000154
-Staked: 1.9876 UNI-V2 ($0.07)
-MELON Per Week: 248.28 ($0.04)
-APR: Day 7.42% Week 51.97% Year 2702.60%
-You are staking 0.00 [WMATIC]-[MELON] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[MELON] Uni LP
-Unstake 0.00 [WMATIC]-[MELON] Uni LP
-Claim 0.00 MELON ($0.00)
-Staking or unstaking also claims rewards.
-
-2 - [MELON]-[WETH] Uni LP [+] [-] [<=>] Price: $46,576.67 TVL: $0.00
-MELON Price: $0.000154
-WETH Price: $4,040.13
-Staked: 0.0000 UNI-V2 ($0.00)
-MELON Per Week: 248.28 ($0.04)
-APR: Day Infinity% Week Infinity% Year Infinity%
-You are staking 0.00 [MELON]-[WETH] Uni LP ($0.00), NaN% of the pool.
-Stake 0.00 [MELON]-[WETH] Uni LP
-Unstake 0.00 [MELON]-[WETH] Uni LP
-Claim 0.00 MELON ($0.00)
-Staking or unstaking also claims rewards.
-
-3 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,859,151.44 TVL: $52,197,312.75
-WMATIC Price: $2.14
-USDC Price: $1.00
-Staked: 0.0000 UNI-V2 ($0.01)
-MELON Per Week: 148.97 ($0.02)
-APR: Day 29.23% Week 204.58% Year 10638.25%
-You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
-Unstake 0.00 [WMATIC]-[USDC] Uni LP
-Claim 0.00 MELON ($0.00)
-Staking or unstaking also claims rewards.
-
-4 - [USDC]-[WETH] Uni LP [+] [-] [<=>] Price: $188,030,451.43 TVL: $79,045,023.40
-USDC Price: $1.00
-WETH Price: $4,040.13
-Staked: 0.0000 UNI-V2 ($0.00)
-MELON Per Week: 148.97 ($0.02)
-APR: Day 1744346160.12% Week 12210423120.87% Year 634942002285.34%
-You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
-Unstake 0.00 [USDC]-[WETH] Uni LP
-Claim 0.00 MELON ($0.00)
-Staking or unstaking also claims rewards.
-
-5 - MELON Price: $0.000154 Market Cap: $0.45 [%]
-Staked: 930.0550 MELON ($0.14)
-MELON Per Week: 198.62 ($0.03)
-APR: Day 3.05% Week 21.36% Year 1110.50%
-You are staking 0.00 MELON ($0.00), 0.00% of the pool.
-Stake 0.00 MELON
-Unstake 0.00 MELON
-Claim 0.00 MELON ($0.00)
-Staking or unstaking also claims rewards.
-
-6 - WMATIC Price: $2.14 Market Cap: $651,093,695.57 [%]
-Staked: 0.1344 WMATIC ($0.29)
-MELON Per Week: 148.97 ($0.02)
-APR: Day 1.14% Week 7.98% Year 415.10%
-You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
-Stake 0.00 WMATIC - Fee 4%
-Unstake 0.00 WMATIC
-Claim 0.00 MELON ($0.00)
-Staking or unstaking also claims rewards.
-
-7 - PolyDoge Price: $0.0000000240 Market Cap: $24,031,000.00 [%]
-Staked: 27904349.6687 PolyDoge ($0.67)
-MELON Per Week: 148.97 ($0.02)
-APR: Day 0.49% Week 3.42% Year 178.04%
-You are staking 0.00 PolyDoge ($0.00), 0.00% of the pool.
-Stake 0.00 PolyDoge - Fee 4%
-Unstake 0.00 PolyDoge
-Claim 0.00 MELON ($0.00)
-Staking or unstaking also claims rewards.
-
-8 - WETH Price: $4,040.13 Market Cap: $1,793,319,352.36 [%]
-Staked: 0.0002 WETH ($0.78)
-MELON Per Week: 148.97 ($0.02)
-APR: Day 0.42% Week 2.96% Year 153.91%
-You are staking 0.00 WETH ($0.00), 0.00% of the pool.
-Stake 0.00 WETH - Fee 4%
-Unstake 0.00 WETH
-Claim 0.00 MELON ($0.00)
-Staking or unstaking also claims rewards.
-
-9 - WBTC Price: $49,076.00 Market Cap: $497,821,132.58 [%]
-Staked: 0.0000 WBTC ($0.00)
-MELON Per Week: 148.97 ($0.02)
-APR: Day Infinity% Week Infinity% Year Infinity%
-You are staking 0.00 WBTC ($0.00), NaN% of the pool.
-Stake 0.00 WBTC - Fee 4%
-Unstake 0.00 WBTC
-Claim 0.00 MELON ($0.00)
-Staking or unstaking also claims rewards.
-
-10 - AAVE Price: $175.75 Market Cap: $47,842,552.27 [%]
-Staked: 0.0000 AAVE ($0.00)
-MELON Per Week: 148.97 ($0.02)
-APR: Day Infinity% Week Infinity% Year Infinity%
-You are staking 0.00 AAVE ($0.00), NaN% of the pool.
-Stake 0.00 AAVE - Fee 4%
-Unstake 0.00 AAVE
-Claim 0.00 MELON ($0.00)
-Staking or unstaking also claims rewards.
-
-11 - QUICK Price: $251.30 Market Cap: $240,124,206.32 [%]
-Staked: 0.0000 QUICK ($0.00)
-MELON Per Week: 148.97 ($0.02)
-APR: Day Infinity% Week Infinity% Year Infinity%
-You are staking 0.00 QUICK ($0.00), NaN% of the pool.
-Stake 0.00 QUICK - Fee 4%
-Unstake 0.00 QUICK
-Claim 0.00 MELON ($0.00)
-Staking or unstaking also claims rewards.
-
-12 - FISH Price: $0.00 Market Cap: $0.00 
-Staked: 0.0000 FISH ($0.00)
-MELON Per Week: 148.97 ($0.02)
-APR: Day NaN% Week NaN% Year NaN%
-You are staking 0.00 FISH ($0.00), NaN% of the pool.
-Stake 0.00 FISH - Fee 4%
-Unstake 0.00 FISH
-Claim 0.00 MELON ($0.00)
-Staking or unstaking also claims rewards.
-
-13 - LINK Price: $20.00 Market Cap: $34,688,064.01 [%]
-Staked: 0.0006 LINK ($0.01)
-MELON Per Week: 148.97 ($0.02)
-APR: Day 27.33% Week 191.33% Year 9949.04%
-You are staking 0.00 LINK ($0.00), 0.00% of the pool.
-Stake 0.00 LINK - Fee 4%
-Unstake 0.00 LINK
-Claim 0.00 MELON ($0.00)
-Staking or unstaking also claims rewards.
-
-14 - USDC Price: $1.00 Market Cap: $943,538,799.91 [%]
-Staked: 0.0000 USDC ($0.00)
-MELON Per Week: 148.97 ($0.02)
-APR: Day Infinity% Week Infinity% Year Infinity%
-You are staking 0.00 USDC ($0.00), NaN% of the pool.
-Stake 0.00 USDC - Fee 4%
-Unstake 0.00 USDC
-Claim 0.00 MELON ($0.00)
-Staking or unstaking also claims rewards.
-
-15 - DAI Price: $1.00 Market Cap: $374,131,149.78 [%]
-Staked: 4.4025 DAI ($4.40)
-MELON Per Week: 148.97 ($0.02)
-APR: Day 0.07% Week 0.52% Year 27.12%
-You are staking 0.00 DAI ($0.00), 0.00% of the pool.
-Stake 0.00 DAI - Fee 4%
-Unstake 0.00 DAI
-Claim 0.00 MELON ($0.00)
-Staking or unstaking also claims rewards.
-
-16 - USDT Price: $1.00 Market Cap: $313,461,279.68 [%]
-Staked: 0.0000 USDT ($0.00)
-MELON Per Week: 148.97 ($0.02)
-APR: Day Infinity% Week Infinity% Year Infinity%
-You are staking 0.00 USDT ($0.00), NaN% of the pool.
-Stake 0.00 USDT - Fee 4%
-Unstake 0.00 USDT
-Claim 0.00 MELON ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $6.46
+{
+  "code": -32603,
+  "message": "Non-200 status code: '400'",
+  "data": {
+    "error": "Unable to verify your data submission."
+  }
+}
+Oops something went wrong. Try refreshing the page.

@@ -1,0 +1,625 @@
+*************** 👨‍🌾 UNOFFICIAL SMURF FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://home.babyswap.finance
+**************************************************************************
+
+Thu Jan 27 2022 21:36:55 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 153 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - BABY Price: $0.00 Market Cap: $0.00 
+Staked: 64951779.9927 BABY ($0.00)
+BABY Per Week: 804575.57 ($280,972.27)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BABY ($0.00), NaN% of the pool.
+Stake 0.00 BABY
+Unstake 0.00 BABY
+Claim 0.00 BABY ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [Cake]-[USDT] Uni LP [+] [-] [<=>] Price: $7.94 TVL: $1,728,595.09
+Cake Price: $6.98
+USDT Price: $1.00
+Staked: 217626.6898 Baby-LP ($1,727,599.01)
+BABY Per Week: 43786.43 ($15,291.01)
+APR: Day 0.13% Week 0.89% Year 46.03%
+You are staking 0.00 [Cake]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[USDT] Uni LP
+Unstake 0.00 [Cake]-[USDT] Uni LP
+Claim 0.00 BABY ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [USDT]-[WBNB] Uni LP [+] [-] [<=>] Price: $52.65 TVL: $11,212,631.83
+USDT Price: $1.00
+WBNB Price: $368.50
+Staked: 212885.3234 Baby-LP ($11,208,282.81)
+BABY Per Week: 109466.06 ($38,227.52)
+APR: Day 0.05% Week 0.34% Year 17.74%
+You are staking 0.00 [USDT]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WBNB] Uni LP
+Unstake 0.00 [USDT]-[WBNB] Uni LP
+Claim 0.00 BABY ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDT]-[BUSD] Uni LP [+] [-] [<=>] Price: $2.24 TVL: $16,668,656.94
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 7448110.9208 Baby-LP ($16,667,338.90)
+BABY Per Week: 54733.03 ($19,113.76)
+APR: Day 0.02% Week 0.11% Year 5.96%
+You are staking 0.00 [USDT]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Uni LP
+Unstake 0.00 [USDT]-[BUSD] Uni LP
+Claim 0.00 BABY ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [USDT]-[BTCB] Uni LP [+] [-] [<=>] Price: $463.08 TVL: $5,411,015.91
+USDT Price: $1.00
+BTCB Price: $36,105.00
+Staked: 11684.3742 Baby-LP ($5,410,772.09)
+BABY Per Week: 43786.43 ($15,291.01)
+APR: Day 0.04% Week 0.28% Year 14.70%
+You are staking 0.00 [USDT]-[BTCB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BTCB] Uni LP
+Unstake 0.00 [USDT]-[BTCB] Uni LP
+Claim 0.00 BABY ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [ETH]-[USDT] Uni LP [+] [-] [<=>] Price: $121.08 TVL: $8,044,596.62
+ETH Price: $2,411.10
+USDT Price: $1.00
+Staked: 66432.3687 Baby-LP ($8,043,713.04)
+BABY Per Week: 43786.43 ($15,291.01)
+APR: Day 0.03% Week 0.19% Year 9.89%
+You are staking 0.00 [ETH]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[USDT] Uni LP
+Unstake 0.00 [ETH]-[USDT] Uni LP
+Claim 0.00 BABY ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [USDT]-[DOGE] Uni LP [+] [-] [<=>] Price: $104,695.91 TVL: $3,238,086.06
+USDT Price: $1.00
+DOGE Price: $0.14
+Staked: 30.9266 Baby-LP ($3,237,893.45)
+BABY Per Week: 27366.52 ($9,556.88)
+APR: Day 0.04% Week 0.30% Year 15.35%
+You are staking 0.00 [USDT]-[DOGE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[DOGE] Uni LP
+Unstake 0.00 [USDT]-[DOGE] Uni LP
+Claim 0.00 BABY ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [ADA]-[USDT] Uni LP [+] [-] [<=>] Price: $2.81 TVL: $2,452,724.38
+ADA Price: $1.03
+USDT Price: $1.00
+Staked: 871899.8969 Baby-LP ($2,451,610.27)
+BABY Per Week: 27366.52 ($9,556.88)
+APR: Day 0.06% Week 0.39% Year 20.27%
+You are staking 0.00 [ADA]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[USDT] Uni LP
+Unstake 0.00 [ADA]-[USDT] Uni LP
+Claim 0.00 BABY ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [XRP]-[USDT] Uni LP [+] [-] [<=>] Price: $2.12 TVL: $2,361,833.04
+XRP Price: $0.60
+USDT Price: $1.00
+Staked: 1116545.0072 Baby-LP ($2,361,769.55)
+BABY Per Week: 27366.52 ($9,556.88)
+APR: Day 0.06% Week 0.40% Year 21.04%
+You are staking 0.00 [XRP]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [XRP]-[USDT] Uni LP
+Unstake 0.00 [XRP]-[USDT] Uni LP
+Claim 0.00 BABY ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [USDT]-[DOT] Uni LP [+] [-] [<=>] Price: $11.37 TVL: $2,108,893.90
+USDT Price: $1.00
+DOT Price: $17.94
+Staked: 184121.7928 Baby-LP ($2,093,255.67)
+BABY Per Week: 21893.21 ($7,645.50)
+APR: Day 0.05% Week 0.37% Year 18.99%
+You are staking 0.00 [USDT]-[DOT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[DOT] Uni LP
+Unstake 0.00 [USDT]-[DOT] Uni LP
+Claim 0.00 BABY ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [FIL]-[USDT] Uni LP [+] [-] [<=>] Price: $11.73 TVL: $1,848,116.51
+FIL Price: $18.91
+USDT Price: $1.00
+Staked: 157485.4254 Baby-LP ($1,847,929.14)
+BABY Per Week: 21893.21 ($7,645.50)
+APR: Day 0.06% Week 0.41% Year 21.51%
+You are staking 0.00 [FIL]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FIL]-[USDT] Uni LP
+Unstake 0.00 [FIL]-[USDT] Uni LP
+Claim 0.00 BABY ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [USDT]-[USDC] Uni LP [+] [-] [<=>] Price: $2.15 TVL: $6,071,268.34
+USDT Price: $1.00
+USDC Price: $0.97
+Staked: 2818683.4814 Baby-LP ($6,071,264.43)
+BABY Per Week: 21893.21 ($7,645.50)
+APR: Day 0.02% Week 0.13% Year 6.55%
+You are staking 0.00 [USDT]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[USDC] Uni LP
+Unstake 0.00 [USDT]-[USDC] Uni LP
+Claim 0.00 BABY ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [DAI]-[USDT] Uni LP [+] [-] [<=>] Price: $2.19 TVL: $5,644,844.21
+DAI Price: $1.00
+USDT Price: $1.00
+Staked: 2576504.0172 Baby-LP ($5,644,664.58)
+BABY Per Week: 21893.21 ($7,645.50)
+APR: Day 0.02% Week 0.14% Year 7.04%
+You are staking 0.00 [DAI]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[USDT] Uni LP
+Unstake 0.00 [DAI]-[USDT] Uni LP
+Claim 0.00 BABY ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [SHIB]-[USDT] Uni LP [+] [-] [<=>] Price: $0.02 TVL: $1,181,930.03
+SHIB Price: $0.0000209089
+USDT Price: $1.00
+Staked: 75782848.8836 Baby-LP ($1,180,376.66)
+BABY Per Week: 21893.21 ($7,645.50)
+APR: Day 0.09% Week 0.65% Year 33.68%
+You are staking 0.00 [SHIB]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SHIB]-[USDT] Uni LP
+Unstake 0.00 [SHIB]-[USDT] Uni LP
+Claim 0.00 BABY ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [USDT]-[MATIC] Uni LP [+] [-] [<=>] Price: $3.65 TVL: $1,695,849.63
+USDT Price: $1.00
+MATIC Price: $1.60
+Staked: 463633.3335 Baby-LP ($1,693,516.90)
+BABY Per Week: 16419.91 ($5,734.13)
+APR: Day 0.05% Week 0.34% Year 17.61%
+You are staking 0.00 [USDT]-[MATIC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[MATIC] Uni LP
+Unstake 0.00 [USDT]-[MATIC] Uni LP
+Claim 0.00 BABY ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [USDT]-[LINK] Uni LP [+] [-] [<=>] Price: $10.69 TVL: $1,569,859.30
+USDT Price: $1.00
+LINK Price: $15.07
+Staked: 146870.5859 Baby-LP ($1,569,843.89)
+BABY Per Week: 16419.91 ($5,734.13)
+APR: Day 0.05% Week 0.37% Year 18.99%
+You are staking 0.00 [USDT]-[LINK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[LINK] Uni LP
+Unstake 0.00 [USDT]-[LINK] Uni LP
+Claim 0.00 BABY ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [XLM]-[USDT] Uni LP [+] [-] [<=>] Price: $1.36 TVL: $919,328.50
+XLM Price: $0.19
+USDT Price: $1.00
+Staked: 676747.6813 Baby-LP ($919,167.68)
+BABY Per Week: 16419.91 ($5,734.13)
+APR: Day 0.09% Week 0.62% Year 32.44%
+You are staking 0.00 [XLM]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [XLM]-[USDT] Uni LP
+Unstake 0.00 [XLM]-[USDT] Uni LP
+Claim 0.00 BABY ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - [ETC]-[USDT] Uni LP [+] [-] [<=>] Price: $14.76 TVL: $800,715.63
+ETC Price: $24.45
+USDT Price: $1.00
+Staked: 54254.2613 Baby-LP ($800,682.94)
+BABY Per Week: 16419.91 ($5,734.13)
+APR: Day 0.10% Week 0.72% Year 37.24%
+You are staking 0.00 [ETC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETC]-[USDT] Uni LP
+Unstake 0.00 [ETC]-[USDT] Uni LP
+Claim 0.00 BABY ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - [USDT]-[EOS] Uni LP [+] [-] [<=>] Price: $3.88 TVL: $1,941,176.31
+USDT Price: $1.00
+EOS Price: $2.20
+Staked: 500512.2591 Baby-LP ($1,941,139.73)
+BABY Per Week: 16419.91 ($5,734.13)
+APR: Day 0.04% Week 0.30% Year 15.36%
+You are staking 0.00 [USDT]-[EOS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[EOS] Uni LP
+Unstake 0.00 [USDT]-[EOS] Uni LP
+Claim 0.00 BABY ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - [USDT]-[AAVE] Uni LP [+] [-] [<=>] Price: $34.36 TVL: $1,221,179.68
+USDT Price: $1.00
+AAVE Price: $145.83
+Staked: 35536.5814 Baby-LP ($1,221,110.72)
+BABY Per Week: 16419.91 ($5,734.13)
+APR: Day 0.07% Week 0.47% Year 24.42%
+You are staking 0.00 [USDT]-[AAVE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[AAVE] Uni LP
+Unstake 0.00 [USDT]-[AAVE] Uni LP
+Claim 0.00 BABY ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [KSM]-[USDT] Uni LP [+] [-] [<=>] Price: $39.35 TVL: $640,532.56
+KSM Price: $164.19
+USDT Price: $1.00
+Staked: 16277.5847 Baby-LP ($640,490.32)
+BABY Per Week: 16419.91 ($5,734.13)
+APR: Day 0.13% Week 0.90% Year 46.55%
+You are staking 0.00 [KSM]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KSM]-[USDT] Uni LP
+Unstake 0.00 [KSM]-[USDT] Uni LP
+Claim 0.00 BABY ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - [AVAX]-[USDT] Uni LP [+] [-] [<=>] Price: $18.43 TVL: $2,060,374.90
+AVAX Price: $64.43
+USDT Price: $1.00
+Staked: 111817.5242 Baby-LP ($2,060,245.58)
+BABY Per Week: 27366.52 ($9,556.88)
+APR: Day 0.07% Week 0.46% Year 24.12%
+You are staking 0.00 [AVAX]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AVAX]-[USDT] Uni LP
+Unstake 0.00 [AVAX]-[USDT] Uni LP
+Claim 0.00 BABY ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - [NEAR]-[USDT] Uni LP [+] [-] [<=>] Price: $10.28 TVL: $960,661.10
+NEAR Price: $11.07
+USDT Price: $1.00
+Staked: 93408.2109 Baby-LP ($960,235.15)
+BABY Per Week: 21893.21 ($7,645.50)
+APR: Day 0.11% Week 0.80% Year 41.40%
+You are staking 0.00 [NEAR]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [NEAR]-[USDT] Uni LP
+Unstake 0.00 [NEAR]-[USDT] Uni LP
+Claim 0.00 BABY ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - [1INCH]-[USDT] Uni LP [+] [-] [<=>] Price: $4.18 TVL: $2,064,329.48
+1INCH Price: $1.60
+USDT Price: $1.00
+Staked: 493817.7930 Baby-LP ($2,064,248.14)
+BABY Per Week: 21893.21 ($7,645.50)
+APR: Day 0.05% Week 0.37% Year 19.26%
+You are staking 0.00 [1INCH]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [1INCH]-[USDT] Uni LP
+Unstake 0.00 [1INCH]-[USDT] Uni LP
+Claim 0.00 BABY ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - [BABY]-[USDT] Uni LP [+] [-] [<=>] Price: $3.64 TVL: $6,889,348.52
+BABY Price: $0.35
+USDT Price: $1.00
+Staked: 1808881.8704 Baby-LP ($6,590,364.65)
+BABY Per Week: 328398.19 ($114,682.56)
+APR: Day 0.25% Week 1.74% Year 90.49%
+You are staking 0.00 [BABY]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BABY]-[USDT] Uni LP
+Unstake 0.00 [BABY]-[USDT] Uni LP
+Claim 0.00 BABY ($0.00)
+Staking or unstaking also claims rewards.
+
+39 - [USDT]-[ONT] Uni LP [+] [-] [<=>] Price: $1.86 TVL: $968,761.59
+USDT Price: $1.00
+ONT Price: $0.46
+Staked: 519533.7051 Baby-LP ($968,666.62)
+BABY Per Week: 16419.91 ($5,734.13)
+APR: Day 0.08% Week 0.59% Year 30.78%
+You are staking 0.00 [USDT]-[ONT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[ONT] Uni LP
+Unstake 0.00 [USDT]-[ONT] Uni LP
+Claim 0.00 BABY ($0.00)
+Staking or unstaking also claims rewards.
+
+45 - [USDT]-[AXS] Uni LP [+] [-] [<=>] Price: $22.03 TVL: $710,523.29
+USDT Price: $1.00
+AXS Price: $46.98
+Staked: 32133.4981 Baby-LP ($708,030.22)
+BABY Per Week: 27366.52 ($9,556.88)
+APR: Day 0.19% Week 1.35% Year 70.19%
+You are staking 0.00 [USDT]-[AXS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[AXS] Uni LP
+Unstake 0.00 [USDT]-[AXS] Uni LP
+Claim 0.00 BABY ($0.00)
+Staking or unstaking also claims rewards.
+
+47 - [BABY]-[WBNB] Uni LP [+] [-] [<=>] Price: $29.25 TVL: $2,833,969.16
+BABY Price: $0.35
+WBNB Price: $368.50
+Staked: 96476.9826 Baby-LP ($2,822,261.42)
+BABY Per Week: 164199.10 ($57,341.28)
+APR: Day 0.29% Week 2.03% Year 105.65%
+You are staking 0.00 [BABY]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BABY]-[WBNB] Uni LP
+Unstake 0.00 [BABY]-[WBNB] Uni LP
+Claim 0.00 BABY ($0.00)
+Staking or unstaking also claims rewards.
+
+95 - [USDT]-[DSG] Uni LP [+] [-] [<=>] Price: $0.51 TVL: $67,477.65
+USDT Price: $1.00
+DSG Price: $0.05
+Staked: 131151.0730 Baby-LP ($67,477.00)
+BABY Per Week: 5473.30 ($1,911.38)
+APR: Day 0.40% Week 2.83% Year 147.30%
+You are staking 0.00 [USDT]-[DSG] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[DSG] Uni LP
+Unstake 0.00 [USDT]-[DSG] Uni LP
+Claim 0.00 BABY ($0.00)
+Staking or unstaking also claims rewards.
+
+99 - [USDT]-[SOL] Uni LP [+] [-] [<=>] Price: $20.98 TVL: $1,699,045.62
+USDT Price: $1.00
+SOL Price: $90.16
+Staked: 80970.5267 Baby-LP ($1,698,731.77)
+BABY Per Week: 27366.52 ($9,556.88)
+APR: Day 0.08% Week 0.56% Year 29.25%
+You are staking 0.00 [USDT]-[SOL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[SOL] Uni LP
+Unstake 0.00 [USDT]-[SOL] Uni LP
+Claim 0.00 BABY ($0.00)
+Staking or unstaking also claims rewards.
+
+102 - [USDT]-[FTM] Uni LP [+] [-] [<=>] Price: $3.34 TVL: $1,012,144.05
+USDT Price: $1.00
+FTM Price: $2.11
+Staked: 303026.2102 Baby-LP ($1,011,300.57)
+BABY Per Week: 27366.52 ($9,556.88)
+APR: Day 0.14% Week 0.95% Year 49.14%
+You are staking 0.00 [USDT]-[FTM] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[FTM] Uni LP
+Unstake 0.00 [USDT]-[FTM] Uni LP
+Claim 0.00 BABY ($0.00)
+Staking or unstaking also claims rewards.
+
+103 - [USDT]-[IOTA] Uni LP [+] [-] [<=>] Price: $2,017,595.68 TVL: $747,281.36
+USDT Price: $1.00
+IOTA Price: $0.80
+Staked: 0.3704 Baby-LP ($747,261.41)
+BABY Per Week: 16419.91 ($5,734.13)
+APR: Day 0.11% Week 0.77% Year 39.90%
+You are staking 0.00 [USDT]-[IOTA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[IOTA] Uni LP
+Unstake 0.00 [USDT]-[IOTA] Uni LP
+Claim 0.00 BABY ($0.00)
+Staking or unstaking also claims rewards.
+
+104 - [ATOM]-[USDT] Uni LP [+] [-] [<=>] Price: $12.56 TVL: $1,080,100.55
+ATOM Price: $30.74
+USDT Price: $1.00
+Staked: 86008.1238 Baby-LP ($1,080,049.05)
+BABY Per Week: 21893.21 ($7,645.50)
+APR: Day 0.10% Week 0.71% Year 36.81%
+You are staking 0.00 [ATOM]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ATOM]-[USDT] Uni LP
+Unstake 0.00 [ATOM]-[USDT] Uni LP
+Claim 0.00 BABY ($0.00)
+Staking or unstaking also claims rewards.
+
+106 - [USDT]-[FLOW] Uni LP [+] [-] [<=>] Price: $5.02 TVL: $1,130,927.43
+USDT Price: $1.00
+FLOW Price: $5.07
+Staked: 225348.5563 Baby-LP ($1,130,821.71)
+BABY Per Week: 21893.21 ($7,645.50)
+APR: Day 0.10% Week 0.68% Year 35.16%
+You are staking 0.00 [USDT]-[FLOW] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[FLOW] Uni LP
+Unstake 0.00 [USDT]-[FLOW] Uni LP
+Claim 0.00 BABY ($0.00)
+Staking or unstaking also claims rewards.
+
+108 - [MBOX]-[USDT] Uni LP [+] [-] [<=>] Price: $3.74 TVL: $1,235,164.04
+MBOX Price: $2.52
+USDT Price: $1.00
+Staked: 328925.2761 Baby-LP ($1,230,747.22)
+BABY Per Week: 27366.52 ($9,556.88)
+APR: Day 0.11% Week 0.78% Year 40.38%
+You are staking 0.00 [MBOX]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MBOX]-[USDT] Uni LP
+Unstake 0.00 [MBOX]-[USDT] Uni LP
+Claim 0.00 BABY ($0.00)
+Staking or unstaking also claims rewards.
+
+110 - [USDT]-[GALA] Uni LP [+] [-] [<=>] Price: $1.04 TVL: $987,019.75
+USDT Price: $1.00
+GALA Price: $0.20
+Staked: 950856.8639 Baby-LP ($986,892.55)
+BABY Per Week: 21893.21 ($7,645.50)
+APR: Day 0.11% Week 0.77% Year 40.28%
+You are staking 0.00 [USDT]-[GALA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[GALA] Uni LP
+Unstake 0.00 [USDT]-[GALA] Uni LP
+Claim 0.00 BABY ($0.00)
+Staking or unstaking also claims rewards.
+
+111 - [YGG]-[USDT] Uni LP [+] [-] [<=>] Price: $3.79 TVL: $676,873.03
+YGG Price: $2.72
+USDT Price: $1.00
+Staked: 178359.0382 Baby-LP ($676,792.30)
+BABY Per Week: 21893.21 ($7,645.50)
+APR: Day 0.16% Week 1.13% Year 58.74%
+You are staking 0.00 [YGG]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [YGG]-[USDT] Uni LP
+Unstake 0.00 [YGG]-[USDT] Uni LP
+Claim 0.00 BABY ($0.00)
+Staking or unstaking also claims rewards.
+
+114 - [USDT]-[SFP] Uni LP [+] [-] [<=>] Price: $1.95 TVL: $734,138.12
+USDT Price: $1.00
+SFP Price: $0.77
+Staked: 375601.4905 Baby-LP ($733,639.67)
+BABY Per Week: 16419.91 ($5,734.13)
+APR: Day 0.11% Week 0.78% Year 40.64%
+You are staking 0.00 [USDT]-[SFP] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[SFP] Uni LP
+Unstake 0.00 [USDT]-[SFP] Uni LP
+Claim 0.00 BABY ($0.00)
+Staking or unstaking also claims rewards.
+
+115 - [MASK]-[USDT] Uni LP [+] [-] [<=>] Price: $5.37 TVL: $530,109.85
+MASK Price: $5.57
+USDT Price: $1.00
+Staked: 98678.1072 Baby-LP ($529,620.26)
+BABY Per Week: 16419.91 ($5,734.13)
+APR: Day 0.15% Week 1.08% Year 56.30%
+You are staking 0.00 [MASK]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MASK]-[USDT] Uni LP
+Unstake 0.00 [MASK]-[USDT] Uni LP
+Claim 0.00 BABY ($0.00)
+Staking or unstaking also claims rewards.
+
+118 - [USDT]-[C98] Uni LP [+] [-] [<=>] Price: $2.71 TVL: $703,598.00
+USDT Price: $1.00
+C98 Price: $1.51
+Staked: 259775.6510 Baby-LP ($703,591.31)
+BABY Per Week: 16419.91 ($5,734.13)
+APR: Day 0.12% Week 0.81% Year 42.38%
+You are staking 0.00 [USDT]-[C98] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[C98] Uni LP
+Unstake 0.00 [USDT]-[C98] Uni LP
+Claim 0.00 BABY ($0.00)
+Staking or unstaking also claims rewards.
+
+129 - [USDT]-[UNI] Uni LP [+] [-] [<=>] Price: $6.89 TVL: $1,593,895.43
+USDT Price: $1.00
+UNI Price: $10.60
+Staked: 231188.9012 Baby-LP ($1,593,824.71)
+BABY Per Week: 21893.21 ($7,645.50)
+APR: Day 0.07% Week 0.48% Year 24.94%
+You are staking 0.00 [USDT]-[UNI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[UNI] Uni LP
+Unstake 0.00 [USDT]-[UNI] Uni LP
+Claim 0.00 BABY ($0.00)
+Staking or unstaking also claims rewards.
+
+130 - [USDT]-[SUSHI] Uni LP [+] [-] [<=>] Price: $4.33 TVL: $1,196,545.31
+USDT Price: $1.00
+SUSHI Price: $4.07
+Staked: 276064.5903 Baby-LP ($1,196,477.60)
+BABY Per Week: 21893.21 ($7,645.50)
+APR: Day 0.09% Week 0.64% Year 33.23%
+You are staking 0.00 [USDT]-[SUSHI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[SUSHI] Uni LP
+Unstake 0.00 [USDT]-[SUSHI] Uni LP
+Claim 0.00 BABY ($0.00)
+Staking or unstaking also claims rewards.
+
+132 - [USDT]-[XWIN] Uni LP [+] [-] [<=>] Price: $2.49 TVL: $1,674,458.02
+USDT Price: $1.00
+XWIN Price: $1.47
+Staked: 50748.5335 Baby-LP ($126,375.04)
+BABY Per Week: 5473.30 ($1,911.38)
+APR: Day 0.22% Week 1.51% Year 78.65%
+You are staking 0.00 [USDT]-[XWIN] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[XWIN] Uni LP
+Unstake 0.00 [USDT]-[XWIN] Uni LP
+Claim 0.00 BABY ($0.00)
+Staking or unstaking also claims rewards.
+
+133 - [USDT]-[CHR] Uni LP [+] [-] [<=>] Price: $1,563,885.98 TVL: $1,214,439.64
+USDT Price: $1.00
+CHR Price: $0.51
+Staked: 0.7765 Baby-LP ($1,214,382.98)
+BABY Per Week: 27366.52 ($9,556.88)
+APR: Day 0.11% Week 0.79% Year 40.92%
+You are staking 0.00 [USDT]-[CHR] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[CHR] Uni LP
+Unstake 0.00 [USDT]-[CHR] Uni LP
+Claim 0.00 BABY ($0.00)
+Staking or unstaking also claims rewards.
+
+141 - [WING]-[USDT] Uni LP [+] [-] [<=>] Price: $190,909.94 TVL: $520,008.93
+WING Price: $8.96
+USDT Price: $1.00
+Staked: 2.7238 Baby-LP ($519,999.65)
+BABY Per Week: 5473.30 ($1,911.38)
+APR: Day 0.05% Week 0.37% Year 19.11%
+You are staking 0.00 [WING]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WING]-[USDT] Uni LP
+Unstake 0.00 [WING]-[USDT] Uni LP
+Claim 0.00 BABY ($0.00)
+Staking or unstaking also claims rewards.
+
+142 - [USDT]-[MILK] Uni LP [+] [-] [<=>] Price: $0.05 TVL: $799,709.89
+USDT Price: $1.00
+MILK Price: $0.000375
+Staked: 13320556.4921 Baby-LP ($691,356.46)
+BABY Per Week: 54733.03 ($19,113.76)
+APR: Day 0.39% Week 2.76% Year 143.76%
+You are staking 0.00 [USDT]-[MILK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[MILK] Uni LP
+Unstake 0.00 [USDT]-[MILK] Uni LP
+Claim 0.00 BABY ($0.00)
+Staking or unstaking also claims rewards.
+
+146 - [USDT]-[APX] Uni LP [+] [-] [<=>] Price: $0.48 TVL: $114,152.24
+USDT Price: $1.00
+APX Price: $0.05
+Staked: 235068.9211 Baby-LP ($113,979.22)
+BABY Per Week: 5473.30 ($1,911.38)
+APR: Day 0.24% Week 1.68% Year 87.20%
+You are staking 0.00 [USDT]-[APX] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[APX] Uni LP
+Unstake 0.00 [USDT]-[APX] Uni LP
+Claim 0.00 BABY ($0.00)
+Staking or unstaking also claims rewards.
+
+147 - [USDT]-[A.O.T] Uni LP [+] [-] [<=>] Price: $880,295.74 TVL: $714,402.64
+USDT Price: $1.00
+A.O.T Price: $0.19
+Staked: 0.7811 Baby-LP ($687,570.15)
+BABY Per Week: 5473.30 ($1,911.38)
+APR: Day 0.04% Week 0.28% Year 14.46%
+You are staking 0.00 [USDT]-[A.O.T] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[A.O.T] Uni LP
+Unstake 0.00 [USDT]-[A.O.T] Uni LP
+Claim 0.00 BABY ($0.00)
+Staking or unstaking also claims rewards.
+
+148 - [Belly]-[USDT] Uni LP [+] [-] [<=>] Price: $0.16 TVL: $120,379.30
+Belly Price: $0.006207
+USDT Price: $1.00
+Staked: 228432.5214 Baby-LP ($37,453.85)
+BABY Per Week: 5473.30 ($1,911.38)
+APR: Day 0.73% Week 5.10% Year 265.37%
+You are staking 0.00 [Belly]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Belly]-[USDT] Uni LP
+Unstake 0.00 [Belly]-[USDT] Uni LP
+Claim 0.00 BABY ($0.00)
+Staking or unstaking also claims rewards.
+
+150 - [GWT]-[USDT] Uni LP [+] [-] [<=>] Price: $0.46 TVL: $265,702.04
+GWT Price: $0.05
+USDT Price: $1.00
+Staked: 434743.6685 Baby-LP ($201,637.43)
+BABY Per Week: 5473.30 ($1,911.38)
+APR: Day 0.14% Week 0.95% Year 49.29%
+You are staking 0.00 [GWT]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GWT]-[USDT] Uni LP
+Unstake 0.00 [GWT]-[USDT] Uni LP
+Claim 0.00 BABY ($0.00)
+Staking or unstaking also claims rewards.
+
+152 - [ESG]-[USDT] Uni LP [+] [-] [<=>] Price: $1.99 TVL: $111,687.47
+ESG Price: $0.97
+USDT Price: $1.00
+Staked: 8505.4624 Baby-LP ($16,966.48)
+BABY Per Week: 5473.30 ($1,911.38)
+APR: Day 1.61% Week 11.27% Year 585.81%
+You are staking 0.00 [ESG]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ESG]-[USDT] Uni LP
+Unstake 0.00 [ESG]-[USDT] Uni LP
+Claim 0.00 BABY ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $109,903,421.95

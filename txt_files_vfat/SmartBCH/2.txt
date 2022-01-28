@@ -1,0 +1,418 @@
+*************** 👨‍🌾 UNOFFICIAL MISTSWAP FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://mistswap.fi
+******************************************************************************
+
+Fri Jan 28 2022 01:17:00 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 46 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+----------------------------------------------------------------
+Bar Staking Contract: xMIST (0xC41C680c60309d4646379eD62020c534eB67b6f4)
+Price: $0.01 TVL: $1,936,235.44 Total Supply: 166383219.41
+APR: Day 0.021% Week 0.14% Year 7.49%
+You are staking 0.00 xMIST ($0.00), 0.00% of the pool.
+----------------------------------------------------------------
+
+0 - [WBCH]-[EBEN] MistSwap LP [+] [-] [<=>] Price: $21.76 TVL: $340,981.70
+WBCH Price: $284.41
+EBEN Price: $0.40
+Staked: 15661.8144 MLP ($340,874.28)
+MIST Per Week: 276783.41 ($3,083.31)
+APR: Day 0.13% Week 0.90% Year 47.04%
+You are staking 0.00 [WBCH]-[EBEN] MistSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[EBEN] MistSwap LP
+Unstake 0.00 [WBCH]-[EBEN] MistSwap LP
+Claim 0.00 MIST ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WBCH]-[flexUSD] MistSwap LP [+] [-] [<=>] Price: $35.14 TVL: $3,592,672.88
+WBCH Price: $284.41
+flexUSD Price: $1.00
+Staked: 102198.0146 MLP ($3,590,927.18)
+MIST Per Week: 2680785.11 ($29,863.37)
+APR: Day 0.12% Week 0.83% Year 43.24%
+You are staking 0.00 [WBCH]-[flexUSD] MistSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[flexUSD] MistSwap LP
+Unstake 0.00 [WBCH]-[flexUSD] MistSwap LP
+Claim 0.00 MIST ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [flexUSD]-[FLEX] MistSwap LP [+] [-] [<=>] Price: $4.31 TVL: $261,400.84
+flexUSD Price: $1.00
+FLEX Price: $4.29
+Staked: 56570.6445 MLP ($243,946.71)
+MIST Per Week: 164082.70 ($1,827.85)
+APR: Day 0.11% Week 0.75% Year 38.96%
+You are staking 0.00 [flexUSD]-[FLEX] MistSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [flexUSD]-[FLEX] MistSwap LP
+Unstake 0.00 [flexUSD]-[FLEX] MistSwap LP
+Claim 0.00 MIST ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WBCH]-[ORB] MistSwap LP [+] [-] [<=>] Price: $2.41 TVL: $56,190.96
+WBCH Price: $284.41
+ORB Price: $0.004947
+Staked: 20418.9313 MLP ($49,157.58)
+MIST Per Week: 60785.93 ($677.14)
+APR: Day 0.20% Week 1.38% Year 71.63%
+You are staking 0.00 [WBCH]-[ORB] MistSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[ORB] MistSwap LP
+Unstake 0.00 [WBCH]-[ORB] MistSwap LP
+Claim 0.00 MIST ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [WBCH]-[ARG] MistSwap LP [+] [-] [<=>] Price: $0.01 TVL: $46,438.68
+WBCH Price: $284.41
+ARG Price: $0.0000000545
+Staked: 5803390.0639 MLP ($46,324.40)
+MIST Per Week: 69298.56 ($771.97)
+APR: Day 0.24% Week 1.67% Year 86.66%
+You are staking 0.00 [WBCH]-[ARG] MistSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[ARG] MistSwap LP
+Unstake 0.00 [WBCH]-[ARG] MistSwap LP
+Claim 0.00 MIST ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [WBCH]-[MIST] MistSwap LP [+] [-] [<=>] Price: $3.72 TVL: $3,119,533.69
+WBCH Price: $284.41
+MIST Price: $0.01
+Staked: 837697.0058 MLP ($3,116,208.94)
+MIST Per Week: 2624275.20 ($29,233.86)
+APR: Day 0.13% Week 0.94% Year 48.78%
+You are staking 0.00 [WBCH]-[MIST] MistSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[MIST] MistSwap LP
+Unstake 0.00 [WBCH]-[MIST] MistSwap LP
+Claim 0.00 MIST ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [MIST]-[flexUSD] MistSwap LP [+] [-] [<=>] Price: $0.22 TVL: $479,965.62
+MIST Price: $0.01
+flexUSD Price: $1.00
+Staked: 2158626.1202 MLP ($477,564.05)
+MIST Per Week: 294030.25 ($3,275.43)
+APR: Day 0.10% Week 0.69% Year 35.66%
+You are staking 0.00 [MIST]-[flexUSD] MistSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MIST]-[flexUSD] MistSwap LP
+Unstake 0.00 [MIST]-[flexUSD] MistSwap LP
+Claim 0.00 MIST ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [$CATS]-[WBCH] MistSwap LP [+] [-] [<=>] Price: $244,365,623.44 TVL: $364,361.65
+$CATS Price: $0.004583
+WBCH Price: $284.41
+Staked: 0.0015 MLP ($364,077.61)
+MIST Per Week: 855605.94 ($9,531.27)
+APR: Day 0.37% Week 2.62% Year 136.13%
+You are staking 0.00 [$CATS]-[WBCH] MistSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [$CATS]-[WBCH] MistSwap LP
+Unstake 0.00 [$CATS]-[WBCH] MistSwap LP
+Claim 0.00 MIST ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [WBCH]-[AXIEBCH] MistSwap LP [+] [-] [<=>] Price: $3.10 TVL: $87,480.71
+WBCH Price: $284.41
+AXIEBCH Price: $0.007675
+Staked: 28241.5031 MLP ($87,462.04)
+MIST Per Week: 304797.70 ($3,395.38)
+APR: Day 0.55% Week 3.88% Year 201.87%
+You are staking 0.00 [WBCH]-[AXIEBCH] MistSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[AXIEBCH] MistSwap LP
+Unstake 0.00 [WBCH]-[AXIEBCH] MistSwap LP
+Claim 0.00 MIST ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [WBCH]-[DOGE] MistSwap LP [+] [-] [<=>] Price: $0.02 TVL: $28,320.92
+WBCH Price: $284.41
+DOGE Price: $0.0000002436
+Staked: 1653953.0999 MLP ($28,297.93)
+MIST Per Week: 100687.34 ($1,121.64)
+APR: Day 0.57% Week 3.96% Year 206.11%
+You are staking 0.00 [WBCH]-[DOGE] MistSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[DOGE] MistSwap LP
+Unstake 0.00 [WBCH]-[DOGE] MistSwap LP
+Claim 0.00 MIST ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [WBCH]-[UAT] MistSwap LP [+] [-] [<=>] Price: $0.55 TVL: $21,216.36
+WBCH Price: $284.41
+UAT Price: $0.000208
+Staked: 28547.7888 MLP ($15,710.81)
+MIST Per Week: 56207.18 ($626.14)
+APR: Day 0.57% Week 3.99% Year 207.24%
+You are staking 0.00 [WBCH]-[UAT] MistSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[UAT] MistSwap LP
+Unstake 0.00 [WBCH]-[UAT] MistSwap LP
+Claim 0.00 MIST ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [WBCH]-[HONK] MistSwap LP [+] [-] [<=>] Price: $4,746,335.72 TVL: $50,649.80
+WBCH Price: $284.41
+HONK Price: $0.0000018671
+Staked: 0.0106 MLP ($50,467.50)
+MIST Per Week: 142994.39 ($1,592.93)
+APR: Day 0.45% Week 3.16% Year 164.13%
+You are staking 0.00 [WBCH]-[HONK] MistSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[HONK] MistSwap LP
+Unstake 0.00 [WBCH]-[HONK] MistSwap LP
+Claim 0.00 MIST ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [LAW]-[WBCH] MistSwap LP [+] [-] [<=>] Price: $29.73 TVL: $47,971.50
+LAW Price: $0.71
+WBCH Price: $284.41
+Staked: 1522.9485 MLP ($45,274.03)
+MIST Per Week: 131123.72 ($1,460.69)
+APR: Day 0.46% Week 3.23% Year 167.77%
+You are staking 0.00 [LAW]-[WBCH] MistSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LAW]-[WBCH] MistSwap LP
+Unstake 0.00 [LAW]-[WBCH] MistSwap LP
+Claim 0.00 MIST ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [WBCH]-[xMIST] MistSwap LP [+] [-] [<=>] Price: $3.71 TVL: $53,895.27
+WBCH Price: $284.41
+xMIST Price: $0.01
+Staked: 14521.5673 MLP ($53,893.24)
+MIST Per Week: 58184.07 ($648.16)
+APR: Day 0.17% Week 1.20% Year 62.54%
+You are staking 0.00 [WBCH]-[xMIST] MistSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[xMIST] MistSwap LP
+Unstake 0.00 [WBCH]-[xMIST] MistSwap LP
+Claim 0.00 MIST ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [MIST]-[xMIST] MistSwap LP [+] [-] [<=>] Price: $0.02 TVL: $490,070.89
+MIST Price: $0.01
+xMIST Price: $0.01
+Staked: 21454703.5035 MLP ($489,862.14)
+MIST Per Week: 53145.52 ($592.03)
+APR: Day 0.02% Week 0.12% Year 6.28%
+You are staking 0.00 [MIST]-[xMIST] MistSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MIST]-[xMIST] MistSwap LP
+Unstake 0.00 [MIST]-[xMIST] MistSwap LP
+Claim 0.00 MIST ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - [WBCH]-[sBUSD] MistSwap LP [+] [-] [<=>] Price: $22,427,201,421.05 TVL: $169,705.60
+WBCH Price: $284.41
+sBUSD Price: $1.02
+Staked: 0.0000 MLP ($168,819.57)
+MIST Per Week: 337580.53 ($3,760.57)
+APR: Day 0.32% Week 2.23% Year 115.83%
+You are staking 0.00 [WBCH]-[sBUSD] MistSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[sBUSD] MistSwap LP
+Unstake 0.00 [WBCH]-[sBUSD] MistSwap LP
+Claim 0.00 MIST ($0.00)
+Staking or unstaking also claims rewards.
+
+30 - [WBCH]-[BPAD] MistSwap LP [+] [-] [<=>] Price: $4.13 TVL: $155,303.93
+WBCH Price: $284.41
+BPAD Price: $0.01
+Staked: 14845.7930 MLP ($61,343.59)
+MIST Per Week: 197778.79 ($2,203.21)
+APR: Day 0.51% Week 3.59% Year 186.76%
+You are staking 0.00 [WBCH]-[BPAD] MistSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[BPAD] MistSwap LP
+Unstake 0.00 [WBCH]-[BPAD] MistSwap LP
+Claim 0.00 MIST ($0.00)
+Staking or unstaking also claims rewards.
+
+31 - [WBCH]-[CLY] MistSwap LP [+] [-] [<=>] Price: $1.23 TVL: $536,370.68
+WBCH Price: $284.41
+CLY Price: $0.001284
+Staked: 213346.3013 MLP ($261,571.66)
+MIST Per Week: 445546.73 ($4,963.29)
+APR: Day 0.27% Week 1.90% Year 98.67%
+You are staking 0.00 [WBCH]-[CLY] MistSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[CLY] MistSwap LP
+Unstake 0.00 [WBCH]-[CLY] MistSwap LP
+Claim 0.00 MIST ($0.00)
+Staking or unstaking also claims rewards.
+
+33 - [WBCH]-[STO] MistSwap LP [+] [-] [<=>] Price: $5.71 TVL: $44,987.09
+WBCH Price: $284.41
+STO Price: $0.03
+Staked: 7735.9355 MLP ($44,154.11)
+MIST Per Week: 225753.44 ($2,514.84)
+APR: Day 0.81% Week 5.70% Year 296.17%
+You are staking 0.00 [WBCH]-[STO] MistSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[STO] MistSwap LP
+Unstake 0.00 [WBCH]-[STO] MistSwap LP
+Claim 0.00 MIST ($0.00)
+Staking or unstaking also claims rewards.
+
+34 - [HAM]-[WBCH] MistSwap LP [+] [-] [<=>] Price: $118,168.31 TVL: $22,172.43
+HAM Price: $0.001108
+WBCH Price: $284.41
+Staked: 0.1876 MLP ($22,164.04)
+MIST Per Week: 78982.86 ($879.85)
+APR: Day 0.57% Week 3.97% Year 206.43%
+You are staking 0.00 [HAM]-[WBCH] MistSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [HAM]-[WBCH] MistSwap LP
+Unstake 0.00 [HAM]-[WBCH] MistSwap LP
+Claim 0.00 MIST ($0.00)
+Staking or unstaking also claims rewards.
+
+35 - [flexUSD]-[DAO] MistSwap LP [+] [-] [<=>] Price: $1,610.21 TVL: $105,405.25
+flexUSD Price: $1.00
+DAO Price: $0.0000059129
+Staked: 64.8721 MLP ($104,457.59)
+MIST Per Week: 354389.32 ($3,947.82)
+APR: Day 0.54% Week 3.78% Year 196.53%
+You are staking 0.00 [flexUSD]-[DAO] MistSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [flexUSD]-[DAO] MistSwap LP
+Unstake 0.00 [flexUSD]-[DAO] MistSwap LP
+Claim 0.00 MIST ($0.00)
+Staking or unstaking also claims rewards.
+
+36 - [FIRE]-[WBCH] MistSwap LP [+] [-] [<=>] Price: $0.16 TVL: $190,483.97
+FIRE Price: $0.0000205991
+WBCH Price: $284.41
+Staked: 341275.5959 MLP ($53,910.49)
+MIST Per Week: 139798.37 ($1,557.32)
+APR: Day 0.41% Week 2.89% Year 150.21%
+You are staking 0.00 [FIRE]-[WBCH] MistSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FIRE]-[WBCH] MistSwap LP
+Unstake 0.00 [FIRE]-[WBCH] MistSwap LP
+Claim 0.00 MIST ($0.00)
+Staking or unstaking also claims rewards.
+
+37 - [WBCH]-[DAO] MistSwap LP [+] [-] [<=>] Price: $27,467.92 TVL: $99,851.27
+WBCH Price: $284.41
+DAO Price: $0.0000059129
+Staked: 3.5937 MLP ($98,710.41)
+MIST Per Week: 318520.58 ($3,548.25)
+APR: Day 0.51% Week 3.59% Year 186.92%
+You are staking 0.00 [WBCH]-[DAO] MistSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[DAO] MistSwap LP
+Unstake 0.00 [WBCH]-[DAO] MistSwap LP
+Claim 0.00 MIST ($0.00)
+Staking or unstaking also claims rewards.
+
+39 - [flexUSD]-[sBUSD] MistSwap LP [+] [-] [<=>] Price: $211,903,834.64 TVL: $173,475.42
+flexUSD Price: $1.00
+sBUSD Price: $1.02
+Staked: 0.0008 MLP ($172,942.67)
+MIST Per Week: 241804.96 ($2,693.66)
+APR: Day 0.22% Week 1.56% Year 80.99%
+You are staking 0.00 [flexUSD]-[sBUSD] MistSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [flexUSD]-[sBUSD] MistSwap LP
+Unstake 0.00 [flexUSD]-[sBUSD] MistSwap LP
+Claim 0.00 MIST ($0.00)
+Staking or unstaking also claims rewards.
+
+40 - [🌙🌙🌙🌙]-[WBCH] MistSwap LP [+] [-] [<=>] Price: $12,176,541,777.50 TVL: $37,153.93
+🌙🌙🌙🌙 Price: $120.79
+WBCH Price: $284.41
+Staked: 0.0000 MLP ($37,129.10)
+MIST Per Week: 93882.94 ($1,045.84)
+APR: Day 0.40% Week 2.82% Year 146.47%
+You are staking 0.00 [🌙🌙🌙🌙]-[WBCH] MistSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [🌙🌙🌙🌙]-[WBCH] MistSwap LP
+Unstake 0.00 [🌙🌙🌙🌙]-[WBCH] MistSwap LP
+Claim 0.00 MIST ($0.00)
+Staking or unstaking also claims rewards.
+
+41 - [WBCH]-[GAME] MistSwap LP [+] [-] [<=>] Price: $2.40 TVL: $46,984.86
+WBCH Price: $284.41
+GAME Price: $0.004072
+Staked: 19267.0318 MLP ($46,209.98)
+MIST Per Week: 270074.96 ($3,008.58)
+APR: Day 0.93% Week 6.51% Year 338.55%
+You are staking 0.00 [WBCH]-[GAME] MistSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[GAME] MistSwap LP
+Unstake 0.00 [WBCH]-[GAME] MistSwap LP
+Claim 0.00 MIST ($0.00)
+Staking or unstaking also claims rewards.
+
+42 - [WBCH]-[SMART] MistSwap LP [+] [-] [<=>] Price: $26.69 TVL: $52,514.62
+WBCH Price: $284.41
+SMART Price: $0.0000000005
+Staked: 838.0193 MLP ($22,370.02)
+MIST Per Week: 155097.64 ($1,727.75)
+APR: Day 1.10% Week 7.72% Year 401.62%
+You are staking 0.00 [WBCH]-[SMART] MistSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[SMART] MistSwap LP
+Unstake 0.00 [WBCH]-[SMART] MistSwap LP
+Claim 0.00 MIST ($0.00)
+Staking or unstaking also claims rewards.
+
+43 - [WBCH]-[BCHDAO] MistSwap LP [+] [-] [<=>] Price: $0.01 TVL: $18,932.76
+WBCH Price: $284.41
+BCHDAO Price: $0.0000001324
+Staked: 1401691.3668 MLP ($18,929.07)
+MIST Per Week: 120473.90 ($1,342.05)
+APR: Day 1.01% Week 7.09% Year 368.68%
+You are staking 0.00 [WBCH]-[BCHDAO] MistSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[BCHDAO] MistSwap LP
+Unstake 0.00 [WBCH]-[BCHDAO] MistSwap LP
+Claim 0.00 MIST ($0.00)
+Staking or unstaking also claims rewards.
+
+44 - [WBCH]-[SIDX] MistSwap LP [+] [-] [<=>] Price: $50.31 TVL: $61,661.49
+WBCH Price: $284.41
+SIDX Price: $2.09
+Staked: 1225.4821 MLP ($61,657.87)
+MIST Per Week: 113292.69 ($1,262.06)
+APR: Day 0.29% Week 2.05% Year 106.44%
+You are staking 0.00 [WBCH]-[SIDX] MistSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[SIDX] MistSwap LP
+Unstake 0.00 [WBCH]-[SIDX] MistSwap LP
+Claim 0.00 MIST ($0.00)
+Staking or unstaking also claims rewards.
+
+45 - [WBCH]-[GoC] MistSwap LP [+] [-] [<=>] Price: $7.70 TVL: $37,590.16
+WBCH Price: $284.41
+GoC Price: $0.05
+Staked: 4880.3463 MLP ($37,587.58)
+MIST Per Week: 64290.70 ($716.18)
+APR: Day 0.27% Week 1.91% Year 99.08%
+You are staking 0.00 [WBCH]-[GoC] MistSwap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[GoC] MistSwap LP
+Unstake 0.00 [WBCH]-[GoC] MistSwap LP
+Claim 0.00 MIST ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $12,148,241.63
+.--------------------------------------------------------------------------------------------------------------.
+|                                                     MIST                                                     |
+|--------------------------------------------------------------------------------------------------------------|
+| #  |             Pair              | Total Staked  | Total $ Staked | Reward |   APR   |      My Stake       |
+|----|-------------------------------|---------------|----------------|--------|---------|---------------------|
+|    | xMIST                         |  166383219.41 |  $1,936,235.44 | xMIST  |   7.49% | 0.00 ($0.00), 0.00% |
+|  0 | [WBCH]-[EBEN] MistSwap LP     |    15661.8144 |    $340,874.28 | MIST   |  47.04% | 0.00 ($0.00), 0.00% |
+|  1 | [WBCH]-[flexUSD] MistSwap LP  |   102198.0146 |  $3,590,927.18 | MIST   |  43.24% | 0.00 ($0.00), 0.00% |
+|  2 | [flexUSD]-[FLEX] MistSwap LP  |    56570.6445 |    $243,946.71 | MIST   |  38.96% | 0.00 ($0.00), 0.00% |
+|  3 | [WBCH]-[ORB] MistSwap LP      |    20418.9313 |     $49,157.58 | MIST   |  71.63% | 0.00 ($0.00), 0.00% |
+|  6 | [WBCH]-[ARG] MistSwap LP      |  5803390.0639 |     $46,324.40 | MIST   |  86.66% | 0.00 ($0.00), 0.00% |
+|  7 | [WBCH]-[MIST] MistSwap LP     |   837697.0058 |  $3,116,208.94 | MIST   |  48.78% | 0.00 ($0.00), 0.00% |
+|  8 | [MIST]-[flexUSD] MistSwap LP  |  2158626.1202 |    $477,564.05 | MIST   |  35.66% | 0.00 ($0.00), 0.00% |
+|  9 | [$CATS]-[WBCH] MistSwap LP    |        0.0015 |    $364,077.61 | MIST   | 136.13% | 0.00 ($0.00), 0.00% |
+| 10 | [WBCH]-[AXIEBCH] MistSwap LP  |    28241.5031 |     $87,462.04 | MIST   | 201.87% | 0.00 ($0.00), 0.00% |
+| 12 | [WBCH]-[DOGE] MistSwap LP     |  1653953.0999 |     $28,297.93 | MIST   | 206.11% | 0.00 ($0.00), 0.00% |
+| 13 | [WBCH]-[UAT] MistSwap LP      |    28547.7888 |     $15,710.81 | MIST   | 207.24% | 0.00 ($0.00), 0.00% |
+| 15 | [WBCH]-[HONK] MistSwap LP     |        0.0106 |     $50,467.50 | MIST   | 164.13% | 0.00 ($0.00), 0.00% |
+| 18 | [LAW]-[WBCH] MistSwap LP      |     1522.9485 |     $45,274.03 | MIST   | 167.77% | 0.00 ($0.00), 0.00% |
+| 19 | [WBCH]-[xMIST] MistSwap LP    |    14521.5673 |     $53,893.24 | MIST   |  62.54% | 0.00 ($0.00), 0.00% |
+| 23 | [MIST]-[xMIST] MistSwap LP    | 21454703.5035 |    $489,862.14 | MIST   |   6.28% | 0.00 ($0.00), 0.00% |
+| 27 | [WBCH]-[sBUSD] MistSwap LP    |        0.0000 |    $168,819.57 | MIST   | 115.83% | 0.00 ($0.00), 0.00% |
+| 30 | [WBCH]-[BPAD] MistSwap LP     |    14845.7930 |     $61,343.59 | MIST   | 186.76% | 0.00 ($0.00), 0.00% |
+| 31 | [WBCH]-[CLY] MistSwap LP      |   213346.3013 |    $261,571.66 | MIST   |  98.67% | 0.00 ($0.00), 0.00% |
+| 33 | [WBCH]-[STO] MistSwap LP      |     7735.9355 |     $44,154.11 | MIST   | 296.17% | 0.00 ($0.00), 0.00% |
+| 34 | [HAM]-[WBCH] MistSwap LP      |        0.1876 |     $22,164.04 | MIST   | 206.43% | 0.00 ($0.00), 0.00% |
+| 35 | [flexUSD]-[DAO] MistSwap LP   |       64.8721 |    $104,457.59 | MIST   | 196.53% | 0.00 ($0.00), 0.00% |
+| 36 | [FIRE]-[WBCH] MistSwap LP     |   341275.5959 |     $53,910.49 | MIST   | 150.21% | 0.00 ($0.00), 0.00% |
+| 37 | [WBCH]-[DAO] MistSwap LP      |        3.5937 |     $98,710.41 | MIST   | 186.92% | 0.00 ($0.00), 0.00% |
+| 39 | [flexUSD]-[sBUSD] MistSwap LP |        0.0008 |    $172,942.67 | MIST   |  80.99% | 0.00 ($0.00), 0.00% |
+| 40 | [🌙🌙🌙🌙]-[WBCH] MistSwap LP |        0.0000 |     $37,129.10 | MIST   | 146.47% | 0.00 ($0.00), 0.00% |
+| 41 | [WBCH]-[GAME] MistSwap LP     |    19267.0318 |     $46,209.98 | MIST   | 338.55% | 0.00 ($0.00), 0.00% |
+| 42 | [WBCH]-[SMART] MistSwap LP    |      838.0193 |     $22,370.02 | MIST   | 401.62% | 0.00 ($0.00), 0.00% |
+| 43 | [WBCH]-[BCHDAO] MistSwap LP   |  1401691.3668 |     $18,929.07 | MIST   | 368.68% | 0.00 ($0.00), 0.00% |
+| 44 | [WBCH]-[SIDX] MistSwap LP     |     1225.4821 |     $61,657.87 | MIST   | 106.44% | 0.00 ($0.00), 0.00% |
+| 45 | [WBCH]-[GoC] MistSwap LP      |     4880.3463 |     $37,587.58 | MIST   |  99.08% | 0.00 ($0.00), 0.00% |
+'--------------------------------------------------------------------------------------------------------------'

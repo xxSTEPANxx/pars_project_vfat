@@ -1,0 +1,169 @@
+*************** 👨‍🌾 UNOFFICIAL WHITETEETHSWAP.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://whiteteethswap.finance
+****************************************************************************************
+
+Thu Jan 27 2022 21:22:46 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 14 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - TEETH Price: $0.00 Market Cap: $0.00 
+Staked: 13447986.2551 TEETH ($0.00)
+TEETH Per Week: 349440.00 ($0.06)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 TEETH ($0.00), NaN% of the pool.
+Stake 0.00 TEETH
+Unstake 0.00 TEETH
+Claim 0.00 TEETH ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $65.77 TVL: $2,219,062.98
+WBNB Price: $367.93
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+TEETH Per Week: 268800.00 ($0.05)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 TEETH ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.17 TVL: $3,554,310.27
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+TEETH Per Week: 241920.00 ($0.04)
+APR: Day 3437855286643149.50% Week 24064987006502048.00% Year 1251379324338106368.00%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 TEETH ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $121.98 TVL: $3,293,925.98
+Cake Price: $6.98
+WBNB Price: $367.93
+Staked: 0.0000 Cake-LP ($0.00)
+TEETH Per Week: 295680.00 ($0.05)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 TEETH ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $8,187.85 TVL: $297,552.57
+BTCB Price: $36,200.00
+WBNB Price: $367.93
+Staked: 0.0000 Cake-LP ($0.00)
+TEETH Per Week: 295680.00 ($0.05)
+APR: Day 67866.20% Week 475063.37% Year 24703295.01%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 TEETH ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,178.64 TVL: $475,387.10
+ETH Price: $2,417.58
+WBNB Price: $367.93
+Staked: 0.0000 Cake-LP ($0.00)
+TEETH Per Week: 295680.00 ($0.05)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 TEETH ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - WBNB Price: $367.93 Market Cap: $1,919,982,158.34 [%]
+Staked: 0.0096 WBNB ($3.53)
+TEETH Per Week: 268800.00 ($0.05)
+APR: Day 0.19% Week 1.35% Year 70.11%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 TEETH ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - BUSD Price: $1.00 Market Cap: $4,844,435,986.46 [%]
+Staked: 8.8290 BUSD ($8.82)
+TEETH Per Week: 215040.00 ($0.04)
+APR: Day 0.06% Week 0.43% Year 22.47%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 TEETH ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - USDT Price: $1.00 Market Cap: $3,879,997,922.18 [%]
+Staked: 0.6575 USDT ($0.66)
+TEETH Per Week: 215040.00 ($0.04)
+APR: Day 0.83% Week 5.79% Year 301.33%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 TEETH ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - ETH Price: $2,417.58 Market Cap: $3,396,699,900.00 [%]
+Staked: 0.0000 ETH ($0.00)
+TEETH Per Week: 268800.00 ($0.05)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 ETH ($0.00), NaN% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 TEETH ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - BTCB Price: $36,200.00 Market Cap: $4,072,536,200.00 [%]
+Staked: 0.0000 BTCB ($0.00)
+TEETH Per Week: 268800.00 ($0.05)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 BTCB ($0.00), NaN% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 TEETH ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - Cake Price: $6.98 Market Cap: $4,292,452,443.13 [%]
+Staked: 0.0000 Cake ($0.00)
+TEETH Per Week: 268800.00 ($0.05)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 Cake ($0.00), NaN% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 TEETH ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [TEETH]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $0.65
+TEETH Price: $0.0000001772
+BUSD Price: $1.00
+Staked: 489.7109 Cake-LP ($0.43)
+TEETH Per Week: 403200.00 ($0.07)
+APR: Day 2.35% Week 16.45% Year 855.46%
+You are staking 0.00 [TEETH]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TEETH]-[BUSD] Cake LP
+Unstake 0.00 [TEETH]-[BUSD] Cake LP
+Claim 0.00 TEETH ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [TEETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $0.02 TVL: $1.01
+TEETH Price: $0.0000001772
+WBNB Price: $367.93
+Staked: 16.0268 Cake-LP ($0.32)
+TEETH Per Week: 376320.00 ($0.07)
+APR: Day 2.97% Week 20.78% Year 1080.68%
+You are staking 0.00 [TEETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TEETH]-[WBNB] Cake LP
+Unstake 0.00 [TEETH]-[WBNB] Cake LP
+Claim 0.00 TEETH ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $13.76

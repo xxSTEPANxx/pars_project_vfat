@@ -1,0 +1,203 @@
+*************** 🌓 UNOFFICIAL MOONGIVE FARMING CALCULATOR 🌓 ***************
+INFO  : https://moongive.netlify.app/ 
+*****************************************************************************
+
+Fri Jan 28 2022 01:13:49 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 18 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - GIVE Price: $0.000350 Market Cap: $480.37 
+Staked: 490213.2693 GIVE ($171.35)
+GIVE Per Week: 2274.00 ($0.79)
+APR: Day 0.07% Week 0.46% Year 24.12%
+You are staking 0.00 GIVE ($0.00), 0.00% of the pool.
+Stake 0.00 GIVE
+Unstake 0.00 GIVE
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [GIVE]-[USDC] Uni LP [+] [-] [<=>] Price: $39,455.01 TVL: $58.01
+GIVE Price: $0.000350
+USDC Price: $1.00
+Staked: 0.0012 UNI-V2 ($48.24)
+GIVE Per Week: 4548.01 ($1.59)
+APR: Day 0.47% Week 3.30% Year 171.37%
+You are staking 0.00 [GIVE]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GIVE]-[USDC] Uni LP
+Unstake 0.00 [GIVE]-[USDC] Uni LP
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [GIVE]-[WMOVR] Uni LP [+] [-] [<=>] Price: $0.34 TVL: $83.61
+GIVE Price: $0.000350
+WMOVR Price: $71.69
+Staked: 242.8586 UNI-V2 ($82.75)
+GIVE Per Week: 4548.01 ($1.59)
+APR: Day 0.27% Week 1.92% Year 99.90%
+You are staking 0.00 [GIVE]-[WMOVR] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GIVE]-[WMOVR] Uni LP
+Unstake 0.00 [GIVE]-[WMOVR] Uni LP
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WMOVR]-[USDC] Uni LP [+] [-] [<=>] Price: $21,590,577.12 TVL: $15,523.41
+WMOVR Price: $71.69
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($5.48)
+GIVE Per Week: 682.20 ($0.24)
+APR: Day 0.62% Week 4.35% Year 226.12%
+You are staking 0.00 [WMOVR]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMOVR]-[USDC] Uni LP - Fee 3%
+Unstake 0.00 [WMOVR]-[USDC] Uni LP
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - WMOVR Price: $71.69 Market Cap: $14,254,836.30 
+Staked: 0.0648 WMOVR ($4.65)
+GIVE Per Week: 682.20 ($0.24)
+APR: Day 0.73% Week 5.13% Year 266.76%
+You are staking 0.00 WMOVR ($0.00), 0.00% of the pool.
+Stake 0.00 WMOVR - Fee 3%
+Unstake 0.00 WMOVR
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - USDC Price: $1.00 Market Cap: $49,254,341.40 
+Staked: 97.5970 USDC ($97.60)
+GIVE Per Week: 682.20 ($0.24)
+APR: Day 0.03% Week 0.24% Year 12.70%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 3%
+Unstake 0.00 USDC
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - mSWAP Price: $0.00 Market Cap: $0.00 
+Staked: 0.2683 mSWAP ($0.00)
+GIVE Per Week: 682.20 ($0.24)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 mSWAP ($0.00), NaN% of the pool.
+Stake 0.00 mSWAP - Fee 3%
+Unstake 0.00 mSWAP
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [ETH]-[USDC] Uni LP [+] [-] [<=>] Price: $97,510,859.24 TVL: $4,007.32
+ETH Price: $2,235.70
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($15.15)
+GIVE Per Week: 682.20 ($0.24)
+APR: Day 0.22% Week 1.57% Year 81.86%
+You are staking 0.00 [ETH]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[USDC] Uni LP - Fee 3%
+Unstake 0.00 [ETH]-[USDC] Uni LP
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [BUSD]-[USDC] Uni LP [+] [-] [<=>] Price: $2,055,291.81 TVL: $2,131.98
+BUSD Price: $1.00
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($54.05)
+GIVE Per Week: 682.20 ($0.24)
+APR: Day 0.06% Week 0.44% Year 22.94%
+You are staking 0.00 [BUSD]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUSD]-[USDC] Uni LP - Fee 3%
+Unstake 0.00 [BUSD]-[USDC] Uni LP
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [BNB]-[BUSD] Uni LP [+] [-] [<=>] Price: $39.11 TVL: $3,606.99
+BNB Price: $371.19
+BUSD Price: $1.00
+Staked: 0.4451 UNI-V2 ($17.41)
+GIVE Per Week: 682.20 ($0.24)
+APR: Day 0.20% Week 1.37% Year 71.24%
+You are staking 0.00 [BNB]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BNB]-[BUSD] Uni LP - Fee 3%
+Unstake 0.00 [BNB]-[BUSD] Uni LP
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [USDT]-[USDC] Uni LP [+] [-] [<=>] Price: $2,050,492,526,037.61 TVL: $40,146.39
+USDT Price: $1.00
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($44.68)
+GIVE Per Week: 682.20 ($0.24)
+APR: Day 0.08% Week 0.53% Year 27.75%
+You are staking 0.00 [USDT]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[USDC] Uni LP - Fee 3%
+Unstake 0.00 [USDT]-[USDC] Uni LP
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - ETH Price: $2,235.70 Market Cap: $20,020,115.20 
+Staked: 0.0347 ETH ($77.69)
+GIVE Per Week: 682.20 ($0.24)
+APR: Day 0.04% Week 0.31% Year 15.96%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 3%
+Unstake 0.00 ETH
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - BNB Price: $371.19 Market Cap: $1,571,135.70 
+Staked: 0.0257 BNB ($9.55)
+GIVE Per Week: 682.20 ($0.24)
+APR: Day 0.36% Week 2.50% Year 129.85%
+You are staking 0.00 BNB ($0.00), 0.00% of the pool.
+Stake 0.00 BNB - Fee 3%
+Unstake 0.00 BNB
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - USDT Price: $1.00 Market Cap: $10,971,004.50 
+Staked: 589.9476 USDT ($589.47)
+GIVE Per Week: 682.20 ($0.24)
+APR: Day 0.01% Week 0.04% Year 2.10%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 3%
+Unstake 0.00 USDT
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - BUSD Price: $1.00 Market Cap: $8,097,892.94 
+Staked: 10.8609 BUSD ($10.86)
+GIVE Per Week: 682.20 ($0.24)
+APR: Day 0.31% Week 2.20% Year 114.17%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 3%
+Unstake 0.00 BUSD
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [GIVE]-[USDC] Uni LP [+] [-] [<=>] Price: $37,664.26 TVL: $68.18
+GIVE Price: $0.000350
+USDC Price: $1.00
+Staked: 0.0018 GLP:GIVE-USDC ($68.10)
+GIVE Per Week: 13644.03 ($4.77)
+APR: Day 1.00% Week 7.00% Year 364.18%
+You are staking 0.00 [GIVE]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GIVE]-[USDC] Uni LP
+Unstake 0.00 [GIVE]-[USDC] Uni LP
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [GIVE]-[WMOVR] Uni LP [+] [-] [<=>] Price: $0.32 TVL: $36.79
+GIVE Price: $0.000350
+WMOVR Price: $71.69
+Staked: 110.6870 GLP:GIVE-WMOVR ($35.24)
+GIVE Per Week: 13644.03 ($4.77)
+APR: Day 1.93% Week 13.53% Year 703.82%
+You are staking 0.00 [GIVE]-[WMOVR] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GIVE]-[WMOVR] Uni LP
+Unstake 0.00 [GIVE]-[WMOVR] Uni LP
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $1,332.25

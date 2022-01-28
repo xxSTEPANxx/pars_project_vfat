@@ -6,149 +6,20 @@ INFO  : https://polypanda.finance
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Fri Dec 17 2021 09:21:50 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 22:05:57 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
+Staking Contract
 Found 13 pools.
 Showing incentivized pools only.
-Finished reading smart contracts.
-0 - USDC Price: $1.00 Market Cap: $952,155,228.07 [%]
-Staked: 12.4624 USDC ($12.46)
-BAMBOO Per Week: 4173.91 ($0.62)
-APR: Day 0.71% Week 4.96% Year 257.75%
-You are staking 0.00 USDC ($0.00), 0.00% of the pool.
-Stake 0.00 USDC - Fee 4%
-Unstake 0.00 USDC
-Claim 0.00 BAMBOO ($0.00)
-Staking or unstaking also claims rewards.
-
-1 - USDT Price: $1.00 Market Cap: $319,617,187.00 [%]
-Staked: 1.9411 USDT ($1.94)
-BAMBOO Per Week: 4173.91 ($0.62)
-APR: Day 4.55% Week 31.84% Year 1655.44%
-You are staking 0.00 USDT ($0.00), 0.00% of the pool.
-Stake 0.00 USDT - Fee 4%
-Unstake 0.00 USDT
-Claim 0.00 BAMBOO ($0.00)
-Staking or unstaking also claims rewards.
-
-2 - DAI Price: $1.00 Market Cap: $367,631,170.58 [%]
-Staked: 0.9879 DAI ($0.99)
-BAMBOO Per Week: 4173.91 ($0.62)
-APR: Day 8.93% Week 62.53% Year 3251.36%
-You are staking 0.00 DAI ($0.00), 0.00% of the pool.
-Stake 0.00 DAI - Fee 4%
-Unstake 0.00 DAI
-Claim 0.00 BAMBOO ($0.00)
-Staking or unstaking also claims rewards.
-
-3 - WETH Price: $3,958.02 Market Cap: $1,757,038,417.08 [%]
-Staked: 0.0049 WETH ($19.29)
-BAMBOO Per Week: 8347.83 ($1.24)
-APR: Day 0.92% Week 6.41% Year 333.11%
-You are staking 0.00 WETH ($0.00), 0.00% of the pool.
-Stake 0.00 WETH - Fee 4%
-Unstake 0.00 WETH
-Claim 0.00 BAMBOO ($0.00)
-Staking or unstaking also claims rewards.
-
-4 - WBTC Price: $47,675.00 Market Cap: $481,050,714.46 [%]
-Staked: 0.0000 WBTC ($0.10)
-BAMBOO Per Week: 8347.83 ($1.24)
-APR: Day 180.58% Week 1264.05% Year 65730.59%
-You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
-Stake 0.00 WBTC - Fee 4%
-Unstake 0.00 WBTC
-Claim 0.00 BAMBOO ($0.00)
-Staking or unstaking also claims rewards.
-
-5 - QUICK Price: $245.25 Market Cap: $234,345,795.39 [%]
-Staked: 0.0020 QUICK ($0.50)
-BAMBOO Per Week: 8347.83 ($1.24)
-APR: Day 35.32% Week 247.27% Year 12857.99%
-You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
-Stake 0.00 QUICK - Fee 4%
-Unstake 0.00 QUICK
-Claim 0.00 BAMBOO ($0.00)
-Staking or unstaking also claims rewards.
-
-6 - WMATIC Price: $2.10 Market Cap: $639,835,880.06 [%]
-Staked: 1.9006 WMATIC ($3.99)
-BAMBOO Per Week: 8347.83 ($1.24)
-APR: Day 4.42% Week 30.95% Year 1609.50%
-You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
-Stake 0.00 WMATIC - Fee 4%
-Unstake 0.00 WMATIC
-Claim 0.00 BAMBOO ($0.00)
-Staking or unstaking also claims rewards.
-
-7 - Bamboo Price: $0.000148 Market Cap: $862.28 [%]
-Staked: 2515625.8689 Bamboo ($372.29)
-BAMBOO Per Week: 41739.13 ($6.18)
-APR: Day 0.24% Week 1.66% Year 86.28%
-You are staking 0.00 Bamboo ($0.00), 0.00% of the pool.
-Stake 0.00 Bamboo - Fee 2%
-Unstake 0.00 Bamboo
-Claim 0.00 BAMBOO ($0.00)
-Staking or unstaking also claims rewards.
-
-8 - [USDC]-[USDT] Uni LP [+] [-] [<=>] Price: $2,624,317,884,162.38 TVL: $24,090,487.86
-USDC Price: $1.00
-USDT Price: $1.00
-Staked: 0.0000 UNI-V2 ($298.92)
-BAMBOO Per Week: 8347.83 ($1.24)
-APR: Day 0.06% Week 0.41% Year 21.49%
-You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[USDT] Uni LP - Fee 4%
-Unstake 0.00 [USDC]-[USDT] Uni LP
-Claim 0.00 BAMBOO ($0.00)
-Staking or unstaking also claims rewards.
-
-9 - [USDC]-[DAI] Uni LP [+] [-] [<=>] Price: $76,292,448.57 TVL: $7,432,978.39
-USDC Price: $1.00
-DAI Price: $1.00
-Staked: 0.0000 UNI-V2 ($0.27)
-BAMBOO Per Week: 8347.83 ($1.24)
-APR: Day 65.66% Week 459.62% Year 23900.01%
-You are staking 0.00 [USDC]-[DAI] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[DAI] Uni LP - Fee 4%
-Unstake 0.00 [USDC]-[DAI] Uni LP
-Claim 0.00 BAMBOO ($0.00)
-Staking or unstaking also claims rewards.
-
-10 - [USDC]-[Bamboo] Uni LP [+] [-] [<=>] Price: $25,719.31 TVL: $289.64
-USDC Price: $1.00
-Bamboo Price: $0.000148
-Staked: 0.0060 UNI-V2 ($153.81)
-BAMBOO Per Week: 166956.52 ($24.71)
-APR: Day 2.29% Week 16.06% Year 835.34%
-You are staking 0.00 [USDC]-[Bamboo] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[Bamboo] Uni LP
-Unstake 0.00 [USDC]-[Bamboo] Uni LP
-Claim 0.00 BAMBOO ($0.00)
-Staking or unstaking also claims rewards.
-
-11 - PolyDoge Price: $0.0000000232 Market Cap: $23,157,000.00 [%]
-Staked: 11196954954.7997 PolyDoge ($259.29)
-BAMBOO Per Week: 8347.83 ($1.24)
-APR: Day 0.07% Week 0.48% Year 24.78%
-You are staking 0.00 PolyDoge ($0.00), 0.00% of the pool.
-Stake 0.00 PolyDoge - Fee 4%
-Unstake 0.00 PolyDoge
-Claim 0.00 BAMBOO ($0.00)
-Staking or unstaking also claims rewards.
-
-12 - SURF Price: $0.00 Market Cap: $0.00 
-Staked: 5.1253 SURF ($0.00)
-BAMBOO Per Week: 8347.83 ($1.24)
-APR: Day NaN% Week NaN% Year NaN%
-You are staking 0.00 SURF ($0.00), NaN% of the pool.
-Stake 0.00 SURF - Fee 4%
-Unstake 0.00 SURF
-Claim 0.00 BAMBOO ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $1,123.84
+{
+  "code": -32603,
+  "message": "Non-200 status code: '400'",
+  "data": {
+    "error": "Unable to verify your data submission."
+  }
+}
+Oops something went wrong. Try refreshing the page.

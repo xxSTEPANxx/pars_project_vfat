@@ -1,0 +1,60 @@
+*************** 👨‍🌾 UNOFFICIAL AUGMENTED FINANCE CALCULATOR 👨‍🌾 ***************
+INFO  : https://augmented.finance
+******************************************************************************
+
+Thu Jan 27 2022 20:05:22 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Augmented Finance is a DeFi liquidity protocol for high-yield lending and low-interest borrowing of digital assets, launched fairly and enabled by artificial intelligence (AI).
+Counts the tokens locked in the contracts to be used as collateral to borrow or to earn yield
+Borrowed coins are not counted towards the TVL, so only the coins actually locked in the contracts are counted
+There's multiple reasons behind this but one of the main ones is to avoid inflating the TVL through cycled lending
+
+TVL: $633,486.49
+Supplied tokens:
+MATIC: 4016.3967 / $6586.89
+ALPACA: 8946.8352 / $3135.81
+AWBTC: 0.2900 / $10690.89
+USDT: 62755.3738 / $62755.37
+DOGE: 5194.8822 / $737.26
+SXP: 486.9284 / $647.61
+CHR: 1108.5020 / $579.84
+XVS: 94.4219 / $769.54
+ADAI: 2383.0929 / $2383.09
+WBNB: 27.6290 / $10318.87
+XRP: 1280.4649 / $778.72
+filecoin: 30.1863 / $590.14
+BCH: 3.0823 / $896.26
+CAKE: 204.1943 / $1492.66
+DOT: 113.6457 / $2049.03
+CUSDT: 46580.1441 / $1011.56
+BTCB: 0.2999 / $10926.17
+AUTO: 2.0543 / $850.55
+REEF: 444399.7601 / $4376.30
+TUSD: 5010.0552 / $5010.06
+CUSDC: 44884.1290 / $1011.41
+USDC: 159188.6788 / $159188.68
+LTC: 34.2271 / $3692.08
+AWETH: 1.7501 / $4337.33
+INJ: 71.4682 / $315.17
+CETH: 12.4657 / $620.79
+SUSHI: 858.7262 / $3606.65
+AAVE: 2.9229 / $433.91
+UNI: 42.2929 / $454.65
+WBTC: 0.1146 / $4196.25
+LINA: 26469.0207 / $592.33
+AUSDT: 1011.7159 / $1011.72
+BIFI: 0.7705 / $1352.29
+CDAI: 46149.0674 / $1006.99
+LINK: 132.2083 / $2049.23
+AUSDC: 1009.9784 / $1004.60
+BETH: 2.8821 / $6728.79
+WETH: 89.8407 / $223039.35
+tron: 7412.2606 / $420.18
+DAI: 59044.4792 / $59029.66
+DODO: 11145.6477 / $5423.24
+BUSD: 20746.4938 / $20746.49
+ADA: 6321.9738 / $6638.07

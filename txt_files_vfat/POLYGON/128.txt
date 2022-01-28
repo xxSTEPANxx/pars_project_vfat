@@ -6,151 +6,20 @@ INFO  : https://stonkz.farm/
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Fri Dec 17 2021 10:20:46 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 22:41:50 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
+Staking Contract
 Found 13 pools.
 Showing incentivized pools only.
-Finished reading smart contracts.
-0 - STONKZ Price: $0.000219 Market Cap: $73.42 [%]
-Staked: 199056.4609 STONKZ ($43.69)
-STONKZ Per Week: 5759.98 ($1.26)
-APR: Day 0.41% Week 2.89% Year 150.47%
-You are staking 0.00 STONKZ ($0.00), 0.00% of the pool.
-Stake 0.00 STONKZ - Fee 1.5%
-Unstake 0.00 STONKZ
-Claim 0.00 STONKZ ($0.00)
-Staking or unstaking also claims rewards.
-
-1 - [STONKZ]-[USDC] Uni LP [+] [-] [<=>] Price: $31,514.08 TVL: $18.26
-STONKZ Price: $0.000219
-USDC Price: $1.00
-Staked: 0.0006 UNI-V2 ($17.55)
-STONKZ Per Week: 5759.98 ($1.26)
-APR: Day 1.03% Week 7.20% Year 374.58%
-You are staking 0.00 [STONKZ]-[USDC] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [STONKZ]-[USDC] Uni LP
-Unstake 0.00 [STONKZ]-[USDC] Uni LP
-Claim 0.00 STONKZ ($0.00)
-Staking or unstaking also claims rewards.
-
-2 - USDT Price: $1.00 Market Cap: $318,202,586.16 [%]
-Staked: 0.8141 USDT ($0.81)
-STONKZ Per Week: 288.00 ($0.06)
-APR: Day 1.11% Week 7.80% Year 405.71%
-You are staking 0.00 USDT ($0.00), 0.00% of the pool.
-Stake 0.00 USDT - Fee 4%
-Unstake 0.00 USDT
-Claim 0.00 STONKZ ($0.00)
-Staking or unstaking also claims rewards.
-
-3 - USDC Price: $1.00 Market Cap: $947,472,315.93 [%]
-Staked: 0.9600 USDC ($0.96)
-STONKZ Per Week: 288.00 ($0.06)
-APR: Day 0.95% Week 6.62% Year 344.11%
-You are staking 0.00 USDC ($0.00), 0.00% of the pool.
-Stake 0.00 USDC - Fee 4%
-Unstake 0.00 USDC
-Claim 0.00 STONKZ ($0.00)
-Staking or unstaking also claims rewards.
-
-4 - WMATIC Price: $2.05 Market Cap: $625,755,648.87 [%]
-Staked: 342.1736 WMATIC ($701.46)
-STONKZ Per Week: 288.00 ($0.06)
-APR: Day 0.00% Week 0.01% Year 0.47%
-You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
-Stake 0.00 WMATIC - Fee 4%
-Unstake 0.00 WMATIC
-Claim 0.00 STONKZ ($0.00)
-Staking or unstaking also claims rewards.
-
-5 - WBTC Price: $46,996.00 Market Cap: $474,839,879.09 [%]
-Staked: 0.0000 WBTC ($0.96)
-STONKZ Per Week: 288.00 ($0.06)
-APR: Day 0.94% Week 6.56% Year 341.18%
-You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
-Stake 0.00 WBTC - Fee 4%
-Unstake 0.00 WBTC
-Claim 0.00 STONKZ ($0.00)
-Staking or unstaking also claims rewards.
-
-6 - WETH Price: $3,892.79 Market Cap: $1,728,425,218.44 [%]
-Staked: 0.0096 WETH ($37.48)
-STONKZ Per Week: 288.00 ($0.06)
-APR: Day 0.02% Week 0.17% Year 8.77%
-You are staking 0.00 WETH ($0.00), 0.00% of the pool.
-Stake 0.00 WETH - Fee 4%
-Unstake 0.00 WETH
-Claim 0.00 STONKZ ($0.00)
-Staking or unstaking also claims rewards.
-
-7 - PolyDoge Price: $0.0000000230 Market Cap: $23,008,000.00 [%]
-Staked: 319.9930 PolyDoge ($0.00)
-STONKZ Per Week: 0.06 ($0.00)
-APR: Day 24.53% Week 171.72% Year 8929.24%
-You are staking 0.00 PolyDoge ($0.00), 0.00% of the pool.
-Stake 0.00 PolyDoge
-Unstake 0.00 PolyDoge
-Claim 0.00 STONKZ ($0.00)
-Staking or unstaking also claims rewards.
-
-8 - QUICK Price: $241.20 Market Cap: $230,475,864.82 [%]
-Staked: 0.0014 QUICK ($0.33)
-STONKZ Per Week: 288.00 ($0.06)
-APR: Day 2.74% Week 19.17% Year 996.67%
-You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
-Stake 0.00 QUICK - Fee 4%
-Unstake 0.00 QUICK
-Claim 0.00 STONKZ ($0.00)
-Staking or unstaking also claims rewards.
-
-9 - DAI Price: $1.00 Market Cap: $366,279,090.69 [%]
-Staked: 1.3776 DAI ($1.37)
-STONKZ Per Week: 288.00 ($0.06)
-APR: Day 0.66% Week 4.61% Year 239.50%
-You are staking 0.00 DAI ($0.00), 0.00% of the pool.
-Stake 0.00 DAI - Fee 4%
-Unstake 0.00 DAI
-Claim 0.00 STONKZ ($0.00)
-Staking or unstaking also claims rewards.
-
-10 - [USDC]-[USDT] Uni LP [+] [-] [<=>] Price: $2,612,063,362,177.52 TVL: $23,979,100.68
-USDC Price: $1.00
-USDT Price: $1.00
-Staked: 0.0000 UNI-V2 ($1.95)
-STONKZ Per Week: 288.00 ($0.06)
-APR: Day 0.46% Week 3.23% Year 168.17%
-You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[USDT] Uni LP - Fee 4%
-Unstake 0.00 [USDC]-[USDT] Uni LP
-Claim 0.00 STONKZ ($0.00)
-Staking or unstaking also claims rewards.
-
-11 - [WBTC]-[USDC] Uni LP [+] [-] [<=>] Price: $50,787,621,872,317.01 TVL: $11,374,683.46
-WBTC Price: $46,996.00
-USDC Price: $1.00
-Staked: 0.0000 UNI-V2 ($1.96)
-STONKZ Per Week: 288.00 ($0.06)
-APR: Day 0.46% Week 3.22% Year 167.39%
-You are staking 0.00 [WBTC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WBTC]-[USDC] Uni LP - Fee 4%
-Unstake 0.00 [WBTC]-[USDC] Uni LP
-Claim 0.00 STONKZ ($0.00)
-Staking or unstaking also claims rewards.
-
-12 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,725,538.08 TVL: $51,038,387.25
-WMATIC Price: $2.05
-USDC Price: $1.00
-Staked: 0.0001 UNI-V2 ($724.74)
-STONKZ Per Week: 288.00 ($0.06)
-APR: Day 0.00% Week 0.01% Year 0.45%
-You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
-Unstake 0.00 [WMATIC]-[USDC] Uni LP
-Claim 0.00 STONKZ ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $1,533.27
+{
+  "code": -32603,
+  "message": "Non-200 status code: '400'",
+  "data": {
+    "error": "Unable to verify your data submission."
+  }
+}
+Oops something went wrong. Try refreshing the page.

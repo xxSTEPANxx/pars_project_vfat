@@ -18,139 +18,17 @@ Our docs: https://wavedefi.gitbook.io/wave-finance/
 
 ************************************************************************
 
-Thu Dec 16 2021 06:05:42 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 23:54:58 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
-Found 12 pools.
-Showing incentivized pools only.
-Finished reading smart contracts.
-0 - WAVE Price: $0.007450 Market Cap: $7,450.46 [%]
-Staked: 15841.5322 WAVE ($118.03)
-WAVE Per Week: 24895.87 ($185.49)
-APR: Day 22.45% Week 157.16% Year 8172.10%
-You are staking 0.00 WAVE ($0.00), 0.00% of the pool.
-Stake 0.00 WAVE
-Unstake 0.00 WAVE
-Claim 0.00 WAVE ($0.00)
-Staking or unstaking also claims rewards.
-
-1 - WETH Price: $4,039.79 Market Cap: $1,793,154,654.14 [%]
-Staked: 0.0095 WETH ($38.43)
-WAVE Per Week: 9335.95 ($69.56)
-APR: Day 25.86% Week 181.00% Year 9411.87%
-You are staking 0.00 WETH ($0.00), 0.00% of the pool.
-Stake 0.00 WETH - Fee 4%
-Unstake 0.00 WETH
-Claim 0.00 WAVE ($0.00)
-Staking or unstaking also claims rewards.
-
-2 - WBTC Price: $49,074.00 Market Cap: $497,800,844.82 [%]
-Staked: 0.0000 WBTC ($0.00)
-WAVE Per Week: 7779.96 ($57.96)
-APR: Day Infinity% Week Infinity% Year Infinity%
-You are staking 0.00 WBTC ($0.00), NaN% of the pool.
-Stake 0.00 WBTC - Fee 4%
-Unstake 0.00 WBTC
-Claim 0.00 WAVE ($0.00)
-Staking or unstaking also claims rewards.
-
-3 - WMATIC Price: $2.14 Market Cap: $651,046,012.09 [%]
-Staked: 11.5200 WMATIC ($24.65)
-WAVE Per Week: 12447.94 ($92.74)
-APR: Day 53.74% Week 376.20% Year 19562.19%
-You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
-Stake 0.00 WMATIC - Fee 4%
-Unstake 0.00 WMATIC
-Claim 0.00 WAVE ($0.00)
-Staking or unstaking also claims rewards.
-
-4 - QUICK Price: $251.60 Market Cap: $240,410,864.75 [%]
-Staked: 0.0559 QUICK ($14.07)
-WAVE Per Week: 3111.98 ($23.19)
-APR: Day 23.53% Week 164.73% Year 8566.05%
-You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
-Stake 0.00 QUICK - Fee 4%
-Unstake 0.00 QUICK
-Claim 0.00 WAVE ($0.00)
-Staking or unstaking also claims rewards.
-
-5 - USDC Price: $1.00 Market Cap: $943,523,274.91 [%]
-Staked: 0.0096 USDC ($0.01)
-WAVE Per Week: 3111.98 ($23.19)
-APR: Day 34498.95% Week 241492.66% Year 12557618.15%
-You are staking 0.00 USDC ($0.00), 0.00% of the pool.
-Stake 0.00 USDC - Fee 4%
-Unstake 0.00 USDC
-Claim 0.00 WAVE ($0.00)
-Staking or unstaking also claims rewards.
-
-6 - USDT Price: $1.00 Market Cap: $313,461,279.68 [%]
-Staked: 0.0000 USDT ($0.00)
-WAVE Per Week: 6223.97 ($46.37)
-APR: Day Infinity% Week Infinity% Year Infinity%
-You are staking 0.00 USDT ($0.00), NaN% of the pool.
-Stake 0.00 USDT - Fee 4%
-Unstake 0.00 USDT
-Claim 0.00 WAVE ($0.00)
-Staking or unstaking also claims rewards.
-
-7 - DAI Price: $1.00 Market Cap: $374,131,149.78 [%]
-Staked: 28.7451 DAI ($28.75)
-WAVE Per Week: 4356.78 ($32.46)
-APR: Day 16.13% Week 112.92% Year 5872.03%
-You are staking 0.00 DAI ($0.00), 0.00% of the pool.
-Stake 0.00 DAI - Fee 4%
-Unstake 0.00 DAI
-Claim 0.00 WAVE ($0.00)
-Staking or unstaking also claims rewards.
-
-8 - [WMATIC]-[WAVE] Uni LP [+] [-] [<=>] Price: $0.26 TVL: $11,405.98
-WMATIC Price: $2.14
-WAVE Price: $0.007450
-Staked: 212.4087 UNI-V2 ($54.82)
-WAVE Per Week: 49791.75 ($370.97)
-APR: Day 96.68% Week 676.77% Year 35192.03%
-You are staking 0.00 [WMATIC]-[WAVE] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[WAVE] Uni LP
-Unstake 0.00 [WMATIC]-[WAVE] Uni LP
-Claim 0.00 WAVE ($0.00)
-Staking or unstaking also claims rewards.
-
-9 - [USDC]-[WAVE] Uni LP [+] [-] [<=>] Price: $176,183.95 TVL: $145.27
-USDC Price: $1.00
-WAVE Price: $0.007450
-Staked: 0.0007 UNI-V2 ($130.80)
-WAVE Per Week: 31119.84 ($231.86)
-APR: Day 25.32% Week 177.26% Year 9217.77%
-You are staking 0.00 [USDC]-[WAVE] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[WAVE] Uni LP
-Unstake 0.00 [USDC]-[WAVE] Uni LP
-Claim 0.00 WAVE ($0.00)
-Staking or unstaking also claims rewards.
-
-10 - [TETU]-[USDC] Uni LP [+] [-] [<=>] Price: $297,663.75 TVL: $275,179.20
-TETU Price: $0.02
-USDC Price: $1.00
-Staked: 0.0000 UNI-V2 ($0.00)
-WAVE Per Week: 3111.98 ($23.19)
-APR: Day 1112746931534566.25% Week 7789228520741964.00% Year 405039883078582144.00%
-You are staking 0.00 [TETU]-[USDC] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [TETU]-[USDC] Uni LP
-Unstake 0.00 [TETU]-[USDC] Uni LP
-Claim 0.00 WAVE ($0.00)
-Staking or unstaking also claims rewards.
-
-11 - GBNT Price: $0.00 Market Cap: $0.00 
-Staked: 1011.0306 GBNT ($0.00)
-WAVE Per Week: 3111.98 ($23.19)
-APR: Day NaN% Week NaN% Year NaN%
-You are staking 0.00 GBNT ($0.00), NaN% of the pool.
-Stake 0.00 GBNT
-Unstake 0.00 GBNT
-Claim 0.00 WAVE ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $409.55
+{
+  "code": -32603,
+  "message": "Non-200 status code: '400'",
+  "data": {
+    "error": "Unable to verify your data submission."
+  }
+}
+Oops something went wrong. Try refreshing the page.

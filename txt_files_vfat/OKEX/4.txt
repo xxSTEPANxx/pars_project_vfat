@@ -1,0 +1,543 @@
+*************** 👨‍🌾 UNOFFICIAL CHERRYSWAP FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://www.cherryswap.net
+*******************************************************************************
+
+Fri Jan 28 2022 01:07:08 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 63 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+1 - [CHE]-[WOKT] Uni LP [+] [-] [<=>] Price: $4.02 TVL: $374,749.51
+CHE Price: $0.08
+WOKT Price: $40.91
+Staked: 91547.8134 Che-LP ($367,914.06)
+CHE Per Week: 20968.20 ($1,641.79)
+APR: Day 0.06% Week 0.45% Year 23.20%
+You are staking 0.00 [CHE]-[WOKT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CHE]-[WOKT] Uni LP
+Unstake 0.00 [CHE]-[WOKT] Uni LP
+Claim 0.00 CHE ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [USDT]-[CHE] Uni LP [+] [-] [<=>] Price: $0.68 TVL: $1,346,947.94
+USDT Price: $1.01
+CHE Price: $0.08
+Staked: 1969600.8037 Che-LP ($1,335,564.99)
+CHE Per Week: 190810.58 ($14,940.24)
+APR: Day 0.16% Week 1.12% Year 58.17%
+You are staking 0.00 [USDT]-[CHE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[CHE] Uni LP
+Unstake 0.00 [USDT]-[CHE] Uni LP
+Claim 0.00 CHE ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDT]-[WOKT] Uni LP [+] [-] [<=>] Price: $15.01 TVL: $856,187.45
+USDT Price: $1.01
+WOKT Price: $40.91
+Staked: 56054.8406 Che-LP ($841,167.22)
+CHE Per Week: 2516.18 ($197.01)
+APR: Day 0.00% Week 0.02% Year 1.22%
+You are staking 0.00 [USDT]-[WOKT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WOKT] Uni LP
+Unstake 0.00 [USDT]-[WOKT] Uni LP
+Claim 0.00 CHE ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDT]-[BTCK] Uni LP [+] [-] [<=>] Price: $389.80 TVL: $999,731.79
+USDT Price: $1.01
+BTCK Price: $35,896.00
+Staked: 2561.8634 Che-LP ($998,612.68)
+CHE Per Week: 15376.68 ($1,203.98)
+APR: Day 0.02% Week 0.12% Year 6.27%
+You are staking 0.00 [USDT]-[BTCK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BTCK] Uni LP
+Unstake 0.00 [USDT]-[BTCK] Uni LP
+Claim 0.00 CHE ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [USDT]-[ETHK] Uni LP [+] [-] [<=>] Price: $101.30 TVL: $773,306.89
+USDT Price: $1.01
+ETHK Price: $2,368.74
+Staked: 7615.6609 Che-LP ($771,480.40)
+CHE Per Week: 15376.68 ($1,203.98)
+APR: Day 0.02% Week 0.16% Year 8.12%
+You are staking 0.00 [USDT]-[ETHK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[ETHK] Uni LP
+Unstake 0.00 [USDT]-[ETHK] Uni LP
+Claim 0.00 CHE ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [SUSHIK]-[USDT] Uni LP [+] [-] [<=>] Price: $4.24 TVL: $4,223.23
+SUSHIK Price: $3.95
+USDT Price: $1.01
+Staked: 952.9711 Che-LP ($4,037.56)
+CHE Per Week: 139.79 ($10.95)
+APR: Day 0.04% Week 0.27% Year 14.10%
+You are staking 0.00 [SUSHIK]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SUSHIK]-[USDT] Uni LP
+Unstake 0.00 [SUSHIK]-[USDT] Uni LP
+Claim 0.00 CHE ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [USDT]-[ETCK] Uni LP [+] [-] [<=>] Price: $10.34 TVL: $115,506.72
+USDT Price: $1.01
+ETCK Price: $24.00
+Staked: 11157.9455 Che-LP ($115,338.29)
+CHE Per Week: 978.52 ($76.62)
+APR: Day 0.01% Week 0.07% Year 3.45%
+You are staking 0.00 [USDT]-[ETCK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[ETCK] Uni LP
+Unstake 0.00 [USDT]-[ETCK] Uni LP
+Claim 0.00 CHE ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [USDT]-[UNIK] Uni LP [+] [-] [<=>] Price: $6.71 TVL: $1,382,380.43
+USDT Price: $1.01
+UNIK Price: $10.13
+Staked: 205784.4047 Che-LP ($1,380,003.23)
+CHE Per Week: 2795.76 ($218.90)
+APR: Day 0.00% Week 0.02% Year 0.82%
+You are staking 0.00 [USDT]-[UNIK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[UNIK] Uni LP
+Unstake 0.00 [USDT]-[UNIK] Uni LP
+Claim 0.00 CHE ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [USDT]-[DOTK] Uni LP [+] [-] [<=>] Price: $9.07 TVL: $16,455.44
+USDT Price: $1.01
+DOTK Price: $17.81
+Staked: 1793.4589 Che-LP ($16,267.54)
+CHE Per Week: 559.15 ($43.78)
+APR: Day 0.04% Week 0.27% Year 13.99%
+You are staking 0.00 [USDT]-[DOTK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[DOTK] Uni LP
+Unstake 0.00 [USDT]-[DOTK] Uni LP
+Claim 0.00 CHE ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [USDT]-[LINKK] Uni LP [+] [-] [<=>] Price: $8.45 TVL: $5,368.76
+USDT Price: $1.01
+LINKK Price: $15.05
+Staked: 532.4360 Che-LP ($4,500.49)
+CHE Per Week: 419.36 ($32.84)
+APR: Day 0.10% Week 0.73% Year 37.94%
+You are staking 0.00 [USDT]-[LINKK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[LINKK] Uni LP
+Unstake 0.00 [USDT]-[LINKK] Uni LP
+Claim 0.00 CHE ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [USDT]-[FILK] Uni LP [+] [-] [<=>] Price: $9.38 TVL: $69,484.23
+USDT Price: $1.01
+FILK Price: $18.75
+Staked: 7368.0670 Che-LP ($69,121.27)
+CHE Per Week: 838.73 ($65.67)
+APR: Day 0.01% Week 0.10% Year 4.94%
+You are staking 0.00 [USDT]-[FILK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[FILK] Uni LP
+Unstake 0.00 [USDT]-[FILK] Uni LP
+Claim 0.00 CHE ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [USDT]-[OKB] Uni LP [+] [-] [<=>] Price: $10.39 TVL: $340,665.51
+USDT Price: $1.01
+OKB Price: $20.95
+Staked: 32593.7279 Che-LP ($338,771.70)
+CHE Per Week: 2236.61 ($175.12)
+APR: Day 0.01% Week 0.05% Year 2.69%
+You are staking 0.00 [USDT]-[OKB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[OKB] Uni LP
+Unstake 0.00 [USDT]-[OKB] Uni LP
+Claim 0.00 CHE ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [BCHK]-[USDT] Uni LP [+] [-] [<=>] Price: $35.29 TVL: $152,997.94
+BCHK Price: $286.96
+USDT Price: $1.01
+Staked: 4327.9657 Che-LP ($152,730.91)
+CHE Per Week: 4193.64 ($328.36)
+APR: Day 0.03% Week 0.21% Year 11.18%
+You are staking 0.00 [BCHK]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BCHK]-[USDT] Uni LP
+Unstake 0.00 [BCHK]-[USDT] Uni LP
+Claim 0.00 CHE ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [USDT]-[LTCK] Uni LP [+] [-] [<=>] Price: $21.50 TVL: $23,693.34
+USDT Price: $1.01
+LTCK Price: $105.71
+Staked: 1096.8254 Che-LP ($23,578.91)
+CHE Per Week: 698.94 ($54.73)
+APR: Day 0.03% Week 0.23% Year 12.07%
+You are staking 0.00 [USDT]-[LTCK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[LTCK] Uni LP
+Unstake 0.00 [USDT]-[LTCK] Uni LP
+Claim 0.00 CHE ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [TRXK]-[USDT] Uni LP [+] [-] [<=>] Price: $0.50 TVL: $21,700.45
+TRXK Price: $0.06
+USDT Price: $1.01
+Staked: 43602.3374 Che-LP ($21,636.48)
+CHE Per Week: 1397.88 ($109.45)
+APR: Day 0.07% Week 0.51% Year 26.31%
+You are staking 0.00 [TRXK]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TRXK]-[USDT] Uni LP
+Unstake 0.00 [TRXK]-[USDT] Uni LP
+Claim 0.00 CHE ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [USDT]-[XRPK] Uni LP [+] [-] [<=>] Price: $1.62 TVL: $30,957.56
+USDT Price: $1.01
+XRPK Price: $0.60
+Staked: 19009.7148 Che-LP ($30,849.49)
+CHE Per Week: 1397.88 ($109.45)
+APR: Day 0.05% Week 0.35% Year 18.45%
+You are staking 0.00 [USDT]-[XRPK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[XRPK] Uni LP
+Unstake 0.00 [USDT]-[XRPK] Uni LP
+Claim 0.00 CHE ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [USDT]-[SHIBK] Uni LP [+] [-] [<=>] Price: $0.01 TVL: $8,175.64
+USDT Price: $1.01
+SHIBK Price: $0.0000211016
+Staked: 792865.8158 Che-LP ($7,968.09)
+CHE Per Week: 195.70 ($15.32)
+APR: Day 0.03% Week 0.19% Year 10.00%
+You are staking 0.00 [USDT]-[SHIBK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[SHIBK] Uni LP
+Unstake 0.00 [USDT]-[SHIBK] Uni LP
+Claim 0.00 CHE ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [USDT]-[AUCTIONK] Uni LP [+] [-] [<=>] Price: $11.23 TVL: $967.04
+USDT Price: $1.01
+AUCTIONK Price: $30.48
+Staked: 79.3295 Che-LP ($890.49)
+CHE Per Week: 27.96 ($2.19)
+APR: Day 0.04% Week 0.25% Year 12.78%
+You are staking 0.00 [USDT]-[AUCTIONK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[AUCTIONK] Uni LP
+Unstake 0.00 [USDT]-[AUCTIONK] Uni LP
+Claim 0.00 CHE ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [USDT]-[ZKSK] Uni LP [+] [-] [<=>] Price: $0.80 TVL: $1,847.79
+USDT Price: $1.01
+ZKSK Price: $0.15
+Staked: 2291.0658 Che-LP ($1,841.68)
+CHE Per Week: 27.96 ($2.19)
+APR: Day 0.02% Week 0.12% Year 6.18%
+You are staking 0.00 [USDT]-[ZKSK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[ZKSK] Uni LP
+Unstake 0.00 [USDT]-[ZKSK] Uni LP
+Claim 0.00 CHE ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - [BUSD]-[USDT] Uni LP [+] [-] [<=>] Price: $2.04 TVL: $2,154,347.72
+BUSD Price: $1.01
+USDT Price: $1.01
+Staked: 1054194.9801 Che-LP ($2,154,099.28)
+CHE Per Week: 419.36 ($32.84)
+APR: Day 0.00% Week 0.00% Year 0.08%
+You are staking 0.00 [BUSD]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUSD]-[USDT] Uni LP
+Unstake 0.00 [BUSD]-[USDT] Uni LP
+Claim 0.00 CHE ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - [BNB]-[USDT] Uni LP [+] [-] [<=>] Price: $40.49 TVL: $52,488.63
+BNB Price: $372.46
+USDT Price: $1.01
+Staked: 92.2600 Che-LP ($3,735.42)
+CHE Per Week: 698.94 ($54.73)
+APR: Day 0.21% Week 1.47% Year 76.18%
+You are staking 0.00 [BNB]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BNB]-[USDT] Uni LP
+Unstake 0.00 [BNB]-[USDT] Uni LP
+Claim 0.00 CHE ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - [BTCK]-[ETHK] Uni LP [+] [-] [<=>] Price: $18,563.75 TVL: $511,624.29
+BTCK Price: $35,896.00
+ETHK Price: $2,368.74
+Staked: 27.3501 Che-LP ($507,720.31)
+CHE Per Week: 2096.82 ($164.18)
+APR: Day 0.00% Week 0.03% Year 1.68%
+You are staking 0.00 [BTCK]-[ETHK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCK]-[ETHK] Uni LP
+Unstake 0.00 [BTCK]-[ETHK] Uni LP
+Claim 0.00 CHE ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [USDT]-[USDC] Uni LP [+] [-] [<=>] Price: $2.06 TVL: $139,664.38
+USDT Price: $1.01
+USDC Price: $1.01
+Staked: 67623.7576 Che-LP ($139,339.22)
+CHE Per Week: 698.94 ($54.73)
+APR: Day 0.01% Week 0.04% Year 2.04%
+You are staking 0.00 [USDT]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[USDC] Uni LP
+Unstake 0.00 [USDT]-[USDC] Uni LP
+Claim 0.00 CHE ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - [USDT]-[USDK] Uni LP [+] [-] [<=>] Price: $2.04 TVL: $88,110.85
+USDT Price: $1.01
+USDK Price: $1.01
+Staked: 43150.4717 Che-LP ($87,972.86)
+CHE Per Week: 55.92 ($4.38)
+APR: Day 0.00% Week 0.00% Year 0.26%
+You are staking 0.00 [USDT]-[USDK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[USDK] Uni LP
+Unstake 0.00 [USDT]-[USDK] Uni LP
+Claim 0.00 CHE ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - [DAIK]-[USDC] Uni LP [+] [-] [<=>] Price: $2.03 TVL: $30,962.53
+DAIK Price: $1.01
+USDC Price: $1.01
+Staked: 15263.6209 Che-LP ($30,957.49)
+CHE Per Week: 698.94 ($54.73)
+APR: Day 0.03% Week 0.18% Year 9.19%
+You are staking 0.00 [DAIK]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAIK]-[USDC] Uni LP
+Unstake 0.00 [DAIK]-[USDC] Uni LP
+Claim 0.00 CHE ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - [BTCK]-[USDK] Uni LP [+] [-] [<=>] Price: $384.88 TVL: $23,191.38
+BTCK Price: $35,896.00
+USDK Price: $1.01
+Staked: 60.1576 Che-LP ($23,153.45)
+CHE Per Week: 1397.88 ($109.45)
+APR: Day 0.07% Week 0.47% Year 24.58%
+You are staking 0.00 [BTCK]-[USDK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCK]-[USDK] Uni LP
+Unstake 0.00 [BTCK]-[USDK] Uni LP
+Claim 0.00 CHE ($0.00)
+Staking or unstaking also claims rewards.
+
+29 - [USDK]-[ETHK] Uni LP [+] [-] [<=>] Price: $99.31 TVL: $17,301.30
+USDK Price: $1.01
+ETHK Price: $2,368.74
+Staked: 172.9966 Che-LP ($17,179.80)
+CHE Per Week: 279.58 ($21.89)
+APR: Day 0.02% Week 0.13% Year 6.63%
+You are staking 0.00 [USDK]-[ETHK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDK]-[ETHK] Uni LP
+Unstake 0.00 [USDK]-[ETHK] Uni LP
+Claim 0.00 CHE ($0.00)
+Staking or unstaking also claims rewards.
+
+32 - [TPT]-[USDT] Uni LP [+] [-] [<=>] Price: $2,740,977.79 TVL: $537,900.95
+TPT Price: $0.02
+USDT Price: $1.01
+Staked: 0.1961 Che-LP ($537,615.61)
+CHE Per Week: 2795.76 ($218.90)
+APR: Day 0.01% Week 0.04% Year 2.12%
+You are staking 0.00 [TPT]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TPT]-[USDT] Uni LP
+Unstake 0.00 [TPT]-[USDT] Uni LP
+Claim 0.00 CHE ($0.00)
+Staking or unstaking also claims rewards.
+
+33 - [WOKT]-[USDK] Uni LP [+] [-] [<=>] Price: $13.11 TVL: $17,561.29
+WOKT Price: $40.91
+USDK Price: $1.01
+Staked: 1336.2786 Che-LP ($17,522.05)
+CHE Per Week: 279.58 ($21.89)
+APR: Day 0.02% Week 0.12% Year 6.50%
+You are staking 0.00 [WOKT]-[USDK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WOKT]-[USDK] Uni LP
+Unstake 0.00 [WOKT]-[USDK] Uni LP
+Claim 0.00 CHE ($0.00)
+Staking or unstaking also claims rewards.
+
+34 - [USDK]-[OKB] Uni LP [+] [-] [<=>] Price: $9.38 TVL: $25,978.08
+USDK Price: $1.01
+OKB Price: $20.95
+Staked: 345.2988 Che-LP ($3,237.43)
+CHE Per Week: 55.92 ($4.38)
+APR: Day 0.02% Week 0.14% Year 7.03%
+You are staking 0.00 [USDK]-[OKB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDK]-[OKB] Uni LP
+Unstake 0.00 [USDK]-[OKB] Uni LP
+Claim 0.00 CHE ($0.00)
+Staking or unstaking also claims rewards.
+
+36 - [lowb]-[USDT] Uni LP [+] [-] [<=>] Price: $0.02 TVL: $76,673.83
+lowb Price: $0.0000543855
+USDT Price: $1.01
+Staked: 4983345.3914 Che-LP ($76,564.87)
+CHE Per Week: 8666.85 ($678.60)
+APR: Day 0.13% Week 0.89% Year 46.09%
+You are staking 0.00 [lowb]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [lowb]-[USDT] Uni LP
+Unstake 0.00 [lowb]-[USDT] Uni LP
+Claim 0.00 CHE ($0.00)
+Staking or unstaking also claims rewards.
+
+38 - [USDT]-[Blade] Uni LP [+] [-] [<=>] Price: $1.04 TVL: $262,118.47
+USDT Price: $1.01
+Blade Price: $0.17
+Staked: 245389.1817 Che-LP ($255,681.49)
+CHE Per Week: 2516.18 ($197.01)
+APR: Day 0.01% Week 0.08% Year 4.01%
+You are staking 0.00 [USDT]-[Blade] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[Blade] Uni LP
+Unstake 0.00 [USDT]-[Blade] Uni LP
+Claim 0.00 CHE ($0.00)
+Staking or unstaking also claims rewards.
+
+43 - [WOKT]-[OKB] Uni LP [+] [-] [<=>] Price: $60.34 TVL: $204,783.22
+WOKT Price: $40.91
+OKB Price: $20.95
+Staked: 3391.1772 Che-LP ($204,635.77)
+CHE Per Week: 279.58 ($21.89)
+APR: Day 0.00% Week 0.01% Year 0.56%
+You are staking 0.00 [WOKT]-[OKB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WOKT]-[OKB] Uni LP
+Unstake 0.00 [WOKT]-[OKB] Uni LP
+Claim 0.00 CHE ($0.00)
+Staking or unstaking also claims rewards.
+
+44 - [DAIK]-[USDT] Uni LP [+] [-] [<=>] Price: $2.10 TVL: $3,443.78
+DAIK Price: $1.01
+USDT Price: $1.01
+Staked: 1631.4326 Che-LP ($3,419.67)
+CHE Per Week: 55.92 ($4.38)
+APR: Day 0.02% Week 0.13% Year 6.66%
+You are staking 0.00 [DAIK]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAIK]-[USDT] Uni LP
+Unstake 0.00 [DAIK]-[USDT] Uni LP
+Claim 0.00 CHE ($0.00)
+Staking or unstaking also claims rewards.
+
+45 - [USDT]-[BabyDoge] Uni LP [+] [-] [<=>] Price: $5.19 TVL: $8,927.63
+USDT Price: $1.01
+BabyDoge Price: $0.0000000040
+Staked: 1684.0659 Che-LP ($8,744.85)
+CHE Per Week: 139.79 ($10.95)
+APR: Day 0.02% Week 0.13% Year 6.51%
+You are staking 0.00 [USDT]-[BabyDoge] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BabyDoge] Uni LP
+Unstake 0.00 [USDT]-[BabyDoge] Uni LP
+Claim 0.00 CHE ($0.00)
+Staking or unstaking also claims rewards.
+
+46 - [USDT]-[GAJ] Uni LP [+] [-] [<=>] Price: $0.45 TVL: $504.84
+USDT Price: $1.01
+GAJ Price: $0.05
+Staked: 1073.4291 Che-LP ($486.18)
+CHE Per Week: 55.92 ($4.38)
+APR: Day 0.13% Week 0.90% Year 46.83%
+You are staking 0.00 [USDT]-[GAJ] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[GAJ] Uni LP
+Unstake 0.00 [USDT]-[GAJ] Uni LP
+Claim 0.00 CHE ($0.00)
+Staking or unstaking also claims rewards.
+
+47 - [CGD]-[USDT] Uni LP [+] [-] [<=>] Price: $0.32 TVL: $3,677.97
+CGD Price: $0.02
+USDT Price: $1.01
+Staked: 11393.8093 Che-LP ($3,634.82)
+CHE Per Week: 55.92 ($4.38)
+APR: Day 0.02% Week 0.12% Year 6.26%
+You are staking 0.00 [CGD]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CGD]-[USDT] Uni LP
+Unstake 0.00 [CGD]-[USDT] Uni LP
+Claim 0.00 CHE ($0.00)
+Staking or unstaking also claims rewards.
+
+48 - [USDT]-[CGS] Uni LP [+] [-] [<=>] Price: $0.48 TVL: $13,306.16
+USDT Price: $1.01
+CGS Price: $0.04
+Staked: 27493.5914 Che-LP ($13,236.16)
+CHE Per Week: 55.92 ($4.38)
+APR: Day 0.00% Week 0.03% Year 1.72%
+You are staking 0.00 [USDT]-[CGS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[CGS] Uni LP
+Unstake 0.00 [USDT]-[CGS] Uni LP
+Claim 0.00 CHE ($0.00)
+Staking or unstaking also claims rewards.
+
+53 - [USDT]-[KINEK] Uni LP [+] [-] [<=>] Price: $1.38 TVL: $661.29
+USDT Price: $1.01
+KINEK Price: $0.46
+Staked: 473.9700 Che-LP ($653.42)
+CHE Per Week: 27.96 ($2.19)
+APR: Day 0.05% Week 0.34% Year 17.42%
+You are staking 0.00 [USDT]-[KINEK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[KINEK] Uni LP
+Unstake 0.00 [USDT]-[KINEK] Uni LP
+Claim 0.00 CHE ($0.00)
+Staking or unstaking also claims rewards.
+
+54 - [SFGK]-[USDT] Uni LP [+] [-] [<=>] Price: $0.69 TVL: $823.70
+SFGK Price: $0.11
+USDT Price: $1.01
+Staked: 1179.4064 Che-LP ($810.04)
+CHE Per Week: 27.96 ($2.19)
+APR: Day 0.04% Week 0.27% Year 14.05%
+You are staking 0.00 [SFGK]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SFGK]-[USDT] Uni LP
+Unstake 0.00 [SFGK]-[USDT] Uni LP
+Claim 0.00 CHE ($0.00)
+Staking or unstaking also claims rewards.
+
+55 - [USDT]-[FIN] Uni LP [+] [-] [<=>] Price: $0.62 TVL: $5,228.09
+USDT Price: $1.01
+FIN Price: $0.09
+Staked: 8350.2521 Che-LP ($5,199.21)
+CHE Per Week: 698.94 ($54.73)
+APR: Day 0.15% Week 1.05% Year 54.73%
+You are staking 0.00 [USDT]-[FIN] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[FIN] Uni LP
+Unstake 0.00 [USDT]-[FIN] Uni LP
+Claim 0.00 CHE ($0.00)
+Staking or unstaking also claims rewards.
+
+59 - [USDT]-[HEP] Uni LP [+] [-] [<=>] Price: $187,225,516.18 TVL: $31,460.14
+USDT Price: $1.01
+HEP Price: $0.002484
+Staked: 0.0001 Che-LP ($21,986.45)
+CHE Per Week: 4193.64 ($328.36)
+APR: Day 0.21% Week 1.49% Year 77.66%
+You are staking 0.00 [USDT]-[HEP] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[HEP] Uni LP
+Unstake 0.00 [USDT]-[HEP] Uni LP
+Claim 0.00 CHE ($0.00)
+Staking or unstaking also claims rewards.
+
+61 - [BALA]-[USDT] Uni LP [+] [-] [<=>] Price: $0.00 TVL: $18,580.38
+BALA Price: $0.0000000705
+USDT Price: $1.01
+Staked: 17234229.6602 Che-LP ($9,257.88)
+CHE Per Week: 9226.01 ($722.39)
+APR: Day 1.11% Week 7.80% Year 405.75%
+You are staking 0.00 [BALA]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BALA]-[USDT] Uni LP
+Unstake 0.00 [BALA]-[USDT] Uni LP
+Claim 0.00 CHE ($0.00)
+Staking or unstaking also claims rewards.
+
+62 - [chip]-[USDT] Uni LP [+] [-] [<=>] Price: $0.04 TVL: $17,568.57
+chip Price: $0.000397
+USDT Price: $1.01
+Staked: 215119.5620 Che-LP ($8,650.70)
+CHE Per Week: 9226.01 ($722.39)
+APR: Day 1.19% Week 8.35% Year 434.23%
+You are staking 0.00 [chip]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [chip]-[USDT] Uni LP
+Unstake 0.00 [chip]-[USDT] Uni LP
+Claim 0.00 CHE ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $10,617,769.90

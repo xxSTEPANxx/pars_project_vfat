@@ -1,0 +1,63 @@
+*************** 👨‍🌾 UNOFFICIAL NippleLabs FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://nipplelabs.finance
+******************************************************************************
+
+Fri Jan 28 2022 00:43:39 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 6 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+1 - [WFTM]-[MILK$] Uni LP [+] [-] [<=>] Price: $0.55 TVL: $2,356.38
+WFTM Price: $2.02
+MILK$ Price: $0.03
+Staked: 2019.3039 NIPS-LP ($1,114.64)
+MILK Per Week: 1277.66 ($38.93)
+APR: Day 0.50% Week 3.49% Year 181.60%
+You are staking 0.00 [WFTM]-[MILK$] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[MILK$] Uni LP - Fee 1%
+Unstake 0.00 [WFTM]-[MILK$] Uni LP
+Claim 0.00 MILK ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDC]-[MILK$] Uni LP [+] [-] [<=>] Price: $361,625.33 TVL: $984.01
+USDC Price: $1.00
+MILK$ Price: $0.03
+Staked: 0.0026 NIPS-LP ($944.17)
+MILK Per Week: 638.83 ($19.46)
+APR: Day 0.29% Week 2.06% Year 107.19%
+You are staking 0.00 [USDC]-[MILK$] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[MILK$] Uni LP - Fee 1%
+Unstake 0.00 [USDC]-[MILK$] Uni LP
+Claim 0.00 MILK ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [WFTM]-[NIPS] Uni LP [+] [-] [<=>] Price: $3,470.51 TVL: $10,346.69
+WFTM Price: $2.02
+NIPS Price: $0.001415
+Staked: 1.3796 NIPS-LP ($4,787.78)
+MILK Per Week: 1277.66 ($38.93)
+APR: Day 0.12% Week 0.81% Year 42.28%
+You are staking 0.00 [WFTM]-[NIPS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[NIPS] Uni LP - Fee 1%
+Unstake 0.00 [WFTM]-[NIPS] Uni LP
+Claim 0.00 MILK ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [NIPS]-[MILK$] Uni LP [+] [-] [<=>] Price: $467.83 TVL: $4,665.18
+NIPS Price: $0.001415
+MILK$ Price: $0.03
+Staked: 4.7641 NIPS-LP ($2,228.79)
+MILK Per Week: 638.83 ($19.46)
+APR: Day 0.12% Week 0.87% Year 45.41%
+You are staking 0.00 [NIPS]-[MILK$] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [NIPS]-[MILK$] Uni LP - Fee 1%
+Unstake 0.00 [NIPS]-[MILK$] Uni LP
+Claim 0.00 MILK ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $9,075.38

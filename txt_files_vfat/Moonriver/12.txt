@@ -1,0 +1,211 @@
+***************   UNOFFICIAL MOONBEACH FINANCE FARMING CALCULATOR  ***************
+
+INFO  : https://moonbeach.farm/
+
+*****************************************************************************
+
+Fri Jan 28 2022 01:14:47 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 18 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [COCONUT]-[WMOVR] Uni LP [+] [-] [<=>] Price: $6.48 TVL: $92.48
+COCONUT Price: $0.14
+WMOVR Price: $71.67
+Staked: 1.5486 UNI-V2 ($10.03)
+COCONUT Per Week: 21.62 ($2.93)
+APR: Day 4.17% Week 29.20% Year 1518.36%
+You are staking 0.00 [COCONUT]-[WMOVR] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [COCONUT]-[WMOVR] Uni LP
+Unstake 0.00 [COCONUT]-[WMOVR] Uni LP
+Claim 0.00 COCONUT ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [COCONUT]-[USDC] Uni LP [+] [-] [<=>] Price: $755,042.49 TVL: $209.91
+COCONUT Price: $0.14
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($35.03)
+COCONUT Per Week: 21.62 ($2.93)
+APR: Day 1.19% Week 8.36% Year 434.96%
+You are staking 0.00 [COCONUT]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [COCONUT]-[USDC] Uni LP
+Unstake 0.00 [COCONUT]-[USDC] Uni LP
+Claim 0.00 COCONUT ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - COCONUT Price: $0.14 Market Cap: $260.58 
+Staked: 451.2730 COCONUT ($61.16)
+COCONUT Per Week: 21.62 ($2.93)
+APR: Day 0.68% Week 4.79% Year 249.13%
+You are staking 0.00 COCONUT ($0.00), 0.00% of the pool.
+Stake 0.00 COCONUT
+Unstake 0.00 COCONUT
+Claim 0.00 COCONUT ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - WMOVR Price: $71.67 Market Cap: $14,251,404.13 
+Staked: 0.1920 WMOVR ($13.76)
+COCONUT Per Week: 9.27 ($1.26)
+APR: Day 1.30% Week 9.13% Year 474.54%
+You are staking 0.00 WMOVR ($0.00), 0.00% of the pool.
+Stake 0.00 WMOVR - Fee 4%
+Unstake 0.00 WMOVR
+Claim 0.00 COCONUT ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - ETH Price: $2,235.70 Market Cap: $20,020,115.20 
+Staked: 0.0066 ETH ($14.72)
+COCONUT Per Week: 6.18 ($0.84)
+APR: Day 0.81% Week 5.69% Year 295.65%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 COCONUT ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - BNB Price: $374.16 Market Cap: $1,583,706.81 
+Staked: 0.0290 BNB ($10.86)
+COCONUT Per Week: 6.18 ($0.84)
+APR: Day 1.10% Week 7.71% Year 400.85%
+You are staking 0.00 BNB ($0.00), 0.00% of the pool.
+Stake 0.00 BNB - Fee 4%
+Unstake 0.00 BNB
+Claim 0.00 COCONUT ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - USDC Price: $1.00 Market Cap: $49,254,341.40 
+Staked: 41.2879 USDC ($41.29)
+COCONUT Per Week: 4.63 ($0.63)
+APR: Day 0.22% Week 1.52% Year 79.08%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 COCONUT ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - USDT Price: $1.00 Market Cap: $10,971,004.50 
+Staked: 13.0611 USDT ($13.05)
+COCONUT Per Week: 4.63 ($0.63)
+APR: Day 0.69% Week 4.81% Year 250.18%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 COCONUT ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - BUSD Price: $1.00 Market Cap: $8,078,252.32 
+Staked: 30.5434 BUSD ($30.51)
+COCONUT Per Week: 3.09 ($0.42)
+APR: Day 0.20% Week 1.37% Year 71.34%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 COCONUT ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - DAI Price: $1.00 Market Cap: $9,706,736.22 
+Staked: 30.0000 DAI ($30.00)
+COCONUT Per Week: 3.09 ($0.42)
+APR: Day 0.20% Week 1.40% Year 72.56%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 COCONUT ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - AVAX Price: $0.00 Market Cap: $0.00 
+Staked: 0.1069 AVAX ($0.00)
+COCONUT Per Week: 3.09 ($0.42)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 AVAX ($0.00), NaN% of the pool.
+Stake 0.00 AVAX - Fee 4%
+Unstake 0.00 AVAX
+Claim 0.00 COCONUT ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - MATIC Price: $0.00 Market Cap: $0.00 
+Staked: 4.9255 MATIC ($0.00)
+COCONUT Per Week: 3.09 ($0.42)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 MATIC ($0.00), NaN% of the pool.
+Stake 0.00 MATIC - Fee 4%
+Unstake 0.00 MATIC
+Claim 0.00 COCONUT ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - mSWAP Price: $0.00 Market Cap: $0.00 
+Staked: 0.1314 mSWAP ($0.00)
+COCONUT Per Week: 1.54 ($0.21)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 mSWAP ($0.00), NaN% of the pool.
+Stake 0.00 mSWAP - Fee 4%
+Unstake 0.00 mSWAP
+Claim 0.00 COCONUT ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [BNB]-[BUSD] Uni LP [+] [-] [<=>] Price: $39.24 TVL: $3,619.59
+BNB Price: $374.16
+BUSD Price: $1.00
+Staked: 1.9158 UNI-V2 ($75.18)
+COCONUT Per Week: 9.27 ($1.26)
+APR: Day 0.24% Week 1.67% Year 86.86%
+You are staking 0.00 [BNB]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BNB]-[BUSD] Uni LP - Fee 4%
+Unstake 0.00 [BNB]-[BUSD] Uni LP
+Claim 0.00 COCONUT ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [DAI]-[USDC] Uni LP [+] [-] [<=>] Price: $2,023,149.63 TVL: $228,112.39
+DAI Price: $1.00
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($42.92)
+COCONUT Per Week: 6.18 ($0.84)
+APR: Day 0.28% Week 1.95% Year 101.44%
+You are staking 0.00 [DAI]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [DAI]-[USDC] Uni LP
+Claim 0.00 COCONUT ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [USDT]-[USDC] Uni LP [+] [-] [<=>] Price: $2,050,492,526,037.61 TVL: $40,146.39
+USDT Price: $1.00
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($26.66)
+COCONUT Per Week: 6.18 ($0.84)
+APR: Day 0.45% Week 3.14% Year 163.31%
+You are staking 0.00 [USDT]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [USDT]-[USDC] Uni LP
+Claim 0.00 COCONUT ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [ETH]-[USDC] Uni LP [+] [-] [<=>] Price: $97,510,859.24 TVL: $4,007.32
+ETH Price: $2,235.70
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($118.68)
+COCONUT Per Week: 6.18 ($0.84)
+APR: Day 0.10% Week 0.71% Year 36.68%
+You are staking 0.00 [ETH]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [ETH]-[USDC] Uni LP
+Claim 0.00 COCONUT ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [BUSD]-[USDC] Uni LP [+] [-] [<=>] Price: $2,054,260.47 TVL: $2,130.91
+BUSD Price: $1.00
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($98.36)
+COCONUT Per Week: 3.09 ($0.42)
+APR: Day 0.06% Week 0.43% Year 22.13%
+You are staking 0.00 [BUSD]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUSD]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [BUSD]-[USDC] Uni LP
+Claim 0.00 COCONUT ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $622.22

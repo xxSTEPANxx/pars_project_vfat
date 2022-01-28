@@ -6,175 +6,21 @@ INFO  : https://vampirefarming.club
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Fri Dec 17 2021 10:37:13 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 22:48:29 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
+Staking Contract
 Found 15 pools.
 Showing incentivized pools only.
-Finished reading smart contracts.
-0 - [USDC]-[VAMPIRE] Uni LP [+] [-] [<=>] Price: $3,309.10 TVL: $1.69
-USDC Price: $1.00
-VAMPIRE Price: $0.0000025047
-Staked: 0.0003 UNI-V2 ($0.94)
-VAMPIRE Per Week: 21818.18 ($0.05)
-APR: Day 0.83% Week 5.81% Year 302.15%
-You are staking 0.00 [USDC]-[VAMPIRE] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[VAMPIRE] Uni LP
-Unstake 0.00 [USDC]-[VAMPIRE] Uni LP
-Claim 0.00 VAMPIRE ($0.00)
-Staking or unstaking also claims rewards.
-
-1 - [WMATIC]-[VAMPIRE] Uni LP [+] [-] [<=>] Price: $0.00 TVL: $1.41
-WMATIC Price: $2.03
-VAMPIRE Price: $0.0000025047
-Staked: 298.1621 UNI-V2 ($1.39)
-VAMPIRE Per Week: 21818.18 ($0.05)
-APR: Day 0.56% Week 3.94% Year 204.69%
-You are staking 0.00 [WMATIC]-[VAMPIRE] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[VAMPIRE] Uni LP
-Unstake 0.00 [WMATIC]-[VAMPIRE] Uni LP
-Claim 0.00 VAMPIRE ($0.00)
-Staking or unstaking also claims rewards.
-
-2 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,705,598.97 TVL: $50,860,709.97
-WMATIC Price: $2.03
-USDC Price: $1.00
-Staked: 0.0000 UNI-V2 ($10.67)
-VAMPIRE Per Week: 11636.36 ($0.03)
-APR: Day 0.04% Week 0.27% Year 14.20%
-You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 5%
-Unstake 0.00 [WMATIC]-[USDC] Uni LP
-Claim 0.00 VAMPIRE ($0.00)
-Staking or unstaking also claims rewards.
-
-3 - VAMPIRE Price: $0.0000025047 Market Cap: $2.89 [%]
-Staked: 263103.3169 VAMPIRE ($0.66)
-VAMPIRE Per Week: 7272.73 ($0.02)
-APR: Day 0.39% Week 2.76% Year 143.74%
-You are staking 0.00 VAMPIRE ($0.00), 0.00% of the pool.
-Stake 0.00 VAMPIRE
-Unstake 0.00 VAMPIRE
-Claim 0.00 VAMPIRE ($0.00)
-Staking or unstaking also claims rewards.
-
-4 - [USDC]-[WETH] Uni LP [+] [-] [<=>] Price: $184,281,308.94 TVL: $80,201,407.07
-USDC Price: $1.00
-WETH Price: $3,886.67
-Staked: 0.0000 UNI-V2 ($6.75)
-VAMPIRE Per Week: 11636.36 ($0.03)
-APR: Day 0.06% Week 0.43% Year 22.47%
-You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[WETH] Uni LP - Fee 5%
-Unstake 0.00 [USDC]-[WETH] Uni LP
-Claim 0.00 VAMPIRE ($0.00)
-Staking or unstaking also claims rewards.
-
-5 - WMATIC Price: $2.03 Market Cap: $619,582,962.97 [%]
-Staked: 190.0000 WMATIC ($385.70)
-VAMPIRE Per Week: 5818.18 ($0.01)
-APR: Day 0.00% Week 0.00% Year 0.20%
-You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
-Stake 0.00 WMATIC - Fee 5%
-Unstake 0.00 WMATIC
-Claim 0.00 VAMPIRE ($0.00)
-Staking or unstaking also claims rewards.
-
-6 - QUICK Price: $240.77 Market Cap: $230,064,983.31 [%]
-Staked: 0.0089 QUICK ($2.14)
-VAMPIRE Per Week: 5818.18 ($0.01)
-APR: Day 0.10% Week 0.68% Year 35.34%
-You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
-Stake 0.00 QUICK - Fee 5%
-Unstake 0.00 QUICK
-Claim 0.00 VAMPIRE ($0.00)
-Staking or unstaking also claims rewards.
-
-7 - WETH Price: $3,886.67 Market Cap: $1,725,720,785.67 [%]
-Staked: 0.0004 WETH ($1.62)
-VAMPIRE Per Week: 5818.18 ($0.01)
-APR: Day 0.13% Week 0.90% Year 46.65%
-You are staking 0.00 WETH ($0.00), 0.00% of the pool.
-Stake 0.00 WETH - Fee 5%
-Unstake 0.00 WETH
-Claim 0.00 VAMPIRE ($0.00)
-Staking or unstaking also claims rewards.
-
-8 - WBTC Price: $46,938.00 Market Cap: $474,253,856.60 [%]
-Staked: 0.0024 WBTC ($111.29)
-VAMPIRE Per Week: 5818.18 ($0.01)
-APR: Day 0.00% Week 0.01% Year 0.68%
-You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
-Stake 0.00 WBTC - Fee 5%
-Unstake 0.00 WBTC
-Claim 0.00 VAMPIRE ($0.00)
-Staking or unstaking also claims rewards.
-
-9 - AAVE Price: $171.04 Market Cap: $46,547,651.31 [%]
-Staked: 0.0060 AAVE ($1.03)
-VAMPIRE Per Week: 5818.18 ($0.01)
-APR: Day 0.20% Week 1.42% Year 73.77%
-You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
-Stake 0.00 AAVE - Fee 5%
-Unstake 0.00 AAVE
-Claim 0.00 VAMPIRE ($0.00)
-Staking or unstaking also claims rewards.
-
-10 - DAI Price: $1.00 Market Cap: $367,225,783.89 [%]
-Staked: 0.9837 DAI ($0.98)
-VAMPIRE Per Week: 5818.18 ($0.01)
-APR: Day 0.21% Week 1.48% Year 77.12%
-You are staking 0.00 DAI ($0.00), 0.00% of the pool.
-Stake 0.00 DAI - Fee 5%
-Unstake 0.00 DAI
-Claim 0.00 VAMPIRE ($0.00)
-Staking or unstaking also claims rewards.
-
-11 - USDT Price: $1.00 Market Cap: $319,086,376.54 [%]
-Staked: 1.9000 USDT ($1.90)
-VAMPIRE Per Week: 5818.18 ($0.01)
-APR: Day 0.11% Week 0.77% Year 39.97%
-You are staking 0.00 USDT ($0.00), 0.00% of the pool.
-Stake 0.00 USDT - Fee 5%
-Unstake 0.00 USDT
-Claim 0.00 VAMPIRE ($0.00)
-Staking or unstaking also claims rewards.
-
-12 - miMATIC Price: $0.00 Market Cap: $0.00 
-Staked: 0.9805 miMATIC ($0.00)
-VAMPIRE Per Week: 5818.18 ($0.01)
-APR: Day NaN% Week NaN% Year NaN%
-You are staking 0.00 miMATIC ($0.00), NaN% of the pool.
-Stake 0.00 miMATIC - Fee 5%
-Unstake 0.00 miMATIC
-Claim 0.00 VAMPIRE ($0.00)
-Staking or unstaking also claims rewards.
-
-13 - [USDC]-[miMATIC] Uni LP [+] [-] [<=>] Price: $2,104,277.35 TVL: $28,346,387.36
-USDC Price: $1.00
-miMATIC Price: $0.98
-Staked: 0.0000 UNI-V2 ($0.00)
-VAMPIRE Per Week: 11636.36 ($0.03)
-APR: Day 198.49% Week 1389.45% Year 72251.45%
-You are staking 0.00 [USDC]-[miMATIC] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[miMATIC] Uni LP - Fee 5%
-Unstake 0.00 [USDC]-[miMATIC] Uni LP
-Claim 0.00 VAMPIRE ($0.00)
-Staking or unstaking also claims rewards.
-
-14 - [USDC]-[DAI] Uni LP [+] [-] [<=>] Price: $76,171,705.63 TVL: $7,264,901.72
-USDC Price: $1.00
-DAI Price: $1.00
-Staked: 0.0000 UNI-V2 ($1.93)
-VAMPIRE Per Week: 11636.36 ($0.03)
-APR: Day 0.22% Week 1.51% Year 78.44%
-You are staking 0.00 [USDC]-[DAI] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[DAI] Uni LP - Fee 5%
-Unstake 0.00 [USDC]-[DAI] Uni LP
-Claim 0.00 VAMPIRE ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $527.01
+{
+  "code": -32603,
+  "message": "Internal JSON-RPC error.",
+  "data": {
+    "code": -32000,
+    "message": "header not found"
+  }
+}
+Oops something went wrong. Try refreshing the page.

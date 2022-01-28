@@ -1,0 +1,129 @@
+*************** 🐶 UNOFFICIAL PANDA FARMS FARMING CALCULATOR 🐶 ***************
+INFO  : http://pandafarms.live/
+*************************************************************************************
+
+Thu Jan 27 2022 21:48:55 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 11 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [PANDA]-[USDC] SLP [+] [-] [<=>] Price: $727,103.54 TVL: $153.33
+PANDA Price: $0.13
+USDC Price: $1.00
+Staked: 0.0001 SLP ($92.38)
+PANDA Per Week: 65.56 ($8.21)
+APR: Day 1.27% Week 8.89% Year 462.08%
+You are staking 0.00 [PANDA]-[USDC] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [PANDA]-[USDC] SLP
+Unstake 0.00 [PANDA]-[USDC] SLP
+Claim 0.00 PANDA ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [PANDA]-[WETH] SLP [+] [-] [<=>] Price: $36.03 TVL: $85.64
+PANDA Price: $0.13
+WETH Price: $2,428.06
+Staked: 1.0254 SLP ($36.94)
+PANDA Per Week: 65.56 ($8.21)
+APR: Day 3.17% Week 22.22% Year 1155.48%
+You are staking 0.00 [PANDA]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [PANDA]-[WETH] SLP
+Unstake 0.00 [PANDA]-[WETH] SLP
+Claim 0.00 PANDA ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - PANDA Price: $0.13 Market Cap: $495.63 
+Staked: 1897.4942 PANDA ($237.58)
+PANDA Per Week: 65.56 ($8.21)
+APR: Day 0.49% Week 3.46% Year 179.67%
+You are staking 0.00 PANDA ($0.00), 0.00% of the pool.
+Stake 0.00 PANDA
+Unstake 0.00 PANDA
+Claim 0.00 PANDA ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - WETH Price: $2,428.06 Market Cap: $574,957,888.24 
+Staked: 0.0000 WETH ($0.00)
+PANDA Per Week: 10.93 ($1.37)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 WETH ($0.00), NaN% of the pool.
+Stake 0.00 WETH - Fee 3%
+Unstake 0.00 WETH
+Claim 0.00 PANDA ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - USDC Price: $1.00 Market Cap: $371,892,993.60 
+Staked: 0.9700 USDC ($0.97)
+PANDA Per Week: 4.37 ($0.55)
+APR: Day 8.08% Week 56.57% Year 2941.69%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 3%
+Unstake 0.00 USDC
+Claim 0.00 PANDA ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - USDT Price: $1.00 Market Cap: $177,405,379.79 
+Staked: 4.8500 USDT ($4.85)
+PANDA Per Week: 2.19 ($0.27)
+APR: Day 0.81% Week 5.64% Year 293.37%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 3%
+Unstake 0.00 USDT
+Claim 0.00 PANDA ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - WBTC Price: $36,091.00 Market Cap: $85,874,768.58 
+Staked: 0.0000 WBTC ($0.00)
+PANDA Per Week: 2.19 ($0.27)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 WBTC ($0.00), NaN% of the pool.
+Stake 0.00 WBTC - Fee 3%
+Unstake 0.00 WBTC
+Claim 0.00 PANDA ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - SUSHI Price: $4.07 Market Cap: $1,232,267.56 
+Staked: 2.0370 SUSHI ($8.29)
+PANDA Per Week: 2.19 ($0.27)
+APR: Day 0.47% Week 3.30% Year 171.62%
+You are staking 0.00 SUSHI ($0.00), 0.00% of the pool.
+Stake 0.00 SUSHI - Fee 3%
+Unstake 0.00 SUSHI
+Claim 0.00 PANDA ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - LINK Price: $15.05 Market Cap: $10,599,356.56 
+Staked: 1.0670 LINK ($16.06)
+PANDA Per Week: 2.19 ($0.27)
+APR: Day 0.24% Week 1.70% Year 88.61%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 3%
+Unstake 0.00 LINK
+Claim 0.00 PANDA ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - NYAN Price: $0.03 Market Cap: $3,190,845.00 
+Staked: 194.0000 NYAN ($6.19)
+PANDA Per Week: 2.19 ($0.27)
+APR: Day 0.63% Week 4.42% Year 229.86%
+You are staking 0.00 NYAN ($0.00), 0.00% of the pool.
+Stake 0.00 NYAN - Fee 3%
+Unstake 0.00 NYAN
+Claim 0.00 PANDA ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - AFARM Price: $0.00 Market Cap: $0.00 
+Staked: 21.1092 AFARM ($0.00)
+PANDA Per Week: 1.09 ($0.14)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 AFARM ($0.00), NaN% of the pool.
+Stake 0.00 AFARM - Fee 3%
+Unstake 0.00 AFARM
+Claim 0.00 PANDA ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $403.26

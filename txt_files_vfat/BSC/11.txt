@@ -1,0 +1,129 @@
+*************** 👨‍🌾 UNOFFICIAL SALTSWAP.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://www.saltswap.finance/
+*************************************************************************************
+
+Thu Jan 27 2022 20:14:00 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 12 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - SALT Price: $0.003435 Market Cap: $27,634.40 [%]
+Staked: 3070308.5799 SALT ($10,546.11)
+SALT Per Week: 15750.00 ($54.10)
+APR: Day 0.07% Week 0.51% Year 26.67%
+You are staking 0.00 SALT ($0.00), 0.00% of the pool.
+Stake 0.00 SALT
+Unstake 0.00 SALT
+Claim 0.00 SALT ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [SALT]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.13 TVL: $13,530.75
+SALT Price: $0.003435
+BUSD Price: $1.00
+Staked: 94899.5478 Cake-LP ($12,572.67)
+SALT Per Week: 63000.00 ($216.40)
+APR: Day 0.25% Week 1.72% Year 89.50%
+You are staking 0.00 [SALT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SALT]-[BUSD] Cake LP
+Unstake 0.00 [SALT]-[BUSD] Cake LP
+Claim 0.00 SALT ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [SALT]-[WBNB] Cake LP [+] [-] [<=>] Price: $2.52 TVL: $10,764.87
+SALT Price: $0.003435
+WBNB Price: $372.02
+Staked: 3985.7302 Cake-LP ($10,057.27)
+SALT Per Week: 37800.00 ($129.84)
+APR: Day 0.18% Week 1.29% Year 67.13%
+You are staking 0.00 [SALT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SALT]-[WBNB] Cake LP
+Unstake 0.00 [SALT]-[WBNB] Cake LP
+Claim 0.00 SALT ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $66.11 TVL: $2,139,208.44
+WBNB Price: $372.02
+BUSD Price: $1.00
+Staked: 240.6445 Cake-LP ($15,908.35)
+SALT Per Week: 7875.00 ($27.05)
+APR: Day 0.02% Week 0.17% Year 8.84%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 1.5%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 SALT ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [DAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.05 TVL: $1,363,335.64
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 1328.0873 Cake-LP ($2,723.97)
+SALT Per Week: 6300.00 ($21.64)
+APR: Day 0.11% Week 0.79% Year 41.31%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 1.5%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 SALT ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [ETH]-[BETH] Cake LP [+] [-] [<=>] Price: $4,867.84 TVL: $317,397.02
+ETH Price: $2,470.63
+BETH Price: $2,326.16
+Staked: 0.5283 Cake-LP ($2,571.86)
+SALT Per Week: 6300.00 ($21.64)
+APR: Day 0.12% Week 0.84% Year 43.75%
+You are staking 0.00 [ETH]-[BETH] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[BETH] Cake LP - Fee 1.5%
+Unstake 0.00 [ETH]-[BETH] Cake LP
+Claim 0.00 SALT ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [Cake]-[BUSD] Cake LP [+] [-] [<=>] Price: $8.70 TVL: $68,791.73
+Cake Price: $7.21
+BUSD Price: $1.00
+Staked: 520.6129 Cake-LP ($4,528.02)
+SALT Per Week: 6300.00 ($21.64)
+APR: Day 0.07% Week 0.48% Year 24.85%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP - Fee 1.5%
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 SALT ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $124.65 TVL: $3,366,129.19
+Cake Price: $7.21
+WBNB Price: $372.02
+Staked: 2.3040 Cake-LP ($287.21)
+SALT Per Week: 3150.00 ($10.82)
+APR: Day 0.54% Week 3.77% Year 195.90%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 1.5%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 SALT ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - BUSD Price: $1.00 Market Cap: $4,840,171,957.99 [%]
+Staked: 2622.7440 BUSD ($2,616.89)
+SALT Per Week: 3150.00 ($10.82)
+APR: Day 0.06% Week 0.41% Year 21.50%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 1.5%
+Unstake 0.00 BUSD
+Claim 0.00 SALT ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - WBNB Price: $372.02 Market Cap: $1,941,918,622.59 [%]
+Staked: 3.4360 WBNB ($1,278.26)
+SALT Per Week: 1575.00 ($5.41)
+APR: Day 0.06% Week 0.42% Year 22.01%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 1.5%
+Unstake 0.00 WBNB
+Claim 0.00 SALT ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $63,090.60

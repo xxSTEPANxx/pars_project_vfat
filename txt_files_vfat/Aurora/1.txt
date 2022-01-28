@@ -1,0 +1,159 @@
+*************** 👨‍🌾 UNOFFICIAL TRISOLARIS FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://www.trisolaris.io
+*******************************************************************************
+
+Wed Dec 22 2021 18:22:35 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 4 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+[AURORA]-[WETH] Trisolaris LP Token [+] [-] [<=>] Price: $461.05 TVL: $5,297,540.90
+AURORA Price: $12.91
+WETH Price: $4,031.19
+Staked: 8097.4899 TLP ($3,733,355.82)
+TRI Per Week: 109963.64 ($155,941.74)
+AURORA Per Week: 777.78 ($10,037.45)
+APR TRI: Day 0.60% Week 4.18% Year 217.20%
+APR AURORA: Day 0.04% Week 0.27% Year 13.98%
+Total Per Week: $165,979.18
+Total APR: Day 0.64% Week 4.45% Year 231.18%
+You are staking 0.00 [AURORA]-[WETH] Trisolaris LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [AURORA]-[WETH] Trisolaris LP Token
+Unstake 0.00 [AURORA]-[WETH] Trisolaris LP Token
+Claim 0.00 TRI ($0.00) + 0.00 AURORA ($0.00)
+Staking or unstaking also claims rewards.
+
+[AURORA]-[TRI] Trisolaris LP Token [+] [-] [<=>] Price: $8.73 TVL: $4,591,776.49
+AURORA Price: $12.91
+TRI Price: $1.42
+Staked: 522563.8651 TLP ($4,560,253.21)
+TRI Per Week: 277108.36 ($392,973.17)
+AURORA Per Week: 777.78 ($10,037.45)
+APR TRI: Day 1.23% Week 8.62% Year 448.10%
+APR AURORA: Day 0.03% Week 0.22% Year 11.45%
+Total Per Week: $403,010.62
+Total APR: Day 1.26% Week 8.84% Year 459.55%
+You are staking 0.00 [AURORA]-[TRI] Trisolaris LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [AURORA]-[TRI] Trisolaris LP Token
+Unstake 0.00 [AURORA]-[TRI] Trisolaris LP Token
+Claim 0.00 TRI ($0.00) + 0.00 AURORA ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [NEAR]-[atLUNA] Trisolaris LP Token [+] [-] [<=>] Price: $0.07 TVL: $463,803.71
+NEAR Price: $11.50
+atLUNA Price: $95.97
+Staked: 6697983.8848 TLP ($446,670.83)
+TRI Per Week: 26391.27 ($37,426.02)
+APR: Day 1.20% Week 8.38% Year 435.70%
+You are staking 0.00 [NEAR]-[atLUNA] Trisolaris LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [NEAR]-[atLUNA] Trisolaris LP Token
+Unstake 0.00 [NEAR]-[atLUNA] Trisolaris LP Token
+Claim 0.00 TRI ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [atUST]-[NEAR] Trisolaris LP Token [+] [-] [<=>] Price: $0.01 TVL: $615,609.11
+atUST Price: $1.01
+NEAR Price: $11.50
+Staked: 89786967.5238 TLP ($615,549.48)
+TRI Per Week: 26391.27 ($37,426.02)
+APR: Day 0.87% Week 6.08% Year 316.17%
+You are staking 0.00 [atUST]-[NEAR] Trisolaris LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [atUST]-[NEAR] Trisolaris LP Token
+Unstake 0.00 [atUST]-[NEAR] Trisolaris LP Token
+Claim 0.00 TRI ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $9,355,829.34
+
+Staking Contract
+Found 8 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [NEAR]-[WETH] Trisolaris LP Token [+] [-] [<=>] Price: $0.47 TVL: $28,497,921.86
+NEAR Price: $11.50
+WETH Price: $4,031.19
+Staked: 60505162.7312 TLP ($28,260,373.10)
+TRI Per Week: 329890.91 ($467,825.21)
+APR: Day 0.24% Week 1.66% Year 86.08%
+You are staking 0.00 [NEAR]-[WETH] Trisolaris LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [NEAR]-[WETH] Trisolaris LP Token
+Unstake 0.00 [NEAR]-[WETH] Trisolaris LP Token
+Claim 0.00 TRI ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [USDC]-[NEAR] Trisolaris LP Token [+] [-] [<=>] Price: $7,216.28 TVL: $16,730,094.07
+USDC Price: $1.01
+NEAR Price: $11.50
+Staked: 2317.0883 TLP ($16,720,757.14)
+TRI Per Week: 357381.82 ($506,810.64)
+APR: Day 0.43% Week 3.03% Year 157.61%
+You are staking 0.00 [USDC]-[NEAR] Trisolaris LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[NEAR] Trisolaris LP Token
+Unstake 0.00 [USDC]-[NEAR] Trisolaris LP Token
+Claim 0.00 TRI ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [USDT]-[NEAR] Trisolaris LP Token [+] [-] [<=>] Price: $7,607.19 TVL: $16,279,677.34
+USDT Price: $1.01
+NEAR Price: $11.50
+Staked: 2138.2220 TLP ($16,265,864.70)
+TRI Per Week: 357381.82 ($506,810.64)
+APR: Day 0.45% Week 3.12% Year 162.02%
+You are staking 0.00 [USDT]-[NEAR] Trisolaris LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[NEAR] Trisolaris LP Token
+Unstake 0.00 [USDT]-[NEAR] Trisolaris LP Token
+Claim 0.00 TRI ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDT]-[USDC] Trisolaris LP Token [+] [-] [<=>] Price: $2,092,844,084,629.53 TVL: $75,748,976.47
+USDT Price: $1.01
+USDC Price: $1.01
+Staked: 0.0000 TLP ($75,720,794.41)
+TRI Per Week: 329890.91 ($467,825.21)
+APR: Day 0.09% Week 0.62% Year 32.13%
+You are staking 0.00 [USDT]-[USDC] Trisolaris LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[USDC] Trisolaris LP Token
+Unstake 0.00 [USDT]-[USDC] Trisolaris LP Token
+Claim 0.00 TRI ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [NEAR]-[WBTC] Trisolaris LP Token [+] [-] [<=>] Price: $152,351.17 TVL: $22,409,608.88
+NEAR Price: $11.50
+WBTC Price: $49,622.87
+Staked: 147.0699 TLP ($22,406,267.47)
+TRI Per Week: 329890.91 ($467,825.21)
+APR: Day 0.30% Week 2.09% Year 108.57%
+You are staking 0.00 [NEAR]-[WBTC] Trisolaris LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [NEAR]-[WBTC] Trisolaris LP Token
+Unstake 0.00 [NEAR]-[WBTC] Trisolaris LP Token
+Claim 0.00 TRI ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [NEAR]-[TRI] Trisolaris LP Token [+] [-] [<=>] Price: $0.03 TVL: $14,926,905.74
+NEAR Price: $11.50
+TRI Price: $1.42
+Staked: 458969210.4415 TLP ($14,541,132.30)
+TRI Per Week: 604800.00 ($857,679.54)
+APR: Day 0.84% Week 5.90% Year 306.71%
+You are staking 0.00 [NEAR]-[TRI] Trisolaris LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [NEAR]-[TRI] Trisolaris LP Token
+Unstake 0.00 [NEAR]-[TRI] Trisolaris LP Token
+Claim 0.00 TRI ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - DLP Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 DLP ($0.00)
+TRI Per Week: 439854.55 ($623,766.94)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 DLP ($0.00), NaN% of the pool.
+Stake 0.00 DLP
+Unstake 0.00 DLP
+Claim 0.00 TRI ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $173,915,189.12

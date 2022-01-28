@@ -6,159 +6,17 @@ INFO  : https://euroballz.finance
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Fri Dec 17 2021 10:45:30 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 22:52:55 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
-Found 14 pools.
-Showing incentivized pools only.
-Finished reading smart contracts.
-0 - [BALLZ]-[WMATIC] Uni LP [+] [-] [<=>] Price: $0.03 TVL: $109.11
-BALLZ Price: $0.0000301377
-WMATIC Price: $2.04
-Staked: 3347.7291 UNI-V2 ($99.44)
-BALLZ Per Week: 94870.59 ($2.86)
-APR: Day 0.41% Week 2.88% Year 149.51%
-You are staking 0.00 [BALLZ]-[WMATIC] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [BALLZ]-[WMATIC] Uni LP
-Unstake 0.00 [BALLZ]-[WMATIC] Uni LP
-Claim 0.00 BALLZ ($0.00)
-Staking or unstaking also claims rewards.
-
-1 - [WBTC]-[USDC] Uni LP [+] [-] [<=>] Price: $50,922,099,516,179.16 TVL: $11,404,801.83
-WBTC Price: $47,029.00
-USDC Price: $1.00
-Staked: 0.0000 UNI-V2 ($17.33)
-BALLZ Per Week: 11858.82 ($0.36)
-APR: Day 0.29% Week 2.06% Year 107.22%
-You are staking 0.00 [WBTC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WBTC]-[USDC] Uni LP - Fee 2.99%
-Unstake 0.00 [WBTC]-[USDC] Uni LP
-Claim 0.00 BALLZ ($0.00)
-Staking or unstaking also claims rewards.
-
-2 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,724,522.80 TVL: $51,029,475.73
-WMATIC Price: $2.04
-USDC Price: $1.00
-Staked: 0.0000 UNI-V2 ($240.86)
-BALLZ Per Week: 11858.82 ($0.36)
-APR: Day 0.02% Week 0.15% Year 7.72%
-You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 2.99%
-Unstake 0.00 [WMATIC]-[USDC] Uni LP
-Claim 0.00 BALLZ ($0.00)
-Staking or unstaking also claims rewards.
-
-3 - USDC Price: $1.00 Market Cap: $951,898,917.21 [%]
-Staked: 120.8575 USDC ($120.81)
-BALLZ Per Week: 11858.82 ($0.36)
-APR: Day 0.04% Week 0.30% Year 15.38%
-You are staking 0.00 USDC ($0.00), 0.00% of the pool.
-Stake 0.00 USDC - Fee 2.99%
-Unstake 0.00 USDC
-Claim 0.00 BALLZ ($0.00)
-Staking or unstaking also claims rewards.
-
-4 - WBTC Price: $47,029.00 Market Cap: $475,488,214.68 [%]
-Staked: 0.0002 WBTC ($7.07)
-BALLZ Per Week: 11858.82 ($0.36)
-APR: Day 0.72% Week 5.06% Year 263.03%
-You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
-Stake 0.00 WBTC - Fee 2.99%
-Unstake 0.00 WBTC
-Claim 0.00 BALLZ ($0.00)
-Staking or unstaking also claims rewards.
-
-5 - WETH Price: $3,889.92 Market Cap: $1,727,168,099.40 [%]
-Staked: 0.0201 WETH ($78.11)
-BALLZ Per Week: 11858.82 ($0.36)
-APR: Day 0.07% Week 0.46% Year 23.79%
-You are staking 0.00 WETH ($0.00), 0.00% of the pool.
-Stake 0.00 WETH - Fee 2.99%
-Unstake 0.00 WETH
-Claim 0.00 BALLZ ($0.00)
-Staking or unstaking also claims rewards.
-
-6 - WMATIC Price: $2.04 Market Cap: $622,519,763.18 [%]
-Staked: 25.4715 WMATIC ($51.96)
-BALLZ Per Week: 11858.82 ($0.36)
-APR: Day 0.10% Week 0.69% Year 35.77%
-You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
-Stake 0.00 WMATIC - Fee 2.99%
-Unstake 0.00 WMATIC
-Claim 0.00 BALLZ ($0.00)
-Staking or unstaking also claims rewards.
-
-7 - BONE Price: $0.00 Market Cap: $0.00 
-Staked: 10786.7835 BONE ($0.00)
-BALLZ Per Week: 5929.41 ($0.18)
-APR: Day NaN% Week NaN% Year NaN%
-You are staking 0.00 BONE ($0.00), NaN% of the pool.
-Stake 0.00 BONE - Fee 2.99%
-Unstake 0.00 BONE
-Claim 0.00 BALLZ ($0.00)
-Staking or unstaking also claims rewards.
-
-8 - USDT Price: $1.00 Market Cap: $319,522,835.97 [%]
-Staked: 20.3721 USDT ($20.36)
-BALLZ Per Week: 11858.82 ($0.36)
-APR: Day 0.25% Week 1.76% Year 91.29%
-You are staking 0.00 USDT ($0.00), 0.00% of the pool.
-Stake 0.00 USDT - Fee 2.99%
-Unstake 0.00 USDT
-Claim 0.00 BALLZ ($0.00)
-Staking or unstaking also claims rewards.
-
-9 - DAI Price: $1.00 Market Cap: $367,288,651.67 [%]
-Staked: 13.5814 DAI ($13.57)
-BALLZ Per Week: 11858.82 ($0.36)
-APR: Day 0.38% Week 2.63% Year 136.97%
-You are staking 0.00 DAI ($0.00), 0.00% of the pool.
-Stake 0.00 DAI - Fee 2.99%
-Unstake 0.00 DAI
-Claim 0.00 BALLZ ($0.00)
-Staking or unstaking also claims rewards.
-
-10 - QUICK Price: $240.41 Market Cap: $229,720,989.48 [%]
-Staked: 0.0345 QUICK ($8.31)
-BALLZ Per Week: 11858.82 ($0.36)
-APR: Day 0.61% Week 4.30% Year 223.77%
-You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
-Stake 0.00 QUICK - Fee 2.99%
-Unstake 0.00 QUICK
-Claim 0.00 BALLZ ($0.00)
-Staking or unstaking also claims rewards.
-
-11 - BALLZ Price: $0.0000301377 Market Cap: $150.58 [%]
-Staked: 2054371.3797 BALLZ ($61.91)
-BALLZ Per Week: 71152.94 ($2.14)
-APR: Day 0.49% Week 3.46% Year 180.10%
-You are staking 0.00 BALLZ ($0.00), 0.00% of the pool.
-Stake 0.00 BALLZ
-Unstake 0.00 BALLZ
-Claim 0.00 BALLZ ($0.00)
-Staking or unstaking also claims rewards.
-
-12 - AAVE Price: $171.16 Market Cap: $46,580,308.69 [%]
-Staked: 0.1323 AAVE ($22.64)
-BALLZ Per Week: 11858.82 ($0.36)
-APR: Day 0.23% Week 1.58% Year 82.10%
-You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
-Stake 0.00 AAVE - Fee 2.99%
-Unstake 0.00 AAVE
-Claim 0.00 BALLZ ($0.00)
-Staking or unstaking also claims rewards.
-
-13 - LINK Price: $18.92 Market Cap: $32,900,960.92 [%]
-Staked: 1.5452 LINK ($29.23)
-BALLZ Per Week: 11858.82 ($0.36)
-APR: Day 0.17% Week 1.22% Year 63.57%
-You are staking 0.00 LINK ($0.00), 0.00% of the pool.
-Stake 0.00 LINK - Fee 2.99%
-Unstake 0.00 LINK
-Claim 0.00 BALLZ ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $771.60
+{
+  "code": -32603,
+  "message": "Non-200 status code: '400'",
+  "data": {
+    "error": "Unable to verify your data submission."
+  }
+}
+Oops something went wrong. Try refreshing the page.

@@ -33,107 +33,31 @@
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Thu Dec 16 2021 05:11:34 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 23:26:49 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
--> 86640.2576 $iDegen in Circulation.
--> 0.03 $iDegen Per Block.
--> Found 10 pools.
-0 - [USDC]-[IDEGEN] Uni LP [+] [-] [<=>] Price: $130,056.52 TVL: $218.61
-USDC Price: $1.00
-IDEGEN Price: $0.003838
-Staked: 0.0006 UNI-V2 ($79.61)
-IDEGEN Per Week: 2246.40 ($8.62)
-APR: Day 1.55% Week 10.83% Year 563.11%
-You are staking 0.00 [USDC]-[IDEGEN] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[IDEGEN] Uni LP
-Unstake 0.00 [USDC]-[IDEGEN] Uni LP
-Claim 0.00 IDEGEN ($0.00)
-Staking or unstaking also claims rewards.
-
-1 - [WMATIC]-[IDEGEN] Uni LP [+] [-] [<=>] Price: $0.19 TVL: $120.29
-WMATIC Price: $2.16
-IDEGEN Price: $0.003838
-Staked: 494.7137 UNI-V2 ($94.46)
-IDEGEN Per Week: 2246.40 ($8.62)
-APR: Day 1.30% Week 9.13% Year 474.58%
-You are staking 0.00 [WMATIC]-[IDEGEN] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[IDEGEN] Uni LP
-Unstake 0.00 [WMATIC]-[IDEGEN] Uni LP
-Claim 0.00 IDEGEN ($0.00)
-Staking or unstaking also claims rewards.
-
-2 - IDEGEN Price: $0.003838 Market Cap: $332.50 [%]
-Staked: 27815.6781 IDEGEN ($106.75)
-IDEGEN Per Week: 1036.80 ($3.98)
-APR: Day 0.53% Week 3.73% Year 193.82%
-You are staking 0.00 IDEGEN ($0.00), 0.00% of the pool.
-Stake 0.00 IDEGEN
-Unstake 0.00 IDEGEN
-Claim 0.00 IDEGEN ($0.00)
-Staking or unstaking also claims rewards.
-
-3 - WMATIC Price: $2.16 Market Cap: $656,181,858.66 [%]
-Staked: 30.7285 WMATIC ($66.37)
-IDEGEN Per Week: 691.20 ($2.65)
-APR: Day 0.57% Week 4.00% Year 207.82%
-You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
-Stake 0.00 WMATIC - Fee 4%
-Unstake 0.00 WMATIC
-Claim 0.00 IDEGEN ($0.00)
-Staking or unstaking also claims rewards.
-
-4 - WBTC Price: $49,124.00 Market Cap: $498,258,930.56 [%]
-Staked: 0.0066 WBTC ($326.42)
-IDEGEN Per Week: 691.20 ($2.65)
-APR: Day 0.12% Week 0.81% Year 42.26%
-You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
-Stake 0.00 WBTC - Fee 4%
-Unstake 0.00 WBTC
-Claim 0.00 IDEGEN ($0.00)
-Staking or unstaking also claims rewards.
-
-5 - WETH Price: $4,054.45 Market Cap: $1,799,493,661.03 [%]
-Staked: 0.0127 WETH ($51.48)
-IDEGEN Per Week: 691.20 ($2.65)
-APR: Day 0.74% Week 5.15% Year 267.94%
-You are staking 0.00 WETH ($0.00), 0.00% of the pool.
-Stake 0.00 WETH - Fee 4%
-Unstake 0.00 WETH
-Claim 0.00 IDEGEN ($0.00)
-Staking or unstaking also claims rewards.
-
-6 - USDC Price: $1.00 Market Cap: $943,568,642.05 [%]
-Staked: 20.3635 USDC ($20.36)
-IDEGEN Per Week: 345.60 ($1.33)
-APR: Day 0.93% Week 6.51% Year 338.69%
-You are staking 0.00 USDC ($0.00), 0.00% of the pool.
-Stake 0.00 USDC - Fee 5%
-Unstake 0.00 USDC
-Claim 0.00 IDEGEN ($0.00)
-Staking or unstaking also claims rewards.
-
-7 - USDT Price: $1.00 Market Cap: $313,439,913.37 [%]
-Staked: 30.9638 USDT ($30.96)
-IDEGEN Per Week: 345.60 ($1.33)
-APR: Day 0.61% Week 4.28% Year 222.74%
-You are staking 0.00 USDT ($0.00), 0.00% of the pool.
-Stake 0.00 USDT - Fee 5%
-Unstake 0.00 USDT
-Claim 0.00 IDEGEN ($0.00)
-Staking or unstaking also claims rewards.
-
-8 - DAI Price: $1.00 Market Cap: $374,104,303.43 [%]
-Staked: 1.1134 DAI ($1.11)
-IDEGEN Per Week: 345.60 ($1.33)
-APR: Day 17.02% Week 119.12% Year 6194.34%
-You are staking 0.00 DAI ($0.00), 0.00% of the pool.
-Stake 0.00 DAI - Fee 5%
-Unstake 0.00 DAI
-Claim 0.00 IDEGEN ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $777.54
+{
+  "code": -32603,
+  "message": "JsonRpcEngine: Response has no error or result for request:\n{\n  \"method\": \"eth_call\",\n  \"params\": [\n    {\n      \"to\": \"0xadc9a7bc1705758fcb1d7289466c4cc39dc2c2bc\",\n      \"data\": \"0x48cd4cb1\"\n    },\n    \"0x171d9f2\"\n  ],\n  \"jsonrpc\": \"2.0\",\n  \"id\": 2219756676,\n  \"origin\": \"https://vfat.tools\",\n  \"tabId\": 2\n}",
+  "data": {
+    "request": {
+      "method": "eth_call",
+      "params": [
+        {
+          "to": "0xadc9a7bc1705758fcb1d7289466c4cc39dc2c2bc",
+          "data": "0x48cd4cb1"
+        },
+        "0x171d9f2"
+      ],
+      "jsonrpc": "2.0",
+      "id": 2219756676,
+      "origin": "https://vfat.tools",
+      "tabId": 2
+    }
+  },
+  "stack": "{\n  \"code\": -32603,\n  \"message\": \"JsonRpcEngine: Response has no error or result for request:\\n{\\n  \\\"method\\\": \\\"eth_call\\\",\\n  \\\"params\\\": [\\n    {\\n      \\\"to\\\": \\\"0xadc9a7bc1705758fcb1d7289466c4cc39dc2c2bc\\\",\\n      \\\"data\\\": \\\"0x48cd4cb1\\\"\\n    },\\n    \\\"0x171d9f2\\\"\\n  ],\\n  \\\"jsonrpc\\\": \\\"2.0\\\",\\n  \\\"id\\\": 2219756676,\\n  \\\"origin\\\": \\\"https://vfat.tools\\\",\\n  \\\"tabId\\\": 2\\n}\",\n  \"data\": {\n    \"request\": {\n      \"method\": \"eth_call\",\n      \"params\": [\n        {\n          \"to\": \"0xadc9a7bc1705758fcb1d7289466c4cc39dc2c2bc\",\n          \"data\": \"0x48cd4cb1\"\n        },\n        \"0x171d9f2\"\n      ],\n      \"jsonrpc\": \"2.0\",\n      \"id\": 2219756676,\n      \"origin\": \"https://vfat.tools\",\n      \"tabId\": 2\n    }\n  },\n  \"stack\": \"Error: JsonRpcEngine: Response has no error or result for request:\\n{\\n  \\\"method\\\": \\\"eth_call\\\",\\n  \\\"params\\\": [\\n    {\\n      \\\"to\\\": \\\"0xadc9a7bc1705758fcb1d7289466c4cc39dc2c2bc\\\",\\n      \\\"data\\\": \\\"0x48cd4cb1\\\"\\n    },\\n    \\\"0x171d9f2\\\"\\n  ],\\n  \\\"jsonrpc\\\": \\\"2.0\\\",\\n  \\\"id\\\": 2219756676,\\n  \\\"origin\\\": \\\"https://vfat.tools\\\",\\n  \\\"tabId\\\": 2\\n}\\n    at new o (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/common-1.js:16:24204)\\n    at Function._checkForCompletion (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:305269)\\n    at a._processRequest (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304461)\\n    at async a._handle (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304249)\"\n}\n  at new o (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/common-1.js:16:24204)\n  at Function._checkForCompletion (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:305269)\n  at a._processRequest (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304461)\n  at async a._handle (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304249)"
+}
+Oops something went wrong. Try refreshing the page.

@@ -1,0 +1,221 @@
+*************** 👨‍🌾 UNOFFICIAL SPACE-DEFIA FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://www.space-defia.com
+********************************************************************************
+
+Thu Jan 27 2022 20:52:41 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 19 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [SPCA]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.01 TVL: $23.34
+SPCA Price: $0.0000452022
+BUSD Price: $1.00
+Staked: 1245.4131 Cake-LP ($18.60)
+SPCA Per Week: 38707.20 ($1.75)
+APR: Day 1.34% Week 9.41% Year 489.10%
+You are staking 0.00 [SPCA]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SPCA]-[BUSD] Cake LP
+Unstake 0.00 [SPCA]-[BUSD] Cake LP
+Claim 0.00 SPCA ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WBNB]-[SPCA] Cake LP [+] [-] [<=>] Price: $0.28 TVL: $9.43
+WBNB Price: $369.29
+SPCA Price: $0.0000452022
+Staked: 25.4187 Cake-LP ($7.03)
+SPCA Per Week: 19353.60 ($0.87)
+APR: Day 1.78% Week 12.44% Year 646.85%
+You are staking 0.00 [WBNB]-[SPCA] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[SPCA] Cake LP
+Unstake 0.00 [WBNB]-[SPCA] Cake LP
+Claim 0.00 SPCA ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [SPCX]-[SPCA] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $0.08
+SPCX Price: $0.0000900372
+SPCA Price: $0.0000452022
+Staked: 158.0036 Cake-LP ($0.02)
+SPCA Per Week: 9676.80 ($0.44)
+APR: Day 304.10% Week 2128.67% Year 110690.77%
+You are staking 0.00 [SPCX]-[SPCA] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SPCX]-[SPCA] Cake LP
+Unstake 0.00 [SPCX]-[SPCA] Cake LP
+Claim 0.00 SPCA ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.48 TVL: $346,415,841.19
+WBNB Price: $369.29
+BUSD Price: $1.00
+Staked: 1.7275 Cake-LP ($82.03)
+SPCA Per Week: 4838.40 ($0.22)
+APR: Day 0.04% Week 0.27% Year 13.86%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 SPCA ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $296,640,726.73
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 14.3271 Cake-LP ($29.97)
+SPCA Per Week: 2903.04 ($0.13)
+APR: Day 0.06% Week 0.44% Year 22.77%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 SPCA ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $7,746.96 TVL: $68,740,050.28
+BTCB Price: $36,208.00
+WBNB Price: $369.29
+Staked: 0.0002 Cake-LP ($1.36)
+SPCA Per Week: 3870.72 ($0.17)
+APR: Day 1.83% Week 12.83% Year 667.12%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 SPCA ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,044.50 TVL: $74,485,494.39
+ETH Price: $2,450.59
+WBNB Price: $369.29
+Staked: 0.0011 Cake-LP ($2.32)
+SPCA Per Week: 3870.72 ($0.17)
+APR: Day 1.08% Week 7.55% Year 392.57%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 SPCA ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [DOT]-[WBNB] Cake LP [+] [-] [<=>] Price: $172.80 TVL: $17,739,903.18
+DOT Price: $17.96
+WBNB Price: $369.29
+Staked: 0.5693 Cake-LP ($98.37)
+SPCA Per Week: 3870.72 ($0.17)
+APR: Day 0.03% Week 0.18% Year 9.25%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 SPCA ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - SPCA Price: $0.0000452022 Market Cap: $74.18 [%]
+Staked: 984752.5095 SPCA ($44.51)
+SPCA Per Week: 13547.52 ($0.61)
+APR: Day 0.20% Week 1.38% Year 71.54%
+You are staking 0.00 SPCA ($0.00), 0.00% of the pool.
+Stake 0.00 SPCA
+Unstake 0.00 SPCA
+Claim 0.00 SPCA ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - BUSD Price: $1.00 Market Cap: $4,843,572,508.57 [%]
+Staked: 767.5029 BUSD ($766.33)
+SPCA Per Week: 1935.36 ($0.09)
+APR: Day 0.00% Week 0.01% Year 0.59%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 SPCA ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - WBNB Price: $369.29 Market Cap: $1,928,018,255.75 [%]
+Staked: 0.0010 WBNB ($0.37)
+SPCA Per Week: 2903.04 ($0.13)
+APR: Day 5.08% Week 35.53% Year 1847.77%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 SPCA ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - Cake Price: $7.01 Market Cap: $4,310,841,258.44 [%]
+Staked: 0.0000 Cake ($0.00)
+SPCA Per Week: 1935.36 ($0.09)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 Cake ($0.00), NaN% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 SPCA ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - BTCB Price: $36,208.00 Market Cap: $4,073,436,208.00 [%]
+Staked: 0.0000 BTCB ($0.00)
+SPCA Per Week: 2903.04 ($0.13)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 BTCB ($0.00), NaN% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 SPCA ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - ETH Price: $2,450.59 Market Cap: $3,443,078,950.00 [%]
+Staked: 0.0045 ETH ($11.09)
+SPCA Per Week: 2903.04 ($0.13)
+APR: Day 0.17% Week 1.18% Year 61.53%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 SPCA ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - DOT Price: $17.96 Market Cap: $287,359,999.84 [%]
+Staked: 0.0000 DOT ($0.00)
+SPCA Per Week: 2903.04 ($0.13)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 DOT ($0.00), NaN% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 SPCA ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - SPC Price: $0.00 Market Cap: $0.00 
+Staked: 11417.3146 SPC ($0.00)
+SPCA Per Week: 967.68 ($0.04)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SPC ($0.00), NaN% of the pool.
+Stake 0.00 SPC - Fee 2%
+Unstake 0.00 SPC
+Claim 0.00 SPCA ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - SPCZ Price: $0.00 Market Cap: $0.00 
+Staked: 4484.8992 SPCZ ($0.00)
+SPCA Per Week: 967.68 ($0.04)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SPCZ ($0.00), NaN% of the pool.
+Stake 0.00 SPCZ - Fee 2%
+Unstake 0.00 SPCZ
+Claim 0.00 SPCA ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - SPCY Price: $0.00 Market Cap: $0.00 
+Staked: 4993.4845 SPCY ($0.00)
+SPCA Per Week: 967.68 ($0.04)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SPCY ($0.00), NaN% of the pool.
+Stake 0.00 SPCY - Fee 2%
+Unstake 0.00 SPCY
+Claim 0.00 SPCA ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - SPCX Price: $0.0000900372 Market Cap: $332.64 [%]
+Staked: 4098.3869 SPCX ($0.37)
+SPCA Per Week: 1935.36 ($0.09)
+APR: Day 3.39% Week 23.71% Year 1232.79%
+You are staking 0.00 SPCX ($0.00), 0.00% of the pool.
+Stake 0.00 SPCX - Fee 2%
+Unstake 0.00 SPCX
+Claim 0.00 SPCA ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $1,062.37

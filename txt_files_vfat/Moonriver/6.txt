@@ -1,0 +1,243 @@
+***************  UNOFFICIAL MOONLAKE FARMING CALCULATOR  ***************
+INFO  : https://moonlake.finance/
+*****************************************************************************
+
+Fri Jan 28 2022 01:13:58 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 20 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [MOONLAKE]-[USDC] Uni LP [+] [-] [<=>] Price: $233,972.90 TVL: $260.17
+MOONLAKE Price: $0.01
+USDC Price: $1.00
+Staked: 0.0004 UNI-V2 ($86.98)
+MOONLAKE Per Week: 595.99 ($7.16)
+APR: Day 1.18% Week 8.23% Year 427.82%
+You are staking 0.00 [MOONLAKE]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MOONLAKE]-[USDC] Uni LP
+Unstake 0.00 [MOONLAKE]-[USDC] Uni LP
+Claim 0.00 MOONLAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [MOONLAKE]-[WMOVR] Uni LP [+] [-] [<=>] Price: $2.00 TVL: $124.65
+MOONLAKE Price: $0.01
+WMOVR Price: $71.69
+Staked: 54.3602 UNI-V2 ($108.52)
+MOONLAKE Per Week: 595.99 ($7.16)
+APR: Day 0.94% Week 6.59% Year 342.93%
+You are staking 0.00 [MOONLAKE]-[WMOVR] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MOONLAKE]-[WMOVR] Uni LP
+Unstake 0.00 [MOONLAKE]-[WMOVR] Uni LP
+Claim 0.00 MOONLAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [BNB]-[BUSD] Uni LP [+] [-] [<=>] Price: $39.11 TVL: $3,606.99
+BNB Price: $371.19
+BUSD Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.00)
+MOONLAKE Per Week: 83.44 ($1.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [BNB]-[BUSD] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [BNB]-[BUSD] Uni LP
+Unstake 0.00 [BNB]-[BUSD] Uni LP - Fee 3%
+Claim 0.00 MOONLAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [BUSD]-[USDC] Uni LP [+] [-] [<=>] Price: $2,055,291.81 TVL: $2,131.98
+BUSD Price: $1.00
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($6.03)
+MOONLAKE Per Week: 83.44 ($1.00)
+APR: Day 2.37% Week 16.62% Year 864.09%
+You are staking 0.00 [BUSD]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUSD]-[USDC] Uni LP
+Unstake 0.00 [BUSD]-[USDC] Uni LP - Fee 3%
+Claim 0.00 MOONLAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [ETH]-[USDC] Uni LP [+] [-] [<=>] Price: $97,510,859.24 TVL: $4,007.32
+ETH Price: $2,235.70
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.00)
+MOONLAKE Per Week: 83.44 ($1.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [ETH]-[USDC] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [ETH]-[USDC] Uni LP
+Unstake 0.00 [ETH]-[USDC] Uni LP - Fee 3%
+Claim 0.00 MOONLAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WMOVR]-[MOON] Uni LP [+] [-] [<=>] Price: $6.72 TVL: $7,816.66
+WMOVR Price: $71.69
+MOON Price: $0.12
+Staked: 0.6460 UNI-V2 ($4.34)
+MOONLAKE Per Week: 83.44 ($1.00)
+APR: Day 3.30% Week 23.07% Year 1199.51%
+You are staking 0.00 [WMOVR]-[MOON] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMOVR]-[MOON] Uni LP
+Unstake 0.00 [WMOVR]-[MOON] Uni LP - Fee 3%
+Claim 0.00 MOONLAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - MOONLAKE Price: $0.01 Market Cap: $600.28 
+Staked: 19391.2351 MOONLAKE ($232.84)
+MOONLAKE Per Week: 1072.77 ($12.88)
+APR: Day 0.79% Week 5.53% Year 287.68%
+You are staking 0.00 MOONLAKE ($0.00), 0.00% of the pool.
+Stake 0.00 MOONLAKE
+Unstake 0.00 MOONLAKE
+Claim 0.00 MOONLAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - WMOVR Price: $71.69 Market Cap: $14,254,836.30 
+Staked: 1.2745 WMOVR ($91.37)
+MOONLAKE Per Week: 178.80 ($2.15)
+APR: Day 0.34% Week 2.35% Year 122.18%
+You are staking 0.00 WMOVR ($0.00), 0.00% of the pool.
+Stake 0.00 WMOVR
+Unstake 0.00 WMOVR - Fee 3%
+Claim 0.00 MOONLAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - mSWAP Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 mSWAP ($0.00)
+MOONLAKE Per Week: 83.44 ($1.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 mSWAP ($0.00), NaN% of the pool.
+Stake 0.00 mSWAP
+Unstake 0.00 mSWAP - Fee 3%
+Claim 0.00 MOONLAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - USDC Price: $1.00 Market Cap: $49,254,341.40 
+Staked: 1153.5014 USDC ($1,153.50)
+MOONLAKE Per Week: 83.44 ($1.00)
+APR: Day 0.01% Week 0.09% Year 4.52%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC
+Unstake 0.00 USDC - Fee 3%
+Claim 0.00 MOONLAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - USDT Price: $1.00 Market Cap: $10,971,004.50 
+Staked: 2.0000 USDT ($2.00)
+MOONLAKE Per Week: 83.44 ($1.00)
+APR: Day 7.16% Week 50.14% Year 2607.04%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT
+Unstake 0.00 USDT - Fee 3%
+Claim 0.00 MOONLAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - BUSD Price: $1.00 Market Cap: $8,097,892.94 
+Staked: 0.0100 BUSD ($0.01)
+MOONLAKE Per Week: 83.44 ($1.00)
+APR: Day 1431.27% Week 10018.92% Year 520983.92%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD
+Unstake 0.00 BUSD - Fee 3%
+Claim 0.00 MOONLAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [USDT]-[USDC] Uni LP [+] [-] [<=>] Price: $2,050,492,526,037.61 TVL: $40,146.39
+USDT Price: $1.00
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.00)
+MOONLAKE Per Week: 83.44 ($1.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDT]-[USDC] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDT]-[USDC] Uni LP
+Unstake 0.00 [USDT]-[USDC] Uni LP - Fee 3%
+Claim 0.00 MOONLAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [KAFE]-[WMOVR] Uni LP [+] [-] [<=>] Price: $20.73 TVL: $1,404.76
+KAFE Price: $0.98
+WMOVR Price: $71.69
+Staked: 0.4595 UNI-V2 ($9.53)
+MOONLAKE Per Week: 83.44 ($1.00)
+APR: Day 1.50% Week 10.52% Year 546.95%
+You are staking 0.00 [KAFE]-[WMOVR] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KAFE]-[WMOVR] Uni LP
+Unstake 0.00 [KAFE]-[WMOVR] Uni LP
+Claim 0.00 MOONLAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [MOONLAKE]-[WMOVR] SLP [+] [-] [<=>] Price: $1.92 TVL: $54.79
+MOONLAKE Price: $0.01
+WMOVR Price: $71.69
+Staked: 27.4739 SLP ($52.87)
+MOONLAKE Per Week: 595.99 ($7.16)
+APR: Day 1.93% Week 13.54% Year 703.83%
+You are staking 0.00 [MOONLAKE]-[WMOVR] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [MOONLAKE]-[WMOVR] SLP
+Unstake 0.00 [MOONLAKE]-[WMOVR] SLP
+Claim 0.00 MOONLAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [MOONLAKE]-[WMOVR] Uni LP [+] [-] [<=>] Price: $1.89 TVL: $2.62
+MOONLAKE Price: $0.01
+WMOVR Price: $71.69
+Staked: 0.1800 UNI-V2 ($0.34)
+MOONLAKE Per Week: 595.99 ($7.16)
+APR: Day 300.50% Week 2103.48% Year 109380.98%
+You are staking 0.00 [MOONLAKE]-[WMOVR] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MOONLAKE]-[WMOVR] Uni LP
+Unstake 0.00 [MOONLAKE]-[WMOVR] Uni LP
+Claim 0.00 MOONLAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [FREE]-[WMOVR] Uni LP [+] [-] [<=>] Price: $9.30 TVL: $43,028.16
+FREE Price: $0.20
+WMOVR Price: $71.69
+Staked: 0.0557 UNI-V2 ($0.52)
+MOONLAKE Per Week: 83.44 ($1.00)
+APR: Day 27.61% Week 193.27% Year 10050.02%
+You are staking 0.00 [FREE]-[WMOVR] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FREE]-[WMOVR] Uni LP
+Unstake 0.00 [FREE]-[WMOVR] Uni LP
+Claim 0.00 MOONLAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [RivrDoge]-[WMOVR] Uni LP [+] [-] [<=>] Price: $0.17 TVL: $6,693.72
+RivrDoge Price: $0.0000803201
+WMOVR Price: $71.69
+Staked: 246.9571 UNI-V2 ($43.00)
+MOONLAKE Per Week: 23.84 ($0.29)
+APR: Day 0.10% Week 0.67% Year 34.62%
+You are staking 0.00 [RivrDoge]-[WMOVR] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [RivrDoge]-[WMOVR] Uni LP
+Unstake 0.00 [RivrDoge]-[WMOVR] Uni LP
+Claim 0.00 MOONLAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [WMOVR]-[BEANS] Uni LP [+] [-] [<=>] Price: $26.79 TVL: $2,916.38
+WMOVR Price: $71.69
+BEANS Price: $1.85
+Staked: 30.0819 UNI-V2 ($805.75)
+MOONLAKE Per Week: 23.84 ($0.29)
+APR: Day 0.01% Week 0.04% Year 1.85%
+You are staking 0.00 [WMOVR]-[BEANS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMOVR]-[BEANS] Uni LP
+Unstake 0.00 [WMOVR]-[BEANS] Uni LP
+Claim 0.00 MOONLAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [WMOVR]-[USDC] Uni LP [+] [-] [<=>] Price: $21,590,577.12 TVL: $15,523.41
+WMOVR Price: $71.69
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.00)
+MOONLAKE Per Week: 83.44 ($1.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WMOVR]-[USDC] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [WMOVR]-[USDC] Uni LP
+Unstake 0.00 [WMOVR]-[USDC] Uni LP - Fee 3%
+Claim 0.00 MOONLAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $2,597.60

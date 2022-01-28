@@ -1,0 +1,187 @@
+*************** 👨‍🌾 UNOFFICIAL UNDEADFINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://undeadfinance.com
+**************************************************************************************
+
+Fri Jan 28 2022 00:52:19 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 16 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [USDC]-[UNDEAD] SPOOKY LP [+] [-] [<=>] Price: $459,397.56 TVL: $8.19
+USDC Price: $1.01
+UNDEAD Price: $0.05
+Staked: 0.0000 spLP ($6.92)
+UNDEAD Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDC]-[UNDEAD] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[UNDEAD] SPOOKY LP
+Unstake 0.00 [USDC]-[UNDEAD] SPOOKY LP
+Claim 0.00 UNDEAD ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WFTM]-[UNDEAD] SPOOKY LP [+] [-] [<=>] Price: $0.66 TVL: $721.42
+WFTM Price: $2.03
+UNDEAD Price: $0.05
+Staked: 80.2205 spLP ($52.67)
+UNDEAD Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WFTM]-[UNDEAD] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[UNDEAD] SPOOKY LP
+Unstake 0.00 [WFTM]-[UNDEAD] SPOOKY LP
+Claim 0.00 UNDEAD ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [USDC]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $4,384,708.09 TVL: $168,796,819.35
+USDC Price: $1.01
+WFTM Price: $2.03
+Staked: 0.0000 spLP ($0.45)
+UNDEAD Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDC]-[WFTM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WFTM] SPOOKY LP - Fee 4%
+Unstake 0.00 [USDC]-[WFTM] SPOOKY LP
+Claim 0.00 UNDEAD ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - UNDEAD Price: $0.05 Market Cap: $551.04 
+Staked: 2595.0484 UNDEAD ($130.00)
+UNDEAD Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 UNDEAD ($0.00), 0.00% of the pool.
+Stake 0.00 UNDEAD
+Unstake 0.00 UNDEAD
+Claim 0.00 UNDEAD ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - WFTM Price: $2.03 Market Cap: $1,465,827,784.04 
+Staked: 1.1171 WFTM ($2.27)
+UNDEAD Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WFTM ($0.00), 0.00% of the pool.
+Stake 0.00 WFTM - Fee 4%
+Unstake 0.00 WFTM
+Claim 0.00 UNDEAD ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - USDC Price: $1.01 Market Cap: $1,744,757,684.97 
+Staked: 0.4417 USDC ($0.45)
+UNDEAD Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 UNDEAD ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - ETH Price: $2,366.73 Market Cap: $1,129,116,088.55 
+Staked: 0.0000 ETH ($0.00)
+UNDEAD Per Week: 0.00 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 ETH ($0.00), NaN% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 UNDEAD ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - BTC Price: $36,161.00 Market Cap: $622,215,317.53 
+Staked: 0.0000 BTC ($0.00)
+UNDEAD Per Week: 0.00 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 BTC ($0.00), NaN% of the pool.
+Stake 0.00 BTC - Fee 4%
+Unstake 0.00 BTC
+Claim 0.00 UNDEAD ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - BOO Price: $25.24 Market Cap: $212,953,750.33 
+Staked: 0.0000 BOO ($0.00)
+UNDEAD Per Week: 0.00 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 BOO ($0.00), NaN% of the pool.
+Stake 0.00 BOO - Fee 4%
+Unstake 0.00 BOO
+Claim 0.00 UNDEAD ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [WFTM]-[TSHARE] SPOOKY LP [+] [-] [<=>] Price: $332.58 TVL: $122,627,470.67
+WFTM Price: $2.03
+TSHARE Price: $9,650.57
+Staked: 0.0335 spLP ($11.13)
+UNDEAD Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WFTM]-[TSHARE] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[TSHARE] SPOOKY LP - Fee 4%
+Unstake 0.00 [WFTM]-[TSHARE] SPOOKY LP
+Claim 0.00 UNDEAD ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - MIM Price: $1.00 Market Cap: $449,065,537.80 
+Staked: 0.2613 MIM ($0.26)
+UNDEAD Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 MIM ($0.00), 0.00% of the pool.
+Stake 0.00 MIM - Fee 4%
+Unstake 0.00 MIM
+Claim 0.00 UNDEAD ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [WFTM]-[SPELL] SPOOKY LP [+] [-] [<=>] Price: $3,411,536.17 TVL: $3,776,990.19
+WFTM Price: $2.03
+SPELL Price: $0.005117
+Staked: 0.0000 spLP ($0.13)
+UNDEAD Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WFTM]-[SPELL] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[SPELL] SPOOKY LP - Fee 4%
+Unstake 0.00 [WFTM]-[SPELL] SPOOKY LP
+Claim 0.00 UNDEAD ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - CLEVER Price: $0.00 Market Cap: $0.00 
+Staked: 370.6842 CLEVER ($0.00)
+UNDEAD Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 CLEVER ($0.00), NaN% of the pool.
+Stake 0.00 CLEVER - Fee 2%
+Unstake 0.00 CLEVER
+Claim 0.00 UNDEAD ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [WFTM]-[CLEVER] SPOOKY LP [+] [-] [<=>] Price: $0.44 TVL: $6,084.06
+WFTM Price: $2.03
+CLEVER Price: $0.02
+Staked: 0.0000 spLP ($0.00)
+UNDEAD Per Week: 0.00 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WFTM]-[CLEVER] SPOOKY LP ($0.00), NaN% of the pool.
+Stake 0.00 [WFTM]-[CLEVER] SPOOKY LP - Fee 2%
+Unstake 0.00 [WFTM]-[CLEVER] SPOOKY LP
+Claim 0.00 UNDEAD ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - ICE Price: $3.79 Market Cap: $14,916,864.88 
+Staked: 0.0290 ICE ($0.11)
+UNDEAD Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 ICE ($0.00), 0.00% of the pool.
+Stake 0.00 ICE - Fee 4%
+Unstake 0.00 ICE
+Claim 0.00 UNDEAD ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - fToken Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 fToken ($0.00)
+UNDEAD Per Week: 1209600.00 ($60,594.71)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 fToken ($0.00), NaN% of the pool.
+Stake 0.00 fToken
+Unstake 0.00 fToken
+Claim 0.00 UNDEAD ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $204.39

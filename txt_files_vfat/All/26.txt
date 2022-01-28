@@ -1,0 +1,48 @@
+*************** 👨‍🌾 UNOFFICIAL POLKACASH.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://polkacash.finance
+**************************************************************************************
+
+Thu Jan 27 2022 19:19:48 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+[POS]-[USDC] Uni LP [+] [-] [<=>] Price: $272,434.67 TVL: $603.61
+POS Price: $0.02
+USDC Price: $1.00
+Staked: 0.0022 UNI-V2 ($603.61)
+POS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [POS]-[USDC] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [POS]-[USDC] Uni LP
+Unstake 0.000000 [POS]-[USDC] Uni LP
+Claim 0.000000 POS ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[POC]-[USDC] Uni LP [+] [-] [<=>] Price: $156,135.63 TVL: $732.88
+POC Price: $0.005732
+USDC Price: $1.00
+Staked: 0.0046 UNI-V2 ($713.22)
+POS Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [POC]-[USDC] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [POC]-[USDC] Uni LP
+Unstake 0.000000 [POC]-[USDC] Uni LP
+Claim 0.000000 POS ($0.00)
+Revoke (set approval to 0)
+Exit
+
+Boardroom
+There is a total 0.00 POS ($0.00) staked in the Boardroom.
+You are staking 0 POS ($0.00), NaN% of the pool.
+Stake 0.00 POS
+Unstake 0.00 POS
+Claim 0.00 POC ($0.00)
+Revoke (set approval to 0)
+Exit
+
+Total staked: $1,316.83

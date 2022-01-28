@@ -1,0 +1,59 @@
+*************** 👨‍🌾 UNOFFICIAL APESAFE FINANCE FARMING CALCULATOR 👨‍🌾 ****************
+INFO  : https://apesafe.finance/farms
+*************************************************************************************
+
+Thu Jan 27 2022 20:27:25 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 10 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+3 - [BUSD]-[APESAFE] Uni LP [+] [-] [<=>] Price: $0.00 TVL: $14.90
+BUSD Price: $1.00
+APESAFE Price: $0.0000014793
+Staked: 5271.2187 Mochi-LP ($13.04)
+APESAFE Per Week: 180000.00 ($0.27)
+APR: Day 0.29% Week 2.04% Year 106.15%
+You are staking 0.00 [BUSD]-[APESAFE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUSD]-[APESAFE] Uni LP
+Unstake 0.00 [BUSD]-[APESAFE] Uni LP
+Claim 0.00 APESAFE ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [APEDOGE]-[WBNB] Uni LP [+] [-] [<=>] Price: $0.03 TVL: $8.49
+APEDOGE Price: $0.0000005494
+WBNB Price: $370.65
+Staked: 0.0000 Mochi-LP ($0.00)
+APESAFE Per Week: 180000.00 ($0.27)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [APEDOGE]-[WBNB] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [APEDOGE]-[WBNB] Uni LP
+Unstake 0.00 [APEDOGE]-[WBNB] Uni LP
+Claim 0.00 APESAFE ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - APESAFE Price: $0.0000014793 Market Cap: $102.67 [%]
+Staked: 8364475.5292 APESAFE ($12.37)
+APESAFE Per Week: 84000.00 ($0.12)
+APR: Day 0.14% Week 1.00% Year 52.22%
+You are staking 0.00 APESAFE ($0.00), 0.00% of the pool.
+Stake 0.00 APESAFE
+Unstake 0.00 APESAFE
+Claim 0.00 APESAFE ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - APEDOGE Price: $0.0000005494 Market Cap: $54.94 [%]
+Staked: 4351759.6156 APEDOGE ($2.39)
+APESAFE Per Week: 84000.00 ($0.12)
+APR: Day 0.74% Week 5.20% Year 270.26%
+You are staking 0.00 APEDOGE ($0.00), 0.00% of the pool.
+Stake 0.00 APEDOGE
+Unstake 0.00 APEDOGE
+Claim 0.00 APESAFE ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $27.81

@@ -1,0 +1,457 @@
+*************** 👨‍🌾 UNOFFICIAL JIGGLY.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://www.jiggly.finance
+***********************************************************************************
+
+Thu Jan 27 2022 20:26:33 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 42 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [JIGG]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.04 TVL: $699.01
+JIGG Price: $0.000435
+BUSD Price: $1.00
+Staked: 15736.8848 Cake-LP ($686.03)
+JIGG Per Week: 37859.15 ($16.45)
+APR: Day 0.34% Week 2.40% Year 124.72%
+You are staking 0.00 [JIGG]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [JIGG]-[BUSD] Cake LP
+Unstake 0.00 [JIGG]-[BUSD] Cake LP
+Claim 0.00 JIGG ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [JIGG]-[WBNB] Cake LP [+] [-] [<=>] Price: $0.86 TVL: $1,790.31
+JIGG Price: $0.000435
+WBNB Price: $370.82
+Staked: 723.0630 Cake-LP ($619.96)
+JIGG Per Week: 22715.49 ($9.87)
+APR: Day 0.23% Week 1.59% Year 82.81%
+You are staking 0.00 [JIGG]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [JIGG]-[WBNB] Cake LP
+Unstake 0.00 [JIGG]-[WBNB] Cake LP
+Claim 0.00 JIGG ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $65.95 TVL: $2,134,058.84
+WBNB Price: $370.82
+BUSD Price: $1.00
+Staked: 0.2726 Cake-LP ($17.98)
+JIGG Per Week: 5678.87 ($2.47)
+APR: Day 1.96% Week 13.73% Year 713.77%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 JIGG ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.17 TVL: $3,549,412.92
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 45.2337 Cake-LP ($98.00)
+JIGG Per Week: 4732.39 ($2.06)
+APR: Day 0.30% Week 2.10% Year 109.14%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 JIGG ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $8,250.75 TVL: $299,838.41
+BTCB Price: $36,472.00
+WBNB Price: $370.82
+Staked: 0.0084 Cake-LP ($69.35)
+JIGG Per Week: 5678.87 ($2.47)
+APR: Day 0.51% Week 3.56% Year 185.07%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 JIGG ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,203.74 TVL: $480,865.29
+ETH Price: $2,454.37
+WBNB Price: $370.82
+Staked: 0.0275 Cake-LP ($60.56)
+JIGG Per Week: 5678.87 ($2.47)
+APR: Day 0.58% Week 4.08% Year 211.94%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 JIGG ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [DAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.05 TVL: $1,362,743.13
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 21.3874 Cake-LP ($43.85)
+JIGG Per Week: 4732.39 ($2.06)
+APR: Day 0.67% Week 4.69% Year 243.92%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 JIGG ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.28 TVL: $253,173.99
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 5.0659 Cake-LP ($11.54)
+JIGG Per Week: 4732.39 ($2.06)
+APR: Day 2.55% Week 17.83% Year 926.99%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 JIGG ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [DOT]-[WBNB] Cake LP [+] [-] [<=>] Price: $179.60 TVL: $321,831.07
+DOT Price: $17.91
+WBNB Price: $370.82
+Staked: 0.0301 Cake-LP ($5.40)
+JIGG Per Week: 5678.87 ($2.47)
+APR: Day 6.53% Week 45.73% Year 2377.73%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 JIGG ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $124.19 TVL: $3,353,703.45
+Cake Price: $7.18
+WBNB Price: $370.82
+Staked: 3.0482 Cake-LP ($378.57)
+JIGG Per Week: 5678.87 ($2.47)
+APR: Day 0.09% Week 0.65% Year 33.90%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 JIGG ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [VAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.08 TVL: $104,545.21
+VAI Price: $0.94
+BUSD Price: $1.00
+Staked: 5.8035 Cake-LP ($12.07)
+JIGG Per Week: 4732.39 ($2.06)
+APR: Day 2.43% Week 17.04% Year 886.21%
+You are staking 0.00 [VAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [VAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [VAI]-[BUSD] Cake LP
+Claim 0.00 JIGG ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [UST]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.11 TVL: $24,627.69
+UST Price: $1.00
+BUSD Price: $1.00
+Staked: 5.4332 Cake-LP ($11.48)
+JIGG Per Week: 4732.39 ($2.06)
+APR: Day 2.56% Week 17.92% Year 931.86%
+You are staking 0.00 [UST]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UST]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [UST]-[BUSD] Cake LP
+Claim 0.00 JIGG ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [ADA]-[WBNB] Cake LP [+] [-] [<=>] Price: $43.42 TVL: $1,364,451.01
+ADA Price: $1.03
+WBNB Price: $370.82
+Staked: 1.4530 Cake-LP ($63.09)
+JIGG Per Week: 5678.87 ($2.47)
+APR: Day 0.56% Week 3.91% Year 203.43%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 JIGG ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [WBNB]-[LINK] Cake LP [+] [-] [<=>] Price: $161.79 TVL: $56,394.36
+WBNB Price: $370.82
+LINK Price: $15.19
+Staked: 0.4671 Cake-LP ($75.56)
+JIGG Per Week: 5678.87 ($2.47)
+APR: Day 0.47% Week 3.27% Year 169.84%
+You are staking 0.00 [WBNB]-[LINK] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[LINK] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[LINK] Cake LP
+Claim 0.00 JIGG ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [WBNB]-[UNI] Cake LP [+] [-] [<=>] Price: $136.27 TVL: $22,876.01
+WBNB Price: $370.82
+UNI Price: $10.63
+Staked: 0.1000 Cake-LP ($13.63)
+JIGG Per Week: 5678.87 ($2.47)
+APR: Day 2.59% Week 18.11% Year 941.79%
+You are staking 0.00 [WBNB]-[UNI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[UNI] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[UNI] Cake LP
+Claim 0.00 JIGG ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [XRP]-[WBNB] Cake LP [+] [-] [<=>] Price: $37.26 TVL: $20,239.19
+XRP Price: $0.61
+WBNB Price: $370.82
+Staked: 2.0709 Cake-LP ($77.16)
+JIGG Per Week: 5678.87 ($2.47)
+APR: Day 0.46% Week 3.20% Year 166.34%
+You are staking 0.00 [XRP]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [XRP]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [XRP]-[WBNB] Cake LP
+Claim 0.00 JIGG ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [EOS]-[WBNB] Cake LP [+] [-] [<=>] Price: $62.22 TVL: $1,986.39
+EOS Price: $2.19
+WBNB Price: $370.82
+Staked: 0.2000 Cake-LP ($12.44)
+JIGG Per Week: 5678.87 ($2.47)
+APR: Day 2.83% Week 19.83% Year 1031.27%
+You are staking 0.00 [EOS]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [EOS]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [EOS]-[WBNB] Cake LP
+Claim 0.00 JIGG ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [TWT]-[WBNB] Cake LP [+] [-] [<=>] Price: $31.38 TVL: $357,469.32
+TWT Price: $0.50
+WBNB Price: $370.82
+Staked: 3.3534 Cake-LP ($105.23)
+JIGG Per Week: 5678.87 ($2.47)
+APR: Day 0.34% Week 2.35% Year 121.96%
+You are staking 0.00 [TWT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TWT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [TWT]-[WBNB] Cake LP
+Claim 0.00 JIGG ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - JIGG Price: $0.000435 Market Cap: $3,047.21 [%]
+Staked: 2823432.6640 JIGG ($1,227.10)
+JIGG Per Week: 9464.79 ($4.11)
+APR: Day 0.05% Week 0.34% Year 17.43%
+You are staking 0.00 JIGG ($0.00), 0.00% of the pool.
+Stake 0.00 JIGG
+Unstake 0.00 JIGG
+Claim 0.00 JIGG ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - BUSD Price: $1.00 Market Cap: $4,832,177,511.00 [%]
+Staked: 162.4038 BUSD ($161.77)
+JIGG Per Week: 1892.96 ($0.82)
+APR: Day 0.07% Week 0.51% Year 26.44%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 JIGG ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - WBNB Price: $370.82 Market Cap: $1,936,357,257.07 [%]
+Staked: 0.2152 WBNB ($79.78)
+JIGG Per Week: 2839.44 ($1.23)
+APR: Day 0.22% Week 1.55% Year 80.43%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 JIGG ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - USDT Price: $1.00 Market Cap: $3,870,006,927.53 [%]
+Staked: 207.3312 USDT ($206.80)
+JIGG Per Week: 946.48 ($0.41)
+APR: Day 0.03% Week 0.20% Year 10.34%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 JIGG ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - ETH Price: $2,454.37 Market Cap: $3,448,389,850.00 [%]
+Staked: 3.1571 ETH ($7,748.74)
+JIGG Per Week: 1892.96 ($0.82)
+APR: Day 0.00% Week 0.01% Year 0.55%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 JIGG ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - DAI Price: $1.00 Market Cap: $261,993,450.00 [%]
+Staked: 29.0754 DAI ($29.07)
+JIGG Per Week: 946.48 ($0.41)
+APR: Day 0.20% Week 1.41% Year 73.57%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 JIGG ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - USDC Price: $1.00 Market Cap: $1,779,000,000.00 [%]
+Staked: 95.8518 USDC ($95.85)
+JIGG Per Week: 946.48 ($0.41)
+APR: Day 0.06% Week 0.43% Year 22.32%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 JIGG ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - DOT Price: $17.91 Market Cap: $286,559,999.84 [%]
+Staked: 0.2005 DOT ($3.59)
+JIGG Per Week: 1892.96 ($0.82)
+APR: Day 3.27% Week 22.91% Year 1191.49%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 JIGG ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - ADA Price: $1.03 Market Cap: $288,400,000.00 [%]
+Staked: 18.6545 ADA ($19.21)
+JIGG Per Week: 1892.96 ($0.82)
+APR: Day 0.61% Week 4.28% Year 222.65%
+You are staking 0.00 ADA ($0.00), 0.00% of the pool.
+Stake 0.00 ADA - Fee 4%
+Unstake 0.00 ADA
+Claim 0.00 JIGG ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - LINK Price: $15.19 Market Cap: $130,634,000.00 [%]
+Staked: 0.2390 LINK ($3.63)
+JIGG Per Week: 1892.96 ($0.82)
+APR: Day 3.24% Week 22.66% Year 1178.48%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 JIGG ($0.00)
+Staking or unstaking also claims rewards.
+
+29 - UNI Price: $10.63 Market Cap: $44,646,000.00 [%]
+Staked: 0.7208 UNI ($7.66)
+JIGG Per Week: 1892.96 ($0.82)
+APR: Day 1.53% Week 10.74% Year 558.30%
+You are staking 0.00 UNI ($0.00), 0.00% of the pool.
+Stake 0.00 UNI - Fee 4%
+Unstake 0.00 UNI
+Claim 0.00 JIGG ($0.00)
+Staking or unstaking also claims rewards.
+
+30 - XRP Price: $0.61 Market Cap: $167,839,009.00 [%]
+Staked: 140.1419 XRP ($84.91)
+JIGG Per Week: 1892.96 ($0.82)
+APR: Day 0.14% Week 0.97% Year 50.38%
+You are staking 0.00 XRP ($0.00), 0.00% of the pool.
+Stake 0.00 XRP - Fee 4%
+Unstake 0.00 XRP
+Claim 0.00 JIGG ($0.00)
+Staking or unstaking also claims rewards.
+
+31 - Cake Price: $7.18 Market Cap: $4,415,331,714.50 [%]
+Staked: 1.6797 Cake ($12.06)
+JIGG Per Week: 1892.96 ($0.82)
+APR: Day 0.97% Week 6.82% Year 354.72%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 JIGG ($0.00)
+Staking or unstaking also claims rewards.
+
+32 - [OXB]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,030,265.20 TVL: $41,915.78
+OXB Price: $2.04
+WBNB Price: $370.82
+Staked: 0.0000 Cake-LP ($47.43)
+JIGG Per Week: 3785.92 ($1.65)
+APR: Day 0.50% Week 3.47% Year 180.41%
+You are staking 0.00 [OXB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [OXB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [OXB]-[WBNB] Cake LP
+Claim 0.00 JIGG ($0.00)
+Staking or unstaking also claims rewards.
+
+34 - EOS Price: $2.19 Market Cap: $27,698,297.48 [%]
+Staked: 3.4204 EOS ($7.50)
+JIGG Per Week: 1892.96 ($0.82)
+APR: Day 1.57% Week 10.98% Year 570.77%
+You are staking 0.00 EOS ($0.00), 0.00% of the pool.
+Stake 0.00 EOS - Fee 4%
+Unstake 0.00 EOS
+Claim 0.00 JIGG ($0.00)
+Staking or unstaking also claims rewards.
+
+35 - BTCB Price: $36,472.00 Market Cap: $4,103,136,472.00 [%]
+Staked: 0.0001 BTCB ($5.36)
+JIGG Per Week: 1892.96 ($0.82)
+APR: Day 2.19% Week 15.33% Year 797.41%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 JIGG ($0.00)
+Staking or unstaking also claims rewards.
+
+36 - VAI Price: $0.94 Market Cap: $57,017,090.59 [%]
+Staked: 11.1261 VAI ($10.49)
+JIGG Per Week: 946.48 ($0.41)
+APR: Day 0.56% Week 3.92% Year 203.84%
+You are staking 0.00 VAI ($0.00), 0.00% of the pool.
+Stake 0.00 VAI - Fee 4%
+Unstake 0.00 VAI
+Claim 0.00 JIGG ($0.00)
+Staking or unstaking also claims rewards.
+
+37 - UST Price: $1.00 Market Cap: $22,993,366.66 [%]
+Staked: 51.8952 UST ($51.71)
+JIGG Per Week: 946.48 ($0.41)
+APR: Day 0.11% Week 0.80% Year 41.36%
+You are staking 0.00 UST ($0.00), 0.00% of the pool.
+Stake 0.00 UST - Fee 4%
+Unstake 0.00 UST
+Claim 0.00 JIGG ($0.00)
+Staking or unstaking also claims rewards.
+
+38 - XVS Price: $8.03 Market Cap: $240,900,000.00 [%]
+Staked: 0.7368 XVS ($5.92)
+JIGG Per Week: 1892.96 ($0.82)
+APR: Day 1.99% Week 13.90% Year 723.02%
+You are staking 0.00 XVS ($0.00), 0.00% of the pool.
+Stake 0.00 XVS - Fee 4%
+Unstake 0.00 XVS
+Claim 0.00 JIGG ($0.00)
+Staking or unstaking also claims rewards.
+
+39 - [AUTO]-[WBNB] Cake LP [+] [-] [<=>] Price: $829.45 TVL: $1,021,148.23
+AUTO Price: $406.74
+WBNB Price: $370.82
+Staked: 0.0070 Cake-LP ($5.80)
+JIGG Per Week: 5678.87 ($2.47)
+APR: Day 6.08% Week 42.57% Year 2213.50%
+You are staking 0.00 [AUTO]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AUTO]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [AUTO]-[WBNB] Cake LP
+Claim 0.00 JIGG ($0.00)
+Staking or unstaking also claims rewards.
+
+40 - AUTO Price: $406.74 Market Cap: $32,798,777.13 [%]
+Staked: 0.0320 AUTO ($13.01)
+JIGG Per Week: 1892.96 ($0.82)
+APR: Day 0.90% Week 6.33% Year 328.94%
+You are staking 0.00 AUTO ($0.00), 0.00% of the pool.
+Stake 0.00 AUTO - Fee 4%
+Unstake 0.00 AUTO
+Claim 0.00 JIGG ($0.00)
+Staking or unstaking also claims rewards.
+
+41 - [WBNB]-[XVS] Cake LP [+] [-] [<=>] Price: $156.79 TVL: $19,632.59
+WBNB Price: $370.82
+XVS Price: $8.03
+Staked: 0.0900 Cake-LP ($14.11)
+JIGG Per Week: 5678.87 ($2.47)
+APR: Day 2.50% Week 17.49% Year 909.49%
+You are staking 0.00 [WBNB]-[XVS] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[XVS] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[XVS] Cake LP
+Claim 0.00 JIGG ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $12,203.40

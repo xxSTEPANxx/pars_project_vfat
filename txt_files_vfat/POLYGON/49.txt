@@ -6,127 +6,31 @@ INFO  : https://www.polygoat.finance
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Fri Dec 17 2021 09:32:56 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 22:12:40 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
-Found 11 pools.
-Showing incentivized pools only.
-Finished reading smart contracts.
-0 - [USDC]-[Goat] Uni LP [+] [-] [<=>] Price: $8,296.07 TVL: $3.39
-USDC Price: $1.00
-Goat Price: $0.0000117992
-Staked: 0.0004 UNI-V2 ($2.99)
-GOAT Per Week: 18000.00 ($0.21)
-APR: Day 1.01% Week 7.09% Year 368.88%
-You are staking 0.00 [USDC]-[Goat] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[Goat] Uni LP
-Unstake 0.00 [USDC]-[Goat] Uni LP
-Claim 0.00 GOAT ($0.00)
-Staking or unstaking also claims rewards.
-
-1 - [WMATIC]-[Goat] Uni LP [+] [-] [<=>] Price: $0.01 TVL: $3.03
-WMATIC Price: $2.09
-Goat Price: $0.0000117992
-Staked: 173.4144 UNI-V2 ($2.02)
-GOAT Per Week: 18000.00 ($0.21)
-APR: Day 1.50% Week 10.49% Year 545.40%
-You are staking 0.00 [WMATIC]-[Goat] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[Goat] Uni LP
-Unstake 0.00 [WMATIC]-[Goat] Uni LP
-Claim 0.00 GOAT ($0.00)
-Staking or unstaking also claims rewards.
-
-2 - Goat Price: $0.0000117992 Market Cap: $13.79 [%]
-Staked: 705531.8251 Goat ($8.32)
-GOAT Per Week: 27000.00 ($0.32)
-APR: Day 0.55% Week 3.83% Year 199.00%
-You are staking 0.00 Goat ($0.00), 0.00% of the pool.
-Stake 0.00 Goat
-Unstake 0.00 Goat
-Claim 0.00 GOAT ($0.00)
-Staking or unstaking also claims rewards.
-
-3 - WMATIC Price: $2.09 Market Cap: $636,959,429.29 [%]
-Staked: 896.1812 WMATIC ($1,873.02)
-GOAT Per Week: 18000.00 ($0.21)
-APR: Day 0.00% Week 0.01% Year 0.59%
-You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
-Stake 0.00 WMATIC - Fee 4%
-Unstake 0.00 WMATIC
-Claim 0.00 GOAT ($0.00)
-Staking or unstaking also claims rewards.
-
-4 - QUICK Price: $244.71 Market Cap: $233,829,804.65 [%]
-Staked: 0.0702 QUICK ($17.18)
-GOAT Per Week: 9000.00 ($0.11)
-APR: Day 0.09% Week 0.62% Year 32.15%
-You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
-Stake 0.00 QUICK - Fee 4%
-Unstake 0.00 QUICK
-Claim 0.00 GOAT ($0.00)
-Staking or unstaking also claims rewards.
-
-5 - WETH Price: $3,952.05 Market Cap: $1,754,451,318.36 [%]
-Staked: 0.0095 WETH ($37.70)
-GOAT Per Week: 9000.00 ($0.11)
-APR: Day 0.04% Week 0.28% Year 14.65%
-You are staking 0.00 WETH ($0.00), 0.00% of the pool.
-Stake 0.00 WETH - Fee 4%
-Unstake 0.00 WETH
-Claim 0.00 GOAT ($0.00)
-Staking or unstaking also claims rewards.
-
-6 - WBTC Price: $47,585.00 Market Cap: $480,142,595.64 [%]
-Staked: 0.0003 WBTC ($13.10)
-GOAT Per Week: 9000.00 ($0.11)
-APR: Day 0.12% Week 0.81% Year 42.17%
-You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
-Stake 0.00 WBTC - Fee 4%
-Unstake 0.00 WBTC
-Claim 0.00 GOAT ($0.00)
-Staking or unstaking also claims rewards.
-
-7 - USDT Price: $1.00 Market Cap: $319,227,792.91 [%]
-Staked: 39.0425 USDT ($38.98)
-GOAT Per Week: 9000.00 ($0.11)
-APR: Day 0.04% Week 0.27% Year 14.17%
-You are staking 0.00 USDT ($0.00), 0.00% of the pool.
-Stake 0.00 USDT - Fee 4%
-Unstake 0.00 USDT
-Claim 0.00 GOAT ($0.00)
-Staking or unstaking also claims rewards.
-
-8 - AAVE Price: $174.63 Market Cap: $47,524,651.24 [%]
-Staked: 0.2132 AAVE ($37.23)
-GOAT Per Week: 9000.00 ($0.11)
-APR: Day 0.04% Week 0.29% Year 14.83%
-You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
-Stake 0.00 AAVE - Fee 4%
-Unstake 0.00 AAVE
-Claim 0.00 GOAT ($0.00)
-Staking or unstaking also claims rewards.
-
-9 - LINK Price: $19.02 Market Cap: $33,112,971.78 [%]
-Staked: 1.0241 LINK ($19.48)
-GOAT Per Week: 9000.00 ($0.11)
-APR: Day 0.08% Week 0.55% Year 28.35%
-You are staking 0.00 LINK ($0.00), 0.00% of the pool.
-Stake 0.00 LINK - Fee 4%
-Unstake 0.00 LINK
-Claim 0.00 GOAT ($0.00)
-Staking or unstaking also claims rewards.
-
-10 - Krill Price: $0.04 Market Cap: $421,011.51 [%]
-Staked: 12.1297 Krill ($0.48)
-GOAT Per Week: 9000.00 ($0.11)
-APR: Day 3.19% Week 22.34% Year 1161.92%
-You are staking 0.00 Krill ($0.00), 0.00% of the pool.
-Stake 0.00 Krill - Fee 4%
-Unstake 0.00 Krill
-Claim 0.00 GOAT ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $2,050.50
+{
+  "code": -32603,
+  "message": "JsonRpcEngine: Response has no error or result for request:\n{\n  \"method\": \"eth_call\",\n  \"params\": [\n    {\n      \"to\": \"0xdf89ff7589bda33fd04d92ce7be739a84dc72560\",\n      \"data\": \"0x081e3eda\"\n    },\n    \"0x171d1ca\"\n  ],\n  \"jsonrpc\": \"2.0\",\n  \"id\": 699369330,\n  \"origin\": \"https://vfat.tools\",\n  \"tabId\": 2\n}",
+  "data": {
+    "request": {
+      "method": "eth_call",
+      "params": [
+        {
+          "to": "0xdf89ff7589bda33fd04d92ce7be739a84dc72560",
+          "data": "0x081e3eda"
+        },
+        "0x171d1ca"
+      ],
+      "jsonrpc": "2.0",
+      "id": 699369330,
+      "origin": "https://vfat.tools",
+      "tabId": 2
+    }
+  },
+  "stack": "{\n  \"code\": -32603,\n  \"message\": \"JsonRpcEngine: Response has no error or result for request:\\n{\\n  \\\"method\\\": \\\"eth_call\\\",\\n  \\\"params\\\": [\\n    {\\n      \\\"to\\\": \\\"0xdf89ff7589bda33fd04d92ce7be739a84dc72560\\\",\\n      \\\"data\\\": \\\"0x081e3eda\\\"\\n    },\\n    \\\"0x171d1ca\\\"\\n  ],\\n  \\\"jsonrpc\\\": \\\"2.0\\\",\\n  \\\"id\\\": 699369330,\\n  \\\"origin\\\": \\\"https://vfat.tools\\\",\\n  \\\"tabId\\\": 2\\n}\",\n  \"data\": {\n    \"request\": {\n      \"method\": \"eth_call\",\n      \"params\": [\n        {\n          \"to\": \"0xdf89ff7589bda33fd04d92ce7be739a84dc72560\",\n          \"data\": \"0x081e3eda\"\n        },\n        \"0x171d1ca\"\n      ],\n      \"jsonrpc\": \"2.0\",\n      \"id\": 699369330,\n      \"origin\": \"https://vfat.tools\",\n      \"tabId\": 2\n    }\n  },\n  \"stack\": \"Error: JsonRpcEngine: Response has no error or result for request:\\n{\\n  \\\"method\\\": \\\"eth_call\\\",\\n  \\\"params\\\": [\\n    {\\n      \\\"to\\\": \\\"0xdf89ff7589bda33fd04d92ce7be739a84dc72560\\\",\\n      \\\"data\\\": \\\"0x081e3eda\\\"\\n    },\\n    \\\"0x171d1ca\\\"\\n  ],\\n  \\\"jsonrpc\\\": \\\"2.0\\\",\\n  \\\"id\\\": 699369330,\\n  \\\"origin\\\": \\\"https://vfat.tools\\\",\\n  \\\"tabId\\\": 2\\n}\\n    at new o (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/common-1.js:16:24204)\\n    at Function._checkForCompletion (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:305269)\\n    at a._processRequest (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304461)\\n    at async a._handle (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304249)\"\n}\n  at new o (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/common-1.js:16:24204)\n  at Function._checkForCompletion (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:305269)\n  at a._processRequest (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304461)\n  at async a._handle (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304249)"
+}
+Oops something went wrong. Try refreshing the page.

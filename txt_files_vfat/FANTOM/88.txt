@@ -1,0 +1,209 @@
+*************** 👨‍🌾 UNOFFICIAL DRACO.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://dracoforce.com
+*********************************************************************************
+
+Fri Jan 28 2022 00:51:16 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 18 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [WFTM]-[DRC] SPOOKY LP [+] [-] [<=>] Price: $1.52 TVL: $769.26
+WFTM Price: $2.03
+DRC Price: $0.25
+Staked: 183.2911 spLP ($278.17)
+DRC Per Week: 1345.33 ($335.96)
+APR: Day 17.25% Week 120.78% Year 6280.33%
+You are staking 0.00 [WFTM]-[DRC] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[DRC] SPOOKY LP
+Unstake 0.00 [WFTM]-[DRC] SPOOKY LP
+Claim 0.00 DRC ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [USDC]-[DRC] SPOOKY LP [+] [-] [<=>] Price: $1,065,883.92 TVL: $1,397.11
+USDC Price: $1.01
+DRC Price: $0.25
+Staked: 0.0004 spLP ($401.61)
+DRC Per Week: 1345.33 ($335.96)
+APR: Day 11.95% Week 83.65% Year 4350.00%
+You are staking 0.00 [USDC]-[DRC] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DRC] SPOOKY LP
+Unstake 0.00 [USDC]-[DRC] SPOOKY LP
+Claim 0.00 DRC ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WFTM]-[BOO] SPOOKY LP [+] [-] [<=>] Price: $14.96 TVL: $63,388,653.75
+WFTM Price: $2.03
+BOO Price: $25.24
+Staked: 80.6184 spLP ($1,206.17)
+DRC Per Week: 245.15 ($61.22)
+APR: Day 0.73% Week 5.08% Year 263.93%
+You are staking 0.00 [WFTM]-[BOO] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BOO] SPOOKY LP - Fee 4%
+Unstake 0.00 [WFTM]-[BOO] SPOOKY LP
+Claim 0.00 DRC ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WFTM]-[ETH] SPOOKY LP [+] [-] [<=>] Price: $157.18 TVL: $42,619,435.36
+WFTM Price: $2.03
+ETH Price: $2,357.21
+Staked: 0.1015 spLP ($15.95)
+DRC Per Week: 245.15 ($61.22)
+APR: Day 54.84% Week 383.91% Year 19963.51%
+You are staking 0.00 [WFTM]-[ETH] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ETH] SPOOKY LP - Fee 4%
+Unstake 0.00 [WFTM]-[ETH] SPOOKY LP
+Claim 0.00 DRC ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDC]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $4,384,650.77 TVL: $168,794,612.60
+USDC Price: $1.01
+WFTM Price: $2.03
+Staked: 0.0000 spLP ($184.62)
+DRC Per Week: 245.15 ($61.22)
+APR: Day 4.74% Week 33.16% Year 1724.34%
+You are staking 0.00 [USDC]-[WFTM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WFTM] SPOOKY LP - Fee 4%
+Unstake 0.00 [USDC]-[WFTM] SPOOKY LP
+Claim 0.00 DRC ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WFTM]-[BTC] SPOOKY LP [+] [-] [<=>] Price: $11,313,525,966.19 TVL: $21,910,874.51
+WFTM Price: $2.03
+BTC Price: $36,161.00
+Staked: 0.0000 spLP ($34.56)
+DRC Per Week: 245.15 ($61.22)
+APR: Day 25.30% Week 177.13% Year 9210.67%
+You are staking 0.00 [WFTM]-[BTC] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BTC] SPOOKY LP - Fee 4%
+Unstake 0.00 [WFTM]-[BTC] SPOOKY LP
+Claim 0.00 DRC ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - DRC Price: $0.25 Market Cap: $2,060.08 
+Staked: 1597.6353 DRC ($398.97)
+DRC Per Week: 597.92 ($149.32)
+APR: Day 5.35% Week 37.43% Year 1946.13%
+You are staking 0.00 DRC ($0.00), 0.00% of the pool.
+Stake 0.00 DRC
+Unstake 0.00 DRC
+Claim 0.00 DRC ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - WFTM Price: $2.03 Market Cap: $1,466,103,132.96 
+Staked: 1278.4325 WFTM ($2,595.22)
+DRC Per Week: 221.23 ($55.25)
+APR: Day 0.30% Week 2.13% Year 110.70%
+You are staking 0.00 WFTM ($0.00), 0.00% of the pool.
+Stake 0.00 WFTM - Fee 4%
+Unstake 0.00 WFTM
+Claim 0.00 DRC ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - USDC Price: $1.01 Market Cap: $1,744,757,684.97 
+Staked: 62.3373 USDC ($62.96)
+DRC Per Week: 221.23 ($55.25)
+APR: Day 12.54% Week 87.75% Year 4562.88%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 DRC ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - ETH Price: $2,357.21 Market Cap: $1,124,574,300.86 
+Staked: 5.8230 ETH ($13,726.03)
+DRC Per Week: 221.23 ($55.25)
+APR: Day 0.06% Week 0.40% Year 20.93%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 DRC ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - BTC Price: $36,161.00 Market Cap: $622,215,317.53 
+Staked: 0.0000 BTC ($0.12)
+DRC Per Week: 221.23 ($55.25)
+APR: Day 6613.83% Week 46296.79% Year 2407432.82%
+You are staking 0.00 BTC ($0.00), 0.00% of the pool.
+Stake 0.00 BTC - Fee 4%
+Unstake 0.00 BTC
+Claim 0.00 DRC ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - DAI Price: $1.00 Market Cap: $704,467,481.12 
+Staked: 546.4168 DAI ($546.42)
+DRC Per Week: 221.23 ($55.25)
+APR: Day 1.44% Week 10.11% Year 525.76%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 DRC ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - fUSDT Price: $1.00 Market Cap: $350,441,901.33 
+Staked: 0.0960 fUSDT ($0.10)
+DRC Per Week: 221.23 ($55.25)
+APR: Day 8221.21% Week 57548.50% Year 2992521.75%
+You are staking 0.00 fUSDT ($0.00), 0.00% of the pool.
+Stake 0.00 fUSDT - Fee 4%
+Unstake 0.00 fUSDT
+Claim 0.00 DRC ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - BNB Price: $364.97 Market Cap: $13,837,118.84 
+Staked: 0.0253 BNB ($9.22)
+DRC Per Week: 221.23 ($55.25)
+APR: Day 85.58% Week 599.04% Year 31149.93%
+You are staking 0.00 BNB ($0.00), 0.00% of the pool.
+Stake 0.00 BNB - Fee 4%
+Unstake 0.00 BNB
+Claim 0.00 DRC ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - BOO Price: $25.24 Market Cap: $212,953,689.56 
+Staked: 1.6048 BOO ($40.50)
+DRC Per Week: 221.23 ($55.25)
+APR: Day 19.48% Week 136.39% Year 7092.53%
+You are staking 0.00 BOO ($0.00), 0.00% of the pool.
+Stake 0.00 BOO - Fee 4%
+Unstake 0.00 BOO
+Claim 0.00 DRC ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - fOLIVE Price: $0.00 Market Cap: $0.00 
+Staked: 4155.2953 fOLIVE ($0.00)
+DRC Per Week: 2.99 ($0.75)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 fOLIVE ($0.00), NaN% of the pool.
+Stake 0.00 fOLIVE
+Unstake 0.00 fOLIVE
+Claim 0.00 DRC ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - fPUP Price: $0.00 Market Cap: $0.00 
+Staked: 30.2051 fPUP ($0.00)
+DRC Per Week: 2.99 ($0.75)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 fPUP ($0.00), NaN% of the pool.
+Stake 0.00 fPUP
+Unstake 0.00 fPUP
+Claim 0.00 DRC ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [WFTM]-[BOUJE] SPOOKY LP [+] [-] [<=>] Price: $1.10 TVL: $1,819.33
+WFTM Price: $2.03
+BOUJE Price: $0.13
+Staked: 5.1355 spLP ($5.65)
+DRC Per Week: 2.99 ($0.75)
+APR: Day 1.89% Week 13.21% Year 686.95%
+You are staking 0.00 [WFTM]-[BOUJE] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BOUJE] SPOOKY LP
+Unstake 0.00 [WFTM]-[BOUJE] SPOOKY LP
+Claim 0.00 DRC ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $19,506.25

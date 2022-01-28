@@ -1,0 +1,97 @@
+*************** 👨‍🌾 UNOFFICIAL APOYIELD FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://apoyield.com
+*****************************************************************************
+
+Thu Jan 27 2022 20:47:33 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 29 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - DSL Price: $0.00 Market Cap: $0.00 
+Staked: 3830230.5807 DSL ($0.00)
+DSL Per Week: 50400.00 ($20.49)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 DSL ($0.00), NaN% of the pool.
+Stake 0.00 DSL
+Unstake 0.00 DSL
+Claim 0.00 DSL ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [SOUL]-[WBNB] APE LP [+] [-] [<=>] Price: $15,783.66 TVL: $1,859.55
+SOUL Price: $0.0000090522
+WBNB Price: $370.11
+Staked: 0.0546 APE-LP ($861.42)
+DSL Per Week: 13903.45 ($5.65)
+APR: Day 0.09% Week 0.66% Year 34.12%
+You are staking 0.00 [SOUL]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SOUL]-[WBNB] APE LP
+Unstake 0.00 [SOUL]-[WBNB] APE LP
+Claim 0.00 DSL ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [SOUL]-[BUSD] APE LP [+] [-] [<=>] Price: $789.56 TVL: $906.02
+SOUL Price: $0.0000090522
+BUSD Price: $1.00
+Staked: 1.0460 APE-LP ($825.92)
+DSL Per Week: 13903.45 ($5.65)
+APR: Day 0.10% Week 0.68% Year 35.59%
+You are staking 0.00 [SOUL]-[BUSD] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SOUL]-[BUSD] APE LP
+Unstake 0.00 [SOUL]-[BUSD] APE LP
+Claim 0.00 DSL ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [BANANA]-[SOUL] APE LP [+] [-] [<=>] Price: $641.05 TVL: $4,238.34
+BANANA Price: $0.62
+SOUL Price: $0.0000090522
+Staked: 0.4554 APE-LP ($291.95)
+DSL Per Week: 5213.79 ($2.12)
+APR: Day 0.10% Week 0.73% Year 37.75%
+You are staking 0.00 [BANANA]-[SOUL] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BANANA]-[SOUL] APE LP
+Unstake 0.00 [BANANA]-[SOUL] APE LP
+Claim 0.00 DSL ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [NAUT]-[SOUL] APE LP [+] [-] [<=>] Price: $58,955,681.75 TVL: $224.27
+NAUT Price: $0.50
+SOUL Price: $0.0000090522
+Staked: 0.0000 APE-LP ($219.19)
+DSL Per Week: 3475.86 ($1.41)
+APR: Day 0.09% Week 0.64% Year 33.52%
+You are staking 0.00 [NAUT]-[SOUL] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [NAUT]-[SOUL] APE LP
+Unstake 0.00 [NAUT]-[SOUL] APE LP
+Claim 0.00 DSL ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [DEGENR]-[SOUL] Cake LP [+] [-] [<=>] Price: $43.22 TVL: $235.81
+DEGENR Price: $0.003832
+SOUL Price: $0.0000090522
+Staked: 0.8789 Cake-LP ($37.99)
+DSL Per Week: 3475.86 ($1.41)
+APR: Day 0.53% Week 3.72% Year 193.42%
+You are staking 0.00 [DEGENR]-[SOUL] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DEGENR]-[SOUL] Cake LP
+Unstake 0.00 [DEGENR]-[SOUL] Cake LP
+Claim 0.00 DSL ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - [DSL]-[WBNB] APE LP [+] [-] [<=>] Price: $0.79 TVL: $663.97
+DSL Price: $0.000407
+WBNB Price: $370.11
+Staked: 832.3185 APE-LP ($654.05)
+DSL Per Week: 97324.14 ($39.56)
+APR: Day 0.86% Week 6.05% Year 314.55%
+You are staking 0.00 [DSL]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DSL]-[WBNB] APE LP
+Unstake 0.00 [DSL]-[WBNB] APE LP
+Claim 0.00 DSL ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $2,890.52

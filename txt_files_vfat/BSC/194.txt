@@ -1,0 +1,34 @@
+*************** 👨‍🌾 UNOFFICIAL DEGENTOKEN.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://degentoken.finance
+***************************************************************************************
+
+Thu Jan 27 2022 20:50:54 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 51 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+2 - DGNZ Price: $0.0000199400 Market Cap: $244.16 [%]
+Staked: 2199471.1873 DGNZ ($43.86)
+aDGNZ Per Week: 733.09 ($4.68)
+APR: Day 1.52% Week 10.66% Year 554.32%
+You are staking 0.00 DGNZ ($0.00), 0.00% of the pool.
+Stake 0.00 DGNZ
+Unstake 0.00 DGNZ
+Claim 0.00 aDGNZ ($0.00)
+Staking or unstaking also claims rewards.
+
+33 - [WBNB]-[aDGNZ] Cake LP [+] [-] [<=>] Price: $3.21 TVL: $136.47
+WBNB Price: $370.04
+aDGNZ Price: $0.006377
+Staked: 42.2364 Cake-LP ($135.59)
+aDGNZ Per Week: 1282.91 ($8.18)
+APR: Day 0.86% Week 6.03% Year 313.77%
+You are staking 0.00 [WBNB]-[aDGNZ] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[aDGNZ] Cake LP
+Unstake 0.00 [WBNB]-[aDGNZ] Cake LP
+Claim 0.00 aDGNZ ($0.00)
+Staking or unstaking also claims rewards.

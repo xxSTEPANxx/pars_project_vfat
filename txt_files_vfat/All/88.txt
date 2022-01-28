@@ -1,0 +1,67 @@
+*************** 👨‍🌾 UNOFFICIAL PENGUINSWAP FARMING CALCULATOR 👨‍🌾 ******************
+INFO  : https://penguinswap.eth.link
+***********************************************************************************
+
+Thu Jan 27 2022 19:47:34 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+[🐟]-[WETH] Uni LP [+] [-] [<=>] Price: $225.74 TVL: $151,813.00
+🐟 Price: $1.65
+WETH Price: $2,482.26
+Staked: 9.7251 UNI-V2 ($2,195.32)
+🐟 Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [🐟]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [🐟]-[WETH] Uni LP
+Unstake 0.000000 [🐟]-[WETH] Uni LP
+Claim 0.000000 🐟 ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[UNI]-[🐟] Uni LP [+] [-] [<=>] Price: $9.35 TVL: $7,506.81
+UNI Price: $10.79
+🐟 Price: $1.65
+Staked: 67.1606 UNI-V2 ($628.10)
+🐟 Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [UNI]-[🐟] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [UNI]-[🐟] Uni LP
+Unstake 0.000000 [UNI]-[🐟] Uni LP
+Claim 0.000000 🐟 ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[🐟]-[USDC] Uni LP [+] [-] [<=>] Price: $69,685,419.61 TVL: $8,217.34
+🐟 Price: $1.65
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($966.59)
+🐟 Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [🐟]-[USDC] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [🐟]-[USDC] Uni LP
+Unstake 0.000000 [🐟]-[USDC] Uni LP
+Claim 0.000000 🐟 ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[⛩️]-[🐟] Uni LP [+] [-] [<=>] Price: $1.97 TVL: $7,724.94
+⛩️ Price: $0.56
+🐟 Price: $1.65
+Staked: 99.6295 UNI-V2 ($196.05)
+🐟 Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [⛩️]-[🐟] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [⛩️]-[🐟] Uni LP
+Unstake 0.000000 [⛩️]-[🐟] Uni LP
+Claim 0.000000 🐟 ($0.00)
+Revoke (set approval to 0)
+Exit
+
+Total staked: $3,986.06

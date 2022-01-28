@@ -1,0 +1,483 @@
+*************** 👨‍🌾 UNOFFICIAL BORGSWAP FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://ftm.borgswap.exchange
+*************************************************************************************
+
+Fri Jan 28 2022 00:31:22 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 47 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [DAI]-[SON] Hades Swap LP Token [+] [-] [<=>] Price: $11.35 TVL: $153.53
+DAI Price: $1.00
+SON Price: $21.04
+Staked: 11.9096 HLP ($135.19)
+SON Per Week: 0.27 ($5.70)
+APR: Day 0.60% Week 4.21% Year 219.09%
+You are staking 0.00 [DAI]-[SON] Hades Swap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[SON] Hades Swap LP Token
+Unstake 0.00 [DAI]-[SON] Hades Swap LP Token
+Claim 0.00 SON ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [USDC]-[SON] Hades Swap LP Token [+] [-] [<=>] Price: $11,193,948.22 TVL: $343.12
+USDC Price: $1.00
+SON Price: $21.04
+Staked: 0.0000 HLP ($275.98)
+SON Per Week: 0.27 ($5.70)
+APR: Day 0.29% Week 2.06% Year 107.33%
+You are staking 0.00 [USDC]-[SON] Hades Swap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[SON] Hades Swap LP Token
+Unstake 0.00 [USDC]-[SON] Hades Swap LP Token
+Claim 0.00 SON ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WFTM]-[SON] Hades Swap LP Token [+] [-] [<=>] Price: $16.62 TVL: $374.68
+WFTM Price: $2.02
+SON Price: $21.04
+Staked: 18.9204 HLP ($314.53)
+SON Per Week: 0.43 ($8.95)
+APR: Day 0.41% Week 2.85% Year 147.98%
+You are staking 0.00 [WFTM]-[SON] Hades Swap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[SON] Hades Swap LP Token
+Unstake 0.00 [WFTM]-[SON] Hades Swap LP Token
+Claim 0.00 SON ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [BTC]-[SON] Hades Swap LP Token [+] [-] [<=>] Price: $198,561,411.27 TVL: $399.84
+BTC Price: $35,821.00
+SON Price: $21.04
+Staked: 0.0000 HLP ($378.85)
+SON Per Week: 0.57 ($11.93)
+APR: Day 0.45% Week 3.15% Year 163.81%
+You are staking 0.00 [BTC]-[SON] Hades Swap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [BTC]-[SON] Hades Swap LP Token
+Unstake 0.00 [BTC]-[SON] Hades Swap LP Token
+Claim 0.00 SON ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [ETH]-[SON] Hades Swap LP Token [+] [-] [<=>] Price: $521.77 TVL: $137.52
+ETH Price: $2,338.22
+SON Price: $21.04
+Staked: 0.2628 HLP ($137.10)
+SON Per Week: 0.40 ($8.41)
+APR: Day 0.88% Week 6.13% Year 318.92%
+You are staking 0.00 [ETH]-[SON] Hades Swap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[SON] Hades Swap LP Token
+Unstake 0.00 [ETH]-[SON] Hades Swap LP Token
+Claim 0.00 SON ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [BORGDAI]-[SON] Hades Swap LP Token [+] [-] [<=>] Price: $212,768.42 TVL: $137.06
+BORGDAI Price: $0.75
+SON Price: $21.04
+Staked: 0.0005 HLP ($113.29)
+SON Per Week: 0.18 ($3.80)
+APR: Day 0.48% Week 3.35% Year 174.30%
+You are staking 0.00 [BORGDAI]-[SON] Hades Swap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [BORGDAI]-[SON] Hades Swap LP Token
+Unstake 0.00 [BORGDAI]-[SON] Hades Swap LP Token
+Claim 0.00 SON ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [SON]-[BORG] Hades Swap LP Token [+] [-] [<=>] Price: $182,520.41 TVL: $296.77
+SON Price: $21.04
+BORG Price: $0.03
+Staked: 0.0015 HLP ($280.88)
+SON Per Week: 0.18 ($3.80)
+APR: Day 0.19% Week 1.35% Year 70.30%
+You are staking 0.00 [SON]-[BORG] Hades Swap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [SON]-[BORG] Hades Swap LP Token
+Unstake 0.00 [SON]-[BORG] Hades Swap LP Token
+Claim 0.00 SON ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [SON]-[AURORA] Hades Swap LP Token [+] [-] [<=>] Price: $3.22 TVL: $69.06
+SON Price: $21.04
+AURORA Price: $0.07
+Staked: 21.2896 HLP ($68.62)
+SON Per Week: 0.18 ($3.80)
+APR: Day 0.79% Week 5.53% Year 287.77%
+You are staking 0.00 [SON]-[AURORA] Hades Swap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [SON]-[AURORA] Hades Swap LP Token
+Unstake 0.00 [SON]-[AURORA] Hades Swap LP Token
+Claim 0.00 SON ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [WFTM]-[DAI] Hades Swap LP Token [+] [-] [<=>] Price: $3.17 TVL: $52,012.21
+WFTM Price: $2.02
+DAI Price: $1.00
+Staked: 6.8152 HLP ($21.59)
+SON Per Week: 0.04 ($0.81)
+APR: Day 0.54% Week 3.77% Year 195.95%
+You are staking 0.00 [WFTM]-[DAI] Hades Swap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[DAI] Hades Swap LP Token - Fee 3%
+Unstake 0.00 [WFTM]-[DAI] Hades Swap LP Token
+Claim 0.00 SON ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [USDC]-[WFTM] Hades Swap LP Token [+] [-] [<=>] Price: $3,391,654.51 TVL: $205,845.98
+USDC Price: $1.00
+WFTM Price: $2.02
+Staked: 0.0000 HLP ($4.54)
+SON Per Week: 0.04 ($0.81)
+APR: Day 2.56% Week 17.92% Year 931.99%
+You are staking 0.00 [USDC]-[WFTM] Hades Swap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WFTM] Hades Swap LP Token - Fee 3%
+Unstake 0.00 [USDC]-[WFTM] Hades Swap LP Token
+Claim 0.00 SON ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [WFTM]-[BTC] Hades Swap LP Token [+] [-] [<=>] Price: $56,301,645.92 TVL: $16,578.36
+WFTM Price: $2.02
+BTC Price: $35,821.00
+Staked: 0.0000 HLP ($2,318.65)
+SON Per Week: 0.04 ($0.81)
+APR: Day 0.01% Week 0.04% Year 1.82%
+You are staking 0.00 [WFTM]-[BTC] Hades Swap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BTC] Hades Swap LP Token - Fee 3%
+Unstake 0.00 [WFTM]-[BTC] Hades Swap LP Token
+Claim 0.00 SON ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [WFTM]-[ETH] Hades Swap LP Token [+] [-] [<=>] Price: $143.95 TVL: $5,942.85
+WFTM Price: $2.02
+ETH Price: $2,338.22
+Staked: 5.9130 HLP ($851.21)
+SON Per Week: 0.04 ($0.81)
+APR: Day 0.01% Week 0.10% Year 4.97%
+You are staking 0.00 [WFTM]-[ETH] Hades Swap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ETH] Hades Swap LP Token - Fee 3%
+Unstake 0.00 [WFTM]-[ETH] Hades Swap LP Token
+Claim 0.00 SON ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [USDC]-[DAI] Hades Swap LP Token [+] [-] [<=>] Price: $2,107,866.02 TVL: $221,500.12
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.0000 HLP ($11.59)
+SON Per Week: 0.04 ($0.81)
+APR: Day 1.00% Week 7.02% Year 365.12%
+You are staking 0.00 [USDC]-[DAI] Hades Swap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAI] Hades Swap LP Token - Fee 3%
+Unstake 0.00 [USDC]-[DAI] Hades Swap LP Token
+Claim 0.00 SON ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - WFTM Price: $2.02 Market Cap: $1,459,603,878.21 
+Staked: 3655.2658 WFTM ($7,383.64)
+SON Per Week: 0.04 ($0.81)
+APR: Day 0.00% Week 0.01% Year 0.57%
+You are staking 0.00 WFTM ($0.00), 0.00% of the pool.
+Stake 0.00 WFTM - Fee 7%
+Unstake 0.00 WFTM
+Claim 0.00 SON ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - ETH Price: $2,338.22 Market Cap: $1,115,565,360.60 
+Staked: 0.3377 ETH ($789.50)
+SON Per Week: 0.04 ($0.81)
+APR: Day 0.01% Week 0.10% Year 5.36%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 7%
+Unstake 0.00 ETH
+Claim 0.00 SON ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - YFI Price: $23,271.00 Market Cap: $44,526,404.53 
+Staked: 0.0005 YFI ($10.96)
+SON Per Week: 0.04 ($0.81)
+APR: Day 1.06% Week 7.42% Year 386.07%
+You are staking 0.00 YFI ($0.00), 0.00% of the pool.
+Stake 0.00 YFI - Fee 7%
+Unstake 0.00 YFI
+Claim 0.00 SON ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - FUSD Price: $1.00 Market Cap: $28,921,130.26 
+Staked: 52.5788 FUSD ($52.58)
+SON Per Week: 0.04 ($0.81)
+APR: Day 0.22% Week 1.55% Year 80.48%
+You are staking 0.00 FUSD ($0.00), 0.00% of the pool.
+Stake 0.00 FUSD - Fee 7%
+Unstake 0.00 FUSD
+Claim 0.00 SON ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - ICE Price: $3.83 Market Cap: $15,058,407.33 
+Staked: 30.7094 ICE ($117.62)
+SON Per Week: 0.04 ($0.81)
+APR: Day 0.10% Week 0.69% Year 35.98%
+You are staking 0.00 ICE ($0.00), 0.00% of the pool.
+Stake 0.00 ICE - Fee 7%
+Unstake 0.00 ICE
+Claim 0.00 SON ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - LINK Price: $14.61 Market Cap: $38,102,177.04 
+Staked: 2.9272 LINK ($42.77)
+SON Per Week: 0.04 ($0.81)
+APR: Day 0.27% Week 1.90% Year 98.94%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 7%
+Unstake 0.00 LINK
+Claim 0.00 SON ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - CREAM Price: $0.000358 Market Cap: $1.94 
+Staked: 4.7922 CREAM ($0.00)
+SON Per Week: 0.04 ($0.81)
+APR: Day 6784.41% Week 47490.85% Year 2469523.99%
+You are staking 0.00 CREAM ($0.00), 0.00% of the pool.
+Stake 0.00 CREAM - Fee 7%
+Unstake 0.00 CREAM
+Claim 0.00 SON ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - DAI Price: $1.00 Market Cap: $707,491,894.19 
+Staked: 114.3740 DAI ($114.37)
+SON Per Week: 0.04 ($0.81)
+APR: Day 0.10% Week 0.71% Year 37.00%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 7%
+Unstake 0.00 DAI
+Claim 0.00 SON ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - [YFI]-[SON] Hades Swap LP Token [+] [-] [<=>] Price: $1,762.81 TVL: $295.49
+YFI Price: $23,271.00
+SON Price: $21.04
+Staked: 0.1660 HLP ($292.64)
+SON Per Week: 0.99 ($20.89)
+APR: Day 1.02% Week 7.14% Year 371.13%
+You are staking 0.00 [YFI]-[SON] Hades Swap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [YFI]-[SON] Hades Swap LP Token
+Unstake 0.00 [YFI]-[SON] Hades Swap LP Token
+Claim 0.00 SON ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - [WFTM]-[BORG] Hades Swap LP Token [+] [-] [<=>] Price: $51,434.76 TVL: $2,024.69
+WFTM Price: $2.02
+BORG Price: $0.03
+Staked: 0.0356 HLP ($1,828.62)
+SON Per Week: 0.14 ($2.98)
+APR: Day 0.02% Week 0.16% Year 8.48%
+You are staking 0.00 [WFTM]-[BORG] Hades Swap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BORG] Hades Swap LP Token
+Unstake 0.00 [WFTM]-[BORG] Hades Swap LP Token
+Claim 0.00 SON ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - [WFTM]-[BORGDAI] Hades Swap LP Token [+] [-] [<=>] Price: $134,648.24 TVL: $940.02
+WFTM Price: $2.02
+BORGDAI Price: $0.75
+Staked: 0.0065 HLP ($878.06)
+SON Per Week: 0.14 ($2.98)
+APR: Day 0.05% Week 0.34% Year 17.67%
+You are staking 0.00 [WFTM]-[BORGDAI] Hades Swap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BORGDAI] Hades Swap LP Token
+Unstake 0.00 [WFTM]-[BORGDAI] Hades Swap LP Token
+Claim 0.00 SON ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - BOO Price: $25.48 Market Cap: $214,974,573.68 
+Staked: 36.9958 BOO ($942.65)
+SON Per Week: 0.04 ($0.81)
+APR: Day 0.01% Week 0.09% Year 4.49%
+You are staking 0.00 BOO ($0.00), 0.00% of the pool.
+Stake 0.00 BOO - Fee 7%
+Unstake 0.00 BOO
+Claim 0.00 SON ($0.00)
+Staking or unstaking also claims rewards.
+
+29 - SPIRIT Price: $0.13 Market Cap: $67,585,243.70 
+Staked: 532.3128 SPIRIT ($69.60)
+SON Per Week: 0.04 ($0.81)
+APR: Day 0.17% Week 1.17% Year 60.80%
+You are staking 0.00 SPIRIT ($0.00), 0.00% of the pool.
+Stake 0.00 SPIRIT - Fee 7%
+Unstake 0.00 SPIRIT
+Claim 0.00 SON ($0.00)
+Staking or unstaking also claims rewards.
+
+30 - [SON]-[FUSD] Hades Swap LP Token [+] [-] [<=>] Price: $10.68 TVL: $124.81
+SON Price: $21.04
+FUSD Price: $1.00
+Staked: 11.1222 HLP ($118.78)
+SON Per Week: 0.27 ($5.70)
+APR: Day 0.69% Week 4.80% Year 249.38%
+You are staking 0.00 [SON]-[FUSD] Hades Swap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [SON]-[FUSD] Hades Swap LP Token
+Unstake 0.00 [SON]-[FUSD] Hades Swap LP Token
+Claim 0.00 SON ($0.00)
+Staking or unstaking also claims rewards.
+
+31 - [ZOO]-[SON] Hades Swap LP Token [+] [-] [<=>] Price: $1,408,670,775.62 TVL: $304.28
+ZOO Price: $0.02
+SON Price: $21.04
+Staked: 0.0000 HLP ($294.99)
+SON Per Week: 0.18 ($3.80)
+APR: Day 0.18% Week 1.29% Year 66.94%
+You are staking 0.00 [ZOO]-[SON] Hades Swap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [ZOO]-[SON] Hades Swap LP Token
+Unstake 0.00 [ZOO]-[SON] Hades Swap LP Token
+Claim 0.00 SON ($0.00)
+Staking or unstaking also claims rewards.
+
+32 - [fUSDT]-[SON] Hades Swap LP Token [+] [-] [<=>] Price: $10,605,513.41 TVL: $93.09
+fUSDT Price: $1.00
+SON Price: $21.04
+Staked: 0.0000 HLP ($88.36)
+SON Per Week: 0.27 ($5.70)
+APR: Day 0.92% Week 6.45% Year 335.21%
+You are staking 0.00 [fUSDT]-[SON] Hades Swap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [fUSDT]-[SON] Hades Swap LP Token
+Unstake 0.00 [fUSDT]-[SON] Hades Swap LP Token
+Claim 0.00 SON ($0.00)
+Staking or unstaking also claims rewards.
+
+33 - [SON]-[ICE] Hades Swap LP Token [+] [-] [<=>] Price: $22.73 TVL: $66.69
+SON Price: $21.04
+ICE Price: $3.83
+Staked: 2.9159 HLP ($66.28)
+SON Per Week: 0.18 ($3.80)
+APR: Day 0.82% Week 5.73% Year 297.90%
+You are staking 0.00 [SON]-[ICE] Hades Swap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [SON]-[ICE] Hades Swap LP Token
+Unstake 0.00 [SON]-[ICE] Hades Swap LP Token
+Claim 0.00 SON ($0.00)
+Staking or unstaking also claims rewards.
+
+35 - [BORGDAI]-[AURORA] Hades Swap LP Token [+] [-] [<=>] Price: $5,065.66 TVL: $114.77
+BORGDAI Price: $0.75
+AURORA Price: $0.07
+Staked: 0.0158 HLP ($80.10)
+SON Per Week: 0.14 ($2.98)
+APR: Day 0.53% Week 3.73% Year 193.71%
+You are staking 0.00 [BORGDAI]-[AURORA] Hades Swap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [BORGDAI]-[AURORA] Hades Swap LP Token
+Unstake 0.00 [BORGDAI]-[AURORA] Hades Swap LP Token
+Claim 0.00 SON ($0.00)
+Staking or unstaking also claims rewards.
+
+36 - [BORGDAI]-[DAI] Hades Swap LP Token [+] [-] [<=>] Price: $16,516.67 TVL: $458.42
+BORGDAI Price: $0.75
+DAI Price: $1.00
+Staked: 0.0175 HLP ($289.68)
+SON Per Week: 0.14 ($2.98)
+APR: Day 0.15% Week 1.03% Year 53.56%
+You are staking 0.00 [BORGDAI]-[DAI] Hades Swap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [BORGDAI]-[DAI] Hades Swap LP Token
+Unstake 0.00 [BORGDAI]-[DAI] Hades Swap LP Token
+Claim 0.00 SON ($0.00)
+Staking or unstaking also claims rewards.
+
+37 - [fUSDT]-[BORGDAI] Hades Swap LP Token [+] [-] [<=>] Price: $16,342,294,007.88 TVL: $450.22
+fUSDT Price: $1.00
+BORGDAI Price: $0.75
+Staked: 0.0000 HLP ($65.19)
+SON Per Week: 0.14 ($2.98)
+APR: Day 0.65% Week 4.58% Year 238.00%
+You are staking 0.00 [fUSDT]-[BORGDAI] Hades Swap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [fUSDT]-[BORGDAI] Hades Swap LP Token
+Unstake 0.00 [fUSDT]-[BORGDAI] Hades Swap LP Token
+Claim 0.00 SON ($0.00)
+Staking or unstaking also claims rewards.
+
+38 - SNX Price: $0.00 Market Cap: $0.00 
+Staked: 12.6889 SNX ($0.00)
+SON Per Week: 0.04 ($0.81)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SNX ($0.00), NaN% of the pool.
+Stake 0.00 SNX - Fee 7%
+Unstake 0.00 SNX
+Claim 0.00 SON ($0.00)
+Staking or unstaking also claims rewards.
+
+39 - [SON]-[LINK] Hades Swap LP Token [+] [-] [<=>] Price: $39.59 TVL: $162.88
+SON Price: $21.04
+LINK Price: $14.61
+Staked: 4.1074 HLP ($162.60)
+SON Per Week: 0.40 ($8.41)
+APR: Day 0.74% Week 5.17% Year 268.91%
+You are staking 0.00 [SON]-[LINK] Hades Swap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [SON]-[LINK] Hades Swap LP Token
+Unstake 0.00 [SON]-[LINK] Hades Swap LP Token
+Claim 0.00 SON ($0.00)
+Staking or unstaking also claims rewards.
+
+40 - [CREAM]-[SON] Hades Swap LP Token [+] [-] [<=>] Price: $26.56 TVL: $86.52
+CREAM Price: $0.000358
+SON Price: $21.04
+Staked: 3.1495 HLP ($83.65)
+SON Per Week: 0.27 ($5.70)
+APR: Day 0.97% Week 6.81% Year 354.07%
+You are staking 0.00 [CREAM]-[SON] Hades Swap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [CREAM]-[SON] Hades Swap LP Token
+Unstake 0.00 [CREAM]-[SON] Hades Swap LP Token
+Claim 0.00 SON ($0.00)
+Staking or unstaking also claims rewards.
+
+41 - [SON]-[SUSHI] Hades Swap LP Token [+] [-] [<=>] Price: $21.60 TVL: $78.51
+SON Price: $21.04
+SUSHI Price: $3.88
+Staked: 3.6274 HLP ($78.36)
+SON Per Week: 0.27 ($5.70)
+APR: Day 1.04% Week 7.27% Year 377.98%
+You are staking 0.00 [SON]-[SUSHI] Hades Swap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [SON]-[SUSHI] Hades Swap LP Token
+Unstake 0.00 [SON]-[SUSHI] Hades Swap LP Token
+Claim 0.00 SON ($0.00)
+Staking or unstaking also claims rewards.
+
+43 - [AURORA]-[BORG] Hades Swap LP Token [+] [-] [<=>] Price: $10,771.18 TVL: $40.10
+AURORA Price: $0.07
+BORG Price: $0.03
+Staked: 0.0035 HLP ($37.56)
+SON Per Week: 0.14 ($2.98)
+APR: Day 1.13% Week 7.94% Year 413.09%
+You are staking 0.00 [AURORA]-[BORG] Hades Swap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [AURORA]-[BORG] Hades Swap LP Token
+Unstake 0.00 [AURORA]-[BORG] Hades Swap LP Token
+Claim 0.00 SON ($0.00)
+Staking or unstaking also claims rewards.
+
+44 - SUSHI Price: $3.88 Market Cap: $6,797,439.61 
+Staked: 6.9770 SUSHI ($27.07)
+SON Per Week: 0.04 ($0.81)
+APR: Day 0.43% Week 3.01% Year 156.31%
+You are staking 0.00 SUSHI ($0.00), 0.00% of the pool.
+Stake 0.00 SUSHI - Fee 7%
+Unstake 0.00 SUSHI
+Claim 0.00 SON ($0.00)
+Staking or unstaking also claims rewards.
+
+45 - [WFTM]-[AURORA] Hades Swap LP Token [+] [-] [<=>] Price: $0.89 TVL: $403,327.09
+WFTM Price: $2.02
+AURORA Price: $0.07
+Staked: 51.2830 HLP ($45.56)
+SON Per Week: 0.04 ($0.81)
+APR: Day 0.26% Week 1.79% Year 92.87%
+You are staking 0.00 [WFTM]-[AURORA] Hades Swap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[AURORA] Hades Swap LP Token - Fee 3%
+Unstake 0.00 [WFTM]-[AURORA] Hades Swap LP Token
+Claim 0.00 SON ($0.00)
+Staking or unstaking also claims rewards.
+
+46 - [ORI]-[SON] Hades Swap LP Token [+] [-] [<=>] Price: $1.88 TVL: $12.60
+ORI Price: $0.009801
+SON Price: $21.04
+Staked: 6.5868 HLP ($12.38)
+SON Per Week: 0.14 ($2.98)
+APR: Day 3.44% Week 24.11% Year 1253.65%
+You are staking 0.00 [ORI]-[SON] Hades Swap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [ORI]-[SON] Hades Swap LP Token
+Unstake 0.00 [ORI]-[SON] Hades Swap LP Token
+Claim 0.00 SON ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $18,885.58

@@ -1,0 +1,37 @@
+*************** 👨‍🌾 UNOFFICIAL SWARM NETWORK FARMING CALCULATOR 👨‍🌾 *********
+INFO  : https://stake.myswarm.app
+****************************************************************************
+
+Thu Jan 27 2022 19:46:51 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 2 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - SWM Price: $0.009265 Market Cap: $926,542.00 [%]
+Staked: 4974124.7537 SWM ($46,087.35)
+SWM Per Week: 4037.66 ($37.41)
+APR: Day 0.01% Week 0.08% Year 4.22%
+You are staking 0.00 SWM ($0.00), 0.00% of the pool.
+Stake 0.00 SWM
+Unstake 0.00 SWM
+Claim 0.00 SWM ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [SWM]-[WETH] Uni LP [+] [-] [<=>] Price: $11.46 TVL: $100,389.91
+SWM Price: $0.009265
+WETH Price: $2,482.26
+Staked: 6129.5122 UNI-V2 ($70,250.25)
+SWM Per Week: 16150.63 ($149.64)
+APR: Day 0.03% Week 0.21% Year 11.08%
+You are staking 0.00 [SWM]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SWM]-[WETH] Uni LP
+Unstake 0.00 [SWM]-[WETH] Uni LP
+Claim 0.00 SWM ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $116,337.61

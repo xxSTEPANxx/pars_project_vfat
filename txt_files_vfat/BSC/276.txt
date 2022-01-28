@@ -1,0 +1,159 @@
+*************** 👨‍🌾 UNOFFICIAL ONI FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://oni.exchange
+************************************************************************
+
+Thu Jan 27 2022 21:06:43 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 13 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [ONI]-[BUSD] Uni LP [+] [-] [<=>] Price: $0.02 TVL: $2,880.76
+ONI Price: $0.000116
+BUSD Price: $1.00
+Staked: 127911.2156 Oni-LP ($2,870.41)
+ONI Per Week: 1089729.73 ($126.60)
+APR: Day 0.63% Week 4.41% Year 229.35%
+You are staking 0.00 [ONI]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ONI]-[BUSD] Uni LP
+Unstake 0.00 [ONI]-[BUSD] Uni LP
+Claim 0.00 ONI ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [ONI]-[WBNB] Uni LP [+] [-] [<=>] Price: $0.43 TVL: $2,376.36
+ONI Price: $0.000116
+WBNB Price: $368.82
+Staked: 5363.6577 Oni-LP ($2,304.29)
+ONI Per Week: 653837.84 ($75.96)
+APR: Day 0.47% Week 3.30% Year 171.42%
+You are staking 0.00 [ONI]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ONI]-[WBNB] Uni LP
+Unstake 0.00 [ONI]-[WBNB] Uni LP
+Claim 0.00 ONI ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WBNB]-[BUSD] Uni LP [+] [-] [<=>] Price: $39.27 TVL: $203.84
+WBNB Price: $368.82
+BUSD Price: $1.00
+Staked: 5.0810 Oni-LP ($199.52)
+ONI Per Week: 27243.24 ($3.17)
+APR: Day 0.23% Week 1.59% Year 82.49%
+You are staking 0.00 [WBNB]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Uni LP
+Unstake 0.00 [WBNB]-[BUSD] Uni LP
+Claim 0.00 ONI ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [DAI]-[BUSD] Uni LP [+] [-] [<=>] Price: $2.00 TVL: $51.74
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 25.8853 Oni-LP ($51.74)
+ONI Per Week: 27243.24 ($3.17)
+APR: Day 0.87% Week 6.12% Year 318.11%
+You are staking 0.00 [DAI]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Uni LP
+Unstake 0.00 [DAI]-[BUSD] Uni LP
+Claim 0.00 ONI ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [USDT]-[BUSD] Uni LP [+] [-] [<=>] Price: $2.02 TVL: $290.73
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 115.0885 Oni-LP ($232.33)
+ONI Per Week: 27243.24 ($3.17)
+APR: Day 0.19% Week 1.36% Year 70.84%
+You are staking 0.00 [USDT]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Uni LP
+Unstake 0.00 [USDT]-[BUSD] Uni LP
+Claim 0.00 ONI ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [USDT]-[WBNB] Uni LP [+] [-] [<=>] Price: $38.94 TVL: $152.42
+USDT Price: $1.00
+WBNB Price: $368.82
+Staked: 3.8510 Oni-LP ($149.96)
+ONI Per Week: 27243.24 ($3.17)
+APR: Day 0.30% Week 2.11% Year 109.75%
+You are staking 0.00 [USDT]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WBNB] Uni LP
+Unstake 0.00 [USDT]-[WBNB] Uni LP
+Claim 0.00 ONI ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [BTCB]-[WBNB] Uni LP [+] [-] [<=>] Price: $7,356.23 TVL: $10.42
+BTCB Price: $36,259.00
+WBNB Price: $368.82
+Staked: 0.0002 Oni-LP ($1.11)
+ONI Per Week: 27243.24 ($3.17)
+APR: Day 40.77% Week 285.39% Year 14840.48%
+You are staking 0.00 [BTCB]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Uni LP
+Unstake 0.00 [BTCB]-[WBNB] Uni LP
+Claim 0.00 ONI ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [ETH]-[WBNB] Uni LP [+] [-] [<=>] Price: $1,908.94 TVL: $112.08
+ETH Price: $2,454.53
+WBNB Price: $368.82
+Staked: 0.0584 Oni-LP ($111.58)
+ONI Per Week: 27243.24 ($3.17)
+APR: Day 0.41% Week 2.84% Year 147.50%
+You are staking 0.00 [ETH]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Uni LP
+Unstake 0.00 [ETH]-[WBNB] Uni LP
+Claim 0.00 ONI ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [USDC]-[BUSD] Uni LP [+] [-] [<=>] Price: $2.00 TVL: $349.21
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 174.5220 Oni-LP ($349.08)
+ONI Per Week: 27243.24 ($3.17)
+APR: Day 0.13% Week 0.91% Year 47.15%
+You are staking 0.00 [USDC]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Uni LP
+Unstake 0.00 [USDC]-[BUSD] Uni LP
+Claim 0.00 ONI ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [DOT]-[WBNB] Uni LP [+] [-] [<=>] Price: $163.92 TVL: $501.77
+DOT Price: $18.05
+WBNB Price: $368.82
+Staked: 3.0558 Oni-LP ($500.89)
+ONI Per Week: 27243.24 ($3.17)
+APR: Day 0.09% Week 0.63% Year 32.86%
+You are staking 0.00 [DOT]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Uni LP
+Unstake 0.00 [DOT]-[WBNB] Uni LP
+Claim 0.00 ONI ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [Cake]-[BUSD] Uni LP [+] [-] [<=>] Price: $5.36 TVL: $219.98
+Cake Price: $6.99
+BUSD Price: $1.00
+Staked: 34.9349 Oni-LP ($187.35)
+ONI Per Week: 27243.24 ($3.17)
+APR: Day 0.24% Week 1.69% Year 87.85%
+You are staking 0.00 [Cake]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BUSD] Uni LP
+Unstake 0.00 [Cake]-[BUSD] Uni LP
+Claim 0.00 ONI ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [USDT]-[ONI] Uni LP [+] [-] [<=>] Price: $0.02 TVL: $72.17
+USDT Price: $1.00
+ONI Price: $0.000116
+Staked: 3319.4914 Oni-LP ($72.11)
+ONI Per Week: 27243.24 ($3.17)
+APR: Day 0.63% Week 4.39% Year 228.22%
+You are staking 0.00 [USDT]-[ONI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[ONI] Uni LP
+Unstake 0.00 [USDT]-[ONI] Uni LP
+Claim 0.00 ONI ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $7,030.38

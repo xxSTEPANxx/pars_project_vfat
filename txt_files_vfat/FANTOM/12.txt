@@ -1,0 +1,149 @@
+*************** 👨‍🌾 UNOFFICIAL THEGREENHOUSE.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://thegreenhouse.finance
+******************************************************************************************
+
+Fri Jan 28 2022 00:33:42 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 15 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - SEED Price: $0.000721 Market Cap: $21,013.59 
+Staked: 14117009.4380 SEED ($10,181.55)
+SEED Per Week: 59881.19 ($43.19)
+APR: Day 0.06% Week 0.42% Year 22.06%
+You are staking 0.00 SEED ($0.00), 0.00% of the pool.
+Stake 0.00 SEED
+Unstake 0.00 SEED
+Claim 0.00 SEED ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [SEED]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $0.08 TVL: $13,528.76
+SEED Price: $0.000721
+WFTM Price: $2.01
+Staked: 139852.4316 spLP ($11,685.20)
+SEED Per Week: 383239.60 ($276.40)
+APR: Day 0.34% Week 2.37% Year 123.00%
+You are staking 0.00 [SEED]-[WFTM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SEED]-[WFTM] SPOOKY LP
+Unstake 0.00 [SEED]-[WFTM] SPOOKY LP
+Claim 0.00 SEED ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDC]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $4,341,223.16 TVL: $166,837,273.93
+USDC Price: $1.00
+WFTM Price: $2.01
+Staked: 0.0009 spLP ($3,910.78)
+SEED Per Week: 29940.59 ($21.59)
+APR: Day 0.08% Week 0.55% Year 28.71%
+You are staking 0.00 [USDC]-[WFTM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WFTM] SPOOKY LP - Fee 4%
+Unstake 0.00 [USDC]-[WFTM] SPOOKY LP
+Claim 0.00 SEED ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [WFTM]-[BTC] SPOOKY LP [+] [-] [<=>] Price: $11,202,424,428.12 TVL: $21,695,704.47
+WFTM Price: $2.01
+BTC Price: $35,807.00
+Staked: 0.0000 spLP ($1,060.54)
+SEED Per Week: 23952.48 ($17.28)
+APR: Day 0.23% Week 1.63% Year 84.70%
+You are staking 0.00 [WFTM]-[BTC] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BTC] SPOOKY LP - Fee 4%
+Unstake 0.00 [WFTM]-[BTC] SPOOKY LP
+Claim 0.00 SEED ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [WFTM]-[ETH] SPOOKY LP [+] [-] [<=>] Price: $155.76 TVL: $42,234,317.78
+WFTM Price: $2.01
+ETH Price: $2,337.92
+Staked: 3.2067 spLP ($499.47)
+SEED Per Week: 17964.36 ($12.96)
+APR: Day 0.37% Week 2.59% Year 134.89%
+You are staking 0.00 [WFTM]-[ETH] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ETH] SPOOKY LP - Fee 4%
+Unstake 0.00 [WFTM]-[ETH] SPOOKY LP
+Claim 0.00 SEED ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [WFTM]-[LINK] SPOOKY LP [+] [-] [<=>] Price: $11.73 TVL: $11,844,915.22
+WFTM Price: $2.01
+LINK Price: $14.61
+Staked: 30.5058 spLP ($357.82)
+SEED Per Week: 11976.24 ($8.64)
+APR: Day 0.34% Week 2.41% Year 125.52%
+You are staking 0.00 [WFTM]-[LINK] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[LINK] SPOOKY LP - Fee 4%
+Unstake 0.00 [WFTM]-[LINK] SPOOKY LP
+Claim 0.00 SEED ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [fUSDT]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $3,765,366.76 TVL: $36,987,563.00
+fUSDT Price: $1.00
+WFTM Price: $2.01
+Staked: 0.0001 spLP ($338.88)
+SEED Per Week: 11976.24 ($8.64)
+APR: Day 0.36% Week 2.55% Year 132.54%
+You are staking 0.00 [fUSDT]-[WFTM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [fUSDT]-[WFTM] SPOOKY LP - Fee 4%
+Unstake 0.00 [fUSDT]-[WFTM] SPOOKY LP
+Claim 0.00 SEED ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [WFTM]-[BNB] SPOOKY LP [+] [-] [<=>] Price: $60.16 TVL: $12,916,506.74
+WFTM Price: $2.01
+BNB Price: $363.13
+Staked: 8.3988 spLP ($505.26)
+SEED Per Week: 11976.24 ($8.64)
+APR: Day 0.24% Week 1.71% Year 88.90%
+You are staking 0.00 [WFTM]-[BNB] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BNB] SPOOKY LP - Fee 4%
+Unstake 0.00 [WFTM]-[BNB] SPOOKY LP
+Claim 0.00 SEED ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - USDC Price: $1.00 Market Cap: $1,732,279,439.10 
+Staked: 1016.2382 USDC ($1,016.24)
+SEED Per Week: 11976.24 ($8.64)
+APR: Day 0.12% Week 0.85% Year 44.20%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 SEED ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - WFTM Price: $2.01 Market Cap: $1,452,289,726.89 
+Staked: 1812.8384 WFTM ($3,643.81)
+SEED Per Week: 17964.36 ($12.96)
+APR: Day 0.05% Week 0.36% Year 18.49%
+You are staking 0.00 WFTM ($0.00), 0.00% of the pool.
+Stake 0.00 WFTM - Fee 4%
+Unstake 0.00 WFTM
+Claim 0.00 SEED ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - BTC Price: $35,807.00 Market Cap: $616,124,108.15 
+Staked: 0.0161 BTC ($578.05)
+SEED Per Week: 11976.24 ($8.64)
+APR: Day 0.21% Week 1.49% Year 77.70%
+You are staking 0.00 BTC ($0.00), 0.00% of the pool.
+Stake 0.00 BTC - Fee 4%
+Unstake 0.00 BTC
+Claim 0.00 SEED ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - ETH Price: $2,337.92 Market Cap: $1,115,422,230.52 
+Staked: 0.1324 ETH ($309.55)
+SEED Per Week: 11976.24 ($8.64)
+APR: Day 0.40% Week 2.79% Year 145.10%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 SEED ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $34,087.14

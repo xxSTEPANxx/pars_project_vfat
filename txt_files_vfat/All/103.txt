@@ -1,0 +1,25 @@
+*************** 👨‍🌾 UNOFFICIAL MOCHI.MARKET FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://mochi.market
+*********************************************************************************
+
+Farming rewards have a 6 month linear (per-block) vesting from the moment of harvesting.
+
+Thu Jan 27 2022 19:53:23 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+
+[MOMA]-[WETH] Uni LP [+] [-] [<=>] Price: $20.19 TVL: $170,611.37
+MOMA Price: $0.03
+WETH Price: $2,482.47
+Staked: 1732.4269 UNI-V2 ($34,979.61)
+MOMA Per Week: 93856.53 ($3,049.77)
+APR: Day 1.25% Week 8.72% Year 453.37%
+You are staking 0.00 [MOMA]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MOMA]-[WETH] Uni LP
+Unstake 0.00 [MOMA]-[WETH] Uni LP
+Claim 0.00 MOMA ($0.00)
+Staking or unstaking also claims rewards.

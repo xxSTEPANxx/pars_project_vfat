@@ -1,0 +1,463 @@
+*************** 👨‍🌾 UNOFFICIAL CRYSTL FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://cronos.crystl.finance
+***************************************************************************
+
+Wed Dec 22 2021 18:18:34 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 75 vaults.
+Finished reading smart contracts.
+0 - [WBTC]-[USDT] Uni LP [+] [-] [<=>] Price: $45,109,822,204,974.88 TVL: $2,637.32
+WBTC Price: $49,270.00
+USDT Price: $1.01
+Staked: 0.0000 UNI-V2 ($0.00)
+You are staking NaN [WBTC]-[USDT] Uni LP ($0.00), NaN% of the pool.
+
+1 - [USDT]-[DAI] Uni LP [+] [-] [<=>] Price: $2,043,790.34 TVL: $20,096.56
+USDT Price: $1.01
+DAI Price: $1.01
+Staked: 0.0006 UNI-V2 ($1,290.67)
+You are staking 0.00 [USDT]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+
+2 - [USDT]-[USDC] Uni LP [+] [-] [<=>] Price: $2,056,548,843,122.19 TVL: $2,025,588.56
+USDT Price: $1.01
+USDC Price: $1.01
+Staked: 0.0000 UNI-V2 ($923.89)
+You are staking 0.00 [USDT]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+
+3 - [USDC]-[CRX] Uni LP [+] [-] [<=>] Price: $18,823,022.43 TVL: $107,513.15
+USDC Price: $1.01
+CRX Price: $83.23
+Staked: 0.0000 UNI-V2 ($505.02)
+You are staking 0.00 [USDC]-[CRX] Uni LP ($0.00), 0.00% of the pool.
+
+4 - [USDT]-[WETH] Uni LP [+] [-] [<=>] Price: $129,230,290.76 TVL: $27,555.91
+USDT Price: $1.01
+WETH Price: $4,030.89
+Staked: 0.0000 UNI-V2 ($0.00)
+You are staking NaN [USDT]-[WETH] Uni LP ($0.00), NaN% of the pool.
+
+5 - [WCRO]-[USDC] Uni LP [+] [-] [<=>] Price: $1,606,408.91 TVL: $352,056.14
+WCRO Price: $0.54
+USDC Price: $1.01
+Staked: 0.0001 UNI-V2 ($215.31)
+You are staking 0.00 [WCRO]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+
+6 - [WCRO]-[DAI] Uni LP [+] [-] [<=>] Price: $1.50 TVL: $131,491.10
+WCRO Price: $0.54
+DAI Price: $1.01
+Staked: 264.4723 UNI-V2 ($396.69)
+You are staking 0.00 [WCRO]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+
+7 - [WCRO]-[USDT] Uni LP [+] [-] [<=>] Price: $1,551,622.40 TVL: $531,750.57
+WCRO Price: $0.54
+USDT Price: $1.01
+Staked: 0.0240 UNI-V2 ($37,313.49)
+You are staking 0.00 [WCRO]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+
+8 - [miMatic]-[USDC] Uni LP [+] [-] [<=>] Price: $2,050,756.23 TVL: $81,398.08
+miMatic Price: $1.01
+USDC Price: $1.01
+Staked: 0.0000 UNI-V2 ($0.00)
+You are staking NaN [miMatic]-[USDC] Uni LP ($0.00), NaN% of the pool.
+
+9 - [miMatic]-[WCRO] Uni LP [+] [-] [<=>] Price: $1.50 TVL: $10,523.78
+miMatic Price: $1.01
+WCRO Price: $0.54
+Staked: 2242.2757 UNI-V2 ($3,363.27)
+You are staking 0.00 [miMatic]-[WCRO] Uni LP ($0.00), 0.00% of the pool.
+
+10 - [USDT]-[MATIC] Uni LP [+] [-] [<=>] Price: $3,089,815.35 TVL: $10,441.73
+USDT Price: $1.01
+MATIC Price: $2.24
+Staked: 0.0000 UNI-V2 ($0.00)
+You are staking NaN [USDT]-[MATIC] Uni LP ($0.00), NaN% of the pool.
+
+11 - [WCRO]-[RELAY] Uni LP [+] [-] [<=>] Price: $2.48 TVL: $2,206.41
+WCRO Price: $0.54
+RELAY Price: $2.60
+Staked: 0.0000 UNI-V2 ($0.00)
+You are staking NaN [WCRO]-[RELAY] Uni LP ($0.00), NaN% of the pool.
+
+12 - [USDT]-[rAVAX] Uni LP [+] [-] [<=>] Price: $22,613,724.23 TVL: $19,216.00
+USDT Price: $1.01
+rAVAX Price: $121.45
+Staked: 0.0000 UNI-V2 ($0.00)
+You are staking NaN [USDT]-[rAVAX] Uni LP ($0.00), NaN% of the pool.
+
+13 - [WCRO]-[CRX] Uni LP [+] [-] [<=>] Price: $89,943.44 TVL: $2,134,394.76
+WCRO Price: $0.54
+CRX Price: $83.23
+Staked: 0.0107 UNI-V2 ($965.00)
+You are staking 0.00 [WCRO]-[CRX] Uni LP ($0.00), 0.00% of the pool.
+
+14 - [MIM]-[WCRO] Uni LP [+] [-] [<=>] Price: $1.53 TVL: $131,504.57
+MIM Price: $1.05
+WCRO Price: $0.54
+Staked: 0.0000 UNI-V2 ($0.00)
+You are staking NaN [MIM]-[WCRO] Uni LP ($0.00), NaN% of the pool.
+
+15 - [VVS]-[WCRO] VVS LP Token [+] [-] [<=>] Price: $0.01 TVL: $139,518,836.93
+VVS Price: $0.0000576100
+WCRO Price: $0.54
+Staked: 20168745.0579 VVS-LP ($233,793.45)
+You are staking 0.00 [VVS]-[WCRO] VVS LP Token ($0.00), 0.00% of the pool.
+
+16 - [WBTC]-[WCRO] VVS LP Token [+] [-] [<=>] Price: $34,011,842.52 TVL: $201,597,551.76
+WBTC Price: $49,270.00
+WCRO Price: $0.54
+Staked: 0.0227 VVS-LP ($772,860.97)
+You are staking 0.00 [WBTC]-[WCRO] VVS LP Token ($0.00), 0.00% of the pool.
+
+17 - [WCRO]-[WETH] VVS LP Token [+] [-] [<=>] Price: $93.88 TVL: $196,746,139.09
+WCRO Price: $0.54
+WETH Price: $4,030.89
+Staked: 8704.6283 VVS-LP ($817,232.62)
+You are staking 0.00 [WCRO]-[WETH] VVS LP Token ($0.00), 0.00% of the pool.
+
+18 - [VVS]-[USDC] VVS LP Token [+] [-] [<=>] Price: $498,933.13 TVL: $24,808,949.21
+VVS Price: $0.0000576100
+USDC Price: $1.01
+Staked: 0.3406 VVS-LP ($169,929.40)
+You are staking 0.00 [VVS]-[USDC] VVS LP Token ($0.00), 0.00% of the pool.
+
+19 - [WCRO]-[USDC] Crona LP Token [+] [-] [<=>] Price: $1,577,289.72 TVL: $1,801,466.56
+WCRO Price: $0.54
+USDC Price: $1.01
+Staked: 0.0001 Crona-LP ($116.19)
+You are staking 0.00 [WCRO]-[USDC] Crona LP Token ($0.00), 0.00% of the pool.
+
+20 - [WCRO]-[USDT] Crona LP Token [+] [-] [<=>] Price: $1,561,759.12 TVL: $811,057.71
+WCRO Price: $0.54
+USDT Price: $1.01
+Staked: 0.0006 Crona-LP ($935.61)
+You are staking 0.00 [WCRO]-[USDT] Crona LP Token ($0.00), 0.00% of the pool.
+
+21 - [WCRO]-[WETH] Crona LP Token [+] [-] [<=>] Price: $94.57 TVL: $339,620.30
+WCRO Price: $0.54
+WETH Price: $4,030.89
+Staked: 0.1934 Crona-LP ($18.29)
+You are staking 0.00 [WCRO]-[WETH] Crona LP Token ($0.00), 0.00% of the pool.
+
+22 - [WBTC]-[WCRO] Crona LP Token [+] [-] [<=>] Price: $33,131,705.91 TVL: $635,025.09
+WBTC Price: $49,270.00
+WCRO Price: $0.54
+Staked: 0.0000 Crona-LP ($628.15)
+You are staking 0.00 [WBTC]-[WCRO] Crona LP Token ($0.00), 0.00% of the pool.
+
+23 - [WCRO]-[DAI] Crona LP Token [+] [-] [<=>] Price: $1.51 TVL: $305,932.60
+WCRO Price: $0.54
+DAI Price: $1.01
+Staked: 0.0534 Crona-LP ($0.08)
+You are staking NaN [WCRO]-[DAI] Crona LP Token ($0.00), NaN% of the pool.
+
+24 - [USDT]-[BUSD] Crona LP Token [+] [-] [<=>] Price: $2,040,062.44 TVL: $10,124,869.02
+USDT Price: $1.01
+BUSD Price: $1.01
+Staked: 0.0050 Crona-LP ($10,289.78)
+You are staking 0.00 [USDT]-[BUSD] Crona LP Token ($0.00), 0.00% of the pool.
+
+25 - [USDT]-[MATIC] Crona LP Token [+] [-] [<=>] Price: $3,061,862.74 TVL: $29,706.41
+USDT Price: $1.01
+MATIC Price: $2.23
+Staked: 0.0000 Crona-LP ($0.00)
+You are staking NaN [USDT]-[MATIC] Crona LP Token ($0.00), NaN% of the pool.
+
+26 - [USDT]-[AVAX] Crona LP Token [+] [-] [<=>] Price: $22,916,452.31 TVL: $21,916.36
+USDT Price: $1.01
+AVAX Price: $124.77
+Staked: 0.0000 Crona-LP ($480.82)
+You are staking 0.00 [USDT]-[AVAX] Crona LP Token ($0.00), 0.00% of the pool.
+
+27 - [USDT]-[FTM] Crona LP Token [+] [-] [<=>] Price: $2,600,316.77 TVL: $887,509.42
+USDT Price: $1.01
+FTM Price: $1.63
+Staked: 0.0002 Crona-LP ($549.22)
+You are staking 0.00 [USDT]-[FTM] Crona LP Token ($0.00), 0.00% of the pool.
+
+28 - [WCRO]-[CRONA] Crona LP Token [+] [-] [<=>] Price: $1.09 TVL: $3,968,025.20
+WCRO Price: $0.54
+CRONA Price: $0.52
+Staked: 21493.7887 Crona-LP ($23,326.52)
+You are staking 0.00 [WCRO]-[CRONA] Crona LP Token ($0.00), 0.00% of the pool.
+
+29 - [WCRO]-[FREE] Uni LP [+] [-] [<=>] Price: $1.06 TVL: $130.68
+WCRO Price: $0.54
+FREE Price: $0.51
+Staked: 107.4103 UNI-V2 ($113.55)
+You are staking 0.00 [WCRO]-[FREE] Uni LP ($0.00), 0.00% of the pool.
+
+30 - [MIM]-[USDT] Uni LP [+] [-] [<=>] Price: $2,095,505.06 TVL: $454,285.02
+MIM Price: $1.05
+USDT Price: $1.01
+Staked: 0.0000 UNI-V2 ($0.00)
+You are staking NaN [MIM]-[USDT] Uni LP ($0.00), NaN% of the pool.
+
+31 - [BUSD]-[CRX] Uni LP [+] [-] [<=>] Price: $18.98 TVL: $80,375.91
+BUSD Price: $1.01
+CRX Price: $83.23
+Staked: 66.4161 UNI-V2 ($1,260.28)
+You are staking 0.00 [BUSD]-[CRX] Uni LP ($0.00), 0.00% of the pool.
+
+32 - [WCRO]-[FTM] Uni LP [+] [-] [<=>] Price: $1.91 TVL: $4,029.05
+WCRO Price: $0.54
+FTM Price: $1.63
+Staked: 0.0000 UNI-V2 ($0.00)
+You are staking NaN [WCRO]-[FTM] Uni LP ($0.00), NaN% of the pool.
+
+33 - [WCRO]-[BNB] Uni LP [+] [-] [<=>] Price: $35.65 TVL: $279,765.77
+WCRO Price: $0.54
+BNB Price: $561.68
+Staked: 0.0000 UNI-V2 ($0.00)
+You are staking NaN [WCRO]-[BNB] Uni LP ($0.00), NaN% of the pool.
+
+34 - [USDT]-[USDC] Crona LP Token [+] [-] [<=>] Price: $2,034,928,896,778.63 TVL: $19,372,654.52
+USDT Price: $1.01
+USDC Price: $1.01
+Staked: 0.0000 Crona-LP ($431,533.51)
+You are staking 0.00 [USDT]-[USDC] Crona LP Token ($0.00), 0.00% of the pool.
+
+35 - [USDT]-[CRX] Uni LP [+] [-] [<=>] Price: $18,816,188.03 TVL: $71,091.00
+USDT Price: $1.01
+CRX Price: $83.23
+Staked: 0.0000 UNI-V2 ($196.92)
+You are staking 0.00 [USDT]-[CRX] Uni LP ($0.00), 0.00% of the pool.
+
+36 - [WCRO]-[PHOTON] Uni LP [+] [-] [<=>] Price: $0.31 TVL: $586,264.22
+WCRO Price: $0.54
+PHOTON Price: $0.04
+Staked: 5531.8334 UNI-V2 ($1,737.42)
+You are staking 0.00 [WCRO]-[PHOTON] Uni LP ($0.00), 0.00% of the pool.
+
+37 - [WCRO]-[DxP] Uni LP [+] [-] [<=>] Price: $0.42 TVL: $926,513.01
+WCRO Price: $0.54
+DxP Price: $0.08
+Staked: 534.1076 UNI-V2 ($221.83)
+You are staking 0.00 [WCRO]-[DxP] Uni LP ($0.00), 0.00% of the pool.
+
+38 - [WCRO]-[USDC] Uni LP [+] [-] [<=>] Price: $1,543,477.22 TVL: $84,602.85
+WCRO Price: $0.54
+USDC Price: $1.01
+Staked: 0.0000 UNI-V2 ($16.40)
+You are staking 0.00 [WCRO]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+
+39 - [USDT]-[USDC] VVS LP Token [+] [-] [<=>] Price: $2,024,606,083,237.21 TVL: $433,536,294.61
+USDT Price: $1.01
+USDC Price: $1.01
+Staked: 0.0000 VVS-LP ($348,548.08)
+You are staking 0.00 [USDT]-[USDC] VVS LP Token ($0.00), 0.00% of the pool.
+
+40 - [WCRO]-[PolyDoge] Uni LP [+] [-] [<=>] Price: $0.00 TVL: $5,031.74
+WCRO Price: $0.54
+PolyDoge Price: $0.0000000251
+Staked: 1257297.9335 UNI-V2 ($297.72)
+You are staking 0.00 [WCRO]-[PolyDoge] Uni LP ($0.00), 0.00% of the pool.
+
+41 - [WCRO]-[CRYSTL] Uni LP [+] [-] [<=>] Price: $0.79 TVL: $25,448.96
+WCRO Price: $0.54
+CRYSTL Price: $0.27
+Staked: 1247.7591 UNI-V2 ($985.97)
+You are staking 0.00 [WCRO]-[CRYSTL] Uni LP ($0.00), 0.00% of the pool.
+
+42 - [WIND]-[WCRO] Crona LP Token [+] [-] [<=>] Price: $0.38 TVL: $59,116.59
+WIND Price: $0.06
+WCRO Price: $0.54
+Staked: 48409.2855 Crona-LP ($18,553.71)
+You are staking 0.00 [WIND]-[WCRO] Crona LP Token ($0.00), 0.00% of the pool.
+
+43 - [VVS]-[USDT] VVS LP Token [+] [-] [<=>] Price: $13,588,939.93 TVL: $16,177,852.44
+VVS Price: $0.0000576100
+USDT Price: $1.01
+Staked: 0.0013 VVS-LP ($17,807.18)
+You are staking 0.00 [VVS]-[USDT] VVS LP Token ($0.00), 0.00% of the pool.
+
+44 - [WCRO]-[CRYSTL] Crona LP Token [+] [-] [<=>] Price: $0.78 TVL: $57,239.76
+WCRO Price: $0.54
+CRYSTL Price: $0.27
+Staked: 22081.4028 Crona-LP ($17,143.78)
+You are staking 0.00 [WCRO]-[CRYSTL] Crona LP Token ($0.00), 0.00% of the pool.
+
+45 - [USDC]-[DAI] Crona LP Token [+] [-] [<=>] Price: $2,034,225.65 TVL: $2,183,956.86
+USDC Price: $1.01
+DAI Price: $1.01
+Staked: 0.1249 Crona-LP ($254,159.28)
+You are staking 0.00 [USDC]-[DAI] Crona LP Token ($0.00), 0.00% of the pool.
+
+46 - [USDT]-[CRONA] Crona LP Token [+] [-] [<=>] Price: $30,335,307.13 TVL: $487,702.92
+USDT Price: $1.01
+CRONA Price: $0.52
+Staked: 0.0007 Crona-LP ($20,319.83)
+You are staking 0.00 [USDT]-[CRONA] Crona LP Token ($0.00), 0.00% of the pool.
+
+47 - [CRONA]-[USDC] Crona LP Token [+] [-] [<=>] Price: $1,534,140.97 TVL: $933,560.30
+CRONA Price: $0.52
+USDC Price: $1.01
+Staked: 0.0012 Crona-LP ($1,902.93)
+You are staking 0.00 [CRONA]-[USDC] Crona LP Token ($0.00), 0.00% of the pool.
+
+48 - [WCRO]-[ELK] ELK LP [+] [-] [<=>] Price: $2.79 TVL: $867,951.17
+WCRO Price: $0.54
+ELK Price: $2.66
+Staked: 184.1142 ELP ($514.35)
+You are staking 0.00 [WCRO]-[ELK] ELK LP ($0.00), 0.00% of the pool.
+
+49 - [WCRO]-[SHIB] VVS LP Token [+] [-] [<=>] Price: $0.01 TVL: $5,617,183.78
+WCRO Price: $0.54
+SHIB Price: $0.0000340340
+Staked: 908152.0273 VVS-LP ($7,892.83)
+You are staking 0.00 [WCRO]-[SHIB] VVS LP Token ($0.00), 0.00% of the pool.
+
+50 - [WCRO]-[USDC] VVS LP Token [+] [-] [<=>] Price: $1,519,768.97 TVL: $67,235,251.55
+WCRO Price: $0.54
+USDC Price: $1.01
+Staked: 0.0481 VVS-LP ($73,153.19)
+You are staking 0.00 [WCRO]-[USDC] VVS LP Token ($0.00), 0.00% of the pool.
+
+51 - [WCRO]-[USDT] VVS LP Token [+] [-] [<=>] Price: $1,499,219.76 TVL: $15,292,725.46
+WCRO Price: $0.54
+USDT Price: $1.01
+Staked: 0.0106 VVS-LP ($15,830.82)
+You are staking 0.00 [WCRO]-[USDT] VVS LP Token ($0.00), 0.00% of the pool.
+
+52 - [USDT]-[USDC] Uni LP [+] [-] [<=>] Price: $2,020,643,860,668.75 TVL: $167,071.64
+USDT Price: $1.01
+USDC Price: $1.01
+Staked: 0.0000 UNI-V2 ($2.02)
+You are staking 0.00 [USDT]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+
+53 - [WCRO]-[DAI] VVS LP Token [+] [-] [<=>] Price: $1.48 TVL: $2,885,478.26
+WCRO Price: $0.54
+DAI Price: $1.01
+Staked: 11239.8569 VVS-LP ($16,677.93)
+You are staking 0.00 [WCRO]-[DAI] VVS LP Token ($0.00), 0.00% of the pool.
+
+54 - [CNO]-[USDC] Uni LP [+] [-] [<=>] Price: $1,007,478.66 TVL: $61,392.67
+CNO Price: $0.23
+USDC Price: $1.01
+Staked: 0.0013 CNO-LP ($1,323.95)
+You are staking 0.00 [CNO]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+
+55 - [CNO]-[WCRO] Uni LP [+] [-] [<=>] Price: $0.71 TVL: $252,580.04
+CNO Price: $0.23
+WCRO Price: $0.49
+Staked: 6134.2760 CNO-LP ($4,331.06)
+You are staking 0.00 [CNO]-[WCRO] Uni LP ($0.00), 0.00% of the pool.
+
+56 - [WCRO]-[CRYSTL] Uni LP [+] [-] [<=>] Price: $0.73 TVL: $47,077.28
+WCRO Price: $0.49
+CRYSTL Price: $0.27
+Staked: 58023.1339 CNO-LP ($42,644.44)
+You are staking 0.00 [WCRO]-[CRYSTL] Uni LP ($0.00), 0.00% of the pool.
+
+57 - [WCRO]-[USDC] Uni LP [+] [-] [<=>] Price: $1,543,477.22 TVL: $84,602.85
+WCRO Price: $0.54
+USDC Price: $1.01
+Staked: 0.0396 UNI-V2 ($61,066.97)
+You are staking 0.00 [WCRO]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+
+58 - [WCRO]-[DxP] Uni LP [+] [-] [<=>] Price: $0.42 TVL: $926,513.01
+WCRO Price: $0.54
+DxP Price: $0.08
+Staked: 26748.8894 UNI-V2 ($11,109.36)
+You are staking 0.00 [WCRO]-[DxP] Uni LP ($0.00), 0.00% of the pool.
+
+59 - [WCRO]-[PHOTON] Uni LP [+] [-] [<=>] Price: $0.31 TVL: $586,264.22
+WCRO Price: $0.54
+PHOTON Price: $0.04
+Staked: 26028.4551 UNI-V2 ($8,174.92)
+You are staking 0.00 [WCRO]-[PHOTON] Uni LP ($0.00), 0.00% of the pool.
+
+60 - [USDC]-[CRX] Uni LP [+] [-] [<=>] Price: $18,823,022.43 TVL: $107,513.15
+USDC Price: $1.01
+CRX Price: $83.23
+Staked: 0.0001 UNI-V2 ($1,207.75)
+You are staking 0.00 [USDC]-[CRX] Uni LP ($0.00), 0.00% of the pool.
+
+61 - [WCRO]-[USDT] Uni LP [+] [-] [<=>] Price: $1,551,622.40 TVL: $531,750.57
+WCRO Price: $0.54
+USDT Price: $1.01
+Staked: 0.0092 UNI-V2 ($14,200.09)
+You are staking 0.00 [WCRO]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+
+62 - [USDT]-[CRX] Uni LP [+] [-] [<=>] Price: $18,816,188.03 TVL: $71,091.00
+USDT Price: $1.01
+CRX Price: $83.23
+Staked: 0.0000 UNI-V2 ($888.39)
+You are staking 0.00 [USDT]-[CRX] Uni LP ($0.00), 0.00% of the pool.
+
+63 - [BUSD]-[CRX] Uni LP [+] [-] [<=>] Price: $18.98 TVL: $80,375.91
+BUSD Price: $1.01
+CRX Price: $83.23
+Staked: 76.7516 UNI-V2 ($1,456.40)
+You are staking 0.00 [BUSD]-[CRX] Uni LP ($0.00), 0.00% of the pool.
+
+64 - [WCRO]-[CRYSTL] Uni LP [+] [-] [<=>] Price: $0.79 TVL: $25,448.96
+WCRO Price: $0.54
+CRYSTL Price: $0.27
+Staked: 0.0000 UNI-V2 ($0.00)
+You are staking NaN [WCRO]-[CRYSTL] Uni LP ($0.00), NaN% of the pool.
+
+65 - [WCRO]-[CRX] Uni LP [+] [-] [<=>] Price: $89,943.44 TVL: $2,134,394.76
+WCRO Price: $0.54
+CRX Price: $83.23
+Staked: 0.1401 UNI-V2 ($12,598.20)
+You are staking 0.00 [WCRO]-[CRX] Uni LP ($0.00), 0.00% of the pool.
+
+66 - [MAI]-[USDC] Uni LP [+] [-] [<=>] Price: $2,022,779.16 TVL: $880,007.19
+MAI Price: $1.00
+USDC Price: $1.01
+Staked: 0.0041 UNI-V2 ($8,352.34)
+You are staking 0.00 [MAI]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+
+67 - [MIM]-[USDC] Uni LP [+] [-] [<=>] Price: $2,064,273.95 TVL: $658,970.89
+MIM Price: $1.05
+USDC Price: $1.01
+Staked: 0.0000 UNI-V2 ($0.24)
+You are staking NaN [MIM]-[USDC] Uni LP ($0.00), NaN% of the pool.
+
+68 - [WCRO]-[CRYSTL] Uni LP [+] [-] [<=>] Price: $0.79 TVL: $25,448.96
+WCRO Price: $0.54
+CRYSTL Price: $0.27
+Staked: 18012.2657 UNI-V2 ($14,233.15)
+You are staking 0.00 [WCRO]-[CRYSTL] Uni LP ($0.00), 0.00% of the pool.
+
+69 - [WCRO]-[SALEM] Crona LP Token [+] [-] [<=>] Price: $9.51 TVL: $43,835.35
+WCRO Price: $0.54
+SALEM Price: $39.50
+Staked: 1165.5100 Crona-LP ($11,085.23)
+You are staking 0.00 [WCRO]-[SALEM] Crona LP Token ($0.00), 0.00% of the pool.
+
+70 - [DOGE]-[WCRO] VVS LP Token [+] [-] [<=>] Price: $62,889.05 TVL: $2,904,872.18
+DOGE Price: $0.18
+WCRO Price: $0.54
+Staked: 0.0358 VVS-LP ($2,252.15)
+You are staking 0.00 [DOGE]-[WCRO] VVS LP Token ($0.00), 0.00% of the pool.
+
+71 - [WBTC]-[WETH] Crona LP Token [+] [-] [<=>] Price: $54,979,557,364.33 TVL: $12,117,707.44
+WBTC Price: $49,270.00
+WETH Price: $4,030.89
+Staked: 0.0000 Crona-LP ($9,237.92)
+You are staking 0.00 [WBTC]-[WETH] Crona LP Token ($0.00), 0.00% of the pool.
+
+72 - [USDC]-[WETH] Crona LP Token [+] [-] [<=>] Price: $495,849,332.47 TVL: $1,336,337.75
+USDC Price: $1.01
+WETH Price: $4,030.89
+Staked: 0.0000 Crona-LP ($0.00)
+You are staking NaN [USDC]-[WETH] Crona LP Token ($0.00), NaN% of the pool.
+
+73 - [WBTC]-[USDC] Crona LP Token [+] [-] [<=>] Price: $44,686,358,047,282.71 TVL: $1,098,795.63
+WBTC Price: $49,270.00
+USDC Price: $1.01
+Staked: 0.0000 Crona-LP ($0.00)
+You are staking NaN [WBTC]-[USDC] Crona LP Token ($0.00), NaN% of the pool.
+
+74 - [WCRO]-[ATOM] VVS LP Token [+] [-] [<=>] Price: $7,111,384.48 TVL: $17,720,279.39
+WCRO Price: $0.54
+ATOM Price: $23.24
+Staked: 0.0007 VVS-LP ($4,733.90)
+You are staking 0.00 [WCRO]-[ATOM] VVS LP Token ($0.00), 0.00% of the pool.
+
+Total Staked: $3,512,900.41

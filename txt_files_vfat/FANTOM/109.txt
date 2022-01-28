@@ -1,0 +1,281 @@
+*************** 👨‍🌾 UNOFFICIAL SMURF MUSHY FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://mushy.smurf.money
+********************************************************************************
+
+Fri Jan 28 2022 00:56:04 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 24 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [USDC]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $4,373,771.91 TVL: $168,364,501.32
+USDC Price: $1.00
+WFTM Price: $2.04
+Staked: 0.0000 spLP ($94.19)
+MUSHY Per Week: 230.25 ($0.64)
+APR: Day 0.10% Week 0.68% Year 35.49%
+You are staking 0.00 [USDC]-[WFTM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WFTM] SPOOKY LP - Fee 4%
+Unstake 0.00 [USDC]-[WFTM] SPOOKY LP
+Claim 0.00 MUSHY ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WFTM]-[ETH] SPOOKY LP [+] [-] [<=>] Price: $158.12 TVL: $42,873,561.57
+WFTM Price: $2.04
+ETH Price: $2,373.59
+Staked: 0.1758 spLP ($27.80)
+MUSHY Per Week: 184.20 ($0.51)
+APR: Day 0.26% Week 1.85% Year 96.20%
+You are staking 0.00 [WFTM]-[ETH] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ETH] SPOOKY LP - Fee 4%
+Unstake 0.00 [WFTM]-[ETH] SPOOKY LP
+Claim 0.00 MUSHY ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WFTM]-[BTC] SPOOKY LP [+] [-] [<=>] Price: $11,377,566,742.59 TVL: $22,035,095.53
+WFTM Price: $2.04
+BTC Price: $36,392.00
+Staked: 0.0000 spLP ($31.26)
+MUSHY Per Week: 184.20 ($0.51)
+APR: Day 0.24% Week 1.65% Year 85.55%
+You are staking 0.00 [WFTM]-[BTC] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BTC] SPOOKY LP - Fee 4%
+Unstake 0.00 [WFTM]-[BTC] SPOOKY LP
+Claim 0.00 MUSHY ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WFTM]-[BOO] SPOOKY LP [+] [-] [<=>] Price: $15.02 TVL: $63,645,047.13
+WFTM Price: $2.04
+BOO Price: $25.32
+Staked: 2.6503 spLP ($39.81)
+MUSHY Per Week: 161.18 ($0.45)
+APR: Day 0.16% Week 1.13% Year 58.78%
+You are staking 0.00 [WFTM]-[BOO] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BOO] SPOOKY LP - Fee 4%
+Unstake 0.00 [WFTM]-[BOO] SPOOKY LP
+Claim 0.00 MUSHY ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [WFTM]-[TOMB] SPOOKY LP [+] [-] [<=>] Price: $5.97 TVL: $308,740,966.43
+WFTM Price: $2.04
+TOMB Price: $2.02
+Staked: 7.2474 spLP ($43.27)
+MUSHY Per Week: 138.15 ($0.39)
+APR: Day 0.13% Week 0.89% Year 46.35%
+You are staking 0.00 [WFTM]-[TOMB] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[TOMB] SPOOKY LP - Fee 4%
+Unstake 0.00 [WFTM]-[TOMB] SPOOKY LP
+Claim 0.00 MUSHY ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WFTM]-[SUSHI] SPOOKY LP [+] [-] [<=>] Price: $6.13 TVL: $7,603,962.14
+WFTM Price: $2.04
+SUSHI Price: $3.97
+Staked: 4.3999 spLP ($26.98)
+MUSHY Per Week: 115.13 ($0.32)
+APR: Day 0.17% Week 1.19% Year 61.97%
+You are staking 0.00 [WFTM]-[SUSHI] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[SUSHI] SPOOKY LP - Fee 4%
+Unstake 0.00 [WFTM]-[SUSHI] SPOOKY LP
+Claim 0.00 MUSHY ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [CRV]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $5.26 TVL: $4,555,344.28
+CRV Price: $2.78
+WFTM Price: $2.04
+Staked: 5.2211 spLP ($27.45)
+MUSHY Per Week: 115.13 ($0.32)
+APR: Day 0.17% Week 1.17% Year 60.90%
+You are staking 0.00 [CRV]-[WFTM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CRV]-[WFTM] SPOOKY LP - Fee 4%
+Unstake 0.00 [CRV]-[WFTM] SPOOKY LP
+Claim 0.00 MUSHY ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [WFTM]-[DAI] SPOOKY LP [+] [-] [<=>] Price: $3.78 TVL: $44,115,178.57
+WFTM Price: $2.04
+DAI Price: $1.01
+Staked: 5.9008 spLP ($22.30)
+MUSHY Per Week: 115.13 ($0.32)
+APR: Day 0.21% Week 1.44% Year 74.96%
+You are staking 0.00 [WFTM]-[DAI] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[DAI] SPOOKY LP - Fee 4%
+Unstake 0.00 [WFTM]-[DAI] SPOOKY LP
+Claim 0.00 MUSHY ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [WFTM]-[GEIST] SPOOKY LP [+] [-] [<=>] Price: $1.44 TVL: $10,634,742.80
+WFTM Price: $2.04
+GEIST Price: $0.23
+Staked: 9.3408 spLP ($13.43)
+MUSHY Per Week: 115.13 ($0.32)
+APR: Day 0.34% Week 2.39% Year 124.47%
+You are staking 0.00 [WFTM]-[GEIST] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[GEIST] SPOOKY LP - Fee 4%
+Unstake 0.00 [WFTM]-[GEIST] SPOOKY LP
+Claim 0.00 MUSHY ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [USDC]-[fUSDT] SPOOKY LP [+] [-] [<=>] Price: $2,101,829,269,189.59 TVL: $2,004,744.33
+USDC Price: $1.00
+fUSDT Price: $1.01
+Staked: 0.0000 spLP ($89.71)
+MUSHY Per Week: 161.18 ($0.45)
+APR: Day 0.07% Week 0.50% Year 26.09%
+You are staking 0.00 [USDC]-[fUSDT] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[fUSDT] SPOOKY LP - Fee 4%
+Unstake 0.00 [USDC]-[fUSDT] SPOOKY LP
+Claim 0.00 MUSHY ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - WFTM Price: $2.04 Market Cap: $1,472,979,814.34 
+Staked: 86.5005 WFTM ($176.46)
+MUSHY Per Week: 230.25 ($0.64)
+APR: Day 0.05% Week 0.36% Year 18.95%
+You are staking 0.00 WFTM ($0.00), 0.00% of the pool.
+Stake 0.00 WFTM - Fee 4%
+Unstake 0.00 WFTM
+Claim 0.00 MUSHY ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - BOO Price: $25.32 Market Cap: $213,629,284.93 
+Staked: 1.6882 BOO ($42.75)
+MUSHY Per Week: 161.18 ($0.45)
+APR: Day 0.15% Week 1.05% Year 54.75%
+You are staking 0.00 BOO ($0.00), 0.00% of the pool.
+Stake 0.00 BOO - Fee 4%
+Unstake 0.00 BOO
+Claim 0.00 MUSHY ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - SPIRIT Price: $0.13 Market Cap: $68,498,218.75 
+Staked: 293.6342 SPIRIT ($38.91)
+MUSHY Per Week: 115.13 ($0.32)
+APR: Day 0.12% Week 0.83% Year 42.96%
+You are staking 0.00 SPIRIT ($0.00), 0.00% of the pool.
+Stake 0.00 SPIRIT - Fee 4%
+Unstake 0.00 SPIRIT
+Claim 0.00 MUSHY ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - DAI Price: $1.01 Market Cap: $711,512,155.93 
+Staked: 27.8063 DAI ($28.08)
+MUSHY Per Week: 184.20 ($0.51)
+APR: Day 0.26% Week 1.83% Year 95.23%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 MUSHY ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - fUSDT Price: $1.01 Market Cap: $353,946,320.35 
+Staked: 50.0000 fUSDT ($50.50)
+MUSHY Per Week: 184.20 ($0.51)
+APR: Day 0.15% Week 1.02% Year 52.96%
+You are staking 0.00 fUSDT ($0.00), 0.00% of the pool.
+Stake 0.00 fUSDT - Fee 4%
+Unstake 0.00 fUSDT
+Claim 0.00 MUSHY ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - ETH Price: $2,373.59 Market Cap: $1,132,389,092.70 
+Staked: 0.0091 ETH ($21.71)
+MUSHY Per Week: 184.20 ($0.51)
+APR: Day 0.34% Week 2.37% Year 123.21%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 MUSHY ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - BNB Price: $367.46 Market Cap: $13,929,484.21 
+Staked: 0.0724 BNB ($26.61)
+MUSHY Per Week: 138.15 ($0.39)
+APR: Day 0.21% Week 1.45% Year 75.38%
+You are staking 0.00 BNB ($0.00), 0.00% of the pool.
+Stake 0.00 BNB - Fee 4%
+Unstake 0.00 BNB
+Claim 0.00 MUSHY ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - TOMB Price: $2.02 Market Cap: $362,355,263.64 
+Staked: 8.0093 TOMB ($16.18)
+MUSHY Per Week: 115.13 ($0.32)
+APR: Day 0.28% Week 1.99% Year 103.32%
+You are staking 0.00 TOMB ($0.00), 0.00% of the pool.
+Stake 0.00 TOMB - Fee 4%
+Unstake 0.00 TOMB
+Claim 0.00 MUSHY ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - GEIST Price: $0.23 Market Cap: $50,260,343.96 
+Staked: 50.4807 GEIST ($11.38)
+MUSHY Per Week: 115.13 ($0.32)
+APR: Day 0.40% Week 2.82% Year 146.88%
+You are staking 0.00 GEIST ($0.00), 0.00% of the pool.
+Stake 0.00 GEIST - Fee 4%
+Unstake 0.00 GEIST
+Claim 0.00 MUSHY ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [WFTM]-[MUSHY] SPOOKY LP [+] [-] [<=>] Price: $0.17 TVL: $45.56
+WFTM Price: $2.04
+MUSHY Price: $0.002792
+Staked: 62.6019 spLP ($10.55)
+MUSHY Per Week: 2210.44 ($6.17)
+APR: Day 8.35% Week 58.48% Year 3040.89%
+You are staking 0.00 [WFTM]-[MUSHY] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[MUSHY] SPOOKY LP
+Unstake 0.00 [WFTM]-[MUSHY] SPOOKY LP
+Claim 0.00 MUSHY ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - [USDC]-[MUSHY] SPOOKY LP [+] [-] [<=>] Price: $126,840.51 TVL: $20.64
+USDC Price: $1.00
+MUSHY Price: $0.002792
+Staked: 0.0000 spLP ($5.82)
+MUSHY Per Week: 1611.78 ($4.50)
+APR: Day 11.04% Week 77.26% Year 4017.73%
+You are staking 0.00 [USDC]-[MUSHY] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[MUSHY] SPOOKY LP
+Unstake 0.00 [USDC]-[MUSHY] SPOOKY LP
+Claim 0.00 MUSHY ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - [WFTM]-[CLEVER] SPOOKY LP [+] [-] [<=>] Price: $0.45 TVL: $6,114.03
+WFTM Price: $2.04
+CLEVER Price: $0.02
+Staked: 36.8455 spLP ($16.47)
+MUSHY Per Week: 690.76 ($1.93)
+APR: Day 1.67% Week 11.71% Year 608.90%
+You are staking 0.00 [WFTM]-[CLEVER] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[CLEVER] SPOOKY LP
+Unstake 0.00 [WFTM]-[CLEVER] SPOOKY LP
+Claim 0.00 MUSHY ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - MUSHY Price: $0.002792 Market Cap: $326.47 
+Staked: 16529.9425 MUSHY ($46.15)
+MUSHY Per Week: 1151.27 ($3.21)
+APR: Day 0.99% Week 6.96% Year 362.17%
+You are staking 0.00 MUSHY ($0.00), 0.00% of the pool.
+Stake 0.00 MUSHY
+Unstake 0.00 MUSHY
+Claim 0.00 MUSHY ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - CLEVER Price: $0.02 Market Cap: $7,054.53 
+Staked: 627.9162 CLEVER ($14.94)
+MUSHY Per Week: 460.51 ($1.29)
+APR: Day 1.23% Week 8.61% Year 447.65%
+You are staking 0.00 CLEVER ($0.00), 0.00% of the pool.
+Stake 0.00 CLEVER
+Unstake 0.00 CLEVER
+Claim 0.00 MUSHY ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $922.73

@@ -1,0 +1,27 @@
+*************** 👨‍🌾 UNOFFICIAL TOKEMAK FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://www.tokemak.xyz
+****************************************************************************
+
+Thu Jan 27 2022 20:05:31 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+
+tWETH (Wrapped WETH) Price: $2,475.38 TVL: $307,047,087.95
+You are staking 0.0000 tWETH (Wrapped WETH) ($0.00), 0.00% of the pool.
+
+tUSDC (Wrapped USDC) Price: $1.00 TVL: $170,844,573.80
+You are staking 0.0000 tUSDC (Wrapped USDC) ($0.00), 0.00% of the pool.
+
+tSushiLP (Wrapped [TOKE]-[WETH] SLP) Price: $557.27 TVL: $97,712,182.10
+You are staking 0.0000 tSushiLP (Wrapped [TOKE]-[WETH] SLP) ($0.00), 0.00% of the pool.
+
+tUniLP (Wrapped [TOKE]-[WETH] Uni LP) Price: $567.42 TVL: $97,858,830.97
+You are staking 0.0000 tUniLP (Wrapped [TOKE]-[WETH] Uni LP) ($0.00), 0.00% of the pool.
+
+tToke (Wrapped TOKE) Price: $30.18 TVL: $146,269,115.02
+You are staking 0.0000 tToke (Wrapped TOKE) ($0.00), 0.00% of the pool.
+
+Total Value Locked: $819,731,789.83

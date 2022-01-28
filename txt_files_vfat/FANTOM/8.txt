@@ -1,0 +1,63 @@
+*************** 👨‍🌾 UNOFFICIAL THEGHOST.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://www.theghost.finance
+*************************************************************************************
+
+Fri Jan 28 2022 00:32:19 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 4 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [WFTM]-[GHOST] SPIRIT LP [+] [-] [<=>] Price: $0.14 TVL: $14,619.18
+WFTM Price: $2.02
+GHOST Price: $0.001364
+Staked: 36996.2632 SPIRIT-LP ($5,013.52)
+GHOST Per Week: 1512000.00 ($2,062.29)
+APR: Day 5.88% Week 41.13% Year 2139.00%
+You are staking 0.00 [WFTM]-[GHOST] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[GHOST] SPIRIT LP
+Unstake 0.00 [WFTM]-[GHOST] SPIRIT LP
+Claim 0.00 GHOST ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WFTM]-[GHOST] SLP [+] [-] [<=>] Price: $0.13 TVL: $11,520.88
+WFTM Price: $2.02
+GHOST Price: $0.001364
+Staked: 21199.5518 SLP ($2,819.10)
+GHOST Per Week: 1512000.00 ($2,062.29)
+APR: Day 10.45% Week 73.15% Year 3804.01%
+You are staking 0.00 [WFTM]-[GHOST] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[GHOST] SLP
+Unstake 0.00 [WFTM]-[GHOST] SLP
+Claim 0.00 GHOST ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WFTM]-[GHOST] SPOOKY LP [+] [-] [<=>] Price: $0.13 TVL: $11,968.61
+WFTM Price: $2.02
+GHOST Price: $0.001364
+Staked: 22526.7200 spLP ($3,009.23)
+GHOST Per Week: 1512000.00 ($2,062.29)
+APR: Day 9.79% Week 68.53% Year 3563.67%
+You are staking 0.00 [WFTM]-[GHOST] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[GHOST] SPOOKY LP
+Unstake 0.00 [WFTM]-[GHOST] SPOOKY LP
+Claim 0.00 GHOST ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WFTM]-[GHOST] Hades Swap LP Token [+] [-] [<=>] Price: $0.15 TVL: $5,436.82
+WFTM Price: $2.02
+GHOST Price: $0.001364
+Staked: 15560.1819 HLP ($2,279.37)
+GHOST Per Week: 1512000.00 ($2,062.29)
+APR: Day 12.93% Week 90.48% Year 4704.77%
+You are staking 0.00 [WFTM]-[GHOST] Hades Swap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[GHOST] Hades Swap LP Token
+Unstake 0.00 [WFTM]-[GHOST] Hades Swap LP Token
+Claim 0.00 GHOST ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $13,121.22

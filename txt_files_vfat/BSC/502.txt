@@ -1,0 +1,49 @@
+*************** 👨‍🌾 UNOFFICIAL PEARZAP FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://bsc.pearzap.com
+****************************************************************************************
+
+Thu Jan 27 2022 21:38:50 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 14 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+2 - PEAR Price: $0.00 Market Cap: $0.00 
+Staked: 3891100.3086 PEAR ($0.00)
+PEAR Per Week: 2.42 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 PEAR ($0.00), NaN% of the pool.
+Stake 0.00 PEAR
+Unstake 0.00 PEAR
+Claim 0.00 PEAR ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [WBNB]-[PEAR] Uni LP [+] [-] [<=>] Price: $0.79 TVL: $805.28
+WBNB Price: $368.50
+PEAR Price: $0.000391
+Staked: 548.2594 PEARZAP-LP ($433.62)
+PEAR Per Week: 9.68 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.05%
+You are staking 0.00 [WBNB]-[PEAR] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[PEAR] Uni LP
+Unstake 0.00 [WBNB]-[PEAR] Uni LP
+Claim 0.00 PEAR ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [PEAR]-[BUSD] Uni LP [+] [-] [<=>] Price: $0.04 TVL: $504.92
+PEAR Price: $0.000391
+BUSD Price: $1.00
+Staked: 7926.2169 PEARZAP-LP ($324.81)
+PEAR Per Week: 8.06 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.05%
+You are staking 0.00 [PEAR]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PEAR]-[BUSD] Uni LP
+Unstake 0.00 [PEAR]-[BUSD] Uni LP
+Claim 0.00 PEAR ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $758.43

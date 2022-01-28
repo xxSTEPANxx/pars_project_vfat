@@ -1,0 +1,243 @@
+*************** 👨‍🌾 UNOFFICIAL MUSHROOMS FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://mushrooms.finance/farms
+******************************************************************************
+
+Thu Jan 27 2022 19:17:00 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 22 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - MM Price: $1.51 Market Cap: $1,037,121.78 [%]
+Staked: 186584.8919 MM ($281,743.19)
+MM Per Week: 87.60 ($132.28)
+APR: Day 0.01% Week 0.05% Year 2.44%
+You are staking 0.00 MM ($0.00), 0.00% of the pool.
+Stake 0.00 MM
+Unstake 0.00 MM
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - m3Crv (Wrapped Curve.fi DAI/USDC/USDT) Price: $1.12 TVL: $6,500.35
+Staked: 5784.0202 m3Crv ($6,483.35)
+MM Per Week: 8.76 ($13.23)
+APR: Day 0.03% Week 0.20% Year 10.61%
+You are staking 0.00 m3Crv ($0.00), 0.00% of the pool.
+Stake 0.00 m3Crv
+Unstake 0.00 m3Crv
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [USDC]-[MM] Uni LP [+] [-] [<=>] Price: $3,078,901.44 TVL: $437,999.80
+USDC Price: $1.00
+MM Price: $1.51
+Staked: 0.0914 UNI-V2 ($281,493.21)
+MM Per Week: 385.46 ($582.04)
+APR: Day 0.03% Week 0.21% Year 10.75%
+You are staking 0.00 [USDC]-[MM] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[MM] Uni LP
+Unstake 0.00 [USDC]-[MM] Uni LP
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - mcrvRenWBTC (Wrapped Curve.fi renBTC/wBTC) Price: $38,362.19 TVL: $39,427.61
+Staked: 1.0278 mcrvRenWBTC ($39,427.61)
+MM Per Week: 8.76 ($13.23)
+APR: Day 0.00% Week 0.03% Year 1.74%
+You are staking 0.00 mcrvRenWBTC ($0.00), 0.00% of the pool.
+Stake 0.00 mcrvRenWBTC
+Unstake 0.00 mcrvRenWBTC
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - mDAI (Wrapped Dai Stablecoin) Price: $1.15 TVL: $9,248.88
+Staked: 7260.7636 mDAI ($8,315.92)
+MM Per Week: 17.52 ($26.46)
+APR: Day 0.05% Week 0.32% Year 16.54%
+You are staking 0.00 mDAI ($0.00), 0.00% of the pool.
+Stake 0.00 mDAI
+Unstake 0.00 mDAI
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - mUSDC (Wrapped USD Coin) Price: $1.15 TVL: $26,552.19
+Staked: 21706.3320 mUSDC ($24,946.69)
+MM Per Week: 17.52 ($26.46)
+APR: Day 0.02% Week 0.11% Year 5.51%
+You are staking 0.00 mUSDC ($0.00), 0.00% of the pool.
+Stake 0.00 mUSDC
+Unstake 0.00 mUSDC
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - mUNI-V2 (Wrapped [MIR]-[UST] Uni LP) Price: $5.12 TVL: $525,827.85
+Staked: 48151.0148 mUNI-V2 ($246,685.24)
+MM Per Week: 8.76 ($13.23)
+APR: Day 0.00% Week 0.01% Year 0.28%
+You are staking 0.00 mUNI-V2 ($0.00), 0.00% of the pool.
+Stake 0.00 mUNI-V2
+Unstake 0.00 mUNI-V2
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [MM]-[WETH] SLP [+] [-] [<=>] Price: $135.82 TVL: $207,368.17
+MM Price: $1.51
+WETH Price: $2,465.12
+Staked: 380.1236 SLP ($51,630.26)
+MM Per Week: 140.17 ($211.65)
+APR: Day 0.06% Week 0.41% Year 21.32%
+You are staking 0.00 [MM]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [MM]-[WETH] SLP
+Unstake 0.00 [MM]-[WETH] SLP
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [KP3R]-[MM] SLP [+] [-] [<=>] Price: $84.37 TVL: $73,515.60
+KP3R Price: $1,042.55
+MM Price: $1.51
+Staked: 91.7425 SLP ($7,740.08)
+MM Per Week: 8.76 ($13.23)
+APR: Day 0.02% Week 0.17% Year 8.89%
+You are staking 0.00 [KP3R]-[MM] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [KP3R]-[MM] SLP
+Unstake 0.00 [KP3R]-[MM] SLP
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - mWETH (Wrapped Wrapped Ether) Price: $2,550.40 TVL: $2,317,002.06
+Staked: 891.6021 mWETH ($2,273,942.62)
+MM Per Week: 96.36 ($145.51)
+APR: Day 0.00% Week 0.01% Year 0.33%
+You are staking 0.00 mWETH ($0.00), 0.00% of the pool.
+Stake 0.00 mWETH
+Unstake 0.00 mWETH
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - mUNI (Wrapped Uniswap) Price: $11.92 TVL: $29,372.89
+Staked: 2197.3184 mUNI ($26,188.19)
+MM Per Week: 17.52 ($26.46)
+APR: Day 0.01% Week 0.10% Year 5.25%
+You are staking 0.00 mUNI ($0.00), 0.00% of the pool.
+Stake 0.00 mUNI
+Unstake 0.00 mUNI
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - mWBTC (Wrapped Wrapped BTC) Price: $38,641.88 TVL: $65,210.40
+Staked: 0.9162 mWBTC ($35,403.19)
+MM Per Week: 96.36 ($145.51)
+APR: Day 0.06% Week 0.41% Year 21.37%
+You are staking 0.00 mWBTC ($0.00), 0.00% of the pool.
+Stake 0.00 mWBTC
+Unstake 0.00 mWBTC
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - mLINK (Wrapped ChainLink Token) Price: $15.78 TVL: $103,236.09
+Staked: 6496.9491 mLINK ($102,501.82)
+MM Per Week: 17.52 ($26.46)
+APR: Day 0.00% Week 0.03% Year 1.34%
+You are staking 0.00 mLINK ($0.00), 0.00% of the pool.
+Stake 0.00 mLINK
+Unstake 0.00 mLINK
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - mZRX (Wrapped 0x Protocol Token) Price: $0.60 TVL: $40,868.42
+Staked: 67693.0237 mZRX ($40,868.42)
+MM Per Week: 17.52 ($26.46)
+APR: Day 0.01% Week 0.06% Year 3.37%
+You are staking 0.00 mZRX ($0.00), 0.00% of the pool.
+Stake 0.00 mZRX
+Unstake 0.00 mZRX
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - mALCX (Wrapped Alchemix) Price: $304.02 TVL: $81,609.79
+Staked: 137.2595 mALCX ($41,729.29)
+MM Per Week: 8.76 ($13.23)
+APR: Day 0.00% Week 0.03% Year 1.65%
+You are staking 0.00 mALCX ($0.00), 0.00% of the pool.
+Stake 0.00 mALCX
+Unstake 0.00 mALCX
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - malUSD (Wrapped Alchemix USD) Price: $1.17 TVL: $30,188.94
+Staked: 24891.4080 malUSD ($29,011.13)
+MM Per Week: 8.76 ($13.23)
+APR: Day 0.01% Week 0.05% Year 2.37%
+You are staking 0.00 malUSD ($0.00), 0.00% of the pool.
+Stake 0.00 malUSD
+Unstake 0.00 malUSD
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - musdp3CRV (Wrapped Curve.fi USDP/3Crv) Price: $1.07 TVL: $2,304.63
+Staked: 2147.3069 musdp3CRV ($2,304.63)
+MM Per Week: 8.76 ($13.23)
+APR: Day 0.08% Week 0.57% Year 29.85%
+You are staking 0.00 musdp3CRV ($0.00), 0.00% of the pool.
+Stake 0.00 musdp3CRV
+Unstake 0.00 musdp3CRV
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - mrenBTC (Wrapped renBTC) Price: $37,684.95 TVL: $45,132.21
+Staked: 1.1381 mrenBTC ($42,890.26)
+MM Per Week: 17.52 ($26.46)
+APR: Day 0.01% Week 0.06% Year 3.21%
+You are staking 0.00 mrenBTC ($0.00), 0.00% of the pool.
+Stake 0.00 mrenBTC
+Unstake 0.00 mrenBTC
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [MM]-[WETH] Uni LP [+] [-] [<=>] Price: $9,779,821.88 TVL: $122,495.51
+MM Price: $1.51
+WETH Price: $2,465.12
+Staked: 0.0021 UNI-V2 ($20,962.46)
+MM Per Week: 8.76 ($13.23)
+APR: Day 0.01% Week 0.06% Year 3.28%
+You are staking 0.00 [MM]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MM]-[WETH] Uni LP
+Unstake 0.00 [MM]-[WETH] Uni LP
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - myveCRV-DAO (Wrapped veCRV-DAO yVault) Price: $2.76 TVL: $40,032.80
+Staked: 14491.1399 myveCRV-DAO ($40,032.80)
+MM Per Week: 8.76 ($13.23)
+APR: Day 0.00% Week 0.03% Year 1.72%
+You are staking 0.00 myveCRV-DAO ($0.00), 0.00% of the pool.
+Stake 0.00 myveCRV-DAO
+Unstake 0.00 myveCRV-DAO
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - mTUSD (Wrapped TrueUSD) Price: $1.10 TVL: $1,099.67
+Staked: 995.7107 mTUSD ($1,099.67)
+MM Per Week: 8.76 ($13.23)
+APR: Day 0.17% Week 1.20% Year 62.55%
+You are staking 0.00 mTUSD ($0.00), 0.00% of the pool.
+Stake 0.00 mTUSD
+Unstake 0.00 mTUSD
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - mCVX (Wrapped Convex Token) Price: $28.95 TVL: $24,131.24
+Staked: 833.4204 mCVX ($24,131.24)
+MM Per Week: 8.76 ($13.23)
+APR: Day 0.01% Week 0.05% Year 2.85%
+You are staking 0.00 mCVX ($0.00), 0.00% of the pool.
+Stake 0.00 mCVX
+Unstake 0.00 mCVX
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $3,629,531.27

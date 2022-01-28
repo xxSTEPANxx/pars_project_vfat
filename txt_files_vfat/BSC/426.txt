@@ -1,0 +1,599 @@
+*************** 👨‍🌾 UNOFFICIAL RABBITFINANCE.IO FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://rabbitfinance.io
+***********************************************************************************
+
+Thu Jan 27 2022 21:27:16 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 58 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - ibBNB Price: $368.40 Market Cap: $3,739,114.33 [%]
+Staked: 73.2164 ibBNB ($26,972.92)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 ibBNB ($0.00), 0.00% of the pool.
+Stake 0.00 ibBNB
+Unstake 0.00 ibBNB
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - ibBUSD Price: $1.00 Market Cap: $8,661,561.30 [%]
+Staked: 22364.6051 ibBUSD ($22,364.61)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 ibBUSD ($0.00), 0.00% of the pool.
+Stake 0.00 ibBUSD
+Unstake 0.00 ibBUSD
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - ibUSDT Price: $1.00 Market Cap: $8,537,788.27 [%]
+Staked: 125544.4041 ibUSDT ($125,544.40)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 ibUSDT ($0.00), 0.00% of the pool.
+Stake 0.00 ibUSDT
+Unstake 0.00 ibUSDT
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - ibBTCB Price: $36,136.00 Market Cap: $1,405,545.60 [%]
+Staked: 0.1540 ibBTCB ($5,565.01)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 ibBTCB ($0.00), 0.00% of the pool.
+Stake 0.00 ibBTCB
+Unstake 0.00 ibBTCB
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - ibETH Price: $2,290.22 Market Cap: $2,363,648.06 [%]
+Staked: 3.7728 ibETH ($8,640.60)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 ibETH ($0.00), 0.00% of the pool.
+Stake 0.00 ibETH
+Unstake 0.00 ibETH
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - debtPancakeBUSD-USDT Price: $1.00 Market Cap: $3,677,144.18 [%]
+Staked: 3677144.1794 debtPancakeBUSD-USDT ($3,677,144.18)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 debtPancakeBUSD-USDT ($0.00), 0.00% of the pool.
+Stake 0.00 debtPancakeBUSD-USDT
+Unstake 0.00 debtPancakeBUSD-USDT
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - debtPancakeBNB-BUSD Price: $0.00 Market Cap: $0.00 
+Staked: 119613.4764 debtPancakeBNB-BUSD ($0.00)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 debtPancakeBNB-BUSD ($0.00), NaN% of the pool.
+Stake 0.00 debtPancakeBNB-BUSD
+Unstake 0.00 debtPancakeBNB-BUSD
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - debtPancakeUSDT-BNB Price: $0.00 Market Cap: $0.00 
+Staked: 9019.8434 debtPancakeUSDT-BNB ($0.00)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 debtPancakeUSDT-BNB ($0.00), NaN% of the pool.
+Stake 0.00 debtPancakeUSDT-BNB
+Unstake 0.00 debtPancakeUSDT-BNB
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - debtPancakeETH-BNB Price: $0.00 Market Cap: $0.00 
+Staked: 131.1567 debtPancakeETH-BNB ($0.00)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 debtPancakeETH-BNB ($0.00), NaN% of the pool.
+Stake 0.00 debtPancakeETH-BNB
+Unstake 0.00 debtPancakeETH-BNB
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - debtPancakeBTCB-BUSD Price: $0.00 Market Cap: $0.00 
+Staked: 408.9359 debtPancakeBTCB-BUSD ($0.00)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 debtPancakeBTCB-BUSD ($0.00), NaN% of the pool.
+Stake 0.00 debtPancakeBTCB-BUSD
+Unstake 0.00 debtPancakeBTCB-BUSD
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - debtMdexBUSD-USDT Price: $1.00 Market Cap: $170,921.30 [%]
+Staked: 170921.3040 debtMdexBUSD-USDT ($170,921.30)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 debtMdexBUSD-USDT ($0.00), 0.00% of the pool.
+Stake 0.00 debtMdexBUSD-USDT
+Unstake 0.00 debtMdexBUSD-USDT
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - debtMdexBNB-BUSD Price: $0.00 Market Cap: $0.00 
+Staked: 5178.7248 debtMdexBNB-BUSD ($0.00)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 debtMdexBNB-BUSD ($0.00), NaN% of the pool.
+Stake 0.00 debtMdexBNB-BUSD
+Unstake 0.00 debtMdexBNB-BUSD
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - debtMdexUSDT-BNB Price: $0.00 Market Cap: $0.00 
+Staked: 2522.2174 debtMdexUSDT-BNB ($0.00)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 debtMdexUSDT-BNB ($0.00), NaN% of the pool.
+Stake 0.00 debtMdexUSDT-BNB
+Unstake 0.00 debtMdexUSDT-BNB
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - debtMdexBTCB-BUSD Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 debtMdexBTCB-BUSD ($0.00)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 debtMdexBTCB-BUSD ($0.00), NaN% of the pool.
+Stake 0.00 debtMdexBTCB-BUSD
+Unstake 0.00 debtMdexBTCB-BUSD
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - debtMdexETH-BNB Price: $0.00 Market Cap: $0.00 
+Staked: 470.0025 debtMdexETH-BNB ($0.00)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 debtMdexETH-BNB ($0.00), NaN% of the pool.
+Stake 0.00 debtMdexETH-BNB
+Unstake 0.00 debtMdexETH-BNB
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [RABBIT]-[BUSD] Uni LP [+] [-] [<=>] Price: $0.28 TVL: $394,670.52
+RABBIT Price: $0.02
+BUSD Price: $1.00
+Staked: 2003.5476 MDEX LP ($561.30)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [RABBIT]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [RABBIT]-[BUSD] Uni LP
+Unstake 0.00 [RABBIT]-[BUSD] Uni LP
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - ibRABBIT Price: $0.02 Market Cap: $321,187.43 [%]
+Staked: 1239340.5597 ibRABBIT ($22,404.19)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 ibRABBIT ($0.00), 0.00% of the pool.
+Stake 0.00 ibRABBIT
+Unstake 0.00 ibRABBIT
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - ibMDX Price: $0.23 Market Cap: $3,289.17 [%]
+Staked: 12927.0632 ibMDX ($2,945.96)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 ibMDX ($0.00), 0.00% of the pool.
+Stake 0.00 ibMDX
+Unstake 0.00 ibMDX
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - ibCAKE Price: $6.97 Market Cap: $2,194.09 [%]
+Staked: 123.8950 ibCAKE ($863.55)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 ibCAKE ($0.00), 0.00% of the pool.
+Stake 0.00 ibCAKE
+Unstake 0.00 ibCAKE
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - debtPancakeBTCB-BNB Price: $0.00 Market Cap: $0.00 
+Staked: 97.8097 debtPancakeBTCB-BNB ($0.00)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 debtPancakeBTCB-BNB ($0.00), NaN% of the pool.
+Stake 0.00 debtPancakeBTCB-BNB
+Unstake 0.00 debtPancakeBTCB-BNB
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - debtPancakeCAKE-BNB Price: $0.00 Market Cap: $0.00 
+Staked: 283.0695 debtPancakeCAKE-BNB ($0.00)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 debtPancakeCAKE-BNB ($0.00), NaN% of the pool.
+Stake 0.00 debtPancakeCAKE-BNB
+Unstake 0.00 debtPancakeCAKE-BNB
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - debtMdexBTCB-BNB Price: $0.00 Market Cap: $0.00 
+Staked: 3.7757 debtMdexBTCB-BNB ($0.00)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 debtMdexBTCB-BNB ($0.00), NaN% of the pool.
+Stake 0.00 debtMdexBTCB-BNB
+Unstake 0.00 debtMdexBTCB-BNB
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - debtMdexMDX-BNB Price: $0.00 Market Cap: $0.00 
+Staked: 181.9455 debtMdexMDX-BNB ($0.00)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 debtMdexMDX-BNB ($0.00), NaN% of the pool.
+Stake 0.00 debtMdexMDX-BNB
+Unstake 0.00 debtMdexMDX-BNB
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - debtMdexBTCB-USDT Price: $0.00 Market Cap: $0.00 
+Staked: 362.8707 debtMdexBTCB-USDT ($0.00)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 debtMdexBTCB-USDT ($0.00), NaN% of the pool.
+Stake 0.00 debtMdexBTCB-USDT
+Unstake 0.00 debtMdexBTCB-USDT
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - debtMdexETH-USDT Price: $0.00 Market Cap: $0.00 
+Staked: 3146.0017 debtMdexETH-USDT ($0.00)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 debtMdexETH-USDT ($0.00), NaN% of the pool.
+Stake 0.00 debtMdexETH-USDT
+Unstake 0.00 debtMdexETH-USDT
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - debtMdexETH-BTCB Price: $0.00 Market Cap: $0.00 
+Staked: 0.0672 debtMdexETH-BTCB ($0.00)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 debtMdexETH-BTCB ($0.00), NaN% of the pool.
+Stake 0.00 debtMdexETH-BTCB
+Unstake 0.00 debtMdexETH-BTCB
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - ibLINK Price: $14.98 Market Cap: $2,656.46 [%]
+Staked: 15.7772 ibLINK ($236.34)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 ibLINK ($0.00), 0.00% of the pool.
+Stake 0.00 ibLINK
+Unstake 0.00 ibLINK
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - ibXVS Price: $7.99 Market Cap: $1,935.01 [%]
+Staked: 98.5539 ibXVS ($787.45)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 ibXVS ($0.00), 0.00% of the pool.
+Stake 0.00 ibXVS
+Unstake 0.00 ibXVS
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - ibDOT Price: $17.91 Market Cap: $1,715.77 [%]
+Staked: 95.7831 ibDOT ($1,715.48)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 ibDOT ($0.00), 0.00% of the pool.
+Stake 0.00 ibDOT
+Unstake 0.00 ibDOT
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+29 - ibUNI Price: $10.61 Market Cap: $1,255.05 [%]
+Staked: 118.2890 ibUNI ($1,255.05)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 ibUNI ($0.00), 0.00% of the pool.
+Stake 0.00 ibUNI
+Unstake 0.00 ibUNI
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+30 - ibLTC Price: $106.79 Market Cap: $883.40 [%]
+Staked: 0.7839 ibLTC ($83.71)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 ibLTC ($0.00), 0.00% of the pool.
+Stake 0.00 ibLTC
+Unstake 0.00 ibLTC
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+31 - ibFIL Price: $18.93 Market Cap: $211.98 [%]
+Staked: 11.1980 ibFIL ($211.98)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 ibFIL ($0.00), 0.00% of the pool.
+Stake 0.00 ibFIL
+Unstake 0.00 ibFIL
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+32 - ibADA Price: $1.03 Market Cap: $6,422.57 [%]
+Staked: 6199.6248 ibADA ($6,385.61)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 ibADA ($0.00), 0.00% of the pool.
+Stake 0.00 ibADA
+Unstake 0.00 ibADA
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+33 - debtPancakeLINK-BNB Price: $0.00 Market Cap: $0.00 
+Staked: 21.6606 debtPancakeLINK-BNB ($0.00)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 debtPancakeLINK-BNB ($0.00), NaN% of the pool.
+Stake 0.00 debtPancakeLINK-BNB
+Unstake 0.00 debtPancakeLINK-BNB
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+34 - debtPancakeXVS-BNB Price: $0.00 Market Cap: $0.00 
+Staked: 28.9243 debtPancakeXVS-BNB ($0.00)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 debtPancakeXVS-BNB ($0.00), NaN% of the pool.
+Stake 0.00 debtPancakeXVS-BNB
+Unstake 0.00 debtPancakeXVS-BNB
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+35 - debtPancakeDOT-BNB Price: $0.00 Market Cap: $0.00 
+Staked: 50.4539 debtPancakeDOT-BNB ($0.00)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 debtPancakeDOT-BNB ($0.00), NaN% of the pool.
+Stake 0.00 debtPancakeDOT-BNB
+Unstake 0.00 debtPancakeDOT-BNB
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+36 - debtPancakeADA-BNB Price: $0.00 Market Cap: $0.00 
+Staked: 1211.1942 debtPancakeADA-BNB ($0.00)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 debtPancakeADA-BNB ($0.00), NaN% of the pool.
+Stake 0.00 debtPancakeADA-BNB
+Unstake 0.00 debtPancakeADA-BNB
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+37 - debtPancakeUNI-BNB Price: $0.00 Market Cap: $0.00 
+Staked: 21.4625 debtPancakeUNI-BNB ($0.00)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 debtPancakeUNI-BNB ($0.00), NaN% of the pool.
+Stake 0.00 debtPancakeUNI-BNB
+Unstake 0.00 debtPancakeUNI-BNB
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+38 - debtPancakeCAKE-BUSD Price: $0.00 Market Cap: $0.00 
+Staked: 4790.6265 debtPancakeCAKE-BUSD ($0.00)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 debtPancakeCAKE-BUSD ($0.00), NaN% of the pool.
+Stake 0.00 debtPancakeCAKE-BUSD
+Unstake 0.00 debtPancakeCAKE-BUSD
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+39 - debtMdexCAKE-BNB Price: $0.00 Market Cap: $0.00 
+Staked: 1369.2278 debtMdexCAKE-BNB ($0.00)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 debtMdexCAKE-BNB ($0.00), NaN% of the pool.
+Stake 0.00 debtMdexCAKE-BNB
+Unstake 0.00 debtMdexCAKE-BNB
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+40 - debtMdexLTC-USDT Price: $0.00 Market Cap: $0.00 
+Staked: 1068.4070 debtMdexLTC-USDT ($0.00)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 debtMdexLTC-USDT ($0.00), NaN% of the pool.
+Stake 0.00 debtMdexLTC-USDT
+Unstake 0.00 debtMdexLTC-USDT
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+41 - debtMdexMDX-BUSD Price: $0.00 Market Cap: $0.00 
+Staked: 27031.1980 debtMdexMDX-BUSD ($0.00)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 debtMdexMDX-BUSD ($0.00), NaN% of the pool.
+Stake 0.00 debtMdexMDX-BUSD
+Unstake 0.00 debtMdexMDX-BUSD
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+42 - debtMdexADA-USDT Price: $0.00 Market Cap: $0.00 
+Staked: 5772.2401 debtMdexADA-USDT ($0.00)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 debtMdexADA-USDT ($0.00), NaN% of the pool.
+Stake 0.00 debtMdexADA-USDT
+Unstake 0.00 debtMdexADA-USDT
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+43 - debtMdexFIL-USDT Price: $0.00 Market Cap: $0.00 
+Staked: 29206.2408 debtMdexFIL-USDT ($0.00)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 debtMdexFIL-USDT ($0.00), NaN% of the pool.
+Stake 0.00 debtMdexFIL-USDT
+Unstake 0.00 debtMdexFIL-USDT
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+44 - debtMdexDOT-USDT Price: $0.00 Market Cap: $0.00 
+Staked: 1410.9200 debtMdexDOT-USDT ($0.00)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 debtMdexDOT-USDT ($0.00), NaN% of the pool.
+Stake 0.00 debtMdexDOT-USDT
+Unstake 0.00 debtMdexDOT-USDT
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+45 - [CARROT]-[BUSD] Uni LP [+] [-] [<=>] Price: $0.09 TVL: $89,127.06
+CARROT Price: $0.98
+BUSD Price: $1.00
+Staked: 80916.3610 MDEX LP ($7,373.48)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [CARROT]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CARROT]-[BUSD] Uni LP
+Unstake 0.00 [CARROT]-[BUSD] Uni LP
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+46 - debtPancakeRabbit-BNB Price: $0.00 Market Cap: $0.00 
+Staked: 15543.4310 debtPancakeRabbit-BNB ($0.00)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 debtPancakeRabbit-BNB ($0.00), NaN% of the pool.
+Stake 0.00 debtPancakeRabbit-BNB
+Unstake 0.00 debtPancakeRabbit-BNB
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+47 - debtMdexRabbit-BUSD Price: $0.00 Market Cap: $0.00 
+Staked: 1059495.0782 debtMdexRabbit-BUSD ($0.00)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 debtMdexRabbit-BUSD ($0.00), NaN% of the pool.
+Stake 0.00 debtMdexRabbit-BUSD
+Unstake 0.00 debtMdexRabbit-BUSD
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+48 - debtPancakeUSDT-USDC Price: $1.00 Market Cap: $24,050.43 [%]
+Staked: 24050.4252 debtPancakeUSDT-USDC ($24,050.43)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 debtPancakeUSDT-USDC ($0.00), 0.00% of the pool.
+Stake 0.00 debtPancakeUSDT-USDC
+Unstake 0.00 debtPancakeUSDT-USDC
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+49 - debtPancakeBUSD-USDC Price: $1.00 Market Cap: $100,517.82 [%]
+Staked: 100517.8205 debtPancakeBUSD-USDC ($100,517.82)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 debtPancakeBUSD-USDC ($0.00), 0.00% of the pool.
+Stake 0.00 debtPancakeBUSD-USDC
+Unstake 0.00 debtPancakeBUSD-USDC
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+50 - debtPancakeDAI-BUSD Price: $1.00 Market Cap: $91,502.32 [%]
+Staked: 91502.3246 debtPancakeDAI-BUSD ($91,502.32)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 debtPancakeDAI-BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 debtPancakeDAI-BUSD
+Unstake 0.00 debtPancakeDAI-BUSD
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+51 - veRabbit Price: $0.02 Market Cap: $4,375,223.77 [%]
+Staked: 11711189.5889 veRabbit ($211,709.15)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 veRabbit ($0.00), 0.00% of the pool.
+Stake 0.00 veRabbit
+Unstake 0.00 veRabbit
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+52 - debtPancakeTUSD-BUSD Price: $1.00 Market Cap: $14,540.88 [%]
+Staked: 14540.8815 debtPancakeTUSD-BUSD ($14,540.88)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 debtPancakeTUSD-BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 debtPancakeTUSD-BUSD
+Unstake 0.00 debtPancakeTUSD-BUSD
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+53 - debtPancakeUST-BUSD Price: $1.00 Market Cap: $281,503.38 [%]
+Staked: 281503.3788 debtPancakeUST-BUSD ($281,503.38)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 debtPancakeUST-BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 debtPancakeUST-BUSD
+Unstake 0.00 debtPancakeUST-BUSD
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+54 - debtPancakeVAI-BUSD Price: $1.00 Market Cap: $268,641.44 [%]
+Staked: 268641.4400 debtPancakeVAI-BUSD ($268,641.44)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 debtPancakeVAI-BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 debtPancakeVAI-BUSD
+Unstake 0.00 debtPancakeVAI-BUSD
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+55 - debtLeverageBiswapBTCB-USDT Price: $0.00 Market Cap: $0.00 
+Staked: 46727.5465 debtLeverageBiswapBTCB-USDT ($0.00)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 debtLeverageBiswapBTCB-USDT ($0.00), NaN% of the pool.
+Stake 0.00 debtLeverageBiswapBTCB-USDT
+Unstake 0.00 debtLeverageBiswapBTCB-USDT
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+56 - debtLeverageBiswapETH-USDT Price: $0.00 Market Cap: $0.00 
+Staked: 23350.6619 debtLeverageBiswapETH-USDT ($0.00)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 debtLeverageBiswapETH-USDT ($0.00), NaN% of the pool.
+Stake 0.00 debtLeverageBiswapETH-USDT
+Unstake 0.00 debtLeverageBiswapETH-USDT
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+57 - debtLeverageBiswapBNB-USDT Price: $0.00 Market Cap: $0.00 
+Staked: 18184.0976 debtLeverageBiswapBNB-USDT ($0.00)
+RABBIT Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 debtLeverageBiswapBNB-USDT ($0.00), NaN% of the pool.
+Stake 0.00 debtLeverageBiswapBNB-USDT
+Unstake 0.00 debtLeverageBiswapBNB-USDT
+Claim 0.00 RABBIT ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $5,074,442.53

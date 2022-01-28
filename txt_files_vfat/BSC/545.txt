@@ -1,0 +1,265 @@
+*************** 👨‍🌾 UNOFFICIAL MARSECOSYSTEM FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://app.marsecosystem.com
+**********************************************************************************
+
+Thu Jan 27 2022 21:45:40 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+0 - Cake Price: $7.00 Market Cap: $4,304,795,745.56 [%]
+Staked: 2912420.8108 Cake ($20,386,945.68)
+XMS Per Week: 9118798.07 ($342,877.84)
+APR: Day 0.24% Week 1.68% Year 87.46%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake
+Unstake 0.00 Cake
+Claim 0.00 XMS ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $105.47 TVL: $200,806,417.11
+Cake Price: $7.00
+WBNB Price: $368.32
+Staked: 66641.2749 Cake-LP ($7,028,656.58)
+XMS Per Week: 1945343.59 ($73,147.27)
+APR: Day 0.15% Week 1.04% Year 54.12%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 XMS ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.46 TVL: $346,232,213.95
+WBNB Price: $368.32
+BUSD Price: $1.00
+Staked: 17235.7891 Cake-LP ($817,939.30)
+XMS Per Week: 54712.79 ($2,057.27)
+APR: Day 0.04% Week 0.25% Year 13.08%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 XMS ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDT]-[WBNB] Cake LP [+] [-] [<=>] Price: $48.73 TVL: $190,392,076.45
+USDT Price: $1.00
+WBNB Price: $368.32
+Staked: 5081.4997 Cake-LP ($247,605.23)
+XMS Per Week: 42554.39 ($1,600.10)
+APR: Day 0.09% Week 0.65% Year 33.60%
+You are staking 0.00 [USDT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WBNB] Cake LP
+Unstake 0.00 [USDT]-[WBNB] Cake LP
+Claim 0.00 XMS ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,034.79 TVL: $74,132,544.20
+ETH Price: $2,433.72
+WBNB Price: $368.32
+Staked: 630.6578 Cake-LP ($1,283,254.08)
+XMS Per Week: 45593.99 ($1,714.39)
+APR: Day 0.02% Week 0.13% Year 6.95%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 XMS ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $7,741.82 TVL: $68,463,713.91
+BTCB Price: $36,255.00
+WBNB Price: $368.32
+Staked: 128.1741 Cake-LP ($992,301.00)
+XMS Per Week: 54712.79 ($2,057.27)
+APR: Day 0.03% Week 0.21% Year 10.78%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 XMS ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [BTCB]-[BUSD] Cake LP [+] [-] [<=>] Price: $413.19 TVL: $50,478,681.06
+BTCB Price: $36,255.00
+BUSD Price: $1.00
+Staked: 292.3051 Cake-LP ($120,776.78)
+XMS Per Week: 6079.20 ($228.59)
+APR: Day 0.03% Week 0.19% Year 9.84%
+You are staking 0.00 [BTCB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[BUSD] Cake LP
+Unstake 0.00 [BTCB]-[BUSD] Cake LP
+Claim 0.00 XMS ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [Cake]-[BUSD] Cake LP [+] [-] [<=>] Price: $7.81 TVL: $11,506,446.74
+Cake Price: $7.00
+BUSD Price: $1.00
+Staked: 8635.3528 Cake-LP ($67,458.40)
+XMS Per Week: 12158.40 ($457.17)
+APR: Day 0.10% Week 0.68% Year 35.24%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 XMS ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [Cake]-[USDT] Cake LP [+] [-] [<=>] Price: $6.46 TVL: $7,780,074.23
+Cake Price: $7.00
+USDT Price: $1.00
+Staked: 14188.8812 Cake-LP ($91,674.63)
+XMS Per Week: 21277.20 ($800.05)
+APR: Day 0.12% Week 0.87% Year 45.38%
+You are staking 0.00 [Cake]-[USDT] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[USDT] Cake LP
+Unstake 0.00 [Cake]-[USDT] Cake LP
+Claim 0.00 XMS ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [ETH]-[BTCB] Cake LP [+] [-] [<=>] Price: $19,694.79 TVL: $62,269,328.32
+ETH Price: $2,433.72
+BTCB Price: $36,255.00
+Staked: 27.0874 Cake-LP ($533,481.59)
+XMS Per Week: 12158.40 ($457.17)
+APR: Day 0.01% Week 0.09% Year 4.46%
+You are staking 0.00 [ETH]-[BTCB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[BTCB] Cake LP
+Unstake 0.00 [ETH]-[BTCB] Cake LP
+Claim 0.00 XMS ($0.00)
+Staking or unstaking also claims rewards.
+
+Staking Contract
+0 - XMS Price: $0.04 Market Cap: $37,601,210.00 [%]
+Staked: 48331435.8157 XMS ($1,817,320.47)
+XMS Per Week: 1756816.70 ($66,058.43)
+APR: Day 0.52% Week 3.63% Year 189.02%
+You are staking 0.00 XMS ($0.00), 0.00% of the pool.
+Stake 0.00 XMS
+Unstake 0.00 XMS
+Claim 0.00 XMS ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [XMS]-[WBNB] Uni LP [+] [-] [<=>] Price: $8.48 TVL: $2,001,379.22
+XMS Price: $0.04
+WBNB Price: $368.32
+Staked: 116606.8528 MLP ($989,163.14)
+XMS Per Week: 1155297.94 ($43,440.60)
+APR: Day 0.63% Week 4.39% Year 228.37%
+You are staking 0.00 [XMS]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [XMS]-[WBNB] Uni LP
+Unstake 0.00 [XMS]-[WBNB] Uni LP
+Claim 0.00 XMS ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - USDm Price: $0.26 Market Cap: $7,389,326.28 [%]
+Staked: 10301064.4484 USDm ($2,635,809.64)
+XMS Per Week: 1107558.36 ($41,645.53)
+APR: Day 0.23% Week 1.58% Year 82.16%
+You are staking 0.00 USDm ($0.00), 0.00% of the pool.
+Stake 0.00 USDm
+Unstake 0.00 USDm
+Claim 0.00 XMS ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [XMS]-[USDm] Uni LP [+] [-] [<=>] Price: $0.20 TVL: $1,049,582.52
+XMS Price: $0.04
+USDm Price: $0.26
+Staked: 3694095.9322 MLP ($752,644.18)
+XMS Per Week: 1351030.24 ($50,800.37)
+APR: Day 0.96% Week 6.75% Year 350.98%
+You are staking 0.00 [XMS]-[USDm] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [XMS]-[USDm] Uni LP
+Unstake 0.00 [XMS]-[USDm] Uni LP
+Claim 0.00 XMS ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [TMT]-[USDm] Uni LP [+] [-] [<=>] Price: $0.75 TVL: $42,890.86
+TMT Price: $0.55
+USDm Price: $0.26
+Staked: 56764.8563 MLP ($42,684.12)
+XMS Per Week: 95479.17 ($3,590.13)
+APR: Day 1.20% Week 8.41% Year 437.37%
+You are staking 0.00 [TMT]-[USDm] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TMT]-[USDm] Uni LP
+Unstake 0.00 [TMT]-[USDm] Uni LP
+Claim 0.00 XMS ($0.00)
+Staking or unstaking also claims rewards.
+
+Staking Contract
+0 - XMS Price: $0.04 Market Cap: $37,601,210.00 [%]
+Staked: 25823574.8802 XMS ($970,997.66)
+BNB Per Week: 91.39 ($33,660.50)
+APR: Day 0.50% Week 3.47% Year 180.26%
+You are staking 0.00 XMS ($0.00), 0.00% of the pool.
+Stake 0.00 XMS
+Unstake 0.00 XMS
+Claim 0.00 BNB ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [XMS]-[WBNB] Uni LP [+] [-] [<=>] Price: $8.48 TVL: $2,001,379.22
+XMS Price: $0.04
+WBNB Price: $368.32
+Staked: 60906.1561 MLP ($516,660.24)
+BNB Per Week: 47.11 ($17,350.77)
+APR: Day 0.48% Week 3.36% Year 174.63%
+You are staking 0.00 [XMS]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [XMS]-[WBNB] Uni LP
+Unstake 0.00 [XMS]-[WBNB] Uni LP
+Claim 0.00 BNB ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - USDm Price: $0.26 Market Cap: $7,389,326.28 [%]
+Staked: 491087.3864 USDm ($125,658.17)
+BNB Per Week: 1.41 ($520.52)
+APR: Day 0.06% Week 0.41% Year 21.54%
+You are staking 0.00 USDm ($0.00), 0.00% of the pool.
+Stake 0.00 USDm
+Unstake 0.00 USDm
+Claim 0.00 BNB ($0.00)
+Staking or unstaking also claims rewards.
+
+Staking Contract
+0 - XMS Price: $0.04 Market Cap: $37,601,210.00 [%]
+Staked: 93372199.0656 XMS ($3,510,907.67)
+CAKE Per Week: 18269.49 ($127,886.42)
+APR: Day 0.52% Week 3.64% Year 189.41%
+You are staking 0.00 XMS ($0.00), 0.00% of the pool.
+Stake 0.00 XMS
+Unstake 0.00 XMS
+Claim 0.00 CAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [XMS]-[WBNB] Uni LP [+] [-] [<=>] Price: $8.48 TVL: $2,001,379.22
+XMS Price: $0.04
+WBNB Price: $368.32
+Staked: 49804.3178 MLP ($422,484.56)
+CAKE Per Week: 2258.77 ($15,811.41)
+APR: Day 0.53% Week 3.74% Year 194.61%
+You are staking 0.00 [XMS]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [XMS]-[WBNB] Uni LP
+Unstake 0.00 [XMS]-[WBNB] Uni LP
+Claim 0.00 CAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - USDm Price: $0.26 Market Cap: $7,389,326.28 [%]
+Staked: 4492362.7793 USDm ($1,149,494.13)
+CAKE Per Week: 930.08 ($6,510.58)
+APR: Day 0.08% Week 0.57% Year 29.45%
+You are staking 0.00 USDm ($0.00), 0.00% of the pool.
+Stake 0.00 USDm
+Unstake 0.00 USDm
+Claim 0.00 CAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [XMS]-[USDm] Uni LP [+] [-] [<=>] Price: $0.20 TVL: $1,049,582.52
+XMS Price: $0.04
+USDm Price: $0.26
+Staked: 1437634.3487 MLP ($292,907.15)
+CAKE Per Week: 1461.56 ($10,230.91)
+APR: Day 0.50% Week 3.49% Year 181.63%
+You are staking 0.00 [XMS]-[USDm] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [XMS]-[USDm] Uni LP
+Unstake 0.00 [XMS]-[USDm] Uni LP
+Claim 0.00 CAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $37,807,714.79

@@ -1,0 +1,337 @@
+*************** 👨‍🌾 UNOFFICIAL SELENIUMSWAP FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://seleniumswap.com
+*********************************************************************************
+
+Thu Jan 27 2022 21:20:49 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 29 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [SELEN]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.02 TVL: $257.21
+SELEN Price: $0.0000786159
+BUSD Price: $1.00
+Staked: 10853.6774 Cake-LP ($216.05)
+SELEN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [SELEN]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SELEN]-[BUSD] Cake LP
+Unstake 0.00 [SELEN]-[BUSD] Cake LP
+Claim 0.00 SELEN ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [SELEN]-[WBNB] Cake LP [+] [-] [<=>] Price: $0.38 TVL: $317.61
+SELEN Price: $0.0000786159
+WBNB Price: $367.93
+Staked: 553.4119 Cake-LP ($207.84)
+SELEN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [SELEN]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SELEN]-[WBNB] Cake LP
+Unstake 0.00 [SELEN]-[WBNB] Cake LP
+Claim 0.00 SELEN ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.40 TVL: $345,812,075.97
+WBNB Price: $367.93
+BUSD Price: $1.00
+Staked: 1.5983 Cake-LP ($75.76)
+SELEN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 SELEN ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [Cake]-[BUSD] Cake LP [+] [-] [<=>] Price: $7.80 TVL: $11,481,720.48
+Cake Price: $6.98
+BUSD Price: $1.00
+Staked: 0.8319 Cake-LP ($6.49)
+SELEN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 SELEN ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $105.26 TVL: $200,408,383.71
+Cake Price: $6.98
+WBNB Price: $367.93
+Staked: 0.9072 Cake-LP ($95.50)
+SELEN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 SELEN ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [DOGE]-[BUSD] Cake LP [+] [-] [<=>] Price: $140,773.55 TVL: $7,889.69
+DOGE Price: $0.14
+BUSD Price: $1.00
+Staked: 0.0008 Cake-LP ($107.29)
+SELEN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [DOGE]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOGE]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DOGE]-[BUSD] Cake LP
+Claim 0.00 SELEN ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [DOGE]-[WBNB] Cake LP [+] [-] [<=>] Price: $1,657,024.90 TVL: $5,596,206.07
+DOGE Price: $0.14
+WBNB Price: $367.93
+Staked: 0.0000 Cake-LP ($0.00)
+SELEN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [DOGE]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [DOGE]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOGE]-[WBNB] Cake LP
+Claim 0.00 SELEN ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [DOT]-[WBNB] Cake LP [+] [-] [<=>] Price: $172.48 TVL: $17,707,342.52
+DOT Price: $17.96
+WBNB Price: $367.93
+Staked: 0.0000 Cake-LP ($0.00)
+SELEN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 SELEN ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $297,059,214.36
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 60.7101 Cake-LP ($127.17)
+SELEN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 SELEN ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $131,424,885.95
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+SELEN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 SELEN ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [DAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $16,857,810.58
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 22.4976 Cake-LP ($46.93)
+SELEN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 SELEN ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $7,731.84 TVL: $68,375,301.88
+BTCB Price: $36,200.00
+WBNB Price: $367.93
+Staked: 0.0000 Cake-LP ($0.00)
+SELEN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 SELEN ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,028.03 TVL: $73,885,724.61
+ETH Price: $2,420.15
+WBNB Price: $367.93
+Staked: 0.0000 Cake-LP ($0.00)
+SELEN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 SELEN ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [WBNB]-[UNI] Cake LP [+] [-] [<=>] Price: $129.68 TVL: $6,848,960.75
+WBNB Price: $367.93
+UNI Price: $10.65
+Staked: 0.0000 Cake-LP ($0.00)
+SELEN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [WBNB]-[UNI] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBNB]-[UNI] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[UNI] Cake LP
+Claim 0.00 SELEN ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [ADA]-[WBNB] Cake LP [+] [-] [<=>] Price: $42.27 TVL: $12,069,887.41
+ADA Price: $1.03
+WBNB Price: $367.93
+Staked: 0.0000 Cake-LP ($0.00)
+SELEN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 SELEN ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [WBNB]-[BAKE] Cake LP [+] [-] [<=>] Price: $135.09 TVL: $56,982.66
+WBNB Price: $367.93
+BAKE Price: $0.61
+Staked: 0.0000 Cake-LP ($0.00)
+SELEN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [WBNB]-[BAKE] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBNB]-[BAKE] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BAKE] Cake LP
+Claim 0.00 SELEN ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - SELEN Price: $0.0000786159 Market Cap: $1,650.93 [%]
+Staked: 2145146.8053 SELEN ($168.64)
+SELEN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 SELEN ($0.00), 0.00% of the pool.
+Stake 0.00 SELEN
+Unstake 0.00 SELEN
+Claim 0.00 SELEN ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - BUSD Price: $1.00 Market Cap: $4,844,435,986.46 [%]
+Staked: 247.7962 BUSD ($247.46)
+SELEN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 SELEN ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - WBNB Price: $367.93 Market Cap: $1,919,950,563.31 [%]
+Staked: 0.0000 WBNB ($0.00)
+SELEN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 WBNB ($0.00), NaN% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 SELEN ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - Cake Price: $6.98 Market Cap: $4,292,449,242.92 [%]
+Staked: 69.8114 Cake ($487.28)
+SELEN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 SELEN ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - DOT Price: $17.96 Market Cap: $287,359,999.84 [%]
+Staked: 1.3012 DOT ($23.37)
+SELEN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 SELEN ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - USDT Price: $1.00 Market Cap: $3,879,997,922.18 [%]
+Staked: 9.6000 USDT ($9.60)
+SELEN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 SELEN ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - USDC Price: $1.00 Market Cap: $1,778,726,034.00 [%]
+Staked: 1380.7159 USDC ($1,380.50)
+SELEN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 SELEN ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - DAI Price: $1.00 Market Cap: $262,000,000.00 [%]
+Staked: 24.1309 DAI ($24.13)
+SELEN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 SELEN ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - BTCB Price: $36,200.00 Market Cap: $4,072,536,200.00 [%]
+Staked: 0.0004 BTCB ($14.06)
+SELEN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 SELEN ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - ADA Price: $1.03 Market Cap: $288,400,000.00 [%]
+Staked: 0.0000 ADA ($0.00)
+SELEN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 ADA ($0.00), NaN% of the pool.
+Stake 0.00 ADA - Fee 4%
+Unstake 0.00 ADA
+Claim 0.00 SELEN ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - UNI Price: $10.65 Market Cap: $44,730,000.00 [%]
+Staked: 19.2000 UNI ($204.48)
+SELEN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 UNI ($0.00), 0.00% of the pool.
+Stake 0.00 UNI - Fee 4%
+Unstake 0.00 UNI
+Claim 0.00 SELEN ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - BAKE Price: $0.61 Market Cap: $446,653,856.12 [%]
+Staked: 0.0000 BAKE ($0.00)
+SELEN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BAKE ($0.00), NaN% of the pool.
+Stake 0.00 BAKE - Fee 4%
+Unstake 0.00 BAKE
+Claim 0.00 SELEN ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - ETH Price: $2,420.15 Market Cap: $3,400,310,750.00 [%]
+Staked: 0.0664 ETH ($160.71)
+SELEN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 SELEN ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $3,603.26

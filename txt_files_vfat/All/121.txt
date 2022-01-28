@@ -1,0 +1,103 @@
+*************** 👨‍🌾 UNOFFICIAL PENDLE FARMING CALCULATOR 👨‍🌾 ****************
+INFO  : https://app.pendle.finance/
+***************************************************************************
+
+Thu Jan 27 2022 19:59:47 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+=========================== PENDLE MARKET POOLS ===========================
+*** Note ***
+- Liquidity Mining contracts can support multiple expiries.
+- As all PendleMarket LPs are 18 decimals, the LP price shown would be
+  equivalent to LP / 10^BASE_TOKEN_DECIMALS, or e.g. every
+  0.000001 LP for the YT-aUSDC-USDC pool as USDC is 6 decimals.
+- Accrued PENDLE rewards linearly vests over 5 epochs.
+[YT-PE-29DEC2022]-[PENDLE] PENDLE-LPT [<=>] LP Price: $4.00 TVL: $1,151,667.42
+YT-PE-29DEC2022 Price: $58.96
+PENDLE Price: $0.26
+PENDLE Price: $0.26
+PENDLE Per Epoch: 50,000.00 ($12,798.85)
+APR: Day 0.16% Week 1.13% Year 58.93%
+Total Staked: 283353.623325038992334157 PENDLE-LPT ($1,132,475.28)
+You are staking 0.000000000000000000 PENDLE-LPT $0.00 (0.00% of the pool).
+Accrued rewards: 0.000 PENDLE ($0.00) [Claimable: 0.000 PENDLE ($0.00)]
+Etherscan
+Stake 0.000000000000000000 PENDLE-LPT
+Withdraw 0.000000000000000000 PENDLE-LPT
+Claim 0.000 PENDLE ($0.00)
+Revoke (set approval to 0)
+
+
+[YT-ETHUSDC-29DEC2022]-[USDC] PENDLE-LPT [<=>] LP Price: $0.01 TVL: $1,468,893.99
+YT-ETHUSDC-29DEC2022 Price: $25,917,959.59
+USDC Price: $1.00
+PENDLE Price: $0.26
+PENDLE Per Epoch: 10,000.00 ($2,559.77)
+APR: Day 0.03% Week 0.20% Year 10.21%
+Total Staked: 0.000125195192815823 PENDLE-LPT ($1,306,768.32)
+You are staking 0.000000000000000000 PENDLE-LPT $0.00 (0.00% of the pool).
+Accrued rewards: 0.000 PENDLE ($0.00) [Claimable: 0.000 PENDLE ($0.00)]
+Etherscan
+Stake 0.000000000000000000 PENDLE-LPT
+Withdraw 0.000000000000000000 PENDLE-LPT
+Claim 0.000 PENDLE ($0.00)
+Revoke (set approval to 0)
+
+
+[YT-aUSDC-30DEC2021]-[USDC] PENDLE-LPT [<=>] LP Price: $0.20 TVL: $91,469.18
+YT-aUSDC-30DEC2021 Price: $0.00
+USDC Price: $1.00
+PENDLE Price: $0.26
+PENDLE Per Epoch: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+Total Staked: 0.000000452789434869 PENDLE-LPT ($91,083.24)
+You are staking 0.000000000000000000 PENDLE-LPT $0.00 (0.00% of the pool).
+Accrued rewards: 0.000 PENDLE ($0.00) [Claimable: 0.000 PENDLE ($0.00)]
+Etherscan
+Stake 0.000000000000000000 PENDLE-LPT
+Withdraw 0.000000000000000000 PENDLE-LPT
+Claim 0.000 PENDLE ($0.00)
+Revoke (set approval to 0)
+
+
+[YT-aUSDC-29DEC2022]-[USDC] PENDLE-LPT [<=>] LP Price: $0.50 TVL: $705,012.58
+YT-aUSDC-29DEC2022 Price: $0.06
+USDC Price: $1.00
+PENDLE Price: $0.26
+PENDLE Per Epoch: 10,000.00 ($2,559.77)
+APR: Day 0.06% Week 0.40% Year 20.91%
+Total Staked: 0.000001269785094649 PENDLE-LPT ($638,206.77)
+You are staking 0.000000000000000000 PENDLE-LPT $0.00 (0.00% of the pool).
+Accrued rewards: 0.000 PENDLE ($0.00) [Claimable: 0.000 PENDLE ($0.00)]
+Etherscan
+Stake 0.000000000000000000 PENDLE-LPT
+Withdraw 0.000000000000000000 PENDLE-LPT
+Claim 0.000 PENDLE ($0.00)
+Revoke (set approval to 0)
+
+
+{
+  "reason": "cannot estimate gas; transaction may fail or may require manual gas limit",
+  "code": "UNPREDICTABLE_GAS_LIMIT",
+  "error": {
+    "code": -32603,
+    "message": "execution reverted: SafeMath: subtraction overflow",
+    "data": {
+      "originalError": {
+        "code": 3,
+        "data": "0x08c379a00000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000000000000001e536166654d6174683a207375627472616374696f6e206f766572666c6f770000",
+        "message": "execution reverted: SafeMath: subtraction overflow"
+      }
+    }
+  },
+  "method": "call",
+  "transaction": {
+    "to": "0x9ec5F3a22Df861F98101C00f3dF488fF361A7EeE",
+    "data": "0x8f4d4bef000000000000000000000000944d1727d0b656f497e74044ff589871c330334f0000000000000000000000005b1c59eb6872f88a92469751a034b9b5ada9a73f0000000000000000000000000000000000000000000000000000000000000000",
+    "accessList": null
+  }
+}
+Oops something went wrong. Try refreshing the page.

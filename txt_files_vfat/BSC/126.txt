@@ -1,0 +1,469 @@
+*************** 👨‍🌾 UNOFFICIAL MARSHMALLOW FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://marshmallowdefi.com
+****************************************************************************************
+
+Thu Jan 27 2022 20:38:19 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 28 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [MASH]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.11 TVL: $5,485.39
+MASH Price: $0.002366
+BUSD Price: $1.00
+Staked: 34124.9353 Cake-LP ($3,684.79)
+MASH Per Week: 18666.67 ($44.17)
+APR: Day 0.17% Week 1.20% Year 62.34%
+You are staking 0.00 [MASH]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MASH]-[BUSD] Cake LP
+Unstake 0.00 [MASH]-[BUSD] Cake LP
+Claim 0.00 MASH ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [MASH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2.14 TVL: $3,378.14
+MASH Price: $0.002366
+WBNB Price: $370.34
+Staked: 1076.0892 Cake-LP ($2,302.64)
+MASH Per Week: 18666.67 ($44.17)
+APR: Day 0.27% Week 1.92% Year 99.76%
+You are staking 0.00 [MASH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MASH]-[WBNB] Cake LP
+Unstake 0.00 [MASH]-[WBNB] Cake LP
+Claim 0.00 MASH ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $66.01 TVL: $2,136,015.28
+WBNB Price: $370.34
+BUSD Price: $1.00
+Staked: 64.7633 Cake-LP ($4,274.93)
+MASH Per Week: 3733.33 ($8.83)
+APR: Day 0.03% Week 0.21% Year 10.75%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 5%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 MASH ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $8,218.80 TVL: $298,677.41
+BTCB Price: $36,237.00
+WBNB Price: $370.34
+Staked: 0.0794 Cake-LP ($652.84)
+MASH Per Week: 3733.33 ($8.83)
+APR: Day 0.19% Week 1.35% Year 70.37%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 5%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 MASH ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - MASH Price: $0.002366 Market Cap: $20,975.03 [%]
+Staked: 2557308.2646 MASH ($6,051.84)
+MASH Per Week: 11200.00 ($26.50)
+APR: Day 0.06% Week 0.44% Year 22.77%
+You are staking 0.00 MASH ($0.00), 0.00% of the pool.
+Stake 0.00 MASH
+Unstake 0.00 MASH
+Claim 0.00 MASH ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - Cake Price: $7.15 Market Cap: $4,396,904,971.87 [%]
+Staked: 144.6906 Cake ($1,034.54)
+MASH Per Week: 3733.33 ($8.83)
+APR: Day 0.12% Week 0.85% Year 44.41%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 5%
+Unstake 0.00 Cake
+Claim 0.00 MASH ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - BUNNY Price: $0.58 Market Cap: $8,587,519.61 [%]
+Staked: 185.0698 BUNNY ($106.86)
+MASH Per Week: 3733.33 ($8.83)
+APR: Day 1.18% Week 8.27% Year 429.91%
+You are staking 0.00 BUNNY ($0.00), 0.00% of the pool.
+Stake 0.00 BUNNY - Fee 5%
+Unstake 0.00 BUNNY
+Claim 0.00 MASH ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - BUNNY Price: $0.58 Market Cap: $8,587,519.61 [%]
+Staked: 185.0698 BUNNY ($106.86)
+MASH Per Week: 3733.33 ($8.83)
+APR: Day 1.18% Week 8.27% Year 429.91%
+You are staking 0.00 BUNNY ($0.00), 0.00% of the pool.
+Stake 0.00 BUNNY - Fee 5%
+Unstake 0.00 BUNNY
+Claim 0.00 MASH ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - XVS Price: $8.03 Market Cap: $240,900,000.00 [%]
+Staked: 779.9919 XVS ($6,263.34)
+MASH Per Week: 3733.33 ($8.83)
+APR: Day 0.02% Week 0.14% Year 7.33%
+You are staking 0.00 XVS ($0.00), 0.00% of the pool.
+Stake 0.00 XVS - Fee 5%
+Unstake 0.00 XVS
+Claim 0.00 MASH ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - VAULT Price: $0.00 Market Cap: $0.00 
+Staked: 32958127937.1773 VAULT ($0.00)
+MASH Per Week: 7466.67 ($17.67)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 VAULT ($0.00), NaN% of the pool.
+Stake 0.00 VAULT - Fee 5%
+Unstake 0.00 VAULT
+Claim 0.00 MASH ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - WBNB Price: $370.34 Market Cap: $1,933,664,468.68 [%]
+Staked: 2.4147 WBNB ($894.26)
+MASH Per Week: 3733.33 ($8.83)
+APR: Day 0.14% Week 0.99% Year 51.37%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 5%
+Unstake 0.00 WBNB
+Claim 0.00 MASH ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - BUSD Price: $1.00 Market Cap: $4,847,079,781.12 [%]
+Staked: 2842.9068 BUSD ($2,840.61)
+MASH Per Week: 1866.67 ($4.42)
+APR: Day 0.02% Week 0.16% Year 8.09%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 5%
+Unstake 0.00 BUSD
+Claim 0.00 MASH ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - BTCB Price: $36,237.00 Market Cap: $4,076,698,737.00 [%]
+Staked: 0.0069 BTCB ($249.98)
+MASH Per Week: 3733.33 ($8.83)
+APR: Day 0.50% Week 3.53% Year 183.78%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 5%
+Unstake 0.00 BTCB
+Claim 0.00 MASH ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [BTCB]-[MASH] Cake LP [+] [-] [<=>] Price: $19.25 TVL: $3,640.08
+BTCB Price: $36,237.00
+MASH Price: $0.002366
+Staked: 114.5095 Cake-LP ($2,204.31)
+MASH Per Week: 3733.33 ($8.83)
+APR: Day 0.06% Week 0.40% Year 20.84%
+You are staking 0.00 [BTCB]-[MASH] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[MASH] Cake LP
+Unstake 0.00 [BTCB]-[MASH] Cake LP
+Claim 0.00 MASH ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [MASH]-[VAULT] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $129.19
+MASH Price: $0.002366
+VAULT Price: $0.0000351921
+Staked: 208121.6269 Cake-LP ($122.85)
+MASH Per Week: 3733.33 ($8.83)
+APR: Day 1.03% Week 7.19% Year 373.95%
+You are staking 0.00 [MASH]-[VAULT] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MASH]-[VAULT] Cake LP
+Unstake 0.00 [MASH]-[VAULT] Cake LP
+Claim 0.00 MASH ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [Cake]-[MASH] Cake LP [+] [-] [<=>] Price: $0.27 TVL: $1,564.95
+Cake Price: $7.15
+MASH Price: $0.002366
+Staked: 3322.1293 Cake-LP ($901.99)
+MASH Per Week: 3733.33 ($8.83)
+APR: Day 0.14% Week 0.98% Year 50.93%
+You are staking 0.00 [Cake]-[MASH] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[MASH] Cake LP
+Unstake 0.00 [Cake]-[MASH] Cake LP
+Claim 0.00 MASH ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - ENV Price: $0.00 Market Cap: $0.00 
+Staked: 2942.5483 ENV ($0.00)
+MASH Per Week: 1866.67 ($4.42)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 ENV ($0.00), NaN% of the pool.
+Stake 0.00 ENV - Fee 5%
+Unstake 0.00 ENV
+Claim 0.00 MASH ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.28 TVL: $253,386.79
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 228.9801 Cake-LP ($521.94)
+MASH Per Week: 1866.67 ($4.42)
+APR: Day 0.12% Week 0.85% Year 44.01%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 5%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 MASH ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.17 TVL: $3,557,967.07
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 311.7992 Cake-LP ($677.14)
+MASH Per Week: 1866.67 ($4.42)
+APR: Day 0.09% Week 0.65% Year 33.92%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 5%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 MASH ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [DOGE]-[BUSD] Cake LP [+] [-] [<=>] Price: $102,889.78 TVL: $16,478.60
+DOGE Price: $0.14
+BUSD Price: $1.00
+Staked: 0.0056 Cake-LP ($571.16)
+MASH Per Week: 3733.33 ($8.83)
+APR: Day 0.22% Week 1.55% Year 80.44%
+You are staking 0.00 [DOGE]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOGE]-[BUSD] Cake LP - Fee 5%
+Unstake 0.00 [DOGE]-[BUSD] Cake LP
+Claim 0.00 MASH ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - [MASH]-[PLUM] Cake LP [+] [-] [<=>] Price: $0.01 TVL: $675.64
+MASH Price: $0.002366
+PLUM Price: $0.009970
+Staked: 65499.1575 Cake-LP ($646.51)
+MASH Per Week: 18666.67 ($44.17)
+APR: Day 0.98% Week 6.83% Year 355.30%
+You are staking 0.00 [MASH]-[PLUM] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MASH]-[PLUM] Cake LP
+Unstake 0.00 [MASH]-[PLUM] Cake LP
+Claim 0.00 MASH ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - [SLIME]-[MASH] Uni LP [+] [-] [<=>] Price: $0.01 TVL: $416.26
+SLIME Price: $0.009101
+MASH Price: $0.002366
+Staked: 37027.8421 Slime-LP ($383.93)
+MASH Per Week: 18666.67 ($44.17)
+APR: Day 1.64% Week 11.51% Year 598.30%
+You are staking 0.00 [SLIME]-[MASH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SLIME]-[MASH] Uni LP
+Unstake 0.00 [SLIME]-[MASH] Uni LP
+Claim 0.00 MASH ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [TAKO]-[MASH] APE LP [+] [-] [<=>] Price: $0.01 TVL: $255.23
+TAKO Price: $0.004398
+MASH Price: $0.002366
+Staked: 37636.1889 APE-LP ($248.08)
+MASH Per Week: 18666.67 ($44.17)
+APR: Day 2.54% Week 17.81% Year 925.94%
+You are staking 0.00 [TAKO]-[MASH] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TAKO]-[MASH] APE LP
+Unstake 0.00 [TAKO]-[MASH] APE LP
+Claim 0.00 MASH ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - [ETH]-[BUSD] Cake LP [+] [-] [<=>] Price: $116.05 TVL: $11,833.94
+ETH Price: $2,435.72
+BUSD Price: $1.00
+Staked: 49.1983 Cake-LP ($5,709.45)
+MASH Per Week: 18666.67 ($44.17)
+APR: Day 0.11% Week 0.77% Year 40.23%
+You are staking 0.00 [ETH]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[BUSD] Cake LP - Fee 5%
+Unstake 0.00 [ETH]-[BUSD] Cake LP
+Claim 0.00 MASH ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - [DOT]-[WBNB] Cake LP [+] [-] [<=>] Price: $179.89 TVL: $322,339.43
+DOT Price: $17.99
+WBNB Price: $370.34
+Staked: 21.0218 Cake-LP ($3,781.57)
+MASH Per Week: 18666.67 ($44.17)
+APR: Day 0.17% Week 1.17% Year 60.74%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 5%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 MASH ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $44,232.42
+
+Staking Contract
+Found 20 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [TOFY]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $5.02
+TOFY Price: $0.0000000050
+BUSD Price: $1.00
+Staked: 24662.7110 Cake-LP ($4.25)
+TOFY Per Week: 40320.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.24%
+You are staking 0.00 [TOFY]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TOFY]-[BUSD] Cake LP
+Unstake 0.00 [TOFY]-[BUSD] Cake LP
+Claim 0.00 TOFY ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WBNB]-[TOFY] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $20.11
+WBNB Price: $370.34
+TOFY Price: $0.0000000050
+Staked: 2249.3637 Cake-LP ($8.33)
+TOFY Per Week: 40320.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.12%
+You are staking 0.00 [WBNB]-[TOFY] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[TOFY] Cake LP
+Unstake 0.00 [WBNB]-[TOFY] Cake LP
+Claim 0.00 TOFY ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - TOFY Price: $0.0000000050 Market Cap: $863.55 [%]
+Staked: 0.0000 TOFY ($0.00)
+TOFY Per Week: 40320.00 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 TOFY ($0.00), NaN% of the pool.
+Stake 0.00 TOFY
+Unstake 0.00 TOFY
+Claim 0.00 TOFY ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [MASH]-[SAFEMOON] Cake LP [+] [-] [<=>] Price: $4.21 TVL: $87.45
+MASH Price: $0.002366
+SAFEMOON Price: $0.0000004389
+Staked: 6.1597 Cake-LP ($25.90)
+TOFY Per Week: 26880.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.03%
+You are staking 0.00 [MASH]-[SAFEMOON] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MASH]-[SAFEMOON] Cake LP - Fee 1.5%
+Unstake 0.00 [MASH]-[SAFEMOON] Cake LP
+Claim 0.00 TOFY ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [SAFEMARS]-[MASH] Cake LP [+] [-] [<=>] Price: $0.71 TVL: $96.77
+SAFEMARS Price: $0.0000000339
+MASH Price: $0.002366
+Staked: 30.7017 Cake-LP ($21.87)
+TOFY Per Week: 26880.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.03%
+You are staking 0.00 [SAFEMARS]-[MASH] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SAFEMARS]-[MASH] Cake LP - Fee 1.5%
+Unstake 0.00 [SAFEMARS]-[MASH] Cake LP
+Claim 0.00 TOFY ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [ElonGate]-[MASH] Cake LP [+] [-] [<=>] Price: $1.01 TVL: $59.48
+ElonGate Price: $0.0000000298
+MASH Price: $0.002366
+Staked: 40.3696 Cake-LP ($40.87)
+TOFY Per Week: 26880.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.02%
+You are staking 0.00 [ElonGate]-[MASH] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ElonGate]-[MASH] Cake LP - Fee 1.5%
+Unstake 0.00 [ElonGate]-[MASH] Cake LP
+Claim 0.00 TOFY ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [SAFEGALAXY]-[MASH] Cake LP [+] [-] [<=>] Price: $0.19 TVL: $14.30
+SAFEGALAXY Price: $0.0000000017
+MASH Price: $0.002366
+Staked: 36.6203 Cake-LP ($6.95)
+TOFY Per Week: 26880.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.10%
+You are staking 0.00 [SAFEGALAXY]-[MASH] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SAFEGALAXY]-[MASH] Cake LP - Fee 1.5%
+Unstake 0.00 [SAFEGALAXY]-[MASH] Cake LP
+Claim 0.00 TOFY ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [SAFESTAR]-[MASH] Cake LP [+] [-] [<=>] Price: $0.32 TVL: $101.73
+SAFESTAR Price: $0.0000000037
+MASH Price: $0.002366
+Staked: 165.0718 Cake-LP ($52.81)
+TOFY Per Week: 26880.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.01%
+You are staking 0.00 [SAFESTAR]-[MASH] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SAFESTAR]-[MASH] Cake LP - Fee 1.5%
+Unstake 0.00 [SAFESTAR]-[MASH] Cake LP
+Claim 0.00 TOFY ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - SAFEMOON Price: $0.0000004389 Market Cap: $438,922,039.50 [%]
+Staked: 909938.7050 SAFEMOON ($0.40)
+TOFY Per Week: 13440.00 ($0.00)
+APR: Day 0.00% Week 0.02% Year 0.87%
+You are staking 0.00 SAFEMOON ($0.00), 0.00% of the pool.
+Stake 0.00 SAFEMOON - Fee 3%
+Unstake 0.00 SAFEMOON
+Claim 0.00 TOFY ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - SAFEMARS Price: $0.0000000339 Market Cap: $33,853,090.81 [%]
+Staked: 911280.0956 SAFEMARS ($0.03)
+TOFY Per Week: 13440.00 ($0.00)
+APR: Day 0.03% Week 0.22% Year 11.22%
+You are staking 0.00 SAFEMARS ($0.00), 0.00% of the pool.
+Stake 0.00 SAFEMARS - Fee 3%
+Unstake 0.00 SAFEMARS
+Claim 0.00 TOFY ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - ElonGate Price: $0.0000000298 Market Cap: $29,829,090.62 [%]
+Staked: 2057085.9942 ElonGate ($0.06)
+TOFY Per Week: 13440.00 ($0.00)
+APR: Day 0.02% Week 0.11% Year 5.64%
+You are staking 0.00 ElonGate ($0.00), 0.00% of the pool.
+Stake 0.00 ElonGate - Fee 3%
+Unstake 0.00 ElonGate
+Claim 0.00 TOFY ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - SAFESTAR Price: $0.0000000037 Market Cap: $3,729,894.76 [%]
+Staked: 12051229.8393 SAFESTAR ($0.04)
+TOFY Per Week: 13440.00 ($0.00)
+APR: Day 0.02% Week 0.15% Year 7.70%
+You are staking 0.00 SAFESTAR ($0.00), 0.00% of the pool.
+Stake 0.00 SAFESTAR - Fee 3%
+Unstake 0.00 SAFESTAR
+Claim 0.00 TOFY ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [MASH]-[TOFY] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $5.50
+MASH Price: $0.002366
+TOFY Price: $0.0000000050
+Staked: 651461.1296 Cake-LP ($4.90)
+TOFY Per Week: 47040.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.25%
+You are staking 0.00 [MASH]-[TOFY] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MASH]-[TOFY] Cake LP
+Unstake 0.00 [MASH]-[TOFY] Cake LP
+Claim 0.00 TOFY ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - MASH Price: $0.002366 Market Cap: $20,975.03 [%]
+Staked: 9015.7109 MASH ($21.34)
+TOFY Per Week: 20160.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.02%
+You are staking 0.00 MASH ($0.00), 0.00% of the pool.
+Stake 0.00 MASH
+Unstake 0.00 MASH
+Claim 0.00 TOFY ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [MASH]-[DOGE] Cake LP [+] [-] [<=>] Price: $3,730.71 TVL: $181.25
+MASH Price: $0.002366
+DOGE Price: $0.14
+Staked: 0.0159 Cake-LP ($59.20)
+TOFY Per Week: 26880.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.01%
+You are staking 0.00 [MASH]-[DOGE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MASH]-[DOGE] Cake LP - Fee 3%
+Unstake 0.00 [MASH]-[DOGE] Cake LP
+Claim 0.00 TOFY ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $246.96

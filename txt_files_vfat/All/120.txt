@@ -1,0 +1,26 @@
+*************** 👨‍🌾 UNOFFICIAL INSTADAPP FARMING CALCULATOR 👨‍🌾 ************
+INFO  : https://defi.instadapp.io
+***************************************************************************
+
+Thu Jan 27 2022 19:59:36 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+In order to use this page, please copy your DSAv2 address from Instadapp and navigate to vfat.tools/insta?addr=0xYOUR_ADDRESS_HERE
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+[Gelato Uniswap V3 INST/ETH LP 1] Price: $2.60 TVL: $774,771.82
+INST Price: $1.37
+WETH Price: $2,481.53
+Staked: 37383.9670 G-UNI ($97,106.69)
+INST Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [Gelato Uniswap V3 INST/ETH LP 1] $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [Gelato Uniswap V3 INST/ETH LP 1]
+Unstake 0.000000 [Gelato Uniswap V3 INST/ETH LP 1]
+Claim 0.000000 INST ($0.00)
+Revoke (set approval to 0)
+Exit
+
+Total staked: $97,106.69

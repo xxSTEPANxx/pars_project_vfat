@@ -6,159 +6,17 @@ INFO  : https://www.polytiger.com/
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Fri Dec 17 2021 09:47:16 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 22:22:23 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
-Found 18 pools.
-Showing incentivized pools only.
-Finished reading smart contracts.
-1 - [WMATIC]-[TIGON] Uni LP [+] [-] [<=>] Price: $0.08 TVL: $154.65
-WMATIC Price: $2.08
-TIGON Price: $0.000667
-Staked: 254.4717 UNI-V2 ($20.50)
-TIGON Per Week: 4330.83 ($2.89)
-APR: Day 2.01% Week 14.10% Year 733.18%
-You are staking 0.00 [WMATIC]-[TIGON] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[TIGON] Uni LP
-Unstake 0.00 [WMATIC]-[TIGON] Uni LP
-Claim 0.00 TIGON ($0.00)
-Staking or unstaking also claims rewards.
-
-2 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,781,002.62 TVL: $51,510,101.71
-WMATIC Price: $2.08
-USDC Price: $1.00
-Staked: 0.0000 UNI-V2 ($277.72)
-TIGON Per Week: 866.17 ($0.58)
-APR: Day 0.03% Week 0.21% Year 10.82%
-You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
-Unstake 0.00 [WMATIC]-[USDC] Uni LP
-Claim 0.00 TIGON ($0.00)
-Staking or unstaking also claims rewards.
-
-4 - WMATIC Price: $2.08 Market Cap: $633,905,441.97 [%]
-Staked: 101.4987 WMATIC ($211.12)
-TIGON Per Week: 541.35 ($0.36)
-APR: Day 0.02% Week 0.17% Year 8.90%
-You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
-Stake 0.00 WMATIC - Fee 4%
-Unstake 0.00 WMATIC
-Claim 0.00 TIGON ($0.00)
-Staking or unstaking also claims rewards.
-
-5 - USDT Price: $1.00 Market Cap: $318,730,138.11 [%]
-Staked: 162.4800 USDT ($161.96)
-TIGON Per Week: 541.35 ($0.36)
-APR: Day 0.03% Week 0.22% Year 11.60%
-You are staking 0.00 USDT ($0.00), 0.00% of the pool.
-Stake 0.00 USDT - Fee 4%
-Unstake 0.00 USDT
-Claim 0.00 TIGON ($0.00)
-Staking or unstaking also claims rewards.
-
-6 - DAI Price: $1.00 Market Cap: $367,647,843.61 [%]
-Staked: 72.9600 DAI ($72.96)
-TIGON Per Week: 541.35 ($0.36)
-APR: Day 0.07% Week 0.50% Year 25.75%
-You are staking 0.00 DAI ($0.00), 0.00% of the pool.
-Stake 0.00 DAI - Fee 4%
-Unstake 0.00 DAI
-Claim 0.00 TIGON ($0.00)
-Staking or unstaking also claims rewards.
-
-7 - USDC Price: $1.00 Market Cap: $952,172,474.83 [%]
-Staked: 247.0447 USDC ($247.04)
-TIGON Per Week: 541.35 ($0.36)
-APR: Day 0.02% Week 0.15% Year 7.61%
-You are staking 0.00 USDC ($0.00), 0.00% of the pool.
-Stake 0.00 USDC - Fee 4%
-Unstake 0.00 USDC
-Claim 0.00 TIGON ($0.00)
-Staking or unstaking also claims rewards.
-
-8 - WBTC Price: $47,544.00 Market Cap: $479,728,897.08 [%]
-Staked: 0.0000 WBTC ($0.61)
-TIGON Per Week: 541.35 ($0.36)
-APR: Day 8.46% Week 59.23% Year 3080.08%
-You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
-Stake 0.00 WBTC - Fee 4%
-Unstake 0.00 WBTC
-Claim 0.00 TIGON ($0.00)
-Staking or unstaking also claims rewards.
-
-9 - WETH Price: $3,949.34 Market Cap: $1,753,361,456.44 [%]
-Staked: 0.0001 WETH ($0.43)
-TIGON Per Week: 541.35 ($0.36)
-APR: Day 11.91% Week 83.37% Year 4335.22%
-You are staking 0.00 WETH ($0.00), 0.00% of the pool.
-Stake 0.00 WETH - Fee 4%
-Unstake 0.00 WETH
-Claim 0.00 TIGON ($0.00)
-Staking or unstaking also claims rewards.
-
-10 - QUICK Price: $244.67 Market Cap: $233,791,583.11 [%]
-Staked: 0.0014 QUICK ($0.33)
-TIGON Per Week: 541.35 ($0.36)
-APR: Day 15.55% Week 108.85% Year 5660.33%
-You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
-Stake 0.00 QUICK - Fee 4%
-Unstake 0.00 QUICK
-Claim 0.00 TIGON ($0.00)
-Staking or unstaking also claims rewards.
-
-11 - AAVE Price: $174.42 Market Cap: $47,467,500.83 [%]
-Staked: 0.2880 AAVE ($50.23)
-TIGON Per Week: 541.35 ($0.36)
-APR: Day 0.10% Week 0.72% Year 37.40%
-You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
-Stake 0.00 AAVE - Fee 4%
-Unstake 0.00 AAVE
-Claim 0.00 TIGON ($0.00)
-Staking or unstaking also claims rewards.
-
-12 - SUSHI Price: $5.70 Market Cap: $3,216,399.45 [%]
-Staked: 14.0552 SUSHI ($80.11)
-TIGON Per Week: 541.35 ($0.36)
-APR: Day 0.06% Week 0.45% Year 23.45%
-You are staking 0.00 SUSHI ($0.00), 0.00% of the pool.
-Stake 0.00 SUSHI - Fee 4%
-Unstake 0.00 SUSHI
-Claim 0.00 TIGON ($0.00)
-Staking or unstaking also claims rewards.
-
-13 - LINK Price: $19.05 Market Cap: $33,165,200.44 [%]
-Staked: 0.4011 LINK ($7.64)
-TIGON Per Week: 541.35 ($0.36)
-APR: Day 0.68% Week 4.73% Year 245.87%
-You are staking 0.00 LINK ($0.00), 0.00% of the pool.
-Stake 0.00 LINK - Fee 4%
-Unstake 0.00 LINK
-Claim 0.00 TIGON ($0.00)
-Staking or unstaking also claims rewards.
-
-14 - FISH Price: $0.00 Market Cap: $0.00 
-Staked: 21.2200 FISH ($0.00)
-TIGON Per Week: 541.35 ($0.36)
-APR: Day NaN% Week NaN% Year NaN%
-You are staking 0.00 FISH ($0.00), NaN% of the pool.
-Stake 0.00 FISH - Fee 4%
-Unstake 0.00 FISH
-Claim 0.00 TIGON ($0.00)
-Staking or unstaking also claims rewards.
-
-17 - [TIGON]-[USDT] Uni LP [+] [-] [<=>] Price: $62,410.99 TVL: $17.88
-TIGON Price: $0.000667
-USDT Price: $1.00
-Staked: 0.0003 UNI-V2 ($16.03)
-TIGON Per Week: 3248.12 ($2.17)
-APR: Day 1.93% Week 13.53% Year 703.34%
-You are staking 0.00 [TIGON]-[USDT] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [TIGON]-[USDT] Uni LP
-Unstake 0.00 [TIGON]-[USDT] Uni LP
-Claim 0.00 TIGON ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $1,146.69
+{
+  "code": -32603,
+  "message": "Non-200 status code: '400'",
+  "data": {
+    "error": "Unable to verify your data submission."
+  }
+}
+Oops something went wrong. Try refreshing the page.

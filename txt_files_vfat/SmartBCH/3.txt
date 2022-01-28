@@ -1,0 +1,226 @@
+*************** 👨‍🌾 UNOFFICIAL MUESLISWAP SMARTBCH FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://muesli.cash
+**************************************************************************************
+
+Fri Jan 28 2022 01:17:06 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 16 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - MILK Price: $0.00 Market Cap: $0.00 
+Staked: 3022959.3975 MILK ($0.00)
+MILK Per Week: 55424.53 ($4,189.35)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 MILK ($0.00), NaN% of the pool.
+Stake 0.00 MILK
+Unstake 0.00 MILK
+Claim 0.00 MILK ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WBCH]-[MILK] Uni LP [+] [-] [<=>] Price: $9.63 TVL: $167,454.68
+WBCH Price: $284.41
+MILK Price: $0.08
+Staked: 17243.6569 Muesli-LP ($166,057.55)
+MILK Per Week: 77365.34 ($5,847.78)
+APR: Day 0.50% Week 3.52% Year 183.12%
+You are staking 0.00 [WBCH]-[MILK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[MILK] Uni LP
+Unstake 0.00 [WBCH]-[MILK] Uni LP
+Claim 0.00 MILK ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBCH]-[flexUSD] Uni LP [+] [-] [<=>] Price: $34.60 TVL: $290,657.03
+WBCH Price: $284.41
+flexUSD Price: $1.00
+Staked: 8389.1431 Muesli-LP ($290,300.73)
+MILK Per Week: 38682.67 ($2,923.89)
+APR: Day 0.14% Week 1.01% Year 52.37%
+You are staking 0.00 [WBCH]-[flexUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[flexUSD] Uni LP
+Unstake 0.00 [WBCH]-[flexUSD] Uni LP
+Claim 0.00 MILK ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WBCH]-[$KITTEN] Uni LP [+] [-] [<=>] Price: $6,734,093.31 TVL: $6,117.46
+WBCH Price: $284.41
+$KITTEN Price: $0.0000038782
+Staked: 0.0009 Muesli-LP ($6,111.88)
+MILK Per Week: 3868.27 ($292.39)
+APR: Day 0.68% Week 4.78% Year 248.76%
+You are staking 0.00 [WBCH]-[$KITTEN] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[$KITTEN] Uni LP
+Unstake 0.00 [WBCH]-[$KITTEN] Uni LP
+Claim 0.00 MILK ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [WBCH]-[AXIEBCH] Uni LP [+] [-] [<=>] Price: $3.04 TVL: $9,715.63
+WBCH Price: $284.41
+AXIEBCH Price: $0.007657
+Staked: 3187.4122 Muesli-LP ($9,687.82)
+MILK Per Week: 6189.23 ($467.82)
+APR: Day 0.69% Week 4.83% Year 251.11%
+You are staking 0.00 [WBCH]-[AXIEBCH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[AXIEBCH] Uni LP
+Unstake 0.00 [WBCH]-[AXIEBCH] Uni LP
+Claim 0.00 MILK ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [$CATS]-[WBCH] Uni LP [+] [-] [<=>] Price: $236,205,951.75 TVL: $22,536.51
+$CATS Price: $0.004606
+WBCH Price: $284.41
+Staked: 0.0001 Muesli-LP ($21,892.67)
+MILK Per Week: 6189.23 ($467.82)
+APR: Day 0.31% Week 2.14% Year 111.12%
+You are staking 0.00 [$CATS]-[WBCH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [$CATS]-[WBCH] Uni LP
+Unstake 0.00 [$CATS]-[WBCH] Uni LP
+Claim 0.00 MILK ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [Shiba]-[MILK] Uni LP [+] [-] [<=>] Price: $0.00 TVL: $3,900.37
+Shiba Price: $0.0000000000
+MILK Price: $0.08
+Staked: 1134333601.4272 Muesli-LP ($3,742.85)
+MILK Per Week: 3094.61 ($233.91)
+APR: Day 0.89% Week 6.25% Year 324.98%
+You are staking 0.00 [Shiba]-[MILK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Shiba]-[MILK] Uni LP
+Unstake 0.00 [Shiba]-[MILK] Uni LP
+Claim 0.00 MILK ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [AXIEBCH]-[MILK] Uni LP [+] [-] [<=>] Price: $0.05 TVL: $4,711.94
+AXIEBCH Price: $0.007657
+MILK Price: $0.08
+Staked: 94075.2661 Muesli-LP ($4,674.35)
+MILK Per Week: 3094.61 ($233.91)
+APR: Day 0.71% Week 5.00% Year 260.22%
+You are staking 0.00 [AXIEBCH]-[MILK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AXIEBCH]-[MILK] Uni LP
+Unstake 0.00 [AXIEBCH]-[MILK] Uni LP
+Claim 0.00 MILK ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [KTH]-[MILK] Uni LP [+] [-] [<=>] Price: $0.01 TVL: $5,673.57
+KTH Price: $0.000568
+MILK Price: $0.08
+Staked: 415325.2582 Muesli-LP ($5,547.83)
+MILK Per Week: 3094.61 ($233.91)
+APR: Day 0.60% Week 4.22% Year 219.25%
+You are staking 0.00 [KTH]-[MILK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KTH]-[MILK] Uni LP
+Unstake 0.00 [KTH]-[MILK] Uni LP
+Claim 0.00 MILK ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [flexUSD]-[MILK] Uni LP [+] [-] [<=>] Price: $21,132.45 TVL: $14,553.77
+flexUSD Price: $1.00
+MILK Price: $0.08
+Staked: 0.6864 Muesli-LP ($14,505.64)
+MILK Per Week: 6189.23 ($467.82)
+APR: Day 0.46% Week 3.23% Year 167.71%
+You are staking 0.00 [flexUSD]-[MILK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [flexUSD]-[MILK] Uni LP
+Unstake 0.00 [flexUSD]-[MILK] Uni LP
+Claim 0.00 MILK ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [MILK]-[SPICE] Uni LP [+] [-] [<=>] Price: $0.01 TVL: $4,313.53
+MILK Price: $0.08
+SPICE Price: $0.000194
+Staked: 551842.5077 Muesli-LP ($4,299.70)
+MILK Per Week: 3094.61 ($233.91)
+APR: Day 0.78% Week 5.44% Year 282.89%
+You are staking 0.00 [MILK]-[SPICE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MILK]-[SPICE] Uni LP
+Unstake 0.00 [MILK]-[SPICE] Uni LP
+Claim 0.00 MILK ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [WBCH]-[BPAD] Uni LP [+] [-] [<=>] Price: $4.36 TVL: $7,504.24
+WBCH Price: $284.41
+BPAD Price: $0.01
+Staked: 1720.4472 Muesli-LP ($7,498.99)
+MILK Per Week: 3094.61 ($233.91)
+APR: Day 0.45% Week 3.12% Year 162.20%
+You are staking 0.00 [WBCH]-[BPAD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[BPAD] Uni LP
+Unstake 0.00 [WBCH]-[BPAD] Uni LP
+Claim 0.00 MILK ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [WBCH]-[$FATCAT] Uni LP [+] [-] [<=>] Price: $0.23 TVL: $4,540.32
+WBCH Price: $284.41
+$FATCAT Price: $0.0000459191
+Staked: 19423.0165 Muesli-LP ($4,520.01)
+MILK Per Week: 3094.61 ($233.91)
+APR: Day 0.74% Week 5.18% Year 269.10%
+You are staking 0.00 [WBCH]-[$FATCAT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[$FATCAT] Uni LP
+Unstake 0.00 [WBCH]-[$FATCAT] Uni LP
+Claim 0.00 MILK ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [LAW]-[WBCH] Uni LP [+] [-] [<=>] Price: $28.62 TVL: $9,311.67
+LAW Price: $0.71
+WBCH Price: $284.41
+Staked: 325.0948 Muesli-LP ($9,303.95)
+MILK Per Week: 3094.61 ($233.91)
+APR: Day 0.36% Week 2.51% Year 130.73%
+You are staking 0.00 [LAW]-[WBCH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LAW]-[WBCH] Uni LP
+Unstake 0.00 [LAW]-[WBCH] Uni LP
+Claim 0.00 MILK ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [WBCH]-[CLY] Uni LP [+] [-] [<=>] Price: $1.21 TVL: $8,287.38
+WBCH Price: $284.41
+CLY Price: $0.001275
+Staked: 6859.4185 Muesli-LP ($8,284.49)
+MILK Per Week: 3094.61 ($233.91)
+APR: Day 0.40% Week 2.82% Year 146.82%
+You are staking 0.00 [WBCH]-[CLY] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[CLY] Uni LP
+Unstake 0.00 [WBCH]-[CLY] Uni LP
+Claim 0.00 MILK ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [WBCH]-[JOY] Uni LP [+] [-] [<=>] Price: $5.38 TVL: $13,705.68
+WBCH Price: $284.41
+JOY Price: $0.03
+Staked: 2546.2003 Muesli-LP ($13,704.16)
+MILK Per Week: 3094.61 ($233.91)
+APR: Day 0.24% Week 1.71% Year 88.76%
+You are staking 0.00 [WBCH]-[JOY] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBCH]-[JOY] Uni LP
+Unstake 0.00 [WBCH]-[JOY] Uni LP
+Claim 0.00 MILK ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $570,132.61
+.----------------------------------------------------------------------------------------------------------.
+|                                                   MILK                                                   |
+|----------------------------------------------------------------------------------------------------------|
+| #  |          Pair           |  Total Staked   | Total $ Staked | Reward |   APR   |      My Stake       |
+|----|-------------------------|-----------------|----------------|--------|---------|---------------------|
+|  0 | MILK                    |    3022959.3975 |          $0.00 | MILK   |    NaN% | 0.00 ($0.00), NaN%  |
+|  1 | [WBCH]-[MILK] Uni LP    |      17243.6569 |    $166,057.55 | MILK   | 183.12% | 0.00 ($0.00), 0.00% |
+|  2 | [WBCH]-[flexUSD] Uni LP |       8389.1431 |    $290,300.73 | MILK   |  52.37% | 0.00 ($0.00), 0.00% |
+|  3 | [WBCH]-[$KITTEN] Uni LP |          0.0009 |      $6,111.88 | MILK   | 248.76% | 0.00 ($0.00), 0.00% |
+|  4 | [WBCH]-[AXIEBCH] Uni LP |       3187.4122 |      $9,687.82 | MILK   | 251.11% | 0.00 ($0.00), 0.00% |
+|  5 | [$CATS]-[WBCH] Uni LP   |          0.0001 |     $21,892.67 | MILK   | 111.12% | 0.00 ($0.00), 0.00% |
+|  6 | [Shiba]-[MILK] Uni LP   | 1134333601.4272 |      $3,742.85 | MILK   | 324.98% | 0.00 ($0.00), 0.00% |
+|  7 | [AXIEBCH]-[MILK] Uni LP |      94075.2661 |      $4,674.35 | MILK   | 260.22% | 0.00 ($0.00), 0.00% |
+|  8 | [KTH]-[MILK] Uni LP     |     415325.2582 |      $5,547.83 | MILK   | 219.25% | 0.00 ($0.00), 0.00% |
+|  9 | [flexUSD]-[MILK] Uni LP |          0.6864 |     $14,505.64 | MILK   | 167.71% | 0.00 ($0.00), 0.00% |
+| 10 | [MILK]-[SPICE] Uni LP   |     551842.5077 |      $4,299.70 | MILK   | 282.89% | 0.00 ($0.00), 0.00% |
+| 11 | [WBCH]-[BPAD] Uni LP    |       1720.4472 |      $7,498.99 | MILK   | 162.20% | 0.00 ($0.00), 0.00% |
+| 12 | [WBCH]-[$FATCAT] Uni LP |      19423.0165 |      $4,520.01 | MILK   | 269.10% | 0.00 ($0.00), 0.00% |
+| 13 | [LAW]-[WBCH] Uni LP     |        325.0948 |      $9,303.95 | MILK   | 130.73% | 0.00 ($0.00), 0.00% |
+| 14 | [WBCH]-[CLY] Uni LP     |       6859.4185 |      $8,284.49 | MILK   | 146.82% | 0.00 ($0.00), 0.00% |
+| 15 | [WBCH]-[JOY] Uni LP     |       2546.2003 |     $13,704.16 | MILK   |  88.76% | 0.00 ($0.00), 0.00% |
+'----------------------------------------------------------------------------------------------------------'

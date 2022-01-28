@@ -1,0 +1,131 @@
+*************** 🐶 UNOFFICIAL Marvin Finance FARMING CALCULATOR 🐶 ***************
+INFO  : https://marvinfarms.info
+*************************************************************************************
+
+Thu Jan 27 2022 21:47:56 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 11 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [MARVIN]-[USDC] SLP [+] [-] [<=>] Price: $2,536,283.29 TVL: $261.75
+MARVIN Price: $1.53
+USDC Price: $1.00
+Staked: 0.0001 SLP ($171.41)
+MARVIN Per Week: 6.90 ($10.57)
+APR: Day 0.88% Week 6.16% Year 320.56%
+You are staking 0.00 [MARVIN]-[USDC] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [MARVIN]-[USDC] SLP
+Unstake 0.00 [MARVIN]-[USDC] SLP
+Claim 0.00 MARVIN ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WETH]-[USDC] SLP [+] [-] [<=>] Price: $117,935,582.30 TVL: $66,085,576.58
+WETH Price: $2,429.30
+USDC Price: $1.00
+Staked: 0.0000 SLP ($98.74)
+MARVIN Per Week: 0.69 ($1.06)
+APR: Day 0.15% Week 1.07% Year 55.65%
+You are staking 0.00 [WETH]-[USDC] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[USDC] SLP - Fee 4%
+Unstake 0.00 [WETH]-[USDC] SLP
+Claim 0.00 MARVIN ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [MARVIN]-[WETH] SLP [+] [-] [<=>] Price: $126.14 TVL: $179.75
+MARVIN Price: $1.53
+WETH Price: $2,429.30
+Staked: 0.7834 SLP ($98.82)
+MARVIN Per Week: 6.90 ($10.57)
+APR: Day 1.53% Week 10.69% Year 556.04%
+You are staking 0.00 [MARVIN]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [MARVIN]-[WETH] SLP
+Unstake 0.00 [MARVIN]-[WETH] SLP
+Claim 0.00 MARVIN ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - MARVIN Price: $1.53 Market Cap: $511.65 
+Staked: 154.5997 MARVIN ($236.66)
+MARVIN Per Week: 4.49 ($6.87)
+APR: Day 0.41% Week 2.90% Year 150.92%
+You are staking 0.00 MARVIN ($0.00), 0.00% of the pool.
+Stake 0.00 MARVIN
+Unstake 0.00 MARVIN
+Claim 0.00 MARVIN ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - WETH Price: $2,429.30 Market Cap: $575,258,339.53 
+Staked: 0.0049 WETH ($11.89)
+MARVIN Per Week: 1.04 ($1.59)
+APR: Day 1.90% Week 13.33% Year 692.99%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 MARVIN ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - USDC Price: $1.00 Market Cap: $372,901,692.68 
+Staked: 934.5012 USDC ($934.50)
+MARVIN Per Week: 0.69 ($1.06)
+APR: Day 0.02% Week 0.11% Year 5.88%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 MARVIN ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - USDT Price: $1.00 Market Cap: $177,405,379.79 
+Staked: 67.1931 USDT ($67.19)
+MARVIN Per Week: 0.48 ($0.74)
+APR: Day 0.16% Week 1.10% Year 57.24%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 MARVIN ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - WBTC Price: $36,103.00 Market Cap: $85,903,321.33 
+Staked: 0.0096 WBTC ($347.28)
+MARVIN Per Week: 0.35 ($0.53)
+APR: Day 0.02% Week 0.15% Year 7.91%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 MARVIN ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - SUSHI Price: $4.07 Market Cap: $1,232,267.56 
+Staked: 54.0595 SUSHI ($220.02)
+MARVIN Per Week: 0.35 ($0.53)
+APR: Day 0.03% Week 0.24% Year 12.49%
+You are staking 0.00 SUSHI ($0.00), 0.00% of the pool.
+Stake 0.00 SUSHI - Fee 4%
+Unstake 0.00 SUSHI
+Claim 0.00 MARVIN ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - LINK Price: $15.07 Market Cap: $10,613,442.08 
+Staked: 1.4688 LINK ($22.13)
+MARVIN Per Week: 0.35 ($0.53)
+APR: Day 0.34% Week 2.39% Year 124.12%
+You are staking 0.00 LINK ($0.00), 0.00% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 MARVIN ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - AFARM Price: $0.00 Market Cap: $0.00 
+Staked: 499.2390 AFARM ($0.00)
+MARVIN Per Week: 0.17 ($0.26)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 AFARM ($0.00), NaN% of the pool.
+Stake 0.00 AFARM - Fee 4%
+Unstake 0.00 AFARM
+Claim 0.00 MARVIN ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $2,208.67

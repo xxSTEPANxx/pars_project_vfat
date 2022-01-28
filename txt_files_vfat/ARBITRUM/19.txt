@@ -1,0 +1,101 @@
+*************** 🐬 UNOFFICIAL ARBIDOLPHIN FINANCE FARMING CALCULATOR 🐬 ***************
+INFO  : https://arb.dolphinswap.finance
+**************************************************************************************
+
+Thu Jan 27 2022 21:49:29 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 8 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [ARBIDOLPHIN]-[USDC] SLP [+] [-] [<=>] Price: $15,282.44 TVL: $42.26
+ARBIDOLPHIN Price: $0.0000515152
+USDC Price: $1.00
+Staked: 0.0005 SLP ($7.88)
+ARBIDOLPHIN Per Week: 89600.00 ($4.62)
+APR: Day 8.37% Week 58.58% Year 3046.35%
+You are staking 0.00 [ARBIDOLPHIN]-[USDC] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [ARBIDOLPHIN]-[USDC] SLP
+Unstake 0.00 [ARBIDOLPHIN]-[USDC] SLP
+Claim 0.00 ARBIDOLPHIN ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WETH]-[ARBIDOLPHIN] SLP [+] [-] [<=>] Price: $0.71 TVL: $4.56
+WETH Price: $2,428.06
+ARBIDOLPHIN Price: $0.0000515152
+Staked: 6.3573 SLP ($4.53)
+ARBIDOLPHIN Per Week: 89600.00 ($4.62)
+APR: Day 14.55% Week 101.82% Year 5294.57%
+You are staking 0.00 [WETH]-[ARBIDOLPHIN] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[ARBIDOLPHIN] SLP
+Unstake 0.00 [WETH]-[ARBIDOLPHIN] SLP
+Claim 0.00 ARBIDOLPHIN ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WETH]-[USDC] SLP [+] [-] [<=>] Price: $117,746,419.05 TVL: $65,979,578.35
+WETH Price: $2,428.06
+USDC Price: $1.00
+Staked: 0.0000 SLP ($1.34)
+ARBIDOLPHIN Per Week: 35840.00 ($1.85)
+APR: Day 19.62% Week 137.34% Year 7141.47%
+You are staking 0.00 [WETH]-[USDC] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[USDC] SLP
+Unstake 0.00 [WETH]-[USDC] SLP - Fee 2%
+Claim 0.00 ARBIDOLPHIN ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - ARBIDOLPHIN Price: $0.0000515152 Market Cap: $176.26 
+Staked: 2391998.8540 ARBIDOLPHIN ($123.22)
+ARBIDOLPHIN Per Week: 89600.00 ($4.62)
+APR: Day 0.54% Week 3.75% Year 194.78%
+You are staking 0.00 ARBIDOLPHIN ($0.00), 0.00% of the pool.
+Stake 0.00 ARBIDOLPHIN
+Unstake 0.00 ARBIDOLPHIN
+Claim 0.00 ARBIDOLPHIN ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - WETH Price: $2,428.06 Market Cap: $574,471,814.90 
+Staked: 0.5000 WETH ($1,214.03)
+ARBIDOLPHIN Per Week: 35840.00 ($1.85)
+APR: Day 0.02% Week 0.15% Year 7.91%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH
+Unstake 0.00 WETH - Fee 4%
+Claim 0.00 ARBIDOLPHIN ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - USDC Price: $1.00 Market Cap: $371,892,993.60 
+Staked: 1005.8685 USDC ($1,003.15)
+ARBIDOLPHIN Per Week: 35840.00 ($1.85)
+APR: Day 0.03% Week 0.18% Year 9.57%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC
+Unstake 0.00 USDC - Fee 4%
+Claim 0.00 ARBIDOLPHIN ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - USDT Price: $1.00 Market Cap: $177,405,379.79 
+Staked: 500.5714 USDT ($500.57)
+ARBIDOLPHIN Per Week: 35840.00 ($1.85)
+APR: Day 0.05% Week 0.37% Year 19.18%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT
+Unstake 0.00 USDT - Fee 4%
+Claim 0.00 ARBIDOLPHIN ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - WBTC Price: $36,091.00 Market Cap: $85,874,768.58 
+Staked: 0.0210 WBTC ($757.80)
+ARBIDOLPHIN Per Week: 35840.00 ($1.85)
+APR: Day 0.03% Week 0.24% Year 12.67%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC
+Unstake 0.00 WBTC - Fee 4%
+Claim 0.00 ARBIDOLPHIN ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $3,612.53

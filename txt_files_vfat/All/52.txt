@@ -1,0 +1,19 @@
+*************** 👨‍🌾 UNOFFICIAL UNSLASHED FINANCE CALCULATOR 👨‍🌾 ********************
+INFO  : https://app.unslashed.finance/
+***********************************************************************************
+
+Thu Jan 27 2022 19:34:54 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Finished reading smart contracts.
+[WETH]-[USF] Uni LP [+] [-] [<=>] Price: $48.25 TVL: $686,773.55
+WETH Price: $2,426.46
+USF Price: $0.22
+Staked: 0.0000 UNI-V2 ($0.00)
+Your LP tokens comprise of 0.00 WETH + 0.00 USF
+USF Per Week: 98560.00 ($21,261.66)
+APR: Day 0.44% Week 3.10% Year 160.99%
+You are staking 0.00 USF-ETH LP ($0.00), 0.00% of the pool.

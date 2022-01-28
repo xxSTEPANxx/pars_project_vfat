@@ -1,0 +1,109 @@
+*************** 👨‍🌾 UNOFFICIAL ROCKETMOON FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://rocketmoon.farm
+*******************************************************************************
+
+Thu Jan 27 2022 21:37:48 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 8 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - ROCKET Price: $0.14 Market Cap: $95.04 [%]
+Staked: 0.0000 ROCKET ($0.00)
+ROCKET Per Week: 1221818.18 ($165,880.57)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 ROCKET ($0.00), NaN% of the pool.
+Stake 0.00 ROCKET
+Unstake 0.00 ROCKET
+Claim 0.00 ROCKET ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WBNB]-[ROCKET] Cake LP [+] [-] [<=>] Price: $14.98 TVL: $4.50
+WBNB Price: $368.50
+ROCKET Price: $0.14
+Staked: 0.0398 Cake-LP ($0.60)
+ROCKET Per Week: 2443636.36 ($331,761.13)
+APR: Day 7940613.04% Week 55584291.27% Year 2890383146.04%
+You are staking 0.00 [WBNB]-[ROCKET] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[ROCKET] Cake LP
+Unstake 0.00 [WBNB]-[ROCKET] Cake LP
+Claim 0.00 ROCKET ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $65.84 TVL: $2,221,351.70
+WBNB Price: $368.50
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+ROCKET Per Week: 61090.91 ($8,294.03)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 ROCKET ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $131,474,168.40
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+ROCKET Per Week: 61090.91 ($8,294.03)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 ROCKET ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $105.34 TVL: $200,567,594.47
+Cake Price: $6.98
+WBNB Price: $368.50
+Staked: 0.0000 Cake-LP ($0.00)
+ROCKET Per Week: 61090.91 ($8,294.03)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 ROCKET ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [TRX]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.51 TVL: $15,863,366.29
+TRX Price: $0.06
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+ROCKET Per Week: 61090.91 ($8,294.03)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [TRX]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [TRX]-[BUSD] Cake LP
+Unstake 0.00 [TRX]-[BUSD] Cake LP
+Claim 0.00 ROCKET ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [XRP]-[WBNB] Cake LP [+] [-] [<=>] Price: $31.58 TVL: $6,953,567.68
+XRP Price: $0.60
+WBNB Price: $368.50
+Staked: 0.0000 Cake-LP ($0.00)
+ROCKET Per Week: 61090.91 ($8,294.03)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [XRP]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [XRP]-[WBNB] Cake LP
+Unstake 0.00 [XRP]-[WBNB] Cake LP
+Claim 0.00 ROCKET ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [WBNB]-[UNI] Cake LP [+] [-] [<=>] Price: $129.47 TVL: $6,838,164.25
+WBNB Price: $368.50
+UNI Price: $10.60
+Staked: 0.0000 Cake-LP ($0.00)
+ROCKET Per Week: 61090.91 ($8,294.03)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WBNB]-[UNI] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBNB]-[UNI] Cake LP
+Unstake 0.00 [WBNB]-[UNI] Cake LP
+Claim 0.00 ROCKET ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $0.60

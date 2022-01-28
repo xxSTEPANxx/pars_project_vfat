@@ -1,0 +1,263 @@
+*************** 👨‍🌾 UNOFFICIAL MUSCLE.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://muscle.finance
+***********************************************************************************
+
+Thu Jan 27 2022 20:34:02 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 23 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [MUSCLE]-[BUSD] Cake LP [+] [-] [<=>] Price: $1.01 TVL: $385.27
+MUSCLE Price: $0.22
+BUSD Price: $1.00
+Staked: 52.1722 Cake-LP ($52.73)
+MUSCLE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [MUSCLE]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MUSCLE]-[BUSD] Cake LP
+Unstake 0.00 [MUSCLE]-[BUSD] Cake LP
+Claim 0.00 MUSCLE ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [MUSCLE]-[WBNB] Cake LP [+] [-] [<=>] Price: $19.04 TVL: $977.47
+MUSCLE Price: $0.22
+WBNB Price: $370.95
+Staked: 39.4297 Cake-LP ($750.63)
+MUSCLE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [MUSCLE]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MUSCLE]-[WBNB] Cake LP
+Unstake 0.00 [MUSCLE]-[WBNB] Cake LP
+Claim 0.00 MUSCLE ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $66.09 TVL: $2,138,587.40
+WBNB Price: $370.95
+BUSD Price: $1.00
+Staked: 30.9937 Cake-LP ($2,048.31)
+MUSCLE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 MUSCLE ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.17 TVL: $3,560,860.05
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 466.9555 Cake-LP ($1,014.92)
+MUSCLE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 MUSCLE ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $8,252.20 TVL: $299,891.42
+BTCB Price: $36,472.00
+WBNB Price: $370.95
+Staked: 0.0000 Cake-LP ($0.00)
+MUSCLE Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 MUSCLE ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,198.51 TVL: $479,724.08
+ETH Price: $2,441.83
+WBNB Price: $370.95
+Staked: 0.0000 Cake-LP ($0.00)
+MUSCLE Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 MUSCLE ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [DAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.05 TVL: $1,365,382.79
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 1.0000 Cake-LP ($2.05)
+MUSCLE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 MUSCLE ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.28 TVL: $253,650.65
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 161.7774 Cake-LP ($369.14)
+MUSCLE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 MUSCLE ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [DOT]-[WBNB] Cake LP [+] [-] [<=>] Price: $180.19 TVL: $322,873.67
+DOT Price: $18.02
+WBNB Price: $370.95
+Staked: 0.0000 Cake-LP ($0.00)
+MUSCLE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 MUSCLE ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - MUSCLE Price: $0.22 Market Cap: $91,496.22 [%]
+Staked: 51559.8837 MUSCLE ($11,362.37)
+MUSCLE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 MUSCLE ($0.00), 0.00% of the pool.
+Stake 0.00 MUSCLE
+Unstake 0.00 MUSCLE
+Claim 0.00 MUSCLE ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - BUSD Price: $1.00 Market Cap: $4,850,805,348.65 [%]
+Staked: 126.4458 BUSD ($126.44)
+MUSCLE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 MUSCLE ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - WBNB Price: $370.95 Market Cap: $1,936,973,799.53 [%]
+Staked: 0.0096 WBNB ($3.56)
+MUSCLE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 MUSCLE ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - USDT Price: $1.00 Market Cap: $3,879,997,922.18 [%]
+Staked: 37.4400 USDT ($37.44)
+MUSCLE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 MUSCLE ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - BTCB Price: $36,472.00 Market Cap: $4,103,136,472.00 [%]
+Staked: 0.0000 BTCB ($0.00)
+MUSCLE Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BTCB ($0.00), NaN% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 MUSCLE ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - ETH Price: $2,441.83 Market Cap: $3,430,771,150.00 [%]
+Staked: 0.0800 ETH ($195.24)
+MUSCLE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 MUSCLE ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - DAI Price: $1.00 Market Cap: $262,000,000.00 [%]
+Staked: 0.0000 DAI ($0.00)
+MUSCLE Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 DAI ($0.00), NaN% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 MUSCLE ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - USDC Price: $1.00 Market Cap: $1,778,850,564.00 [%]
+Staked: 0.0000 USDC ($0.00)
+MUSCLE Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 USDC ($0.00), NaN% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 MUSCLE ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - DOT Price: $18.02 Market Cap: $288,319,999.84 [%]
+Staked: 0.0000 DOT ($0.00)
+MUSCLE Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 DOT ($0.00), NaN% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 MUSCLE ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - Cake Price: $7.21 Market Cap: $4,433,794,867.40 [%]
+Staked: 0.0000 Cake ($0.00)
+MUSCLE Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 Cake ($0.00), NaN% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 MUSCLE ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - EGG Price: $0.14 Market Cap: $1,104,756.66 [%]
+Staked: 33.5464 EGG ($4.55)
+MUSCLE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 EGG ($0.00), 0.00% of the pool.
+Stake 0.00 EGG - Fee 4%
+Unstake 0.00 EGG
+Claim 0.00 MUSCLE ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - AUTO Price: $407.62 Market Cap: $32,869,738.73 [%]
+Staked: 0.0008 AUTO ($0.31)
+MUSCLE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 AUTO ($0.00), 0.00% of the pool.
+Stake 0.00 AUTO - Fee 4%
+Unstake 0.00 AUTO
+Claim 0.00 MUSCLE ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - MUSCLEVIP Price: $0.00 Market Cap: $0.00 
+Staked: 20032.5829 MUSCLEVIP ($0.00)
+MUSCLE Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 MUSCLEVIP ($0.00), NaN% of the pool.
+Stake 0.00 MUSCLEVIP
+Unstake 0.00 MUSCLEVIP
+Claim 0.00 MUSCLE ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - NU Price: $0.00 Market Cap: $0.00 
+Staked: 1.4937 NU ($0.00)
+MUSCLE Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 NU ($0.00), NaN% of the pool.
+Stake 0.00 NU
+Unstake 0.00 NU
+Claim 0.00 MUSCLE ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $15,967.69

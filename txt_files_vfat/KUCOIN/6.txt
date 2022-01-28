@@ -1,0 +1,155 @@
+*************** 👨‍🌾 UNOFFICIAL SHIBANCE KCC FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://kcc.shibance.com
+*******************************************************************************
+
+Fri Jan 28 2022 01:08:42 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 12 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - KWOOF Price: $0.00 Market Cap: $0.00 
+Staked: 117116851.0917 KWOOF ($0.00)
+KWOOF Per Week: 2016000.00 ($53.65)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 KWOOF ($0.00), NaN% of the pool.
+Stake 0.00 KWOOF
+Unstake 0.00 KWOOF
+Claim 0.00 KWOOF ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [KWOOF]-[WKCS] Uni LP [+] [-] [<=>] Price: $0.04 TVL: $5,640.38
+KWOOF Price: $0.0000266139
+WKCS Price: $15.63
+Staked: 20515.9280 Shibance-LP ($866.79)
+KWOOF Per Week: 897895.56 ($23.90)
+APR: Day 0.39% Week 2.76% Year 143.36%
+You are staking 0.00 [KWOOF]-[WKCS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KWOOF]-[WKCS] Uni LP
+Unstake 0.00 [KWOOF]-[WKCS] Uni LP
+Claim 0.00 KWOOF ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [USDT]-[WKCS] Uni LP [+] [-] [<=>] Price: $8.51 TVL: $988.55
+USDT Price: $1.01
+WKCS Price: $15.63
+Staked: 115.6888 Shibance-LP ($984.59)
+KWOOF Per Week: 168355.42 ($4.48)
+APR: Day 0.07% Week 0.46% Year 23.66%
+You are staking 0.00 [USDT]-[WKCS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WKCS] Uni LP
+Unstake 0.00 [USDT]-[WKCS] Uni LP
+Claim 0.00 KWOOF ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDT]-[KWOOF] Uni LP [+] [-] [<=>] Price: $0.01 TVL: $214.81
+USDT Price: $1.01
+KWOOF Price: $0.0000266139
+Staked: 16953.3552 Shibance-LP ($182.07)
+KWOOF Per Week: 336710.83 ($8.96)
+APR: Day 0.70% Week 4.92% Year 255.93%
+You are staking 0.00 [USDT]-[KWOOF] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[KWOOF] Uni LP
+Unstake 0.00 [USDT]-[KWOOF] Uni LP
+Claim 0.00 KWOOF ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [KWOOF]-[USDC] Uni LP [+] [-] [<=>] Price: $0.01 TVL: $384.47
+KWOOF Price: $0.0000266139
+USDC Price: $1.00
+Staked: 35134.0041 Shibance-LP ($374.36)
+KWOOF Per Week: 336710.83 ($8.96)
+APR: Day 0.34% Week 2.39% Year 124.48%
+You are staking 0.00 [KWOOF]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KWOOF]-[USDC] Uni LP
+Unstake 0.00 [KWOOF]-[USDC] Uni LP
+Claim 0.00 KWOOF ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WKCS]-[USDC] Uni LP [+] [-] [<=>] Price: $8.31 TVL: $1,503.66
+WKCS Price: $15.63
+USDC Price: $1.00
+Staked: 180.1941 Shibance-LP ($1,496.79)
+KWOOF Per Week: 168355.42 ($4.48)
+APR: Day 0.04% Week 0.30% Year 15.57%
+You are staking 0.00 [WKCS]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WKCS]-[USDC] Uni LP
+Unstake 0.00 [WKCS]-[USDC] Uni LP
+Claim 0.00 KWOOF ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [USDT]-[USDC] Uni LP [+] [-] [<=>] Price: $2.06 TVL: $1,989.80
+USDT Price: $1.01
+USDC Price: $1.00
+Staked: 23.0232 Shibance-LP ($47.50)
+KWOOF Per Week: 44894.78 ($1.19)
+APR: Day 0.36% Week 2.52% Year 130.80%
+You are staking 0.00 [USDT]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[USDC] Uni LP
+Unstake 0.00 [USDT]-[USDC] Uni LP
+Claim 0.00 KWOOF ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [KWOOF]-[GHOST] Uni LP [+] [-] [<=>] Price: $0.00 TVL: $6.19
+KWOOF Price: $0.0000266139
+GHOST Price: $0.0000000000
+Staked: 11995.3206 Shibance-LP ($5.66)
+KWOOF Per Week: 22447.39 ($0.60)
+APR: Day 1.51% Week 10.56% Year 549.02%
+You are staking 0.00 [KWOOF]-[GHOST] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KWOOF]-[GHOST] Uni LP
+Unstake 0.00 [KWOOF]-[GHOST] Uni LP
+Claim 0.00 KWOOF ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [KWOOF]-[KUST] Uni LP [+] [-] [<=>] Price: $0.00 TVL: $35.13
+KWOOF Price: $0.0000266139
+KUST Price: $0.08
+Staked: 11868.7972 Shibance-LP ($34.99)
+KWOOF Per Week: 22447.39 ($0.60)
+APR: Day 0.24% Week 1.71% Year 88.78%
+You are staking 0.00 [KWOOF]-[KUST] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KWOOF]-[KUST] Uni LP
+Unstake 0.00 [KWOOF]-[KUST] Uni LP
+Claim 0.00 KWOOF ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - BURN Price: $0.00 Market Cap: $0.00 
+Staked: 1.0000 BURN ($0.00)
+KWOOF Per Week: 3982840.22 ($106.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BURN ($0.00), NaN% of the pool.
+Stake 0.00 BURN
+Unstake 0.00 BURN
+Claim 0.00 KWOOF ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [KWOOF]-[KAFE] Uni LP [+] [-] [<=>] Price: $0.00 TVL: $34.12
+KWOOF Price: $0.0000266139
+KAFE Price: $0.08
+Staked: 9723.5924 Shibance-LP ($33.62)
+KWOOF Per Week: 44894.78 ($1.19)
+APR: Day 0.51% Week 3.55% Year 184.79%
+You are staking 0.00 [KWOOF]-[KAFE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KWOOF]-[KAFE] Uni LP
+Unstake 0.00 [KWOOF]-[KAFE] Uni LP
+Claim 0.00 KWOOF ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [USDT]-[KAFE] Uni LP [+] [-] [<=>] Price: $0.63 TVL: $145.04
+USDT Price: $1.01
+KAFE Price: $0.08
+Staked: 228.4192 Shibance-LP ($144.23)
+KWOOF Per Week: 22447.39 ($0.60)
+APR: Day 0.06% Week 0.41% Year 21.54%
+You are staking 0.00 [USDT]-[KAFE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[KAFE] Uni LP
+Unstake 0.00 [USDT]-[KAFE] Uni LP
+Claim 0.00 KWOOF ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $4,170.60

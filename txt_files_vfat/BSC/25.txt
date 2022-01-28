@@ -1,0 +1,205 @@
+*************** 👨‍🌾 UNOFFICIAL MOCHISWAP FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://pool.mochiswap.io
+******************************************************************************
+
+Thu Jan 27 2022 20:18:19 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 17 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [MOCHI]-[WBNB] Cake LP [+] [-] [<=>] Price: $3.45 TVL: $3,788.22
+MOCHI Price: $0.004269
+WBNB Price: $371.37
+Staked: 1045.1993 Cake-LP ($3,607.44)
+MOCHI Per Week: 18989.01 ($81.06)
+APR: Day 0.32% Week 2.25% Year 116.85%
+You are staking 0.00 [MOCHI]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MOCHI]-[WBNB] Cake LP
+Unstake 0.00 [MOCHI]-[WBNB] Cake LP
+Claim 0.00 MOCHI ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [MOCHI]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.17 TVL: $6,035.84
+MOCHI Price: $0.004269
+BUSD Price: $1.00
+Staked: 32790.0985 Cake-LP ($5,436.03)
+MOCHI Per Week: 18989.01 ($81.06)
+APR: Day 0.21% Week 1.49% Year 77.54%
+You are staking 0.00 [MOCHI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MOCHI]-[BUSD] Cake LP
+Unstake 0.00 [MOCHI]-[BUSD] Cake LP
+Claim 0.00 MOCHI ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [MOCHI]-[DOGE] Cake LP [+] [-] [<=>] Price: $5,269.70 TVL: $3,015.04
+MOCHI Price: $0.004269
+DOGE Price: $0.14
+Staked: 0.5416 Cake-LP ($2,854.20)
+MOCHI Per Week: 18989.01 ($81.06)
+APR: Day 0.41% Week 2.84% Year 147.68%
+You are staking 0.00 [MOCHI]-[DOGE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MOCHI]-[DOGE] Cake LP
+Unstake 0.00 [MOCHI]-[DOGE] Cake LP
+Claim 0.00 MOCHI ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - MOCHI Price: $0.004269 Market Cap: $131,180.16 [%]
+Staked: 3304845.8923 MOCHI ($14,107.99)
+MOCHI Per Week: 2848.35 ($12.16)
+APR: Day 0.01% Week 0.09% Year 4.48%
+You are staking 0.00 MOCHI ($0.00), 0.00% of the pool.
+Stake 0.00 MOCHI
+Unstake 0.00 MOCHI
+Claim 0.00 MOCHI ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [MOCHI]-[WBNB] Uni LP [+] [-] [<=>] Price: $3.03 TVL: $10,017.85
+MOCHI Price: $0.004269
+WBNB Price: $371.37
+Staked: 3199.4760 Mochi-LP ($9,684.03)
+MOCHI Per Week: 23736.26 ($101.33)
+APR: Day 0.15% Week 1.05% Year 54.41%
+You are staking 0.00 [MOCHI]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MOCHI]-[WBNB] Uni LP
+Unstake 0.00 [MOCHI]-[WBNB] Uni LP
+Claim 0.00 MOCHI ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [MOCHI]-[BUSD] Uni LP [+] [-] [<=>] Price: $0.15 TVL: $8,595.48
+MOCHI Price: $0.004269
+BUSD Price: $1.00
+Staked: 51736.7034 Mochi-LP ($7,787.00)
+MOCHI Per Week: 23736.26 ($101.33)
+APR: Day 0.19% Week 1.30% Year 67.66%
+You are staking 0.00 [MOCHI]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MOCHI]-[BUSD] Uni LP
+Unstake 0.00 [MOCHI]-[BUSD] Uni LP
+Claim 0.00 MOCHI ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [MOCHI]-[DOGE] Uni LP [+] [-] [<=>] Price: $5,185.73 TVL: $2,447.23
+MOCHI Price: $0.004269
+DOGE Price: $0.14
+Staked: 0.2514 Mochi-LP ($1,303.63)
+MOCHI Per Week: 23736.26 ($101.33)
+APR: Day 1.11% Week 7.77% Year 404.18%
+You are staking 0.00 [MOCHI]-[DOGE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MOCHI]-[DOGE] Uni LP
+Unstake 0.00 [MOCHI]-[DOGE] Uni LP
+Claim 0.00 MOCHI ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [WBNB]-[BUSD] Uni LP [+] [-] [<=>] Price: $42.43 TVL: $15,789.27
+WBNB Price: $371.37
+BUSD Price: $1.00
+Staked: 364.5751 Mochi-LP ($15,467.25)
+MOCHI Per Week: 16615.38 ($70.93)
+APR: Day 0.07% Week 0.46% Year 23.85%
+You are staking 0.00 [WBNB]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Uni LP
+Unstake 0.00 [WBNB]-[BUSD] Uni LP
+Claim 0.00 MOCHI ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [ADA]-[WBNB] Uni LP [+] [-] [<=>] Price: $40.03 TVL: $3,471.83
+ADA Price: $1.04
+WBNB Price: $371.37
+Staked: 86.7221 Mochi-LP ($3,471.83)
+MOCHI Per Week: 16615.38 ($70.93)
+APR: Day 0.29% Week 2.04% Year 106.24%
+You are staking 0.00 [ADA]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Uni LP
+Unstake 0.00 [ADA]-[WBNB] Uni LP
+Claim 0.00 MOCHI ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [DOT]-[WBNB] Uni LP [+] [-] [<=>] Price: $166.64 TVL: $21,450.89
+DOT Price: $17.98
+WBNB Price: $371.37
+Staked: 125.1992 Mochi-LP ($20,862.84)
+MOCHI Per Week: 16615.38 ($70.93)
+APR: Day 0.05% Week 0.34% Year 17.68%
+You are staking 0.00 [DOT]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Uni LP
+Unstake 0.00 [DOT]-[WBNB] Uni LP
+Claim 0.00 MOCHI ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [ETH]-[WBNB] Uni LP [+] [-] [<=>] Price: $1,942.69 TVL: $4,194.70
+ETH Price: $2,467.06
+WBNB Price: $371.37
+Staked: 2.1590 Mochi-LP ($4,194.34)
+MOCHI Per Week: 16615.38 ($70.93)
+APR: Day 0.24% Week 1.69% Year 87.94%
+You are staking 0.00 [ETH]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Uni LP
+Unstake 0.00 [ETH]-[WBNB] Uni LP
+Claim 0.00 MOCHI ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [BTCB]-[WBNB] Uni LP [+] [-] [<=>] Price: $7,484.13 TVL: $7,139.40
+BTCB Price: $36,634.00
+WBNB Price: $371.37
+Staked: 0.4620 Mochi-LP ($3,457.37)
+MOCHI Per Week: 16615.38 ($70.93)
+APR: Day 0.29% Week 2.05% Year 106.68%
+You are staking 0.00 [BTCB]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Uni LP
+Unstake 0.00 [BTCB]-[WBNB] Uni LP
+Claim 0.00 MOCHI ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [DOGE]-[WBNB] Uni LP [+] [-] [<=>] Price: $1,549,095.47 TVL: $3,178.30
+DOGE Price: $0.14
+WBNB Price: $371.37
+Staked: 0.0021 Mochi-LP ($3,178.30)
+MOCHI Per Week: 14241.76 ($60.80)
+APR: Day 0.27% Week 1.91% Year 99.47%
+You are staking 0.00 [DOGE]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOGE]-[WBNB] Uni LP
+Unstake 0.00 [DOGE]-[WBNB] Uni LP
+Claim 0.00 MOCHI ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [MOCHI]-[APESOX] Uni LP [+] [-] [<=>] Price: $0.51 TVL: $992.92
+MOCHI Price: $0.004269
+APESOX Price: $13.97
+Staked: 1903.9725 Mochi-LP ($964.25)
+MOCHI Per Week: 30382.42 ($129.70)
+APR: Day 1.92% Week 13.45% Year 699.44%
+You are staking 0.00 [MOCHI]-[APESOX] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MOCHI]-[APESOX] Uni LP
+Unstake 0.00 [MOCHI]-[APESOX] Uni LP
+Claim 0.00 MOCHI ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [APESOX]-[WBNB] Uni LP [+] [-] [<=>] Price: $155.16 TVL: $1,470.97
+APESOX Price: $13.97
+WBNB Price: $371.37
+Staked: 6.0638 Mochi-LP ($940.85)
+MOCHI Per Week: 26584.62 ($113.49)
+APR: Day 1.72% Week 12.06% Year 627.23%
+You are staking 0.00 [APESOX]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [APESOX]-[WBNB] Uni LP
+Unstake 0.00 [APESOX]-[WBNB] Uni LP
+Claim 0.00 MOCHI ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [USDT]-[WBNB] Uni LP [+] [-] [<=>] Price: $40.28 TVL: $13,653.90
+USDT Price: $1.00
+WBNB Price: $371.37
+Staked: 338.7480 Mochi-LP ($13,644.11)
+MOCHI Per Week: 17090.11 ($72.96)
+APR: Day 0.08% Week 0.53% Year 27.80%
+You are staking 0.00 [USDT]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WBNB] Uni LP
+Unstake 0.00 [USDT]-[WBNB] Uni LP
+Claim 0.00 MOCHI ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $110,961.46

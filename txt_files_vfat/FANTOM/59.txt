@@ -1,0 +1,187 @@
+*************** 👨‍🌾 UNOFFICIAL PROCYONSWAP FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://procyonswap.com
+********************************************************************************
+
+Fri Jan 28 2022 00:45:41 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 16 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [WFTM]-[PROCYON] SPOOKY LP [+] [-] [<=>] Price: $0.60 TVL: $228.36
+WFTM Price: $2.02
+PROCYON Price: $0.04
+Staked: 188.8328 spLP ($112.46)
+PROCYON Per Week: 126.00 ($5.07)
+APR: Day 0.64% Week 4.51% Year 234.63%
+You are staking 0.00 [WFTM]-[PROCYON] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[PROCYON] SPOOKY LP
+Unstake 0.00 [WFTM]-[PROCYON] SPOOKY LP
+Claim 0.00 PROCYON ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [USDC]-[PROCYON] SPOOKY LP [+] [-] [<=>] Price: $413,941.83 TVL: $150.69
+USDC Price: $1.00
+PROCYON Price: $0.04
+Staked: 0.0001 spLP ($45.08)
+PROCYON Per Week: 126.00 ($5.07)
+APR: Day 1.61% Week 11.26% Year 585.31%
+You are staking 0.00 [USDC]-[PROCYON] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[PROCYON] SPOOKY LP
+Unstake 0.00 [USDC]-[PROCYON] SPOOKY LP
+Claim 0.00 PROCYON ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WFTM]-[BOO] SPOOKY LP [+] [-] [<=>] Price: $14.92 TVL: $63,185,001.36
+WFTM Price: $2.02
+BOO Price: $25.21
+Staked: 3.5082 spLP ($52.33)
+PROCYON Per Week: 21.00 ($0.85)
+APR: Day 0.23% Week 1.62% Year 84.04%
+You are staking 0.00 [WFTM]-[BOO] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BOO] SPOOKY LP
+Unstake 0.00 [WFTM]-[BOO] SPOOKY LP - Fee 3%
+Claim 0.00 PROCYON ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WFTM]-[ETH] SPOOKY LP [+] [-] [<=>] Price: $155.62 TVL: $42,196,967.84
+WFTM Price: $2.02
+ETH Price: $2,322.13
+Staked: 0.1172 spLP ($18.24)
+PROCYON Per Week: 21.00 ($0.85)
+APR: Day 0.66% Week 4.64% Year 241.14%
+You are staking 0.00 [WFTM]-[ETH] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ETH] SPOOKY LP
+Unstake 0.00 [WFTM]-[ETH] SPOOKY LP - Fee 3%
+Claim 0.00 PROCYON ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDC]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $4,352,062.91 TVL: $167,538,505.34
+USDC Price: $1.00
+WFTM Price: $2.02
+Staked: 0.0000 spLP ($25.02)
+PROCYON Per Week: 21.00 ($0.85)
+APR: Day 0.48% Week 3.38% Year 175.75%
+You are staking 0.00 [USDC]-[WFTM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WFTM] SPOOKY LP
+Unstake 0.00 [USDC]-[WFTM] SPOOKY LP - Fee 3%
+Claim 0.00 PROCYON ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WFTM]-[SCREAM] SPOOKY LP [+] [-] [<=>] Price: $25.44 TVL: $16,665,488.04
+WFTM Price: $2.02
+SCREAM Price: $74.31
+Staked: 0.4000 spLP ($10.17)
+PROCYON Per Week: 21.00 ($0.85)
+APR: Day 1.19% Week 8.31% Year 432.22%
+You are staking 0.00 [WFTM]-[SCREAM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[SCREAM] SPOOKY LP
+Unstake 0.00 [WFTM]-[SCREAM] SPOOKY LP - Fee 3%
+Claim 0.00 PROCYON ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - PROCYON Price: $0.04 Market Cap: $413.64 
+Staked: 2683.8027 PROCYON ($108.08)
+PROCYON Per Week: 84.00 ($3.38)
+APR: Day 0.45% Week 3.13% Year 162.75%
+You are staking 0.00 PROCYON ($0.00), 0.00% of the pool.
+Stake 0.00 PROCYON
+Unstake 0.00 PROCYON
+Claim 0.00 PROCYON ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - WFTM Price: $2.02 Market Cap: $1,459,391,647.00 
+Staked: 22.3175 WFTM ($45.08)
+PROCYON Per Week: 21.00 ($0.85)
+APR: Day 0.27% Week 1.88% Year 97.55%
+You are staking 0.00 WFTM ($0.00), 0.00% of the pool.
+Stake 0.00 WFTM
+Unstake 0.00 WFTM - Fee 3%
+Claim 0.00 PROCYON ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - USDC Price: $1.00 Market Cap: $1,731,167,947.80 
+Staked: 11.0052 USDC ($11.01)
+PROCYON Per Week: 21.00 ($0.85)
+APR: Day 1.10% Week 7.68% Year 399.59%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC
+Unstake 0.00 USDC - Fee 3%
+Claim 0.00 PROCYON ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - ETH Price: $2,322.13 Market Cap: $1,107,891,836.25 
+Staked: 0.0020 ETH ($4.64)
+PROCYON Per Week: 21.00 ($0.85)
+APR: Day 2.60% Week 18.21% Year 946.89%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH
+Unstake 0.00 ETH - Fee 3%
+Claim 0.00 PROCYON ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - BTC Price: $35,903.00 Market Cap: $617,775,961.54 
+Staked: 0.0002 BTC ($5.93)
+PROCYON Per Week: 21.00 ($0.85)
+APR: Day 2.04% Week 14.25% Year 741.12%
+You are staking 0.00 BTC ($0.00), 0.00% of the pool.
+Stake 0.00 BTC
+Unstake 0.00 BTC - Fee 3%
+Claim 0.00 PROCYON ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - DAI Price: $1.00 Market Cap: $704,467,481.12 
+Staked: 14.6888 DAI ($14.69)
+PROCYON Per Week: 21.00 ($0.85)
+APR: Day 0.82% Week 5.76% Year 299.38%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI
+Unstake 0.00 DAI - Fee 3%
+Claim 0.00 PROCYON ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - fUSDT Price: $1.00 Market Cap: $350,441,901.33 
+Staked: 19.7482 fUSDT ($19.75)
+PROCYON Per Week: 21.00 ($0.85)
+APR: Day 0.61% Week 4.28% Year 222.68%
+You are staking 0.00 fUSDT ($0.00), 0.00% of the pool.
+Stake 0.00 fUSDT
+Unstake 0.00 fUSDT - Fee 3%
+Claim 0.00 PROCYON ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - BNB Price: $363.95 Market Cap: $13,803,212.24 
+Staked: 0.0578 BNB ($21.05)
+PROCYON Per Week: 21.00 ($0.85)
+APR: Day 0.57% Week 4.02% Year 208.88%
+You are staking 0.00 BNB ($0.00), 0.00% of the pool.
+Stake 0.00 BNB
+Unstake 0.00 BNB - Fee 3%
+Claim 0.00 PROCYON ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - BOO Price: $25.21 Market Cap: $212,699,543.54 
+Staked: 3.5223 BOO ($88.80)
+PROCYON Per Week: 21.00 ($0.85)
+APR: Day 0.14% Week 0.95% Year 49.52%
+You are staking 0.00 BOO ($0.00), 0.00% of the pool.
+Stake 0.00 BOO
+Unstake 0.00 BOO - Fee 3%
+Claim 0.00 PROCYON ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - BERRY Price: $0.00 Market Cap: $0.00 
+Staked: 4833.9259 BERRY ($0.00)
+PROCYON Per Week: 16.80 ($0.68)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BERRY ($0.00), NaN% of the pool.
+Stake 0.00 BERRY
+Unstake 0.00 BERRY - Fee 2%
+Claim 0.00 PROCYON ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $582.33

@@ -3,187 +3,20 @@
 INFO  : https://southpark.finance/
 *******************************************************************************************
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
-Fri Dec 17 2021 09:44:49 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 22:20:15 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
+Staking Contract
 Found 19 pools.
 Showing incentivized pools only.
-Finished reading smart contracts.
-0 - KENNY Price: $0.0000015448 Market Cap: $292.92 [%]
-Staked: 78055149.3418 KENNY ($120.58)
-KENNY Per Week: 1694117.65 ($2.62)
-APR: Day 0.31% Week 2.17% Year 112.86%
-You are staking 0.00 KENNY ($0.00), 0.00% of the pool.
-Stake 0.00 KENNY
-Unstake 0.00 KENNY
-Claim 0.00 KENNY ($0.00)
-Staking or unstaking also claims rewards.
-
-1 - KENNY Price: $0.0000015448 Market Cap: $292.92 [%]
-Staked: 78055149.3418 KENNY ($120.58)
-KENNY Per Week: 1694117.65 ($2.62)
-APR: Day 0.31% Week 2.17% Year 112.86%
-You are staking 0.00 KENNY ($0.00), 0.00% of the pool.
-Stake 0.00 KENNY
-Unstake 0.00 KENNY
-Claim 0.00 KENNY ($0.00)
-Staking or unstaking also claims rewards.
-
-2 - [USDC]-[KENNY] Uni LP [+] [-] [<=>] Price: $2,893.17 TVL: $193.83
-USDC Price: $1.00
-KENNY Price: $0.0000015448
-Staked: 0.0611 UNI-V2 ($176.64)
-KENNY Per Week: 3388235.29 ($5.23)
-APR: Day 0.42% Week 2.96% Year 154.08%
-You are staking 0.00 [USDC]-[KENNY] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[KENNY] Uni LP
-Unstake 0.00 [USDC]-[KENNY] Uni LP
-Claim 0.00 KENNY ($0.00)
-Staking or unstaking also claims rewards.
-
-3 - [WMATIC]-[KENNY] Uni LP [+] [-] [<=>] Price: $0.00 TVL: $45.85
-WMATIC Price: $2.08
-KENNY Price: $0.0000015448
-Staked: 8218.2588 UNI-V2 ($38.82)
-KENNY Per Week: 2258823.53 ($3.49)
-APR: Day 1.28% Week 8.99% Year 467.44%
-You are staking 0.00 [WMATIC]-[KENNY] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[KENNY] Uni LP
-Unstake 0.00 [WMATIC]-[KENNY] Uni LP
-Claim 0.00 KENNY ($0.00)
-Staking or unstaking also claims rewards.
-
-4 - [GEN]-[KENNY] Uni LP [+] [-] [<=>] Price: $0.00 TVL: $9.47
-GEN Price: $0.27
-KENNY Price: $0.0000015448
-Staked: 1288.6326 UNI-V2 ($1.90)
-KENNY Per Week: 451764.71 ($0.70)
-APR: Day 5.25% Week 36.75% Year 1910.82%
-You are staking 0.00 [GEN]-[KENNY] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [GEN]-[KENNY] Uni LP - Fee 1%
-Unstake 0.00 [GEN]-[KENNY] Uni LP
-Claim 0.00 KENNY ($0.00)
-Staking or unstaking also claims rewards.
-
-5 - [WMATIC]-[WBTC] Uni LP [+] [-] [<=>] Price: $1,653,568,088,750.54 TVL: $111,981.59
-WMATIC Price: $2.08
-WBTC Price: $47,535.00
-Staked: 0.0000 UNI-V2 ($44.06)
-KENNY Per Week: 847058.82 ($1.31)
-APR: Day 0.42% Week 2.97% Year 154.43%
-You are staking 0.00 [WMATIC]-[WBTC] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[WBTC] Uni LP - Fee 4%
-Unstake 0.00 [WMATIC]-[WBTC] Uni LP
-Claim 0.00 KENNY ($0.00)
-Staking or unstaking also claims rewards.
-
-6 - [WMATIC]-[WETH] Uni LP [+] [-] [<=>] Price: $239.78 TVL: $109,979,420.14
-WMATIC Price: $2.08
-WETH Price: $3,948.61
-Staked: 0.0404 UNI-V2 ($9.69)
-KENNY Per Week: 564705.88 ($0.87)
-APR: Day 1.29% Week 9.00% Year 468.20%
-You are staking 0.00 [WMATIC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[WETH] Uni LP - Fee 4%
-Unstake 0.00 [WMATIC]-[WETH] Uni LP
-Claim 0.00 KENNY ($0.00)
-Staking or unstaking also claims rewards.
-
-7 - [USDC]-[USDT] Uni LP [+] [-] [<=>] Price: $2,620,150,426,861.71 TVL: $24,052,221.75
-USDC Price: $1.00
-USDT Price: $1.00
-Staked: 0.0000 UNI-V2 ($25.98)
-KENNY Per Week: 451764.71 ($0.70)
-APR: Day 0.38% Week 2.69% Year 139.70%
-You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[USDT] Uni LP - Fee 4%
-Unstake 0.00 [USDC]-[USDT] Uni LP
-Claim 0.00 KENNY ($0.00)
-Staking or unstaking also claims rewards.
-
-8 - [USDC]-[DAI] Uni LP [+] [-] [<=>] Price: $76,277,848.84 TVL: $7,431,456.61
-USDC Price: $1.00
-DAI Price: $1.00
-Staked: 0.0000 UNI-V2 ($12.81)
-KENNY Per Week: 282352.94 ($0.44)
-APR: Day 0.49% Week 3.40% Year 177.03%
-You are staking 0.00 [USDC]-[DAI] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[DAI] Uni LP - Fee 4%
-Unstake 0.00 [USDC]-[DAI] Uni LP
-Claim 0.00 KENNY ($0.00)
-Staking or unstaking also claims rewards.
-
-12 - USDC Price: $1.00 Market Cap: $951,771,601.00 [%]
-Staked: 174.1828 USDC ($174.11)
-KENNY Per Week: 282352.94 ($0.44)
-APR: Day 0.04% Week 0.25% Year 13.03%
-You are staking 0.00 USDC ($0.00), 0.00% of the pool.
-Stake 0.00 USDC - Fee 4%
-Unstake 0.00 USDC
-Claim 0.00 KENNY ($0.00)
-Staking or unstaking also claims rewards.
-
-13 - USDT Price: $1.00 Market Cap: $318,730,138.11 [%]
-Staked: 42.4102 USDT ($42.27)
-KENNY Per Week: 282352.94 ($0.44)
-APR: Day 0.15% Week 1.03% Year 53.65%
-You are staking 0.00 USDT ($0.00), 0.00% of the pool.
-Stake 0.00 USDT - Fee 4%
-Unstake 0.00 USDT
-Claim 0.00 KENNY ($0.00)
-Staking or unstaking also claims rewards.
-
-14 - DAI Price: $1.00 Market Cap: $367,647,843.61 [%]
-Staked: 26.9275 DAI ($26.93)
-KENNY Per Week: 282352.94 ($0.44)
-APR: Day 0.23% Week 1.62% Year 84.23%
-You are staking 0.00 DAI ($0.00), 0.00% of the pool.
-Stake 0.00 DAI - Fee 4%
-Unstake 0.00 DAI
-Claim 0.00 KENNY ($0.00)
-Staking or unstaking also claims rewards.
-
-15 - GEN Price: $0.27 Market Cap: $54,119.60 [%]
-Staked: 295.0235 GEN ($79.21)
-KENNY Per Week: 338823.53 ($0.52)
-APR: Day 0.09% Week 0.66% Year 34.36%
-You are staking 0.00 GEN ($0.00), 0.00% of the pool.
-Stake 0.00 GEN - Fee 4%
-Unstake 0.00 GEN
-Claim 0.00 KENNY ($0.00)
-Staking or unstaking also claims rewards.
-
-16 - WMATIC Price: $2.08 Market Cap: $633,898,772.29 [%]
-Staked: 141.6122 WMATIC ($294.55)
-KENNY Per Week: 564705.88 ($0.87)
-APR: Day 0.04% Week 0.30% Year 15.40%
-You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
-Stake 0.00 WMATIC - Fee 4%
-Unstake 0.00 WMATIC
-Claim 0.00 KENNY ($0.00)
-Staking or unstaking also claims rewards.
-
-17 - WBTC Price: $47,535.00 Market Cap: $479,638,085.19 [%]
-Staked: 0.0004 WBTC ($19.24)
-KENNY Per Week: 564705.88 ($0.87)
-APR: Day 0.65% Week 4.53% Year 235.78%
-You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
-Stake 0.00 WBTC - Fee 4%
-Unstake 0.00 WBTC
-Claim 0.00 KENNY ($0.00)
-Staking or unstaking also claims rewards.
-
-18 - WETH Price: $3,948.61 Market Cap: $1,753,037,578.34 [%]
-Staked: 0.0234 WETH ($92.38)
-KENNY Per Week: 451764.71 ($0.70)
-APR: Day 0.11% Week 0.76% Year 39.28%
-You are staking 0.00 WETH ($0.00), 0.00% of the pool.
-Stake 0.00 WETH - Fee 4%
-Unstake 0.00 WETH
-Claim 0.00 KENNY ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $1,279.74
+{
+  "code": -32603,
+  "message": "Non-200 status code: '400'",
+  "data": {
+    "error": "Unable to verify your data submission."
+  }
+}
+Oops something went wrong. Try refreshing the page.

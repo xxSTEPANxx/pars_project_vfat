@@ -1,0 +1,99 @@
+********************************* POLIS **********************************
+
+*************** 👨‍🌾 UNOFFICIAL HADESSWAP FARMING CALCULATOR 👨‍🌾 **************
+INFO  : https://hadesswap.finance
+*************************************************************************
+
+Fri Jan 28 2022 01:17:24 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 7 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - SOUL Price: $0.00 Market Cap: $0.00 
+Staked: 7500835.6969 SOUL ($0.00)
+SOUL Per Week: 127008 ($958.19)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0 SOUL ($0.00), NaN% of the pool.
+Stake 0 SOUL
+Unstake 0 SOUL
+Claim 0 SOUL ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [DAI.bsc]-[WPOLIS] Hades Swap LP Token [+] [-] [<=>] Price: $1.23 TVL: $350,067.74
+DAI.bsc Price: $1.00
+WPOLIS Price: $0.36
+Staked: 278622.7773 HLP ($343,376.48)
+SOUL Per Week: 453600 ($3,422.10)
+APR: Day 0.14% Week 1.00% Year 51.82%
+You are staking 0 [DAI.bsc]-[WPOLIS] Hades Swap LP Token ($0.00), 0.00% of the pool.
+Stake 0 [DAI.bsc]-[WPOLIS] Hades Swap LP Token
+Unstake 0 [DAI.bsc]-[WPOLIS] Hades Swap LP Token
+Claim 0 SOUL ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WPOLIS]-[SOUL] Hades Swap LP Token [+] [-] [<=>] Price: $0.11 TVL: $105,871.35
+WPOLIS Price: $0.36
+SOUL Price: $0.007544
+Staked: 956484.6545 HLP ($103,006.45)
+SOUL Per Week: 290304 ($2,190.15)
+APR: Day 0.30% Week 2.13% Year 110.56%
+You are staking 0 [WPOLIS]-[SOUL] Hades Swap LP Token ($0.00), 0.00% of the pool.
+Stake 0 [WPOLIS]-[SOUL] Hades Swap LP Token
+Unstake 0 [WPOLIS]-[SOUL] Hades Swap LP Token
+Claim 0 SOUL ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [DAI.bsc]-[SOUL] Hades Swap LP Token [+] [-] [<=>] Price: $0.18 TVL: $57,288.62
+DAI.bsc Price: $1.00
+SOUL Price: $0.007544
+Staked: 317642.1443 HLP ($57,224.93)
+SOUL Per Week: 290304 ($2,190.15)
+APR: Day 0.55% Week 3.83% Year 199.02%
+You are staking 0 [DAI.bsc]-[SOUL] Hades Swap LP Token ($0.00), 0.00% of the pool.
+Stake 0 [DAI.bsc]-[SOUL] Hades Swap LP Token
+Unstake 0 [DAI.bsc]-[SOUL] Hades Swap LP Token
+Claim 0 SOUL ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [WPOLIS]-[BTC.bsc] Hades Swap LP Token [+] [-] [<=>] Price: $262.18 TVL: $129,641.52
+WPOLIS Price: $0.36
+BTC.bsc Price: $37,883.23
+Staked: 491.5490 HLP ($128,875.90)
+SOUL Per Week: 217728 ($1,642.61)
+APR: Day 0.18% Week 1.27% Year 66.28%
+You are staking 0 [WPOLIS]-[BTC.bsc] Hades Swap LP Token ($0.00), 0.00% of the pool.
+Stake 0 [WPOLIS]-[BTC.bsc] Hades Swap LP Token
+Unstake 0 [WPOLIS]-[BTC.bsc] Hades Swap LP Token
+Claim 0 SOUL ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WPOLIS]-[ETH.bsc] Hades Swap LP Token [+] [-] [<=>] Price: $60.78 TVL: $114,765.66
+WPOLIS Price: $0.36
+ETH.bsc Price: $2,348.39
+Staked: 1888.2771 HLP ($114,764.04)
+SOUL Per Week: 217728 ($1,642.61)
+APR: Day 0.20% Week 1.43% Year 74.43%
+You are staking 0 [WPOLIS]-[ETH.bsc] Hades Swap LP Token ($0.00), 0.00% of the pool.
+Stake 0 [WPOLIS]-[ETH.bsc] Hades Swap LP Token
+Unstake 0 [WPOLIS]-[ETH.bsc] Hades Swap LP Token
+Claim 0 SOUL ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [WPOLIS]-[CAKE.bsc] Hades Swap LP Token [+] [-] [<=>] Price: $3.29 TVL: $110,057.69
+WPOLIS Price: $0.36
+CAKE.bsc Price: $7.27
+Staked: 33480.0496 HLP ($110,007.12)
+SOUL Per Week: 217728 ($1,642.61)
+APR: Day 0.21% Week 1.49% Year 77.65%
+You are staking 0 [WPOLIS]-[CAKE.bsc] Hades Swap LP Token ($0.00), 0.00% of the pool.
+Stake 0 [WPOLIS]-[CAKE.bsc] Hades Swap LP Token
+Unstake 0 [WPOLIS]-[CAKE.bsc] Hades Swap LP Token
+Claim 0 SOUL ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $857,254.94

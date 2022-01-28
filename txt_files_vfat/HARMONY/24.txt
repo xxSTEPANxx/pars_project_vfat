@@ -1,0 +1,98 @@
+*************** 👨‍🌾 UNOFFICIAL ADENA FARMING CALCULATOR 👨‍🌾 ***************
+
+INFO  : https://adena.finance
+
+******************************************************************************
+
+Fri Jan 28 2022 01:04:39 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 10 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [ADENA]-[WONE] Uni LP [+] [-] [<=>] Price: $0.00 TVL: $276.44
+ADENA Price: $0.0000162413
+WONE Price: $0.18
+Staked: 33725.2918 ADENA-LP ($121.73)
+ADENA Per Week: 120588.96 ($1.96)
+APR: Day 0.23% Week 1.61% Year 83.66%
+You are staking 0.00 [ADENA]-[WONE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADENA]-[WONE] Uni LP
+Unstake 0.00 [ADENA]-[WONE] Uni LP
+Claim 0.00 ADENA ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [UST]-[ADENA] Uni LP [+] [-] [<=>] Price: $0.01 TVL: $111.34
+UST Price: $0.98
+ADENA Price: $0.0000162413
+Staked: 5319.6047 ADENA-LP ($44.33)
+ADENA Per Week: 48235.58 ($0.78)
+APR: Day 0.25% Week 1.77% Year 91.89%
+You are staking 0.00 [UST]-[ADENA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UST]-[ADENA] Uni LP
+Unstake 0.00 [UST]-[ADENA] Uni LP
+Claim 0.00 ADENA ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [UST]-[1ETH] Uni LP [+] [-] [<=>] Price: $97.69 TVL: $379.21
+UST Price: $0.98
+1ETH Price: $2,339.70
+Staked: 3.8795 ADENA-LP ($379.00)
+ADENA Per Week: 5426.50 ($0.09)
+APR: Day 0.00% Week 0.02% Year 1.21%
+You are staking 0.00 [UST]-[1ETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UST]-[1ETH] Uni LP
+Unstake 0.00 [UST]-[1ETH] Uni LP
+Claim 0.00 ADENA ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - WONE Price: $0.18 Market Cap: $134,869,646.43 
+Staked: 4740.5572 WONE ($830.87)
+ADENA Per Week: 7436.32 ($0.12)
+APR: Day 0.00% Week 0.01% Year 0.76%
+You are staking 0.00 WONE ($0.00), 0.00% of the pool.
+Stake 0.00 WONE
+Unstake 0.00 WONE
+Claim 0.00 ADENA ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [UST]-[WONE] Uni LP [+] [-] [<=>] Price: $0.87 TVL: $3,720.72
+UST Price: $0.98
+WONE Price: $0.18
+Staked: 4291.8843 ADENA-LP ($3,712.91)
+ADENA Per Week: 5426.50 ($0.09)
+APR: Day 0.00% Week 0.00% Year 0.12%
+You are staking 0.00 [UST]-[WONE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UST]-[WONE] Uni LP
+Unstake 0.00 [UST]-[WONE] Uni LP
+Claim 0.00 ADENA ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [bscBUSD]-[bscBNB] Uni LP [+] [-] [<=>] Price: $39.12 TVL: $411.28
+bscBUSD Price: $1.01
+bscBNB Price: $368.81
+Staked: 0.4576 ADENA-LP ($17.90)
+ADENA Per Week: 5426.50 ($0.09)
+APR: Day 0.07% Week 0.49% Year 25.60%
+You are staking 0.00 [bscBUSD]-[bscBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [bscBUSD]-[bscBNB] Uni LP
+Unstake 0.00 [bscBUSD]-[bscBNB] Uni LP
+Claim 0.00 ADENA ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [1USDC]-[BUSD] Uni LP [+] [-] [<=>] Price: $2,015,666.99 TVL: $804.75
+1USDC Price: $1.00
+BUSD Price: $0.99
+Staked: 0.0004 ADENA-LP ($804.33)
+ADENA Per Week: 4019.63 ($0.07)
+APR: Day 0.00% Week 0.01% Year 0.42%
+You are staking 0.00 [1USDC]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [1USDC]-[BUSD] Uni LP
+Unstake 0.00 [1USDC]-[BUSD] Uni LP
+Claim 0.00 ADENA ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $5,911.07

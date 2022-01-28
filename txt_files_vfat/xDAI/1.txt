@@ -1,0 +1,1627 @@
+********************************* xDAI **********************************
+    
+*************** 👨‍🌾 UNOFFICIAL BAOSWAP FARMING CALCULATOR 👨‍🌾 ************
+INFO  : https://farms.baoswap.xyz/farms/
+*************************************************************************
+
+Fri Jan 28 2022 00:04:50 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+*** Please note 95% of rewards are vesting. ***
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 143 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [BAO]-[WXDAI] Uni LP [+] [-] [<=>] Price: $0.03 TVL: $195,047.23
+BAO Price: $0.000183
+WXDAI Price: $1.00
+Staked: 4017982.4302 BAO-V2 ($116,548.41)
+BAO Per Week: 681244973 ($123,236.99)
+APR: Day 15.11% Week 105.74% Year 5498.42%
+You are staking 0 [BAO]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [BAO]-[WXDAI] Uni LP
+Unstake 0 [BAO]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WETH]-[BAO] Uni LP [+] [-] [<=>] Price: $1.37 TVL: $18,356.81
+WETH Price: $2,359.36
+BAO Price: $0.000183
+Staked: 9055.7428 BAO-V2 ($12,403.36)
+BAO Per Week: 557382251 ($100,830.27)
+APR: Day 116.13% Week 812.93% Year 42272.21%
+You are staking 0 [WETH]-[BAO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [WETH]-[BAO] Uni LP
+Unstake 0 [WETH]-[BAO] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - SLP Price: $0.00 Market Cap: $0.00 
+Staked: 95859.7946 SLP ($0.00)
+BAO Per Week: 495450890 ($89,626.90)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0 SLP ($0.00), NaN% of the pool.
+Stake 0 SLP
+Unstake 0 SLP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [BAO]-[BAO.cx] Uni LP [+] [-] [<=>] Price: $0.00 TVL: $57,106.70
+BAO Price: $0.000183
+BAO.cx Price: $0.000181
+Staked: 86456432.6760 BAO-V2 ($31,690.31)
+BAO Per Week: 681244973 ($123,236.99)
+APR: Day 55.55% Week 388.88% Year 20221.71%
+You are staking 0 [BAO]-[BAO.cx] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [BAO]-[BAO.cx] Uni LP
+Unstake 0 [BAO]-[BAO.cx] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - SLP Price: $0.00 Market Cap: $0.00 
+Staked: 0.1924 SLP ($0.00)
+BAO Per Week: 123862722 ($22,406.73)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0 SLP ($0.00), NaN% of the pool.
+Stake 0 SLP
+Unstake 0 SLP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - SLP Price: $0.00 Market Cap: $0.00 
+Staked: 15.0000 SLP ($0.00)
+BAO Per Week: 61931361 ($11,203.36)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0 SLP ($0.00), NaN% of the pool.
+Stake 0 SLP
+Unstake 0 SLP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - SLP Price: $0.00 Market Cap: $0.00 
+Staked: 94446.5520 SLP ($0.00)
+BAO Per Week: 61931361 ($11,203.36)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0 SLP ($0.00), NaN% of the pool.
+Stake 0 SLP
+Unstake 0 SLP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - SLP Price: $0.00 Market Cap: $0.00 
+Staked: 49959.0708 SLP ($0.00)
+BAO Per Week: 61931361 ($11,203.36)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0 SLP ($0.00), NaN% of the pool.
+Stake 0 SLP
+Unstake 0 SLP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - SLP Price: $0.00 Market Cap: $0.00 
+Staked: 134.3624 SLP ($0.00)
+BAO Per Week: 37158817 ($6,722.02)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0 SLP ($0.00), NaN% of the pool.
+Stake 0 SLP
+Unstake 0 SLP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - SLP Price: $0.00 Market Cap: $0.00 
+Staked: 0.0089 SLP ($0.00)
+BAO Per Week: 37158817 ($6,722.02)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0 SLP ($0.00), NaN% of the pool.
+Stake 0 SLP
+Unstake 0 SLP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [WXDAI]-[GRT] Uni LP [+] [-] [<=>] Price: $1.49 TVL: $4,325.33
+WXDAI Price: $1.00
+GRT Price: $0.49
+Staked: 734.3969 BAO-V2 ($1,096.18)
+BAO Per Week: 12386272 ($2,240.67)
+APR: Day 29.20% Week 204.41% Year 10629.15%
+You are staking 0 [WXDAI]-[GRT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [WXDAI]-[GRT] Uni LP
+Unstake 0 [WXDAI]-[GRT] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [WBTC]-[GRT] Uni LP [+] [-] [<=>] Price: $27,147,456.92 TVL: $8,217.74
+WBTC Price: $35,654.10
+GRT Price: $0.49
+Staked: 0.0002 BAO-V2 ($5,740.54)
+BAO Per Week: 12386272 ($2,240.67)
+APR: Day 5.58% Week 39.03% Year 2029.68%
+You are staking 0 [WBTC]-[GRT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [WBTC]-[GRT] Uni LP
+Unstake 0 [WBTC]-[GRT] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [RUNE]-[WXDAI] Uni LP [+] [-] [<=>] Price: $4.32 TVL: $3,662.28
+RUNE Price: $4.29
+WXDAI Price: $1.00
+Staked: 185.1483 BAO-V2 ($798.99)
+BAO Per Week: 12386272 ($2,240.67)
+APR: Day 40.06% Week 280.44% Year 14582.70%
+You are staking 0 [RUNE]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [RUNE]-[WXDAI] Uni LP
+Unstake 0 [RUNE]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [1INCH]-[WXDAI] Uni LP [+] [-] [<=>] Price: $3.09 TVL: $1,264.32
+1INCH Price: $1.55
+WXDAI Price: $1.00
+Staked: 366.5262 BAO-V2 ($1,131.77)
+BAO Per Week: 12386272 ($2,240.67)
+APR: Day 28.28% Week 197.98% Year 10294.92%
+You are staking 0 [1INCH]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [1INCH]-[WXDAI] Uni LP
+Unstake 0 [1INCH]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [NFTX]-[WXDAI] Uni LP [+] [-] [<=>] Price: $19.19 TVL: $29,040.75
+NFTX Price: $87.99
+WXDAI Price: $1.00
+Staked: 1234.7124 BAO-V2 ($23,700.00)
+BAO Per Week: 37158817 ($6,722.02)
+APR: Day 4.05% Week 28.36% Year 1474.87%
+You are staking 0 [NFTX]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [NFTX]-[WXDAI] Uni LP
+Unstake 0 [NFTX]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [stETH]-[WXDAI] Uni LP [+] [-] [<=>] Price: $98.89 TVL: $5,647.92
+stETH Price: $2,333.75
+WXDAI Price: $1.00
+Staked: 0.8407 BAO-V2 ($83.13)
+BAO Per Week: 12386272 ($2,240.67)
+APR: Day 385.05% Week 2695.36% Year 140158.79%
+You are staking 0 [stETH]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [stETH]-[WXDAI] Uni LP
+Unstake 0 [stETH]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [stETH]-[WETH] Uni LP [+] [-] [<=>] Price: $4,720.41 TVL: $25,253.67
+stETH Price: $2,333.75
+WETH Price: $2,359.36
+Staked: 0.0356 BAO-V2 ($168.21)
+BAO Per Week: 37158817 ($6,722.02)
+APR: Day 570.88% Week 3996.14% Year 207799.38%
+You are staking 0 [stETH]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [stETH]-[WETH] Uni LP
+Unstake 0 [stETH]-[WETH] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [WXDAI]-[TVK] Uni LP [+] [-] [<=>] Price: $0.68 TVL: $2,493.41
+WXDAI Price: $1.00
+TVK Price: $0.11
+Staked: 111.9568 BAO-V2 ($76.42)
+BAO Per Week: 12386272 ($2,240.67)
+APR: Day 418.84% Week 2931.91% Year 152459.47%
+You are staking 0 [WXDAI]-[TVK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [WXDAI]-[TVK] Uni LP
+Unstake 0 [WXDAI]-[TVK] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [WETH]-[WXDAI] Uni LP [+] [-] [<=>] Price: $107.17 TVL: $17,194.77
+WETH Price: $2,359.36
+WXDAI Price: $1.00
+Staked: 4.5138 BAO-V2 ($483.75)
+BAO Per Week: 61931361 ($11,203.36)
+APR: Day 330.85% Week 2315.93% Year 120428.60%
+You are staking 0 [WETH]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [WETH]-[WXDAI] Uni LP
+Unstake 0 [WETH]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [WBTC]-[WXDAI] Uni LP [+] [-] [<=>] Price: $44,238,054.14 TVL: $8,746.08
+WBTC Price: $35,654.10
+WXDAI Price: $1.00
+Staked: 0.0000 BAO-V2 ($318.08)
+BAO Per Week: 37158817 ($6,722.02)
+APR: Day 301.90% Week 2113.31% Year 109892.22%
+You are staking 0 [WBTC]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [WBTC]-[WXDAI] Uni LP
+Unstake 0 [WBTC]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - [LINK]-[WXDAI] Uni LP [+] [-] [<=>] Price: $8.19 TVL: $1,183.99
+LINK Price: $14.59
+WXDAI Price: $1.00
+Staked: 37.7365 BAO-V2 ($309.05)
+BAO Per Week: 30965681 ($5,601.68)
+APR: Day 258.93% Week 1812.53% Year 94251.42%
+You are staking 0 [LINK]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [LINK]-[WXDAI] Uni LP
+Unstake 0 [LINK]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - [USDC]-[WXDAI] Uni LP [+] [-] [<=>] Price: $2,173,402.96 TVL: $8,056.97
+USDC Price: $1.00
+WXDAI Price: $1.00
+Staked: 0.0016 BAO-V2 ($3,423.12)
+BAO Per Week: 37158817 ($6,722.02)
+APR: Day 28.05% Week 196.37% Year 10211.29%
+You are staking 0 [USDC]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [USDC]-[WXDAI] Uni LP
+Unstake 0 [USDC]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - [OKB]-[WXDAI] Uni LP [+] [-] [<=>] Price: $9.79 TVL: $6,766.00
+OKB Price: $22.93
+WXDAI Price: $1.00
+Staked: 100.7844 BAO-V2 ($987.13)
+BAO Per Week: 12386272 ($2,240.67)
+APR: Day 32.43% Week 226.99% Year 11803.37%
+You are staking 0 [OKB]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [OKB]-[WXDAI] Uni LP
+Unstake 0 [OKB]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [HT]-[WXDAI] Uni LP [+] [-] [<=>] Price: $5.79 TVL: $72.50
+HT Price: $8.14
+WXDAI Price: $1.00
+Staked: 11.2785 BAO-V2 ($65.30)
+BAO Per Week: 12386272 ($2,240.67)
+APR: Day 490.20% Week 3431.37% Year 178431.26%
+You are staking 0 [HT]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [HT]-[WXDAI] Uni LP
+Unstake 0 [HT]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - [AAVE]-[WXDAI] Uni LP [+] [-] [<=>] Price: $27.05 TVL: $50.98
+AAVE Price: $147.73
+WXDAI Price: $1.00
+Staked: 1.1309 BAO-V2 ($30.59)
+BAO Per Week: 37158817 ($6,722.02)
+APR: Day 3139.25% Week 21974.73% Year 1142686.16%
+You are staking 0 [AAVE]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [AAVE]-[WXDAI] Uni LP
+Unstake 0 [AAVE]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - [CEL]-[WXDAI] Uni LP [+] [-] [<=>] Price: $30,954,114.95 TVL: $295.95
+CEL Price: $2.33
+WXDAI Price: $1.00
+Staked: 0.0000 BAO-V2 ($0.00)
+BAO Per Week: 12386272 ($2,240.67)
+APR: Day 16952436997926.08% Week 118667058985482.59% Year 6170687067245095.00%
+You are staking 0 [CEL]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [CEL]-[WXDAI] Uni LP
+Unstake 0 [CEL]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - [SNX]-[WXDAI] Uni LP [+] [-] [<=>] Price: $4.44 TVL: $2,695.28
+SNX Price: $4.41
+WXDAI Price: $1.00
+Staked: 14.0111 BAO-V2 ($62.19)
+BAO Per Week: 37158817 ($6,722.02)
+APR: Day 1544.12% Week 10808.87% Year 562061.29%
+You are staking 0 [SNX]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [SNX]-[WXDAI] Uni LP
+Unstake 0 [SNX]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - [CRV]-[WXDAI] Uni LP [+] [-] [<=>] Price: $3.89 TVL: $736.15
+CRV Price: $3.01
+WXDAI Price: $1.00
+Staked: 157.3683 BAO-V2 ($612.25)
+BAO Per Week: 37158817 ($6,722.02)
+APR: Day 156.84% Week 1097.91% Year 57091.43%
+You are staking 0 [CRV]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [CRV]-[WXDAI] Uni LP
+Unstake 0 [CRV]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - [COMP]-[WXDAI] Uni LP [+] [-] [<=>] Price: $28.69 TVL: $256.35
+COMP Price: $193.19
+WXDAI Price: $1.00
+Staked: 1.0941 BAO-V2 ($31.39)
+BAO Per Week: 37158817 ($6,722.02)
+APR: Day 3059.00% Week 21413.01% Year 1113476.41%
+You are staking 0 [COMP]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [COMP]-[WXDAI] Uni LP
+Unstake 0 [COMP]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+29 - [MKR]-[WXDAI] Uni LP [+] [-] [<=>] Price: $87.40 TVL: $191.33
+MKR Price: $1,738.39
+WXDAI Price: $1.00
+Staked: 0.8396 BAO-V2 ($73.38)
+BAO Per Week: 37158817 ($6,722.02)
+APR: Day 1308.67% Week 9160.66% Year 476354.45%
+You are staking 0 [MKR]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [MKR]-[WXDAI] Uni LP
+Unstake 0 [MKR]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+30 - [FTX Token]-[WXDAI] Uni LP [+] [-] [<=>] Price: $12.50 TVL: $152.06
+FTX Token Price: $37.11
+WXDAI Price: $1.00
+Staked: 9.2111 BAO-V2 ($115.17)
+BAO Per Week: 37158817 ($6,722.02)
+APR: Day 833.80% Week 5836.61% Year 303503.80%
+You are staking 0 [FTX Token]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [FTX Token]-[WXDAI] Uni LP
+Unstake 0 [FTX Token]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+31 - [renBTC]-[WXDAI] Uni LP [+] [-] [<=>] Price: $38,630,939.20 TVL: $4,313.00
+renBTC Price: $36,684.10
+WXDAI Price: $1.00
+Staked: 0.0000 BAO-V2 ($179.21)
+BAO Per Week: 24772544 ($4,481.35)
+APR: Day 357.23% Week 2500.62% Year 130032.25%
+You are staking 0 [renBTC]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [renBTC]-[WXDAI] Uni LP
+Unstake 0 [renBTC]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+32 - [BAT]-[WXDAI] Uni LP [+] [-] [<=>] Price: $2.04 TVL: $15.67
+BAT Price: $0.83
+WXDAI Price: $1.00
+Staked: 2.1309 BAO-V2 ($4.34)
+BAO Per Week: 12386272 ($2,240.67)
+APR: Day 7377.15% Week 51640.03% Year 2685281.45%
+You are staking 0 [BAT]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [BAT]-[WXDAI] Uni LP
+Unstake 0 [BAT]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+33 - [TUSD]-[WXDAI] Uni LP [+] [-] [<=>] Price: $2.01 TVL: $303.64
+TUSD Price: $0.99
+WXDAI Price: $1.00
+Staked: 22.5635 BAO-V2 ($45.27)
+BAO Per Week: 12386272 ($2,240.67)
+APR: Day 707.10% Week 4949.73% Year 257386.04%
+You are staking 0 [TUSD]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [TUSD]-[WXDAI] Uni LP
+Unstake 0 [TUSD]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+34 - [HUSD]-[WXDAI] Uni LP [+] [-] [<=>] Price: $192,693.33 TVL: $6,554.79
+HUSD Price: $0.93
+WXDAI Price: $1.00
+Staked: 0.0338 BAO-V2 ($6,507.63)
+BAO Per Week: 18579408 ($3,361.01)
+APR: Day 7.38% Week 51.65% Year 2685.65%
+You are staking 0 [HUSD]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [HUSD]-[WXDAI] Uni LP
+Unstake 0 [HUSD]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+35 - [ZRX]-[WXDAI] Uni LP [+] [-] [<=>] Price: $1.59 TVL: $4,070.68
+ZRX Price: $0.60
+WXDAI Price: $1.00
+Staked: 1315.2323 BAO-V2 ($2,096.80)
+BAO Per Week: 37158817 ($6,722.02)
+APR: Day 45.80% Week 320.58% Year 16670.39%
+You are staking 0 [ZRX]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [ZRX]-[WXDAI] Uni LP
+Unstake 0 [ZRX]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+36 - [OCEAN]-[WXDAI] Uni LP [+] [-] [<=>] Price: $1.54 TVL: $5,026.07
+OCEAN Price: $0.56
+WXDAI Price: $1.00
+Staked: 74.8993 BAO-V2 ($115.34)
+BAO Per Week: 9289704 ($1,680.50)
+APR: Day 208.14% Week 1456.98% Year 75763.03%
+You are staking 0 [OCEAN]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [OCEAN]-[WXDAI] Uni LP
+Unstake 0 [OCEAN]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+37 - [KNC]-[WXDAI] Uni LP [+] [-] [<=>] Price: $2.75 TVL: $645.13
+KNC Price: $1.76
+WXDAI Price: $1.00
+Staked: 0.0000 BAO-V2 ($0.00)
+BAO Per Week: 9289704 ($1,680.50)
+APR: Day 141060420814344372224.00% Week 987422945700410556416.00% Year 5.134599317642135e+22%
+You are staking 0 [KNC]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [KNC]-[WXDAI] Uni LP
+Unstake 0 [KNC]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+38 - [RSR]-[WXDAI] Uni LP [+] [-] [<=>] Price: $0.38 TVL: $3,931.66
+RSR Price: $0.04
+WXDAI Price: $1.00
+Staked: 0.1291 BAO-V2 ($0.05)
+BAO Per Week: 9289704 ($1,680.50)
+APR: Day 483883.05% Week 3387181.32% Year 176133428.54%
+You are staking 0 [RSR]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [RSR]-[WXDAI] Uni LP
+Unstake 0 [RSR]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+39 - [ENJ]-[WXDAI] Uni LP [+] [-] [<=>] Price: $2.70 TVL: $145.57
+ENJ Price: $1.54
+WXDAI Price: $1.00
+Staked: 0.4651 BAO-V2 ($1.26)
+BAO Per Week: 9289704 ($1,680.50)
+APR: Day 19108.33% Week 133758.31% Year 6955432.21%
+You are staking 0 [ENJ]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [ENJ]-[WXDAI] Uni LP
+Unstake 0 [ENJ]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+40 - [NMR]-[WXDAI] Uni LP [+] [-] [<=>] Price: $10.84 TVL: $5,338.41
+NMR Price: $28.44
+WXDAI Price: $1.00
+Staked: 288.2397 BAO-V2 ($3,124.87)
+BAO Per Week: 18579408 ($3,361.01)
+APR: Day 15.37% Week 107.56% Year 5592.95%
+You are staking 0 [NMR]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [NMR]-[WXDAI] Uni LP
+Unstake 0 [NMR]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+41 - [BAL]-[WXDAI] Uni LP [+] [-] [<=>] Price: $7.07 TVL: $3,096.99
+BAL Price: $11.65
+WXDAI Price: $1.00
+Staked: 397.7083 BAO-V2 ($2,813.17)
+BAO Per Week: 37158817 ($6,722.02)
+APR: Day 34.14% Week 238.95% Year 12425.30%
+You are staking 0 [BAL]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [BAL]-[WXDAI] Uni LP
+Unstake 0 [BAL]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+42 - [MANA]-[WXDAI] Uni LP [+] [-] [<=>] Price: $3.31 TVL: $4,205.68
+MANA Price: $2.47
+WXDAI Price: $1.00
+Staked: 0.7104 BAO-V2 ($2.35)
+BAO Per Week: 6193136 ($1,120.34)
+APR: Day 6798.20% Week 47587.42% Year 2474545.86%
+You are staking 0 [MANA]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [MANA]-[WXDAI] Uni LP
+Unstake 0 [MANA]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+43 - [MATIC]-[WXDAI] Uni LP [+] [-] [<=>] Price: $2.97 TVL: $1,014.35
+MATIC Price: $1.53
+WXDAI Price: $1.00
+Staked: 0.0000 BAO-V2 ($0.00)
+BAO Per Week: 6193136 ($1,120.34)
+APR: Day 14358263899537190912.00% Week 100507847296760332288.00% Year 5.226408059431537e+21%
+You are staking 0 [MATIC]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [MATIC]-[WXDAI] Uni LP
+Unstake 0 [MATIC]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+44 - [SXP]-[WXDAI] Uni LP [+] [-] [<=>] Price: $2.36 TVL: $924.74
+SXP Price: $1.33
+WXDAI Price: $1.00
+Staked: 91.5665 BAO-V2 ($216.30)
+BAO Per Week: 6193136 ($1,120.34)
+APR: Day 73.99% Week 517.95% Year 26933.27%
+You are staking 0 [SXP]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [SXP]-[WXDAI] Uni LP
+Unstake 0 [SXP]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+45 - [HEGIC]-[WXDAI] Uni LP [+] [-] [<=>] Price: $1.02 TVL: $6.25
+HEGIC Price: $0.25
+WXDAI Price: $1.00
+Staked: 0.2884 BAO-V2 ($0.29)
+BAO Per Week: 6193136 ($1,120.34)
+APR: Day 54647.24% Week 382530.67% Year 19891595.05%
+You are staking 0 [HEGIC]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [HEGIC]-[WXDAI] Uni LP
+Unstake 0 [HEGIC]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+46 - [HBTC]-[WXDAI] Uni LP [+] [-] [<=>] Price: $476.57 TVL: $4,821.76
+HBTC Price: $56,410.20
+WXDAI Price: $1.00
+Staked: 0.6049 BAO-V2 ($288.28)
+BAO Per Week: 12386272 ($2,240.67)
+APR: Day 111.04% Week 777.25% Year 40416.89%
+You are staking 0 [HBTC]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [HBTC]-[WXDAI] Uni LP
+Unstake 0 [HBTC]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+47 - [MPH]-[WXDAI] Uni LP [+] [-] [<=>] Price: $9.28 TVL: $1,287.47
+MPH Price: $21.08
+WXDAI Price: $1.00
+Staked: 0.0973 BAO-V2 ($0.90)
+BAO Per Week: 18579408 ($3,361.01)
+APR: Day 53170.10% Week 372190.73% Year 19353918.11%
+You are staking 0 [MPH]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [MPH]-[WXDAI] Uni LP
+Unstake 0 [MPH]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+48 - [sUSD]-[WXDAI] Uni LP [+] [-] [<=>] Price: $2.09 TVL: $7,214.23
+sUSD Price: $1.00
+WXDAI Price: $1.00
+Staked: 12.9610 BAO-V2 ($27.10)
+BAO Per Week: 24772544 ($4,481.35)
+APR: Day 2362.14% Week 16534.97% Year 859818.29%
+You are staking 0 [sUSD]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [sUSD]-[WXDAI] Uni LP
+Unstake 0 [sUSD]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+49 - [MATH]-[WXDAI] Uni LP [+] [-] [<=>] Price: $1.25 TVL: $3,008.37
+MATH Price: $0.38
+WXDAI Price: $1.00
+Staked: 1383.0478 BAO-V2 ($1,724.77)
+BAO Per Week: 18579408 ($3,361.01)
+APR: Day 27.84% Week 194.87% Year 10133.09%
+You are staking 0 [MATH]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [MATH]-[WXDAI] Uni LP
+Unstake 0 [MATH]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+50 - [SRM]-[WXDAI] Uni LP [+] [-] [<=>] Price: $2,918,682.33 TVL: $7,466.85
+SRM Price: $2.05
+WXDAI Price: $1.00
+Staked: 0.0000 BAO-V2 ($106.31)
+BAO Per Week: 37158817 ($6,722.02)
+APR: Day 903.27% Week 6322.92% Year 328791.75%
+You are staking 0 [SRM]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [SRM]-[WXDAI] Uni LP
+Unstake 0 [SRM]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+51 - [RPL]-[WXDAI] Uni LP [+] [-] [<=>] Price: $10.74 TVL: $4,962.70
+RPL Price: $27.71
+WXDAI Price: $1.00
+Staked: 2.0210 BAO-V2 ($21.71)
+BAO Per Week: 3096568 ($560.17)
+APR: Day 368.61% Week 2580.24% Year 134172.62%
+You are staking 0 [RPL]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [RPL]-[WXDAI] Uni LP
+Unstake 0 [RPL]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+52 - [BNT]-[WXDAI] Uni LP [+] [-] [<=>] Price: $3.08 TVL: $1,629.06
+BNT Price: $2.30
+WXDAI Price: $1.00
+Staked: 437.2959 BAO-V2 ($1,346.44)
+BAO Per Week: 24772544 ($4,481.35)
+APR: Day 47.55% Week 332.83% Year 17307.09%
+You are staking 0 [BNT]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [BNT]-[WXDAI] Uni LP
+Unstake 0 [BNT]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+53 - [UBT]-[WXDAI] Uni LP [+] [-] [<=>] Price: $198,180.20 TVL: $2,948.24
+UBT Price: $0.92
+WXDAI Price: $1.00
+Staked: 0.0006 BAO-V2 ($124.92)
+BAO Per Week: 6193136 ($1,120.34)
+APR: Day 128.13% Week 896.88% Year 46637.70%
+You are staking 0 [UBT]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [UBT]-[WXDAI] Uni LP
+Unstake 0 [UBT]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+54 - [mUSD]-[WXDAI] Uni LP [+] [-] [<=>] Price: $1.94 TVL: $3,116.60
+mUSD Price: $0.91
+WXDAI Price: $1.00
+Staked: 562.9126 BAO-V2 ($1,093.61)
+BAO Per Week: 12386272 ($2,240.67)
+APR: Day 29.27% Week 204.89% Year 10654.17%
+You are staking 0 [mUSD]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [mUSD]-[WXDAI] Uni LP
+Unstake 0 [mUSD]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+55 - [EURS]-[WXDAI] Uni LP [+] [-] [<=>] Price: $213,202,485.38 TVL: $200.29
+EURS Price: $1.11
+WXDAI Price: $1.00
+Staked: 0.0000 BAO-V2 ($84.49)
+BAO Per Week: 37158817 ($6,722.02)
+APR: Day 1136.56% Week 7955.95% Year 413709.65%
+You are staking 0 [EURS]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [EURS]-[WXDAI] Uni LP
+Unstake 0 [EURS]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+56 - [AXS]-[WXDAI] Uni LP [+] [-] [<=>] Price: $19.40 TVL: $23.58
+AXS Price: $78.34
+WXDAI Price: $1.00
+Staked: 0.0004 BAO-V2 ($0.01)
+BAO Per Week: 12386272 ($2,240.67)
+APR: Day 3859356.74% Week 27015497.15% Year 1404805851.76%
+You are staking 0 [AXS]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [AXS]-[WXDAI] Uni LP
+Unstake 0 [AXS]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+57 - SLP Price: $0.00 Market Cap: $0.00 
+Staked: 3.5412 SLP ($0.00)
+BAO Per Week: 12386272 ($2,240.67)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0 SLP ($0.00), NaN% of the pool.
+Stake 0 SLP
+Unstake 0 SLP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+58 - SLP Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 SLP ($0.00)
+BAO Per Week: 12386272 ($2,240.67)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0 SLP ($0.00), NaN% of the pool.
+Stake 0 SLP
+Unstake 0 SLP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+59 - [WXDAI]-[MLN] Uni LP [+] [-] [<=>] Price: $15.02 TVL: $940.54
+WXDAI Price: $1.00
+MLN Price: $54.03
+Staked: 0.0003 BAO-V2 ($0.01)
+BAO Per Week: 9289704 ($1,680.50)
+APR: Day 4780457.12% Week 33463199.84% Year 1740086391.46%
+You are staking 0 [WXDAI]-[MLN] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [WXDAI]-[MLN] Uni LP
+Unstake 0 [WXDAI]-[MLN] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+60 - [DPI]-[WXDAI] Uni LP [+] [-] [<=>] Price: $27.63 TVL: $124.91
+DPI Price: $182.23
+WXDAI Price: $1.00
+Staked: 4.0329 BAO-V2 ($111.43)
+BAO Per Week: 37158817 ($6,722.02)
+APR: Day 861.79% Week 6032.55% Year 313692.74%
+You are staking 0 [DPI]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [DPI]-[WXDAI] Uni LP
+Unstake 0 [DPI]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+61 - [TBTC]-[WXDAI] Uni LP [+] [-] [<=>] Price: $381.00 TVL: $1,727.19
+TBTC Price: $34,807.50
+WXDAI Price: $1.00
+Staked: 0.1166 BAO-V2 ($44.42)
+BAO Per Week: 12386272 ($2,240.67)
+APR: Day 720.68% Week 5044.78% Year 262328.37%
+You are staking 0 [TBTC]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [TBTC]-[WXDAI] Uni LP
+Unstake 0 [TBTC]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+62 - [KP3R]-[WXDAI] Uni LP [+] [-] [<=>] Price: $71.93 TVL: $2,398.10
+KP3R Price: $1,252.04
+WXDAI Price: $1.00
+Staked: 2.6779 BAO-V2 ($192.62)
+BAO Per Week: 9289704 ($1,680.50)
+APR: Day 124.63% Week 872.44% Year 45366.94%
+You are staking 0 [KP3R]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [KP3R]-[WXDAI] Uni LP
+Unstake 0 [KP3R]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+63 - [AKRO]-[WXDAI] Uni LP [+] [-] [<=>] Price: $0.24 TVL: $39.42
+AKRO Price: $0.01
+WXDAI Price: $1.00
+Staked: 119.9880 BAO-V2 ($28.39)
+BAO Per Week: 6193136 ($1,120.34)
+APR: Day 563.84% Week 3946.85% Year 205235.95%
+You are staking 0 [AKRO]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [AKRO]-[WXDAI] Uni LP
+Unstake 0 [AKRO]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+64 - [MTA]-[WXDAI] Uni LP [+] [-] [<=>] Price: $1.92 TVL: $749.17
+MTA Price: $0.90
+WXDAI Price: $1.00
+Staked: 0.0002 BAO-V2 ($0.00)
+BAO Per Week: 9289704 ($1,680.50)
+APR: Day 58461307.46% Week 409229152.24% Year 21279915916.22%
+You are staking 0 [MTA]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [MTA]-[WXDAI] Uni LP
+Unstake 0 [MTA]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+65 - [TKN]-[WXDAI] Uni LP [+] [-] [<=>] Price: $84,561.26 TVL: $581.59
+TKN Price: $0.17
+WXDAI Price: $1.00
+Staked: 0.0005 BAO-V2 ($38.68)
+BAO Per Week: 3096568 ($560.17)
+APR: Day 206.86% Week 1448.04% Year 75297.99%
+You are staking 0 [TKN]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [TKN]-[WXDAI] Uni LP
+Unstake 0 [TKN]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+66 - [AUDIO]-[WXDAI] Uni LP [+] [-] [<=>] Price: $2.01 TVL: $622.94
+AUDIO Price: $0.88
+WXDAI Price: $1.00
+Staked: 301.8130 BAO-V2 ($606.72)
+BAO Per Week: 6193136 ($1,120.34)
+APR: Day 26.38% Week 184.65% Year 9602.05%
+You are staking 0 [AUDIO]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [AUDIO]-[WXDAI] Uni LP
+Unstake 0 [AUDIO]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+67 - [LIEN]-[WXDAI] Uni LP [+] [-] [<=>] Price: $319,807.46 TVL: $232.82
+LIEN Price: $2.46
+WXDAI Price: $1.00
+Staked: 0.0001 BAO-V2 ($36.82)
+BAO Per Week: 3096568 ($560.17)
+APR: Day 217.34% Week 1521.41% Year 79113.36%
+You are staking 0 [LIEN]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [LIEN]-[WXDAI] Uni LP
+Unstake 0 [LIEN]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+68 - [JRT]-[WXDAI] Uni LP [+] [-] [<=>] Price: $0.44 TVL: $1,016.75
+JRT Price: $0.05
+WXDAI Price: $1.00
+Staked: 0.1553 BAO-V2 ($0.07)
+BAO Per Week: 3096568 ($560.17)
+APR: Day 116792.83% Week 817549.78% Year 42512588.43%
+You are staking 0 [JRT]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [JRT]-[WXDAI] Uni LP
+Unstake 0 [JRT]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+69 - [BOND]-[WXDAI] Uni LP [+] [-] [<=>] Price: $5.28 TVL: $1.58
+BOND Price: $6.68
+WXDAI Price: $1.00
+Staked: 0.0095 BAO-V2 ($0.05)
+BAO Per Week: 3096568 ($560.17)
+APR: Day 160052.25% Week 1120365.77% Year 58259019.94%
+You are staking 0 [BOND]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [BOND]-[WXDAI] Uni LP
+Unstake 0 [BOND]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+70 - [INDEX]-[WXDAI] Uni LP [+] [-] [<=>] Price: $6.39 TVL: $2,026.05
+INDEX Price: $9.87
+WXDAI Price: $1.00
+Staked: 80.8487 BAO-V2 ($516.52)
+BAO Per Week: 24772544 ($4,481.35)
+APR: Day 123.94% Week 867.61% Year 45115.75%
+You are staking 0 [INDEX]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [INDEX]-[WXDAI] Uni LP
+Unstake 0 [INDEX]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+71 - [DOUGH]-[WXDAI] Uni LP [+] [-] [<=>] Price: $0.95 TVL: $209.25
+DOUGH Price: $0.22
+WXDAI Price: $1.00
+Staked: 149.7464 BAO-V2 ($142.71)
+BAO Per Week: 6193136 ($1,120.34)
+APR: Day 112.15% Week 785.04% Year 40822.32%
+You are staking 0 [DOUGH]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [DOUGH]-[WXDAI] Uni LP
+Unstake 0 [DOUGH]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+72 - [ROOK]-[WXDAI] Uni LP [+] [-] [<=>] Price: $20.67 TVL: $16,966.92
+ROOK Price: $103.07
+WXDAI Price: $1.00
+Staked: 785.7299 BAO-V2 ($16,239.40)
+BAO Per Week: 6193136 ($1,120.34)
+APR: Day 0.99% Week 6.90% Year 358.74%
+You are staking 0 [ROOK]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [ROOK]-[WXDAI] Uni LP
+Unstake 0 [ROOK]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+73 - [RSV]-[WXDAI] Uni LP [+] [-] [<=>] Price: $1.94 TVL: $4,593.40
+RSV Price: $0.93
+WXDAI Price: $1.00
+Staked: 136.3252 BAO-V2 ($264.18)
+BAO Per Week: 9289704 ($1,680.50)
+APR: Day 90.87% Week 636.12% Year 33078.33%
+You are staking 0 [RSV]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [RSV]-[WXDAI] Uni LP
+Unstake 0 [RSV]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+74 - [SOCKS]-[WXDAI] Uni LP [+] [-] [<=>] Price: $618.61 TVL: $5,243.27
+SOCKS Price: $93,078.94
+WXDAI Price: $1.00
+Staked: 0.5532 BAO-V2 ($342.20)
+BAO Per Week: 12386272 ($2,240.67)
+APR: Day 93.54% Week 654.78% Year 34048.32%
+You are staking 0 [SOCKS]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [SOCKS]-[WXDAI] Uni LP
+Unstake 0 [SOCKS]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+75 - [DONUT]-[WXDAI] Uni LP [+] [-] [<=>] Price: $0.12 TVL: $864.92
+DONUT Price: $0.003115
+WXDAI Price: $1.00
+Staked: 69.3036 BAO-V2 ($8.09)
+BAO Per Week: 3096568 ($560.17)
+APR: Day 989.27% Week 6924.91% Year 360095.35%
+You are staking 0 [DONUT]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [DONUT]-[WXDAI] Uni LP
+Unstake 0 [DONUT]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+76 - [GNO]-[WXDAI] Uni LP [+] [-] [<=>] Price: $32.99 TVL: $2,105.60
+GNO Price: $256.99
+WXDAI Price: $1.00
+Staked: 62.3796 BAO-V2 ($2,057.81)
+BAO Per Week: 12386272 ($2,240.67)
+APR: Day 15.56% Week 108.89% Year 5662.10%
+You are staking 0 [GNO]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [GNO]-[WXDAI] Uni LP
+Unstake 0 [GNO]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+77 - [RGT]-[WXDAI] Uni LP [+] [-] [<=>] Price: $10.10 TVL: $18,719.90
+RGT Price: $24.32
+WXDAI Price: $1.00
+Staked: 229.3310 BAO-V2 ($2,316.91)
+BAO Per Week: 12386272 ($2,240.67)
+APR: Day 13.82% Week 96.71% Year 5028.89%
+You are staking 0 [RGT]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [RGT]-[WXDAI] Uni LP
+Unstake 0 [RGT]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+78 - [REN]-[WXDAI] Uni LP [+] [-] [<=>] Price: $1.15 TVL: $4,840.73
+REN Price: $0.30
+WXDAI Price: $1.00
+Staked: 1697.1698 BAO-V2 ($1,958.07)
+BAO Per Week: 37158817 ($6,722.02)
+APR: Day 49.04% Week 343.30% Year 17851.49%
+You are staking 0 [REN]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [REN]-[WXDAI] Uni LP
+Unstake 0 [REN]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+79 - [RARI]-[WXDAI] Uni LP [+] [-] [<=>] Price: $8.58 TVL: $1,759.73
+RARI Price: $16.35
+WXDAI Price: $1.00
+Staked: 0.0001 BAO-V2 ($0.00)
+BAO Per Week: 12386272 ($2,240.67)
+APR: Day 37301514.92% Week 261110604.47% Year 13577751432.67%
+You are staking 0 [RARI]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [RARI]-[WXDAI] Uni LP
+Unstake 0 [RARI]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+80 - [IDLE]-[WXDAI] Uni LP [+] [-] [<=>] Price: $2.35 TVL: $346.05
+IDLE Price: $1.35
+WXDAI Price: $1.00
+Staked: 0.3216 BAO-V2 ($0.76)
+BAO Per Week: 3096568 ($560.17)
+APR: Day 10568.75% Week 73981.23% Year 3847023.98%
+You are staking 0 [IDLE]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [IDLE]-[WXDAI] Uni LP
+Unstake 0 [IDLE]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+81 - [PERP]-[WXDAI] Uni LP [+] [-] [<=>] Price: $5.38 TVL: $3,053.15
+PERP Price: $5.72
+WXDAI Price: $1.00
+Staked: 4.8341 BAO-V2 ($26.03)
+BAO Per Week: 24772544 ($4,481.35)
+APR: Day 2459.77% Week 17218.36% Year 895354.67%
+You are staking 0 [PERP]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [PERP]-[WXDAI] Uni LP
+Unstake 0 [PERP]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+82 - [API3]-[WXDAI] Uni LP [+] [-] [<=>] Price: $3.86 TVL: $1,179.60
+API3 Price: $3.57
+WXDAI Price: $1.00
+Staked: 300.1660 BAO-V2 ($1,158.46)
+BAO Per Week: 37158817 ($6,722.02)
+APR: Day 82.89% Week 580.25% Year 30173.26%
+You are staking 0 [API3]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [API3]-[WXDAI] Uni LP
+Unstake 0 [API3]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+83 - [FRONT]-[WXDAI] Uni LP [+] [-] [<=>] Price: $1.58 TVL: $637.44
+FRONT Price: $0.60
+WXDAI Price: $1.00
+Staked: 341.0642 BAO-V2 ($538.06)
+BAO Per Week: 37158817 ($6,722.02)
+APR: Day 178.47% Week 1249.31% Year 64964.34%
+You are staking 0 [FRONT]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [FRONT]-[WXDAI] Uni LP
+Unstake 0 [FRONT]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+84 - [TRU]-[WXDAI] Uni LP [+] [-] [<=>] Price: $105,697.47 TVL: $2,752.08
+TRU Price: $0.27
+WXDAI Price: $1.00
+Staked: 0.0056 BAO-V2 ($589.69)
+BAO Per Week: 12386272 ($2,240.67)
+APR: Day 54.28% Week 379.98% Year 19758.72%
+You are staking 0 [TRU]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [TRU]-[WXDAI] Uni LP
+Unstake 0 [TRU]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+85 - [DUCK]-[WXDAI] Uni LP [+] [-] [<=>] Price: $0.38 TVL: $296.64
+DUCK Price: $0.03
+WXDAI Price: $1.00
+Staked: 606.2302 BAO-V2 ($227.45)
+BAO Per Week: 6193136 ($1,120.34)
+APR: Day 70.37% Week 492.56% Year 25612.96%
+You are staking 0 [DUCK]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [DUCK]-[WXDAI] Uni LP
+Unstake 0 [DUCK]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+86 - [FRAX]-[WXDAI] Uni LP [+] [-] [<=>] Price: $2.00 TVL: $305.15
+FRAX Price: $1.00
+WXDAI Price: $1.00
+Staked: 149.9786 BAO-V2 ($299.82)
+BAO Per Week: 3096568 ($560.17)
+APR: Day 26.69% Week 186.84% Year 9715.56%
+You are staking 0 [FRAX]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [FRAX]-[WXDAI] Uni LP
+Unstake 0 [FRAX]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+87 - [USDT]-[USDC] Uni LP [+] [-] [<=>] Price: $2,026,264,768,660.64 TVL: $4,621.01
+USDT Price: $0.99
+USDC Price: $1.00
+Staked: 0.0000 BAO-V2 ($19.48)
+BAO Per Week: 12386272 ($2,240.67)
+APR: Day 1643.28% Week 11502.94% Year 598153.07%
+You are staking 0 [USDT]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [USDT]-[USDC] Uni LP
+Unstake 0 [USDT]-[USDC] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+88 - [MASK]-[WXDAI] Uni LP [+] [-] [<=>] Price: $4.99 TVL: $4,529.76
+MASK Price: $5.78
+WXDAI Price: $1.00
+Staked: 329.2396 BAO-V2 ($1,643.88)
+BAO Per Week: 24772544 ($4,481.35)
+APR: Day 38.94% Week 272.61% Year 14175.61%
+You are staking 0 [MASK]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [MASK]-[WXDAI] Uni LP
+Unstake 0 [MASK]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+89 - [TBTC]-[WBTC] Uni LP [+] [-] [<=>] Price: $7,113,487,878.78 TVL: $3,203.84
+TBTC Price: $34,807.50
+WBTC Price: $35,654.10
+Staked: 0.0000 BAO-V2 ($688.80)
+BAO Per Week: 12386272 ($2,240.67)
+APR: Day 46.47% Week 325.30% Year 16915.76%
+You are staking 0 [TBTC]-[WBTC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [TBTC]-[WBTC] Uni LP
+Unstake 0 [TBTC]-[WBTC] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+90 - [SUSHI]-[WBTC] Uni LP [+] [-] [<=>] Price: $80,941,028.61 TVL: $2,309.93
+SUSHI Price: $3.87
+WBTC Price: $35,654.10
+Staked: 0.0000 BAO-V2 ($20.38)
+BAO Per Week: 12386272 ($2,240.67)
+APR: Day 1570.37% Week 10992.56% Year 571613.00%
+You are staking 0 [SUSHI]-[WBTC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [SUSHI]-[WBTC] Uni LP
+Unstake 0 [SUSHI]-[WBTC] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+91 - [WBTC]-[YFI] Uni LP [+] [-] [<=>] Price: $5,917,608,594.46 TVL: $3,664.06
+WBTC Price: $35,654.10
+YFI Price: $23,474.52
+Staked: 0.0000 BAO-V2 ($0.60)
+BAO Per Week: 12386272 ($2,240.67)
+APR: Day 53247.14% Week 372730.00% Year 19381959.83%
+You are staking 0 [WBTC]-[YFI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [WBTC]-[YFI] Uni LP
+Unstake 0 [WBTC]-[YFI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+92 - [UNI]-[WBTC] Uni LP [+] [-] [<=>] Price: $143,237,327.49 TVL: $2,131.82
+UNI Price: $13.29
+WBTC Price: $35,654.10
+Staked: 0.0000 BAO-V2 ($10.88)
+BAO Per Week: 12386272 ($2,240.67)
+APR: Day 2942.71% Week 20598.98% Year 1071146.82%
+You are staking 0 [UNI]-[WBTC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [UNI]-[WBTC] Uni LP
+Unstake 0 [UNI]-[WBTC] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+93 - [BAL]-[WBTC] Uni LP [+] [-] [<=>] Price: $130,777,834.18 TVL: $3,051.08
+BAL Price: $11.65
+WBTC Price: $35,654.10
+Staked: 0.0000 BAO-V2 ($0.00)
+BAO Per Week: 12386272 ($2,240.67)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0 [BAL]-[WBTC] Uni LP ($0.00), NaN% of the pool.
+Stake 0 [BAL]-[WBTC] Uni LP
+Unstake 0 [BAL]-[WBTC] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+94 - [WBTC]-[LINK] Uni LP [+] [-] [<=>] Price: $149,316,259.39 TVL: $2,737.38
+WBTC Price: $35,654.10
+LINK Price: $14.59
+Staked: 0.0000 BAO-V2 ($3.83)
+BAO Per Week: 12386272 ($2,240.67)
+APR: Day 8363.30% Week 58543.10% Year 3044241.07%
+You are staking 0 [WBTC]-[LINK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [WBTC]-[LINK] Uni LP
+Unstake 0 [WBTC]-[LINK] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+95 - [FTX Token]-[WBTC] Uni LP [+] [-] [<=>] Price: $242,947,683.94 TVL: $1,119.15
+FTX Token Price: $37.11
+WBTC Price: $35,654.10
+Staked: 0.0000 BAO-V2 ($1.57)
+BAO Per Week: 12386272 ($2,240.67)
+APR: Day 20360.98% Week 142526.88% Year 7411397.77%
+You are staking 0 [FTX Token]-[WBTC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [FTX Token]-[WBTC] Uni LP
+Unstake 0 [FTX Token]-[WBTC] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+96 - [WBTC]-[AAVE] Uni LP [+] [-] [<=>] Price: $480,861,215.52 TVL: $12,171.01
+WBTC Price: $35,654.10
+AAVE Price: $147.73
+Staked: 0.0000 BAO-V2 ($10,528.36)
+BAO Per Week: 12386272 ($2,240.67)
+APR: Day 3.04% Week 21.28% Year 1106.68%
+You are staking 0 [WBTC]-[AAVE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [WBTC]-[AAVE] Uni LP
+Unstake 0 [WBTC]-[AAVE] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+97 - [SNX]-[WBTC] Uni LP [+] [-] [<=>] Price: $82,655,472.87 TVL: $898.08
+SNX Price: $4.41
+WBTC Price: $35,654.10
+Staked: 0.0000 BAO-V2 ($46.98)
+BAO Per Week: 12386272 ($2,240.67)
+APR: Day 681.38% Week 4769.67% Year 248022.70%
+You are staking 0 [SNX]-[WBTC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [SNX]-[WBTC] Uni LP
+Unstake 0 [SNX]-[WBTC] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+99 - [HNY]-[WXDAI] Uni LP [+] [-] [<=>] Price: $32.12 TVL: $4,129.51
+HNY Price: $209.11
+WXDAI Price: $1.00
+Staked: 80.2945 BAO-V2 ($2,579.06)
+BAO Per Week: 12386272 ($2,240.67)
+APR: Day 12.41% Week 86.88% Year 4517.73%
+You are staking 0 [HNY]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [HNY]-[WXDAI] Uni LP
+Unstake 0 [HNY]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+100 - [HNY]-[BAO] Uni LP [+] [-] [<=>] Price: $0.41 TVL: $1,172.67
+HNY Price: $209.11
+BAO Price: $0.000183
+Staked: 2139.8535 BAO-V2 ($884.62)
+BAO Per Week: 37158817 ($6,722.02)
+APR: Day 108.55% Week 759.88% Year 39513.54%
+You are staking 0 [HNY]-[BAO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [HNY]-[BAO] Uni LP
+Unstake 0 [HNY]-[BAO] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+101 - [AGVE]-[WXDAI] Uni LP [+] [-] [<=>] Price: $20.26 TVL: $734.86
+AGVE Price: $88.73
+WXDAI Price: $1.00
+Staked: 6.2005 BAO-V2 ($125.62)
+BAO Per Week: 24772544 ($4,481.35)
+APR: Day 509.63% Week 3567.43% Year 185506.40%
+You are staking 0 [AGVE]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [AGVE]-[WXDAI] Uni LP
+Unstake 0 [AGVE]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+102 - SLP Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 SLP ($0.00)
+BAO Per Week: 12386272 ($2,240.67)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0 SLP ($0.00), NaN% of the pool.
+Stake 0 SLP
+Unstake 0 SLP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+103 - SLP Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 SLP ($0.00)
+BAO Per Week: 12386272 ($2,240.67)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0 SLP ($0.00), NaN% of the pool.
+Stake 0 SLP
+Unstake 0 SLP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+104 - [USDT]-[WXDAI] Uni LP [+] [-] [<=>] Price: $2,064,666.32 TVL: $437.63
+USDT Price: $0.99
+WXDAI Price: $1.00
+Staked: 0.0001 BAO-V2 ($159.73)
+BAO Per Week: 12386272 ($2,240.67)
+APR: Day 200.40% Week 1402.83% Year 72947.07%
+You are staking 0 [USDT]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [USDT]-[WXDAI] Uni LP
+Unstake 0 [USDT]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+105 - TMOON Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 TMOON ($0.00)
+BAO Per Week: 12386 ($2.24)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0 TMOON ($0.00), NaN% of the pool.
+Stake 0 TMOON
+Unstake 0 TMOON
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+106 - [WBTC]-[DPI] Uni LP [+] [-] [<=>] Price: $566,034,596.44 TVL: $3,663.92
+WBTC Price: $35,654.10
+DPI Price: $182.23
+Staked: 0.0000 BAO-V2 ($1,792.41)
+BAO Per Week: 12386272 ($2,240.67)
+APR: Day 17.86% Week 125.01% Year 6500.45%
+You are staking 0 [WBTC]-[DPI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [WBTC]-[DPI] Uni LP
+Unstake 0 [WBTC]-[DPI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+107 - SLP Price: $0.00 Market Cap: $0.00 
+Staked: 0.0019 SLP ($0.00)
+BAO Per Week: 37158817 ($6,722.02)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0 SLP ($0.00), NaN% of the pool.
+Stake 0 SLP
+Unstake 0 SLP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+108 - SLP Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 SLP ($0.00)
+BAO Per Week: 9289704 ($1,680.50)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0 SLP ($0.00), NaN% of the pool.
+Stake 0 SLP
+Unstake 0 SLP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+109 - SLP Price: $0.00 Market Cap: $0.00 
+Staked: 3.5723 SLP ($0.00)
+BAO Per Week: 9289704 ($1,680.50)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0 SLP ($0.00), NaN% of the pool.
+Stake 0 SLP
+Unstake 0 SLP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+110 - SLP Price: $0.00 Market Cap: $0.00 
+Staked: 0.2030 SLP ($0.00)
+BAO Per Week: 9289704 ($1,680.50)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0 SLP ($0.00), NaN% of the pool.
+Stake 0 SLP
+Unstake 0 SLP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+111 - SLP Price: $0.00 Market Cap: $0.00 
+Staked: 4.9217 SLP ($0.00)
+BAO Per Week: 9289704 ($1,680.50)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0 SLP ($0.00), NaN% of the pool.
+Stake 0 SLP
+Unstake 0 SLP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+112 - SLP Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 SLP ($0.00)
+BAO Per Week: 9289704 ($1,680.50)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0 SLP ($0.00), NaN% of the pool.
+Stake 0 SLP
+Unstake 0 SLP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+113 - SLP Price: $0.00 Market Cap: $0.00 
+Staked: 0.4835 SLP ($0.00)
+BAO Per Week: 9289704 ($1,680.50)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0 SLP ($0.00), NaN% of the pool.
+Stake 0 SLP
+Unstake 0 SLP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+114 - SLP Price: $0.00 Market Cap: $0.00 
+Staked: 13.1688 SLP ($0.00)
+BAO Per Week: 9289704 ($1,680.50)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0 SLP ($0.00), NaN% of the pool.
+Stake 0 SLP
+Unstake 0 SLP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+115 - SLP Price: $0.00 Market Cap: $0.00 
+Staked: 1.9192 SLP ($0.00)
+BAO Per Week: 9289704 ($1,680.50)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0 SLP ($0.00), NaN% of the pool.
+Stake 0 SLP
+Unstake 0 SLP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+116 - SLP Price: $0.00 Market Cap: $0.00 
+Staked: 14.6991 SLP ($0.00)
+BAO Per Week: 9289704 ($1,680.50)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0 SLP ($0.00), NaN% of the pool.
+Stake 0 SLP
+Unstake 0 SLP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+117 - SLP Price: $0.00 Market Cap: $0.00 
+Staked: 0.6732 SLP ($0.00)
+BAO Per Week: 9289704 ($1,680.50)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0 SLP ($0.00), NaN% of the pool.
+Stake 0 SLP
+Unstake 0 SLP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+118 - SLP Price: $0.00 Market Cap: $0.00 
+Staked: 4.4028 SLP ($0.00)
+BAO Per Week: 9289704 ($1,680.50)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0 SLP ($0.00), NaN% of the pool.
+Stake 0 SLP
+Unstake 0 SLP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+119 - SLP Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 SLP ($0.00)
+BAO Per Week: 9289704 ($1,680.50)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0 SLP ($0.00), NaN% of the pool.
+Stake 0 SLP
+Unstake 0 SLP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+120 - SLP Price: $0.00 Market Cap: $0.00 
+Staked: 19.7789 SLP ($0.00)
+BAO Per Week: 9289704 ($1,680.50)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0 SLP ($0.00), NaN% of the pool.
+Stake 0 SLP
+Unstake 0 SLP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+121 - SLP Price: $0.00 Market Cap: $0.00 
+Staked: 3.0147 SLP ($0.00)
+BAO Per Week: 9289704 ($1,680.50)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0 SLP ($0.00), NaN% of the pool.
+Stake 0 SLP
+Unstake 0 SLP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+122 - SLP Price: $0.00 Market Cap: $0.00 
+Staked: 0.4324 SLP ($0.00)
+BAO Per Week: 9289704 ($1,680.50)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0 SLP ($0.00), NaN% of the pool.
+Stake 0 SLP
+Unstake 0 SLP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+123 - SLP Price: $0.00 Market Cap: $0.00 
+Staked: 15.0461 SLP ($0.00)
+BAO Per Week: 9289704 ($1,680.50)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0 SLP ($0.00), NaN% of the pool.
+Stake 0 SLP
+Unstake 0 SLP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+124 - SLP Price: $0.00 Market Cap: $0.00 
+Staked: 1.4722 SLP ($0.00)
+BAO Per Week: 9289704 ($1,680.50)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0 SLP ($0.00), NaN% of the pool.
+Stake 0 SLP
+Unstake 0 SLP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+125 - SLP Price: $0.00 Market Cap: $0.00 
+Staked: 30.2610 SLP ($0.00)
+BAO Per Week: 9289704 ($1,680.50)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0 SLP ($0.00), NaN% of the pool.
+Stake 0 SLP
+Unstake 0 SLP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+126 - SLP Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 SLP ($0.00)
+BAO Per Week: 9289704 ($1,680.50)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0 SLP ($0.00), NaN% of the pool.
+Stake 0 SLP
+Unstake 0 SLP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+127 - SLP Price: $0.00 Market Cap: $0.00 
+Staked: 0.2875 SLP ($0.00)
+BAO Per Week: 9289704 ($1,680.50)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0 SLP ($0.00), NaN% of the pool.
+Stake 0 SLP
+Unstake 0 SLP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+128 - SLP Price: $0.00 Market Cap: $0.00 
+Staked: 4.0368 SLP ($0.00)
+BAO Per Week: 9289704 ($1,680.50)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0 SLP ($0.00), NaN% of the pool.
+Stake 0 SLP
+Unstake 0 SLP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+129 - SLP Price: $0.00 Market Cap: $0.00 
+Staked: 0.1429 SLP ($0.00)
+BAO Per Week: 9289704 ($1,680.50)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0 SLP ($0.00), NaN% of the pool.
+Stake 0 SLP
+Unstake 0 SLP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+130 - SLP Price: $0.00 Market Cap: $0.00 
+Staked: 0.2862 SLP ($0.00)
+BAO Per Week: 9289704 ($1,680.50)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0 SLP ($0.00), NaN% of the pool.
+Stake 0 SLP
+Unstake 0 SLP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+131 - SLP Price: $0.00 Market Cap: $0.00 
+Staked: 0.3560 SLP ($0.00)
+BAO Per Week: 9289704 ($1,680.50)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0 SLP ($0.00), NaN% of the pool.
+Stake 0 SLP
+Unstake 0 SLP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+132 - SLP Price: $0.00 Market Cap: $0.00 
+Staked: 0.8988 SLP ($0.00)
+BAO Per Week: 9289704 ($1,680.50)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0 SLP ($0.00), NaN% of the pool.
+Stake 0 SLP
+Unstake 0 SLP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+133 - SLP Price: $0.00 Market Cap: $0.00 
+Staked: 0.2281 SLP ($0.00)
+BAO Per Week: 9289704 ($1,680.50)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0 SLP ($0.00), NaN% of the pool.
+Stake 0 SLP
+Unstake 0 SLP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+134 - SLP Price: $0.00 Market Cap: $0.00 
+Staked: 3.2210 SLP ($0.00)
+BAO Per Week: 9289704 ($1,680.50)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0 SLP ($0.00), NaN% of the pool.
+Stake 0 SLP
+Unstake 0 SLP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+135 - SLP Price: $0.00 Market Cap: $0.00 
+Staked: 5.6823 SLP ($0.00)
+BAO Per Week: 9289704 ($1,680.50)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0 SLP ($0.00), NaN% of the pool.
+Stake 0 SLP
+Unstake 0 SLP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+136 - SLP Price: $0.00 Market Cap: $0.00 
+Staked: 0.0937 SLP ($0.00)
+BAO Per Week: 9289704 ($1,680.50)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0 SLP ($0.00), NaN% of the pool.
+Stake 0 SLP
+Unstake 0 SLP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+137 - SLP Price: $0.00 Market Cap: $0.00 
+Staked: 3.1601 SLP ($0.00)
+BAO Per Week: 9289704 ($1,680.50)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0 SLP ($0.00), NaN% of the pool.
+Stake 0 SLP
+Unstake 0 SLP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+138 - SLP Price: $0.00 Market Cap: $0.00 
+Staked: 1.5647 SLP ($0.00)
+BAO Per Week: 9289704 ($1,680.50)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0 SLP ($0.00), NaN% of the pool.
+Stake 0 SLP
+Unstake 0 SLP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+139 - SLP Price: $0.00 Market Cap: $0.00 
+Staked: 0.3515 SLP ($0.00)
+BAO Per Week: 9289704 ($1,680.50)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0 SLP ($0.00), NaN% of the pool.
+Stake 0 SLP
+Unstake 0 SLP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+140 - SLP Price: $0.00 Market Cap: $0.00 
+Staked: 0.9077 SLP ($0.00)
+BAO Per Week: 9289704 ($1,680.50)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0 SLP ($0.00), NaN% of the pool.
+Stake 0 SLP
+Unstake 0 SLP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+141 - SLP Price: $0.00 Market Cap: $0.00 
+Staked: 0.7216 SLP ($0.00)
+BAO Per Week: 9289704 ($1,680.50)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0 SLP ($0.00), NaN% of the pool.
+Stake 0 SLP
+Unstake 0 SLP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+142 - [NEXO]-[WXDAI] Uni LP [+] [-] [<=>] Price: $2.67 TVL: $406.70
+NEXO Price: $1.70
+WXDAI Price: $1.00
+Staked: 150.2598 BAO-V2 ($401.89)
+BAO Per Week: 12386272 ($2,240.67)
+APR: Day 79.65% Week 557.54% Year 28991.83%
+You are staking 0 [NEXO]-[WXDAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0 [NEXO]-[WXDAI] Uni LP
+Unstake 0 [NEXO]-[WXDAI] Uni LP
+Claim 0 BAO ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $266,527.61

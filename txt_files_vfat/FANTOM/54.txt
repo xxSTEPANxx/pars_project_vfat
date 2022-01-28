@@ -1,0 +1,183 @@
+***************************** FANTOM NETWORK *************************************
+    
+*************** 🦊 👨‍🌾 🦊 UNOFFICIAL FOXY FINANCE FARMING CALCULATOR 🦊 👨‍🌾  🦊*********************
+
+
+INFO  : https://foxyfinance.co/
+
+
+***********************************************************************************
+
+Fri Jan 28 2022 00:44:03 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 15 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [FOXY]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $0.02 TVL: $96.88
+FOXY Price: $0.0000396600
+WFTM Price: $2.02
+Staked: 3997.4556 spLP ($76.26)
+FOXY Per Week: 64590.29 ($2.56)
+APR: Day 0.48% Week 3.36% Year 174.66%
+You are staking 0.00 [FOXY]-[WFTM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FOXY]-[WFTM] SPOOKY LP
+Unstake 0.00 [FOXY]-[WFTM] SPOOKY LP
+Claim 0.00 FOXY ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [USDC]-[FOXY] SPOOKY LP [+] [-] [<=>] Price: $13,144.89 TVL: $45.98
+USDC Price: $1.00
+FOXY Price: $0.0000396600
+Staked: 0.0032 spLP ($42.35)
+FOXY Per Week: 64590.29 ($2.56)
+APR: Day 0.86% Week 6.05% Year 314.54%
+You are staking 0.00 [USDC]-[FOXY] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[FOXY] SPOOKY LP
+Unstake 0.00 [USDC]-[FOXY] SPOOKY LP
+Claim 0.00 FOXY ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - FOXY Price: $0.0000396600 Market Cap: $143.84 
+Staked: 1306807.4051 FOXY ($51.83)
+FOXY Per Week: 64590.29 ($2.56)
+APR: Day 0.71% Week 4.94% Year 257.02%
+You are staking 0.00 FOXY ($0.00), 0.00% of the pool.
+Stake 0.00 FOXY
+Unstake 0.00 FOXY
+Claim 0.00 FOXY ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - WFTM Price: $2.02 Market Cap: $1,459,291,460.14 
+Staked: 14.8300 WFTM ($29.96)
+FOXY Per Week: 16147.57 ($0.64)
+APR: Day 0.31% Week 2.14% Year 111.17%
+You are staking 0.00 WFTM ($0.00), 0.00% of the pool.
+Stake 0.00 WFTM
+Unstake 0.00 WFTM - Fee 4%
+Claim 0.00 FOXY ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - USDC Price: $1.00 Market Cap: $1,731,871,441.87 
+Staked: 16.9822 USDC ($16.98)
+FOXY Per Week: 12918.06 ($0.51)
+APR: Day 0.43% Week 3.02% Year 156.88%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC
+Unstake 0.00 USDC - Fee 4%
+Claim 0.00 FOXY ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - ETH Price: $2,320.36 Market Cap: $1,107,047,366.49 
+Staked: 0.0106 ETH ($24.68)
+FOXY Per Week: 9688.54 ($0.38)
+APR: Day 0.22% Week 1.56% Year 80.95%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH
+Unstake 0.00 ETH - Fee 4%
+Claim 0.00 FOXY ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - BTC Price: $35,884.00 Market Cap: $617,449,032.23 
+Staked: 0.0002 BTC ($7.49)
+FOXY Per Week: 9688.54 ($0.38)
+APR: Day 0.73% Week 5.13% Year 266.84%
+You are staking 0.00 BTC ($0.00), 0.00% of the pool.
+Stake 0.00 BTC
+Unstake 0.00 BTC - Fee 4%
+Claim 0.00 FOXY ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - DAI Price: $1.00 Market Cap: $706,482,504.19 
+Staked: 96.1032 DAI ($96.10)
+FOXY Per Week: 9688.54 ($0.38)
+APR: Day 0.06% Week 0.40% Year 20.79%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI
+Unstake 0.00 DAI - Fee 4%
+Claim 0.00 FOXY ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - fUSDT Price: $1.00 Market Cap: $350,442,101.33 
+Staked: 26.9152 fUSDT ($26.92)
+FOXY Per Week: 9688.54 ($0.38)
+APR: Day 0.20% Week 1.43% Year 74.24%
+You are staking 0.00 fUSDT ($0.00), 0.00% of the pool.
+Stake 0.00 fUSDT
+Unstake 0.00 fUSDT - Fee 4%
+Claim 0.00 FOXY ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - BNB Price: $363.94 Market Cap: $13,802,832.98 
+Staked: 0.0238 BNB ($8.65)
+FOXY Per Week: 9688.54 ($0.38)
+APR: Day 0.63% Week 4.44% Year 231.02%
+You are staking 0.00 BNB ($0.00), 0.00% of the pool.
+Stake 0.00 BNB
+Unstake 0.00 BNB - Fee 4%
+Claim 0.00 FOXY ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - BOO Price: $25.19 Market Cap: $212,530,632.91 
+Staked: 0.6041 BOO ($15.22)
+FOXY Per Week: 6459.03 ($0.26)
+APR: Day 0.24% Week 1.68% Year 87.54%
+You are staking 0.00 BOO ($0.00), 0.00% of the pool.
+Stake 0.00 BOO
+Unstake 0.00 BOO - Fee 4%
+Claim 0.00 FOXY ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [WFTM]-[BOO] SPOOKY LP [+] [-] [<=>] Price: $14.91 TVL: $63,159,825.43
+WFTM Price: $2.02
+BOO Price: $25.19
+Staked: 2.2528 spLP ($33.59)
+FOXY Per Week: 16147.57 ($0.64)
+APR: Day 0.27% Week 1.91% Year 99.14%
+You are staking 0.00 [WFTM]-[BOO] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BOO] SPOOKY LP
+Unstake 0.00 [WFTM]-[BOO] SPOOKY LP - Fee 4%
+Claim 0.00 FOXY ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [WFTM]-[ETH] SPOOKY LP [+] [-] [<=>] Price: $155.56 TVL: $42,181,091.24
+WFTM Price: $2.02
+ETH Price: $2,320.36
+Staked: 0.1795 spLP ($27.93)
+FOXY Per Week: 16147.57 ($0.64)
+APR: Day 0.33% Week 2.29% Year 119.24%
+You are staking 0.00 [WFTM]-[ETH] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ETH] SPOOKY LP
+Unstake 0.00 [WFTM]-[ETH] SPOOKY LP - Fee 4%
+Claim 0.00 FOXY ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [USDC]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $4,352,051.62 TVL: $167,743,504.19
+USDC Price: $1.00
+WFTM Price: $2.02
+Staked: 0.0000 spLP ($25.15)
+FOXY Per Week: 12918.06 ($0.51)
+APR: Day 0.29% Week 2.04% Year 105.92%
+You are staking 0.00 [USDC]-[WFTM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WFTM] SPOOKY LP
+Unstake 0.00 [USDC]-[WFTM] SPOOKY LP - Fee 4%
+Claim 0.00 FOXY ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [WFTM]-[SCREAM] SPOOKY LP [+] [-] [<=>] Price: $25.48 TVL: $16,691,332.94
+WFTM Price: $2.02
+SCREAM Price: $74.54
+Staked: 0.4553 spLP ($11.60)
+FOXY Per Week: 9688.54 ($0.38)
+APR: Day 0.47% Week 3.31% Year 172.25%
+You are staking 0.00 [WFTM]-[SCREAM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[SCREAM] SPOOKY LP
+Unstake 0.00 [WFTM]-[SCREAM] SPOOKY LP - Fee 4%
+Claim 0.00 FOXY ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $494.71

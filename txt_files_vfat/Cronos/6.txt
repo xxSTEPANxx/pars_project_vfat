@@ -1,0 +1,101 @@
+*************** 👨‍🌾 UNOFFICIAL CRONOSYIELD.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://www.cronosyield.finance
+****************************************************************************************
+
+There is a Harvest Lockup period. Please check the site for more information.
+
+Wed Dec 22 2021 18:18:47 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 10 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [CPY]-[WCRO] Uni LP [+] [-] [<=>] Price: $1.06 TVL: $19,076.52
+CPY Price: $0.49
+WCRO Price: $0.54
+Staked: 7822.4841 UNI-V2 ($8,313.57)
+CPY Per Week: 3176.47 ($1,563.14)
+APR: Day 2.69% Week 18.80% Year 977.72%
+You are staking 0.00 [CPY]-[WCRO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CPY]-[WCRO] Uni LP
+Unstake 0.00 [CPY]-[WCRO] Uni LP
+Claim 0.00 CPY ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - CPY Price: $0.49 Market Cap: $28,333.60 
+Staked: 20046.2096 CPY ($9,864.76)
+CPY Per Week: 1270.59 ($625.26)
+APR: Day 0.91% Week 6.34% Year 329.59%
+You are staking 0.00 CPY ($0.00), 0.00% of the pool.
+Stake 0.00 CPY
+Unstake 0.00 CPY
+Claim 0.00 CPY ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - WCRO Price: $0.54 Market Cap: $411,950,250.27 
+Staked: 34591.0141 WCRO ($18,626.57)
+CPY Per Week: 635.29 ($312.63)
+APR: Day 0.24% Week 1.68% Year 87.28%
+You are staking 0.00 WCRO ($0.00), 0.00% of the pool.
+Stake 0.00 WCRO - Fee 4%
+Unstake 0.00 WCRO
+Claim 0.00 CPY ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - WBTC Price: $49,270.00 Market Cap: $268,915,660.00 
+Staked: 0.3236 WBTC ($15,942.67)
+CPY Per Week: 635.29 ($312.63)
+APR: Day 0.28% Week 1.96% Year 101.97%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 CPY ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - VVS Price: $0.0000576100 Market Cap: $2,121,111,093.97 
+Staked: 55637512.6282 VVS ($3,205.28)
+CPY Per Week: 635.29 ($312.63)
+APR: Day 1.39% Week 9.75% Year 507.19%
+You are staking 0.00 VVS ($0.00), 0.00% of the pool.
+Stake 0.00 VVS - Fee 4%
+Unstake 0.00 VVS
+Claim 0.00 CPY ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - WETH Price: $4,030.89 Market Cap: $277,905,680.16 
+Staked: 4.3056 WETH ($17,355.47)
+CPY Per Week: 635.29 ($312.63)
+APR: Day 0.26% Week 1.80% Year 93.67%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 CPY ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - USDC Price: $1.01 Market Cap: $540,350,000.00 
+Staked: 27558.3908 USDC ($27,833.97)
+CPY Per Week: 635.29 ($312.63)
+APR: Day 0.16% Week 1.12% Year 58.41%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 CPY ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [CPY]-[WCRO] Uni LP [+] [-] [<=>] Price: $1.04 TVL: $12,769.10
+CPY Price: $0.49
+WCRO Price: $0.54
+Staked: 11143.9602 Swapp-LP ($11,589.26)
+CPY Per Week: 3176.47 ($1,563.14)
+APR: Day 1.93% Week 13.49% Year 701.37%
+You are staking 0.00 [CPY]-[WCRO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CPY]-[WCRO] Uni LP
+Unstake 0.00 [CPY]-[WCRO] Uni LP
+Claim 0.00 CPY ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $112,731.55

@@ -1,0 +1,205 @@
+*************** 👨‍🌾 UNOFFICIAL PASTA FINANCE FARMING CALCULATOR 👨‍🌾 *****************
+INFO  : https://pastafinance.com
+****************************************************************************************
+
+Thu Jan 27 2022 20:40:11 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 17 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [PASTA]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.19 TVL: $12,333.64
+PASTA Price: $0.005972
+BUSD Price: $1.00
+Staked: 60704.5726 Cake-LP ($11,421.13)
+PASTA Per Week: 47715.98 ($284.94)
+APR: Day 0.36% Week 2.49% Year 129.73%
+You are staking 0.00 [PASTA]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PASTA]-[BUSD] Cake LP
+Unstake 0.00 [PASTA]-[BUSD] Cake LP
+Claim 0.00 PASTA ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [PASTA]-[WBNB] Cake LP [+] [-] [<=>] Price: $3.46 TVL: $8,028.43
+PASTA Price: $0.005972
+WBNB Price: $369.82
+Staked: 2144.0762 Cake-LP ($7,426.09)
+PASTA Per Week: 28629.59 ($170.97)
+APR: Day 0.33% Week 2.30% Year 119.72%
+You are staking 0.00 [PASTA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PASTA]-[WBNB] Cake LP
+Unstake 0.00 [PASTA]-[WBNB] Cake LP
+Claim 0.00 PASTA ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $65.96 TVL: $2,134,567.01
+WBNB Price: $369.82
+BUSD Price: $1.00
+Staked: 65.5705 Cake-LP ($4,325.28)
+PASTA Per Week: 5964.50 ($35.62)
+APR: Day 0.12% Week 0.82% Year 42.82%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 2%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 PASTA ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [Cake]-[BUSD] Cake LP [+] [-] [<=>] Price: $8.64 TVL: $68,318.54
+Cake Price: $7.10
+BUSD Price: $1.00
+Staked: 175.4300 Cake-LP ($1,515.30)
+PASTA Per Week: 2385.80 ($14.25)
+APR: Day 0.13% Week 0.94% Year 48.89%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP - Fee 2%
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 PASTA ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $123.34 TVL: $3,330,576.13
+Cake Price: $7.10
+WBNB Price: $369.82
+Staked: 8.8434 Cake-LP ($1,090.72)
+PASTA Per Week: 2385.80 ($14.25)
+APR: Day 0.19% Week 1.31% Year 67.92%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 2%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 PASTA ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - PASTA Price: $0.005972 Market Cap: $61,851.27 [%]
+Staked: 4111740.1143 PASTA ($24,554.03)
+PASTA Per Week: 11928.99 ($71.24)
+APR: Day 0.04% Week 0.29% Year 15.09%
+You are staking 0.00 PASTA ($0.00), 0.00% of the pool.
+Stake 0.00 PASTA
+Unstake 0.00 PASTA
+Claim 0.00 PASTA ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [DODO]-[WBNB] Cake LP [+] [-] [<=>] Price: $28.33 TVL: $13,266.75
+DODO Price: $0.48
+WBNB Price: $369.82
+Staked: 7.1716 Cake-LP ($203.15)
+PASTA Per Week: 1192.90 ($7.12)
+APR: Day 0.50% Week 3.51% Year 182.35%
+You are staking 0.00 [DODO]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DODO]-[WBNB] Cake LP - Fee 2%
+Unstake 0.00 [DODO]-[WBNB] Cake LP
+Claim 0.00 PASTA ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [WBNB]-[REEF] Cake LP [+] [-] [<=>] Price: $4.35 TVL: $49,047.51
+WBNB Price: $369.82
+REEF Price: $0.009843
+Staked: 176.7548 Cake-LP ($768.59)
+PASTA Per Week: 1192.90 ($7.12)
+APR: Day 0.13% Week 0.93% Year 48.20%
+You are staking 0.00 [WBNB]-[REEF] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[REEF] Cake LP - Fee 2%
+Unstake 0.00 [WBNB]-[REEF] Cake LP
+Claim 0.00 PASTA ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [WBNB]-[XVS] Cake LP [+] [-] [<=>] Price: $156.39 TVL: $19,581.67
+WBNB Price: $369.82
+XVS Price: $8.01
+Staked: 1.8796 Cake-LP ($293.94)
+PASTA Per Week: 1192.90 ($7.12)
+APR: Day 0.35% Week 2.42% Year 126.02%
+You are staking 0.00 [WBNB]-[XVS] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[XVS] Cake LP - Fee 2%
+Unstake 0.00 [WBNB]-[XVS] Cake LP
+Claim 0.00 PASTA ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [WBNB]-[HARD] Cake LP [+] [-] [<=>] Price: $31,907,828.82 TVL: $12,254.77
+WBNB Price: $369.82
+HARD Price: $0.53
+Staked: 0.0000 Cake-LP ($680.89)
+PASTA Per Week: 1192.90 ($7.12)
+APR: Day 0.15% Week 1.05% Year 54.40%
+You are staking 0.00 [WBNB]-[HARD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[HARD] Cake LP - Fee 2%
+Unstake 0.00 [WBNB]-[HARD] Cake LP
+Claim 0.00 PASTA ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [DODO]-[PASTA] Cake LP [+] [-] [<=>] Price: $0.11 TVL: $2,759.60
+DODO Price: $0.48
+PASTA Price: $0.005972
+Staked: 21985.7791 Cake-LP ($2,457.61)
+PASTA Per Week: 28629.59 ($170.97)
+APR: Day 0.99% Week 6.96% Year 361.74%
+You are staking 0.00 [DODO]-[PASTA] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DODO]-[PASTA] Cake LP - Fee 2%
+Unstake 0.00 [DODO]-[PASTA] Cake LP
+Claim 0.00 PASTA ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [Cake]-[PASTA] Cake LP [+] [-] [<=>] Price: $0.43 TVL: $3,056.73
+Cake Price: $7.10
+PASTA Price: $0.005972
+Staked: 6815.0676 Cake-LP ($2,933.03)
+PASTA Per Week: 14314.79 ($85.48)
+APR: Day 0.42% Week 2.91% Year 151.55%
+You are staking 0.00 [Cake]-[PASTA] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[PASTA] Cake LP - Fee 2%
+Unstake 0.00 [Cake]-[PASTA] Cake LP
+Claim 0.00 PASTA ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [DOT]-[PASTA] Cake LP [+] [-] [<=>] Price: $0.68 TVL: $2,525.56
+DOT Price: $17.98
+PASTA Price: $0.005972
+Staked: 3623.1579 Cake-LP ($2,475.27)
+PASTA Per Week: 11928.99 ($71.24)
+APR: Day 0.41% Week 2.88% Year 149.65%
+You are staking 0.00 [DOT]-[PASTA] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[PASTA] Cake LP - Fee 2%
+Unstake 0.00 [DOT]-[PASTA] Cake LP
+Claim 0.00 PASTA ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [PASTA]-[UNI] Cake LP [+] [-] [<=>] Price: $0.52 TVL: $2,551.41
+PASTA Price: $0.005972
+UNI Price: $10.68
+Staked: 4804.0987 Cake-LP ($2,512.71)
+PASTA Per Week: 14314.79 ($85.48)
+APR: Day 0.49% Week 3.40% Year 176.91%
+You are staking 0.00 [PASTA]-[UNI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PASTA]-[UNI] Cake LP - Fee 2%
+Unstake 0.00 [PASTA]-[UNI] Cake LP
+Claim 0.00 PASTA ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [SUSHI]-[PASTA] Cake LP [+] [-] [<=>] Price: $0.32 TVL: $2,799.36
+SUSHI Price: $4.10
+PASTA Price: $0.005972
+Staked: 7782.0955 Cake-LP ($2,526.84)
+PASTA Per Week: 14314.79 ($85.48)
+APR: Day 0.48% Week 3.38% Year 175.92%
+You are staking 0.00 [SUSHI]-[PASTA] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SUSHI]-[PASTA] Cake LP - Fee 2%
+Unstake 0.00 [SUSHI]-[PASTA] Cake LP
+Claim 0.00 PASTA ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [PASTA]-[BAKE] Cake LP [+] [-] [<=>] Price: $0.13 TVL: $1,908.19
+PASTA Price: $0.005972
+BAKE Price: $0.61
+Staked: 14879.2788 Cake-LP ($1,883.39)
+PASTA Per Week: 14314.79 ($85.48)
+APR: Day 0.65% Week 4.54% Year 236.02%
+You are staking 0.00 [PASTA]-[BAKE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PASTA]-[BAKE] Cake LP - Fee 2%
+Unstake 0.00 [PASTA]-[BAKE] Cake LP
+Claim 0.00 PASTA ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $67,067.98

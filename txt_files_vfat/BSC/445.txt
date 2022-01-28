@@ -1,0 +1,301 @@
+*************** 👨‍🌾 UNOFFICIAL SpacePortDeFi FARMING CALCULATOR 👨‍🌾 *****************
+INFO  : https://bsc2.SpacePortDeFi.com
+****************************************************************************************
+
+Thu Jan 27 2022 21:29:36 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 26 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - SATELITE Price: $0.00 Market Cap: $0.00 
+Staked: 25294.1234 SATELITE ($0.00)
+SATELITE Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SATELITE ($0.00), NaN% of the pool.
+Stake 0.00 SATELITE
+Unstake 0.00 SATELITE
+Claim 0.00 SATELITE ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.40 TVL: $345,827,749.06
+WBNB Price: $368.13
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+SATELITE Per Week: 0.00 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 SATELITE ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $7,726.77 TVL: $68,330,617.38
+BTCB Price: $36,133.00
+WBNB Price: $368.13
+Staked: 0.0000 Cake-LP ($0.00)
+SATELITE Per Week: 0.00 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 SATELITE ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,035.25 TVL: $74,148,848.05
+ETH Price: $2,436.10
+WBNB Price: $368.13
+Staked: 0.0002 Cake-LP ($0.41)
+SATELITE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 SATELITE ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDT]-[WBNB] Cake LP [+] [-] [<=>] Price: $48.71 TVL: $190,335,436.75
+USDT Price: $1.00
+WBNB Price: $368.13
+Staked: 0.0000 Cake-LP ($0.00)
+SATELITE Per Week: 0.00 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDT]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[WBNB] Cake LP
+Claim 0.00 SATELITE ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [ADA]-[WBNB] Cake LP [+] [-] [<=>] Price: $42.28 TVL: $12,073,164.56
+ADA Price: $1.03
+WBNB Price: $368.13
+Staked: 0.0006 Cake-LP ($0.03)
+SATELITE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.03%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 SATELITE ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $296,993,237.40
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+SATELITE Per Week: 0.00 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 SATELITE ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $105.22 TVL: $200,318,666.78
+Cake Price: $6.97
+WBNB Price: $368.13
+Staked: 0.0694 Cake-LP ($7.30)
+SATELITE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 SATELITE ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [DAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $16,853,955.72
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 4.7153 Cake-LP ($9.83)
+SATELITE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 SATELITE ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [DOT]-[WBNB] Cake LP [+] [-] [<=>] Price: $172.34 TVL: $17,692,403.95
+DOT Price: $17.92
+WBNB Price: $368.13
+Staked: 0.0000 Cake-LP ($0.00)
+SATELITE Per Week: 0.00 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 SATELITE ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - WBNB Price: $368.13 Market Cap: $1,921,219,974.58 [%]
+Staked: 0.0000 WBNB ($0.01)
+SATELITE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.05%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 SATELITE ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - BUSD Price: $1.00 Market Cap: $4,842,219,079.74 [%]
+Staked: 292.2655 BUSD ($291.74)
+SATELITE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 SATELITE ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - BTCB Price: $36,133.00 Market Cap: $4,064,998,633.00 [%]
+Staked: 0.0000 BTCB ($0.00)
+SATELITE Per Week: 0.00 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 BTCB ($0.00), NaN% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 SATELITE ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - ETH Price: $2,436.10 Market Cap: $3,422,720,500.00 [%]
+Staked: 0.0000 ETH ($0.00)
+SATELITE Per Week: 0.00 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 ETH ($0.00), NaN% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 SATELITE ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - Cake Price: $6.97 Market Cap: $4,286,315,602.23 [%]
+Staked: 0.0000 Cake ($0.00)
+SATELITE Per Week: 0.00 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 Cake ($0.00), NaN% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 SATELITE ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - ADA Price: $1.03 Market Cap: $288,400,000.00 [%]
+Staked: 0.0000 ADA ($0.00)
+SATELITE Per Week: 0.00 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 ADA ($0.00), NaN% of the pool.
+Stake 0.00 ADA - Fee 4%
+Unstake 0.00 ADA
+Claim 0.00 SATELITE ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - DOT Price: $17.92 Market Cap: $286,719,999.84 [%]
+Staked: 0.0000 DOT ($0.00)
+SATELITE Per Week: 0.00 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 DOT ($0.00), NaN% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 SATELITE ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - USDT Price: $1.00 Market Cap: $3,879,997,922.18 [%]
+Staked: 0.0000 USDT ($0.00)
+SATELITE Per Week: 0.00 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 USDT ($0.00), NaN% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 SATELITE ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - USDC Price: $1.00 Market Cap: $1,777,505,640.00 [%]
+Staked: 0.0106 USDC ($0.01)
+SATELITE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.04%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 SATELITE ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - XRP Price: $0.60 Market Cap: $167,115,208.00 [%]
+Staked: 1.4803 XRP ($0.89)
+SATELITE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 XRP ($0.00), 0.00% of the pool.
+Stake 0.00 XRP - Fee 4%
+Unstake 0.00 XRP
+Claim 0.00 SATELITE ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - LTC Price: $106.79 Market Cap: $66,743,750.00 [%]
+Staked: 0.0068 LTC ($0.72)
+SATELITE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 LTC ($0.00), 0.00% of the pool.
+Stake 0.00 LTC - Fee 4%
+Unstake 0.00 LTC
+Claim 0.00 SATELITE ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - STARSHIP Price: $0.00 Market Cap: $0.00 
+Staked: 985.9493 STARSHIP ($0.00)
+SATELITE Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 STARSHIP ($0.00), NaN% of the pool.
+Stake 0.00 STARSHIP - Fee 2%
+Unstake 0.00 STARSHIP
+Claim 0.00 SATELITE ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - [STARSHIP]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.14 TVL: $215.93
+STARSHIP Price: $0.003956
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+SATELITE Per Week: 0.00 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [STARSHIP]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [STARSHIP]-[BUSD] Cake LP - Fee 2%
+Unstake 0.00 [STARSHIP]-[BUSD] Cake LP
+Claim 0.00 SATELITE ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [SATELITE]-[STARSHIP] Cake LP [+] [-] [<=>] Price: $0.01 TVL: $0.60
+SATELITE Price: $0.003767
+STARSHIP Price: $0.003956
+Staked: 1.0000 Cake-LP ($0.01)
+SATELITE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.01% Year 0.28%
+You are staking 0.00 [SATELITE]-[STARSHIP] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SATELITE]-[STARSHIP] Cake LP
+Unstake 0.00 [SATELITE]-[STARSHIP] Cake LP
+Claim 0.00 SATELITE ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - [SATELITE]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.13 TVL: $147.98
+SATELITE Price: $0.003767
+BUSD Price: $1.00
+Staked: 339.5786 Cake-LP ($44.53)
+SATELITE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [SATELITE]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SATELITE]-[BUSD] Cake LP
+Unstake 0.00 [SATELITE]-[BUSD] Cake LP
+Claim 0.00 SATELITE ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - [SATELITE]-[WBNB] Cake LP [+] [-] [<=>] Price: $2.51 TVL: $290.23
+SATELITE Price: $0.003767
+WBNB Price: $368.13
+Staked: 12.2595 Cake-LP ($30.75)
+SATELITE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [SATELITE]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SATELITE]-[WBNB] Cake LP
+Unstake 0.00 [SATELITE]-[WBNB] Cake LP
+Claim 0.00 SATELITE ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $386.22

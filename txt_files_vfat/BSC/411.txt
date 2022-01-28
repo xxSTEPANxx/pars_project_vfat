@@ -1,0 +1,125 @@
+*************** 👨‍🌾 HAMSTER SWAP FARMING CALCULATOR 👨‍🌾 ***************
+
+INFO       : https://hamsterswaps.com
+Telegram   : https://t.me/hamsterswaps
+$HAMSTER   : https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xF7FB38176C63bFCB774a68b24B3C32bc279b37A7
+
+**************************************************************************************
+
+Thu Jan 27 2022 21:25:37 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 10 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [BUSD]-[HAMSTER] Cake LP [+] [-] [<=>] Price: $0.07 TVL: $2.18
+BUSD Price: $1.00
+HAMSTER Price: $0.001229
+Staked: 29.2428 Cake-LP ($2.16)
+HAMSTER Per Week: 31015.38 ($38.11)
+APR: Day 251.58% Week 1761.04% Year 91573.93%
+You are staking 0.00 [BUSD]-[HAMSTER] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUSD]-[HAMSTER] Cake LP
+Unstake 0.00 [BUSD]-[HAMSTER] Cake LP
+Claim 0.00 HAMSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WBNB]-[HAMSTER] Cake LP [+] [-] [<=>] Price: $1.36 TVL: $1.08
+WBNB Price: $367.92
+HAMSTER Price: $0.001229
+Staked: 0.5286 Cake-LP ($0.72)
+HAMSTER Per Week: 31015.38 ($38.11)
+APR: Day 757.86% Week 5305.04% Year 275862.05%
+You are staking 0.00 [WBNB]-[HAMSTER] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[HAMSTER] Cake LP
+Unstake 0.00 [WBNB]-[HAMSTER] Cake LP
+Claim 0.00 HAMSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.37 TVL: $345,615,190.74
+WBNB Price: $367.92
+BUSD Price: $1.00
+Staked: 1.0484 Cake-LP ($49.66)
+HAMSTER Per Week: 23261.54 ($28.58)
+APR: Day 8.22% Week 57.56% Year 2992.90%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 HAMSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - HAMSTER Price: $0.001229 Market Cap: $328.84 [%]
+Staked: 154380.0724 HAMSTER ($189.71)
+HAMSTER Per Week: 23261.54 ($28.58)
+APR: Day 2.15% Week 15.07% Year 783.52%
+You are staking 0.00 HAMSTER ($0.00), 0.00% of the pool.
+Stake 0.00 HAMSTER
+Unstake 0.00 HAMSTER
+Claim 0.00 HAMSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - BUSD Price: $1.00 Market Cap: $4,839,041,675.14 [%]
+Staked: 83.2197 BUSD ($83.01)
+HAMSTER Per Week: 15507.69 ($19.06)
+APR: Day 3.28% Week 22.96% Year 1193.69%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 HAMSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - WBNB Price: $367.92 Market Cap: $1,920,202,997.98 [%]
+Staked: 0.0001 WBNB ($0.04)
+HAMSTER Per Week: 15507.69 ($19.06)
+APR: Day 7707.59% Week 53953.15% Year 2805564.05%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 HAMSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - Cake Price: $6.97 Market Cap: $4,286,307,977.57 [%]
+Staked: 4.2790 Cake ($29.82)
+HAMSTER Per Week: 15507.69 ($19.06)
+APR: Day 9.13% Week 63.89% Year 3322.52%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 HAMSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - BTCB Price: $36,136.00 Market Cap: $4,065,336,136.00 [%]
+Staked: 0.0000 BTCB ($0.00)
+HAMSTER Per Week: 15507.69 ($19.06)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 BTCB ($0.00), NaN% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 HAMSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - ETH Price: $2,434.95 Market Cap: $3,421,104,750.00 [%]
+Staked: 0.0000 ETH ($0.02)
+HAMSTER Per Week: 15507.69 ($19.06)
+APR: Day 11646.14% Week 81523.00% Year 4239195.96%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 HAMSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - USDT Price: $1.00 Market Cap: $3,879,997,922.18 [%]
+Staked: 177.6103 USDT ($177.61)
+HAMSTER Per Week: 15507.69 ($19.06)
+APR: Day 1.53% Week 10.73% Year 557.93%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 HAMSTER ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $532.76

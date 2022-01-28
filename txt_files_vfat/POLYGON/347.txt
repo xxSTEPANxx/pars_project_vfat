@@ -2,125 +2,34 @@
 INFO  : https://polygon.tenguswap.com
 ***************************************************************************************
 
-Thu Dec 16 2021 05:46:53 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 23:45:58 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
+Staking Contract
 Found 10 pools.
 Showing incentivized pools only.
-Finished reading smart contracts.
-0 - TENGU Price: $0.000158 Market Cap: $5,804.72 [%]
-Staked: 6492754.4756 TENGU ($1,023.82)
-TENGU Per Week: 102178.72 ($16.11)
-APR: Day 0.22% Week 1.57% Year 81.83%
-You are staking 0.00 TENGU ($0.00), 0.00% of the pool.
-Stake 0.00 TENGU
-Unstake 0.00 TENGU
-Claim 0.00 TENGU ($0.00)
-Staking or unstaking also claims rewards.
-
-1 - [USDC]-[TENGU] Uni LP [+] [-] [<=>] Price: $29,216.88 TVL: $2,945.23
-USDC Price: $1.00
-TENGU Price: $0.000158
-Staked: 0.0468 UNI-V2 ($1,368.80)
-TENGU Per Week: 817429.79 ($128.90)
-APR: Day 1.35% Week 9.42% Year 489.68%
-You are staking 0.00 [USDC]-[TENGU] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[TENGU] Uni LP
-Unstake 0.00 [USDC]-[TENGU] Uni LP
-Claim 0.00 TENGU ($0.00)
-Staking or unstaking also claims rewards.
-
-2 - [WMATIC]-[TENGU] Uni LP [+] [-] [<=>] Price: $0.04 TVL: $1,403.04
-WMATIC Price: $2.15
-TENGU Price: $0.000158
-Staked: 10878.4307 UNI-V2 ($455.92)
-TENGU Per Week: 490457.87 ($77.34)
-APR: Day 2.42% Week 16.96% Year 882.09%
-You are staking 0.00 [WMATIC]-[TENGU] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[TENGU] Uni LP
-Unstake 0.00 [WMATIC]-[TENGU] Uni LP
-Claim 0.00 TENGU ($0.00)
-Staking or unstaking also claims rewards.
-
-3 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,872,783.92 TVL: $52,318,155.64
-WMATIC Price: $2.15
-USDC Price: $1.00
-Staked: 0.0003 UNI-V2 ($1,754.31)
-TENGU Per Week: 102178.72 ($16.11)
-APR: Day 0.13% Week 0.92% Year 47.76%
-You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
-Unstake 0.00 [WMATIC]-[USDC] Uni LP
-Claim 0.00 TENGU ($0.00)
-Staking or unstaking also claims rewards.
-
-4 - [USDC]-[WETH] Uni LP [+] [-] [<=>] Price: $187,964,812.95 TVL: $79,017,471.46
-USDC Price: $1.00
-WETH Price: $4,037.32
-Staked: 0.0000 UNI-V2 ($42.45)
-TENGU Per Week: 61307.23 ($9.67)
-APR: Day 3.25% Week 22.77% Year 1184.15%
-You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
-Unstake 0.00 [USDC]-[WETH] Uni LP
-Claim 0.00 TENGU ($0.00)
-Staking or unstaking also claims rewards.
-
-5 - [WMATIC]-[WETH] Uni LP [+] [-] [<=>] Price: $246.42 TVL: $110,438,363.29
-WMATIC Price: $2.15
-WETH Price: $4,037.32
-Staked: 2.8707 UNI-V2 ($707.40)
-TENGU Per Week: 61307.23 ($9.67)
-APR: Day 0.20% Week 1.37% Year 71.06%
-You are staking 0.00 [WMATIC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[WETH] Uni LP - Fee 4%
-Unstake 0.00 [WMATIC]-[WETH] Uni LP
-Claim 0.00 TENGU ($0.00)
-Staking or unstaking also claims rewards.
-
-6 - [USDC]-[USDT] Uni LP [+] [-] [<=>] Price: $2,624,551,090,476.77 TVL: $24,542,815.23
-USDC Price: $1.00
-USDT Price: $1.00
-Staked: 0.0000 UNI-V2 ($2,849.72)
-TENGU Per Week: 40871.49 ($6.44)
-APR: Day 0.03% Week 0.23% Year 11.76%
-You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[USDT] Uni LP - Fee 4%
-Unstake 0.00 [USDC]-[USDT] Uni LP
-Claim 0.00 TENGU ($0.00)
-Staking or unstaking also claims rewards.
-
-7 - GTENGU Price: $0.00 Market Cap: $0.00 
-Staked: 1913072.3275 GTENGU ($0.00)
-TENGU Per Week: 163485.96 ($25.78)
-APR: Day NaN% Week NaN% Year NaN%
-You are staking 0.00 GTENGU ($0.00), NaN% of the pool.
-Stake 0.00 GTENGU
-Unstake 0.00 GTENGU
-Claim 0.00 TENGU ($0.00)
-Staking or unstaking also claims rewards.
-
-8 - WMATIC Price: $2.15 Market Cap: $654,539,732.94 [%]
-Staked: 2098.9459 WMATIC ($4,512.73)
-TENGU Per Week: 40871.49 ($6.44)
-APR: Day 0.02% Week 0.14% Year 7.43%
-You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
-Stake 0.00 WMATIC - Fee 4%
-Unstake 0.00 WMATIC
-Claim 0.00 TENGU ($0.00)
-Staking or unstaking also claims rewards.
-
-9 - USDC Price: $1.00 Market Cap: $943,395,526.17 [%]
-Staked: 1703.6171 USDC ($1,703.62)
-TENGU Per Week: 40871.49 ($6.44)
-APR: Day 0.05% Week 0.38% Year 19.67%
-You are staking 0.00 USDC ($0.00), 0.00% of the pool.
-Stake 0.00 USDC - Fee 4%
-Unstake 0.00 USDC
-Claim 0.00 TENGU ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $14,418.77
+{
+  "code": -32603,
+  "message": "JsonRpcEngine: Response has no error or result for request:\n{\n  \"method\": \"eth_call\",\n  \"params\": [\n    {\n      \"to\": \"0x6f6350d5d347aa8f7e9731756b60b774a7acf95b\",\n      \"data\": \"0x70a082310000000000000000000000007e6af05fcf843217fa37d6ea407c2f16323fbfb6\"\n    },\n    \"0x171dc27\"\n  ],\n  \"jsonrpc\": \"2.0\",\n  \"id\": 2778745638,\n  \"origin\": \"https://vfat.tools\",\n  \"tabId\": 2\n}",
+  "data": {
+    "request": {
+      "method": "eth_call",
+      "params": [
+        {
+          "to": "0x6f6350d5d347aa8f7e9731756b60b774a7acf95b",
+          "data": "0x70a082310000000000000000000000007e6af05fcf843217fa37d6ea407c2f16323fbfb6"
+        },
+        "0x171dc27"
+      ],
+      "jsonrpc": "2.0",
+      "id": 2778745638,
+      "origin": "https://vfat.tools",
+      "tabId": 2
+    }
+  },
+  "stack": "{\n  \"code\": -32603,\n  \"message\": \"JsonRpcEngine: Response has no error or result for request:\\n{\\n  \\\"method\\\": \\\"eth_call\\\",\\n  \\\"params\\\": [\\n    {\\n      \\\"to\\\": \\\"0x6f6350d5d347aa8f7e9731756b60b774a7acf95b\\\",\\n      \\\"data\\\": \\\"0x70a082310000000000000000000000007e6af05fcf843217fa37d6ea407c2f16323fbfb6\\\"\\n    },\\n    \\\"0x171dc27\\\"\\n  ],\\n  \\\"jsonrpc\\\": \\\"2.0\\\",\\n  \\\"id\\\": 2778745638,\\n  \\\"origin\\\": \\\"https://vfat.tools\\\",\\n  \\\"tabId\\\": 2\\n}\",\n  \"data\": {\n    \"request\": {\n      \"method\": \"eth_call\",\n      \"params\": [\n        {\n          \"to\": \"0x6f6350d5d347aa8f7e9731756b60b774a7acf95b\",\n          \"data\": \"0x70a082310000000000000000000000007e6af05fcf843217fa37d6ea407c2f16323fbfb6\"\n        },\n        \"0x171dc27\"\n      ],\n      \"jsonrpc\": \"2.0\",\n      \"id\": 2778745638,\n      \"origin\": \"https://vfat.tools\",\n      \"tabId\": 2\n    }\n  },\n  \"stack\": \"Error: JsonRpcEngine: Response has no error or result for request:\\n{\\n  \\\"method\\\": \\\"eth_call\\\",\\n  \\\"params\\\": [\\n    {\\n      \\\"to\\\": \\\"0x6f6350d5d347aa8f7e9731756b60b774a7acf95b\\\",\\n      \\\"data\\\": \\\"0x70a082310000000000000000000000007e6af05fcf843217fa37d6ea407c2f16323fbfb6\\\"\\n    },\\n    \\\"0x171dc27\\\"\\n  ],\\n  \\\"jsonrpc\\\": \\\"2.0\\\",\\n  \\\"id\\\": 2778745638,\\n  \\\"origin\\\": \\\"https://vfat.tools\\\",\\n  \\\"tabId\\\": 2\\n}\\n    at new o (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/common-1.js:16:24204)\\n    at Function._checkForCompletion (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:305269)\\n    at a._processRequest (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304461)\\n    at async a._handle (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304249)\"\n}\n  at new o (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/common-1.js:16:24204)\n  at Function._checkForCompletion (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:305269)\n  at a._processRequest (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304461)\n  at async a._handle (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304249)"
+}
+Oops something went wrong. Try refreshing the page.

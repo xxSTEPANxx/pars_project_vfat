@@ -1,0 +1,213 @@
+*************** 👨‍🌾 UNOFFICIAL GOLDFARM FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://goldfarm.app
+*****************************************************************************
+
+Thu Jan 27 2022 21:22:24 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 18 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [GOLD]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.01 TVL: $307.79
+GOLD Price: $0.0000107562
+BUSD Price: $1.00
+Staked: 27055.9806 Cake-LP ($213.29)
+GOLD Per Week: 1333333.33 ($14.34)
+APR: Day 0.96% Week 6.72% Year 349.65%
+You are staking 0.00 [GOLD]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GOLD]-[BUSD] Cake LP
+Unstake 0.00 [GOLD]-[BUSD] Cake LP
+Claim 0.00 GOLD ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [GOLD]-[WBNB] Cake LP [+] [-] [<=>] Price: $0.14 TVL: $792.44
+GOLD Price: $0.0000107562
+WBNB Price: $367.93
+Staked: 1460.2932 Cake-LP ($205.83)
+GOLD Per Week: 1333333.33 ($14.34)
+APR: Day 1.00% Week 6.97% Year 362.33%
+You are staking 0.00 [GOLD]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GOLD]-[WBNB] Cake LP
+Unstake 0.00 [GOLD]-[WBNB] Cake LP
+Claim 0.00 GOLD ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - GOLD Price: $0.0000107562 Market Cap: $1,358.95 [%]
+Staked: 62573495.8699 GOLD ($673.05)
+GOLD Per Week: 800000.00 ($8.60)
+APR: Day 0.18% Week 1.28% Year 66.48%
+You are staking 0.00 GOLD ($0.00), 0.00% of the pool.
+Stake 0.00 GOLD
+Unstake 0.00 GOLD
+Claim 0.00 GOLD ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.40 TVL: $345,812,184.93
+WBNB Price: $367.93
+BUSD Price: $1.00
+Staked: 3.7200 Cake-LP ($176.32)
+GOLD Per Week: 133333.33 ($1.43)
+APR: Day 0.12% Week 0.81% Year 42.30%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 GOLD ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,026.96 TVL: $73,846,607.75
+ETH Price: $2,417.58
+WBNB Price: $367.93
+Staked: 0.1001 Cake-LP ($202.86)
+GOLD Per Week: 133333.33 ($1.43)
+APR: Day 0.10% Week 0.71% Year 36.76%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 GOLD ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $297,061,094.90
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 510.4316 Cake-LP ($1,069.24)
+GOLD Per Week: 133333.33 ($1.43)
+APR: Day 0.02% Week 0.13% Year 6.97%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 GOLD ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $131,424,915.26
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 500.0000 Cake-LP ($1,044.67)
+GOLD Per Week: 133333.33 ($1.43)
+APR: Day 0.02% Week 0.14% Year 7.14%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 GOLD ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [DAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $16,857,810.58
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 55.4779 Cake-LP ($115.72)
+GOLD Per Week: 133333.33 ($1.43)
+APR: Day 0.18% Week 1.24% Year 64.45%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 GOLD ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $7,731.84 TVL: $68,375,301.88
+BTCB Price: $36,200.00
+WBNB Price: $367.93
+Staked: 0.0020 Cake-LP ($15.46)
+GOLD Per Week: 133333.33 ($1.43)
+APR: Day 1.32% Week 9.27% Year 482.27%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 GOLD ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [DOT]-[WBNB] Cake LP [+] [-] [<=>] Price: $172.34 TVL: $17,692,530.60
+DOT Price: $17.93
+WBNB Price: $367.93
+Staked: 0.0700 Cake-LP ($12.06)
+GOLD Per Week: 133333.33 ($1.43)
+APR: Day 1.70% Week 11.89% Year 618.18%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 GOLD ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - WBNB Price: $367.93 Market Cap: $1,919,983,071.63 [%]
+Staked: 1.0098 WBNB ($371.54)
+GOLD Per Week: 80000.00 ($0.86)
+APR: Day 0.03% Week 0.23% Year 12.04%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 GOLD ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - BUSD Price: $1.00 Market Cap: $4,844,435,986.46 [%]
+Staked: 381.4017 BUSD ($380.89)
+GOLD Per Week: 80000.00 ($0.86)
+APR: Day 0.03% Week 0.23% Year 11.75%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 GOLD ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - USDT Price: $1.00 Market Cap: $3,879,997,922.18 [%]
+Staked: 102.0157 USDT ($102.02)
+GOLD Per Week: 80000.00 ($0.86)
+APR: Day 0.12% Week 0.84% Year 43.86%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 GOLD ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - USDC Price: $1.00 Market Cap: $1,778,726,034.00 [%]
+Staked: 319.7966 USDC ($319.75)
+GOLD Per Week: 80000.00 ($0.86)
+APR: Day 0.04% Week 0.27% Year 13.99%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 GOLD ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - DAI Price: $1.00 Market Cap: $262,000,000.00 [%]
+Staked: 358.3631 DAI ($358.36)
+GOLD Per Week: 80000.00 ($0.86)
+APR: Day 0.03% Week 0.24% Year 12.49%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 GOLD ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - BTCB Price: $36,200.00 Market Cap: $4,072,536,200.00 [%]
+Staked: 0.0004 BTCB ($13.12)
+GOLD Per Week: 80000.00 ($0.86)
+APR: Day 0.94% Week 6.56% Year 341.12%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 GOLD ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - ETH Price: $2,417.58 Market Cap: $3,396,699,900.00 [%]
+Staked: 0.1115 ETH ($269.45)
+GOLD Per Week: 80000.00 ($0.86)
+APR: Day 0.05% Week 0.32% Year 16.61%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 GOLD ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - DOT Price: $17.93 Market Cap: $286,879,999.84 [%]
+Staked: 0.4068 DOT ($7.29)
+GOLD Per Week: 80000.00 ($0.86)
+APR: Day 1.69% Week 11.80% Year 613.52%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 GOLD ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $5,550.92

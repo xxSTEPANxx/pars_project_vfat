@@ -1,0 +1,646 @@
+*************** 👨‍🌾 UNOFFICIAL VALUEDEFI FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://bsc.valuedefi.io
+****************************************************************************
+
+Thu Jan 27 2022 20:18:28 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+-------------------------------------------------
+vBSWAP price $26.44
+-------------------------------------------------
+ 
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+-------------------------------------------------
+vFARM: https://bsc.valuedefi.io/#/vfarm 
+-------------------------------------------------
+Pool: vBSWAPWBNB
+ 
+Total Value Locked: $-4,906.47
+vBSWAPWBNB Price: $259.06
+Reward token: vBSWAP
+APR 0.00 %
+You are staking 0.00 vBSWAPWBNB ($0.00), 0.00% of the pool.
+Approve 0.00000000  vBSWAPWBNB
+Stake 0.00000000  vBSWAPWBNB
+Unstake 0.00000000  vBSWAPWBNB
+Claim 0.00000000 vBSWAP
+Revoke approval
+Exit
+-------------------------------------------------
+
+Pool: WBNBBUSD
+ 
+Total Value Locked: $39,740.22
+WBNBBUSD Price: $50.51
+Reward token: vBSWAP
+APR 0.00 %
+You are staking 0.00 WBNBBUSD ($0.00), 0.00% of the pool.
+Approve 0.00000000  WBNBBUSD
+Stake 0.00000000  WBNBBUSD
+Unstake 0.00000000  WBNBBUSD
+Claim 0.00000000 vBSWAP
+Revoke approval
+Exit
+-------------------------------------------------
+
+Pool: BTCBWBNB
+ 
+Total Value Locked: $12,113.53
+BTCBWBNB Price: $11640.97
+Reward token: vBSWAP
+APR 0.00 %
+You are staking 0.00 BTCBWBNB ($0.00), 0.00% of the pool.
+Approve 0.00000000  BTCBWBNB
+Stake 0.00000000  BTCBWBNB
+Unstake 0.00000000  BTCBWBNB
+Claim 0.00000000 vBSWAP
+Revoke approval
+Exit
+-------------------------------------------------
+
+Pool: ETHWBNB
+ 
+Total Value Locked: $295.56
+ETHWBNB Price: $3143.67
+Reward token: vBSWAP
+APR 0.00 %
+You are staking 0.00 ETHWBNB ($0.00), 0.00% of the pool.
+Approve 0.00000000  ETHWBNB
+Stake 0.00000000  ETHWBNB
+Unstake 0.00000000  ETHWBNB
+Claim 0.00000000 vBSWAP
+Revoke approval
+Exit
+-------------------------------------------------
+
+Pool: gvVALUE-BBUSD
+ 
+Total Value Locked: $0.40
+gvVALUE-BBUSD Price: $0.00
+Reward token: vBSWAP
+APR 0.00 %
+You are staking 0.00 gvVALUE-BBUSD ($0.00), 0.00% of the pool.
+Approve 0.00000000  gvVALUE-BBUSD
+Stake 0.00000000  gvVALUE-BBUSD
+Unstake 0.00000000  gvVALUE-BBUSD
+Claim 0.00000000 vBSWAP
+Revoke approval
+Exit
+-------------------------------------------------
+
+Pool: vBSWAPBUSD
+ 
+Total Value Locked: $0.30
+vBSWAPBUSD Price: $0.00
+Reward token: vBSWAP
+APR 0.00 %
+You are staking 0.00 vBSWAPBUSD ($0.00), 0.00% of the pool.
+Approve 0.00000000  vBSWAPBUSD
+Stake 0.00000000  vBSWAPBUSD
+Unstake 0.00000000  vBSWAPBUSD
+Claim 0.00000000 vBSWAP
+Revoke approval
+Exit
+-------------------------------------------------
+
+Pool: vDOLLAR
+ 
+Total Value Locked: $17,718.00
+vDOLLAR Price: $1.01
+Reward token: vBSWAP
+APR 0.00 %
+You are staking 0.00 vDOLLAR ($0.00), 0.00% of the pool.
+Approve 0.00000000  vDOLLAR
+Stake 0.00000000  vDOLLAR
+Unstake 0.00000000  vDOLLAR
+Claim 0.00000000 vBSWAP
+Revoke approval
+Exit
+-------------------------------------------------
+
+Pool: vPegETH
+ 
+Total Value Locked: $0.00
+vPegETH Price: $3784.92
+Reward token: vBSWAP
+APR 0.00 %
+You are staking 0.00 vPegETH ($0.00), NaN% of the pool.
+Approve 0.00000000  vPegETH
+Stake 0.00000000  vPegETH
+Unstake 0.00000000  vPegETH
+Claim 0.00000000 vBSWAP
+Revoke approval
+Exit
+-------------------------------------------------
+
+Pool: vSafeCAKE
+ 
+Total Value Locked: $119,456.38
+vSafeCAKE Price: $20.88
+Reward token: vBSWAP
+APR 0.00 %
+You are staking 0.00 vSafeCAKE ($0.00), 0.00% of the pool.
+Approve 0.00000000  vSafeCAKE
+Stake 0.00000000  vSafeCAKE
+Unstake 0.00000000  vSafeCAKE
+Claim 0.00000000 vBSWAP
+Revoke approval
+Exit
+-------------------------------------------------
+
+Pool: vSafeCakeBNB
+ 
+Total Value Locked: $5,123.71
+vSafeCakeBNB Price: $302.98
+Reward token: vBSWAP
+APR 0.00 %
+You are staking 0.00 vSafeCakeBNB ($0.00), 0.00% of the pool.
+Approve 0.00000000  vSafeCakeBNB
+Stake 0.00000000  vSafeCakeBNB
+Unstake 0.00000000  vSafeCakeBNB
+Claim 0.00000000 vBSWAP
+Revoke approval
+Exit
+-------------------------------------------------
+
+Pool: USDTWBNB
+ 
+Total Value Locked: $54.24
+USDTWBNB Price: $48.13
+Reward token: vBSWAP
+APR 0.00 %
+You are staking 0.00 USDTWBNB ($0.00), 0.00% of the pool.
+Approve 0.00000000  USDTWBNB
+Stake 0.00000000  USDTWBNB
+Unstake 0.00000000  USDTWBNB
+Claim 0.00000000 vBSWAP
+Revoke approval
+Exit
+-------------------------------------------------
+
+Pool: vSafeBTCBNB
+ 
+Total Value Locked: $1,419.61
+vSafeBTCBNB Price: $46172.40
+Reward token: vBSWAP
+APR 0.00 %
+You are staking 0.00 vSafeBTCBNB ($0.00), 0.00% of the pool.
+Approve 0.00000000  vSafeBTCBNB
+Stake 0.00000000  vSafeBTCBNB
+Unstake 0.00000000  vSafeBTCBNB
+Claim 0.00000000 vBSWAP
+Revoke approval
+Exit
+-------------------------------------------------
+
+Pool: vBSWAPWBNB
+ 
+Total Value Locked: $110,295.76
+vBSWAPWBNB Price: $259.06
+Reward token: vBSWAP
+APR 0.00 %
+You are staking 0.00 vBSWAPWBNB ($0.00), 0.00% of the pool.
+Approve 0.00000000  vBSWAPWBNB
+Stake 0.00000000  vBSWAPWBNB
+Unstake 0.00000000  vBSWAPWBNB
+Claim 0.00000000 vBSWAP
+Revoke approval
+Exit
+-------------------------------------------------
+
+Pool: vSafeBUSD
+ 
+Total Value Locked: $105,265.89
+vSafeBUSD Price: $1.07
+Reward token: vBSWAP
+APR 0.00 %
+You are staking 0.00 vSafeBUSD ($0.00), 0.00% of the pool.
+Approve 0.00000000  vSafeBUSD
+Stake 0.00000000  vSafeBUSD
+Unstake 0.00000000  vSafeBUSD
+Claim 0.00000000 vBSWAP
+Revoke approval
+Exit
+-------------------------------------------------
+
+Pool: vSafeWBNB
+ 
+Total Value Locked: $39,369.79
+vSafeWBNB Price: $356.11
+Reward token: vBSWAP
+APR 0.00 %
+You are staking 0.00 vSafeWBNB ($0.00), 0.00% of the pool.
+Approve 0.00000000  vSafeWBNB
+Stake 0.00000000  vSafeWBNB
+Unstake 0.00000000  vSafeWBNB
+Claim 0.00000000 vBSWAP
+Revoke approval
+Exit
+-------------------------------------------------
+
+Pool: vBSWAPWBNB
+ 
+Total Value Locked: $0.00
+vBSWAPWBNB Price: $0.00
+Reward token: vBSWAP
+APR 0.00 %
+You are staking 0.00 vBSWAPWBNB ($0.00), 0.00% of the pool.
+Approve 0.00000000  vBSWAPWBNB
+Stake 0.00000000  vBSWAPWBNB
+Unstake 0.00000000  vBSWAPWBNB
+Claim 0.00000000 vBSWAP
+Revoke approval
+Exit
+-------------------------------------------------
+
+Pool: vDOLLAR
+ 
+Total Value Locked: $139.34
+vDOLLAR Price: $1.02
+Reward token: vBSWAP
+APR 0.00 %
+You are staking 0.00 vDOLLAR ($0.00), 0.00% of the pool.
+Approve 0.00000000  vDOLLAR
+Stake 0.00000000  vDOLLAR
+Unstake 0.00000000  vDOLLAR
+Claim 0.00000000 vBSWAP
+Revoke approval
+Exit
+-------------------------------------------------
+
+Pool: vPegETH
+ 
+Total Value Locked: $218.27
+vPegETH Price: $3777.18
+Reward token: vBSWAP
+APR 0.00 %
+You are staking 0.00 vPegETH ($0.00), 0.00% of the pool.
+Approve 0.00000000  vPegETH
+Stake 0.00000000  vPegETH
+Unstake 0.00000000  vPegETH
+Claim 0.00000000 vBSWAP
+Revoke approval
+Exit
+-------------------------------------------------
+
+Pool: BDOvBSWAP
+ 
+Total Value Locked: $0.34
+BDOvBSWAP Price: $0.00
+Reward token: vBSWAP
+APR 0.00 %
+You are staking 0.00 BDOvBSWAP ($0.00), 0.00% of the pool.
+Approve 0.00000000  BDOvBSWAP
+Stake 0.00000000  BDOvBSWAP
+Unstake 0.00000000  BDOvBSWAP
+Claim 0.00000000 vBSWAP
+Revoke approval
+Exit
+-------------------------------------------------
+
+Pool: vSafeIOTXBUSD
+ 
+Total Value Locked: $31,927.73
+vSafeIOTXBUSD Price: $1.15
+Reward token: vBSWAP
+APR 0.00 %
+You are staking 0.00 vSafeIOTXBUSD ($0.00), 0.00% of the pool.
+Approve 0.00000000  vSafeIOTXBUSD
+Stake 0.00000000  vSafeIOTXBUSD
+Unstake 0.00000000  vSafeIOTXBUSD
+Claim 0.00000000 vBSWAP
+Revoke approval
+Exit
+-------------------------------------------------
+
+Pool: vSafeBNB1INCH
+ 
+Total Value Locked: $0.00
+vSafeBNB1INCH Price: $0.00
+Reward token: vBSWAP
+APR 0.00 %
+You are staking 0.00 vSafeBNB1INCH ($0.00), NaN% of the pool.
+Approve 0.00000000  vSafeBNB1INCH
+Stake 0.00000000  vSafeBNB1INCH
+Unstake 0.00000000  vSafeBNB1INCH
+Claim 0.00000000 vBSWAP
+Revoke approval
+Exit
+-------------------------------------------------
+
+Pool: vSafeBLZDBUSD
+ 
+Total Value Locked: $213.58
+vSafeBLZDBUSD Price: $6.42
+Reward token: vBSWAP
+APR 0.00 %
+You are staking 0.00 vSafeBLZDBUSD ($0.00), 0.00% of the pool.
+Approve 0.00000000  vSafeBLZDBUSD
+Stake 0.00000000  vSafeBLZDBUSD
+Unstake 0.00000000  vSafeBLZDBUSD
+Claim 0.00000000 vBSWAP
+Revoke approval
+Exit
+-------------------------------------------------
+
+Pool: vSafeBLZDWBNB
+ 
+Total Value Locked: $0.00
+vSafeBLZDWBNB Price: $144.93
+Reward token: vBSWAP
+APR 0.00 %
+You are staking 0.00 vSafeBLZDWBNB ($0.00), NaN% of the pool.
+Approve 0.00000000  vSafeBLZDWBNB
+Stake 0.00000000  vSafeBLZDWBNB
+Unstake 0.00000000  vSafeBLZDWBNB
+Claim 0.00000000 vBSWAP
+Revoke approval
+Exit
+-------------------------------------------------
+
+Pool: vSafeBLZD
+ 
+Total Value Locked: $182.92
+vSafeBLZD Price: $2.69
+Reward token: vBSWAP
+APR 0.00 %
+You are staking 0.00 vSafeBLZD ($0.00), 0.00% of the pool.
+Approve 0.00000000  vSafeBLZD
+Stake 0.00000000  vSafeBLZD
+Unstake 0.00000000  vSafeBLZD
+Claim 0.00000000 vBSWAP
+Revoke approval
+Exit
+-------------------------------------------------
+
+Pool: bdoVDOLLAR
+ 
+Total Value Locked: $0.00
+bdoVDOLLAR Price: $0.03
+Reward token: vBSWAP
+APR 0.00 %
+You are staking 0.00 bdoVDOLLAR ($0.00), 0.00% of the pool.
+Approve 0.00000000  bdoVDOLLAR
+Stake 0.00000000  bdoVDOLLAR
+Unstake 0.00000000  bdoVDOLLAR
+Claim 0.00000000 vBSWAP
+Revoke approval
+Exit
+-------------------------------------------------
+
+Pool: vSafeBELTVENUSLP
+ 
+Total Value Locked: $0.00
+vSafeBELTVENUSLP Price: $0.00
+Reward token: vBSWAP
+APR 0.00 %
+You are staking 0.00 vSafeBELTVENUSLP ($0.00), NaN% of the pool.
+Approve 0.00000000  vSafeBELTVENUSLP
+Stake 0.00000000  vSafeBELTVENUSLP
+Unstake 0.00000000  vSafeBELTVENUSLP
+Claim 0.00000000 vBSWAP
+Revoke approval
+Exit
+-------------------------------------------------
+
+Pool: vSafeBELTWBNB
+ 
+Total Value Locked: $2,989.39
+vSafeBELTWBNB Price: $237.46
+Reward token: vBSWAP
+APR 0.00 %
+You are staking 0.00 vSafeBELTWBNB ($0.00), 0.00% of the pool.
+Approve 0.00000000  vSafeBELTWBNB
+Stake 0.00000000  vSafeBELTWBNB
+Unstake 0.00000000  vSafeBELTWBNB
+Claim 0.00000000 vBSWAP
+Revoke approval
+Exit
+-------------------------------------------------
+
+Pool: vSafe3EPS
+ 
+Total Value Locked: $190,745.53
+vSafe3EPS Price: $1.10
+Reward token: vBSWAP
+APR 0.00 %
+You are staking 0.00 vSafe3EPS ($0.00), 0.00% of the pool.
+Approve 0.00000000  vSafe3EPS
+Stake 0.00000000  vSafe3EPS
+Unstake 0.00000000  vSafe3EPS
+Claim 0.00000000 vBSWAP
+Revoke approval
+Exit
+-------------------------------------------------
+
+Pool: vSafeESPWBNB
+ 
+Total Value Locked: $9,828.11
+vSafeESPWBNB Price: $85.01
+Reward token: vBSWAP
+APR 0.00 %
+You are staking 0.00 vSafeESPWBNB ($0.00), 0.00% of the pool.
+Approve 0.00000000  vSafeESPWBNB
+Stake 0.00000000  vSafeESPWBNB
+Unstake 0.00000000  vSafeESPWBNB
+Claim 0.00000000 vBSWAP
+Revoke approval
+Exit
+-------------------------------------------------
+
+Pool: CODEXWBNB
+ 
+Total Value Locked: $0.44
+CODEXWBNB Price: $0.00
+Reward token: vBSWAP
+APR 0.00 %
+You are staking 0.00 CODEXWBNB ($0.00), 0.00% of the pool.
+Approve 0.00000000  CODEXWBNB
+Stake 0.00000000  CODEXWBNB
+Unstake 0.00000000  CODEXWBNB
+Claim 0.00000000 vBSWAP
+Revoke approval
+Exit
+-------------------------------------------------
+
+Pool: WBNBpCWS
+ 
+Total Value Locked: $1.29
+WBNBpCWS Price: $0.07
+Reward token: vBSWAP
+APR 0.00 %
+You are staking 0.00 WBNBpCWS ($0.00), 0.00% of the pool.
+Approve 0.00000000  WBNBpCWS
+Stake 0.00000000  WBNBpCWS
+Unstake 0.00000000  WBNBpCWS
+Claim 0.00000000 vBSWAP
+Revoke approval
+Exit
+-------------------------------------------------
+
+Pool: fraxVDOLLAR
+ 
+Total Value Locked: $7.61
+fraxVDOLLAR Price: $1.17
+Reward token: vBSWAP
+APR 0.00 %
+You are staking 0.00 fraxVDOLLAR ($0.00), 0.00% of the pool.
+Approve 0.00000000  fraxVDOLLAR
+Stake 0.00000000  fraxVDOLLAR
+Unstake 0.00000000  fraxVDOLLAR
+Claim 0.00000000 vBSWAP
+Revoke approval
+Exit
+-------------------------------------------------
+
+Pool: gvVALUE-BVBOND-B
+ 
+Total Value Locked: $0.00
+gvVALUE-BVBOND-B Price: $0.00
+Reward token: vBSWAP
+APR 0.00 %
+You are staking 0.00 gvVALUE-BVBOND-B ($0.00), 0.00% of the pool.
+Approve 0.00000000  gvVALUE-BVBOND-B
+Stake 0.00000000  gvVALUE-BVBOND-B
+Unstake 0.00000000  gvVALUE-BVBOND-B
+Claim 0.00000000 vBSWAP
+Revoke approval
+Exit
+-------------------------------------------------
+
+Pool: gvVALUE-BWBNB
+ 
+Total Value Locked: $47.42
+gvVALUE-BWBNB Price: $1.01
+Reward token: vBSWAP
+APR 0.00 %
+You are staking 0.00 gvVALUE-BWBNB ($0.00), 0.00% of the pool.
+Approve 0.00000000  gvVALUE-BWBNB
+Stake 0.00000000  gvVALUE-BWBNB
+Unstake 0.00000000  gvVALUE-BWBNB
+Claim 0.00000000 vBSWAP
+Revoke approval
+Exit
+-------------------------------------------------
+
+Pool: vSafeBTCB
+ 
+Total Value Locked: $40,718.58
+vSafeBTCB Price: $37451.29
+Reward token: vBSWAP
+APR 0.00 %
+You are staking 0.00 vSafeBTCB ($0.00), 0.00% of the pool.
+Approve 0.00000000  vSafeBTCB
+Stake 0.00000000  vSafeBTCB
+Unstake 0.00000000  vSafeBTCB
+Claim 0.00000000 vBSWAP
+Revoke approval
+Exit
+-------------------------------------------------
+
+Pool: vSafeETH
+ 
+Total Value Locked: $0.00
+vSafeETH Price: $4229.19
+Reward token: vBSWAP
+APR 0.00 %
+You are staking 0.00 vSafeETH ($0.00), NaN% of the pool.
+Approve 0.00000000  vSafeETH
+Stake 0.00000000  vSafeETH
+Unstake 0.00000000  vSafeETH
+Claim 0.00000000 vBSWAP
+Revoke approval
+Exit
+-------------------------------------------------
+
+Pool: vSafeIBNB
+ 
+Total Value Locked: $0.00
+vSafeIBNB Price: $4.79
+Reward token: vBSWAP
+APR 0.00 %
+You are staking 0.00 vSafeIBNB ($0.00), NaN% of the pool.
+Approve 0.00000000  vSafeIBNB
+Stake 0.00000000  vSafeIBNB
+Unstake 0.00000000  vSafeIBNB
+Claim 0.00000000 vBSWAP
+Revoke approval
+Exit
+-------------------------------------------------
+
+Pool: vSafeIETH
+ 
+Total Value Locked: $0.00
+vSafeIETH Price: $41.37
+Reward token: vBSWAP
+APR 0.00 %
+You are staking 0.00 vSafeIETH ($0.00), NaN% of the pool.
+Approve 0.00000000  vSafeIETH
+Stake 0.00000000  vSafeIETH
+Unstake 0.00000000  vSafeIETH
+Claim 0.00000000 vBSWAP
+Revoke approval
+Exit
+-------------------------------------------------
+
+Pool: vSafeIBUSD
+ 
+Total Value Locked: $0.00
+vSafeIBUSD Price: $0.62
+Reward token: vBSWAP
+APR 0.00 %
+You are staking 0.00 vSafeIBUSD ($0.00), NaN% of the pool.
+Approve 0.00000000  vSafeIBUSD
+Stake 0.00000000  vSafeIBUSD
+Unstake 0.00000000  vSafeIBUSD
+Claim 0.00000000 vBSWAP
+Revoke approval
+Exit
+-------------------------------------------------
+
+Pool: vSafeIUSDT
+ 
+Total Value Locked: $0.00
+vSafeIUSDT Price: $0.75
+Reward token: vBSWAP
+APR 0.00 %
+You are staking 0.00 vSafeIUSDT ($0.00), 0.00% of the pool.
+Approve 0.00000000  vSafeIUSDT
+Stake 0.00000000  vSafeIUSDT
+Unstake 0.00000000  vSafeIUSDT
+Claim 0.00000000 vBSWAP
+Revoke approval
+Exit
+-------------------------------------------------
+
+Pool: FARMWBNB
+ 
+Total Value Locked: $1.71
+FARMWBNB Price: $0.00
+Reward token: vBSWAP
+APR 0.00 %
+You are staking 0.00 FARMWBNB ($0.00), 0.00% of the pool.
+Approve 0.00000000  FARMWBNB
+Stake 0.00000000  FARMWBNB
+Unstake 0.00000000  FARMWBNB
+Claim 0.00000000 vBSWAP
+Revoke approval
+Exit
+-------------------------------------------------
+
+Pool: vSafeIBTCB
+ 
+Total Value Locked: $0.00
+vSafeIBTCB Price: $3406.22
+Reward token: vBSWAP
+APR 0.00 %
+You are staking 0.00 vSafeIBTCB ($0.00), NaN% of the pool.
+Approve 0.00000000  vSafeIBTCB
+Stake 0.00000000  vSafeIBTCB
+Unstake 0.00000000  vSafeIBTCB
+Claim 0.00000000 vBSWAP
+Revoke approval
+Exit
+-------------------------------------------------

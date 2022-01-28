@@ -1,0 +1,297 @@
+*************** 👨‍🌾 UNOFFICIAL SMURF FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://smurf.money
+**************************************************************************
+
+Thu Jan 27 2022 21:24:57 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 25 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [bSMURF]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.04 TVL: $42.40
+bSMURF Price: $0.000262
+BUSD Price: $1.00
+Staked: 428.6203 Cake-LP ($16.26)
+bSMURF Per Week: 1840.40 ($0.48)
+APR: Day 0.42% Week 2.97% Year 154.19%
+You are staking 0.00 [bSMURF]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [bSMURF]-[BUSD] Cake LP
+Unstake 0.00 [bSMURF]-[BUSD] Cake LP
+Claim 0.00 bSMURF ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WBNB]-[bSMURF] Cake LP [+] [-] [<=>] Price: $0.71 TVL: $22.16
+WBNB Price: $367.59
+bSMURF Price: $0.000262
+Staked: 7.7046 Cake-LP ($5.50)
+bSMURF Per Week: 1687.03 ($0.44)
+APR: Day 1.15% Week 8.04% Year 418.21%
+You are staking 0.00 [WBNB]-[bSMURF] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[bSMURF] Cake LP
+Unstake 0.00 [WBNB]-[bSMURF] Cake LP
+Claim 0.00 bSMURF ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - bSMURF Price: $0.000262 Market Cap: $145.90 [%]
+Staked: 82390.5392 bSMURF ($21.59)
+bSMURF Per Week: 1380.30 ($0.36)
+APR: Day 0.24% Week 1.68% Year 87.12%
+You are staking 0.00 bSMURF ($0.00), 0.00% of the pool.
+Stake 0.00 bSMURF
+Unstake 0.00 bSMURF
+Claim 0.00 bSMURF ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.36 TVL: $345,553,115.02
+WBNB Price: $367.59
+BUSD Price: $1.00
+Staked: 0.1115 Cake-LP ($5.28)
+bSMURF Per Week: 191.71 ($0.05)
+APR: Day 0.14% Week 0.95% Year 49.47%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 bSMURF ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDT]-[WBNB] Cake LP [+] [-] [<=>] Price: $48.68 TVL: $190,195,803.40
+USDT Price: $1.00
+WBNB Price: $367.59
+Staked: 0.0211 Cake-LP ($1.03)
+bSMURF Per Week: 172.54 ($0.05)
+APR: Day 0.63% Week 4.41% Year 229.17%
+You are staking 0.00 [USDT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[WBNB] Cake LP
+Claim 0.00 bSMURF ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $7,728.27 TVL: $68,343,787.81
+BTCB Price: $36,200.00
+WBNB Price: $367.59
+Staked: 0.0019 Cake-LP ($14.85)
+bSMURF Per Week: 153.37 ($0.04)
+APR: Day 0.04% Week 0.27% Year 14.07%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 bSMURF ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [DAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $16,852,959.31
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 46.0800 Cake-LP ($96.09)
+bSMURF Per Week: 115.02 ($0.03)
+APR: Day 0.00% Week 0.03% Year 1.63%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 bSMURF ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $131,322,779.08
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 31.5104 Cake-LP ($65.78)
+bSMURF Per Week: 115.02 ($0.03)
+APR: Day 0.01% Week 0.05% Year 2.38%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 bSMURF ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $131,322,779.08
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 31.5104 Cake-LP ($65.78)
+bSMURF Per Week: 115.02 ($0.03)
+APR: Day 0.01% Week 0.05% Year 2.38%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 bSMURF ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $296,975,656.94
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 0.9666 Cake-LP ($2.02)
+bSMURF Per Week: 115.02 ($0.03)
+APR: Day 0.21% Week 1.49% Year 77.42%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 bSMURF ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [DOT]-[WBNB] Cake LP [+] [-] [<=>] Price: $172.26 TVL: $17,684,370.76
+DOT Price: $17.93
+WBNB Price: $367.59
+Staked: 0.0885 Cake-LP ($15.24)
+bSMURF Per Week: 134.20 ($0.04)
+APR: Day 0.03% Week 0.23% Year 12.00%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 bSMURF ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [ADA]-[WBNB] Cake LP [+] [-] [<=>] Price: $42.25 TVL: $12,064,326.36
+ADA Price: $1.03
+WBNB Price: $367.59
+Staked: 0.0496 Cake-LP ($2.10)
+bSMURF Per Week: 134.20 ($0.04)
+APR: Day 0.24% Week 1.68% Year 87.19%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 bSMURF ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $105.14 TVL: $200,172,144.13
+Cake Price: $6.97
+WBNB Price: $367.59
+Staked: 0.0408 Cake-LP ($4.29)
+bSMURF Per Week: 134.20 ($0.04)
+APR: Day 0.12% Week 0.82% Year 42.58%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 bSMURF ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [WBNB]-[UNI] Cake LP [+] [-] [<=>] Price: $129.49 TVL: $6,839,360.51
+WBNB Price: $367.59
+UNI Price: $10.63
+Staked: 0.0286 Cake-LP ($3.70)
+bSMURF Per Week: 122.69 ($0.03)
+APR: Day 0.12% Week 0.87% Year 45.21%
+You are staking 0.00 [WBNB]-[UNI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[UNI] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[UNI] Cake LP
+Claim 0.00 bSMURF ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [WBNB]-[LINK] Cake LP [+] [-] [<=>] Price: $155.62 TVL: $10,352,326.54
+WBNB Price: $367.59
+LINK Price: $15.00
+Staked: 0.0389 Cake-LP ($6.05)
+bSMURF Per Week: 122.69 ($0.03)
+APR: Day 0.08% Week 0.53% Year 27.64%
+You are staking 0.00 [WBNB]-[LINK] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[LINK] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[LINK] Cake LP
+Claim 0.00 bSMURF ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - WBNB Price: $367.59 Market Cap: $1,918,414,021.12 [%]
+Staked: 0.0096 WBNB ($3.53)
+bSMURF Per Week: 172.54 ($0.05)
+APR: Day 0.18% Week 1.28% Year 66.61%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 bSMURF ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - USDT Price: $1.00 Market Cap: $3,879,997,922.18 [%]
+Staked: 2.8800 USDT ($2.88)
+bSMURF Per Week: 115.02 ($0.03)
+APR: Day 0.15% Week 1.05% Year 54.41%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 bSMURF ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - DAI Price: $1.00 Market Cap: $262,000,000.00 [%]
+Staked: 4.7818 DAI ($4.78)
+bSMURF Per Week: 115.02 ($0.03)
+APR: Day 0.09% Week 0.63% Year 32.77%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 bSMURF ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - BTCB Price: $36,200.00 Market Cap: $4,072,536,200.00 [%]
+Staked: 0.0000 BTCB ($0.03)
+bSMURF Per Week: 153.37 ($0.04)
+APR: Day 16.52% Week 115.63% Year 6012.56%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 bSMURF ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - ETH Price: $2,435.14 Market Cap: $3,421,371,700.00 [%]
+Staked: 0.0008 ETH ($1.99)
+bSMURF Per Week: 153.37 ($0.04)
+APR: Day 0.29% Week 2.02% Year 105.03%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 bSMURF ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - Cake Price: $6.97 Market Cap: $4,286,306,527.80 [%]
+Staked: 0.0960 Cake ($0.67)
+bSMURF Per Week: 134.20 ($0.04)
+APR: Day 0.75% Week 5.25% Year 273.24%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 bSMURF ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - BUSD Price: $1.00 Market Cap: $4,841,646,661.81 [%]
+Staked: 1.9200 BUSD ($1.92)
+bSMURF Per Week: 172.54 ($0.05)
+APR: Day 0.34% Week 2.36% Year 122.67%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 bSMURF ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - [SMURF]-[BUSD] Cake LP [+] [-] [<=>] Price: $1.77 TVL: $934.33
+SMURF Price: $0.65
+BUSD Price: $1.00
+Staked: 0.9643 Cake-LP ($1.70)
+bSMURF Per Week: 920.20 ($0.24)
+APR: Day 2.02% Week 14.15% Year 735.58%
+You are staking 0.00 [SMURF]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SMURF]-[BUSD] Cake LP
+Unstake 0.00 [SMURF]-[BUSD] Cake LP
+Claim 0.00 bSMURF ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [SMURF]-[WBNB] Cake LP [+] [-] [<=>] Price: $33.20 TVL: $700.92
+SMURF Price: $0.65
+WBNB Price: $367.59
+Staked: 0.8152 Cake-LP ($27.07)
+bSMURF Per Week: 843.51 ($0.22)
+APR: Day 0.12% Week 0.82% Year 42.46%
+You are staking 0.00 [SMURF]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SMURF]-[WBNB] Cake LP
+Unstake 0.00 [SMURF]-[WBNB] Cake LP
+Claim 0.00 bSMURF ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - SMURF Price: $0.65 Market Cap: $2,619.71 [%]
+Staked: 159.7915 SMURF ($103.95)
+bSMURF Per Week: 766.83 ($0.20)
+APR: Day 0.03% Week 0.19% Year 10.05%
+You are staking 0.00 SMURF ($0.00), 0.00% of the pool.
+Stake 0.00 SMURF - Fee 1%
+Unstake 0.00 SMURF
+Claim 0.00 bSMURF ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $474.08

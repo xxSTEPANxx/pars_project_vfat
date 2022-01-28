@@ -1,0 +1,60 @@
+***************************** AVALANCHE ***********************
+    
+***************  UNOFFICIAL AAVE CALCULATOR  ******************
+INFO  : https://app.aave.com
+***************************************************************
+
+Fri Jan 28 2022 00:25:22 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+WETH.e ($2,328.97)
+Supplied : 245,072.92 ($570,767,467.54) at 0.25% APR
+Borrowed : 33,059.75 ($76,995,161.38) at 2.10% APR
+Reserves : 212,013.17 ($493,772,306.67)
+Farming APR Supply 1.24% Borrow 0.29%
+Net APR Supply 1.50% Borrow -1.81%
+
+DAI.e ($1.00)
+Supplied : 967,105,363.15 ($967,105,363.15) at 2.20% APR
+Borrowed : 676,730,691.98 ($676,730,691.98) at 3.50% APR
+Reserves : 290,374,676.71 ($290,374,676.71)
+Farming APR Supply 2.22% Borrow 0.79%
+Net APR Supply 4.42% Borrow -2.71%
+
+USDT.e ($1.00)
+Supplied : 243,853,486.05 ($243,853,486.05) at 1.35% APR
+Borrowed : 133,650,896.26 ($133,650,896.26) at 2.74% APR
+Reserves : 110,202,590.38 ($110,202,590.38)
+Farming APR Supply 1.60% Borrow 0.73%
+Net APR Supply 2.95% Borrow -2.01%
+
+USDC.e ($1.00)
+Supplied : 1,299,784,564.57 ($1,299,784,564.57) at 1.63% APR
+Borrowed : 783,160,842.80 ($783,160,842.80) at 3.01% APR
+Reserves : 516,623,724.23 ($516,623,724.23)
+Farming APR Supply 2.03% Borrow 0.84%
+Net APR Supply 3.66% Borrow -2.17%
+
+AAVE.e ($138.84)
+Supplied : 139,209.75 ($19,327,881.58) at 0.00% APR
+Borrowed : 0.00 ($0.00) at 0.00% APR
+Reserves : 139,209.75 ($19,327,881.58)
+Farming APR Supply 6.31% Borrow NaN%
+Net APR Supply 6.31% Borrow NaN%
+
+WBTC.e ($35,775.00)
+Supplied : 10,421.51 ($372,829,623.75) at 0.03% APR
+Borrowed : 476.27 ($17,038,553.80) at 0.71% APR
+Reserves : 9,945.24 ($355,791,066.69)
+Farming APR Supply 0.63% Borrow 0.43%
+Net APR Supply 0.66% Borrow -0.28%
+
+WAVAX ($61.70)
+Supplied : 10,220,775.80 ($630,621,866.75) at 1.78% APR
+Borrowed : 3,754,483.64 ($231,651,640.33) at 5.71% APR
+Reserves : 6,466,293.31 ($398,970,297.37)
+Farming APR Supply 7.27% Borrow 0.20%
+Net APR Supply 9.06% Borrow -5.51%

@@ -1,0 +1,95 @@
+*************** 👨‍🌾 UNOFFICIAL POKEMOON FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://pokemoon.io
+*************************************************************************************
+
+Thu Jan 27 2022 20:33:25 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 7 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - KBN Price: $0.01 Market Cap: $342,221.39 [%]
+Staked: 17453907.4738 KBN ($193,459.15)
+KBN Per Week: 25376.22 ($281.27)
+APR: Day 0.02% Week 0.15% Year 7.56%
+You are staking 0.00 KBN ($0.00), 0.00% of the pool.
+Stake 0.00 KBN
+Unstake 0.00 KBN
+Claim 0.00 KBN ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - MNT Price: $0.004346 Market Cap: $270,659.78 [%]
+Staked: 9003332.9300 MNT ($39,124.14)
+KBN Per Week: 25376.22 ($281.27)
+APR: Day 0.10% Week 0.72% Year 37.38%
+You are staking 0.00 MNT ($0.00), 0.00% of the pool.
+Stake 0.00 MNT
+Unstake 0.00 MNT
+Claim 0.00 KBN ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [MNT]-[WBNB] Cake LP [+] [-] [<=>] Price: $2.96 TVL: $14,191.13
+MNT Price: $0.004346
+WBNB Price: $370.95
+Staked: 4702.6135 Cake-LP ($13,922.02)
+KBN Per Week: 100900.70 ($1,118.38)
+APR: Day 1.15% Week 8.03% Year 417.73%
+You are staking 0.00 [MNT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MNT]-[WBNB] Cake LP
+Unstake 0.00 [MNT]-[WBNB] Cake LP
+Claim 0.00 KBN ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [MNT]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.15 TVL: $15,984.43
+MNT Price: $0.004346
+BUSD Price: $1.00
+Staked: 108718.3627 Cake-LP ($15,817.08)
+KBN Per Week: 100900.70 ($1,118.38)
+APR: Day 1.01% Week 7.07% Year 367.68%
+You are staking 0.00 [MNT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MNT]-[BUSD] Cake LP
+Unstake 0.00 [MNT]-[BUSD] Cake LP
+Claim 0.00 KBN ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [KBN]-[WBNB] Cake LP [+] [-] [<=>] Price: $4.35 TVL: $28,613.36
+KBN Price: $0.01
+WBNB Price: $370.95
+Staked: 6369.9792 Cake-LP ($27,683.84)
+KBN Per Week: 151048.95 ($1,674.23)
+APR: Day 0.86% Week 6.05% Year 314.48%
+You are staking 0.00 [KBN]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KBN]-[WBNB] Cake LP
+Unstake 0.00 [KBN]-[WBNB] Cake LP
+Claim 0.00 KBN ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [KBN]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.22 TVL: $27,762.70
+KBN Price: $0.01
+BUSD Price: $1.00
+Staked: 127483.9398 Cake-LP ($27,653.13)
+KBN Per Week: 151048.95 ($1,674.23)
+APR: Day 0.86% Week 6.05% Year 314.83%
+You are staking 0.00 [KBN]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KBN]-[BUSD] Cake LP
+Unstake 0.00 [KBN]-[BUSD] Cake LP
+Claim 0.00 KBN ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.61 TVL: $347,374,123.07
+WBNB Price: $370.95
+BUSD Price: $1.00
+Staked: 186.9393 Cake-LP ($8,900.84)
+KBN Per Week: 50148.25 ($555.84)
+APR: Day 0.89% Week 6.24% Year 324.73%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 2%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 KBN ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $326,560.21

@@ -1,0 +1,63 @@
+*************** UNOFFICIAL FUZZ.FI FARMING CALCULATOR ***************
+
+INFO  : https://swap.fuzz.fi/
+
+Fri Jan 28 2022 01:04:13 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+----------------------------------------------------------------------------------------------------------------------------------
+You're NOT staked to our Harmony validator. You could be earning up to 20% extra on your LP rewards. [LEARN MORE] [DELEGATE NOW]
+----------------------------------------------------------------------------------------------------------------------------------
+Found 4 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - FUZZ Price: $0.03 Market Cap: $4,193,038.52 
+Staked: 100242590.8400 FUZZ ($2,536,051.64)
+FUZZ Per Week: 756000.00 ($19,126.15)
+APR: Day 0.11% Week 0.75% Year 39.22%
+You are staking 0.00 FUZZ ($0.00), 0.00% of the pool.
+Stake 0.00 FUZZ
+Unstake 0.00 FUZZ
+Claim 0.00 FUZZ ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [FUZZ]-[WONE] Uni LP [+] [-] [<=>] Price: $0.14 TVL: $978,978.77
+FUZZ Price: $0.03
+WONE Price: $0.18
+Staked: 7056303.6421 FUZZ-LP ($974,355.51)
+FUZZ Per Week: 1440000.00 ($36,430.77)
+APR: Day 0.53% Week 3.74% Year 194.43%
+You are staking 0.00 [FUZZ]-[WONE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FUZZ]-[WONE] Uni LP
+Unstake 0.00 [FUZZ]-[WONE] Uni LP
+Claim 0.00 FUZZ ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [UST]-[FUZZ] Uni LP [+] [-] [<=>] Price: $0.33 TVL: $446,119.54
+UST Price: $1.00
+FUZZ Price: $0.03
+Staked: 1347001.6902 FUZZ-LP ($444,062.29)
+FUZZ Per Week: 720000.00 ($18,215.38)
+APR: Day 0.59% Week 4.10% Year 213.30%
+You are staking 0.00 [UST]-[FUZZ] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UST]-[FUZZ] Uni LP
+Unstake 0.00 [UST]-[FUZZ] Uni LP
+Claim 0.00 FUZZ ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [UST]-[WONE] Uni LP [+] [-] [<=>] Price: $0.92 TVL: $411,699.23
+UST Price: $1.00
+WONE Price: $0.18
+Staked: 445914.8675 FUZZ-LP ($410,234.53)
+FUZZ Per Week: 108000.00 ($2,732.31)
+APR: Day 0.10% Week 0.67% Year 34.63%
+You are staking 0.00 [UST]-[WONE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UST]-[WONE] Uni LP
+Unstake 0.00 [UST]-[WONE] Uni LP
+Claim 0.00 FUZZ ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $4,364,703.97

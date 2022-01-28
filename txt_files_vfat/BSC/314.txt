@@ -1,0 +1,132 @@
+*************** 👨‍🌾 UNOFFICIAL CHIPSHOP.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://chipshop.finance
+*************************************************************************************
+
+Thu Jan 27 2022 21:11:56 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 5 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [CHIPS]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.19 TVL: $15.91
+CHIPS Price: $0.007397
+BUSD Price: $1.00
+Staked: 68.0069 Cake-LP ($12.95)
+FISH Per Week: 1.58 ($1.36)
+APR: Day 1.50% Week 10.47% Year 544.62%
+You are staking 0.00 [CHIPS]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CHIPS]-[BUSD] Cake LP
+Unstake 0.00 [CHIPS]-[BUSD] Cake LP
+Claim 0.00 FISH ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [CHIPS]-[WBNB] Cake LP [+] [-] [<=>] Price: $3.83 TVL: $35.75
+CHIPS Price: $0.007397
+WBNB Price: $369.08
+Staked: 4.6409 Cake-LP ($17.75)
+FISH Per Week: 1.58 ($1.36)
+APR: Day 1.09% Week 7.64% Year 397.25%
+You are staking 0.00 [CHIPS]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CHIPS]-[WBNB] Cake LP
+Unstake 0.00 [CHIPS]-[WBNB] Cake LP
+Claim 0.00 FISH ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[FISH] Cake LP [+] [-] [<=>] Price: $37.60 TVL: $109.76
+WBNB Price: $369.08
+FISH Price: $0.86
+Staked: 2.0454 Cake-LP ($76.91)
+FISH Per Week: 3.16 ($2.71)
+APR: Day 0.50% Week 3.53% Year 183.40%
+You are staking 0.00 [WBNB]-[FISH] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[FISH] Cake LP
+Unstake 0.00 [WBNB]-[FISH] Cake LP
+Claim 0.00 FISH ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [CHIPS]-[BTD] Cake LP [+] [-] [<=>] Price: $0.04 TVL: $9.77
+CHIPS Price: $0.007397
+BTD Price: $0.06
+Staked: 136.2275 Cake-LP ($6.00)
+FISH Per Week: 0.53 ($0.45)
+APR: Day 1.08% Week 7.53% Year 391.57%
+You are staking 0.00 [CHIPS]-[BTD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CHIPS]-[BTD] Cake LP
+Unstake 0.00 [CHIPS]-[BTD] Cake LP
+Claim 0.00 FISH ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [MPEAS]-[CHIPS] Cake LP [+] [-] [<=>] Price: $0.02 TVL: $1.01
+MPEAS Price: $0.01
+CHIPS Price: $0.007397
+Staked: 45.6441 Cake-LP ($0.88)
+FISH Per Week: 1.58 ($1.36)
+APR: Day 22.06% Week 154.39% Year 8028.16%
+You are staking 0.00 [MPEAS]-[CHIPS] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MPEAS]-[CHIPS] Cake LP
+Unstake 0.00 [MPEAS]-[CHIPS] Cake LP
+Claim 0.00 FISH ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $114.49
+Staking Contract
+Found 5 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - WBNB Price: $369.08 Market Cap: $1,926,791,987.22 [%]
+Staked: 0.3673 WBNB ($135.55)
+CHIPS Per Week: 0.68 ($0.01)
+APR: Day 0.00% Week 0.00% Year 0.19%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB
+Unstake 0.00 WBNB
+Claim 0.00 CHIPS ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - BUSD Price: $1.00 Market Cap: $4,835,544,104.58 [%]
+Staked: 1098.9990 BUSD ($1,095.50)
+CHIPS Per Week: 0.34 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.01%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD
+Unstake 0.00 BUSD
+Claim 0.00 CHIPS ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - BTD Price: $0.06 Market Cap: $575,200.90 [%]
+Staked: 43924.0558 BTD ($2,615.15)
+CHIPS Per Week: 0.17 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BTD ($0.00), 0.00% of the pool.
+Stake 0.00 BTD
+Unstake 0.00 BTD
+Claim 0.00 CHIPS ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - BTS Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 BTS ($0.00)
+CHIPS Per Week: 0.17 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BTS ($0.00), NaN% of the pool.
+Stake 0.00 BTS
+Unstake 0.00 BTS
+Claim 0.00 CHIPS ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [CHIPS]-[WBNB] Cake LP [+] [-] [<=>] Price: $3.83 TVL: $35.75
+CHIPS Price: $0.007397
+WBNB Price: $369.08
+Staked: 0.0889 Cake-LP ($0.34)
+CHIPS Per Week: 33.64 ($0.25)
+APR: Day 10.46% Week 73.19% Year 3805.80%
+You are staking 0.00 [CHIPS]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CHIPS]-[WBNB] Cake LP
+Unstake 0.00 [CHIPS]-[WBNB] Cake LP
+Claim 0.00 CHIPS ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $3,846.54

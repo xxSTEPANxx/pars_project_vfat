@@ -1,0 +1,39 @@
+*************** 👨‍🌾 UNOFFICIAL OCTREE.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://octree.finance
+***********************************************************************************
+
+Thu Jan 27 2022 20:33:33 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 2 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [OCT]-[WBNB] Cake LP [+] [-] [<=>] Price: $34,846,267.90 TVL: $2,107.89
+OCT Price: $63.56
+WBNB Price: $370.95
+Staked: 0.0000 Cake-LP ($1,479.18)
+OAK Per Week: 17.28 ($19.28)
+APR: Day 0.19% Week 1.30% Year 67.79%
+You are staking 0.00 [OCT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [OCT]-[WBNB] Cake LP
+Unstake 0.00 [OCT]-[WBNB] Cake LP
+Claim 0.00 OAK ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [OAK]-[WBNB] Cake LP [+] [-] [<=>] Price: $41.45 TVL: $347.80
+OAK Price: $1.12
+WBNB Price: $370.95
+Staked: 3.1273 Cake-LP ($129.64)
+OAK Per Week: 2.88 ($3.21)
+APR: Day 0.35% Week 2.48% Year 128.91%
+You are staking 0.00 [OAK]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [OAK]-[WBNB] Cake LP
+Unstake 0.00 [OAK]-[WBNB] Cake LP
+Claim 0.00 OAK ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $1,608.82

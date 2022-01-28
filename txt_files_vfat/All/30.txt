@@ -1,0 +1,133 @@
+*************** 👨‍🌾 UNOFFICIAL STAKE DAO FARMING CALCULATOR 👨‍🌾 *****************
+INFO  : https://stakedao.org
+********************************************************************************
+
+Thu Jan 27 2022 19:22:43 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 15 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+1 - sd3Crv (Wrapped Curve.fi DAI/USDC/USDT) Price: $1.08 TVL: $6,832,103.93
+Staked: 6193990.5057 sd3Crv ($6,701,935.25)
+SDT Per Week: 461.66 ($863.31)
+APR: Day 0.00% Week 0.01% Year 0.67%
+You are staking 0.00 sd3Crv ($0.00), 0.00% of the pool.
+Stake 0.00 sd3Crv
+Unstake 0.00 sd3Crv
+Claim 0.00 SDT ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - sdeursCRV (Wrapped Curve.fi EURS/sEUR) Price: $1.35 TVL: $14,752,820.27
+Staked: 10419229.3751 sdeursCRV ($14,075,369.10)
+SDT Per Week: 1969.77 ($3,683.46)
+APR: Day 0.00% Week 0.03% Year 1.36%
+You are staking 0.00 sdeursCRV ($0.00), 0.00% of the pool.
+Stake 0.00 sdeursCRV
+Unstake 0.00 sdeursCRV
+Claim 0.00 SDT ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - sdcrvRenWSBTC (Wrapped Curve.fi renBTC/wBTC/sBTC) Price: $37,224.46 TVL: $20,836,151.50
+Staked: 20.3644 sdcrvRenWSBTC ($758,052.63)
+SDT Per Week: 461.66 ($863.31)
+APR: Day 0.02% Week 0.11% Year 5.92%
+You are staking 0.00 sdcrvRenWSBTC ($0.00), 0.00% of the pool.
+Stake 0.00 sdcrvRenWSBTC
+Unstake 0.00 sdcrvRenWSBTC
+Claim 0.00 SDT ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [SDT]-[WETH] Uni LP [+] [-] [<=>] Price: $156.49 TVL: $3,316,999.12
+SDT Price: $1.87
+WETH Price: $2,465.15
+Staked: 20634.1227 UNI-V2 ($3,229,084.42)
+SDT Per Week: 5570.75 ($10,417.29)
+APR: Day 0.05% Week 0.32% Year 16.78%
+You are staking 0.00 [SDT]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SDT]-[WETH] Uni LP
+Unstake 0.00 [SDT]-[WETH] Uni LP
+Claim 0.00 SDT ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [SDT]-[WETH] SLP [+] [-] [<=>] Price: $143.73 TVL: $1,428,786.83
+SDT Price: $1.87
+WETH Price: $2,465.15
+Staked: 2658.4500 SLP ($382,093.36)
+SDT Per Week: 1354.21 ($2,532.38)
+APR: Day 0.09% Week 0.66% Year 34.46%
+You are staking 0.00 [SDT]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [SDT]-[WETH] SLP
+Unstake 0.00 [SDT]-[WETH] SLP
+Claim 0.00 SDT ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - sdveCRV90-CRV10 Price: $0.00 Market Cap: $0.00 
+Staked: 2316897.5578 sdveCRV90-CRV10 ($0.00)
+SDT Per Week: 29084.83 ($54,388.64)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 sdveCRV90-CRV10 ($0.00), NaN% of the pool.
+Stake 0.00 sdveCRV90-CRV10
+Unstake 0.00 sdveCRV90-CRV10
+Claim 0.00 SDT ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - sdeCRV (Wrapped Curve.fi ETH/sETH) Price: $0.00 TVL: $0.00
+Staked: 345.7539 sdeCRV ($0.00)
+SDT Per Week: 1077.22 ($2,014.39)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 sdeCRV ($0.00), NaN% of the pool.
+Stake 0.00 sdeCRV
+Unstake 0.00 sdeCRV
+Claim 0.00 SDT ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - sdsteCRV (Wrapped Curve.fi ETH/stETH) Price: $0.00 TVL: $0.00
+Staked: 826.4079 sdsteCRV ($0.00)
+SDT Per Week: 461.66 ($863.31)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 sdsteCRV ($0.00), NaN% of the pool.
+Stake 0.00 sdsteCRV
+Unstake 0.00 sdsteCRV
+Claim 0.00 SDT ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - DMT Price: $0.00 Market Cap: $0.00 
+Staked: 1.0000 DMT ($0.00)
+SDT Per Week: 265856.91 ($497,152.42)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 DMT ($0.00), NaN% of the pool.
+Stake 0.00 DMT
+Unstake 0.00 DMT
+Claim 0.00 SDT ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - sdWbtcCoveredCall Price: $0.00 Market Cap: $0.00 
+Staked: 301.1106 sdWbtcCoveredCall ($0.00)
+SDT Per Week: 461.66 ($863.31)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 sdWbtcCoveredCall ($0.00), NaN% of the pool.
+Stake 0.00 sdWbtcCoveredCall
+Unstake 0.00 sdWbtcCoveredCall
+Claim 0.00 SDT ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - sdETHCoveredCall Price: $0.00 Market Cap: $0.00 
+Staked: 5733.4895 sdETHCoveredCall ($0.00)
+SDT Per Week: 1015.66 ($1,899.29)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 sdETHCoveredCall ($0.00), NaN% of the pool.
+Stake 0.00 sdETHCoveredCall
+Unstake 0.00 sdETHCoveredCall
+Claim 0.00 SDT ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $25,146,534.75
+
+SDT Price: $1.87 Market Cap: $98,829,398.47 [%]
+Staked: 10322126.6561 SDT ($19,302,376.85)
+You are staking 0.00 SDT ($0.00), 0.00% of the pool.

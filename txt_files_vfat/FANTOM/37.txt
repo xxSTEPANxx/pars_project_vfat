@@ -1,0 +1,123 @@
+*************** 👨‍🌾 UNOFFICIAL AURAFI.ORG FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://dapp.aurafi.org
+**********************************************************************************
+
+Fri Jan 28 2022 00:40:12 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 9 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [WFTM]-[AURA] Uni LP [+] [-] [<=>] Price: $0.00 TVL: $5.37
+WFTM Price: $2.02
+AURA Price: $0.0000007405
+Staked: 110.9964 ALP ($0.27)
+AURA Per Week: 10701600.00 ($7.93)
+APR: Day 414.08% Week 2898.56% Year 150725.27%
+You are staking 0.00 [WFTM]-[AURA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[AURA] Uni LP
+Unstake 0.00 [WFTM]-[AURA] Uni LP
+Claim 0.00 AURA ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WFTM]-[DAI] Uni LP [+] [-] [<=>] Price: $3.01 TVL: $1,173.13
+WFTM Price: $2.02
+DAI Price: $1.00
+Staked: 0.0000 ALP ($0.00)
+AURA Per Week: 1712256.00 ($1.27)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WFTM]-[DAI] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [WFTM]-[DAI] Uni LP
+Unstake 0.00 [WFTM]-[DAI] Uni LP
+Claim 0.00 AURA ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [USDC]-[WFTM] Uni LP [+] [-] [<=>] Price: $104,941,057.58 TVL: $13,550.82
+USDC Price: $1.00
+WFTM Price: $2.02
+Staked: 0.0000 ALP ($1,915.69)
+AURA Per Week: 1712256.00 ($1.27)
+APR: Day 0.01% Week 0.07% Year 3.44%
+You are staking 0.00 [USDC]-[WFTM] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WFTM] Uni LP
+Unstake 0.00 [USDC]-[WFTM] Uni LP
+Claim 0.00 AURA ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WFTM]-[LINK] Uni LP [+] [-] [<=>] Price: $11.02 TVL: $111.28
+WFTM Price: $2.02
+LINK Price: $14.66
+Staked: 0.0000 ALP ($0.00)
+AURA Per Week: 856128.00 ($0.63)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WFTM]-[LINK] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [WFTM]-[LINK] Uni LP
+Unstake 0.00 [WFTM]-[LINK] Uni LP
+Claim 0.00 AURA ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [WFTM]-[BTC] Uni LP [+] [-] [<=>] Price: $54,904,202.10 TVL: $267.16
+WFTM Price: $2.02
+BTC Price: $35,870.00
+Staked: 0.0000 ALP ($0.00)
+AURA Per Week: 856128.00 ($0.63)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WFTM]-[BTC] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [WFTM]-[BTC] Uni LP
+Unstake 0.00 [WFTM]-[BTC] Uni LP
+Claim 0.00 AURA ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WFTM]-[ETH] Uni LP [+] [-] [<=>] Price: $139.95 TVL: $315.40
+WFTM Price: $2.02
+ETH Price: $2,320.47
+Staked: 0.0000 ALP ($0.00)
+AURA Per Week: 856128.00 ($0.63)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WFTM]-[ETH] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [WFTM]-[ETH] Uni LP
+Unstake 0.00 [WFTM]-[ETH] Uni LP
+Claim 0.00 AURA ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [WFTM]-[BNB] Uni LP [+] [-] [<=>] Price: $54.71 TVL: $36.85
+WFTM Price: $2.02
+BNB Price: $363.87
+Staked: 0.0000 ALP ($0.00)
+AURA Per Week: 856128.00 ($0.63)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WFTM]-[BNB] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [WFTM]-[BNB] Uni LP
+Unstake 0.00 [WFTM]-[BNB] Uni LP
+Claim 0.00 AURA ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [WFTM]-[SUSHI] Uni LP [+] [-] [<=>] Price: $5.68 TVL: $53.36
+WFTM Price: $2.02
+SUSHI Price: $3.89
+Staked: 0.0000 ALP ($0.00)
+AURA Per Week: 856128.00 ($0.63)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WFTM]-[SUSHI] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [WFTM]-[SUSHI] Uni LP
+Unstake 0.00 [WFTM]-[SUSHI] Uni LP
+Claim 0.00 AURA ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [CRV]-[WFTM] Uni LP [+] [-] [<=>] Price: $4.76 TVL: $77.36
+CRV Price: $2.73
+WFTM Price: $2.02
+Staked: 0.0000 ALP ($0.00)
+AURA Per Week: 856128.00 ($0.63)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [CRV]-[WFTM] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [CRV]-[WFTM] Uni LP
+Unstake 0.00 [CRV]-[WFTM] Uni LP
+Claim 0.00 AURA ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $1,915.96

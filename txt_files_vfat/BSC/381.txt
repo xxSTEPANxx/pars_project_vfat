@@ -1,0 +1,301 @@
+*************** 👨‍🌾 UNOFFICIAL SYMBIOTESWAP FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://www.symbioteswap.net
+*************************************************************************************
+
+Thu Jan 27 2022 21:21:15 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 26 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [SYM]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.02 TVL: $33.81
+SYM Price: $0.0000831783
+BUSD Price: $1.00
+Staked: 857.1987 Cake-LP ($18.41)
+SYMBIOTE Per Week: 2532.42 ($0.21)
+APR: Day 0.16% Week 1.14% Year 59.48%
+You are staking 0.00 [SYM]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SYM]-[BUSD] Cake LP
+Unstake 0.00 [SYM]-[BUSD] Cake LP
+Claim 0.00 SYMBIOTE ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [SYM]-[WBNB] Cake LP [+] [-] [<=>] Price: $0.41 TVL: $20.62
+SYM Price: $0.0000831783
+WBNB Price: $367.93
+Staked: 7.1755 Cake-LP ($2.97)
+SYMBIOTE Per Week: 2215.87 ($0.18)
+APR: Day 0.89% Week 6.20% Year 322.22%
+You are staking 0.00 [SYM]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SYM]-[WBNB] Cake LP
+Unstake 0.00 [SYM]-[WBNB] Cake LP
+Claim 0.00 SYMBIOTE ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.40 TVL: $345,812,094.11
+WBNB Price: $367.93
+BUSD Price: $1.00
+Staked: 0.4750 Cake-LP ($22.51)
+SYMBIOTE Per Week: 253.24 ($0.02)
+APR: Day 0.01% Week 0.09% Year 4.87%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 SYMBIOTE ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $297,060,947.67
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 1.8796 Cake-LP ($3.94)
+SYMBIOTE Per Week: 253.24 ($0.02)
+APR: Day 0.08% Week 0.53% Year 27.82%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 SYMBIOTE ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $7,731.84 TVL: $68,375,301.88
+BTCB Price: $36,200.00
+WBNB Price: $367.93
+Staked: 0.0000 Cake-LP ($0.00)
+SYMBIOTE Per Week: 253.24 ($0.02)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 SYMBIOTE ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,026.96 TVL: $73,846,608.99
+ETH Price: $2,417.58
+WBNB Price: $367.93
+Staked: 0.0341 Cake-LP ($69.17)
+SYMBIOTE Per Week: 253.24 ($0.02)
+APR: Day 0.00% Week 0.03% Year 1.58%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 SYMBIOTE ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [DAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $16,857,810.58
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 1.9838 Cake-LP ($4.14)
+SYMBIOTE Per Week: 253.24 ($0.02)
+APR: Day 0.07% Week 0.51% Year 26.47%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 SYMBIOTE ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $131,424,885.95
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 3.2403 Cake-LP ($6.77)
+SYMBIOTE Per Week: 253.24 ($0.02)
+APR: Day 0.04% Week 0.31% Year 16.18%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 SYMBIOTE ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [DOT]-[WBNB] Cake LP [+] [-] [<=>] Price: $172.48 TVL: $17,707,342.52
+DOT Price: $17.96
+WBNB Price: $367.93
+Staked: 0.0000 Cake-LP ($0.00)
+SYMBIOTE Per Week: 253.24 ($0.02)
+APR: Day 18172.99% Week 127210.93% Year 6614968.59%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 SYMBIOTE ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - SYM Price: $0.0000831783 Market Cap: $157.29 [%]
+Staked: 974848.3202 SYM ($81.09)
+SYMBIOTE Per Week: 791.38 ($0.07)
+APR: Day 0.01% Week 0.08% Year 4.22%
+You are staking 0.00 SYM ($0.00), 0.00% of the pool.
+Stake 0.00 SYM
+Unstake 0.00 SYM
+Claim 0.00 SYMBIOTE ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - BUSD Price: $1.00 Market Cap: $4,844,435,986.46 [%]
+Staked: 2.9552 BUSD ($2.95)
+SYMBIOTE Per Week: 158.28 ($0.01)
+APR: Day 0.06% Week 0.45% Year 23.20%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 SYMBIOTE ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - WBNB Price: $367.93 Market Cap: $1,919,952,584.61 [%]
+Staked: 0.0034 WBNB ($1.27)
+SYMBIOTE Per Week: 158.28 ($0.01)
+APR: Day 0.15% Week 1.04% Year 54.10%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 SYMBIOTE ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - USDT Price: $1.00 Market Cap: $3,879,997,922.18 [%]
+Staked: 4.7200 USDT ($4.72)
+SYMBIOTE Per Week: 158.28 ($0.01)
+APR: Day 0.04% Week 0.28% Year 14.50%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 SYMBIOTE ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - BTCB Price: $36,200.00 Market Cap: $4,072,536,200.00 [%]
+Staked: 0.0000 BTCB ($0.04)
+SYMBIOTE Per Week: 158.28 ($0.01)
+APR: Day 4.92% Week 34.44% Year 1790.84%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 SYMBIOTE ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - ETH Price: $2,417.58 Market Cap: $3,396,699,900.00 [%]
+Staked: 0.0000 ETH ($0.00)
+SYMBIOTE Per Week: 158.28 ($0.01)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 ETH ($0.00), NaN% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 SYMBIOTE ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - DAI Price: $1.00 Market Cap: $262,000,000.00 [%]
+Staked: 0.8996 DAI ($0.90)
+SYMBIOTE Per Week: 158.28 ($0.01)
+APR: Day 0.21% Week 1.46% Year 76.10%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 SYMBIOTE ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - USDC Price: $1.00 Market Cap: $1,778,726,034.00 [%]
+Staked: 0.0000 USDC ($0.00)
+SYMBIOTE Per Week: 158.28 ($0.01)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 USDC ($0.00), NaN% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 SYMBIOTE ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - DOT Price: $17.96 Market Cap: $287,359,999.84 [%]
+Staked: 0.0062 DOT ($0.11)
+SYMBIOTE Per Week: 158.28 ($0.01)
+APR: Day 1.68% Week 11.77% Year 611.94%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 SYMBIOTE ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $105.26 TVL: $200,408,391.46
+Cake Price: $6.98
+WBNB Price: $367.93
+Staked: 0.0925 Cake-LP ($9.74)
+SYMBIOTE Per Week: 253.24 ($0.02)
+APR: Day 0.03% Week 0.22% Year 11.25%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 SYMBIOTE ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [ADA]-[WBNB] Cake LP [+] [-] [<=>] Price: $42.27 TVL: $12,069,891.17
+ADA Price: $1.03
+WBNB Price: $367.93
+Staked: 0.0206 Cake-LP ($0.87)
+SYMBIOTE Per Week: 253.24 ($0.02)
+APR: Day 0.35% Week 2.42% Year 126.01%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 SYMBIOTE ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - Cake Price: $6.98 Market Cap: $4,292,449,904.12 [%]
+Staked: 0.0000 Cake ($0.00)
+SYMBIOTE Per Week: 158.28 ($0.01)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 Cake ($0.00), NaN% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 SYMBIOTE ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - ADA Price: $1.03 Market Cap: $288,400,000.00 [%]
+Staked: 0.0908 ADA ($0.09)
+SYMBIOTE Per Week: 158.28 ($0.01)
+APR: Day 2.01% Week 14.08% Year 732.20%
+You are staking 0.00 ADA ($0.00), 0.00% of the pool.
+Stake 0.00 ADA - Fee 4%
+Unstake 0.00 ADA
+Claim 0.00 SYMBIOTE ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - [SYM]-[CARNAGE] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $0.36
+SYM Price: $0.0000831783
+CARNAGE Price: $0.000174
+Staked: 1138.0030 Cake-LP ($0.34)
+SYMBIOTE Per Week: 1582.76 ($0.13)
+APR: Day 5.50% Week 38.53% Year 2003.41%
+You are staking 0.00 [SYM]-[CARNAGE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SYM]-[CARNAGE] Cake LP
+Unstake 0.00 [SYM]-[CARNAGE] Cake LP
+Claim 0.00 SYMBIOTE ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [VENOM]-[CARNAGE] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $17.19
+VENOM Price: $0.000476
+CARNAGE Price: $0.000174
+Staked: 2194.5487 Cake-LP ($1.60)
+SYMBIOTE Per Week: 569.79 ($0.05)
+APR: Day 0.42% Week 2.96% Year 154.12%
+You are staking 0.00 [VENOM]-[CARNAGE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [VENOM]-[CARNAGE] Cake LP - Fee 2%
+Unstake 0.00 [VENOM]-[CARNAGE] Cake LP
+Claim 0.00 SYMBIOTE ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - CARNAGE Price: $0.000174 Market Cap: $392.53 [%]
+Staked: 20455.7866 CARNAGE ($3.55)
+SYMBIOTE Per Week: 474.83 ($0.04)
+APR: Day 0.16% Week 1.11% Year 57.87%
+You are staking 0.00 CARNAGE ($0.00), 0.00% of the pool.
+Stake 0.00 CARNAGE - Fee 2%
+Unstake 0.00 CARNAGE
+Claim 0.00 SYMBIOTE ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - LINK Price: $15.01 Market Cap: $129,086,000.00 [%]
+Staked: 0.0000 LINK ($0.00)
+SYMBIOTE Per Week: 158.28 ($0.01)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 LINK ($0.00), NaN% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 SYMBIOTE ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $235.18

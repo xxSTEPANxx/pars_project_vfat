@@ -1,0 +1,243 @@
+*************** 👨‍🌾 UNOFFICIAL CHUPACABRA.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://chupacabra.finance
+***************************************************************************************
+
+Thu Jan 27 2022 21:39:17 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 20 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.45 TVL: $346,167,563.89
+WBNB Price: $368.50
+BUSD Price: $1.00
+Staked: 2.3539 Cake-LP ($111.68)
+Chupa Per Week: 367.88 ($19.36)
+APR: Day 2.48% Week 17.34% Year 901.42%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 Chupa ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $105.42 TVL: $200,711,647.24
+Cake Price: $6.99
+WBNB Price: $368.50
+Staked: 0.0411 Cake-LP ($4.33)
+Chupa Per Week: 294.31 ($15.49)
+APR: Day 51.12% Week 357.87% Year 18609.14%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 Chupa ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.10 TVL: $297,135,019.41
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0009 Cake-LP ($0.00)
+Chupa Per Week: 367.88 ($19.36)
+APR: Day 140143.24% Week 981002.69% Year 51012139.89%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 Chupa ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDT]-[WBNB] Cake LP [+] [-] [<=>] Price: $48.74 TVL: $190,431,440.12
+USDT Price: $1.00
+WBNB Price: $368.50
+Staked: 51.2862 Cake-LP ($2,499.62)
+Chupa Per Week: 367.88 ($19.36)
+APR: Day 0.11% Week 0.77% Year 40.28%
+You are staking 0.00 [USDT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WBNB] Cake LP
+Unstake 0.00 [USDT]-[WBNB] Cake LP
+Claim 0.00 Chupa ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $131,474,168.94
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+Chupa Per Week: 367.88 ($19.36)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 Chupa ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [BTCB]-[BUSD] Cake LP [+] [-] [<=>] Price: $412.15 TVL: $50,352,480.88
+BTCB Price: $36,105.00
+BUSD Price: $1.00
+Staked: 0.0014 Cake-LP ($0.57)
+Chupa Per Week: 294.31 ($15.49)
+APR: Day 385.31% Week 2697.17% Year 140252.62%
+You are staking 0.00 [BTCB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[BUSD] Cake LP
+Unstake 0.00 [BTCB]-[BUSD] Cake LP
+Claim 0.00 Chupa ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,027.51 TVL: $73,865,143.91
+ETH Price: $2,415.14
+WBNB Price: $368.50
+Staked: 0.0000 Cake-LP ($0.00)
+Chupa Per Week: 294.31 ($15.49)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 Chupa ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [Cake]-[BUSD] Cake LP [+] [-] [<=>] Price: $7.80 TVL: $11,493,260.83
+Cake Price: $6.99
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+Chupa Per Week: 294.31 ($15.49)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 Chupa ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $7,727.66 TVL: $68,338,473.89
+BTCB Price: $36,105.00
+WBNB Price: $368.50
+Staked: 0.0000 Cake-LP ($0.00)
+Chupa Per Week: 294.31 ($15.49)
+APR: Day 166504.79% Week 1165533.56% Year 60607745.01%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 Chupa ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [TUSD]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.01 TVL: $62,585,234.45
+TUSD Price: $1.00
+BUSD Price: $1.00
+Staked: 0.1902 Cake-LP ($0.38)
+Chupa Per Week: 367.88 ($19.36)
+APR: Day 721.67% Week 5051.68% Year 262687.15%
+You are staking 0.00 [TUSD]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TUSD]-[BUSD] Cake LP
+Unstake 0.00 [TUSD]-[BUSD] Cake LP
+Claim 0.00 Chupa ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [ETH]-[USDC] Cake LP [+] [-] [<=>] Price: $104.10 TVL: $29,022,955.62
+ETH Price: $2,415.14
+USDC Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+Chupa Per Week: 294.31 ($15.49)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [ETH]-[USDC] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [ETH]-[USDC] Cake LP
+Unstake 0.00 [ETH]-[USDC] Cake LP
+Claim 0.00 Chupa ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [USDT]-[USDC] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $53,870,679.14
+USDT Price: $1.00
+USDC Price: $1.00
+Staked: 0.0937 Cake-LP ($0.20)
+Chupa Per Week: 367.88 ($19.36)
+APR: Day 1414.47% Week 9901.30% Year 514867.56%
+You are staking 0.00 [USDT]-[USDC] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[USDC] Cake LP
+Unstake 0.00 [USDT]-[USDC] Cake LP
+Claim 0.00 Chupa ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - WBNB Price: $368.50 Market Cap: $1,923,589,150.11 [%]
+Staked: 0.0731 WBNB ($26.95)
+Chupa Per Week: 367.88 ($19.36)
+APR: Day 10.26% Week 71.84% Year 3735.45%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB
+Unstake 0.00 WBNB
+Claim 0.00 Chupa ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - Cake Price: $6.99 Market Cap: $4,298,633,889.06 [%]
+Staked: 0.0196 Cake ($0.14)
+Chupa Per Week: 367.88 ($19.36)
+APR: Day 2023.81% Week 14166.66% Year 736666.42%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake
+Unstake 0.00 Cake
+Claim 0.00 Chupa ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - BTCB Price: $36,105.00 Market Cap: $4,061,848,605.00 [%]
+Staked: 0.0004 BTCB ($15.37)
+Chupa Per Week: 294.31 ($15.49)
+APR: Day 14.39% Week 100.74% Year 5238.65%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB
+Unstake 0.00 BTCB
+Claim 0.00 Chupa ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - ETH Price: $2,415.14 Market Cap: $3,393,271,700.00 [%]
+Staked: 0.0003 ETH ($0.62)
+Chupa Per Week: 294.31 ($15.49)
+APR: Day 359.72% Week 2518.03% Year 130937.33%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH
+Unstake 0.00 ETH
+Claim 0.00 Chupa ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - BUSD Price: $1.00 Market Cap: $4,846,842,082.15 [%]
+Staked: 28.6367 BUSD ($28.61)
+Chupa Per Week: 515.04 ($27.10)
+APR: Day 13.53% Week 94.73% Year 4926.03%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD
+Unstake 0.00 BUSD
+Claim 0.00 Chupa ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [Chupa]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.49 TVL: $474.88
+Chupa Price: $0.05
+BUSD Price: $1.00
+Staked: 51.5892 Cake-LP ($25.47)
+Chupa Per Week: 1324.38 ($69.70)
+APR: Day 39.10% Week 273.67% Year 14230.94%
+You are staking 0.00 [Chupa]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Chupa]-[BUSD] Cake LP
+Unstake 0.00 [Chupa]-[BUSD] Cake LP
+Claim 0.00 Chupa ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [Chupa]-[WBNB] Cake LP [+] [-] [<=>] Price: $9.35 TVL: $1,077.83
+Chupa Price: $0.05
+WBNB Price: $368.50
+Staked: 23.1262 Cake-LP ($216.14)
+Chupa Per Week: 1839.42 ($96.80)
+APR: Day 6.40% Week 44.79% Year 2328.91%
+You are staking 0.00 [Chupa]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Chupa]-[WBNB] Cake LP
+Unstake 0.00 [Chupa]-[WBNB] Cake LP
+Claim 0.00 Chupa ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - Chupa Price: $0.05 Market Cap: $1,259.06 [%]
+Staked: 700.7205 Chupa ($36.88)
+Chupa Per Week: 1103.65 ($58.08)
+APR: Day 22.50% Week 157.50% Year 8190.11%
+You are staking 0.00 Chupa ($0.00), 0.00% of the pool.
+Stake 0.00 Chupa
+Unstake 0.00 Chupa
+Claim 0.00 Chupa ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $2,966.96

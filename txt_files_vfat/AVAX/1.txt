@@ -1,0 +1,863 @@
+***************************** AVALANCHE *********************************
+    
+*************** 👨‍🌾 UNOFFICIAL PANGOLIN FARMING CALCULATOR 👨‍🌾 ***********
+INFO  : https://app.pangolin.exchange/#/png
+*************************************************************************
+
+Fri Jan 28 2022 00:06:21 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 74 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [PNG]-[WAVAX] PGL [+] [-] [<=>] Price: $10.29 TVL: $11,525,019.95
+PNG Price: $0.32
+WAVAX Price: $62.02
+Staked: 1024752.7395 PGL ($10,541,005.02)
+PNG Per Week: 116735.35 ($37,554.34)
+APR: Day 0.05% Week 0.36% Year 18.53%
+You are staking 0.00 [PNG]-[WAVAX] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [PNG]-[WAVAX] PGL
+Unstake 0.00 [PNG]-[WAVAX] PGL
+Claim 0.00 PNG ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [PNG]-[USDC.e] PGL [+] [-] [<=>] Price: $1,223,278.65 TVL: $864,942.47
+PNG Price: $0.32
+USDC.e Price: $1.00
+Staked: 0.6912 PGL ($845,579.46)
+PNG Per Week: 62638.48 ($20,151.11)
+APR: Day 0.34% Week 2.38% Year 123.92%
+You are staking 0.00 [PNG]-[USDC.e] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [PNG]-[USDC.e] PGL
+Unstake 0.00 [PNG]-[USDC.e] PGL
+Claim 0.00 PNG ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [USDC.e]-[USDT.e] PGL [+] [-] [<=>] Price: $2,044,993,568,911.09 TVL: $4,767,536.36
+USDC.e Price: $1.00
+USDT.e Price: $1.00
+Staked: 0.0000 PGL ($4,724,737.01)
+PNG Per Week: 14236.02 ($4,579.80)
+APR: Day 0.01% Week 0.10% Year 5.04%
+You are staking 0.00 [USDC.e]-[USDT.e] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC.e]-[USDT.e] PGL
+Unstake 0.00 [USDC.e]-[USDT.e] PGL
+Claim 0.00 PNG ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WAVAX]-[SPELL] PGL [+] [-] [<=>] Price: $1.26 TVL: $487,431.06
+WAVAX Price: $62.02
+SPELL Price: $0.005304
+Staked: 381911.3576 PGL ($480,000.75)
+PNG Per Week: 48402.46 ($15,571.31)
+APR: Day 0.46% Week 3.24% Year 168.69%
+You are staking 0.00 [WAVAX]-[SPELL] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [WAVAX]-[SPELL] PGL
+Unstake 0.00 [WAVAX]-[SPELL] PGL
+Claim 0.00 PNG ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [WAVAX]-[TIME] PGL [+] [-] [<=>] Price: $15,987,712.51 TVL: $175,125.39
+WAVAX Price: $62.02
+TIME Price: $375.57
+Staked: 0.0097 PGL ($155,808.79)
+PNG Per Week: 42708.05 ($13,739.39)
+APR: Day 1.26% Week 8.82% Year 458.54%
+You are staking 0.00 [WAVAX]-[TIME] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [WAVAX]-[TIME] PGL
+Unstake 0.00 [WAVAX]-[TIME] PGL
+Claim 0.00 PNG ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WBTC.e]-[WAVAX] PGL [+] [-] [<=>] Price: $332,303,305.41 TVL: $2,766,193.14
+WBTC.e Price: $35,698.00
+WAVAX Price: $62.02
+Staked: 0.0081 PGL ($2,707,839.57)
+PNG Per Week: 28472.04 ($9,159.60)
+APR: Day 0.05% Week 0.34% Year 17.59%
+You are staking 0.00 [WBTC.e]-[WAVAX] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC.e]-[WAVAX] PGL
+Unstake 0.00 [WBTC.e]-[WAVAX] PGL
+Claim 0.00 PNG ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [WAVAX]-[DAI.e] PGL [+] [-] [<=>] Price: $19.36 TVL: $5,973,736.48
+WAVAX Price: $62.02
+DAI.e Price: $1.00
+Staked: 300315.6267 PGL ($5,815,443.00)
+PNG Per Week: 8541.61 ($2,747.88)
+APR: Day 0.01% Week 0.05% Year 2.46%
+You are staking 0.00 [WAVAX]-[DAI.e] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [WAVAX]-[DAI.e] PGL
+Unstake 0.00 [WAVAX]-[DAI.e] PGL
+Claim 0.00 PNG ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [WAVAX]-[USDT.e] PGL [+] [-] [<=>] Price: $21,422,651.43 TVL: $16,563,863.99
+WAVAX Price: $62.02
+USDT.e Price: $1.00
+Staked: 0.6725 PGL ($14,407,212.32)
+PNG Per Week: 133818.57 ($43,050.10)
+APR: Day 0.04% Week 0.30% Year 15.54%
+You are staking 0.00 [WAVAX]-[USDT.e] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [WAVAX]-[USDT.e] PGL
+Unstake 0.00 [WAVAX]-[USDT.e] PGL
+Claim 0.00 PNG ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [WETH.e]-[WAVAX] PGL [+] [-] [<=>] Price: $839.92 TVL: $16,407,718.91
+WETH.e Price: $2,361.48
+WAVAX Price: $62.02
+Staked: 16050.0806 PGL ($13,480,796.99)
+PNG Per Week: 93957.72 ($30,226.67)
+APR: Day 0.03% Week 0.22% Year 11.66%
+You are staking 0.00 [WETH.e]-[WAVAX] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH.e]-[WAVAX] PGL
+Unstake 0.00 [WETH.e]-[WAVAX] PGL
+Claim 0.00 PNG ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [USDC.e]-[WAVAX] PGL [+] [-] [<=>] Price: $19,787,544.08 TVL: $15,415,137.57
+USDC.e Price: $1.00
+WAVAX Price: $62.02
+Staked: 0.7722 PGL ($15,279,629.87)
+PNG Per Week: 133818.57 ($43,050.10)
+APR: Day 0.04% Week 0.28% Year 14.65%
+You are staking 0.00 [USDC.e]-[WAVAX] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC.e]-[WAVAX] PGL
+Unstake 0.00 [USDC.e]-[WAVAX] PGL
+Claim 0.00 PNG ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [LINK.e]-[WAVAX] PGL [+] [-] [<=>] Price: $65.66 TVL: $4,419,086.54
+LINK.e Price: $14.56
+WAVAX Price: $62.02
+Staked: 66849.6150 PGL ($4,389,528.45)
+PNG Per Week: 28472.04 ($9,159.60)
+APR: Day 0.03% Week 0.21% Year 10.85%
+You are staking 0.00 [LINK.e]-[WAVAX] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [LINK.e]-[WAVAX] PGL
+Unstake 0.00 [LINK.e]-[WAVAX] PGL
+Claim 0.00 PNG ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [USDC.e]-[DAI.e] PGL [+] [-] [<=>] Price: $362,124,888.16 TVL: $4,413,890.81
+USDC.e Price: $1.00
+DAI.e Price: $1.00
+Staked: 0.0121 PGL ($4,397,399.83)
+PNG Per Week: 8541.61 ($2,747.88)
+APR: Day 0.01% Week 0.06% Year 3.25%
+You are staking 0.00 [USDC.e]-[DAI.e] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC.e]-[DAI.e] PGL
+Unstake 0.00 [USDC.e]-[DAI.e] PGL
+Claim 0.00 PNG ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [KLO]-[WAVAX] PGL [+] [-] [<=>] Price: $9.12 TVL: $89,843.66
+KLO Price: $0.23
+WAVAX Price: $62.02
+Staked: 9269.0691 PGL ($84,525.96)
+PNG Per Week: 5694.41 ($1,831.92)
+APR: Day 0.31% Week 2.17% Year 112.70%
+You are staking 0.00 [KLO]-[WAVAX] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [KLO]-[WAVAX] PGL
+Unstake 0.00 [KLO]-[WAVAX] PGL
+Claim 0.00 PNG ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [JOE]-[WAVAX] PGL [+] [-] [<=>] Price: $21,230,583.25 TVL: $205,831.23
+JOE Price: $0.91
+WAVAX Price: $62.02
+Staked: 0.0092 PGL ($196,363.07)
+PNG Per Week: 5694.41 ($1,831.92)
+APR: Day 0.13% Week 0.93% Year 48.51%
+You are staking 0.00 [JOE]-[WAVAX] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [JOE]-[WAVAX] PGL
+Unstake 0.00 [JOE]-[WAVAX] PGL
+Claim 0.00 PNG ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [YAK]-[WAVAX] PGL [+] [-] [<=>] Price: $720.59 TVL: $1,539,750.44
+YAK Price: $1,464.83
+WAVAX Price: $62.02
+Staked: 869.2770 PGL ($626,388.69)
+PNG Per Week: 14236.02 ($4,579.80)
+APR: Day 0.10% Week 0.73% Year 38.02%
+You are staking 0.00 [YAK]-[WAVAX] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [YAK]-[WAVAX] PGL
+Unstake 0.00 [YAK]-[WAVAX] PGL
+Claim 0.00 PNG ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [ROCO]-[WAVAX] PGL [+] [-] [<=>] Price: $13.46 TVL: $178,144.16
+ROCO Price: $0.52
+WAVAX Price: $62.02
+Staked: 11909.1999 PGL ($160,300.66)
+PNG Per Week: 11388.81 ($3,663.84)
+APR: Day 0.33% Week 2.29% Year 118.85%
+You are staking 0.00 [ROCO]-[WAVAX] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [ROCO]-[WAVAX] PGL
+Unstake 0.00 [ROCO]-[WAVAX] PGL
+Claim 0.00 PNG ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [WAVAX]-[XAVA] PGL [+] [-] [<=>] Price: $44.27 TVL: $9,733,772.12
+WAVAX Price: $62.02
+XAVA Price: $6.06
+Staked: 33673.0755 PGL ($1,490,742.62)
+PNG Per Week: 51249.66 ($16,487.27)
+APR: Day 0.16% Week 1.11% Year 57.51%
+You are staking 0.00 [WAVAX]-[XAVA] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [WAVAX]-[XAVA] PGL
+Unstake 0.00 [WAVAX]-[XAVA] PGL
+Claim 0.00 PNG ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [QI]-[WAVAX] PGL [+] [-] [<=>] Price: $13,151,858,856,521.80 TVL: $14,350,422.00
+QI Price: $0.05
+WAVAX Price: $62.02
+Staked: 0.0000 PGL ($977,816.07)
+PNG Per Week: 51249.66 ($16,487.27)
+APR: Day 0.24% Week 1.69% Year 87.68%
+You are staking 0.00 [QI]-[WAVAX] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [QI]-[WAVAX] PGL
+Unstake 0.00 [QI]-[WAVAX] PGL
+Claim 0.00 PNG ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - [AMPL]-[WAVAX] PGL [+] [-] [<=>] Price: $460,495.48 TVL: $1,064,217.66
+AMPL Price: $0.86
+WAVAX Price: $62.02
+Staked: 0.2214 PGL ($101,975.99)
+PNG Per Week: 2847.20 ($915.96)
+APR: Day 0.13% Week 0.90% Year 46.71%
+You are staking 0.00 [AMPL]-[WAVAX] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [AMPL]-[WAVAX] PGL
+Unstake 0.00 [AMPL]-[WAVAX] PGL
+Claim 0.00 PNG ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - [WAVAX]-[SNOB] PGL [+] [-] [<=>] Price: $8.64 TVL: $317,304.86
+WAVAX Price: $62.02
+SNOB Price: $0.24
+Staked: 26901.4690 PGL ($232,409.65)
+PNG Per Week: 5694.41 ($1,831.92)
+APR: Day 0.11% Week 0.79% Year 40.99%
+You are staking 0.00 [WAVAX]-[SNOB] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [WAVAX]-[SNOB] PGL
+Unstake 0.00 [WAVAX]-[SNOB] PGL
+Claim 0.00 PNG ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [WAVAX]-[PEFI] PGL [+] [-] [<=>] Price: $13.08 TVL: $824,166.52
+WAVAX Price: $62.02
+PEFI Price: $0.33
+Staked: 60075.7367 PGL ($785,618.96)
+PNG Per Week: 22777.63 ($7,327.68)
+APR: Day 0.13% Week 0.93% Year 48.50%
+You are staking 0.00 [WAVAX]-[PEFI] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [WAVAX]-[PEFI] PGL
+Unstake 0.00 [WAVAX]-[PEFI] PGL
+Claim 0.00 PNG ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - [DYP]-[WAVAX] PGL [+] [-] [<=>] Price: $7.49 TVL: $54,067.40
+DYP Price: $0.21
+WAVAX Price: $62.02
+Staked: 4849.9630 PGL ($36,332.77)
+PNG Per Week: 2847.20 ($915.96)
+APR: Day 0.36% Week 2.52% Year 131.09%
+You are staking 0.00 [DYP]-[WAVAX] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [DYP]-[WAVAX] PGL
+Unstake 0.00 [DYP]-[WAVAX] PGL
+Claim 0.00 PNG ($0.00)
+Staking or unstaking also claims rewards.
+
+30 - [YAY]-[WAVAX] PGL [+] [-] [<=>] Price: $1.97 TVL: $268,194.90
+YAY Price: $0.01
+WAVAX Price: $62.02
+Staked: 49563.4743 PGL ($97,714.56)
+PNG Per Week: 2847.20 ($915.96)
+APR: Day 0.13% Week 0.94% Year 48.74%
+You are staking 0.00 [YAY]-[WAVAX] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [YAY]-[WAVAX] PGL
+Unstake 0.00 [YAY]-[WAVAX] PGL
+Claim 0.00 PNG ($0.00)
+Staking or unstaking also claims rewards.
+
+37 - [WAVAX]-[FRAX] PGL [+] [-] [<=>] Price: $16.06 TVL: $866,644.14
+WAVAX Price: $62.02
+FRAX Price: $1.00
+Staked: 33738.3897 PGL ($541,853.37)
+PNG Per Week: 14236.02 ($4,579.80)
+APR: Day 0.12% Week 0.85% Year 43.95%
+You are staking 0.00 [WAVAX]-[FRAX] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [WAVAX]-[FRAX] PGL
+Unstake 0.00 [WAVAX]-[FRAX] PGL
+Claim 0.00 PNG ($0.00)
+Staking or unstaking also claims rewards.
+
+38 - [MIM]-[USDC.e] PGL [+] [-] [<=>] Price: $2,012,314.18 TVL: $994,180.51
+MIM Price: $1.00
+USDC.e Price: $1.00
+Staked: 0.4394 PGL ($884,199.22)
+PNG Per Week: 17083.22 ($5,495.76)
+APR: Day 0.09% Week 0.62% Year 32.32%
+You are staking 0.00 [MIM]-[USDC.e] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [MIM]-[USDC.e] PGL
+Unstake 0.00 [MIM]-[USDC.e] PGL
+Claim 0.00 PNG ($0.00)
+Staking or unstaking also claims rewards.
+
+39 - [gOHM]-[WAVAX] PGL [+] [-] [<=>] Price: $1,086.80 TVL: $229,898.79
+gOHM Price: $4,519.01
+WAVAX Price: $62.02
+Staked: 201.7922 PGL ($219,306.81)
+PNG Per Week: 19930.43 ($6,411.72)
+APR: Day 0.42% Week 2.92% Year 152.03%
+You are staking 0.00 [gOHM]-[WAVAX] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [gOHM]-[WAVAX] PGL
+Unstake 0.00 [gOHM]-[WAVAX] PGL
+Claim 0.00 PNG ($0.00)
+Staking or unstaking also claims rewards.
+
+40 - [CRA]-[WAVAX] PGL [+] [-] [<=>] Price: $18.05 TVL: $363,586.32
+CRA Price: $0.77
+WAVAX Price: $62.02
+Staked: 19406.5470 PGL ($350,314.30)
+PNG Per Week: 19930.43 ($6,411.72)
+APR: Day 0.26% Week 1.83% Year 95.17%
+You are staking 0.00 [CRA]-[WAVAX] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [CRA]-[WAVAX] PGL
+Unstake 0.00 [CRA]-[WAVAX] PGL
+Claim 0.00 PNG ($0.00)
+Staking or unstaking also claims rewards.
+
+41 - [CRAFT]-[WAVAX] PGL [+] [-] [<=>] Price: $15.36 TVL: $53,583.16
+CRAFT Price: $0.67
+WAVAX Price: $62.02
+Staked: 3273.2682 PGL ($50,292.32)
+PNG Per Week: 2847.20 ($915.96)
+APR: Day 0.26% Week 1.82% Year 94.71%
+You are staking 0.00 [CRAFT]-[WAVAX] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [CRAFT]-[WAVAX] PGL
+Unstake 0.00 [CRAFT]-[WAVAX] PGL
+Claim 0.00 PNG ($0.00)
+Staking or unstaking also claims rewards.
+
+42 - [MAXI]-[WAVAX] PGL [+] [-] [<=>] Price: $3,000,850.59 TVL: $609,461.72
+MAXI Price: $33.31
+WAVAX Price: $62.02
+Staked: 0.0169 PGL ($50,800.50)
+PNG Per Week: 8541.61 ($2,747.88)
+APR: Day 0.77% Week 5.41% Year 281.28%
+You are staking 0.00 [MAXI]-[WAVAX] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [MAXI]-[WAVAX] PGL
+Unstake 0.00 [MAXI]-[WAVAX] PGL
+Claim 0.00 PNG ($0.00)
+Staking or unstaking also claims rewards.
+
+46 - [JEWEL]-[WAVAX] PGL [+] [-] [<=>] Price: $43.31 TVL: $2,144,629.08
+JEWEL Price: $7.00
+WAVAX Price: $62.02
+Staked: 44545.0016 PGL ($1,929,452.15)
+PNG Per Week: 42708.05 ($13,739.39)
+APR: Day 0.10% Week 0.71% Year 37.03%
+You are staking 0.00 [JEWEL]-[WAVAX] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [JEWEL]-[WAVAX] PGL
+Unstake 0.00 [JEWEL]-[WAVAX] PGL
+Claim 0.00 PNG ($0.00)
+Staking or unstaking also claims rewards.
+
+49 - [WAVAX]-[CLY] PGL [+] [-] [<=>] Price: $17.50 TVL: $390,644.97
+WAVAX Price: $62.02
+CLY Price: $0.83
+Staked: 14232.4342 PGL ($249,115.09)
+PNG Per Week: 17083.22 ($5,495.76)
+APR: Day 0.32% Week 2.21% Year 114.72%
+You are staking 0.00 [WAVAX]-[CLY] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [WAVAX]-[CLY] PGL
+Unstake 0.00 [WAVAX]-[CLY] PGL
+Claim 0.00 PNG ($0.00)
+Staking or unstaking also claims rewards.
+
+52 - [MIM]-[WAVAX] PGL [+] [-] [<=>] Price: $16.65 TVL: $463,744.64
+MIM Price: $1.00
+WAVAX Price: $62.02
+Staked: 27197.2466 PGL ($452,845.02)
+PNG Per Week: 28472.04 ($9,159.60)
+APR: Day 0.29% Week 2.02% Year 105.18%
+You are staking 0.00 [MIM]-[WAVAX] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [MIM]-[WAVAX] PGL
+Unstake 0.00 [MIM]-[WAVAX] PGL
+Claim 0.00 PNG ($0.00)
+Staking or unstaking also claims rewards.
+
+53 - [WAVAX]-[TUS] PGL [+] [-] [<=>] Price: $7.95 TVL: $170,629.76
+WAVAX Price: $62.02
+TUS Price: $0.24
+Staked: 21400.4724 PGL ($170,077.63)
+PNG Per Week: 14236.02 ($4,579.80)
+APR: Day 0.38% Week 2.69% Year 140.02%
+You are staking 0.00 [WAVAX]-[TUS] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [WAVAX]-[TUS] PGL
+Unstake 0.00 [WAVAX]-[TUS] PGL
+Claim 0.00 PNG ($0.00)
+Staking or unstaking also claims rewards.
+
+54 - [USDC.e]-[USDC] PGL [+] [-] [<=>] Price: $2,044,861,147,126.85 TVL: $1,452,387.21
+USDC.e Price: $1.00
+USDC Price: $1.04
+Staked: 0.0000 PGL ($1,426,862.22)
+PNG Per Week: 11388.81 ($3,663.84)
+APR: Day 0.04% Week 0.26% Year 13.35%
+You are staking 0.00 [USDC.e]-[USDC] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC.e]-[USDC] PGL
+Unstake 0.00 [USDC.e]-[USDC] PGL
+Claim 0.00 PNG ($0.00)
+Staking or unstaking also claims rewards.
+
+55 - [WAVAX]-[USDC] PGL [+] [-] [<=>] Price: $16,192,850.06 TVL: $256,024.69
+WAVAX Price: $62.02
+USDC Price: $1.04
+Staked: 0.0155 PGL ($250,455.34)
+PNG Per Week: 8541.61 ($2,747.88)
+APR: Day 0.16% Week 1.10% Year 57.05%
+You are staking 0.00 [WAVAX]-[USDC] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [WAVAX]-[USDC] PGL
+Unstake 0.00 [WAVAX]-[USDC] PGL
+Claim 0.00 PNG ($0.00)
+Staking or unstaking also claims rewards.
+
+56 - [WAVAX]-[HSHARES] PGL [+] [-] [<=>] Price: $183.43 TVL: $324,229.16
+WAVAX Price: $62.02
+HSHARES Price: $114.25
+Staked: 60.7714 PGL ($11,147.44)
+PNG Per Week: 2847.20 ($915.96)
+APR: Day 1.17% Week 8.22% Year 427.27%
+You are staking 0.00 [WAVAX]-[HSHARES] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [WAVAX]-[HSHARES] PGL
+Unstake 0.00 [WAVAX]-[HSHARES] PGL
+Claim 0.00 PNG ($0.00)
+Staking or unstaking also claims rewards.
+
+57 - [HERMES]-[WAVAX] PGL [+] [-] [<=>] Price: $131.58 TVL: $449,285.30
+HERMES Price: $62.08
+WAVAX Price: $62.02
+Staked: 99.5960 PGL ($13,105.28)
+PNG Per Week: 2847.20 ($915.96)
+APR: Day 1.00% Week 6.99% Year 363.44%
+You are staking 0.00 [HERMES]-[WAVAX] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [HERMES]-[WAVAX] PGL
+Unstake 0.00 [HERMES]-[WAVAX] PGL
+Claim 0.00 PNG ($0.00)
+Staking or unstaking also claims rewards.
+
+58 - [PTP]-[WAVAX] PGL [+] [-] [<=>] Price: $25.59 TVL: $72,411.76
+PTP Price: $1.87
+WAVAX Price: $62.02
+Staked: 2602.3797 PGL ($66,582.60)
+PNG Per Week: 8541.61 ($2,747.88)
+APR: Day 0.59% Week 4.13% Year 214.61%
+You are staking 0.00 [PTP]-[WAVAX] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [PTP]-[WAVAX] PGL
+Unstake 0.00 [PTP]-[WAVAX] PGL
+Claim 0.00 PNG ($0.00)
+Staking or unstaking also claims rewards.
+
+59 - [ISA]-[WAVAX] PGL [+] [-] [<=>] Price: $0.79 TVL: $75,687.18
+ISA Price: $0.002446
+WAVAX Price: $62.02
+Staked: 38218.8622 PGL ($30,365.28)
+PNG Per Week: 2847.20 ($915.96)
+APR: Day 0.43% Week 3.02% Year 156.86%
+You are staking 0.00 [ISA]-[WAVAX] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [ISA]-[WAVAX] PGL
+Unstake 0.00 [ISA]-[WAVAX] PGL
+Claim 0.00 PNG ($0.00)
+Staking or unstaking also claims rewards.
+
+60 - [WAVAX]-[ICE] PGL [+] [-] [<=>] Price: $31.96 TVL: $5,895.27
+WAVAX Price: $62.02
+ICE Price: $4.04
+Staked: 183.6227 PGL ($5,868.85)
+PNG Per Week: 2847.20 ($915.96)
+APR: Day 2.23% Week 15.61% Year 811.57%
+You are staking 0.00 [WAVAX]-[ICE] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [WAVAX]-[ICE] PGL
+Unstake 0.00 [WAVAX]-[ICE] PGL
+Claim 0.00 PNG ($0.00)
+Staking or unstaking also claims rewards.
+
+61 - [AVE]-[WAVAX] PGL [+] [-] [<=>] Price: $5.51 TVL: $136,097.37
+AVE Price: $0.08
+WAVAX Price: $62.02
+Staked: 4349.1824 PGL ($23,954.51)
+PNG Per Week: 2847.20 ($915.96)
+APR: Day 0.55% Week 3.82% Year 198.83%
+You are staking 0.00 [AVE]-[WAVAX] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [AVE]-[WAVAX] PGL
+Unstake 0.00 [AVE]-[WAVAX] PGL
+Claim 0.00 PNG ($0.00)
+Staking or unstaking also claims rewards.
+
+62 - [WAVAX]-[iDYP] PGL [+] [-] [<=>] Price: $5.24 TVL: $483,621.90
+WAVAX Price: $62.02
+iDYP Price: $0.11
+Staked: 2517.1745 PGL ($13,196.07)
+PNG Per Week: 2847.20 ($915.96)
+APR: Day 0.99% Week 6.94% Year 360.94%
+You are staking 0.00 [WAVAX]-[iDYP] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [WAVAX]-[iDYP] PGL
+Unstake 0.00 [WAVAX]-[iDYP] PGL
+Claim 0.00 PNG ($0.00)
+Staking or unstaking also claims rewards.
+
+63 - [BOOFI]-[WAVAX] PGL [+] [-] [<=>] Price: $14.73 TVL: $136,580.80
+BOOFI Price: $0.55
+WAVAX Price: $62.02
+Staked: 9237.4329 PGL ($136,067.14)
+PNG Per Week: 2847.20 ($915.96)
+APR: Day 0.10% Week 0.67% Year 35.00%
+You are staking 0.00 [BOOFI]-[WAVAX] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [BOOFI]-[WAVAX] PGL
+Unstake 0.00 [BOOFI]-[WAVAX] PGL
+Claim 0.00 PNG ($0.00)
+Staking or unstaking also claims rewards.
+
+64 - [VSO]-[WAVAX] PGL [+] [-] [<=>] Price: $3.18 TVL: $269,321.45
+VSO Price: $0.03
+WAVAX Price: $62.02
+Staked: 77976.5135 PGL ($247,673.84)
+PNG Per Week: 2847.20 ($915.96)
+APR: Day 0.05% Week 0.37% Year 19.23%
+You are staking 0.00 [VSO]-[WAVAX] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [VSO]-[WAVAX] PGL
+Unstake 0.00 [VSO]-[WAVAX] PGL
+Claim 0.00 PNG ($0.00)
+Staking or unstaking also claims rewards.
+
+72 - [WAVAX]-[HeC] PGL [+] [-] [<=>] Price: $19.67 TVL: $150,857.31
+WAVAX Price: $62.02
+HeC Price: $1.39
+Staked: 5196.4411 PGL ($102,201.69)
+PNG Per Week: 11388.81 ($3,663.84)
+APR: Day 0.51% Week 3.58% Year 186.42%
+You are staking 0.00 [WAVAX]-[HeC] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [WAVAX]-[HeC] PGL
+Unstake 0.00 [WAVAX]-[HeC] PGL
+Claim 0.00 PNG ($0.00)
+Staking or unstaking also claims rewards.
+
+73 - [RACEX]-[WAVAX] PGL [+] [-] [<=>] Price: $0.81 TVL: $243,429.19
+RACEX Price: $0.002325
+WAVAX Price: $62.02
+Staked: 16654.1423 PGL ($13,484.16)
+PNG Per Week: 2847.20 ($915.96)
+APR: Day 0.97% Week 6.79% Year 353.23%
+You are staking 0.00 [RACEX]-[WAVAX] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [RACEX]-[WAVAX] PGL
+Unstake 0.00 [RACEX]-[WAVAX] PGL
+Claim 0.00 PNG ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $89,254,390.90
+[WAVAX]-[ETH] PGL [+] [-] [<=>] Price: $980.20 TVL: $458,525.89
+WAVAX Price: $62.02
+ETH Price: $3,555.77
+Staked: 217.3666 PGL ($213,062.10)
+PNG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [WAVAX]-[ETH] PGL $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [WAVAX]-[ETH] PGL
+Unstake 0.000000 [WAVAX]-[ETH] PGL
+Claim 0.000000 PNG ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[WBTC]-[WAVAX] PGL [+] [-] [<=>] Price: $304,294,008.99 TVL: $34,657.12
+WBTC Price: $34,137.43
+WAVAX Price: $62.02
+Staked: 0.0000 PGL ($8,441.37)
+PNG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [WBTC]-[WAVAX] PGL $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [WBTC]-[WAVAX] PGL
+Unstake 0.000000 [WBTC]-[WAVAX] PGL
+Claim 0.000000 PNG ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[WAVAX]-[LINK] PGL [+] [-] [<=>] Price: $70.19 TVL: $17,619.46
+WAVAX Price: $62.02
+LINK Price: $18.14
+Staked: 147.0602 PGL ($10,322.44)
+PNG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [WAVAX]-[LINK] PGL $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [WAVAX]-[LINK] PGL
+Unstake 0.000000 [WAVAX]-[LINK] PGL
+Claim 0.000000 PNG ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[PNG]-[WAVAX] PGL [+] [-] [<=>] Price: $10.29 TVL: $11,525,019.95
+PNG Price: $0.32
+WAVAX Price: $62.02
+Staked: 51777.4485 PGL ($532,602.96)
+PNG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [PNG]-[WAVAX] PGL $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [PNG]-[WAVAX] PGL
+Unstake 0.000000 [PNG]-[WAVAX] PGL
+Claim 0.000000 PNG ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[WAVAX]-[USDT] PGL [+] [-] [<=>] Price: $22,413,872.80 TVL: $56,665.52
+WAVAX Price: $62.02
+USDT Price: $0.99
+Staked: 0.0017 PGL ($39,073.27)
+PNG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [WAVAX]-[USDT] PGL $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [WAVAX]-[USDT] PGL
+Unstake 0.000000 [WAVAX]-[USDT] PGL
+Claim 0.000000 PNG ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[SUSHI]-[WAVAX] PGL [+] [-] [<=>] Price: $33.56 TVL: $25,571.19
+SUSHI Price: $3.89
+WAVAX Price: $62.02
+Staked: 292.1181 PGL ($9,804.30)
+PNG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [SUSHI]-[WAVAX] PGL $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [SUSHI]-[WAVAX] PGL
+Unstake 0.000000 [SUSHI]-[WAVAX] PGL
+Claim 0.000000 PNG ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[WAVAX]-[DAI] PGL [+] [-] [<=>] Price: $19.21 TVL: $41,047.41
+WAVAX Price: $62.02
+DAI Price: $1.00
+Staked: 67.5170 PGL ($1,297.18)
+PNG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [WAVAX]-[DAI] PGL $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [WAVAX]-[DAI] PGL
+Unstake 0.000000 [WAVAX]-[DAI] PGL
+Claim 0.000000 PNG ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[AAVE]-[WAVAX] PGL [+] [-] [<=>] Price: $410.10 TVL: $29,605.62
+AAVE Price: $642.46
+WAVAX Price: $62.02
+Staked: 2.5826 PGL ($1,059.13)
+PNG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [AAVE]-[WAVAX] PGL $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [AAVE]-[WAVAX] PGL
+Unstake 0.000000 [AAVE]-[WAVAX] PGL
+Claim 0.000000 PNG ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[WAVAX]-[UNI] PGL [+] [-] [<=>] Price: $53.83 TVL: $5,399.77
+WAVAX Price: $62.02
+UNI Price: $10.76
+Staked: 37.5437 PGL ($2,020.95)
+PNG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [WAVAX]-[UNI] PGL $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [WAVAX]-[UNI] PGL
+Unstake 0.000000 [WAVAX]-[UNI] PGL
+Claim 0.000000 PNG ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[YFI]-[WAVAX] PGL [+] [-] [<=>] Price: $2,116.36 TVL: $995.65
+YFI Price: $16,997.10
+WAVAX Price: $62.02
+Staked: 0.3353 PGL ($709.72)
+PNG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [YFI]-[WAVAX] PGL $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [YFI]-[WAVAX] PGL
+Unstake 0.000000 [YFI]-[WAVAX] PGL
+Claim 0.000000 PNG ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[PNG]-[ETH] PGL [+] [-] [<=>] Price: $71.64 TVL: $10,322.85
+PNG Price: $0.32
+ETH Price: $3,555.77
+Staked: 0.5118 PGL ($36.67)
+PNG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [PNG]-[ETH] PGL $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [PNG]-[ETH] PGL
+Unstake 0.000000 [PNG]-[ETH] PGL
+Claim 0.000000 PNG ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[WBTC]-[PNG] PGL [+] [-] [<=>] Price: $22,407,721.17 TVL: $8,863.24
+WBTC Price: $34,137.43
+PNG Price: $0.32
+Staked: 0.0000 PGL ($42.64)
+PNG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [WBTC]-[PNG] PGL $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [WBTC]-[PNG] PGL
+Unstake 0.000000 [WBTC]-[PNG] PGL
+Claim 0.000000 PNG ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[PNG]-[LINK] PGL [+] [-] [<=>] Price: $5.12 TVL: $821.28
+PNG Price: $0.32
+LINK Price: $18.14
+Staked: 28.8511 PGL ($147.79)
+PNG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [PNG]-[LINK] PGL $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [PNG]-[LINK] PGL
+Unstake 0.000000 [PNG]-[LINK] PGL
+Claim 0.000000 PNG ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[PNG]-[USDT] PGL [+] [-] [<=>] Price: $1,295,056.34 TVL: $2,678.28
+PNG Price: $0.32
+USDT Price: $0.99
+Staked: 0.0003 PGL ($381.51)
+PNG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [PNG]-[USDT] PGL $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [PNG]-[USDT] PGL
+Unstake 0.000000 [PNG]-[USDT] PGL
+Claim 0.000000 PNG ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[SUSHI]-[PNG] PGL [+] [-] [<=>] Price: $2.41 TVL: $665.13
+SUSHI Price: $3.89
+PNG Price: $0.32
+Staked: 29.2464 PGL ($70.57)
+PNG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [SUSHI]-[PNG] PGL $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [SUSHI]-[PNG] PGL
+Unstake 0.000000 [SUSHI]-[PNG] PGL
+Claim 0.000000 PNG ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[PNG]-[DAI] PGL [+] [-] [<=>] Price: $1.25 TVL: $430.25
+PNG Price: $0.32
+DAI Price: $1.00
+Staked: 81.0410 PGL ($101.04)
+PNG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [PNG]-[DAI] PGL $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [PNG]-[DAI] PGL
+Unstake 0.000000 [PNG]-[DAI] PGL
+Claim 0.000000 PNG ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[PNG]-[AAVE] PGL [+] [-] [<=>] Price: $30.33 TVL: $361.49
+PNG Price: $0.32
+AAVE Price: $642.46
+Staked: 8.1066 PGL ($245.85)
+PNG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [PNG]-[AAVE] PGL $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [PNG]-[AAVE] PGL
+Unstake 0.000000 [PNG]-[AAVE] PGL
+Claim 0.000000 PNG ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[PNG]-[UNI] PGL [+] [-] [<=>] Price: $3.91 TVL: $917.79
+PNG Price: $0.32
+UNI Price: $10.76
+Staked: 81.8801 PGL ($320.55)
+PNG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [PNG]-[UNI] PGL $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [PNG]-[UNI] PGL
+Unstake 0.000000 [PNG]-[UNI] PGL
+Claim 0.000000 PNG ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[PNG]-[YFI] PGL [+] [-] [<=>] Price: $155.09 TVL: $65.04
+PNG Price: $0.32
+YFI Price: $16,997.10
+Staked: 0.0558 PGL ($8.66)
+PNG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [PNG]-[YFI] PGL $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [PNG]-[YFI] PGL
+Unstake 0.000000 [PNG]-[YFI] PGL
+Claim 0.000000 PNG ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[PNG]-[SPORE] PGL [+] [-] [<=>] Price: $0.44 TVL: $5,081.80
+PNG Price: $0.32
+SPORE Price: $0.0000000001
+Staked: 5524.3573 PGL ($2,425.35)
+PNG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [PNG]-[SPORE] PGL $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [PNG]-[SPORE] PGL
+Unstake 0.000000 [PNG]-[SPORE] PGL
+Claim 0.000000 PNG ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[SPORE]-[WAVAX] PGL [+] [-] [<=>] Price: $6.17 TVL: $373,801.22
+SPORE Price: $0.0000000001
+WAVAX Price: $62.02
+Staked: 103.6365 PGL ($639.60)
+PNG Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [SPORE]-[WAVAX] PGL $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [SPORE]-[WAVAX] PGL
+Unstake 0.000000 [SPORE]-[WAVAX] PGL
+Claim 0.000000 PNG ($0.00)
+Revoke (set approval to 0)
+Exit
+
+Total staked: $822,813.65

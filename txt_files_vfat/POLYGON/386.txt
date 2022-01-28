@@ -6,193 +6,20 @@ INFO  : https://friedfinance.cc
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Thu Dec 16 2021 06:06:38 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 23:55:05 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
+Staking Contract
 Found 17 pools.
 Showing incentivized pools only.
-Finished reading smart contracts.
-0 - [USDC]-[FRIED] Uni LP [+] [-] [<=>] Price: $4,667.78 TVL: $0.00
-USDC Price: $1.00
-FRIED Price: $0.0000053392
-Staked: 0.0000 UNI-V2 ($0.00)
-FRIED Per Week: 1056.88 ($0.01)
-APR: Day 21.57% Week 150.96% Year 7849.94%
-You are staking 0.00 [USDC]-[FRIED] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[FRIED] Uni LP
-Unstake 0.00 [USDC]-[FRIED] Uni LP
-Claim 0.00 FRIED ($0.00)
-Staking or unstaking also claims rewards.
-
-1 - [WMATIC]-[FRIED] Uni LP [+] [-] [<=>] Price: $0.01 TVL: $0.00
-WMATIC Price: $2.14
-FRIED Price: $0.0000053392
-Staked: 0.0755 UNI-V2 ($0.00)
-FRIED Per Week: 1056.88 ($0.01)
-APR: Day 138.56% Week 969.92% Year 50435.79%
-You are staking 0.00 [WMATIC]-[FRIED] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[FRIED] Uni LP
-Unstake 0.00 [WMATIC]-[FRIED] Uni LP
-Claim 0.00 FRIED ($0.00)
-Staking or unstaking also claims rewards.
-
-2 - [WETH]-[FRIED] Uni LP [+] [-] [<=>] Price: $0.30 TVL: $0.00
-WETH Price: $4,040.21
-FRIED Price: $0.0000053392
-Staked: 0.0030 UNI-V2 ($0.00)
-FRIED Per Week: 1056.88 ($0.01)
-APR: Day 89.09% Week 623.66% Year 32430.27%
-You are staking 0.00 [WETH]-[FRIED] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WETH]-[FRIED] Uni LP
-Unstake 0.00 [WETH]-[FRIED] Uni LP
-Claim 0.00 FRIED ($0.00)
-Staking or unstaking also claims rewards.
-
-3 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,859,133.48 TVL: $52,194,755.68
-WMATIC Price: $2.14
-USDC Price: $1.00
-Staked: 0.0000 UNI-V2 ($2.17)
-FRIED Per Week: 792.66 ($0.00)
-APR: Day 0.03% Week 0.19% Year 10.12%
-You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
-Unstake 0.00 [WMATIC]-[USDC] Uni LP
-Claim 0.00 FRIED ($0.00)
-Staking or unstaking also claims rewards.
-
-4 - [USDC]-[WETH] Uni LP [+] [-] [<=>] Price: $188,032,311.40 TVL: $79,045,803.27
-USDC Price: $1.00
-WETH Price: $4,040.21
-Staked: 0.0000 UNI-V2 ($0.00)
-FRIED Per Week: 792.66 ($0.00)
-APR: Day Infinity% Week Infinity% Year Infinity%
-You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), NaN% of the pool.
-Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
-Unstake 0.00 [USDC]-[WETH] Uni LP
-Claim 0.00 FRIED ($0.00)
-Staking or unstaking also claims rewards.
-
-5 - FRIED Price: $0.0000053392 Market Cap: $0.02 [%]
-Staked: 1180.1659 FRIED ($0.01)
-FRIED Per Week: 924.77 ($0.00)
-APR: Day 11.19% Week 78.36% Year 4074.69%
-You are staking 0.00 FRIED ($0.00), 0.00% of the pool.
-Stake 0.00 FRIED
-Unstake 0.00 FRIED
-Claim 0.00 FRIED ($0.00)
-Staking or unstaking also claims rewards.
-
-6 - WMATIC Price: $2.14 Market Cap: $651,038,171.93 [%]
-Staked: 0.4608 WMATIC ($0.99)
-FRIED Per Week: 792.66 ($0.00)
-APR: Day 0.06% Week 0.43% Year 22.32%
-You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
-Stake 0.00 WMATIC - Fee 4%
-Unstake 0.00 WMATIC
-Claim 0.00 FRIED ($0.00)
-Staking or unstaking also claims rewards.
-
-7 - PolyDoge Price: $0.0000000241 Market Cap: $24,068,000.00 [%]
-Staked: 960000.0000 PolyDoge ($0.02)
-FRIED Per Week: 792.66 ($0.00)
-APR: Day 2.62% Week 18.32% Year 952.48%
-You are staking 0.00 PolyDoge ($0.00), 0.00% of the pool.
-Stake 0.00 PolyDoge - Fee 4%
-Unstake 0.00 PolyDoge
-Claim 0.00 FRIED ($0.00)
-Staking or unstaking also claims rewards.
-
-8 - WETH Price: $4,040.21 Market Cap: $1,793,330,974.27 [%]
-Staked: 0.0000 WETH ($0.08)
-FRIED Per Week: 792.66 ($0.00)
-APR: Day 0.78% Week 5.46% Year 283.70%
-You are staking 0.00 WETH ($0.00), 0.00% of the pool.
-Stake 0.00 WETH - Fee 4%
-Unstake 0.00 WETH
-Claim 0.00 FRIED ($0.00)
-Staking or unstaking also claims rewards.
-
-9 - WBTC Price: $49,074.00 Market Cap: $497,800,844.82 [%]
-Staked: 0.0000 WBTC ($0.09)
-FRIED Per Week: 792.66 ($0.00)
-APR: Day 0.64% Week 4.49% Year 233.57%
-You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
-Stake 0.00 WBTC - Fee 4%
-Unstake 0.00 WBTC
-Claim 0.00 FRIED ($0.00)
-Staking or unstaking also claims rewards.
-
-10 - AAVE Price: $175.96 Market Cap: $47,899,718.33 [%]
-Staked: 0.0000 AAVE ($0.00)
-FRIED Per Week: 792.66 ($0.00)
-APR: Day Infinity% Week Infinity% Year Infinity%
-You are staking 0.00 AAVE ($0.00), NaN% of the pool.
-Stake 0.00 AAVE - Fee 4%
-Unstake 0.00 AAVE
-Claim 0.00 FRIED ($0.00)
-Staking or unstaking also claims rewards.
-
-11 - QUICK Price: $251.52 Market Cap: $240,334,422.50 [%]
-Staked: 0.0004 QUICK ($0.10)
-FRIED Per Week: 792.66 ($0.00)
-APR: Day 0.60% Week 4.22% Year 219.33%
-You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
-Stake 0.00 QUICK - Fee 4%
-Unstake 0.00 QUICK
-Claim 0.00 FRIED ($0.00)
-Staking or unstaking also claims rewards.
-
-12 - FISH Price: $0.00 Market Cap: $0.00 
-Staked: 0.0000 FISH ($0.00)
-FRIED Per Week: 792.66 ($0.00)
-APR: Day NaN% Week NaN% Year NaN%
-You are staking 0.00 FISH ($0.00), NaN% of the pool.
-Stake 0.00 FISH - Fee 4%
-Unstake 0.00 FISH
-Claim 0.00 FRIED ($0.00)
-Staking or unstaking also claims rewards.
-
-13 - LINK Price: $20.00 Market Cap: $34,688,064.01 [%]
-Staked: 0.0000 LINK ($0.00)
-FRIED Per Week: 792.66 ($0.00)
-APR: Day Infinity% Week Infinity% Year Infinity%
-You are staking 0.00 LINK ($0.00), NaN% of the pool.
-Stake 0.00 LINK - Fee 4%
-Unstake 0.00 LINK
-Claim 0.00 FRIED ($0.00)
-Staking or unstaking also claims rewards.
-
-14 - USDC Price: $1.00 Market Cap: $943,523,274.91 [%]
-Staked: 4.2794 USDC ($4.28)
-FRIED Per Week: 792.66 ($0.00)
-APR: Day 0.01% Week 0.10% Year 5.14%
-You are staking 0.00 USDC ($0.00), 0.00% of the pool.
-Stake 0.00 USDC - Fee 4%
-Unstake 0.00 USDC
-Claim 0.00 FRIED ($0.00)
-Staking or unstaking also claims rewards.
-
-15 - DAI Price: $1.00 Market Cap: $374,131,149.78 [%]
-Staked: 0.0000 DAI ($0.00)
-FRIED Per Week: 792.66 ($0.00)
-APR: Day Infinity% Week Infinity% Year Infinity%
-You are staking 0.00 DAI ($0.00), NaN% of the pool.
-Stake 0.00 DAI - Fee 4%
-Unstake 0.00 DAI
-Claim 0.00 FRIED ($0.00)
-Staking or unstaking also claims rewards.
-
-16 - USDT Price: $1.00 Market Cap: $313,461,279.68 [%]
-Staked: 0.0960 USDT ($0.10)
-FRIED Per Week: 792.66 ($0.00)
-APR: Day 0.63% Week 4.41% Year 229.24%
-You are staking 0.00 USDT ($0.00), 0.00% of the pool.
-Stake 0.00 USDT - Fee 4%
-Unstake 0.00 USDT
-Claim 0.00 FRIED ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $7.84
+{
+  "code": -32603,
+  "message": "Non-200 status code: '400'",
+  "data": {
+    "error": "Unable to verify your data submission."
+  }
+}
+Oops something went wrong. Try refreshing the page.

@@ -1,0 +1,492 @@
+*************** 👨‍🌾 UNOFFICIAL CAFESWAP.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://cafeswap.finance
+*************************************************************************************
+
+Thu Jan 27 2022 20:12:46 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 70 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - BREW Price: $0.03 Market Cap: $285,586.94 [%]
+Staked: 3774619.5882 BREW ($96,891.79)
+BREW Per Week: 50400.00 ($1,293.73)
+APR: Day 0.19% Week 1.34% Year 69.43%
+You are staking 0.00 BREW ($0.00), 0.00% of the pool.
+Stake 0.00 BREW
+Unstake 0.00 BREW
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [BREW]-[WBNB] Uni LP [+] [-] [<=>] Price: $6.61 TVL: $81,965.50
+BREW Price: $0.03
+WBNB Price: $372.91
+Staked: 11992.3862 Cafe-LP ($79,210.78)
+BREW Per Week: 40909.09 ($1,050.11)
+APR: Day 0.19% Week 1.33% Year 68.94%
+You are staking 0.00 [BREW]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BREW]-[WBNB] Uni LP
+Unstake 0.00 [BREW]-[WBNB] Uni LP
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [BREW]-[BUSD] Uni LP [+] [-] [<=>] Price: $0.36 TVL: $34,325.77
+BREW Price: $0.03
+BUSD Price: $1.00
+Staked: 94383.4121 Cafe-LP ($33,733.99)
+BREW Per Week: 20454.55 ($525.05)
+APR: Day 0.22% Week 1.56% Year 80.94%
+You are staking 0.00 [BREW]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BREW]-[BUSD] Uni LP
+Unstake 0.00 [BREW]-[BUSD] Uni LP
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [Cake]-[BREW] Uni LP [+] [-] [<=>] Price: $0.89 TVL: $23,855.10
+Cake Price: $7.26
+BREW Price: $0.03
+Staked: 20236.9021 Cafe-LP ($18,030.50)
+BREW Per Week: 16363.64 ($420.04)
+APR: Day 0.33% Week 2.33% Year 121.14%
+You are staking 0.00 [Cake]-[BREW] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BREW] Uni LP
+Unstake 0.00 [Cake]-[BREW] Uni LP
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [ETH]-[BREW] Uni LP [+] [-] [<=>] Price: $16.33 TVL: $20,428.15
+ETH Price: $2,479.71
+BREW Price: $0.03
+Staked: 1082.8110 Cafe-LP ($17,686.90)
+BREW Per Week: 16363.64 ($420.04)
+APR: Day 0.34% Week 2.37% Year 123.49%
+You are staking 0.00 [ETH]-[BREW] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[BREW] Uni LP
+Unstake 0.00 [ETH]-[BREW] Uni LP
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [DOT]-[BREW] Uni LP [+] [-] [<=>] Price: $1.41 TVL: $18,618.44
+DOT Price: $18.07
+BREW Price: $0.03
+Staked: 12960.3330 Cafe-LP ($18,211.08)
+BREW Per Week: 16363.64 ($420.04)
+APR: Day 0.33% Week 2.31% Year 119.94%
+You are staking 0.00 [DOT]-[BREW] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[BREW] Uni LP
+Unstake 0.00 [DOT]-[BREW] Uni LP
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [BTCB]-[WBNB] Uni LP [+] [-] [<=>] Price: $7,544.38 TVL: $5,281.82
+BTCB Price: $36,685.00
+WBNB Price: $372.91
+Staked: 0.6837 Cafe-LP ($5,158.13)
+BREW Per Week: 327.27 ($8.40)
+APR: Day 0.02% Week 0.16% Year 8.47%
+You are staking 0.00 [BTCB]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Uni LP
+Unstake 0.00 [BTCB]-[WBNB] Uni LP
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - [TWT]-[WBNB] Uni LP [+] [-] [<=>] Price: $28.06 TVL: $7,402.80
+TWT Price: $0.50
+WBNB Price: $372.91
+Staked: 262.3439 Cafe-LP ($7,362.65)
+BREW Per Week: 818.18 ($21.00)
+APR: Day 0.04% Week 0.29% Year 14.83%
+You are staking 0.00 [TWT]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TWT]-[WBNB] Uni LP
+Unstake 0.00 [TWT]-[WBNB] Uni LP
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - [ITAM]-[WBNB] Uni LP [+] [-] [<=>] Price: $22.86 TVL: $7,555.26
+ITAM Price: $0.24
+WBNB Price: $372.91
+Staked: 313.8018 Cafe-LP ($7,172.42)
+BREW Per Week: 818.18 ($21.00)
+APR: Day 0.04% Week 0.29% Year 15.23%
+You are staking 0.00 [ITAM]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ITAM]-[WBNB] Uni LP
+Unstake 0.00 [ITAM]-[WBNB] Uni LP
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - [MIST]-[WBNB] Uni LP [+] [-] [<=>] Price: $13.03 TVL: $22,218.37
+MIST Price: $0.06
+WBNB Price: $372.91
+Staked: 1378.3149 Cafe-LP ($17,960.46)
+BREW Per Week: 818.18 ($21.00)
+APR: Day 0.02% Week 0.12% Year 6.08%
+You are staking 0.00 [MIST]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MIST]-[WBNB] Uni LP
+Unstake 0.00 [MIST]-[WBNB] Uni LP
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - [WBNB]-[BIFI] Uni LP [+] [-] [<=>] Price: $1,647.87 TVL: $9,659.02
+WBNB Price: $372.91
+BIFI Price: $1,755.91
+Staked: 5.6847 Cafe-LP ($9,367.68)
+BREW Per Week: 327.27 ($8.40)
+APR: Day 0.01% Week 0.09% Year 4.66%
+You are staking 0.00 [WBNB]-[BIFI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BIFI] Uni LP
+Unstake 0.00 [WBNB]-[BIFI] Uni LP
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+
+30 - [MOCHA]-[WBNB] Uni LP [+] [-] [<=>] Price: $20.64 TVL: $7,081.73
+MOCHA Price: $0.26
+WBNB Price: $372.91
+Staked: 188.2619 Cafe-LP ($3,885.91)
+BREW Per Week: 4090.91 ($105.01)
+APR: Day 0.39% Week 2.70% Year 140.52%
+You are staking 0.00 [MOCHA]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MOCHA]-[WBNB] Uni LP
+Unstake 0.00 [MOCHA]-[WBNB] Uni LP
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+
+31 - [DOT]-[WBNB] Uni LP [+] [-] [<=>] Price: $167.93 TVL: $21,118.27
+DOT Price: $18.07
+WBNB Price: $372.91
+Staked: 125.7385 Cafe-LP ($21,115.67)
+BREW Per Week: 818.18 ($21.00)
+APR: Day 0.01% Week 0.10% Year 5.17%
+You are staking 0.00 [DOT]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Uni LP
+Unstake 0.00 [DOT]-[WBNB] Uni LP
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+
+32 - [ATOM]-[WBNB] Uni LP [+] [-] [<=>] Price: $226.74 TVL: $10,703.71
+ATOM Price: $31.15
+WBNB Price: $372.91
+Staked: 47.2072 Cafe-LP ($10,703.61)
+BREW Per Week: 818.18 ($21.00)
+APR: Day 0.03% Week 0.20% Year 10.20%
+You are staking 0.00 [ATOM]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ATOM]-[WBNB] Uni LP
+Unstake 0.00 [ATOM]-[WBNB] Uni LP
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+
+33 - [WBNB]-[BUSD] Uni LP [+] [-] [<=>] Price: $48.43 TVL: $14,597.13
+WBNB Price: $372.91
+BUSD Price: $1.00
+Staked: 147.4134 Cafe-LP ($7,138.62)
+BREW Per Week: 818.18 ($21.00)
+APR: Day 0.04% Week 0.29% Year 15.30%
+You are staking 0.00 [WBNB]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Uni LP
+Unstake 0.00 [WBNB]-[BUSD] Uni LP
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+
+34 - [USDT]-[BUSD] Uni LP [+] [-] [<=>] Price: $2.04 TVL: $22,434.62
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 9695.4385 Cafe-LP ($19,810.76)
+BREW Per Week: 818.18 ($21.00)
+APR: Day 0.02% Week 0.11% Year 5.51%
+You are staking 0.00 [USDT]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Uni LP
+Unstake 0.00 [USDT]-[BUSD] Uni LP
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+
+35 - [WBNB]-[ONT] Uni LP [+] [-] [<=>] Price: $26.47 TVL: $12,625.86
+WBNB Price: $372.91
+ONT Price: $0.46
+Staked: 474.2205 Cafe-LP ($12,550.49)
+BREW Per Week: 1636.36 ($42.00)
+APR: Day 0.05% Week 0.33% Year 17.40%
+You are staking 0.00 [WBNB]-[ONT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[ONT] Uni LP
+Unstake 0.00 [WBNB]-[ONT] Uni LP
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+
+37 - [BREW]-[MOCHA] Uni LP [+] [-] [<=>] Price: $0.18 TVL: $4,206.15
+BREW Price: $0.03
+MOCHA Price: $0.26
+Staked: 23291.7694 Cafe-LP ($4,165.22)
+BREW Per Week: 4090.91 ($105.01)
+APR: Day 0.36% Week 2.52% Year 131.10%
+You are staking 0.00 [BREW]-[MOCHA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BREW]-[MOCHA] Uni LP
+Unstake 0.00 [BREW]-[MOCHA] Uni LP
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+
+38 - [PACOCA]-[WBNB] Uni LP [+] [-] [<=>] Price: $11.85 TVL: $473,202.53
+PACOCA Price: $0.09
+WBNB Price: $372.91
+Staked: 39125.7523 Cafe-LP ($463,467.60)
+BREW Per Week: 2454.55 ($63.01)
+APR: Day 0.00% Week 0.01% Year 0.71%
+You are staking 0.00 [PACOCA]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PACOCA]-[WBNB] Uni LP
+Unstake 0.00 [PACOCA]-[WBNB] Uni LP
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+
+41 - [Cake]-[WBNB] Uni LP [+] [-] [<=>] Price: $110.31 TVL: $6,394.41
+Cake Price: $7.26
+WBNB Price: $372.91
+Staked: 57.8000 Cafe-LP ($6,375.93)
+BREW Per Week: 1636.36 ($42.00)
+APR: Day 0.09% Week 0.66% Year 34.26%
+You are staking 0.00 [Cake]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Uni LP
+Unstake 0.00 [Cake]-[WBNB] Uni LP
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+
+42 - [ETH]-[WBNB] Uni LP [+] [-] [<=>] Price: $1,980.06 TVL: $10,751.60
+ETH Price: $2,479.71
+WBNB Price: $372.91
+Staked: 4.0450 Cafe-LP ($8,009.42)
+BREW Per Week: 1636.36 ($42.00)
+APR: Day 0.07% Week 0.52% Year 27.27%
+You are staking 0.00 [ETH]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Uni LP
+Unstake 0.00 [ETH]-[WBNB] Uni LP
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+
+43 - [DEGO]-[WBNB] Uni LP [+] [-] [<=>] Price: $75.72 TVL: $6,830.49
+DEGO Price: $3.69
+WBNB Price: $372.91
+Staked: 90.1934 Cafe-LP ($6,829.63)
+BREW Per Week: 818.18 ($21.00)
+APR: Day 0.04% Week 0.31% Year 15.99%
+You are staking 0.00 [DEGO]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DEGO]-[WBNB] Uni LP
+Unstake 0.00 [DEGO]-[WBNB] Uni LP
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+
+44 - [BHC]-[WBNB] Uni LP [+] [-] [<=>] Price: $271.77 TVL: $167.90
+BHC Price: $48.17
+WBNB Price: $372.91
+Staked: 0.6175 Cafe-LP ($167.81)
+BREW Per Week: 818.18 ($21.00)
+APR: Day 1.79% Week 12.52% Year 650.79%
+You are staking 0.00 [BHC]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BHC]-[WBNB] Uni LP
+Unstake 0.00 [BHC]-[WBNB] Uni LP
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+
+49 - [WIZARD]-[WBNB] Uni LP [+] [-] [<=>] Price: $27.20 TVL: $573.24
+WIZARD Price: $0.49
+WBNB Price: $372.91
+Staked: 20.9147 Cafe-LP ($568.94)
+BREW Per Week: 818.18 ($21.00)
+APR: Day 0.53% Week 3.69% Year 191.95%
+You are staking 0.00 [WIZARD]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WIZARD]-[WBNB] Uni LP
+Unstake 0.00 [WIZARD]-[WBNB] Uni LP
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+
+50 - [DUEL]-[WBNB] Uni LP [+] [-] [<=>] Price: $10.71 TVL: $22,552.43
+DUEL Price: $0.07
+WBNB Price: $372.91
+Staked: 2104.2692 Cafe-LP ($22,534.89)
+BREW Per Week: 818.18 ($21.00)
+APR: Day 0.01% Week 0.09% Year 4.85%
+You are staking 0.00 [DUEL]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DUEL]-[WBNB] Uni LP
+Unstake 0.00 [DUEL]-[WBNB] Uni LP
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+
+53 - [Helmet]-[WBNB] Uni LP [+] [-] [<=>] Price: $9.42 TVL: $10,414.15
+Helmet Price: $0.06
+WBNB Price: $372.91
+Staked: 1105.4724 Cafe-LP ($10,413.34)
+BREW Per Week: 3272.73 ($84.01)
+APR: Day 0.12% Week 0.81% Year 41.95%
+You are staking 0.00 [Helmet]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Helmet]-[WBNB] Uni LP
+Unstake 0.00 [Helmet]-[WBNB] Uni LP
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+
+57 - [SOL]-[WBNB] Uni LP [+] [-] [<=>] Price: $374.38 TVL: $13,144.75
+SOL Price: $92.11
+WBNB Price: $372.91
+Staked: 35.0909 Cafe-LP ($13,137.48)
+BREW Per Week: 2454.55 ($63.01)
+APR: Day 0.07% Week 0.48% Year 24.94%
+You are staking 0.00 [SOL]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SOL]-[WBNB] Uni LP
+Unstake 0.00 [SOL]-[WBNB] Uni LP
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+
+58 - [XRP]-[WBNB] Uni LP [+] [-] [<=>] Price: $30.33 TVL: $4,182.10
+XRP Price: $0.61
+WBNB Price: $372.91
+Staked: 137.8068 Cafe-LP ($4,179.69)
+BREW Per Week: 818.18 ($21.00)
+APR: Day 0.07% Week 0.50% Year 26.13%
+You are staking 0.00 [XRP]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [XRP]-[WBNB] Uni LP
+Unstake 0.00 [XRP]-[WBNB] Uni LP
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+
+59 - [WBNB]-[MATIC] Uni LP [+] [-] [<=>] Price: $50.12 TVL: $3,761.03
+WBNB Price: $372.91
+MATIC Price: $1.64
+Staked: 74.8340 Cafe-LP ($3,751.01)
+BREW Per Week: 818.18 ($21.00)
+APR: Day 0.08% Week 0.56% Year 29.12%
+You are staking 0.00 [WBNB]-[MATIC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[MATIC] Uni LP
+Unstake 0.00 [WBNB]-[MATIC] Uni LP
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+
+60 - [LTC]-[WBNB] Uni LP [+] [-] [<=>] Price: $404.16 TVL: $4,777.03
+LTC Price: $107.78
+WBNB Price: $372.91
+Staked: 11.8154 Cafe-LP ($4,775.26)
+BREW Per Week: 818.18 ($21.00)
+APR: Day 0.06% Week 0.44% Year 22.87%
+You are staking 0.00 [LTC]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LTC]-[WBNB] Uni LP
+Unstake 0.00 [LTC]-[WBNB] Uni LP
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+
+61 - [WBNB]-[LINK] Uni LP [+] [-] [<=>] Price: $152.44 TVL: $5,841.52
+WBNB Price: $372.91
+LINK Price: $15.42
+Staked: 38.2794 Cafe-LP ($5,835.16)
+BREW Per Week: 818.18 ($21.00)
+APR: Day 0.05% Week 0.36% Year 18.72%
+You are staking 0.00 [WBNB]-[LINK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[LINK] Uni LP
+Unstake 0.00 [WBNB]-[LINK] Uni LP
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+
+62 - [ADA]-[WBNB] Uni LP [+] [-] [<=>] Price: $39.84 TVL: $5,064.91
+ADA Price: $1.04
+WBNB Price: $372.91
+Staked: 127.1069 Cafe-LP ($5,063.86)
+BREW Per Week: 818.18 ($21.00)
+APR: Day 0.06% Week 0.41% Year 21.57%
+You are staking 0.00 [ADA]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Uni LP
+Unstake 0.00 [ADA]-[WBNB] Uni LP
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+
+63 - [DAI]-[BUSD] Uni LP [+] [-] [<=>] Price: $478,238.18 TVL: $14,127.49
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0295 Cafe-LP ($14,112.32)
+BREW Per Week: 818.18 ($21.00)
+APR: Day 0.02% Week 0.15% Year 7.74%
+You are staking 0.00 [DAI]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Uni LP
+Unstake 0.00 [DAI]-[BUSD] Uni LP
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+
+64 - [UST]-[BUSD] Uni LP [+] [-] [<=>] Price: $2.00 TVL: $9,596.20
+UST Price: $1.00
+BUSD Price: $1.00
+Staked: 4783.1816 Cafe-LP ($9,576.28)
+BREW Per Week: 818.18 ($21.00)
+APR: Day 0.03% Week 0.22% Year 11.40%
+You are staking 0.00 [UST]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UST]-[BUSD] Uni LP
+Unstake 0.00 [UST]-[BUSD] Uni LP
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+
+65 - [COMP]-[WBNB] Uni LP [+] [-] [<=>] Price: $437.89 TVL: $2,850.64
+COMP Price: $127.69
+WBNB Price: $372.91
+Staked: 6.5084 Cafe-LP ($2,849.97)
+BREW Per Week: 818.18 ($21.00)
+APR: Day 0.11% Week 0.74% Year 38.32%
+You are staking 0.00 [COMP]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [COMP]-[WBNB] Uni LP
+Unstake 0.00 [COMP]-[WBNB] Uni LP
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+
+66 - [WBNB]-[AAVE] Uni LP [+] [-] [<=>] Price: $471.69 TVL: $1,922.73
+WBNB Price: $372.91
+AAVE Price: $147.84
+Staked: 4.0747 Cafe-LP ($1,922.02)
+BREW Per Week: 818.18 ($21.00)
+APR: Day 0.16% Week 1.09% Year 56.82%
+You are staking 0.00 [WBNB]-[AAVE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[AAVE] Uni LP
+Unstake 0.00 [WBNB]-[AAVE] Uni LP
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+
+67 - [WBNB]-[HASH] Uni LP [+] [-] [<=>] Price: $4.24 TVL: $7,384.11
+WBNB Price: $372.91
+HASH Price: $0.01
+Staked: 400.2906 Cafe-LP ($1,696.76)
+BREW Per Week: 818.18 ($21.00)
+APR: Day 0.18% Week 1.24% Year 64.36%
+You are staking 0.00 [WBNB]-[HASH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[HASH] Uni LP
+Unstake 0.00 [WBNB]-[HASH] Uni LP
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+
+68 - [JADE]-[WBNB] Uni LP [+] [-] [<=>] Price: $5,916,334.46 TVL: $914.29
+JADE Price: $22.04
+WBNB Price: $372.91
+Staked: 0.0002 Cafe-LP ($912.37)
+BREW Per Week: 818.18 ($21.00)
+APR: Day 0.33% Week 2.30% Year 119.70%
+You are staking 0.00 [JADE]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [JADE]-[WBNB] Uni LP
+Unstake 0.00 [JADE]-[WBNB] Uni LP
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+
+69 - [game1]-[WBNB] Uni LP [+] [-] [<=>] Price: $1.78 TVL: $277.66
+game1 Price: $0.001980
+WBNB Price: $372.91
+Staked: 152.4008 Cafe-LP ($270.66)
+BREW Per Week: 818.18 ($21.00)
+APR: Day 1.11% Week 7.76% Year 403.50%
+You are staking 0.00 [game1]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [game1]-[WBNB] Uni LP
+Unstake 0.00 [game1]-[WBNB] Uni LP
+Claim 0.00 BREW ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $976,607.05
+
+svCafeBREW-BNB (Wrapped [BREW]-[WBNB] Uni LP) Price: $24.22 TVL: $150,904.48
+You are staking 0.0000 svCafeBREW-BNB (Wrapped [BREW]-[WBNB] Uni LP) ($0.00), 0.00% of the pool.
+
+svCafeBREW (Wrapped BREW) Price: $0.11 TVL: $34,929.90
+You are staking 0.0000 svCafeBREW (Wrapped BREW) ($0.00), 0.00% of the pool.
+
+svCakeITAM-BNB (Wrapped [ITAM]-[WBNB] Cake LP) Price: $32.64 TVL: $49.70
+You are staking 0.0000 svCakeITAM-BNB (Wrapped [ITAM]-[WBNB] Cake LP) ($0.00), 0.00% of the pool.
+
+Total Value Locked: $185,884.07

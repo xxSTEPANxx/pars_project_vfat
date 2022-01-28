@@ -1,0 +1,111 @@
+*************** 👨‍🌾 UNOFFICIAL MOONKAFE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://moon.kafe.finance
+******************************************************************************
+
+Fri Jan 28 2022 01:13:37 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 11 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - KAFE Price: $0.00 Market Cap: $0.00 
+Staked: 31729.6435 KAFE ($0.00)
+KAFE Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 KAFE ($0.00), NaN% of the pool.
+Stake 0.00 KAFE
+Unstake 0.00 KAFE
+Claim 0.00 KAFE ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - WMOVR Price: $71.69 Market Cap: $14,254,836.30 
+Staked: 0.0008 WMOVR ($0.06)
+KAFE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WMOVR ($0.00), 0.00% of the pool.
+Stake 0.00 WMOVR - Fee 3.5%
+Unstake 0.00 WMOVR
+Claim 0.00 KAFE ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - USDC Price: $1.00 Market Cap: $49,254,341.40 
+Staked: 11850.5615 USDC ($11,850.56)
+KAFE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 3.5%
+Unstake 0.00 USDC
+Claim 0.00 KAFE ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [KAFE]-[WMOVR] SLP [+] [-] [<=>] Price: $20.49 TVL: $6,976.93
+KAFE Price: $0.98
+WMOVR Price: $71.69
+Staked: 3.7924 SLP ($77.72)
+KAFE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [KAFE]-[WMOVR] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [KAFE]-[WMOVR] SLP
+Unstake 0.00 [KAFE]-[WMOVR] SLP
+Claim 0.00 KAFE ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [KAFE]-[USDC] SLP [+] [-] [<=>] Price: $3,130,775.20 TVL: $1,012.87
+KAFE Price: $0.98
+USDC Price: $1.00
+Staked: 0.0001 SLP ($240.77)
+KAFE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [KAFE]-[USDC] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [KAFE]-[USDC] SLP
+Unstake 0.00 [KAFE]-[USDC] SLP
+Claim 0.00 KAFE ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WMOVR]-[USDC] SLP [+] [-] [<=>] Price: $21,741,454.71 TVL: $3,779,112.45
+WMOVR Price: $71.69
+USDC Price: $1.00
+Staked: 0.0000 SLP ($37.56)
+KAFE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WMOVR]-[USDC] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMOVR]-[USDC] SLP - Fee 3.5%
+Unstake 0.00 [WMOVR]-[USDC] SLP
+Claim 0.00 KAFE ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - MOONKAFE-SOLARMOVR-SOLAR (Wrapped [SOLAR]-[WMOVR] SLP) Price: $55.17 TVL: $61,767.52
+Staked: 28.3589 MOONKAFE-SOLARMOVR-SOLAR ($1,564.65)
+KAFE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 MOONKAFE-SOLARMOVR-SOLAR ($0.00), 0.00% of the pool.
+Stake 0.00 MOONKAFE-SOLARMOVR-SOLAR
+Unstake 0.00 MOONKAFE-SOLARMOVR-SOLAR
+Claim 0.00 KAFE ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - MOONKAFE-FREEMOVR-DRAGON (Wrapped [FREE]-[WMOVR] Uni LP) Price: $29.10 TVL: $1,217.09
+Staked: 1.5592 MOONKAFE-FREEMOVR-DRAGON ($45.37)
+KAFE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 MOONKAFE-FREEMOVR-DRAGON ($0.00), 0.00% of the pool.
+Stake 0.00 MOONKAFE-FREEMOVR-DRAGON
+Unstake 0.00 MOONKAFE-FREEMOVR-DRAGON
+Claim 0.00 KAFE ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - MOONKAFE-3LP-1SWAP (Wrapped 1swap 3Pool Token) Price: $0.00 TVL: $0.00
+Staked: 0.0000 MOONKAFE-3LP-1SWAP ($0.00)
+KAFE Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 MOONKAFE-3LP-1SWAP ($0.00), NaN% of the pool.
+Stake 0.00 MOONKAFE-3LP-1SWAP
+Unstake 0.00 MOONKAFE-3LP-1SWAP
+Claim 0.00 KAFE ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $13,816.68

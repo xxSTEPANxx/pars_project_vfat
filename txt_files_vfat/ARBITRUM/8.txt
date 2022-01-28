@@ -1,0 +1,169 @@
+*************** 👨‍🌾 UNOFFICIAL ARBIFARM.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://www.arbifarm.fi
+*************************************************************************************
+
+Thu Jan 27 2022 21:47:45 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 14 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [AFARM]-[USDC] SLP [+] [-] [<=>] Price: $558,967.90 TVL: $364.58
+AFARM Price: $0.07
+USDC Price: $1.00
+Staked: 0.0006 SLP ($343.78)
+AFARM Per Week: 541.94 ($35.44)
+APR: Day 1.47% Week 10.31% Year 536.02%
+You are staking 0.00 [AFARM]-[USDC] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [AFARM]-[USDC] SLP
+Unstake 0.00 [AFARM]-[USDC] SLP
+Claim 0.00 AFARM ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [AFARM]-[WETH] SLP [+] [-] [<=>] Price: $30.02 TVL: $540.41
+AFARM Price: $0.07
+WETH Price: $2,429.30
+Staked: 14.0736 SLP ($422.52)
+AFARM Per Week: 722.58 ($47.25)
+APR: Day 1.60% Week 11.18% Year 581.50%
+You are staking 0.00 [AFARM]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [AFARM]-[WETH] SLP
+Unstake 0.00 [AFARM]-[WETH] SLP
+Claim 0.00 AFARM ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - AFARM Price: $0.07 Market Cap: $3,571.91 
+Staked: 24166.6956 AFARM ($1,580.27)
+AFARM Per Week: 361.29 ($23.62)
+APR: Day 0.21% Week 1.49% Year 77.74%
+You are staking 0.00 AFARM ($0.00), 0.00% of the pool.
+Stake 0.00 AFARM
+Unstake 0.00 AFARM
+Claim 0.00 AFARM ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - WETH Price: $2,429.30 Market Cap: $575,271,527.56 
+Staked: 2.7979 WETH ($6,797.02)
+AFARM Per Week: 180.65 ($11.81)
+APR: Day 0.02% Week 0.17% Year 9.04%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 0.5%
+Unstake 0.00 WETH
+Claim 0.00 AFARM ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - USDC Price: $1.00 Market Cap: $372,901,692.68 
+Staked: 5084.3031 USDC ($5,084.30)
+AFARM Per Week: 90.32 ($5.91)
+APR: Day 0.02% Week 0.12% Year 6.04%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 0.5%
+Unstake 0.00 USDC
+Claim 0.00 AFARM ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - GMX Price: $0.00 Market Cap: $0.00 
+Staked: 417.1491 GMX ($0.00)
+AFARM Per Week: 54.19 ($3.54)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 GMX ($0.00), NaN% of the pool.
+Stake 0.00 GMX - Fee 0.5%
+Unstake 0.00 GMX
+Claim 0.00 AFARM ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [ADoge]-[AFARM] SLP [+] [-] [<=>] Price: $0.00 TVL: $158.27
+ADoge Price: $0.0000000347
+AFARM Price: $0.07
+Staked: 1522555.0003 SLP ($149.90)
+AFARM Per Week: 270.97 ($17.72)
+APR: Day 1.69% Week 11.82% Year 614.66%
+You are staking 0.00 [ADoge]-[AFARM] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADoge]-[AFARM] SLP
+Unstake 0.00 [ADoge]-[AFARM] SLP
+Claim 0.00 AFARM ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - USDT Price: $1.00 Market Cap: $177,405,379.79 
+Staked: 3282.2810 USDT ($3,282.28)
+AFARM Per Week: 90.32 ($5.91)
+APR: Day 0.03% Week 0.18% Year 9.36%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 0.5%
+Unstake 0.00 USDT
+Claim 0.00 AFARM ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [AFARM]-[USDT] SLP [+] [-] [<=>] Price: $524,274.39 TVL: $245.35
+AFARM Price: $0.07
+USDT Price: $1.00
+Staked: 0.0005 SLP ($242.41)
+AFARM Per Week: 541.94 ($35.44)
+APR: Day 2.09% Week 14.62% Year 760.17%
+You are staking 0.00 [AFARM]-[USDT] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [AFARM]-[USDT] SLP
+Unstake 0.00 [AFARM]-[USDT] SLP
+Claim 0.00 AFARM ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [AFARM]-[NYAN] SLP [+] [-] [<=>] Price: $0.09 TVL: $282.98
+AFARM Price: $0.07
+NYAN Price: $0.03
+Staked: 2075.6207 SLP ($196.48)
+AFARM Per Week: 270.97 ($17.72)
+APR: Day 1.29% Week 9.02% Year 468.94%
+You are staking 0.00 [AFARM]-[NYAN] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [AFARM]-[NYAN] SLP
+Unstake 0.00 [AFARM]-[NYAN] SLP
+Claim 0.00 AFARM ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - NYAN Price: $0.03 Market Cap: $3,195,478.00 
+Staked: 7271.5066 NYAN ($232.36)
+AFARM Per Week: 36.13 ($2.36)
+APR: Day 0.15% Week 1.02% Year 52.87%
+You are staking 0.00 NYAN ($0.00), 0.00% of the pool.
+Stake 0.00 NYAN - Fee 0.5%
+Unstake 0.00 NYAN
+Claim 0.00 AFARM ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [AFARM]-[WBTC] SLP [+] [-] [<=>] Price: $9,901,072.94 TVL: $26.69
+AFARM Price: $0.07
+WBTC Price: $36,103.00
+Staked: 0.0000 SLP ($24.94)
+AFARM Per Week: 632.26 ($41.34)
+APR: Day 23.68% Week 165.76% Year 8619.62%
+You are staking 0.00 [AFARM]-[WBTC] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [AFARM]-[WBTC] SLP
+Unstake 0.00 [AFARM]-[WBTC] SLP
+Claim 0.00 AFARM ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [AFARM]-[SUSHI] SLP [+] [-] [<=>] Price: $1.05 TVL: $89.05
+AFARM Price: $0.07
+SUSHI Price: $4.07
+Staked: 84.1528 SLP ($88.15)
+AFARM Per Week: 632.26 ($41.34)
+APR: Day 6.70% Week 46.90% Year 2438.87%
+You are staking 0.00 [AFARM]-[SUSHI] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [AFARM]-[SUSHI] SLP
+Unstake 0.00 [AFARM]-[SUSHI] SLP
+Claim 0.00 AFARM ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - TIF Price: $0.00 Market Cap: $0.00 
+Staked: 116322.1583 TIF ($0.00)
+AFARM Per Week: 54.19 ($3.54)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 TIF ($0.00), NaN% of the pool.
+Stake 0.00 TIF
+Unstake 0.00 TIF
+Claim 0.00 AFARM ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $18,444.42

@@ -1,0 +1,34 @@
+*************** 👨‍🌾 UNOFFICIAL BOTTO FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://app.botto.com
+**************************************************************************
+
+Thu Jan 27 2022 20:07:07 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+[BOTTO]-[WETH] Uni LP [+] [-] [<=>] Price: $61.48 TVL: $3,642,445.57
+BOTTO Price: $0.35
+WETH Price: $2,475.34
+Staked: 44682.0574 UNI-V2 ($2,746,916.16)
+BOTTO Per Week: 102771.65 ($35,478.42)
+APR: Day 0.18% Week 1.29% Year 67.16%
+You are staking 0.000000 [BOTTO]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [BOTTO]-[WETH] Uni LP
+Unstake 0.000000 [BOTTO]-[WETH] Uni LP
+Claim 0.000000 BOTTO ($0.00)
+Revoke (set approval to 0)
+Exit
+
+BOTTO Price: $0.35 Market Cap: $34,521,600.00 [%]
+Staked: 5462545.6286 BOTTO ($1,885,758.15)
+You are staking 0.000000 BOTTO $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 BOTTO
+Unstake 0.000000 BOTTO
+Revoke (set approval to 0)
+Exit
+
+Total staked: $4,632,674.31

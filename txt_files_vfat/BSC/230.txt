@@ -1,0 +1,109 @@
+*************** 👨‍🌾 UNOFFICIAL PURESWAP.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://www.pureswap.finance
+*************************************************************************************
+
+Thu Jan 27 2022 20:57:09 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 17 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [PURE]-[WBNB] Pure Swap LP [+] [-] [<=>] Price: $3.58 TVL: $58,162.83
+PURE Price: $0.007434
+WBNB Price: $369.24
+Staked: 15033.5628 PLP ($53,838.13)
+PURE Per Week: 321702.13 ($2,391.47)
+APR: Day 0.63% Week 4.44% Year 230.98%
+You are staking 0.00 [PURE]-[WBNB] Pure Swap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PURE]-[WBNB] Pure Swap LP
+Unstake 0.00 [PURE]-[WBNB] Pure Swap LP
+Claim 0.00 PURE ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [PURE]-[MX] Pure Swap LP [+] [-] [<=>] Price: $0.23 TVL: $31,784.33
+PURE Price: $0.007434
+MX Price: $1.71
+Staked: 126103.8990 PLP ($29,539.61)
+PURE Per Week: 128680.85 ($956.59)
+APR: Day 0.46% Week 3.24% Year 168.39%
+You are staking 0.00 [PURE]-[MX] Pure Swap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PURE]-[MX] Pure Swap LP
+Unstake 0.00 [PURE]-[MX] Pure Swap LP
+Claim 0.00 PURE ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [MX]-[WBNB] Pure Swap LP [+] [-] [<=>] Price: $52.91 TVL: $130,908.53
+MX Price: $1.71
+WBNB Price: $369.24
+Staked: 1529.0931 PLP ($80,908.08)
+PURE Per Week: 64340.43 ($478.29)
+APR: Day 0.08% Week 0.59% Year 30.74%
+You are staking 0.00 [MX]-[WBNB] Pure Swap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MX]-[WBNB] Pure Swap LP
+Unstake 0.00 [MX]-[WBNB] Pure Swap LP
+Claim 0.00 PURE ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [PURE]-[BUSD] Pure Swap LP [+] [-] [<=>] Price: $0.19 TVL: $16,535.55
+PURE Price: $0.007434
+BUSD Price: $1.00
+Staked: 67184.0531 PLP ($12,489.46)
+PURE Per Week: 32170.21 ($239.15)
+APR: Day 0.27% Week 1.91% Year 99.57%
+You are staking 0.00 [PURE]-[BUSD] Pure Swap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PURE]-[BUSD] Pure Swap LP
+Unstake 0.00 [PURE]-[BUSD] Pure Swap LP
+Claim 0.00 PURE ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [MX]-[BUSD] Pure Swap LP [+] [-] [<=>] Price: $2.85 TVL: $66,355.13
+MX Price: $1.71
+BUSD Price: $1.00
+Staked: 3171.1127 PLP ($9,045.30)
+PURE Per Week: 32170.21 ($239.15)
+APR: Day 0.38% Week 2.64% Year 137.48%
+You are staking 0.00 [MX]-[BUSD] Pure Swap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MX]-[BUSD] Pure Swap LP
+Unstake 0.00 [MX]-[BUSD] Pure Swap LP
+Claim 0.00 PURE ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WBNB]-[BUSD] Pure Swap LP [+] [-] [<=>] Price: $42.44 TVL: $49,020.48
+WBNB Price: $369.24
+BUSD Price: $1.00
+Staked: 103.8578 PLP ($4,407.48)
+PURE Per Week: 12868.09 ($95.66)
+APR: Day 0.31% Week 2.17% Year 112.86%
+You are staking 0.00 [WBNB]-[BUSD] Pure Swap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Pure Swap LP
+Unstake 0.00 [WBNB]-[BUSD] Pure Swap LP
+Claim 0.00 PURE ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [USDT]-[BUSD] Pure Swap LP [+] [-] [<=>] Price: $2.00 TVL: $12,861.53
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 4919.2191 PLP ($9,849.65)
+PURE Per Week: 12868.09 ($95.66)
+APR: Day 0.14% Week 0.97% Year 50.50%
+You are staking 0.00 [USDT]-[BUSD] Pure Swap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Pure Swap LP
+Unstake 0.00 [USDT]-[BUSD] Pure Swap LP
+Claim 0.00 PURE ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - PlaceHolder Price: $0.00 Market Cap: $0.00 
+Staked: 1.0000 PlaceHolder ($0.00)
+PURE Per Week: 604800.00 ($4,495.97)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 PlaceHolder ($0.00), NaN% of the pool.
+Stake 0.00 PlaceHolder
+Unstake 0.00 PlaceHolder
+Claim 0.00 PURE ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $200,077.71

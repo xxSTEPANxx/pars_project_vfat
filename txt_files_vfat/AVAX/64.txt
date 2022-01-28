@@ -1,0 +1,26 @@
+*************** 👨‍🌾 UNOFFICIAL SMARTCOIN FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://smartcoin.farm
+******************************************************************************
+
+Fri Jan 28 2022 00:26:28 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 1 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [SMRTr]-[WAVAX] JLP [+] [-] [<=>] Price: $0.01 TVL: $5,062,347.23
+SMRTr Price: $0.0000003473
+WAVAX Price: $61.97
+Staked: 17183930.8288 JLP ($180,989.37)
+SMRT Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [SMRTr]-[WAVAX] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [SMRTr]-[WAVAX] JLP
+Unstake 0.00 [SMRTr]-[WAVAX] JLP
+Claim NaN SMRT ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $180,989.37

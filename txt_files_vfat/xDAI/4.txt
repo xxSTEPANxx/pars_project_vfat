@@ -1,0 +1,128 @@
+********************************* xDAI **********************************
+    
+*************** 👨‍🌾 UNOFFICIAL SUSHI FARMING CALCULATOR 👨‍🌾 **************
+INFO  : https://app.sushi.com
+*************************************************************************
+
+Fri Jan 28 2022 00:05:53 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 9 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+[USDC]-[WXDAI] SLP [+] [-] [<=>] Price: $2,045,561.99 TVL: $2,913,276.62
+USDC Price: $1.00
+WXDAI Price: $1.00
+Staked: 1.4166 SLP ($2,897,771.67)
+SUSHI Per Week: 124.88 ($0.00)
+WXDAI Per Week: 12.52 ($12.46)
+APR SUSHI: Day NaN% Week NaN% Year NaN%
+APR XDAI: Day 0.00% Week 0.00% Year 0.02%
+Total Per Week: $0.00
+Total APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [USDC]-[WXDAI] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WXDAI] SLP
+Unstake 0.00 [USDC]-[WXDAI] SLP
+Claim 0.00 SUSHI ($0.00) + 0.00 WXDAI ($0.00)
+Staking or unstaking also claims rewards.
+
+[WETH]-[WBTC] SLP [+] [-] [<=>] Price: $1,846,747,598.97 TVL: $2,399,602.23
+WETH Price: $2,361.48
+WBTC Price: $35,393.75
+Staked: 0.0013 SLP ($2,396,246.30)
+SUSHI Per Week: 173.44 ($0.00)
+WXDAI Per Week: 17.38 ($17.31)
+APR SUSHI: Day NaN% Week NaN% Year NaN%
+APR XDAI: Day 0.00% Week 0.00% Year 0.04%
+Total Per Week: $0.00
+Total APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [WETH]-[WBTC] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[WBTC] SLP
+Unstake 0.00 [WETH]-[WBTC] SLP
+Claim 0.00 SUSHI ($0.00) + 0.00 WXDAI ($0.00)
+Staking or unstaking also claims rewards.
+
+[WETH]-[WXDAI] SLP [+] [-] [<=>] Price: $101.44 TVL: $3,324,950.51
+WETH Price: $2,361.48
+WXDAI Price: $1.00
+Staked: 32607.5970 SLP ($3,307,604.54)
+SUSHI Per Week: 190.44 ($0.00)
+WXDAI Per Week: 19.09 ($19.01)
+APR SUSHI: Day NaN% Week NaN% Year NaN%
+APR XDAI: Day 0.00% Week 0.00% Year 0.03%
+Total Per Week: $0.00
+Total APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [WETH]-[WXDAI] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[WXDAI] SLP
+Unstake 0.00 [WETH]-[WXDAI] SLP
+Claim 0.00 SUSHI ($0.00) + 0.00 WXDAI ($0.00)
+Staking or unstaking also claims rewards.
+
+[LINK]-[WXDAI] SLP [+] [-] [<=>] Price: $7.83 TVL: $244,210.90
+LINK Price: $14.62
+WXDAI Price: $1.00
+Staked: 30926.6782 SLP ($242,047.03)
+SUSHI Per Week: 46.13 ($0.00)
+WXDAI Per Week: 4.62 ($4.61)
+APR SUSHI: Day NaN% Week NaN% Year NaN%
+APR XDAI: Day 0.00% Week 0.00% Year 0.10%
+Total Per Week: $0.00
+Total APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [LINK]-[WXDAI] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [LINK]-[WXDAI] SLP
+Unstake 0.00 [LINK]-[WXDAI] SLP
+Claim 0.00 SUSHI ($0.00) + 0.00 WXDAI ($0.00)
+Staking or unstaking also claims rewards.
+
+[USDT]-[WXDAI] SLP [+] [-] [<=>] Price: $2,028,389.90 TVL: $1,322,012.61
+USDT Price: $0.99
+WXDAI Price: $1.00
+Staked: 0.6502 SLP ($1,318,806.79)
+SUSHI Per Week: 61.05 ($0.00)
+WXDAI Per Week: 6.12 ($6.09)
+APR SUSHI: Day NaN% Week NaN% Year NaN%
+APR XDAI: Day 0.00% Week 0.00% Year 0.02%
+Total Per Week: $0.00
+Total APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [USDT]-[WXDAI] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WXDAI] SLP
+Unstake 0.00 [USDT]-[WXDAI] SLP
+Claim 0.00 SUSHI ($0.00) + 0.00 WXDAI ($0.00)
+Staking or unstaking also claims rewards.
+
+[USDT]-[USDC] SLP [+] [-] [<=>] Price: $2,001,926,512,845.60 TVL: $446,213.24
+USDT Price: $0.99
+USDC Price: $1.00
+Staked: 0.0000 SLP ($444,649.86)
+SUSHI Per Week: 34.69 ($0.00)
+WXDAI Per Week: 3.48 ($3.46)
+APR SUSHI: Day NaN% Week NaN% Year NaN%
+APR XDAI: Day 0.00% Week 0.00% Year 0.04%
+Total Per Week: $0.00
+Total APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [USDT]-[USDC] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[USDC] SLP
+Unstake 0.00 [USDT]-[USDC] SLP
+Claim 0.00 SUSHI ($0.00) + 0.00 WXDAI ($0.00)
+Staking or unstaking also claims rewards.
+
+[GNO]-[WXDAI] SLP [+] [-] [<=>] Price: $32.35 TVL: $684,487.82
+GNO Price: $256.81
+WXDAI Price: $1.00
+Staked: 13087.8325 SLP ($423,337.12)
+SUSHI Per Week: 69.38 ($0.00)
+WXDAI Per Week: 6.95 ($6.92)
+APR SUSHI: Day NaN% Week NaN% Year NaN%
+APR XDAI: Day 0.00% Week 0.00% Year 0.09%
+Total Per Week: $0.00
+Total APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [GNO]-[WXDAI] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [GNO]-[WXDAI] SLP
+Unstake 0.00 [GNO]-[WXDAI] SLP
+Claim 0.00 SUSHI ($0.00) + 0.00 WXDAI ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $11,030,463.31

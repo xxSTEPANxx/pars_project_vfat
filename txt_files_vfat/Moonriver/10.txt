@@ -1,0 +1,253 @@
+***************  UNOFFICIAL MOONWHALE FARMING CALCULATOR  ***************
+INFO  : https://whale.moonlake.finance/
+*****************************************************************************
+
+Fri Jan 28 2022 01:14:26 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 20 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - WHALE Price: $0.003457 Market Cap: $162.50 
+Staked: 5788.6719 WHALE ($20.01)
+WHALE Per Week: 819.74 ($2.83)
+APR: Day 2.02% Week 14.16% Year 736.38%
+You are staking 0.00 WHALE ($0.00), 0.00% of the pool.
+Stake 0.00 WHALE
+Unstake 0.00 WHALE
+Claim 0.00 WHALE ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WHALE]-[USDC] SLP [+] [-] [<=>] Price: $121,429.26 TVL: $29.82
+WHALE Price: $0.003457
+USDC Price: $1.00
+Staked: 0.0000 SLP ($5.28)
+WHALE Per Week: 403.18 ($1.39)
+APR: Day 3.77% Week 26.41% Year 1373.58%
+You are staking 0.00 [WHALE]-[USDC] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WHALE]-[USDC] SLP
+Unstake 0.00 [WHALE]-[USDC] SLP
+Claim 0.00 WHALE ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WHALE]-[USDC] Uni LP [+] [-] [<=>] Price: $120,824.90 TVL: $43.94
+WHALE Price: $0.003457
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($5.35)
+WHALE Per Week: 403.18 ($1.39)
+APR: Day 3.72% Week 26.06% Year 1355.07%
+You are staking 0.00 [WHALE]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WHALE]-[USDC] Uni LP
+Unstake 0.00 [WHALE]-[USDC] Uni LP
+Claim 0.00 WHALE ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WMOVR]-[WHALE] SLP [+] [-] [<=>] Price: $1.05 TVL: $9.46
+WMOVR Price: $71.67
+WHALE Price: $0.003457
+Staked: 8.8616 SLP ($9.29)
+WHALE Per Week: 403.18 ($1.39)
+APR: Day 2.14% Week 15.01% Year 780.33%
+You are staking 0.00 [WMOVR]-[WHALE] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMOVR]-[WHALE] SLP
+Unstake 0.00 [WMOVR]-[WHALE] SLP
+Claim 0.00 WHALE ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [WMOVR]-[WHALE] Uni LP [+] [-] [<=>] Price: $1.05 TVL: $26.09
+WMOVR Price: $71.67
+WHALE Price: $0.003457
+Staked: 21.4545 UNI-V2 ($22.50)
+WHALE Per Week: 403.18 ($1.39)
+APR: Day 0.88% Week 6.19% Year 322.08%
+You are staking 0.00 [WMOVR]-[WHALE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMOVR]-[WHALE] Uni LP
+Unstake 0.00 [WMOVR]-[WHALE] Uni LP
+Claim 0.00 WHALE ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WMOVR]-[USDC] SLP [+] [-] [<=>] Price: $21,738,441.39 TVL: $3,778,588.68
+WMOVR Price: $71.67
+USDC Price: $1.00
+Staked: 0.0000 SLP ($3.22)
+WHALE Per Week: 56.44 ($0.20)
+APR: Day 0.87% Week 6.07% Year 315.45%
+You are staking 0.00 [WMOVR]-[USDC] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMOVR]-[USDC] SLP - Fee 4%
+Unstake 0.00 [WMOVR]-[USDC] SLP
+Claim 0.00 WHALE ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [WMOVR]-[USDC] Uni LP [+] [-] [<=>] Price: $19,810,835.12 TVL: $14,434.14
+WMOVR Price: $71.67
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($1.94)
+WHALE Per Week: 40.32 ($0.14)
+APR: Day 1.03% Week 7.18% Year 373.34%
+You are staking 0.00 [WMOVR]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMOVR]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WMOVR]-[USDC] Uni LP
+Claim 0.00 WHALE ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [FREE]-[WMOVR] Uni LP [+] [-] [<=>] Price: $9.30 TVL: $43,016.16
+FREE Price: $0.20
+WMOVR Price: $71.67
+Staked: 0.0896 UNI-V2 ($0.83)
+WHALE Per Week: 40.32 ($0.14)
+APR: Day 2.39% Week 16.73% Year 869.95%
+You are staking 0.00 [FREE]-[WMOVR] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FREE]-[WMOVR] Uni LP - Fee 4%
+Unstake 0.00 [FREE]-[WMOVR] Uni LP
+Claim 0.00 WHALE ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [MOONLAKE]-[USDC] Uni LP [+] [-] [<=>] Price: $233,972.90 TVL: $260.17
+MOONLAKE Price: $0.01
+USDC Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.60)
+WHALE Per Week: 40.32 ($0.14)
+APR: Day 3.32% Week 23.22% Year 1207.58%
+You are staking 0.00 [MOONLAKE]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MOONLAKE]-[USDC] Uni LP
+Unstake 0.00 [MOONLAKE]-[USDC] Uni LP
+Claim 0.00 WHALE ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [MOONLAKE]-[WMOVR] Uni LP [+] [-] [<=>] Price: $2.00 TVL: $124.63
+MOONLAKE Price: $0.01
+WMOVR Price: $71.67
+Staked: 0.0590 UNI-V2 ($0.12)
+WHALE Per Week: 40.32 ($0.14)
+APR: Day 16.91% Week 118.34% Year 6153.63%
+You are staking 0.00 [MOONLAKE]-[WMOVR] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MOONLAKE]-[WMOVR] Uni LP
+Unstake 0.00 [MOONLAKE]-[WMOVR] Uni LP
+Claim 0.00 WHALE ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [MOONLAKE]-[WMOVR] SLP [+] [-] [<=>] Price: $1.92 TVL: $54.78
+MOONLAKE Price: $0.01
+WMOVR Price: $71.67
+Staked: 0.5556 SLP ($1.07)
+WHALE Per Week: 40.32 ($0.14)
+APR: Day 1.86% Week 13.04% Year 678.04%
+You are staking 0.00 [MOONLAKE]-[WMOVR] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [MOONLAKE]-[WMOVR] SLP
+Unstake 0.00 [MOONLAKE]-[WMOVR] SLP
+Claim 0.00 WHALE ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [MOONLAKE]-[WMOVR] Uni LP [+] [-] [<=>] Price: $1.89 TVL: $2.62
+MOONLAKE Price: $0.01
+WMOVR Price: $71.67
+Staked: 0.9707 UNI-V2 ($1.83)
+WHALE Per Week: 40.32 ($0.14)
+APR: Day 1.09% Week 7.60% Year 395.12%
+You are staking 0.00 [MOONLAKE]-[WMOVR] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MOONLAKE]-[WMOVR] Uni LP
+Unstake 0.00 [MOONLAKE]-[WMOVR] Uni LP
+Claim 0.00 WHALE ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [BUSD]-[USDC] SLP [+] [-] [<=>] Price: $2,062,221.20 TVL: $5,466,640.72
+BUSD Price: $1.00
+USDC Price: $1.00
+Staked: 0.0000 SLP ($16.43)
+WHALE Per Week: 80.64 ($0.28)
+APR: Day 0.24% Week 1.70% Year 88.23%
+You are staking 0.00 [BUSD]-[USDC] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUSD]-[USDC] SLP - Fee 4%
+Unstake 0.00 [BUSD]-[USDC] SLP
+Claim 0.00 WHALE ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [USDT]-[USDC] SLP [+] [-] [<=>] Price: $2,027,670,385,636.79 TVL: $2,681,763.91
+USDT Price: $1.00
+USDC Price: $1.00
+Staked: 0.0000 SLP ($14.39)
+WHALE Per Week: 80.64 ($0.28)
+APR: Day 0.28% Week 1.94% Year 100.73%
+You are staking 0.00 [USDT]-[USDC] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[USDC] SLP - Fee 4%
+Unstake 0.00 [USDT]-[USDC] SLP
+Claim 0.00 WHALE ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [DAI]-[USDC] SLP [+] [-] [<=>] Price: $2,025,578.96 TVL: $2,543,616.15
+DAI Price: $1.00
+USDC Price: $1.00
+Staked: 0.0000 SLP ($16.64)
+WHALE Per Week: 80.64 ($0.28)
+APR: Day 0.24% Week 1.68% Year 87.13%
+You are staking 0.00 [DAI]-[USDC] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[USDC] SLP - Fee 4%
+Unstake 0.00 [DAI]-[USDC] SLP
+Claim 0.00 WHALE ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [SOLAR]-[WMOVR] SLP [+] [-] [<=>] Price: $17.65 TVL: $3,104,291.64
+SOLAR Price: $0.97
+WMOVR Price: $71.67
+Staked: 0.2755 SLP ($4.86)
+WHALE Per Week: 80.64 ($0.28)
+APR: Day 0.82% Week 5.73% Year 298.13%
+You are staking 0.00 [SOLAR]-[WMOVR] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [SOLAR]-[WMOVR] SLP - Fee 4%
+Unstake 0.00 [SOLAR]-[WMOVR] SLP
+Claim 0.00 WHALE ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [BNB]-[BUSD] SLP [+] [-] [<=>] Price: $39.52 TVL: $181,647.50
+BNB Price: $374.16
+BUSD Price: $1.00
+Staked: 4.7792 SLP ($188.85)
+WHALE Per Week: 56.44 ($0.20)
+APR: Day 0.01% Week 0.10% Year 5.37%
+You are staking 0.00 [BNB]-[BUSD] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [BNB]-[BUSD] SLP - Fee 4%
+Unstake 0.00 [BNB]-[BUSD] SLP
+Claim 0.00 WHALE ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [ETH]-[USDC] SLP [+] [-] [<=>] Price: $99,714,592.52 TVL: $304,976.88
+ETH Price: $2,235.70
+USDC Price: $1.00
+Staked: 0.0000 SLP ($8.66)
+WHALE Per Week: 56.44 ($0.20)
+APR: Day 0.32% Week 2.25% Year 117.22%
+You are staking 0.00 [ETH]-[USDC] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[USDC] SLP - Fee 4%
+Unstake 0.00 [ETH]-[USDC] SLP
+Claim 0.00 WHALE ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [WBTC]-[USDC] SLP [+] [-] [<=>] Price: $37,944,422,288,818.14 TVL: $774,602.80
+WBTC Price: $34,955.00
+USDC Price: $1.00
+Staked: 0.0000 SLP ($8.74)
+WHALE Per Week: 56.44 ($0.20)
+APR: Day 0.32% Week 2.23% Year 116.12%
+You are staking 0.00 [WBTC]-[USDC] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[USDC] SLP - Fee 4%
+Unstake 0.00 [WBTC]-[USDC] SLP
+Claim 0.00 WHALE ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [KAFE]-[WMOVR] SLP [+] [-] [<=>] Price: $20.49 TVL: $6,974.98
+KAFE Price: $0.98
+WMOVR Price: $71.67
+Staked: 0.0210 SLP ($0.43)
+WHALE Per Week: 56.44 ($0.20)
+APR: Day 6.48% Week 45.38% Year 2359.79%
+You are staking 0.00 [KAFE]-[WMOVR] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [KAFE]-[WMOVR] SLP - Fee 4%
+Unstake 0.00 [KAFE]-[WMOVR] SLP
+Claim 0.00 WHALE ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $331.05

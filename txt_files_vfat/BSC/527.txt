@@ -1,0 +1,213 @@
+*************** 👨‍🌾 UNOFFICIAL MODERSWAP FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://moderswap.com
+******************************************************************************
+
+Thu Jan 27 2022 21:41:53 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 18 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [MOD]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.58 TVL: $1.90
+MOD Price: $0.08
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+MOD Per Week: 215.61 ($17.61)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [MOD]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [MOD]-[BUSD] Cake LP
+Unstake 0.00 [MOD]-[BUSD] Cake LP
+Claim 0.00 MOD ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [MOD]-[WBNB] Cake LP [+] [-] [<=>] Price: $13.07 TVL: $19.99
+MOD Price: $0.08
+WBNB Price: $368.30
+Staked: 1.4177 Cake-LP ($18.53)
+MOD Per Week: 215.61 ($17.61)
+APR: Day 13.58% Week 95.07% Year 4943.50%
+You are staking 0.00 [MOD]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MOD]-[WBNB] Cake LP
+Unstake 0.00 [MOD]-[WBNB] Cake LP
+Claim 0.00 MOD ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $65.83 TVL: $2,221,114.10
+WBNB Price: $368.30
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+MOD Per Week: 26.95 ($2.20)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 MOD ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.17 TVL: $3,555,768.17
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+MOD Per Week: 26.95 ($2.20)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 MOD ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.28 TVL: $253,584.15
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+MOD Per Week: 26.95 ($2.20)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 MOD ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [BTCB]-[BUSD] Cake LP [+] [-] [<=>] Price: $427.40 TVL: $7,707.77
+BTCB Price: $36,255.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+MOD Per Week: 32.34 ($2.64)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [BTCB]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [BTCB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[BUSD] Cake LP
+Claim 0.00 MOD ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [DOT]-[WBNB] Cake LP [+] [-] [<=>] Price: $179.19 TVL: $321,094.31
+DOT Price: $17.95
+WBNB Price: $368.30
+Staked: 0.0000 Cake-LP ($0.00)
+MOD Per Week: 32.34 ($2.64)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 MOD ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $122.13 TVL: $3,297,944.15
+Cake Price: $6.99
+WBNB Price: $368.30
+Staked: 0.0000 Cake-LP ($0.00)
+MOD Per Week: 26.95 ($2.20)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 MOD ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [Cake]-[BUSD] Cake LP [+] [-] [<=>] Price: $8.57 TVL: $67,795.83
+Cake Price: $6.99
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+MOD Per Week: 26.95 ($2.20)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 MOD ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - MOD Price: $0.08 Market Cap: $163.38 [%]
+Staked: 116.0432 MOD ($9.48)
+MOD Per Week: 161.71 ($13.21)
+APR: Day 19.91% Week 139.35% Year 7246.42%
+You are staking 0.00 MOD ($0.00), 0.00% of the pool.
+Stake 0.00 MOD
+Unstake 0.00 MOD
+Claim 0.00 MOD ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - BUSD Price: $1.00 Market Cap: $4,848,413,805.96 [%]
+Staked: 0.0000 BUSD ($0.00)
+MOD Per Week: 26.95 ($2.20)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 BUSD ($0.00), NaN% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 MOD ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - WBNB Price: $368.30 Market Cap: $1,922,644,538.13 [%]
+Staked: 0.0000 WBNB ($0.00)
+MOD Per Week: 26.95 ($2.20)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 WBNB ($0.00), NaN% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 MOD ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - USDT Price: $1.00 Market Cap: $3,879,997,922.18 [%]
+Staked: 10.0800 USDT ($10.08)
+MOD Per Week: 26.95 ($2.20)
+APR: Day 3.12% Week 21.84% Year 1135.77%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 MOD ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - ETH Price: $2,435.50 Market Cap: $3,421,877,500.00 [%]
+Staked: 0.0000 ETH ($0.00)
+MOD Per Week: 26.95 ($2.20)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 ETH ($0.00), NaN% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 MOD ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - BTCB Price: $36,255.00 Market Cap: $4,078,723,755.00 [%]
+Staked: 0.0001 BTCB ($3.09)
+MOD Per Week: 26.95 ($2.20)
+APR: Day 10.16% Week 71.15% Year 3699.61%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 MOD ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - DAI Price: $1.00 Market Cap: $262,000,000.00 [%]
+Staked: 0.0000 DAI ($0.00)
+MOD Per Week: 26.95 ($2.20)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 DAI ($0.00), NaN% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 MOD ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - DOT Price: $17.95 Market Cap: $287,199,999.84 [%]
+Staked: 0.3169 DOT ($5.69)
+MOD Per Week: 26.95 ($2.20)
+APR: Day 5.53% Week 38.71% Year 2012.90%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 MOD ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - Cake Price: $6.99 Market Cap: $4,298,638,039.66 [%]
+Staked: 1.4400 Cake ($10.07)
+MOD Per Week: 26.95 ($2.20)
+APR: Day 3.12% Week 21.87% Year 1137.39%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 MOD ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $56.93

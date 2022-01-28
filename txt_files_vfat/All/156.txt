@@ -1,0 +1,48 @@
+*************** 👨‍🌾 UNOFFICIAL Instrumental Finance FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://instrumental.finance
+**************************************************************************
+
+Thu Jan 27 2022 20:10:42 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+
+------------------ Info ------------------
+App
+Medium
+Twitter
+Discord
+
+------------------ Contracts ------------------
+Locking contract
+Token address: 0x0eDF9bc41Bbc1354c70e2107F80C42caE7FBBcA8  (Vote-escrowed Instrumental Finance STRM - veSTRM)
+Token supply: 2740703.5654360848
+Epoch: 329
+---------- Current APY ----------
+1 month lock-up: >833%
+3 months lock-up: >2500%
+6 months lock-up: >7500%
+12 months lock-up: >9500%
+24 months lock-up: >12500%
+  ---> Participate 
+
+Liquidity mining
+---------- Pool 1 ----------
+STRM per share: 0.12104964144522187 
+Last reward block: 13912981 
+End timestmap: 13912981 
+Locked: false 
+STRM per block: 10.7473722674806 
+Supply: 4079.321702453787 
+
+---------- Pool 2 ----------
+STRM per share: 0.0173525889500179 
+Last reward block: 14078276 
+End timestmap: 14378212 
+Locked: true 
+STRM per block: 4.133597883597884 
+Supply: 12295.540967492196 
+
+  ---> Participate 

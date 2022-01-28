@@ -4,13 +4,20 @@ INFO  : https://mushrooms.finance/farms
 
 *** If you are being rate limited, please try official aggregator RPC node https://polygon-rpc.com ***
 
-Thu Dec 16 2021 06:12:57 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 23:58:29 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
+Staking Contract
 Found 6 pools.
 Showing incentivized pools only.
-{}
+{
+  "code": -32603,
+  "message": "Non-200 status code: '400'",
+  "data": {
+    "error": "Unable to verify your data submission."
+  }
+}
 Oops something went wrong. Try refreshing the page.

@@ -1,0 +1,136 @@
+***************************** HUOBI ECO CHAIN *******************************
+    
+*************** 👨‍🌾 UNOFFICIAL COMPLUS FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://heco.complus.exchange/
+*****************************************************************************
+
+Thu Jan 27 2022 21:52:32 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 25 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [WHT]-[USDT] Uni LP [+] [-] [<=>] Price: $6.97 TVL: $4,798.10
+WHT Price: $8.65
+USDT Price: $1.00
+Staked: 186.4143 COM-LP ($1,299.84)
+COM Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WHT]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WHT]-[USDT] Uni LP
+Unstake 0.00 [WHT]-[USDT] Uni LP
+Claim 0.00 COM ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WHT]-[HBTC] Uni LP [+] [-] [<=>] Price: $1,166.78 TVL: $308.41
+WHT Price: $8.65
+HBTC Price: $36,206.00
+Staked: 0.0000 COM-LP ($0.00)
+COM Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [WHT]-[HBTC] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [WHT]-[HBTC] Uni LP
+Unstake 0.00 [WHT]-[HBTC] Uni LP
+Claim 0.00 COM ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WHT]-[ETH] Uni LP [+] [-] [<=>] Price: $302.64 TVL: $394.90
+WHT Price: $8.65
+ETH Price: $2,432.52
+Staked: 0.0000 COM-LP ($0.00)
+COM Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WHT]-[ETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WHT]-[ETH] Uni LP
+Unstake 0.00 [WHT]-[ETH] Uni LP
+Claim 0.00 COM ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [HUSD]-[WHT] Uni LP [+] [-] [<=>] Price: $640,357.33 TVL: $9,051.22
+HUSD Price: $1.00
+WHT Price: $8.65
+Staked: 0.0117 COM-LP ($7,518.33)
+COM Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [HUSD]-[WHT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [HUSD]-[WHT] Uni LP
+Unstake 0.00 [HUSD]-[WHT] Uni LP
+Claim 0.00 COM ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WHT]-[COM] Uni LP [+] [-] [<=>] Price: $0.21 TVL: $3,825.38
+WHT Price: $8.65
+COM Price: $0.000953
+Staked: 16220.9461 COM-LP ($3,461.58)
+COM Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WHT]-[COM] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WHT]-[COM] Uni LP
+Unstake 0.00 [WHT]-[COM] Uni LP
+Claim 0.00 COM ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [DAI-HECO]-[WHT] Uni LP [+] [-] [<=>] Price: $6.11 TVL: $651.91
+DAI-HECO Price: $1.00
+WHT Price: $8.65
+Staked: 72.3775 COM-LP ($442.51)
+COM Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [DAI-HECO]-[WHT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI-HECO]-[WHT] Uni LP
+Unstake 0.00 [DAI-HECO]-[WHT] Uni LP
+Claim 0.00 COM ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [WHT]-[xCOM] Uni LP [+] [-] [<=>] Price: $0.25 TVL: $385.45
+WHT Price: $8.65
+xCOM Price: $0.001655
+Staked: 1348.2414 COM-LP ($338.34)
+COM Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WHT]-[xCOM] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WHT]-[xCOM] Uni LP
+Unstake 0.00 [WHT]-[xCOM] Uni LP
+Claim 0.00 COM ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [COM+]-[WHT] Uni LP [+] [-] [<=>] Price: $0.20 TVL: $4,189.95
+COM+ Price: $0.001025
+WHT Price: $8.65
+Staked: 13882.4468 COM-LP ($2,794.39)
+COM Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [COM+]-[WHT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [COM+]-[WHT] Uni LP
+Unstake 0.00 [COM+]-[WHT] Uni LP
+Claim 0.00 COM ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - [COM+]-[USDT] Uni LP [+] [-] [<=>] Price: $0.07 TVL: $3,646.65
+COM+ Price: $0.001025
+USDT Price: $1.00
+Staked: 47906.3132 COM-LP ($3,272.89)
+COM Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [COM+]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [COM+]-[USDT] Uni LP
+Unstake 0.00 [COM+]-[USDT] Uni LP
+Claim 0.00 COM ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [COM+]-[HT+] Uni LP [+] [-] [<=>] Price: $0.05 TVL: $750.83
+COM+ Price: $0.001025
+HT+ Price: $0.58
+Staked: 15126.8034 COM-LP ($747.19)
+COM Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [COM+]-[HT+] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [COM+]-[HT+] Uni LP
+Unstake 0.00 [COM+]-[HT+] Uni LP
+Claim 0.00 COM ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $19,875.09

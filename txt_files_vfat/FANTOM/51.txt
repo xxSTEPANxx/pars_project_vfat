@@ -1,0 +1,147 @@
+*************** 👨‍🌾 UNOFFICIAL NippleLabs FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://nipplelabs.finance
+******************************************************************************
+
+Fri Jan 28 2022 00:43:26 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 20 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+1 - [WFTM]-[BOOB] Uni LP [+] [-] [<=>] Price: $0.26 TVL: $4,305.10
+WFTM Price: $2.02
+BOOB Price: $0.006923
+Staked: 9030.3707 NIPS-LP ($2,321.41)
+BOOB Per Week: 10336.16 ($71.56)
+APR: Day 0.44% Week 3.08% Year 160.29%
+You are staking 0.00 [WFTM]-[BOOB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BOOB] Uni LP - Fee 1%
+Unstake 0.00 [WFTM]-[BOOB] Uni LP
+Claim 0.00 BOOB ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [USDC]-[WFTM] Uni LP [+] [-] [<=>] Price: $2,900,279.51 TVL: $1,639.41
+USDC Price: $1.00
+WFTM Price: $2.02
+Staked: 0.0005 NIPS-LP ($1,341.04)
+BOOB Per Week: 5168.08 ($35.78)
+APR: Day 0.38% Week 2.67% Year 138.73%
+You are staking 0.00 [USDC]-[WFTM] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WFTM] Uni LP - Fee 1%
+Unstake 0.00 [USDC]-[WFTM] Uni LP
+Claim 0.00 BOOB ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WFTM]-[BNB] Uni LP [+] [-] [<=>] Price: $54.71 TVL: $926.35
+WFTM Price: $2.02
+BNB Price: $363.94
+Staked: 9.0583 NIPS-LP ($495.61)
+BOOB Per Week: 7752.12 ($53.67)
+APR: Day 1.55% Week 10.83% Year 563.09%
+You are staking 0.00 [WFTM]-[BNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BNB] Uni LP - Fee 1%
+Unstake 0.00 [WFTM]-[BNB] Uni LP
+Claim 0.00 BOOB ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [WFTM]-[ETH] Uni LP [+] [-] [<=>] Price: $137.88 TVL: $1,181.01
+WFTM Price: $2.02
+ETH Price: $2,320.36
+Staked: 7.2772 NIPS-LP ($1,003.38)
+BOOB Per Week: 5168.08 ($35.78)
+APR: Day 0.51% Week 3.57% Year 185.42%
+You are staking 0.00 [WFTM]-[ETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ETH] Uni LP - Fee 1%
+Unstake 0.00 [WFTM]-[ETH] Uni LP
+Claim 0.00 BOOB ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WFTM]-[BTC] Uni LP [+] [-] [<=>] Price: $7,168,696,694.78 TVL: $973.61
+WFTM Price: $2.02
+BTC Price: $35,884.00
+Staked: 0.0000 NIPS-LP ($757.93)
+BOOB Per Week: 5168.08 ($35.78)
+APR: Day 0.67% Week 4.72% Year 245.47%
+You are staking 0.00 [WFTM]-[BTC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BTC] Uni LP - Fee 1%
+Unstake 0.00 [WFTM]-[BTC] Uni LP
+Claim 0.00 BOOB ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [WFTM]-[LINK] Uni LP [+] [-] [<=>] Price: $10.95 TVL: $1,284.26
+WFTM Price: $2.02
+LINK Price: $14.68
+Staked: 97.0246 NIPS-LP ($1,062.63)
+BOOB Per Week: 4134.46 ($28.62)
+APR: Day 0.38% Week 2.69% Year 140.07%
+You are staking 0.00 [WFTM]-[LINK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[LINK] Uni LP - Fee 1%
+Unstake 0.00 [WFTM]-[LINK] Uni LP
+Claim 0.00 BOOB ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [WFTM]-[Shiba] Uni LP [+] [-] [<=>] Price: $1.36 TVL: $753.50
+WFTM Price: $2.02
+Shiba Price: $0.0000000002
+Staked: 339.3013 NIPS-LP ($462.24)
+BOOB Per Week: 2067.23 ($14.31)
+APR: Day 0.44% Week 3.10% Year 161.00%
+You are staking 0.00 [WFTM]-[Shiba] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[Shiba] Uni LP - Fee 1%
+Unstake 0.00 [WFTM]-[Shiba] Uni LP
+Claim 0.00 BOOB ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [WFTM]-[JUST] Uni LP [+] [-] [<=>] Price: $1,186.39 TVL: $148.23
+WFTM Price: $2.02
+JUST Price: $0.001730
+Staked: 0.1013 NIPS-LP ($120.24)
+BOOB Per Week: 2067.23 ($14.31)
+APR: Day 1.70% Week 11.90% Year 618.93%
+You are staking 0.00 [WFTM]-[JUST] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[JUST] Uni LP - Fee 1%
+Unstake 0.00 [WFTM]-[JUST] Uni LP
+Claim 0.00 BOOB ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [WFTM]-[ELITE] Uni LP [+] [-] [<=>] Price: $102.80 TVL: $3,291.45
+WFTM Price: $2.02
+ELITE Price: $1,234.98
+Staked: 28.5002 NIPS-LP ($2,929.70)
+BOOB Per Week: 1033.62 ($7.16)
+APR: Day 0.03% Week 0.24% Year 12.70%
+You are staking 0.00 [WFTM]-[ELITE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ELITE] Uni LP - Fee 1%
+Unstake 0.00 [WFTM]-[ELITE] Uni LP
+Claim 0.00 BOOB ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [WFTM]-[TOMB] Uni LP [+] [-] [<=>] Price: $4.03 TVL: $323.32
+WFTM Price: $2.02
+TOMB Price: $2.00
+Staked: 58.0671 NIPS-LP ($233.87)
+BOOB Per Week: 1550.42 ($10.73)
+APR: Day 0.66% Week 4.59% Year 238.65%
+You are staking 0.00 [WFTM]-[TOMB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[TOMB] Uni LP - Fee 1%
+Unstake 0.00 [WFTM]-[TOMB] Uni LP
+Claim 0.00 BOOB ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [WFTM]-[DMD] Uni LP [+] [-] [<=>] Price: $0.58 TVL: $139.27
+WFTM Price: $2.02
+DMD Price: $0.04
+Staked: 71.4031 NIPS-LP ($41.42)
+BOOB Per Week: 1550.42 ($10.73)
+APR: Day 3.70% Week 25.91% Year 1347.37%
+You are staking 0.00 [WFTM]-[DMD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[DMD] Uni LP - Fee 1%
+Unstake 0.00 [WFTM]-[DMD] Uni LP
+Claim 0.00 BOOB ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $10,769.47

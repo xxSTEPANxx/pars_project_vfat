@@ -1,0 +1,37 @@
+*************** 👨‍🌾 UNOFFICIAL LEVER FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://lever.network
+**************************************************************************
+
+Thu Jan 27 2022 19:58:04 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+[LEV]-[WETH] SLP [+] [-] [<=>] Price: $18.39 TVL: $2,502.51
+LEV Price: $0.03
+WETH Price: $2,483.63
+Staked: 100.0000 SLP ($1,839.47)
+LEV Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [LEV]-[WETH] SLP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [LEV]-[WETH] SLP
+Unstake 0.000000 [LEV]-[WETH] SLP
+Claim 0.000000 LEV ($0.00)
+Revoke (set approval to 0)
+Exit
+
+LEV Price: $0.03 Market Cap: $3,269,227.00 [%]
+Staked: 177264.0727 LEV ($5,795.16)
+LEV Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 LEV $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 LEV
+Unstake 0.000000 LEV
+Claim 0.000000 LEV ($0.00)
+Revoke (set approval to 0)
+Exit
+
+Total staked: $7,634.64

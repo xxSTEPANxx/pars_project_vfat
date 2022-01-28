@@ -1,0 +1,1153 @@
+*************** 👨‍🌾 UNOFFICIAL PANDASWAP FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://farms.pandaswap.xyz
+**************************************************************************************
+
+Thu Jan 27 2022 20:48:52 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+*** Read before depositing ***
+https://docs.bao.finance/franchises/panda/pandaswap-fees-penalties
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 95 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [ETH]-[PNDA] Uni LP [+] [-] [<=>] Price: $1.32 TVL: $51,610.29
+ETH Price: $2,427.79
+PNDA Price: $0.000164
+Staked: 38495.8011 PNDA-V2 ($50,997.57)
+PNDA Per Week: 673022386.44 ($110,381.83)
+APR: Day 30.92% Week 216.45% Year 11255.16%
+You are staking 0.00 [ETH]-[PNDA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[PNDA] Uni LP
+Unstake 0.00 [ETH]-[PNDA] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [PNDA]-[USDC] Uni LP [+] [-] [<=>] Price: $0.03 TVL: $32,489.06
+PNDA Price: $0.000164
+USDC Price: $1.00
+Staked: 1207944.6068 PNDA-V2 ($32,317.22)
+PNDA Per Week: 168255596.61 ($27,595.46)
+APR: Day 12.20% Week 85.39% Year 4440.25%
+You are staking 0.00 [PNDA]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PNDA]-[USDC] Uni LP
+Unstake 0.00 [PNDA]-[USDC] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [PNDA]-[BUSD] Uni LP [+] [-] [<=>] Price: $0.03 TVL: $47,715.55
+PNDA Price: $0.000164
+BUSD Price: $1.00
+Staked: 1738895.8822 PNDA-V2 ($47,464.52)
+PNDA Per Week: 235557835.25 ($38,633.64)
+APR: Day 11.63% Week 81.39% Year 4232.53%
+You are staking 0.00 [PNDA]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PNDA]-[BUSD] Uni LP
+Unstake 0.00 [PNDA]-[BUSD] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [PNDA]-[WBNB] Uni LP [+] [-] [<=>] Price: $0.57 TVL: $60,244.23
+PNDA Price: $0.000164
+WBNB Price: $370.11
+Staked: 99540.2375 PNDA-V2 ($56,698.64)
+PNDA Per Week: 336511193.22 ($55,190.92)
+APR: Day 13.91% Week 97.34% Year 5061.72%
+You are staking 0.00 [PNDA]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PNDA]-[WBNB] Uni LP
+Unstake 0.00 [PNDA]-[WBNB] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [DAI]-[PNDA] Uni LP [+] [-] [<=>] Price: $0.03 TVL: $29,203.81
+DAI Price: $1.00
+PNDA Price: $0.000164
+Staked: 1098580.1797 PNDA-V2 ($29,143.38)
+PNDA Per Week: 168255596.61 ($27,595.46)
+APR: Day 13.53% Week 94.69% Year 4923.81%
+You are staking 0.00 [DAI]-[PNDA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[PNDA] Uni LP
+Unstake 0.00 [DAI]-[PNDA] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - WBNB Price: $370.11 Market Cap: $1,932,305,773.74 [%]
+Staked: 456.5138 WBNB ($168,960.31)
+PNDA Per Week: 33651119.32 ($5,519.09)
+APR: Day 0.47% Week 3.27% Year 169.86%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB
+Unstake 0.00 WBNB
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - Cake Price: $7.04 Market Cap: $4,329,282,868.93 [%]
+Staked: 4148.4463 Cake ($29,205.06)
+PNDA Per Week: 67302238.64 ($11,038.18)
+APR: Day 5.40% Week 37.80% Year 1965.36%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake
+Unstake 0.00 Cake
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [Cake]-[WBNB] Uni LP [+] [-] [<=>] Price: $105.47 TVL: $12,522.52
+Cake Price: $7.04
+WBNB Price: $370.11
+Staked: 114.7452 PNDA-V2 ($12,102.43)
+PNDA Per Week: 26920895.46 ($4,415.27)
+APR: Day 5.21% Week 36.48% Year 1897.09%
+You are staking 0.00 [Cake]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Uni LP
+Unstake 0.00 [Cake]-[WBNB] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [ADA]-[WBNB] Uni LP [+] [-] [<=>] Price: $40.11 TVL: $51,965.66
+ADA Price: $1.03
+WBNB Price: $370.11
+Staked: 265.8171 PNDA-V2 ($10,662.23)
+PNDA Per Week: 3365111.93 ($551.91)
+APR: Day 0.74% Week 5.18% Year 269.17%
+You are staking 0.00 [ADA]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Uni LP
+Unstake 0.00 [ADA]-[WBNB] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [DOT]-[WBNB] Uni LP [+] [-] [<=>] Price: $167.87 TVL: $33,620.58
+DOT Price: $17.97
+WBNB Price: $370.11
+Staked: 199.9101 PNDA-V2 ($33,559.10)
+PNDA Per Week: 3365111.93 ($551.91)
+APR: Day 0.23% Week 1.64% Year 85.52%
+You are staking 0.00 [DOT]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Uni LP
+Unstake 0.00 [DOT]-[WBNB] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [XRP]-[WBNB] Uni LP [+] [-] [<=>] Price: $30.66 TVL: $3,259.86
+XRP Price: $0.61
+WBNB Price: $370.11
+Staked: 103.5903 PNDA-V2 ($3,176.29)
+PNDA Per Week: 2523833.95 ($413.93)
+APR: Day 1.86% Week 13.03% Year 677.66%
+You are staking 0.00 [XRP]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [XRP]-[WBNB] Uni LP
+Unstake 0.00 [XRP]-[WBNB] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [LTC]-[WBNB] Uni LP [+] [-] [<=>] Price: $402.81 TVL: $1,123.71
+LTC Price: $106.67
+WBNB Price: $370.11
+Staked: 2.7892 PNDA-V2 ($1,123.49)
+PNDA Per Week: 2523833.95 ($413.93)
+APR: Day 5.26% Week 36.84% Year 1915.85%
+You are staking 0.00 [LTC]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LTC]-[WBNB] Uni LP
+Unstake 0.00 [LTC]-[WBNB] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [WBNB]-[LINK] Uni LP [+] [-] [<=>] Price: $152.98 TVL: $10,886.46
+WBNB Price: $370.11
+LINK Price: $15.14
+Staked: 61.6398 PNDA-V2 ($9,429.73)
+PNDA Per Week: 16825559.66 ($2,759.55)
+APR: Day 4.18% Week 29.26% Year 1521.74%
+You are staking 0.00 [WBNB]-[LINK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[LINK] Uni LP
+Unstake 0.00 [WBNB]-[LINK] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [WBNB]-[BUSD] Uni LP [+] [-] [<=>] Price: $42.33 TVL: $64,007.93
+WBNB Price: $370.11
+BUSD Price: $1.00
+Staked: 1506.3945 PNDA-V2 ($63,763.53)
+PNDA Per Week: 33651119.32 ($5,519.09)
+APR: Day 1.24% Week 8.66% Year 450.09%
+You are staking 0.00 [WBNB]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Uni LP
+Unstake 0.00 [WBNB]-[BUSD] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [DOGE]-[WBNB] Uni LP [+] [-] [<=>] Price: $1,505,652.00 TVL: $7,456.84
+DOGE Price: $0.14
+WBNB Price: $370.11
+Staked: 0.0049 PNDA-V2 ($7,438.63)
+PNDA Per Week: 1261916.97 ($206.97)
+APR: Day 0.40% Week 2.78% Year 144.68%
+You are staking 0.00 [DOGE]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOGE]-[WBNB] Uni LP
+Unstake 0.00 [DOGE]-[WBNB] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [WBNB]-[UNI] Uni LP [+] [-] [<=>] Price: $127.08 TVL: $230.28
+WBNB Price: $370.11
+UNI Price: $10.66
+Staked: 1.8095 PNDA-V2 ($229.96)
+PNDA Per Week: 168255.60 ($27.60)
+APR: Day 1.71% Week 12.00% Year 624.02%
+You are staking 0.00 [WBNB]-[UNI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[UNI] Uni LP
+Unstake 0.00 [WBNB]-[UNI] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [EOS]-[WBNB] Uni LP [+] [-] [<=>] Price: $58.73 TVL: $507.75
+EOS Price: $2.24
+WBNB Price: $370.11
+Staked: 8.6417 PNDA-V2 ($507.50)
+PNDA Per Week: 841277.98 ($137.98)
+APR: Day 3.88% Week 27.19% Year 1413.76%
+You are staking 0.00 [EOS]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [EOS]-[WBNB] Uni LP
+Unstake 0.00 [EOS]-[WBNB] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [ATOM]-[WBNB] Uni LP [+] [-] [<=>] Price: $228.29 TVL: $36,032.28
+ATOM Price: $30.72
+WBNB Price: $370.11
+Staked: 157.4253 PNDA-V2 ($35,938.03)
+PNDA Per Week: 1261916.97 ($206.97)
+APR: Day 0.08% Week 0.58% Year 29.95%
+You are staking 0.00 [ATOM]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ATOM]-[WBNB] Uni LP
+Unstake 0.00 [ATOM]-[WBNB] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [XTZ]-[WBNB] Uni LP [+] [-] [<=>] Price: $73.43 TVL: $7,860.65
+XTZ Price: $2.93
+WBNB Price: $370.11
+Staked: 106.6943 PNDA-V2 ($7,834.22)
+PNDA Per Week: 841277.98 ($137.98)
+APR: Day 0.25% Week 1.76% Year 91.58%
+You are staking 0.00 [XTZ]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [XTZ]-[WBNB] Uni LP
+Unstake 0.00 [XTZ]-[WBNB] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [SNX]-[WBNB] Uni LP [+] [-] [<=>] Price: $311,817.22 TVL: $1,283.73
+SNX Price: $4.68
+WBNB Price: $370.11
+Staked: 0.0041 PNDA-V2 ($1,280.92)
+PNDA Per Week: 4206389.92 ($689.89)
+APR: Day 7.69% Week 53.86% Year 2800.65%
+You are staking 0.00 [SNX]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SNX]-[WBNB] Uni LP
+Unstake 0.00 [SNX]-[WBNB] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - [MKR]-[WBNB] Uni LP [+] [-] [<=>] Price: $1,632.72 TVL: $16,481.49
+MKR Price: $1,745.59
+WBNB Price: $370.11
+Staked: 10.0672 PNDA-V2 ($16,436.90)
+PNDA Per Week: 5047667.90 ($827.86)
+APR: Day 0.72% Week 5.04% Year 261.90%
+You are staking 0.00 [MKR]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MKR]-[WBNB] Uni LP
+Unstake 0.00 [MKR]-[WBNB] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - [COMP]-[WBNB] Uni LP [+] [-] [<=>] Price: $438.14 TVL: $7,479.61
+COMP Price: $124.87
+WBNB Price: $370.11
+Staked: 17.0607 PNDA-V2 ($7,474.92)
+PNDA Per Week: 5047667.90 ($827.86)
+APR: Day 1.58% Week 11.08% Year 575.91%
+You are staking 0.00 [COMP]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [COMP]-[WBNB] Uni LP
+Unstake 0.00 [COMP]-[WBNB] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - [DAI]-[WBNB] Uni LP [+] [-] [<=>] Price: $41.47 TVL: $44,033.98
+DAI Price: $1.00
+WBNB Price: $370.11
+Staked: 1059.9209 PNDA-V2 ($43,954.84)
+PNDA Per Week: 3365111.93 ($551.91)
+APR: Day 0.18% Week 1.26% Year 65.29%
+You are staking 0.00 [DAI]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[WBNB] Uni LP
+Unstake 0.00 [DAI]-[WBNB] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [YFI]-[WBNB] Uni LP [+] [-] [<=>] Price: $6,123.00 TVL: $14,791.57
+YFI Price: $24,075.46
+WBNB Price: $370.11
+Staked: 2.4144 PNDA-V2 ($14,783.34)
+PNDA Per Week: 3365111.93 ($551.91)
+APR: Day 0.53% Week 3.73% Year 194.13%
+You are staking 0.00 [YFI]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [YFI]-[WBNB] Uni LP
+Unstake 0.00 [YFI]-[WBNB] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - [ETH]-[WBNB] Uni LP [+] [-] [<=>] Price: $1,947.39 TVL: $28,666.18
+ETH Price: $2,427.79
+WBNB Price: $370.11
+Staked: 14.6767 PNDA-V2 ($28,581.23)
+PNDA Per Week: 3365111.93 ($551.91)
+APR: Day 0.28% Week 1.93% Year 100.41%
+You are staking 0.00 [ETH]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Uni LP
+Unstake 0.00 [ETH]-[WBNB] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - [NEAR]-[WBNB] Uni LP [+] [-] [<=>] Price: $134.52 TVL: $12,835.54
+NEAR Price: $11.35
+WBNB Price: $370.11
+Staked: 95.3199 PNDA-V2 ($12,822.08)
+PNDA Per Week: 1682555.97 ($275.95)
+APR: Day 0.31% Week 2.15% Year 111.91%
+You are staking 0.00 [NEAR]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [NEAR]-[WBNB] Uni LP
+Unstake 0.00 [NEAR]-[WBNB] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - [WBNB]-[ONT] Uni LP [+] [-] [<=>] Price: $26.40 TVL: $5,479.16
+WBNB Price: $370.11
+ONT Price: $0.46
+Staked: 207.4228 PNDA-V2 ($5,474.99)
+PNDA Per Week: 841277.98 ($137.98)
+APR: Day 0.36% Week 2.52% Year 131.05%
+You are staking 0.00 [WBNB]-[ONT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[ONT] Uni LP
+Unstake 0.00 [WBNB]-[ONT] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - [BAT]-[WBNB] Uni LP [+] [-] [<=>] Price: $35.89 TVL: $7,064.31
+BAT Price: $0.83
+WBNB Price: $370.11
+Staked: 196.4664 PNDA-V2 ($7,052.01)
+PNDA Per Week: 841277.98 ($137.98)
+APR: Day 0.28% Week 1.96% Year 101.74%
+You are staking 0.00 [BAT]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BAT]-[WBNB] Uni LP
+Unstake 0.00 [BAT]-[WBNB] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - [VAI]-[WBNB] Uni LP [+] [-] [<=>] Price: $38.49 TVL: $938.70
+VAI Price: $0.94
+WBNB Price: $370.11
+Staked: 24.2853 PNDA-V2 ($934.78)
+PNDA Per Week: 841277.98 ($137.98)
+APR: Day 2.11% Week 14.76% Year 767.54%
+You are staking 0.00 [VAI]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [VAI]-[WBNB] Uni LP
+Unstake 0.00 [VAI]-[WBNB] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+29 - [PAX]-[WBNB] Uni LP [+] [-] [<=>] Price: $36.41 TVL: $8,088.32
+PAX Price: $0.88
+WBNB Price: $370.11
+Staked: 222.1003 PNDA-V2 ($8,086.63)
+PNDA Per Week: 841277.98 ($137.98)
+APR: Day 0.24% Week 1.71% Year 88.72%
+You are staking 0.00 [PAX]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PAX]-[WBNB] Uni LP
+Unstake 0.00 [PAX]-[WBNB] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+30 - [WBNB]-[XVS] Uni LP [+] [-] [<=>] Price: $117.12 TVL: $5,035.85
+WBNB Price: $370.11
+XVS Price: $8.04
+Staked: 42.9544 PNDA-V2 ($5,030.70)
+PNDA Per Week: 2523833.95 ($413.93)
+APR: Day 1.18% Week 8.23% Year 427.86%
+You are staking 0.00 [WBNB]-[XVS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[XVS] Uni LP
+Unstake 0.00 [WBNB]-[XVS] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+31 - [BTCB]-[WBNB] Uni LP [+] [-] [<=>] Price: $7,443.33 TVL: $31,945.78
+BTCB Price: $36,201.00
+WBNB Price: $370.11
+Staked: 4.2893 PNDA-V2 ($31,926.33)
+PNDA Per Week: 2523833.95 ($413.93)
+APR: Day 0.19% Week 1.30% Year 67.42%
+You are staking 0.00 [BTCB]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Uni LP
+Unstake 0.00 [BTCB]-[WBNB] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+32 - [UST]-[BUSD] Uni LP [+] [-] [<=>] Price: $2.00 TVL: $54,272.98
+UST Price: $1.00
+BUSD Price: $1.00
+Staked: 15472.0677 PNDA-V2 ($30,988.66)
+PNDA Per Week: 2103194.96 ($344.94)
+APR: Day 0.16% Week 1.11% Year 57.88%
+You are staking 0.00 [UST]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UST]-[BUSD] Uni LP
+Unstake 0.00 [UST]-[BUSD] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+33 - [UST]-[WBNB] Uni LP [+] [-] [<=>] Price: $40.78 TVL: $22,751.13
+UST Price: $1.00
+WBNB Price: $370.11
+Staked: 555.6609 PNDA-V2 ($22,657.48)
+PNDA Per Week: 841277.98 ($137.98)
+APR: Day 0.09% Week 0.61% Year 31.67%
+You are staking 0.00 [UST]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UST]-[WBNB] Uni LP
+Unstake 0.00 [UST]-[WBNB] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+34 - [BAND]-[WBNB] Uni LP [+] [-] [<=>] Price: $72.97 TVL: $7,770.66
+BAND Price: $3.38
+WBNB Price: $370.11
+Staked: 105.9938 PNDA-V2 ($7,734.58)
+PNDA Per Week: 2103194.96 ($344.94)
+APR: Day 0.64% Week 4.46% Year 231.91%
+You are staking 0.00 [BAND]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BAND]-[WBNB] Uni LP
+Unstake 0.00 [BAND]-[WBNB] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+35 - [WBNB]-[SFP] Uni LP [+] [-] [<=>] Price: $34.07 TVL: $1,115.29
+WBNB Price: $370.11
+SFP Price: $0.75
+Staked: 31.1614 PNDA-V2 ($1,061.60)
+PNDA Per Week: 420638.99 ($68.99)
+APR: Day 0.93% Week 6.50% Year 337.92%
+You are staking 0.00 [WBNB]-[SFP] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[SFP] Uni LP
+Unstake 0.00 [WBNB]-[SFP] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+36 - [ALPHA]-[WBNB] Uni LP [+] [-] [<=>] Price: $24.12 TVL: $482.69
+ALPHA Price: $0.38
+WBNB Price: $370.11
+Staked: 20.0040 PNDA-V2 ($482.45)
+PNDA Per Week: 630958.49 ($103.48)
+APR: Day 3.06% Week 21.45% Year 1115.37%
+You are staking 0.00 [ALPHA]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ALPHA]-[WBNB] Uni LP
+Unstake 0.00 [ALPHA]-[WBNB] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+37 - [SXP]-[WBNB] Uni LP [+] [-] [<=>] Price: $45.68 TVL: $3,057.21
+SXP Price: $1.32
+WBNB Price: $370.11
+Staked: 66.7852 PNDA-V2 ($3,050.79)
+PNDA Per Week: 3365111.93 ($551.91)
+APR: Day 2.58% Week 18.09% Year 940.72%
+You are staking 0.00 [SXP]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SXP]-[WBNB] Uni LP
+Unstake 0.00 [SXP]-[WBNB] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+38 - [vBTC]-[WBNB] Uni LP [+] [-] [<=>] Price: $103,156,364.87 TVL: $523.66
+vBTC Price: $688.61
+WBNB Price: $370.11
+Staked: 0.0000 PNDA-V2 ($522.03)
+PNDA Per Week: 420638.99 ($68.99)
+APR: Day 1.89% Week 13.22% Year 687.21%
+You are staking 0.00 [vBTC]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [vBTC]-[WBNB] Uni LP
+Unstake 0.00 [vBTC]-[WBNB] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+39 - [WBNB]-[ANKR] Uni LP [+] [-] [<=>] Price: $11.99 TVL: $7,191.27
+WBNB Price: $370.11
+ANKR Price: $0.07
+Staked: 512.4765 PNDA-V2 ($6,143.76)
+PNDA Per Week: 420638.99 ($68.99)
+APR: Day 0.16% Week 1.12% Year 58.39%
+You are staking 0.00 [WBNB]-[ANKR] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[ANKR] Uni LP
+Unstake 0.00 [WBNB]-[ANKR] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+40 - [TWT]-[WBNB] Uni LP [+] [-] [<=>] Price: $28.08 TVL: $5,605.08
+TWT Price: $0.50
+WBNB Price: $370.11
+Staked: 195.6616 PNDA-V2 ($5,494.12)
+PNDA Per Week: 420638.99 ($68.99)
+APR: Day 0.18% Week 1.26% Year 65.30%
+You are staking 0.00 [TWT]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TWT]-[WBNB] Uni LP
+Unstake 0.00 [TWT]-[WBNB] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+41 - [LINA]-[WBNB] Uni LP [+] [-] [<=>] Price: $5.95 TVL: $2,507.87
+LINA Price: $0.02
+WBNB Price: $370.11
+Staked: 420.2239 PNDA-V2 ($2,501.87)
+PNDA Per Week: 420638.99 ($68.99)
+APR: Day 0.39% Week 2.76% Year 143.39%
+You are staking 0.00 [LINA]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LINA]-[WBNB] Uni LP
+Unstake 0.00 [LINA]-[WBNB] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+42 - [PROM]-[WBNB] Uni LP [+] [-] [<=>] Price: $119.72 TVL: $2,744.94
+PROM Price: $9.34
+WBNB Price: $370.11
+Staked: 22.9203 PNDA-V2 ($2,743.92)
+PNDA Per Week: 210319.50 ($34.49)
+APR: Day 0.18% Week 1.26% Year 65.37%
+You are staking 0.00 [PROM]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PROM]-[WBNB] Uni LP
+Unstake 0.00 [PROM]-[WBNB] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+43 - [ELF]-[WBNB] Uni LP [+] [-] [<=>] Price: $22.15 TVL: $351.38
+ELF Price: $0.32
+WBNB Price: $370.11
+Staked: 15.8202 PNDA-V2 ($350.46)
+PNDA Per Week: 210319.50 ($34.49)
+APR: Day 1.41% Week 9.84% Year 511.81%
+You are staking 0.00 [ELF]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ELF]-[WBNB] Uni LP
+Unstake 0.00 [ELF]-[WBNB] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+44 - [WBNB]-[MATH] Uni LP [+] [-] [<=>] Price: $20.75 TVL: $1,847.09
+WBNB Price: $370.11
+MATH Price: $0.26
+Staked: 88.7088 PNDA-V2 ($1,840.79)
+PNDA Per Week: 841277.98 ($137.98)
+APR: Day 1.07% Week 7.50% Year 389.77%
+You are staking 0.00 [WBNB]-[MATH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[MATH] Uni LP
+Unstake 0.00 [WBNB]-[MATH] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+45 - [AUTO]-[WBNB] Uni LP [+] [-] [<=>] Price: $789.78 TVL: $27,719.24
+AUTO Price: $405.46
+WBNB Price: $370.11
+Staked: 34.9550 PNDA-V2 ($27,606.74)
+PNDA Per Week: 420638.99 ($68.99)
+APR: Day 0.04% Week 0.25% Year 12.99%
+You are staking 0.00 [AUTO]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AUTO]-[WBNB] Uni LP
+Unstake 0.00 [AUTO]-[WBNB] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+46 - [WBNB]-[REEF] Uni LP [+] [-] [<=>] Price: $3.89 TVL: $1,300.39
+WBNB Price: $370.11
+REEF Price: $0.009828
+Staked: 194.7143 PNDA-V2 ($757.49)
+PNDA Per Week: 210319.50 ($34.49)
+APR: Day 0.65% Week 4.55% Year 236.80%
+You are staking 0.00 [WBNB]-[REEF] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[REEF] Uni LP
+Unstake 0.00 [WBNB]-[REEF] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+47 - [WBNB]-[CREAM] Uni LP [+] [-] [<=>] Price: $222.98 TVL: $2,765.52
+WBNB Price: $370.11
+CREAM Price: $30.68
+Staked: 12.3711 PNDA-V2 ($2,758.49)
+PNDA Per Week: 210319.50 ($34.49)
+APR: Day 0.18% Week 1.25% Year 65.02%
+You are staking 0.00 [WBNB]-[CREAM] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[CREAM] Uni LP
+Unstake 0.00 [WBNB]-[CREAM] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+48 - [WBNB]-[vUSDC] Uni LP [+] [-] [<=>] Price: $569,711.53 TVL: $17,123.70
+WBNB Price: $370.11
+vUSDC Price: $0.02
+Staked: 0.0300 PNDA-V2 ($17,115.14)
+PNDA Per Week: 315479.24 ($51.74)
+APR: Day 0.04% Week 0.30% Year 15.72%
+You are staking 0.00 [WBNB]-[vUSDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[vUSDC] Uni LP
+Unstake 0.00 [WBNB]-[vUSDC] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+49 - [WBNB]-[SPARTA] Uni LP [+] [-] [<=>] Price: $17.86 TVL: $11,664.64
+WBNB Price: $370.11
+SPARTA Price: $0.18
+Staked: 652.8311 PNDA-V2 ($11,657.88)
+PNDA Per Week: 315479.24 ($51.74)
+APR: Day 0.06% Week 0.44% Year 23.08%
+You are staking 0.00 [WBNB]-[SPARTA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[SPARTA] Uni LP
+Unstake 0.00 [WBNB]-[SPARTA] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+50 - [CTK]-[WBNB] Uni LP [+] [-] [<=>] Price: $49,892,367.64 TVL: $33,057.02
+CTK Price: $1.42
+WBNB Price: $370.11
+Staked: 0.0006 PNDA-V2 ($30,751.05)
+PNDA Per Week: 841277.98 ($137.98)
+APR: Day 0.06% Week 0.45% Year 23.33%
+You are staking 0.00 [CTK]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CTK]-[WBNB] Uni LP
+Unstake 0.00 [CTK]-[WBNB] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+51 - [BURGER]-[WBNB] Uni LP [+] [-] [<=>] Price: $66.90 TVL: $17,500.21
+BURGER Price: $1.62
+WBNB Price: $370.11
+Staked: 260.1029 PNDA-V2 ($17,400.45)
+PNDA Per Week: 841277.98 ($137.98)
+APR: Day 0.11% Week 0.79% Year 41.23%
+You are staking 0.00 [BURGER]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BURGER]-[WBNB] Uni LP
+Unstake 0.00 [BURGER]-[WBNB] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+52 - [vBUSD]-[WBNB] Uni LP [+] [-] [<=>] Price: $572,501.96 TVL: $17,513.75
+vBUSD Price: $0.02
+WBNB Price: $370.11
+Staked: 0.0306 PNDA-V2 ($17,497.67)
+PNDA Per Week: 630958.49 ($103.48)
+APR: Day 0.08% Week 0.59% Year 30.75%
+You are staking 0.00 [vBUSD]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [vBUSD]-[WBNB] Uni LP
+Unstake 0.00 [vBUSD]-[WBNB] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+53 - [WBNB]-[BRY] Uni LP [+] [-] [<=>] Price: $27.64 TVL: $9,838.75
+WBNB Price: $370.11
+BRY Price: $0.50
+Staked: 355.2995 PNDA-V2 ($9,821.87)
+PNDA Per Week: 841277.98 ($137.98)
+APR: Day 0.20% Week 1.40% Year 73.05%
+You are staking 0.00 [WBNB]-[BRY] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BRY] Uni LP
+Unstake 0.00 [WBNB]-[BRY] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+54 - [STAX]-[WBNB] Uni LP [+] [-] [<=>] Price: $40.25 TVL: $262.08
+STAX Price: $1.01
+WBNB Price: $370.11
+Staked: 6.4714 PNDA-V2 ($260.47)
+PNDA Per Week: 420638.99 ($68.99)
+APR: Day 3.78% Week 26.49% Year 1377.30%
+You are staking 0.00 [STAX]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [STAX]-[WBNB] Uni LP
+Unstake 0.00 [STAX]-[WBNB] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+55 - [WBNB]-[vUSDT] Uni LP [+] [-] [<=>] Price: $573,062.42 TVL: $17,150.98
+WBNB Price: $370.11
+vUSDT Price: $0.02
+Staked: 0.0299 PNDA-V2 ($17,145.52)
+PNDA Per Week: 841277.98 ($137.98)
+APR: Day 0.11% Week 0.80% Year 41.85%
+You are staking 0.00 [WBNB]-[vUSDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[vUSDT] Uni LP
+Unstake 0.00 [WBNB]-[vUSDT] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+56 - [JulD]-[WBNB] Uni LP [+] [-] [<=>] Price: $4.89 TVL: $647.70
+JulD Price: $0.01
+WBNB Price: $370.11
+Staked: 94.8106 PNDA-V2 ($464.05)
+PNDA Per Week: 841277.98 ($137.98)
+APR: Day 4.25% Week 29.73% Year 1546.12%
+You are staking 0.00 [JulD]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [JulD]-[WBNB] Uni LP
+Unstake 0.00 [JulD]-[WBNB] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+57 - [FOR]-[WBNB] Uni LP [+] [-] [<=>] Price: $8.73 TVL: $24,922.64
+FOR Price: $0.04
+WBNB Price: $370.11
+Staked: 2850.0907 PNDA-V2 ($24,888.81)
+PNDA Per Week: 3365111.93 ($551.91)
+APR: Day 0.32% Week 2.22% Year 115.31%
+You are staking 0.00 [FOR]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FOR]-[WBNB] Uni LP
+Unstake 0.00 [FOR]-[WBNB] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+58 - [WBNB]-[ANY] Uni LP [+] [-] [<=>] Price: $196.99 TVL: $118.41
+WBNB Price: $370.11
+ANY Price: $22.02
+Staked: 0.4327 PNDA-V2 ($85.24)
+PNDA Per Week: 841277.98 ($137.98)
+APR: Day 23.12% Week 161.86% Year 8416.80%
+You are staking 0.00 [WBNB]-[ANY] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[ANY] Uni LP
+Unstake 0.00 [WBNB]-[ANY] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+59 - [Helmet]-[WBNB] Uni LP [+] [-] [<=>] Price: $9.52 TVL: $861.21
+Helmet Price: $0.06
+WBNB Price: $370.11
+Staked: 90.0188 PNDA-V2 ($856.93)
+PNDA Per Week: 841277.98 ($137.98)
+APR: Day 2.30% Week 16.10% Year 837.27%
+You are staking 0.00 [Helmet]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Helmet]-[WBNB] Uni LP
+Unstake 0.00 [Helmet]-[WBNB] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+60 - [WBNB]-[BIFI] Uni LP [+] [-] [<=>] Price: $1,646.89 TVL: $4,076.79
+WBNB Price: $370.11
+BIFI Price: $1,744.25
+Staked: 2.4717 PNDA-V2 ($4,070.58)
+PNDA Per Week: 630958.49 ($103.48)
+APR: Day 0.36% Week 2.54% Year 132.20%
+You are staking 0.00 [WBNB]-[BIFI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BIFI] Uni LP
+Unstake 0.00 [WBNB]-[BIFI] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+61 - [BTCST]-[WBNB] Uni LP [+] [-] [<=>] Price: $500.03 TVL: $293.79
+BTCST Price: $15.30
+WBNB Price: $370.11
+Staked: 0.5781 PNDA-V2 ($289.07)
+PNDA Per Week: 630958.49 ($103.48)
+APR: Day 5.11% Week 35.80% Year 1861.50%
+You are staking 0.00 [BTCST]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCST]-[WBNB] Uni LP
+Unstake 0.00 [BTCST]-[WBNB] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+62 - [BSCX]-[WBNB] Uni LP [+] [-] [<=>] Price: $63.53 TVL: $1,952.07
+BSCX Price: $2.43
+WBNB Price: $370.11
+Staked: 30.5930 PNDA-V2 ($1,943.56)
+PNDA Per Week: 630958.49 ($103.48)
+APR: Day 0.76% Week 5.32% Year 276.87%
+You are staking 0.00 [BSCX]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BSCX]-[WBNB] Uni LP
+Unstake 0.00 [BSCX]-[WBNB] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+63 - [UNFI]-[WBNB] Uni LP [+] [-] [<=>] Price: $89.24 TVL: $2,823.56
+UNFI Price: $5.04
+WBNB Price: $370.11
+Staked: 5.2824 PNDA-V2 ($471.41)
+PNDA Per Week: 630958.49 ($103.48)
+APR: Day 3.14% Week 21.95% Year 1141.49%
+You are staking 0.00 [UNFI]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UNFI]-[WBNB] Uni LP
+Unstake 0.00 [UNFI]-[WBNB] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+64 - [BUX]-[WBNB] Uni LP [+] [-] [<=>] Price: $26.31 TVL: $552.78
+BUX Price: $0.44
+WBNB Price: $370.11
+Staked: 19.8984 PNDA-V2 ($523.60)
+PNDA Per Week: 630958.49 ($103.48)
+APR: Day 2.82% Week 19.76% Year 1027.72%
+You are staking 0.00 [BUX]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUX]-[WBNB] Uni LP
+Unstake 0.00 [BUX]-[WBNB] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+65 - [MDS]-[WBNB] Uni LP [+] [-] [<=>] Price: $63.29 TVL: $469.96
+MDS Price: $2.31
+WBNB Price: $370.11
+Staked: 7.4175 PNDA-V2 ($469.47)
+PNDA Per Week: 630958.49 ($103.48)
+APR: Day 3.15% Week 22.04% Year 1146.20%
+You are staking 0.00 [MDS]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MDS]-[WBNB] Uni LP
+Unstake 0.00 [MDS]-[WBNB] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+66 - [WBNB]-[HGET] Uni LP [+] [-] [<=>] Price: $59,957,920.80 TVL: $3,570.13
+WBNB Price: $370.11
+HGET Price: $2.29
+Staked: 0.0000 PNDA-V2 ($591.46)
+PNDA Per Week: 1261916.97 ($206.97)
+APR: Day 5.00% Week 34.99% Year 1819.59%
+You are staking 0.00 [WBNB]-[HGET] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[HGET] Uni LP
+Unstake 0.00 [WBNB]-[HGET] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+67 - [BAO]-[WBNB] Uni LP [+] [-] [<=>] Price: $0.54 TVL: $20,843.15
+BAO Price: $0.000188
+WBNB Price: $370.11
+Staked: 38290.2760 PNDA-V2 ($20,564.42)
+PNDA Per Week: 4206389.92 ($689.89)
+APR: Day 0.48% Week 3.35% Year 174.45%
+You are staking 0.00 [BAO]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BAO]-[WBNB] Uni LP
+Unstake 0.00 [BAO]-[WBNB] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+68 - [FRONT]-[WBNB] Uni LP [+] [-] [<=>] Price: $29.59 TVL: $28,202.10
+FRONT Price: $0.53
+WBNB Price: $370.11
+Staked: 610.6007 PNDA-V2 ($18,068.82)
+PNDA Per Week: 2103194.96 ($344.94)
+APR: Day 0.27% Week 1.91% Year 99.27%
+You are staking 0.00 [FRONT]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FRONT]-[WBNB] Uni LP
+Unstake 0.00 [FRONT]-[WBNB] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+69 - [MIR]-[WBNB] Uni LP [+] [-] [<=>] Price: $43.32 TVL: $855.09
+MIR Price: $1.17
+WBNB Price: $370.11
+Staked: 19.5835 PNDA-V2 ($848.28)
+PNDA Per Week: 420638.99 ($68.99)
+APR: Day 1.16% Week 8.13% Year 422.90%
+You are staking 0.00 [MIR]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MIR]-[WBNB] Uni LP
+Unstake 0.00 [MIR]-[WBNB] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+70 - [ZEE]-[WBNB] Uni LP [+] [-] [<=>] Price: $14.34 TVL: $3,145.13
+ZEE Price: $0.12
+WBNB Price: $370.11
+Staked: 185.0702 PNDA-V2 ($2,654.36)
+PNDA Per Week: 315479.24 ($51.74)
+APR: Day 0.28% Week 1.95% Year 101.36%
+You are staking 0.00 [ZEE]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ZEE]-[WBNB] Uni LP
+Unstake 0.00 [ZEE]-[WBNB] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+71 - [MATTER]-[WBNB] Uni LP [+] [-] [<=>] Price: $16.21 TVL: $8,706.21
+MATTER Price: $0.17
+WBNB Price: $370.11
+Staked: 288.1794 PNDA-V2 ($4,671.64)
+PNDA Per Week: 420638.99 ($68.99)
+APR: Day 0.21% Week 1.48% Year 76.79%
+You are staking 0.00 [MATTER]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MATTER]-[WBNB] Uni LP
+Unstake 0.00 [MATTER]-[WBNB] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+72 - [blink]-[WBNB] Uni LP [+] [-] [<=>] Price: $4,971,954.48 TVL: $4,782.38
+blink Price: $0.01
+WBNB Price: $370.11
+Staked: 0.0007 PNDA-V2 ($3,322.77)
+PNDA Per Week: 841277.98 ($137.98)
+APR: Day 0.59% Week 4.15% Year 215.93%
+You are staking 0.00 [blink]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [blink]-[WBNB] Uni LP
+Unstake 0.00 [blink]-[WBNB] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+73 - [POLS]-[WBNB] Uni LP [+] [-] [<=>] Price: $52.40 TVL: $13,298.05
+POLS Price: $1.52
+WBNB Price: $370.11
+Staked: 252.5195 PNDA-V2 ($13,231.95)
+PNDA Per Week: 841277.98 ($137.98)
+APR: Day 0.15% Week 1.04% Year 54.22%
+You are staking 0.00 [POLS]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [POLS]-[WBNB] Uni LP
+Unstake 0.00 [POLS]-[WBNB] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+74 - [TLM]-[WBNB] Uni LP [+] [-] [<=>] Price: $134,944,612.26 TVL: $10,772.98
+TLM Price: $0.11
+WBNB Price: $370.11
+Staked: 0.0001 PNDA-V2 ($10,722.34)
+PNDA Per Week: 420638.99 ($68.99)
+APR: Day 0.09% Week 0.64% Year 33.46%
+You are staking 0.00 [TLM]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TLM]-[WBNB] Uni LP
+Unstake 0.00 [TLM]-[WBNB] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+75 - [WBNB]-[UBXT] Uni LP [+] [-] [<=>] Price: $5.53 TVL: $5,691.82
+WBNB Price: $370.11
+UBXT Price: $0.02
+Staked: 496.3457 PNDA-V2 ($2,744.83)
+PNDA Per Week: 841277.98 ($137.98)
+APR: Day 0.72% Week 5.03% Year 261.39%
+You are staking 0.00 [WBNB]-[UBXT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[UBXT] Uni LP
+Unstake 0.00 [WBNB]-[UBXT] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+76 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $106.03 TVL: $201,941,502.27
+Cake Price: $7.04
+WBNB Price: $370.11
+Staked: 10.1857 Cake-LP ($1,079.97)
+PNDA Per Week: 147223.65 ($24.15)
+APR: Day 0.32% Week 2.24% Year 116.26%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+77 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.56 TVL: $347,003,224.80
+WBNB Price: $370.11
+BUSD Price: $1.00
+Staked: 1046.4471 Cake-LP ($49,771.01)
+PNDA Per Week: 147223.65 ($24.15)
+APR: Day 0.01% Week 0.05% Year 2.52%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+78 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,037.25 TVL: $74,221,557.31
+ETH Price: $2,427.79
+WBNB Price: $370.11
+Staked: 0.4320 Cake-LP ($880.09)
+PNDA Per Week: 147223.65 ($24.15)
+APR: Day 0.39% Week 2.74% Year 142.67%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+79 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $7,754.83 TVL: $68,809,054.22
+BTCB Price: $36,201.00
+WBNB Price: $370.11
+Staked: 0.0452 Cake-LP ($350.36)
+PNDA Per Week: 73611.82 ($12.07)
+APR: Day 0.49% Week 3.45% Year 179.19%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+80 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $296,965,835.71
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 19826.5033 Cake-LP ($41,518.07)
+PNDA Per Week: 73611.82 ($12.07)
+APR: Day 0.00% Week 0.03% Year 1.51%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+81 - [USDT]-[WBNB] Cake LP [+] [-] [<=>] Price: $48.80 TVL: $190,692,880.15
+USDT Price: $1.00
+WBNB Price: $370.11
+Staked: 813.1995 Cake-LP ($39,687.27)
+PNDA Per Week: 73611.82 ($12.07)
+APR: Day 0.00% Week 0.03% Year 1.58%
+You are staking 0.00 [USDT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WBNB] Cake LP
+Unstake 0.00 [USDT]-[WBNB] Cake LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+82 - [WBNB]-[BUNNY] Cake LP [+] [-] [<=>] Price: $39.03 TVL: $1,289,101.15
+WBNB Price: $370.11
+BUNNY Price: $0.58
+Staked: 2.9503 Cake-LP ($115.14)
+PNDA Per Week: 73611.82 ($12.07)
+APR: Day 1.50% Week 10.49% Year 545.23%
+You are staking 0.00 [WBNB]-[BUNNY] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUNNY] Cake LP
+Unstake 0.00 [WBNB]-[BUNNY] Cake LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+83 - [DOT]-[WBNB] Cake LP [+] [-] [<=>] Price: $173.04 TVL: $17,764,529.00
+DOT Price: $17.97
+WBNB Price: $370.11
+Staked: 46.2784 Cake-LP ($8,008.10)
+PNDA Per Week: 73611.82 ($12.07)
+APR: Day 0.02% Week 0.15% Year 7.84%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+84 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $131,468,686.33
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 20081.4403 Cake-LP ($41,970.71)
+PNDA Per Week: 73611.82 ($12.07)
+APR: Day 0.00% Week 0.03% Year 1.50%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+85 - [VAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.05 TVL: $8,629,811.29
+VAI Price: $0.94
+BUSD Price: $1.00
+Staked: 607.3593 Cake-LP ($1,245.05)
+PNDA Per Week: 73611.82 ($12.07)
+APR: Day 0.14% Week 0.97% Year 50.42%
+You are staking 0.00 [VAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [VAI]-[BUSD] Cake LP
+Unstake 0.00 [VAI]-[BUSD] Cake LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+86 - [WBNB]-[LINK] Cake LP [+] [-] [<=>] Price: $156.88 TVL: $10,435,763.86
+WBNB Price: $370.11
+LINK Price: $15.14
+Staked: 2.4173 Cake-LP ($379.23)
+PNDA Per Week: 73611.82 ($12.07)
+APR: Day 0.45% Week 3.18% Year 165.55%
+You are staking 0.00 [WBNB]-[LINK] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[LINK] Cake LP
+Unstake 0.00 [WBNB]-[LINK] Cake LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+87 - [DAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $16,866,145.50
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 499.5547 Cake-LP ($1,042.51)
+PNDA Per Week: 73611.82 ($12.07)
+APR: Day 0.17% Week 1.16% Year 60.22%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+88 - [XRP]-[WBNB] Cake LP [+] [-] [<=>] Price: $31.75 TVL: $6,990,490.81
+XRP Price: $0.61
+WBNB Price: $370.11
+Staked: 298.5133 Cake-LP ($9,477.62)
+PNDA Per Week: 73611.82 ($12.07)
+APR: Day 0.02% Week 0.13% Year 6.62%
+You are staking 0.00 [XRP]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [XRP]-[WBNB] Cake LP
+Unstake 0.00 [XRP]-[WBNB] Cake LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+89 - [ADA]-[WBNB] Cake LP [+] [-] [<=>] Price: $42.39 TVL: $12,105,618.41
+ADA Price: $1.03
+WBNB Price: $370.11
+Staked: 14.7109 Cake-LP ($623.62)
+PNDA Per Week: 73611.82 ($12.07)
+APR: Day 0.28% Week 1.94% Year 100.67%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+90 - [WBNB]-[UNI] Cake LP [+] [-] [<=>] Price: $130.12 TVL: $6,872,434.31
+WBNB Price: $370.11
+UNI Price: $10.66
+Staked: 1.4900 Cake-LP ($193.87)
+PNDA Per Week: 73611.82 ($12.07)
+APR: Day 0.89% Week 6.23% Year 323.82%
+You are staking 0.00 [WBNB]-[UNI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[UNI] Cake LP
+Unstake 0.00 [WBNB]-[UNI] Cake LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+91 - [WBNB]-[BAMBOO] Uni LP [+] [-] [<=>] Price: $0.58 TVL: $35,075.59
+WBNB Price: $370.11
+BAMBOO Price: $0.000218
+Staked: 59657.7322 PNDA-V2 ($34,706.38)
+PNDA Per Week: 7361182.35 ($1,207.30)
+APR: Day 0.50% Week 3.48% Year 180.89%
+You are staking 0.00 [WBNB]-[BAMBOO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BAMBOO] Uni LP
+Unstake 0.00 [WBNB]-[BAMBOO] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+92 - [WBNB]-[RHINO] Uni LP [+] [-] [<=>] Price: $36,738.84 TVL: $127,614.69
+WBNB Price: $370.11
+RHINO Price: $0.000232
+Staked: 3.3770 PNDA-V2 ($124,066.12)
+PNDA Per Week: 7886981.09 ($1,293.54)
+APR: Day 0.15% Week 1.04% Year 54.22%
+You are staking 0.00 [WBNB]-[RHINO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[RHINO] Uni LP
+Unstake 0.00 [WBNB]-[RHINO] Uni LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+93 - [WBNB]-[RHINO] Cake LP [+] [-] [<=>] Price: $29,002.33 TVL: $13,399.88
+WBNB Price: $370.11
+RHINO Price: $0.000232
+Staked: 0.4339 Cake-LP ($12,583.63)
+PNDA Per Week: 841277.98 ($137.98)
+APR: Day 0.16% Week 1.10% Year 57.02%
+You are staking 0.00 [WBNB]-[RHINO] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[RHINO] Cake LP
+Unstake 0.00 [WBNB]-[RHINO] Cake LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+94 - [PNDA]-[WBNB] Cake LP [+] [-] [<=>] Price: $0.51 TVL: $17,221.75
+PNDA Price: $0.000164
+WBNB Price: $370.11
+Staked: 33407.6618 Cake-LP ($17,111.32)
+PNDA Per Week: 841277.98 ($137.98)
+APR: Day 0.12% Week 0.81% Year 41.93%
+You are staking 0.00 [PNDA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PNDA]-[WBNB] Cake LP
+Unstake 0.00 [PNDA]-[WBNB] Cake LP
+Claim 0.00 PNDA ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $1,519,030.44

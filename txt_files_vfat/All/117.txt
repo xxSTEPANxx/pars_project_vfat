@@ -1,0 +1,61 @@
+*************** 👨‍🌾 UNOFFICIAL CONVX.FINANCE FARMING CALCULATOR 👨‍🌾 ************
+INFO  : https://convx.conv.finance
+*******************************************************************************
+
+Thu Jan 27 2022 19:58:57 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 5 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+1 - [WETH]-[CONV] Uni LP [+] [-] [<=>] Price: $10.37 TVL: $885,610.59
+WETH Price: $2,481.53
+CONV Price: $0.006640
+Staked: 80877.1913 CLP ($838,833.33)
+CONV Per Week: 2508800.00 ($16,657.65)
+APR: Day 0.28% Week 1.99% Year 103.26%
+You are staking 0.00 [WETH]-[CONV] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[CONV] Uni LP
+Unstake 0.00 [WETH]-[CONV] Uni LP
+Claim 0.00 CONV ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [CONV]-[USDT] Uni LP [+] [-] [<=>] Price: $171,123.54 TVL: $580,455.19
+CONV Price: $0.006640
+USDT Price: $1.00
+Staked: 3.2350 CLP ($553,579.50)
+CONV Per Week: 985600.00 ($6,544.08)
+APR: Day 0.17% Week 1.18% Year 61.47%
+You are staking 0.00 [CONV]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CONV]-[USDT] Uni LP
+Unstake 0.00 [CONV]-[USDT] Uni LP
+Claim 0.00 CONV ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WETH]-[USDT] Uni LP [+] [-] [<=>] Price: $102,644,783.73 TVL: $929,312.38
+WETH Price: $2,481.53
+USDT Price: $1.00
+Staked: 0.0090 CLP ($928,070.37)
+CONV Per Week: 58240.00 ($386.70)
+APR: Day 0.01% Week 0.04% Year 2.17%
+You are staking 0.00 [WETH]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[USDT] Uni LP
+Unstake 0.00 [WETH]-[USDT] Uni LP
+Claim 0.00 CONV ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - CONV Price: $0.006640 Market Cap: $66,396,900.00 [%]
+Staked: 163693535.8916 CONV ($1,086,874.33)
+CONV Per Week: 143360.00 ($951.87)
+APR: Day 0.01% Week 0.09% Year 4.55%
+You are staking 0.00 CONV ($0.00), 0.00% of the pool.
+Stake 0.00 CONV
+Unstake 0.00 CONV
+Claim 0.00 CONV ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $3,407,357.54

@@ -1,0 +1,688 @@
+***************************** HUOBI ECO CHAIN *******************************
+    
+*************** 👨‍🌾 UNOFFICIAL MDEX FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://ht.mdex.com
+*************************************************************************
+
+Thu Jan 27 2022 21:52:23 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 101 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+8 - [HBTC]-[USDT] Uni LP [+] [-] [<=>] Price: $383.16 TVL: $28,894,371.22
+HBTC Price: $36,206.00
+USDT Price: $1.00
+Staked: 75254.9057 HMDX ($28,834,445.08)
+MDX Per Week: 3149987.10 ($718,811.31)
+APR: Day 0.36% Week 2.49% Year 129.63%
+You are staking 0.00 [HBTC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [HBTC]-[USDT] Uni LP
+Unstake 0.00 [HBTC]-[USDT] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [ETH]-[USDT] Uni LP [+] [-] [<=>] Price: $99.61 TVL: $28,632,720.87
+ETH Price: $2,432.52
+USDT Price: $1.00
+Staked: 286765.6127 HMDX ($28,564,056.27)
+MDX Per Week: 3063432.96 ($699,060.08)
+APR: Day 0.35% Week 2.45% Year 127.26%
+You are staking 0.00 [ETH]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[USDT] Uni LP
+Unstake 0.00 [ETH]-[USDT] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [HUSD]-[USDT] Uni LP [+] [-] [<=>] Price: $207,756.54 TVL: $61,602,395.05
+HUSD Price: $1.00
+USDT Price: $1.00
+Staked: 291.7978 HMDX ($60,622,892.18)
+MDX Per Week: 534885.12 ($122,058.11)
+APR: Day 0.03% Week 0.20% Year 10.47%
+You are staking 0.00 [HUSD]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [HUSD]-[USDT] Uni LP
+Unstake 0.00 [HUSD]-[USDT] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [USDT]-[HLTC] Uni LP [+] [-] [<=>] Price: $20.99 TVL: $1,533,415.17
+USDT Price: $1.00
+HLTC Price: $107.11
+Staked: 72817.4749 HMDX ($1,528,465.08)
+MDX Per Week: 85581.62 ($19,529.30)
+APR: Day 0.18% Week 1.28% Year 66.44%
+You are staking 0.00 [USDT]-[HLTC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[HLTC] Uni LP
+Unstake 0.00 [USDT]-[HLTC] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [USDT]-[HBCH] Uni LP [+] [-] [<=>] Price: $34.56 TVL: $367,656.16
+USDT Price: $1.00
+HBCH Price: $288.86
+Staked: 10610.8780 HMDX ($366,700.35)
+MDX Per Week: 59323.62 ($13,537.35)
+APR: Day 0.53% Week 3.69% Year 191.97%
+You are staking 0.00 [USDT]-[HBCH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[HBCH] Uni LP
+Unstake 0.00 [USDT]-[HBCH] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [HDOT]-[USDT] Uni LP [+] [-] [<=>] Price: $8.73 TVL: $526,806.57
+HDOT Price: $18.02
+USDT Price: $1.00
+Staked: 59252.0897 HMDX ($517,002.38)
+MDX Per Week: 85581.62 ($19,529.30)
+APR: Day 0.54% Week 3.78% Year 196.43%
+You are staking 0.00 [HDOT]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [HDOT]-[USDT] Uni LP
+Unstake 0.00 [HDOT]-[USDT] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [USDT]-[HFIL] Uni LP [+] [-] [<=>] Price: $9.10 TVL: $1,304,525.90
+USDT Price: $1.00
+HFIL Price: $19.15
+Staked: 132031.5732 HMDX ($1,201,166.62)
+MDX Per Week: 142960.20 ($32,622.80)
+APR: Day 0.39% Week 2.72% Year 141.23%
+You are staking 0.00 [USDT]-[HFIL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[HFIL] Uni LP
+Unstake 0.00 [USDT]-[HFIL] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [MDX]-[USDT] Uni LP [+] [-] [<=>] Price: $1.00 TVL: $4,026,673.91
+MDX Price: $0.23
+USDT Price: $1.00
+Staked: 3785295.8396 HMDX ($3,795,241.52)
+MDX Per Week: 602961.41 ($137,592.78)
+APR: Day 0.52% Week 3.63% Year 188.52%
+You are staking 0.00 [MDX]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MDX]-[USDT] Uni LP
+Unstake 0.00 [MDX]-[USDT] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [WHT]-[USDT] Uni LP [+] [-] [<=>] Price: $6.07 TVL: $9,645,759.18
+WHT Price: $8.65
+USDT Price: $1.00
+Staked: 1582914.5994 HMDX ($9,602,145.89)
+MDX Per Week: 729388.80 ($166,442.88)
+APR: Day 0.25% Week 1.73% Year 90.14%
+You are staking 0.00 [WHT]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WHT]-[USDT] Uni LP
+Unstake 0.00 [WHT]-[USDT] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [USDT]-[HPT] Uni LP [+] [-] [<=>] Price: $0.10 TVL: $148,524.30
+USDT Price: $1.00
+HPT Price: $0.002202
+Staked: 1540037.0997 HMDX ($147,196.27)
+MDX Per Week: 10697.70 ($2,441.16)
+APR: Day 0.24% Week 1.66% Year 86.24%
+You are staking 0.00 [USDT]-[HPT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[HPT] Uni LP
+Unstake 0.00 [USDT]-[HPT] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [MDX]-[WHT] Uni LP [+] [-] [<=>] Price: $2.85 TVL: $759,073.95
+MDX Price: $0.23
+WHT Price: $8.65
+Staked: 245953.8744 HMDX ($700,828.67)
+MDX Per Week: 57378.59 ($13,093.51)
+APR: Day 0.27% Week 1.87% Year 97.15%
+You are staking 0.00 [MDX]-[WHT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MDX]-[WHT] Uni LP
+Unstake 0.00 [MDX]-[WHT] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - [HUSD]-[FILDA] Uni LP [+] [-] [<=>] Price: $51,119.60 TVL: $430,774.29
+HUSD Price: $1.00
+FILDA Price: $0.02
+Staked: 1.5035 HMDX ($76,856.56)
+MDX Per Week: 8752.67 ($1,997.31)
+APR: Day 0.37% Week 2.60% Year 135.14%
+You are staking 0.00 [HUSD]-[FILDA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [HUSD]-[FILDA] Uni LP
+Unstake 0.00 [HUSD]-[FILDA] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - [LHB]-[USDT] Uni LP [+] [-] [<=>] Price: $0.13 TVL: $130,676.48
+LHB Price: $0.003866
+USDT Price: $1.00
+Staked: 373139.7367 HMDX ($47,183.63)
+MDX Per Week: 7780.15 ($1,775.39)
+APR: Day 0.54% Week 3.76% Year 195.66%
+You are staking 0.00 [LHB]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LHB]-[USDT] Uni LP
+Unstake 0.00 [LHB]-[USDT] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [AAVE]-[USDT] Uni LP [+] [-] [<=>] Price: $24.66 TVL: $260,979.62
+AAVE Price: $145.63
+USDT Price: $1.00
+Staked: 10544.5332 HMDX ($260,004.60)
+MDX Per Week: 17505.33 ($3,994.63)
+APR: Day 0.22% Week 1.54% Year 79.89%
+You are staking 0.00 [AAVE]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AAVE]-[USDT] Uni LP
+Unstake 0.00 [AAVE]-[USDT] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - [SNX]-[USDT] Uni LP [+] [-] [<=>] Price: $4.41 TVL: $258,600.97
+SNX Price: $4.69
+USDT Price: $1.00
+Staked: 58463.3262 HMDX ($257,863.32)
+MDX Per Week: 18477.85 ($4,216.55)
+APR: Day 0.23% Week 1.64% Year 85.03%
+You are staking 0.00 [SNX]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SNX]-[USDT] Uni LP
+Unstake 0.00 [SNX]-[USDT] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - [UNI]-[USDT] Uni LP [+] [-] [<=>] Price: $6.66 TVL: $305,768.16
+UNI Price: $10.52
+USDT Price: $1.00
+Staked: 45459.1428 HMDX ($302,894.95)
+MDX Per Week: 33065.63 ($7,545.41)
+APR: Day 0.36% Week 2.49% Year 129.54%
+You are staking 0.00 [UNI]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UNI]-[USDT] Uni LP
+Unstake 0.00 [UNI]-[USDT] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - [LINK]-[USDT] Uni LP [+] [-] [<=>] Price: $8.01 TVL: $131,263.22
+LINK Price: $14.99
+USDT Price: $1.00
+Staked: 16283.4299 HMDX ($130,416.99)
+MDX Per Week: 25285.48 ($5,770.02)
+APR: Day 0.63% Week 4.42% Year 230.06%
+You are staking 0.00 [LINK]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LINK]-[USDT] Uni LP
+Unstake 0.00 [LINK]-[USDT] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - [BAL]-[USDT] Uni LP [+] [-] [<=>] Price: $7.00 TVL: $10,314.85
+BAL Price: $11.96
+USDT Price: $1.00
+Staked: 1459.7905 HMDX ($10,213.32)
+MDX Per Week: 10697.70 ($2,441.16)
+APR: Day 3.41% Week 23.90% Year 1242.89%
+You are staking 0.00 [BAL]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BAL]-[USDT] Uni LP
+Unstake 0.00 [BAL]-[USDT] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - [USDT]-[YFI] Uni LP [+] [-] [<=>] Price: $315.13 TVL: $66,259.83
+USDT Price: $1.00
+YFI Price: $24,217.00
+Staked: 209.4259 HMDX ($65,995.81)
+MDX Per Week: 10697.70 ($2,441.16)
+APR: Day 0.53% Week 3.70% Year 192.35%
+You are staking 0.00 [USDT]-[YFI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[YFI] Uni LP
+Unstake 0.00 [USDT]-[YFI] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+29 - [WHT]-[HBTC] Uni LP [+] [-] [<=>] Price: $1,167.68 TVL: $194,993.00
+WHT Price: $8.65
+HBTC Price: $36,206.00
+Staked: 162.5246 HMDX ($189,776.65)
+MDX Per Week: 6807.63 ($1,553.47)
+APR: Day 0.12% Week 0.82% Year 42.57%
+You are staking 0.00 [WHT]-[HBTC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WHT]-[HBTC] Uni LP
+Unstake 0.00 [WHT]-[HBTC] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+30 - [WHT]-[ETH] Uni LP [+] [-] [<=>] Price: $295.45 TVL: $520,239.48
+WHT Price: $8.65
+ETH Price: $2,432.52
+Staked: 1585.6917 HMDX ($468,497.60)
+MDX Per Week: 11670.22 ($2,663.09)
+APR: Day 0.08% Week 0.57% Year 29.56%
+You are staking 0.00 [WHT]-[ETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WHT]-[ETH] Uni LP
+Unstake 0.00 [WHT]-[ETH] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+31 - [ETH]-[HBTC] Uni LP [+] [-] [<=>] Price: $19,185.26 TVL: $3,838,910.62
+ETH Price: $2,432.52
+HBTC Price: $36,206.00
+Staked: 185.2111 HMDX ($3,553,324.39)
+MDX Per Week: 168245.68 ($38,392.82)
+APR: Day 0.15% Week 1.08% Year 56.18%
+You are staking 0.00 [ETH]-[HBTC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[HBTC] Uni LP
+Unstake 0.00 [ETH]-[HBTC] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+32 - [MDX]-[HBTC] Uni LP [+] [-] [<=>] Price: $184.17 TVL: $293,622.61
+MDX Price: $0.23
+HBTC Price: $36,206.00
+Staked: 1544.5638 HMDX ($284,455.41)
+MDX Per Week: 28203.03 ($6,435.79)
+APR: Day 0.32% Week 2.26% Year 117.65%
+You are staking 0.00 [MDX]-[HBTC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MDX]-[HBTC] Uni LP
+Unstake 0.00 [MDX]-[HBTC] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+33 - [MDX]-[ETH] Uni LP [+] [-] [<=>] Price: $47.70 TVL: $413,873.36
+MDX Price: $0.23
+ETH Price: $2,432.52
+Staked: 6975.0492 HMDX ($332,697.30)
+MDX Per Week: 28203.03 ($6,435.79)
+APR: Day 0.28% Week 1.93% Year 100.59%
+You are staking 0.00 [MDX]-[ETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MDX]-[ETH] Uni LP
+Unstake 0.00 [MDX]-[ETH] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+34 - [MKR]-[USDT] Uni LP [+] [-] [<=>] Price: $84.27 TVL: $96,848.09
+MKR Price: $1,747.53
+USDT Price: $1.00
+Staked: 1131.7942 HMDX ($95,380.24)
+MDX Per Week: 19450.37 ($4,438.48)
+APR: Day 0.66% Week 4.65% Year 241.98%
+You are staking 0.00 [MKR]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MKR]-[USDT] Uni LP
+Unstake 0.00 [MKR]-[USDT] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+35 - [USDT]-[COMP] Uni LP [+] [-] [<=>] Price: $22.83 TVL: $134,144.88
+USDT Price: $1.00
+COMP Price: $126.71
+Staked: 5863.5377 HMDX ($133,842.42)
+MDX Per Week: 19450.37 ($4,438.48)
+APR: Day 0.47% Week 3.32% Year 172.44%
+You are staking 0.00 [USDT]-[COMP] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[COMP] Uni LP
+Unstake 0.00 [USDT]-[COMP] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+39 - [MDX]-[HBCH] Uni LP [+] [-] [<=>] Price: $16.33 TVL: $67,223.06
+MDX Price: $0.23
+HBCH Price: $288.86
+Staked: 4083.7065 HMDX ($66,690.18)
+MDX Per Week: 7780.15 ($1,775.39)
+APR: Day 0.38% Week 2.66% Year 138.43%
+You are staking 0.00 [MDX]-[HBCH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MDX]-[HBCH] Uni LP
+Unstake 0.00 [MDX]-[HBCH] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+40 - [MDX]-[HLTC] Uni LP [+] [-] [<=>] Price: $9.95 TVL: $151,403.21
+MDX Price: $0.23
+HLTC Price: $107.11
+Staked: 15098.7671 HMDX ($150,259.30)
+MDX Per Week: 13615.26 ($3,106.93)
+APR: Day 0.30% Week 2.07% Year 107.52%
+You are staking 0.00 [MDX]-[HLTC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MDX]-[HLTC] Uni LP
+Unstake 0.00 [MDX]-[HLTC] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+54 - [USDT]-[CON] Uni LP [+] [-] [<=>] Price: $0.41 TVL: $172,051.36
+USDT Price: $1.00
+CON Price: $0.04
+Staked: 406309.2770 HMDX ($167,737.44)
+MDX Per Week: 2917.56 ($665.77)
+APR: Day 0.06% Week 0.40% Year 20.64%
+You are staking 0.00 [USDT]-[CON] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[CON] Uni LP
+Unstake 0.00 [USDT]-[CON] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+55 - [HUSD]-[DEP] Uni LP [+] [-] [<=>] Price: $2,951.90 TVL: $7,538.90
+HUSD Price: $1.00
+DEP Price: $0.000211
+Staked: 2.4838 HMDX ($7,332.01)
+MDX Per Week: 3890.07 ($887.70)
+APR: Day 1.73% Week 12.11% Year 629.57%
+You are staking 0.00 [HUSD]-[DEP] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [HUSD]-[DEP] Uni LP
+Unstake 0.00 [HUSD]-[DEP] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+56 - [SOVI]-[WHT] Uni LP [+] [-] [<=>] Price: $8.16 TVL: $353,951.21
+SOVI Price: $1.92
+WHT Price: $8.65
+Staked: 36287.6650 HMDX ($296,105.70)
+MDX Per Week: 3890.07 ($887.70)
+APR: Day 0.04% Week 0.30% Year 15.59%
+You are staking 0.00 [SOVI]-[WHT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SOVI]-[WHT] Uni LP
+Unstake 0.00 [SOVI]-[WHT] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+59 - [EDC]-[USDT] Uni LP [+] [-] [<=>] Price: $2,599,264.20 TVL: $525,649.47
+EDC Price: $7.89
+USDT Price: $1.00
+Staked: 0.0296 HMDX ($76,827.15)
+MDX Per Week: 7780.15 ($1,775.39)
+APR: Day 0.33% Week 2.31% Year 120.17%
+You are staking 0.00 [EDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [EDC]-[USDT] Uni LP
+Unstake 0.00 [EDC]-[USDT] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+60 - [MDX]-[FEI] Uni LP [+] [-] [<=>] Price: $0.95 TVL: $36,590.24
+MDX Price: $0.23
+FEI Price: $0.98
+Staked: 38444.0160 HMDX ($36,495.25)
+MDX Per Week: 2917.56 ($665.77)
+APR: Day 0.26% Week 1.82% Year 94.86%
+You are staking 0.00 [MDX]-[FEI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MDX]-[FEI] Uni LP
+Unstake 0.00 [MDX]-[FEI] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+61 - [TRIBE]-[USDT] Uni LP [+] [-] [<=>] Price: $1.68 TVL: $12,349.86
+TRIBE Price: $0.70
+USDT Price: $1.00
+Staked: 7236.4369 HMDX ($12,156.14)
+MDX Per Week: 4862.59 ($1,109.62)
+APR: Day 1.30% Week 9.13% Year 474.66%
+You are staking 0.00 [TRIBE]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TRIBE]-[USDT] Uni LP
+Unstake 0.00 [TRIBE]-[USDT] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+63 - [DOGE]-[USDT] Uni LP [+] [-] [<=>] Price: $76,511.15 TVL: $696,132.42
+DOGE Price: $0.14
+USDT Price: $1.00
+Staked: 9.0107 HMDX ($689,415.83)
+MDX Per Week: 30148.07 ($6,879.64)
+APR: Day 0.14% Week 1.00% Year 51.89%
+You are staking 0.00 [DOGE]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOGE]-[USDT] Uni LP
+Unstake 0.00 [DOGE]-[USDT] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+64 - [USDT]-[EOS] Uni LP [+] [-] [<=>] Price: $29,930,737.76 TVL: $620,098.24
+USDT Price: $1.00
+EOS Price: $2.21
+Staked: 0.0207 HMDX ($619,085.79)
+MDX Per Week: 13615.26 ($3,106.93)
+APR: Day 0.07% Week 0.50% Year 26.10%
+You are staking 0.00 [USDT]-[EOS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[EOS] Uni LP
+Unstake 0.00 [USDT]-[EOS] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+65 - [ADA]-[USDT] Uni LP [+] [-] [<=>] Price: $2,056,188.83 TVL: $411,136.32
+ADA Price: $1.03
+USDT Price: $1.00
+Staked: 0.1991 HMDX ($409,439.78)
+MDX Per Week: 14587.78 ($3,328.86)
+APR: Day 0.12% Week 0.81% Year 42.28%
+You are staking 0.00 [ADA]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[USDT] Uni LP
+Unstake 0.00 [ADA]-[USDT] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+66 - [XRP]-[USDT] Uni LP [+] [-] [<=>] Price: $1,577,207.45 TVL: $95,534.83
+XRP Price: $0.61
+USDT Price: $1.00
+Staked: 0.0592 HMDX ($93,433.99)
+MDX Per Week: 13615.26 ($3,106.93)
+APR: Day 0.48% Week 3.33% Year 172.91%
+You are staking 0.00 [XRP]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [XRP]-[USDT] Uni LP
+Unstake 0.00 [XRP]-[USDT] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+70 - [MDX]-[BOO] Uni LP [+] [-] [<=>] Price: $0.06 TVL: $89,382.12
+MDX Price: $0.23
+BOO Price: $0.004266
+Staked: 1421551.6714 HMDX ($89,044.48)
+MDX Per Week: 7780.15 ($1,775.39)
+APR: Day 0.28% Week 1.99% Year 103.68%
+You are staking 0.00 [MDX]-[BOO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MDX]-[BOO] Uni LP
+Unstake 0.00 [MDX]-[BOO] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+71 - [USDT]-[SHIB] Uni LP [+] [-] [<=>] Price: $0.01 TVL: $322,239.09
+USDT Price: $1.00
+SHIB Price: $0.0000206574
+Staked: 33554644.2256 HMDX ($308,531.53)
+MDX Per Week: 13615.26 ($3,106.93)
+APR: Day 0.14% Week 1.01% Year 52.36%
+You are staking 0.00 [USDT]-[SHIB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[SHIB] Uni LP
+Unstake 0.00 [USDT]-[SHIB] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+73 - [WOO]-[USDT] Uni LP [+] [-] [<=>] Price: $1.59 TVL: $329,202.97
+WOO Price: $0.61
+USDT Price: $1.00
+Staked: 30780.6976 HMDX ($49,087.14)
+MDX Per Week: 2917.56 ($665.77)
+APR: Day 0.19% Week 1.36% Year 70.53%
+You are staking 0.00 [WOO]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WOO]-[USDT] Uni LP
+Unstake 0.00 [WOO]-[USDT] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+80 - [USDC-HECO]-[USDT] Uni LP [+] [-] [<=>] Price: $2,011,009.88 TVL: $509,854.00
+USDC-HECO Price: $1.00
+USDT Price: $1.00
+Staked: 0.2533 HMDX ($509,387.61)
+MDX Per Week: 14587.78 ($3,328.86)
+APR: Day 0.09% Week 0.65% Year 33.98%
+You are staking 0.00 [USDC-HECO]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC-HECO]-[USDT] Uni LP
+Unstake 0.00 [USDC-HECO]-[USDT] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+81 - [DAI-HECO]-[USDT] Uni LP [+] [-] [<=>] Price: $2.01 TVL: $187,548.56
+DAI-HECO Price: $1.00
+USDT Price: $1.00
+Staked: 92989.4697 HMDX ($187,174.54)
+MDX Per Week: 14587.78 ($3,328.86)
+APR: Day 0.25% Week 1.78% Year 92.48%
+You are staking 0.00 [DAI-HECO]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI-HECO]-[USDT] Uni LP
+Unstake 0.00 [DAI-HECO]-[USDT] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+82 - [WHT]-[HTMoon] Uni LP [+] [-] [<=>] Price: $13.61 TVL: $50,263.12
+WHT Price: $8.65
+HTMoon Price: $0.0000000008
+Staked: 3069.3560 HMDX ($41,761.89)
+MDX Per Week: 1945.04 ($443.85)
+APR: Day 0.15% Week 1.06% Year 55.27%
+You are staking 0.00 [WHT]-[HTMoon] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WHT]-[HTMoon] Uni LP
+Unstake 0.00 [WHT]-[HTMoon] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+83 - [USDT]-[NULS] Uni LP [+] [-] [<=>] Price: $153,065.37 TVL: $23,190.62
+USDT Price: $1.00
+NULS Price: $0.57
+Staked: 0.1510 HMDX ($23,116.54)
+MDX Per Week: 3890.07 ($887.70)
+APR: Day 0.55% Week 3.84% Year 199.68%
+You are staking 0.00 [USDT]-[NULS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[NULS] Uni LP
+Unstake 0.00 [USDT]-[NULS] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+84 - [BIFI]-[USDT] Uni LP [+] [-] [<=>] Price: $84.62 TVL: $32,813.25
+BIFI Price: $1,781.20
+USDT Price: $1.00
+Staked: 375.9217 HMDX ($31,809.91)
+MDX Per Week: 2917.56 ($665.77)
+APR: Day 0.30% Week 2.09% Year 108.83%
+You are staking 0.00 [BIFI]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BIFI]-[USDT] Uni LP
+Unstake 0.00 [BIFI]-[USDT] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+86 - [WHT]-[HBELT] Uni LP [+] [-] [<=>] Price: $6.60 TVL: $1,348,252.73
+WHT Price: $8.65
+HBELT Price: $1.25
+Staked: 3145.5012 HMDX ($20,749.82)
+MDX Per Week: 6807.63 ($1,553.47)
+APR: Day 1.07% Week 7.49% Year 389.31%
+You are staking 0.00 [WHT]-[HBELT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WHT]-[HBELT] Uni LP
+Unstake 0.00 [WHT]-[HBELT] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+87 - [BNB]-[WHT] Uni LP [+] [-] [<=>] Price: $114.86 TVL: $276,165.84
+BNB Price: $370.00
+WHT Price: $8.65
+Staked: 2015.5826 HMDX ($231,502.50)
+MDX Per Week: 20422.89 ($4,660.40)
+APR: Day 0.29% Week 2.01% Year 104.68%
+You are staking 0.00 [BNB]-[WHT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BNB]-[WHT] Uni LP
+Unstake 0.00 [BNB]-[WHT] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+89 - [HUSD]-[O3] Uni LP [+] [-] [<=>] Price: $111,459.27 TVL: $197,210.95
+HUSD Price: $1.00
+O3 Price: $0.30
+Staked: 0.3387 HMDX ($37,755.13)
+MDX Per Week: 7780.15 ($1,775.39)
+APR: Day 0.67% Week 4.70% Year 244.52%
+You are staking 0.00 [HUSD]-[O3] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [HUSD]-[O3] Uni LP
+Unstake 0.00 [HUSD]-[O3] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+90 - [WAR]-[USDT] Uni LP [+] [-] [<=>] Price: $0.55 TVL: $72,424.87
+WAR Price: $0.07
+USDT Price: $1.00
+Staked: 96520.1028 HMDX ($53,544.26)
+MDX Per Week: 21395.40 ($4,882.32)
+APR: Day 1.30% Week 9.12% Year 474.15%
+You are staking 0.00 [WAR]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WAR]-[USDT] Uni LP
+Unstake 0.00 [WAR]-[USDT] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+91 - [COW]-[USDT] Uni LP [+] [-] [<=>] Price: $1.95 TVL: $2,117,416.90
+COW Price: $0.95
+USDT Price: $1.00
+Staked: 186195.3065 HMDX ($363,430.53)
+MDX Per Week: 28203.03 ($6,435.79)
+APR: Day 0.25% Week 1.77% Year 92.08%
+You are staking 0.00 [COW]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [COW]-[USDT] Uni LP
+Unstake 0.00 [COW]-[USDT] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+95 - [DUSD]-[USDT] Uni LP [+] [-] [<=>] Price: $1.79 TVL: $1,024,886.11
+DUSD Price: $0.79
+USDT Price: $1.00
+Staked: 460572.5881 HMDX ($824,274.69)
+MDX Per Week: 152685.39 ($34,842.04)
+APR: Day 0.60% Week 4.23% Year 219.80%
+You are staking 0.00 [DUSD]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DUSD]-[USDT] Uni LP
+Unstake 0.00 [DUSD]-[USDT] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+97 - [MDX]-[xMDX] Uni LP [+] [-] [<=>] Price: $0.15 TVL: $1,815,759.52
+MDX Price: $0.23
+xMDX Price: $0.02
+Staked: 12198317.9630 HMDX ($1,775,970.62)
+MDX Per Week: 84609.10 ($19,307.37)
+APR: Day 0.16% Week 1.09% Year 56.53%
+You are staking 0.00 [MDX]-[xMDX] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MDX]-[xMDX] Uni LP
+Unstake 0.00 [MDX]-[xMDX] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+98 - [ETH]-[BETH] Uni LP [+] [-] [<=>] Price: $4,564.29 TVL: $979,727.40
+ETH Price: $2,432.52
+BETH Price: $2,133.32
+Staked: 214.2014 HMDX ($977,677.55)
+MDX Per Week: 28203.03 ($6,435.79)
+APR: Day 0.09% Week 0.66% Year 34.23%
+You are staking 0.00 [ETH]-[BETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[BETH] Uni LP
+Unstake 0.00 [ETH]-[BETH] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+99 - [WHT]-[XTM] Uni LP [+] [-] [<=>] Price: $3.21 TVL: $186,702.08
+WHT Price: $8.65
+XTM Price: $0.26
+Staked: 34702.9634 HMDX ($111,301.79)
+MDX Per Week: 116702.21 ($26,630.86)
+APR: Day 3.42% Week 23.93% Year 1244.19%
+You are staking 0.00 [WHT]-[XTM] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WHT]-[XTM] Uni LP
+Unstake 0.00 [WHT]-[XTM] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+100 - [USDT]-[WND] Uni LP [+] [-] [<=>] Price: $2.15 TVL: $140,874.18
+USDT Price: $1.00
+WND Price: $1.14
+Staked: 40298.9573 HMDX ($86,572.57)
+MDX Per Week: 56406.07 ($12,871.58)
+APR: Day 2.12% Week 14.87% Year 773.13%
+You are staking 0.00 [USDT]-[WND] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WND] Uni LP
+Unstake 0.00 [USDT]-[WND] Uni LP
+Claim 0.00 MDX ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $150,437,215.13

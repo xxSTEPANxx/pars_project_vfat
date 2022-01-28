@@ -1,0 +1,84 @@
+  ***************************** AVALANCHE *********************************
+
+*************** 👨‍🌾 UNOFFICIAL KYBER-DMM FARMING CALCULATOR 👨‍🌾 *************
+INFO  : https://dmm.exchange/
+***************************************************************************
+
+Fri Jan 28 2022 00:06:58 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+NOTE: Once rewards are harvested, they vest for 14 days before they can be claimable.
+      Each time you harvest, that amount harvested starts vesting for 14 days.
+[USDC]-[USDT] DMM-LP USDC.E-USDT.E [+] [-] [<=>] LP Price: $2,022,038,596,285.38 TVL: $3,081,569.17
+USDC/USDT Price: 1.02258295
+USDT/USDC Price: 0.97791578
+Reward Tokens: AVAX $62.02
+Rewards Per Week: AVAX 0.00000000 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+Total Staked: 0.000001512114163996 DMM-LP USDC.e-USDT.e ($3,057,553.20)
+You are staking 0.000000000000000000 DMM-LP USDC.e-USDT.e $0.00 (0.00% of the pool).
+Vesting rewards: 0.00000000 AVAX ($0.00)
+Vested rewards: 0.00000000 AVAX ($0.00)
+CChain Avalanche Explorer
+Stake 0.000000000000000000 DMM-LP USDC.e-USDT.e
+Withdraw 0.000000000000000000 DMM-LP USDC.e-USDT.e
+Harvest 0.0000 AVAX ($0.00)
+Claim 0.00000000 AVAX ($0.00)
+Revoke (set approval to 0)
+
+
+[WETH]-[WAVAX] DMM-LP WETH.E-WAVAX [+] [-] [<=>] LP Price: $782.39 TVL: $7,260.40
+WETH/WAVAX Price: 31.28287826
+WAVAX/WETH Price: 0.03196637
+Reward Tokens: AVAX $62.02
+Rewards Per Week: AVAX 0.00000000 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+Total Staked: 5.026011871263604824 DMM-LP WETH.e-WAVAX ($3,932.31)
+You are staking 0.000000000000000000 DMM-LP WETH.e-WAVAX $0.00 (0.00% of the pool).
+Vesting rewards: 0.00000000 AVAX ($0.00)
+Vested rewards: 0.00000000 AVAX ($0.00)
+CChain Avalanche Explorer
+Stake 0.000000000000000000 DMM-LP WETH.e-WAVAX
+Withdraw 0.000000000000000000 DMM-LP WETH.e-WAVAX
+Harvest 0.0000 AVAX ($0.00)
+Claim 0.00000000 AVAX ($0.00)
+Revoke (set approval to 0)
+
+
+[DYP]-[WAVAX] DMM-LP DYP-WAVAX [+] [-] [<=>] LP Price: $7.10 TVL: $601,175.88
+DYP/WAVAX Price: 0.00273616
+WAVAX/DYP Price: 365.47629105
+Reward Tokens: DYP $0.20
+Rewards Per Week: DYP 0.00000000 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+Total Staked: 24727.707760854591469979 DMM-LP DYP-WAVAX ($175,472.23)
+You are staking 0.000000000000000000 DMM-LP DYP-WAVAX $0.00 (0.00% of the pool).
+Vesting rewards: 0.00000000 DYP ($0.00)
+Vested rewards: 0.00000000 DYP ($0.00)
+CChain Avalanche Explorer
+Stake 0.000000000000000000 DMM-LP DYP-WAVAX
+Withdraw 0.000000000000000000 DMM-LP DYP-WAVAX
+Harvest 0.0000 DYP ($0.00)
+Claim 0.00000000 DYP ($0.00)
+Revoke (set approval to 0)
+
+
+[APEIN]-[WAVAX] DMM-LP APEIN-WAVAX [+] [-] [<=>] LP Price: $30.47 TVL: $55,334.61
+APEIN/WAVAX Price: 0.00690403
+WAVAX/APEIN Price: 144.84293840
+Reward Tokens: APEIN $8.02
+Rewards Per Week: APEIN 0.00000000 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+Total Staked: 19.617929820317584699 DMM-LP APEIN-WAVAX ($597.72)
+You are staking 0.000000000000000000 DMM-LP APEIN-WAVAX $0.00 (0.00% of the pool).
+Vesting rewards: 0.00000000 APEIN ($0.00)
+Vested rewards: 0.00000000 APEIN ($0.00)
+CChain Avalanche Explorer
+Stake 0.000000000000000000 DMM-LP APEIN-WAVAX
+Withdraw 0.000000000000000000 DMM-LP APEIN-WAVAX
+Harvest 0.0000 APEIN ($0.00)
+Claim 0.00000000 APEIN ($0.00)
+Revoke (set approval to 0)

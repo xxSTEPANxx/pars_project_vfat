@@ -1,0 +1,61 @@
+*************** 👨‍🌾 UNOFFICIAL ShibaSwap FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://shibafantom.finance
+******************************************************************************
+
+Fri Jan 28 2022 00:40:31 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 5 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - GBONE Price: $0.22 Market Cap: $108,770.57 
+Staked: 23988.6610 GBONE ($5,329.30)
+GBONE Per Week: 958.25 ($212.88)
+APR: Day 0.57% Week 3.99% Year 207.72%
+You are staking 0.00 GBONE ($0.00), 0.00% of the pool.
+Stake 0.00 GBONE - Fee 10%
+Unstake 0.00 GBONE
+Claim 0.00 GBONE ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WFTM]-[Shiba] Uni LP [+] [-] [<=>] Price: $1.45 TVL: $182,308.34
+WFTM Price: $2.02
+Shiba Price: $0.0000000002
+Staked: 123691.5625 Shiba-LP ($179,181.21)
+GBONE Per Week: 958.25 ($212.88)
+APR: Day 0.02% Week 0.12% Year 6.18%
+You are staking 0.00 [WFTM]-[Shiba] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[Shiba] Uni LP
+Unstake 0.00 [WFTM]-[Shiba] Uni LP
+Claim 0.00 GBONE ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [GBONE]-[Shiba] Uni LP [+] [-] [<=>] Price: $0.46 TVL: $13,889.58
+GBONE Price: $0.22
+Shiba Price: $0.0000000002
+Staked: 23820.0401 Shiba-LP ($11,022.08)
+GBONE Per Week: 958.25 ($212.88)
+APR: Day 0.28% Week 1.93% Year 100.43%
+You are staking 0.00 [GBONE]-[Shiba] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GBONE]-[Shiba] Uni LP
+Unstake 0.00 [GBONE]-[Shiba] Uni LP
+Claim 0.00 GBONE ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [GBONE]-[WFTM] Uni LP [+] [-] [<=>] Price: $1.40 TVL: $16,543.06
+GBONE Price: $0.22
+WFTM Price: $2.02
+Staked: 11627.6422 Shiba-LP ($16,262.18)
+GBONE Per Week: 958.25 ($212.88)
+APR: Day 0.19% Week 1.31% Year 68.07%
+You are staking 0.00 [GBONE]-[WFTM] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GBONE]-[WFTM] Uni LP
+Unstake 0.00 [GBONE]-[WFTM] Uni LP
+Claim 0.00 GBONE ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $211,794.78

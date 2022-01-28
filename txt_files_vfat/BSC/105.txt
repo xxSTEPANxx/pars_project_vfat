@@ -1,0 +1,384 @@
+*************** 👨‍🌾 UNOFFICIAL MOZART.FINANCE FARMING CALCULATOR 👨‍🌾 *********************
+INFO  : https://mozartfinance.io
+*****************************************************************************************
+
+Thu Jan 27 2022 20:34:41 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 13 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - PIANO Price: $0.0000035692 Market Cap: $3,569,234,197.27 [%]
+Staked: 358598.2453 PIANO ($1.28)
+PIANO Per Week: 12600.00 ($0.04)
+APR: Day 0.50% Week 3.51% Year 182.71%
+You are staking 0.00 PIANO ($0.00), 0.00% of the pool.
+Stake 0.00 PIANO
+Unstake 0.00 PIANO
+Claim 0.00 PIANO ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WBNB]-[PIANO] Cake LP [+] [-] [<=>] Price: $0.08 TVL: $243.63
+WBNB Price: $370.43
+PIANO Price: $0.0000035692
+Staked: 541.1417 Cake-LP ($41.99)
+PIANO Per Week: 11571.43 ($0.04)
+APR: Day 0.01% Week 0.10% Year 5.11%
+You are staking 0.00 [WBNB]-[PIANO] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[PIANO] Cake LP
+Unstake 0.00 [WBNB]-[PIANO] Cake LP
+Claim 0.00 PIANO ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [PIANO]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $209.68
+PIANO Price: $0.0000035692
+BUSD Price: $1.00
+Staked: 11596.1076 Cake-LP ($46.95)
+PIANO Per Week: 7714.29 ($0.03)
+APR: Day 0.01% Week 0.06% Year 3.05%
+You are staking 0.00 [PIANO]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PIANO]-[BUSD] Cake LP
+Unstake 0.00 [PIANO]-[BUSD] Cake LP
+Claim 0.00 PIANO ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [Cake]-[PIANO] Cake LP [+] [-] [<=>] Price: $0.01 TVL: $82.34
+Cake Price: $7.21
+PIANO Price: $0.0000035692
+Staked: 105.2857 Cake-LP ($1.10)
+PIANO Per Week: 1542.86 ($0.01)
+APR: Day 0.07% Week 0.50% Year 25.95%
+You are staking 0.00 [Cake]-[PIANO] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[PIANO] Cake LP
+Unstake 0.00 [Cake]-[PIANO] Cake LP
+Claim 0.00 PIANO ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $66.04 TVL: $2,137,084.76
+WBNB Price: $370.43
+BUSD Price: $1.00
+Staked: 350.3518 Cake-LP ($23,137.80)
+PIANO Per Week: 1285.71 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 3.95%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 PIANO ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.28 TVL: $253,650.65
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 4454.5369 Cake-LP ($10,164.23)
+PIANO Per Week: 514.29 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 3.95%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 PIANO ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $124.39 TVL: $3,359,095.74
+Cake Price: $7.21
+WBNB Price: $370.43
+Staked: 35.4566 Cake-LP ($4,410.57)
+PIANO Per Week: 257.14 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 3.95%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 PIANO ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [ADA]-[PIANO] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $18.31
+ADA Price: $1.03
+PIANO Price: $0.0000035692
+Staked: 3321.6072 Cake-LP ($12.92)
+PIANO Per Week: 3857.14 ($0.01)
+APR: Day 0.02% Week 0.11% Year 5.54%
+You are staking 0.00 [ADA]-[PIANO] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[PIANO] Cake LP
+Unstake 0.00 [ADA]-[PIANO] Cake LP
+Claim 0.00 PIANO ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [DOT]-[PIANO] Cake LP [+] [-] [<=>] Price: $0.02 TVL: $6.65
+DOT Price: $18.02
+PIANO Price: $0.0000035692
+Staked: 192.3100 Cake-LP ($3.14)
+PIANO Per Week: 2571.43 ($0.01)
+APR: Day 0.04% Week 0.29% Year 15.22%
+You are staking 0.00 [DOT]-[PIANO] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[PIANO] Cake LP
+Unstake 0.00 [DOT]-[PIANO] Cake LP
+Claim 0.00 PIANO ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.17 TVL: $3,560,860.05
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 11606.4436 Cake-LP ($25,226.30)
+PIANO Per Week: 514.29 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 3.95%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 PIANO ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [ETH]-[DOT] Cake LP [+] [-] [<=>] Price: $434.44 TVL: $6,139.66
+ETH Price: $2,441.83
+DOT Price: $18.02
+Staked: 7.7931 Cake-LP ($3,385.65)
+PIANO Per Week: 257.14 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [ETH]-[DOT] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[DOT] Cake LP - Fee 2.95%
+Unstake 0.00 [ETH]-[DOT] Cake LP
+Claim 0.00 PIANO ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [ETH]-[PIANO] Cake LP [+] [-] [<=>] Price: $0.19 TVL: $16.26
+ETH Price: $2,441.83
+PIANO Price: $0.0000035692
+Staked: 50.9892 Cake-LP ($9.68)
+PIANO Per Week: 7714.29 ($0.03)
+APR: Day 0.04% Week 0.28% Year 14.79%
+You are staking 0.00 [ETH]-[PIANO] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[PIANO] Cake LP - Fee 1%
+Unstake 0.00 [ETH]-[PIANO] Cake LP
+Claim 0.00 PIANO ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $66,441.63
+Staking Contract
+Found 19 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [MELODY]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.08 TVL: $7,159.86
+MELODY Price: $0.001416
+BUSD Price: $1.00
+Staked: 88816.8286 Cake-LP ($7,040.41)
+MELODY Per Week: 6.05 ($0.01)
+APR: Day 0.00% Week 0.00% Year 0.01%
+You are staking 0.00 [MELODY]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MELODY]-[BUSD] Cake LP
+Unstake 0.00 [MELODY]-[BUSD] Cake LP
+Claim 0.00 MELODY ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.59 TVL: $347,196,444.65
+WBNB Price: $370.43
+BUSD Price: $1.00
+Staked: 7.0297 Cake-LP ($334.54)
+MELODY Per Week: 0.40 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.01%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 MELODY ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [MELODY]-[WBNB] Cake LP [+] [-] [<=>] Price: $1.56 TVL: $17,930.95
+MELODY Price: $0.001416
+WBNB Price: $370.43
+Staked: 5501.5307 Cake-LP ($8,569.30)
+MELODY Per Week: 7.06 ($0.01)
+APR: Day 0.00% Week 0.00% Year 0.01%
+You are staking 0.00 [MELODY]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MELODY]-[WBNB] Cake LP
+Unstake 0.00 [MELODY]-[WBNB] Cake LP
+Claim 0.00 MELODY ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [ETH]-[MELODY] Cake LP [+] [-] [<=>] Price: $3.82 TVL: $1,095.29
+ETH Price: $2,441.83
+MELODY Price: $0.001416
+Staked: 239.2175 Cake-LP ($912.63)
+MELODY Per Week: 0.40 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [ETH]-[MELODY] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[MELODY] Cake LP
+Unstake 0.00 [ETH]-[MELODY] Cake LP
+Claim 0.00 MELODY ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [Cake]-[MELODY] Cake LP [+] [-] [<=>] Price: $0.21 TVL: $405.71
+Cake Price: $7.21
+MELODY Price: $0.001416
+Staked: 898.6124 Cake-LP ($186.13)
+MELODY Per Week: 0.20 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.01%
+You are staking 0.00 [Cake]-[MELODY] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[MELODY] Cake LP
+Unstake 0.00 [Cake]-[MELODY] Cake LP
+Claim 0.00 MELODY ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [MELODY]-[USDT] Cake LP [+] [-] [<=>] Price: $0.08 TVL: $960.45
+MELODY Price: $0.001416
+USDT Price: $1.00
+Staked: 11342.4028 Cake-LP ($880.27)
+MELODY Per Week: 0.20 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [MELODY]-[USDT] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MELODY]-[USDT] Cake LP
+Unstake 0.00 [MELODY]-[USDT] Cake LP
+Claim 0.00 MELODY ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [WBNB]-[pBTC] Cake LP [+] [-] [<=>] Price: $10,005.78 TVL: $29,421.32
+WBNB Price: $370.43
+pBTC Price: $36,481.00
+Staked: 0.4391 Cake-LP ($4,393.21)
+MELODY Per Week: 0.02 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WBNB]-[pBTC] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[pBTC] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[pBTC] Cake LP
+Claim 0.00 MELODY ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - MELODY Price: $0.001416 Market Cap: $66,575.11 [%]
+Staked: 2161379.6662 MELODY ($3,061.58)
+MELODY Per Week: 2.02 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 MELODY ($0.00), 0.00% of the pool.
+Stake 0.00 MELODY
+Unstake 0.00 MELODY
+Claim 0.00 MELODY ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [MELODY]-[DOGE] Cake LP [+] [-] [<=>] Price: $2,890.26 TVL: $341.39
+MELODY Price: $0.001416
+DOGE Price: $0.14
+Staked: 0.1007 Cake-LP ($291.18)
+MELODY Per Week: 1.01 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.03%
+You are staking 0.00 [MELODY]-[DOGE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MELODY]-[DOGE] Cake LP - Fee 1%
+Unstake 0.00 [MELODY]-[DOGE] Cake LP
+Claim 0.00 MELODY ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [DOGE]-[WBNB] Cake LP [+] [-] [<=>] Price: $1,666,147.67 TVL: $5,626,982.67
+DOGE Price: $0.14
+WBNB Price: $370.43
+Staked: 0.0004 Cake-LP ($630.06)
+MELODY Per Week: 0.02 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [DOGE]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOGE]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOGE]-[WBNB] Cake LP
+Claim 0.00 MELODY ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [TRX]-[WBNB] Cake LP [+] [-] [<=>] Price: $9.87 TVL: $252,581.80
+TRX Price: $0.06
+WBNB Price: $370.43
+Staked: 1.0193 Cake-LP ($10.06)
+MELODY Per Week: 0.02 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.01%
+You are staking 0.00 [TRX]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TRX]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [TRX]-[WBNB] Cake LP
+Claim 0.00 MELODY ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [MELODY]-[ADA] Cake LP [+] [-] [<=>] Price: $0.08 TVL: $19.13
+MELODY Price: $0.001416
+ADA Price: $1.03
+Staked: 112.1759 Cake-LP ($8.70)
+MELODY Per Week: 0.02 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.02%
+You are staking 0.00 [MELODY]-[ADA] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MELODY]-[ADA] Cake LP - Fee 1%
+Unstake 0.00 [MELODY]-[ADA] Cake LP
+Claim 0.00 MELODY ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [MELODY]-[VIOLA] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $179.54
+MELODY Price: $0.001416
+VIOLA Price: $0.000223
+Staked: 34862.6043 Cake-LP ($40.18)
+MELODY Per Week: 2.02 ($0.00)
+APR: Day 0.00% Week 0.01% Year 0.37%
+You are staking 0.00 [MELODY]-[VIOLA] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MELODY]-[VIOLA] Cake LP
+Unstake 0.00 [MELODY]-[VIOLA] Cake LP
+Claim 0.00 MELODY ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [VIOLA]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.03 TVL: $255.17
+VIOLA Price: $0.000223
+BUSD Price: $1.00
+Staked: 651.1028 Cake-LP ($20.52)
+MELODY Per Week: 1.01 ($0.00)
+APR: Day 0.00% Week 0.01% Year 0.36%
+You are staking 0.00 [VIOLA]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [VIOLA]-[BUSD] Cake LP - Fee 1%
+Unstake 0.00 [VIOLA]-[BUSD] Cake LP
+Claim 0.00 MELODY ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [VIOLA]-[WBNB] Cake LP [+] [-] [<=>] Price: $0.63 TVL: $450.74
+VIOLA Price: $0.000223
+WBNB Price: $370.43
+Staked: 75.8207 Cake-LP ($47.72)
+MELODY Per Week: 0.81 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.12%
+You are staking 0.00 [VIOLA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [VIOLA]-[WBNB] Cake LP - Fee 1%
+Unstake 0.00 [VIOLA]-[WBNB] Cake LP
+Claim 0.00 MELODY ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.10 TVL: $297,260,424.45
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+MELODY Per Week: 0.20 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 MELODY ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $7,795.48 TVL: $69,169,808.91
+BTCB Price: $36,550.00
+WBNB Price: $370.43
+Staked: 0.0000 Cake-LP ($0.00)
+MELODY Per Week: 0.20 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 MELODY ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - VIOLA Price: $0.000223 Market Cap: $718.79 [%]
+Staked: 65434.6000 VIOLA ($14.62)
+MELODY Per Week: 0.40 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.20%
+You are staking 0.00 VIOLA ($0.00), 0.00% of the pool.
+Stake 0.00 VIOLA
+Unstake 0.00 VIOLA
+Claim 0.00 MELODY ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - CLAKE Price: $0.00 Market Cap: $0.00 
+Staked: 5.0000 CLAKE ($0.00)
+MELODY Per Week: 201577.95 ($285.53)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 CLAKE ($0.00), NaN% of the pool.
+Stake 0.00 CLAKE
+Unstake 0.00 CLAKE
+Claim 0.00 MELODY ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $26,441.11

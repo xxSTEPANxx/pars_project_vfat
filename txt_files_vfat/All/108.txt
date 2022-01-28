@@ -1,0 +1,77 @@
+*************** 👨‍🌾 UNOFFICIAL KINEKO FARMING CALCULATOR 👨‍🌾 ************
+INFO  : http://stake.kineko.io
+************************************************************************
+
+Thu Jan 27 2022 19:55:59 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 6 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+[KKO]-[WETH] SLP [+] [-] [<=>] Price: $50.55 TVL: $167,895.79
+KKO Price: $0.24
+WETH Price: $2,483.85
+Staked: 3174.7102 SLP ($160,470.69)
+KKO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [KKO]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [KKO]-[WETH] SLP
+Unstake 0.00 [KKO]-[WETH] SLP
+Claim 0.00 KKO ($0.00)
+Staking or unstaking also claims rewards.
+
+KKO Price: $0.24 Market Cap: $14,429,862.25 [%]
+Staked: 18055000.0470 KKO ($4,346,650.99)
+KKO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 KKO ($0.00), 0.00% of the pool.
+Stake 0.00 KKO
+Unstake 0.00 KKO
+Claim 0.00 KKO ($0.00)
+Staking or unstaking also claims rewards.
+
+USDC Price: $1.00 Market Cap: $44,068,581,793.10 [%]
+Staked: 0.0000 USDC ($0.00)
+KKO Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 USDC ($0.00), NaN% of the pool.
+Stake 0.00 USDC
+Unstake 0.00 USDC
+Claim 0.00 KKO ($0.00)
+Staking or unstaking also claims rewards.
+
+USDT Price: $1.00 Market Cap: $39,823,315,849.94 [%]
+Staked: 0.0000 USDT ($0.00)
+KKO Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 USDT ($0.00), NaN% of the pool.
+Stake 0.00 USDT
+Unstake 0.00 USDT
+Claim 0.00 KKO ($0.00)
+Staking or unstaking also claims rewards.
+
+DAI Price: $1.00 Market Cap: $9,184,566,246.25 [%]
+Staked: 0.7700 DAI ($0.77)
+KKO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI
+Unstake 0.00 DAI
+Claim 0.00 KKO ($0.00)
+Staking or unstaking also claims rewards.
+
+FAKEVOL Price: $0.00 Market Cap: $0.00 
+Staked: 1.0000 FAKEVOL ($0.00)
+KKO Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FAKEVOL ($0.00), NaN% of the pool.
+Stake 0.00 FAKEVOL
+Unstake 0.00 FAKEVOL
+Claim 0.00 KKO ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $4,507,122.44

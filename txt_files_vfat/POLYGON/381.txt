@@ -6,119 +6,21 @@ INFO  : https://www.sentientswap.live
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Thu Dec 16 2021 06:03:21 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 23:53:33 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
+Staking Contract
 Found 10 pools.
 Showing incentivized pools only.
-Finished reading smart contracts.
-0 - [USDC]-[STN] Uni LP [+] [-] [<=>] Price: $2,706.29 TVL: $0.95
-USDC Price: $1.00
-STN Price: $0.0000016747
-Staked: 0.0000 UNI-V2 ($0.08)
-STN Per Week: 77142.86 ($0.13)
-APR: Day 24.58% Week 172.04% Year 8946.08%
-You are staking 0.00 [USDC]-[STN] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[STN] Uni LP
-Unstake 0.00 [USDC]-[STN] Uni LP
-Claim 0.00 STN ($0.00)
-Staking or unstaking also claims rewards.
-
-1 - [WMATIC]-[STN] Uni LP [+] [-] [<=>] Price: $0.00 TVL: $1.57
-WMATIC Price: $2.15
-STN Price: $0.0000016747
-Staked: 178.4705 UNI-V2 ($0.71)
-STN Per Week: 77142.86 ($0.13)
-APR: Day 2.59% Week 18.11% Year 941.49%
-You are staking 0.00 [WMATIC]-[STN] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[STN] Uni LP
-Unstake 0.00 [WMATIC]-[STN] Uni LP
-Claim 0.00 STN ($0.00)
-Staking or unstaking also claims rewards.
-
-2 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,872,818.28 TVL: $52,317,143.66
-WMATIC Price: $2.15
-USDC Price: $1.00
-Staked: 0.0000 UNI-V2 ($1.05)
-STN Per Week: 30857.14 ($0.05)
-APR: Day 0.70% Week 4.90% Year 255.04%
-You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
-Unstake 0.00 [WMATIC]-[USDC] Uni LP
-Claim 0.00 STN ($0.00)
-Staking or unstaking also claims rewards.
-
-3 - STN Price: $0.0000016747 Market Cap: $4.34 [%]
-Staked: 1576902.9123 STN ($2.64)
-STN Per Week: 61714.29 ($0.10)
-APR: Day 0.56% Week 3.91% Year 203.51%
-You are staking 0.00 STN ($0.00), 0.00% of the pool.
-Stake 0.00 STN
-Unstake 0.00 STN
-Claim 0.00 STN ($0.00)
-Staking or unstaking also claims rewards.
-
-4 - WMATIC Price: $2.15 Market Cap: $654,091,052.53 [%]
-Staked: 1.9200 WMATIC ($4.13)
-STN Per Week: 30857.14 ($0.05)
-APR: Day 0.18% Week 1.25% Year 65.10%
-You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
-Stake 0.00 WMATIC - Fee 4%
-Unstake 0.00 WMATIC
-Claim 0.00 STN ($0.00)
-Staking or unstaking also claims rewards.
-
-5 - WETH Price: $4,038.49 Market Cap: $1,792,576,686.13 [%]
-Staked: 0.0054 WETH ($21.94)
-STN Per Week: 30857.14 ($0.05)
-APR: Day 0.03% Week 0.24% Year 12.25%
-You are staking 0.00 WETH ($0.00), 0.00% of the pool.
-Stake 0.00 WETH - Fee 4%
-Unstake 0.00 WETH
-Claim 0.00 STN ($0.00)
-Staking or unstaking also claims rewards.
-
-6 - USDC Price: $1.00 Market Cap: $943,523,274.91 [%]
-Staked: 7.9457 USDC ($7.95)
-STN Per Week: 30857.14 ($0.05)
-APR: Day 0.09% Week 0.65% Year 33.82%
-You are staking 0.00 USDC ($0.00), 0.00% of the pool.
-Stake 0.00 USDC - Fee 4%
-Unstake 0.00 USDC
-Claim 0.00 STN ($0.00)
-Staking or unstaking also claims rewards.
-
-7 - USDT Price: $1.00 Market Cap: $313,461,279.68 [%]
-Staked: 5.7714 USDT ($5.77)
-STN Per Week: 30857.14 ($0.05)
-APR: Day 0.13% Week 0.90% Year 46.56%
-You are staking 0.00 USDT ($0.00), 0.00% of the pool.
-Stake 0.00 USDT - Fee 4%
-Unstake 0.00 USDT
-Claim 0.00 STN ($0.00)
-Staking or unstaking also claims rewards.
-
-8 - DAI Price: $1.00 Market Cap: $374,131,149.78 [%]
-Staked: 3.4916 DAI ($3.49)
-STN Per Week: 30857.14 ($0.05)
-APR: Day 0.21% Week 1.48% Year 76.96%
-You are staking 0.00 DAI ($0.00), 0.00% of the pool.
-Stake 0.00 DAI - Fee 4%
-Unstake 0.00 DAI
-Claim 0.00 STN ($0.00)
-Staking or unstaking also claims rewards.
-
-9 - WBTC Price: $49,051.00 Market Cap: $497,567,535.54 [%]
-Staked: 0.0000 WBTC ($0.00)
-STN Per Week: 30857.14 ($0.05)
-APR: Day Infinity% Week Infinity% Year Infinity%
-You are staking 0.00 WBTC ($0.00), NaN% of the pool.
-Stake 0.00 WBTC - Fee 4%
-Unstake 0.00 WBTC
-Claim 0.00 STN ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $47.76
+{
+  "code": -32603,
+  "message": "Internal JSON-RPC error.",
+  "data": {
+    "code": -32000,
+    "message": "header not found"
+  }
+}
+Oops something went wrong. Try refreshing the page.

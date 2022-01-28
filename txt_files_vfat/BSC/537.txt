@@ -1,0 +1,125 @@
+*************** 👨‍🌾 UNOFFICIAL CHARGE DEFI CALCULATOR 👨‍🌾 ************
+Algorithmic Stablecoin ecosystem with rebase mechanics on BSC.
+
+INFO    : https://chargedefi.fi
+TWITTER : https://twitter.com/ChargeDeFi
+DISCORD : https://discord.gg/TDFHtWj7b5
+TELEGRAM: https://t.me/chargedefi
+**********************************************************************
+Thu Jan 27 2022 21:43:52 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Current Supply: 5443793 Static
+Fully diluted marketcap: $5,144,777.53
+Price: 1 Static = $0.9451
+Your balance: 0.00 Static = $0.00
+
+Current Supply: 56551 Charge
+Max Supply: 200000 Charge
+Fully diluted marketcap: $44,458,485.49
+Price: 1 Charge = $222.2924
+Your balance: 0.0000 Charge = $0.00
+
+***************************************************
+                TREASURY INFORMATION
+***************************************************
+Epoch duration = 8 hours
+Current epoch = 171
+Next epoch in 1h 16m 4s
+
+
+***************************************************
+                CHARGE BOARDROOM
+***************************************************
+There are 39304 tokens staked in the boardroom
+(Total Value Locked: $8,736,954.00)
+Epoch (8 hours) Day Week Month Year
+APR 0.31% 0.94% 6.57% 28.48% 341.72%
+Static/Charge 0.73 2.20 15.41 66.98 803.78
+Static Yield for
+0.00 Charge 0.00   ($0.00) 0.00   ($0.00) 0.00   ($0.00) 0.00   ($0.00) 0.00   ($0.00)
+
+You have staked 0.0000 Charge ($0.00)
+Your claimable static rewards: 0.00 Static ($0.00)
+
+Approve 0.00 tokens
+Stake 0.00 tokens
+Unstake 0.00  tokens
+Claim 0.00 Static
+Revoke approval
+Exit
+
+
+***************************************************
+                STATIC-BUSD BOARDROOM
+***************************************************
+There are 4569870 tokens staked in the boardroom
+(Total Value Locked: $3,729,539.46)
+Epoch (8 hours) Day Week Month Year
+APR 0.57% 1.72% 12.09% 52.37% 628.43%
+Static/Static-BUSD 0.00 0.00 0.00 0.00 0.00
+Static Yield for
+0.00 Static-BUSD 0.00   ($0.00) 0.00   ($0.00) 0.00   ($0.00) 0.00   ($0.00) 0.00   ($0.00)
+Charge/Static-BUSD 0.0000 0.0001 0.0004 0.0019 0.0231
+Charge Yield for
+0.00 Static-BUSD 0.00   ($0.00) 0.00   ($0.00) 0.00   ($0.00) 0.00   ($0.00) 0.00   ($0.00)
+
+You have staked 0.0000 Static-BUSD ($0.00)
+Your claimable static rewards: 0.00 Static ($0.00)
+Your claimable charge rewards: 0.00 Charge ($0.00)
+
+Approve 0.00 tokens
+Stake 0.00 tokens
+Unstake 0.00  tokens
+Claim 0.00 Static & 0.00 Charge
+Revoke approval
+Exit
+
+
+
+
+***************************************************
+                CHARGE FARMS - CHARGE-BUSD
+***************************************************
+Staking Contract
+Found 1 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [Charge]-[BUSD] Cake LP [+] [-] [<=>] Price: $33.76 TVL: $3,969,919.35
+Charge Price: $222.22
+BUSD Price: $1.00
+Staked: 117050.1704 Cake-LP ($3,951,135.58)
+Charge Per Week: 1043.15 ($231,804.88)
+APR: Day 0.84% Week 5.87% Year 305.07%
+You are staking 0.00 [Charge]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Charge]-[BUSD] Cake LP
+Unstake 0.00 [Charge]-[BUSD] Cake LP
+Claim 0.00 Charge ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $3,951,135.58
+
+
+***************************************************
+                CHARGE FARMS - STATIC-BUSD
+***************************************************
+Staking Contract
+Found 1 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [Static]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.82 TVL: $8,837,780.69
+Static Price: $0.94
+BUSD Price: $1.00
+Staked: 6199633.9449 Cake-LP ($5,057,889.35)
+Charge Per Week: 2388.63 ($530,793.67)
+APR: Day 1.50% Week 10.49% Year 545.71%
+You are staking 0.00 [Static]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Static]-[BUSD] Cake LP
+Unstake 0.00 [Static]-[BUSD] Cake LP
+Claim 0.00 Charge ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $5,057,889.35

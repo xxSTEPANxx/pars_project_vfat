@@ -8,111 +8,25 @@ BUY $BATSWAP  : https://quickswap.exchange/#/swap?outputCurrency=0xb8ec286d18afe
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Fri Dec 17 2021 10:40:54 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 22:50:51 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
-Found 9 pools.
-Showing incentivized pools only.
-Finished reading smart contracts.
-0 - [WMATIC]-[BATSWAP] Uni LP [+] [-] [<=>] Price: $0.01 TVL: $3.49
-WMATIC Price: $2.03
-BATSWAP Price: $0.0000054535
-Staked: 66.7197 UNI-V2 ($0.47)
-BATSWAP Per Week: 12292.68 ($0.07)
-APR: Day 2.04% Week 14.31% Year 744.04%
-You are staking 0.00 [WMATIC]-[BATSWAP] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[BATSWAP] Uni LP
-Unstake 0.00 [WMATIC]-[BATSWAP] Uni LP
-Claim 0.00 BATSWAP ($0.00)
-Staking or unstaking also claims rewards.
-
-1 - [USDC]-[BATSWAP] Uni LP [+] [-] [<=>] Price: $5,265.14 TVL: $0.88
-USDC Price: $1.00
-BATSWAP Price: $0.0000054535
-Staked: 0.0001 UNI-V2 ($0.29)
-BATSWAP Per Week: 12292.68 ($0.07)
-APR: Day 3.27% Week 22.90% Year 1190.95%
-You are staking 0.00 [USDC]-[BATSWAP] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[BATSWAP] Uni LP
-Unstake 0.00 [USDC]-[BATSWAP] Uni LP
-Claim 0.00 BATSWAP ($0.00)
-Staking or unstaking also claims rewards.
-
-2 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,710,324.65 TVL: $50,902,850.69
-WMATIC Price: $2.03
-USDC Price: $1.00
-Staked: 0.0000 UNI-V2 ($3.33)
-BATSWAP Per Week: 5268.29 ($0.03)
-APR: Day 0.12% Week 0.86% Year 44.90%
-You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
-Unstake 0.00 [WMATIC]-[USDC] Uni LP
-Claim 0.00 BATSWAP ($0.00)
-Staking or unstaking also claims rewards.
-
-3 - [USDC]-[WETH] Uni LP [+] [-] [<=>] Price: $184,594,785.96 TVL: $80,337,839.39
-USDC Price: $1.00
-WETH Price: $3,893.45
-Staked: 0.0000 UNI-V2 ($1.42)
-BATSWAP Per Week: 5268.29 ($0.03)
-APR: Day 0.29% Week 2.02% Year 105.03%
-You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
-Unstake 0.00 [USDC]-[WETH] Uni LP
-Claim 0.00 BATSWAP ($0.00)
-Staking or unstaking also claims rewards.
-
-4 - BATSWAP Price: $0.0000054535 Market Cap: $6.92 [%]
-Staked: 548300.0337 BATSWAP ($2.99)
-BATSWAP Per Week: 8780.49 ($0.05)
-APR: Day 0.23% Week 1.60% Year 83.27%
-You are staking 0.00 BATSWAP ($0.00), 0.00% of the pool.
-Stake 0.00 BATSWAP
-Unstake 0.00 BATSWAP
-Claim 0.00 BATSWAP ($0.00)
-Staking or unstaking also claims rewards.
-
-5 - WMATIC Price: $2.03 Market Cap: $619,654,302.92 [%]
-Staked: 0.9300 WMATIC ($1.89)
-BATSWAP Per Week: 7024.39 ($0.04)
-APR: Day 0.29% Week 2.03% Year 105.51%
-You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
-Stake 0.00 WMATIC - Fee 4%
-Unstake 0.00 WMATIC
-Claim 0.00 BATSWAP ($0.00)
-Staking or unstaking also claims rewards.
-
-6 - WBTC Price: $47,076.00 Market Cap: $475,963,409.69 [%]
-Staked: 0.0000 WBTC ($0.49)
-BATSWAP Per Week: 7024.39 ($0.04)
-APR: Day 1.11% Week 7.76% Year 403.38%
-You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
-Stake 0.00 WBTC - Fee 4%
-Unstake 0.00 WBTC
-Claim 0.00 BATSWAP ($0.00)
-Staking or unstaking also claims rewards.
-
-7 - WETH Price: $3,893.45 Market Cap: $1,728,726,693.95 [%]
-Staked: 0.0003 WETH ($1.08)
-BATSWAP Per Week: 7024.39 ($0.04)
-APR: Day 0.50% Week 3.53% Year 183.77%
-You are staking 0.00 WETH ($0.00), 0.00% of the pool.
-Stake 0.00 WETH - Fee 4%
-Unstake 0.00 WETH
-Claim 0.00 BATSWAP ($0.00)
-Staking or unstaking also claims rewards.
-
-8 - USDT Price: $1.00 Market Cap: $319,006,119.17 [%]
-Staked: 0.2366 USDT ($0.24)
-BATSWAP Per Week: 7024.39 ($0.04)
-APR: Day 2.32% Week 16.23% Year 844.03%
-You are staking 0.00 USDT ($0.00), 0.00% of the pool.
-Stake 0.00 USDT - Fee 4%
-Unstake 0.00 USDT
-Claim 0.00 BATSWAP ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $12.20
+{
+  "code": -32603,
+  "message": "JsonRpcEngine: Response has no error or result for request:\n{\n  \"method\": \"eth_blockNumber\",\n  \"params\": [],\n  \"jsonrpc\": \"2.0\",\n  \"id\": 2695358141,\n  \"origin\": \"https://vfat.tools\",\n  \"tabId\": 2\n}",
+  "data": {
+    "request": {
+      "method": "eth_blockNumber",
+      "params": [],
+      "jsonrpc": "2.0",
+      "id": 2695358141,
+      "origin": "https://vfat.tools",
+      "tabId": 2
+    }
+  },
+  "stack": "{\n  \"code\": -32603,\n  \"message\": \"JsonRpcEngine: Response has no error or result for request:\\n{\\n  \\\"method\\\": \\\"eth_blockNumber\\\",\\n  \\\"params\\\": [],\\n  \\\"jsonrpc\\\": \\\"2.0\\\",\\n  \\\"id\\\": 2695358141,\\n  \\\"origin\\\": \\\"https://vfat.tools\\\",\\n  \\\"tabId\\\": 2\\n}\",\n  \"data\": {\n    \"request\": {\n      \"method\": \"eth_blockNumber\",\n      \"params\": [],\n      \"jsonrpc\": \"2.0\",\n      \"id\": 2695358141,\n      \"origin\": \"https://vfat.tools\",\n      \"tabId\": 2\n    }\n  },\n  \"stack\": \"Error: JsonRpcEngine: Response has no error or result for request:\\n{\\n  \\\"method\\\": \\\"eth_blockNumber\\\",\\n  \\\"params\\\": [],\\n  \\\"jsonrpc\\\": \\\"2.0\\\",\\n  \\\"id\\\": 2695358141,\\n  \\\"origin\\\": \\\"https://vfat.tools\\\",\\n  \\\"tabId\\\": 2\\n}\\n    at new o (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/common-1.js:16:24204)\\n    at Function._checkForCompletion (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:305269)\\n    at a._processRequest (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304461)\\n    at async a._handle (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304249)\"\n}\n  at new o (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/common-1.js:16:24204)\n  at Function._checkForCompletion (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:305269)\n  at a._processRequest (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304461)\n  at async a._handle (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304249)"
+}
+Oops something went wrong. Try refreshing the page.

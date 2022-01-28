@@ -1,0 +1,213 @@
+*************** 👨‍🌾 UNOFFICIAL COTTON FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://cottonfarm.app
+***********************************************************************************
+
+Thu Jan 27 2022 21:14:44 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 18 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - COTTON Price: $0.0000002070 Market Cap: $81.67 [%]
+Staked: 229555851.1620 COTTON ($47.51)
+COTTON Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 COTTON ($0.00), 0.00% of the pool.
+Stake 0.00 COTTON
+Unstake 0.00 COTTON
+Claim 0.00 COTTON ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [COTTON]-[WBNB] Cake LP [+] [-] [<=>] Price: $0.02 TVL: $34.37
+COTTON Price: $0.0000002070
+WBNB Price: $368.63
+Staked: 1235.1885 Cake-LP ($24.98)
+COTTON Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [COTTON]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [COTTON]-[WBNB] Cake LP
+Unstake 0.00 [COTTON]-[WBNB] Cake LP
+Claim 0.00 COTTON ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [COTTON]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $17.34
+COTTON Price: $0.0000002070
+BUSD Price: $1.00
+Staked: 11976.8544 Cake-LP ($12.43)
+COTTON Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [COTTON]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [COTTON]-[BUSD] Cake LP
+Unstake 0.00 [COTTON]-[BUSD] Cake LP
+Claim 0.00 COTTON ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [DOT]-[WBNB] Cake LP [+] [-] [<=>] Price: $172.65 TVL: $17,724,141.38
+DOT Price: $17.96
+WBNB Price: $368.63
+Staked: 0.0096 Cake-LP ($1.66)
+COTTON Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 COTTON ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $296,603,006.62
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 418.8156 Cake-LP ($875.97)
+COTTON Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 COTTON ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $131,178,529.75
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 13.7881 Cake-LP ($28.75)
+COTTON Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 COTTON ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [DAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.08 TVL: $16,831,753.19
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+COTTON Per Week: 0.00 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 COTTON ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $7,735.44 TVL: $68,406,065.52
+BTCB Price: $36,165.00
+WBNB Price: $368.63
+Staked: 0.0031 Cake-LP ($23.60)
+COTTON Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 COTTON ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,036.97 TVL: $74,211,088.13
+ETH Price: $2,436.91
+WBNB Price: $368.63
+Staked: 0.1045 Cake-LP ($212.83)
+COTTON Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 COTTON ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.41 TVL: $345,892,601.48
+WBNB Price: $368.63
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+COTTON Per Week: 0.00 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 COTTON ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - BUSD Price: $1.00 Market Cap: $4,837,513,610.33 [%]
+Staked: 20.6898 BUSD ($20.63)
+COTTON Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 COTTON ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - DOT Price: $17.96 Market Cap: $287,359,999.84 [%]
+Staked: 3.5598 DOT ($63.93)
+COTTON Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 COTTON ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - USDT Price: $1.00 Market Cap: $3,873,626,965.59 [%]
+Staked: 115.9925 USDT ($115.80)
+COTTON Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 COTTON ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - USDC Price: $1.00 Market Cap: $1,774,602,312.00 [%]
+Staked: 91.6654 USDC ($91.44)
+COTTON Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 COTTON ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - DAI Price: $1.00 Market Cap: $261,564,556.00 [%]
+Staked: 96.7950 DAI ($96.63)
+COTTON Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 COTTON ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - BTCB Price: $36,165.00 Market Cap: $4,068,598,665.00 [%]
+Staked: 0.0000 BTCB ($0.00)
+COTTON Per Week: 0.00 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 BTCB ($0.00), NaN% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 COTTON ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - ETH Price: $2,436.91 Market Cap: $3,423,858,550.00 [%]
+Staked: 0.0086 ETH ($20.84)
+COTTON Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 COTTON ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - WBNB Price: $368.63 Market Cap: $1,924,367,261.91 [%]
+Staked: 0.0577 WBNB ($21.27)
+COTTON Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 COTTON ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $1,658.29

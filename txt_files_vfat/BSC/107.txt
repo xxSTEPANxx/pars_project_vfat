@@ -1,0 +1,61 @@
+*************** 👨‍🌾 UNOFFICIAL VOODOO.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://voodoo.supra.finance
+***********************************************************************************
+
+Thu Jan 27 2022 20:35:14 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 16 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [VOODOO]-[WBNB] Cake LP [+] [-] [<=>] Price: $1.33 TVL: $659.97
+VOODOO Price: $0.000909
+WBNB Price: $370.43
+Staked: 344.0912 Cake-LP ($458.69)
+VOODOO Per Week: 7466.67 ($6.78)
+APR: Day 0.21% Week 1.48% Year 76.92%
+You are staking 0.00 [VOODOO]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [VOODOO]-[WBNB] Cake LP
+Unstake 0.00 [VOODOO]-[WBNB] Cake LP
+Claim 0.00 VOODOO ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - VOODOO Price: $0.000909 Market Cap: $1,032.93 [%]
+Staked: 491534.0908 VOODOO ($446.66)
+VOODOO Per Week: 7466.67 ($6.78)
+APR: Day 0.22% Week 1.52% Year 78.99%
+You are staking 0.00 VOODOO ($0.00), 0.00% of the pool.
+Stake 0.00 VOODOO
+Unstake 0.00 VOODOO
+Claim 0.00 VOODOO ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [VOODOO]-[WBNB] Trisolaris LP Token [+] [-] [<=>] Price: $1.22 TVL: $25.15
+VOODOO Price: $0.000909
+WBNB Price: $370.43
+Staked: 20.0700 TLP ($24.46)
+VOODOO Per Week: 746.67 ($0.68)
+APR: Day 0.40% Week 2.77% Year 144.24%
+You are staking 0.00 [VOODOO]-[WBNB] Trisolaris LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [VOODOO]-[WBNB] Trisolaris LP Token
+Unstake 0.00 [VOODOO]-[WBNB] Trisolaris LP Token
+Claim 0.00 VOODOO ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [VOODOO]-[WBNB] Uni LP [+] [-] [<=>] Price: $1.19 TVL: $104.70
+VOODOO Price: $0.000909
+WBNB Price: $370.43
+Staked: 44.8551 Slime-LP ($53.23)
+VOODOO Per Week: 4480.00 ($4.07)
+APR: Day 1.09% Week 7.65% Year 397.73%
+You are staking 0.00 [VOODOO]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [VOODOO]-[WBNB] Uni LP
+Unstake 0.00 [VOODOO]-[WBNB] Uni LP
+Claim 0.00 VOODOO ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $983.03

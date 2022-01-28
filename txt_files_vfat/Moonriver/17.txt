@@ -1,0 +1,110 @@
+*************** 👨‍🌾 UNOFFICIAL SUSHI FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://app.sushi.com
+**************************************************************************
+
+Fri Jan 28 2022 01:15:44 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 9 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+[ETH]-[WBTC.eth] SLP [+] [-] [<=>] Price: $1,606,321,951.01 TVL: $7,878,848.95
+ETH Price: $2,062.28
+WBTC.eth Price: $31,153.68
+Staked: 0.0049 SLP ($7,872,638.21)
+SUSHI Per Week: 1580.65 ($6,148.71)
+MOVR Per Week: 105.38 ($7,549.16)
+APR SUSHI: Day 0.01% Week 0.08% Year 4.06%
+APR MOVR: Day 0.01% Week 0.10% Year 4.99%
+Total Per Week: $13,697.87
+Total APR: Day 0.0249% Week 0.17% Year 9.05%
+You are staking 0.00 [ETH]-[WBTC.eth] SLP ($0.00), 0.00% of the pool.
+
+[ETH]-[BNB.bsc] SLP [+] [-] [<=>] Price: $1,640.73 TVL: $1,475,574.39
+ETH Price: $2,062.28
+BNB.bsc Price: $324.44
+Staked: 898.7331 SLP ($1,474,581.27)
+SUSHI Per Week: 903.23 ($3,513.55)
+MOVR Per Week: 60.22 ($4,313.81)
+APR SUSHI: Day 0.03% Week 0.24% Year 12.39%
+APR MOVR: Day 0.04% Week 0.29% Year 15.21%
+Total Per Week: $7,827.35
+Total APR: Day 0.0758% Week 0.53% Year 27.60%
+You are staking 0.00 [ETH]-[BNB.bsc] SLP ($0.00), 0.00% of the pool.
+
+[ETH]-[USDT] SLP [+] [-] [<=>] Price: $92,278,851.67 TVL: $4,109,378.77
+ETH Price: $2,062.28
+USDT Price: $1.00
+Staked: 0.0444 SLP ($4,093,180.59)
+SUSHI Per Week: 2032.26 ($7,905.48)
+MOVR Per Week: 135.48 ($9,706.06)
+APR SUSHI: Day 0.03% Week 0.19% Year 10.04%
+APR MOVR: Day 0.03% Week 0.24% Year 12.33%
+Total Per Week: $17,611.55
+Total APR: Day 0.0615% Week 0.43% Year 22.37%
+You are staking 0.00 [ETH]-[USDT] SLP ($0.00), 0.00% of the pool.
+
+[USDT]-[USDC] SLP [+] [-] [<=>] Price: $2,008,517,262,383.10 TVL: $5,899,084.93
+USDT Price: $1.00
+USDC Price: $1.00
+Staked: 0.0000 SLP ($5,879,336.53)
+SUSHI Per Week: 846.77 ($3,293.95)
+MOVR Per Week: 56.45 ($4,044.19)
+APR SUSHI: Day 0.01% Week 0.06% Year 2.91%
+APR MOVR: Day 0.01% Week 0.07% Year 3.58%
+Total Per Week: $7,338.15
+Total APR: Day 0.0178% Week 0.12% Year 6.49%
+You are staking 0.00 [USDT]-[USDC] SLP ($0.00), 0.00% of the pool.
+
+[ETH]-[WMOVR] SLP [+] [-] [<=>] Price: $764.40 TVL: $3,000,957.46
+ETH Price: $2,062.28
+WMOVR Price: $62.91
+Staked: 3905.0024 SLP ($2,984,994.68)
+SUSHI Per Week: 3951.61 ($15,371.77)
+MOVR Per Week: 263.44 ($18,872.90)
+APR SUSHI: Day 0.07% Week 0.51% Year 26.78%
+APR MOVR: Day 0.09% Week 0.63% Year 32.88%
+Total Per Week: $34,244.68
+Total APR: Day 0.1639% Week 1.15% Year 59.66%
+You are staking 0.00 [ETH]-[WMOVR] SLP ($0.00), 0.00% of the pool.
+
+[FRAX]-[USDC] SLP [+] [-] [<=>] Price: $2,144,319.58 TVL: $3,442,631.28
+FRAX Price: $1.00
+USDC Price: $1.00
+Staked: 1.5778 SLP ($3,383,264.67)
+SUSHI Per Week: 508.06 ($1,976.37)
+MOVR Per Week: 33.87 ($2,426.52)
+APR SUSHI: Day 0.01% Week 0.06% Year 3.04%
+APR MOVR: Day 0.01% Week 0.07% Year 3.73%
+Total Per Week: $4,402.89
+Total APR: Day 0.0186% Week 0.13% Year 6.77%
+You are staking 0.00 [FRAX]-[USDC] SLP ($0.00), 0.00% of the pool.
+
+[MIM]-[WMOVR] SLP [+] [-] [<=>] Price: $15.26 TVL: $338,940.09
+MIM Price: $0.86
+WMOVR Price: $62.91
+Staked: 20659.3472 SLP ($315,180.11)
+SUSHI Per Week: 338.71 ($1,317.58)
+MOVR Per Week: 22.58 ($1,617.68)
+APR SUSHI: Day 0.06% Week 0.42% Year 21.74%
+APR MOVR: Day 0.07% Week 0.51% Year 26.69%
+Total Per Week: $2,935.26
+Total APR: Day 0.1330% Week 0.93% Year 48.43%
+You are staking 0.00 [MIM]-[WMOVR] SLP ($0.00), 0.00% of the pool.
+
+[ETH]-[DAI] SLP [+] [-] [<=>] Price: $92.07 TVL: $714,843.02
+ETH Price: $2,062.28
+DAI Price: $1.00
+Staked: 7559.0979 SLP ($696,001.45)
+SUSHI Per Week: 338.71 ($1,317.58)
+MOVR Per Week: 22.58 ($1,617.68)
+APR SUSHI: Day 0.03% Week 0.19% Year 9.84%
+APR MOVR: Day 0.03% Week 0.23% Year 12.09%
+Total Per Week: $2,935.26
+Total APR: Day 0.0602% Week 0.42% Year 21.93%
+You are staking 0.00 [ETH]-[DAI] SLP ($0.00), 0.00% of the pool.
+
+Total Staked: $26,699,177.52

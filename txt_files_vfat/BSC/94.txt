@@ -1,0 +1,205 @@
+*************** 👨‍🌾 UNOFFICIAL JADE FINANCE CALCULATOR 👨‍🌾 ***************
+INFO  : https://jadedefi.com
+*************************************************************************
+
+Thu Jan 27 2022 20:32:43 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 17 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [JADE]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.03 TVL: $19.90
+JADE Price: $0.000138
+BUSD Price: $1.00
+Staked: 736.4450 Cake-LP ($18.65)
+JADE Per Week: 52025.81 ($7.20)
+APR: Day 5.52% Week 38.61% Year 2007.91%
+You are staking 0.00 [JADE]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [JADE]-[BUSD] Cake LP
+Unstake 0.00 [JADE]-[BUSD] Cake LP
+Claim 0.00 JADE ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [Cake]-[JADE] Cake LP [+] [-] [<=>] Price: $0.07 TVL: $14.30
+Cake Price: $7.20
+JADE Price: $0.000138
+Staked: 211.1854 Cake-LP ($13.98)
+JADE Per Week: 52025.81 ($7.20)
+APR: Day 7.36% Week 51.53% Year 2679.38%
+You are staking 0.00 [Cake]-[JADE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[JADE] Cake LP
+Unstake 0.00 [Cake]-[JADE] Cake LP
+Claim 0.00 JADE ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [JADE]-[WBNB] Cake LP [+] [-] [<=>] Price: $0.49 TVL: $3.75
+JADE Price: $0.000138
+WBNB Price: $370.99
+Staked: 5.4412 Cake-LP ($2.66)
+JADE Per Week: 26012.90 ($3.60)
+APR: Day 19.37% Week 135.57% Year 7049.69%
+You are staking 0.00 [JADE]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [JADE]-[WBNB] Cake LP
+Unstake 0.00 [JADE]-[WBNB] Cake LP
+Claim 0.00 JADE ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $8,252.65 TVL: $299,907.56
+BTCB Price: $36,472.00
+WBNB Price: $370.99
+Staked: 0.0013 Cake-LP ($10.56)
+JADE Per Week: 7803.87 ($1.08)
+APR: Day 1.46% Week 10.23% Year 531.94%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4.5%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 JADE ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.17 TVL: $3,560,175.62
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 9.6145 Cake-LP ($20.89)
+JADE Per Week: 5202.58 ($0.72)
+APR: Day 0.49% Week 3.45% Year 179.23%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4.5%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 JADE ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.28 TVL: $253,612.57
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 11.9218 Cake-LP ($27.20)
+JADE Per Week: 5202.58 ($0.72)
+APR: Day 0.38% Week 2.65% Year 137.68%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4.5%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 JADE ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $66.08 TVL: $2,138,266.46
+WBNB Price: $370.99
+BUSD Price: $1.00
+Staked: 0.1320 Cake-LP ($8.72)
+JADE Per Week: 5202.58 ($0.72)
+APR: Day 1.18% Week 8.25% Year 429.25%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4.5%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 JADE ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [Cake]-[BUSD] Cake LP [+] [-] [<=>] Price: $8.70 TVL: $68,807.13
+Cake Price: $7.20
+BUSD Price: $1.00
+Staked: 1.5004 Cake-LP ($13.05)
+JADE Per Week: 5202.58 ($0.72)
+APR: Day 0.79% Week 5.52% Year 286.89%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP - Fee 4.5%
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 JADE ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $124.40 TVL: $3,359,152.95
+Cake Price: $7.20
+WBNB Price: $370.99
+Staked: 0.0067 Cake-LP ($0.83)
+JADE Per Week: 5202.58 ($0.72)
+APR: Day 12.37% Week 86.60% Year 4503.09%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4.5%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 JADE ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [DOT]-[WBNB] Cake LP [+] [-] [<=>] Price: $180.20 TVL: $322,891.06
+DOT Price: $18.02
+WBNB Price: $370.99
+Staked: 0.0000 Cake-LP ($0.00)
+JADE Per Week: 5202.58 ($0.72)
+APR: Day 5885722614.80% Week 41200058303.62% Year 2142403031788.14%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4.5%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 JADE ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - JADE Price: $0.000138 Market Cap: $138.88 [%]
+Staked: 380860.8709 JADE ($52.72)
+JADE Per Week: 13006.45 ($1.80)
+APR: Day 0.49% Week 3.42% Year 177.58%
+You are staking 0.00 JADE ($0.00), 0.00% of the pool.
+Stake 0.00 JADE
+Unstake 0.00 JADE
+Claim 0.00 JADE ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - BTCB Price: $36,472.00 Market Cap: $4,103,136,472.00 [%]
+Staked: 0.0001 BTCB ($3.25)
+JADE Per Week: 3901.94 ($0.54)
+APR: Day 2.38% Week 16.64% Year 865.38%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4.5%
+Unstake 0.00 BTCB
+Claim 0.00 JADE ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - ETH Price: $2,464.02 Market Cap: $3,461,948,100.00 [%]
+Staked: 0.0297 ETH ($73.26)
+JADE Per Week: 3901.94 ($0.54)
+APR: Day 0.11% Week 0.74% Year 38.34%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4.5%
+Unstake 0.00 ETH
+Claim 0.00 JADE ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - WBNB Price: $370.99 Market Cap: $1,937,277,981.03 [%]
+Staked: 0.0096 WBNB ($3.54)
+JADE Per Week: 3901.94 ($0.54)
+APR: Day 2.18% Week 15.24% Year 792.71%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4.5%
+Unstake 0.00 WBNB
+Claim 0.00 JADE ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - Cake Price: $7.20 Market Cap: $4,427,643,072.28 [%]
+Staked: 2.9074 Cake ($20.93)
+JADE Per Week: 2601.29 ($0.36)
+APR: Day 0.25% Week 1.72% Year 89.44%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4.5%
+Unstake 0.00 Cake
+Claim 0.00 JADE ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - DOT Price: $18.02 Market Cap: $288,319,999.84 [%]
+Staked: 0.0000 DOT ($0.00)
+JADE Per Week: 2601.29 ($0.36)
+APR: Day 22120.23% Week 154841.58% Year 8051762.37%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4.5%
+Unstake 0.00 DOT
+Claim 0.00 JADE ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - EGG Price: $0.14 Market Cap: $1,104,756.66 [%]
+Staked: 0.0003 EGG ($0.00)
+JADE Per Week: 2601.29 ($0.36)
+APR: Day 136324.10% Week 954268.73% Year 49621974.04%
+You are staking 0.00 EGG ($0.00), 0.00% of the pool.
+Stake 0.00 EGG - Fee 4.5%
+Unstake 0.00 EGG
+Claim 0.00 JADE ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $270.24

@@ -1,0 +1,229 @@
+*************** 👨‍🌾 FBOMB.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://fbomb.finance
+***************************************************************************************
+
+Fri Jan 28 2022 00:41:05 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 44 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [WFTM]-[SHRAP] BLP [+] [-] [<=>] Price: $29.03 TVL: $384,596.35
+WFTM Price: $2.02
+SHRAP Price: $101.49
+Staked: 4648.7398 BLP ($134,960.05)
+SHRAP Per Week: 34.51 ($3,502.05)
+APR: Day 0.37% Week 2.59% Year 134.93%
+You are staking 0.00 [WFTM]-[SHRAP] BLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[SHRAP] BLP
+Unstake 0.00 [WFTM]-[SHRAP] BLP
+Claim 0.00 SHRAP ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WFTM]-[BOMB] BLP [+] [-] [<=>] Price: $38,389,302,421.07 TVL: $180,417.90
+WFTM Price: $2.02
+BOMB Price: $0.001449
+Staked: 0.0000 BLP ($176,156.59)
+SHRAP Per Week: 34.51 ($3,502.05)
+APR: Day 0.28% Week 1.99% Year 103.38%
+You are staking 0.00 [WFTM]-[BOMB] BLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BOMB] BLP
+Unstake 0.00 [WFTM]-[BOMB] BLP
+Claim 0.00 SHRAP ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [BOMB]-[SHRAP] BLP [+] [-] [<=>] Price: $818,543,019.94 TVL: $51,955.50
+BOMB Price: $0.001449
+SHRAP Price: $101.49
+Staked: 0.0001 BLP ($49,940.17)
+SHRAP Per Week: 13.80 ($1,400.82)
+APR: Day 0.40% Week 2.80% Year 145.86%
+You are staking 0.00 [BOMB]-[SHRAP] BLP ($0.00), 0.00% of the pool.
+Stake 0.00 [BOMB]-[SHRAP] BLP
+Unstake 0.00 [BOMB]-[SHRAP] BLP
+Claim 0.00 SHRAP ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [USDC]-[WFTM] BLP [+] [-] [<=>] Price: $3,057,608.55 TVL: $40,823.60
+USDC Price: $1.00
+WFTM Price: $2.02
+Staked: 0.0128 BLP ($39,165.24)
+SHRAP Per Week: 2.07 ($210.12)
+APR: Day 0.08% Week 0.54% Year 27.90%
+You are staking 0.00 [USDC]-[WFTM] BLP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WFTM] BLP
+Unstake 0.00 [USDC]-[WFTM] BLP
+Claim 0.00 SHRAP ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [WFTM]-[BTC] BLP [+] [-] [<=>] Price: $55,037,888.32 TVL: $18,105.23
+WFTM Price: $2.02
+BTC Price: $35,870.00
+Staked: 0.0003 BLP ($18,057.19)
+SHRAP Per Week: 2.07 ($210.12)
+APR: Day 0.17% Week 1.16% Year 60.51%
+You are staking 0.00 [WFTM]-[BTC] BLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BTC] BLP
+Unstake 0.00 [WFTM]-[BTC] BLP
+Claim 0.00 SHRAP ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [WFTM]-[ETH] BLP [+] [-] [<=>] Price: $140.11 TVL: $19,749.62
+WFTM Price: $2.02
+ETH Price: $2,318.39
+Staked: 140.6360 BLP ($19,704.25)
+SHRAP Per Week: 2.07 ($210.12)
+APR: Day 0.15% Week 1.07% Year 55.45%
+You are staking 0.00 [WFTM]-[ETH] BLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ETH] BLP
+Unstake 0.00 [WFTM]-[ETH] BLP
+Claim 0.00 SHRAP ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [bBOMB]-[BOMB] BLP [+] [-] [<=>] Price: $243,878.03 TVL: $60,015.27
+bBOMB Price: $0.0000030823
+BOMB Price: $0.001449
+Staked: 0.2453 BLP ($59,817.37)
+SHRAP Per Week: 3.45 ($350.21)
+APR: Day 0.08% Week 0.59% Year 30.44%
+You are staking 0.00 [bBOMB]-[BOMB] BLP ($0.00), 0.00% of the pool.
+Stake 0.00 [bBOMB]-[BOMB] BLP
+Unstake 0.00 [bBOMB]-[BOMB] BLP
+Claim 0.00 SHRAP ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [WFTM]-[MIM] BLP [+] [-] [<=>] Price: $2.94 TVL: $7,388.81
+WFTM Price: $2.02
+MIM Price: $1.00
+Staked: 2418.9729 BLP ($7,116.53)
+SHRAP Per Week: 2.07 ($210.12)
+APR: Day 0.42% Week 2.95% Year 153.54%
+You are staking 0.00 [WFTM]-[MIM] BLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[MIM] BLP
+Unstake 0.00 [WFTM]-[MIM] BLP
+Claim 0.00 SHRAP ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - [KEK]-[SHRAP] BLP [+] [-] [<=>] Price: $5.22 TVL: $9,882.93
+KEK Price: $0.07
+SHRAP Price: $101.49
+Staked: 1890.4946 BLP ($9,862.14)
+SHRAP Per Week: 2.07 ($210.12)
+APR: Day 0.30% Week 2.13% Year 110.79%
+You are staking 0.00 [KEK]-[SHRAP] BLP ($0.00), 0.00% of the pool.
+Stake 0.00 [KEK]-[SHRAP] BLP
+Unstake 0.00 [KEK]-[SHRAP] BLP
+Claim 0.00 SHRAP ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - [COFFIN]-[SHRAP] BLP [+] [-] [<=>] Price: $5.44 TVL: $2,068.02
+COFFIN Price: $0.07
+SHRAP Price: $101.49
+Staked: 379.0151 BLP ($2,060.93)
+SHRAP Per Week: 1.38 ($140.08)
+APR: Day 0.97% Week 6.80% Year 353.45%
+You are staking 0.00 [COFFIN]-[SHRAP] BLP ($0.00), 0.00% of the pool.
+Stake 0.00 [COFFIN]-[SHRAP] BLP
+Unstake 0.00 [COFFIN]-[SHRAP] BLP
+Claim 0.00 SHRAP ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - [sSPELL]-[SHRAP] BLP [+] [-] [<=>] Price: $1.70 TVL: $3,843.25
+sSPELL Price: $0.006200
+SHRAP Price: $101.49
+Staked: 2240.5810 BLP ($3,817.26)
+SHRAP Per Week: 1.38 ($140.08)
+APR: Day 0.52% Week 3.67% Year 190.82%
+You are staking 0.00 [sSPELL]-[SHRAP] BLP ($0.00), 0.00% of the pool.
+Stake 0.00 [sSPELL]-[SHRAP] BLP
+Unstake 0.00 [sSPELL]-[SHRAP] BLP
+Claim 0.00 SHRAP ($0.00)
+Staking or unstaking also claims rewards.
+
+29 - [nICE]-[SHRAP] BLP [+] [-] [<=>] Price: $42.10 TVL: $2,721.69
+nICE Price: $3.73
+SHRAP Price: $101.49
+Staked: 64.1309 BLP ($2,699.60)
+SHRAP Per Week: 1.38 ($140.08)
+APR: Day 0.74% Week 5.19% Year 269.83%
+You are staking 0.00 [nICE]-[SHRAP] BLP ($0.00), 0.00% of the pool.
+Stake 0.00 [nICE]-[SHRAP] BLP
+Unstake 0.00 [nICE]-[SHRAP] BLP
+Claim 0.00 SHRAP ($0.00)
+Staking or unstaking also claims rewards.
+
+32 - [SHRAP]-[wMEMO] BLP [+] [-] [<=>] Price: $3,076.43 TVL: $4,686.31
+SHRAP Price: $101.49
+wMEMO Price: $20,458.56
+Staked: 1.5183 BLP ($4,670.88)
+SHRAP Per Week: 1.38 ($140.08)
+APR: Day 0.43% Week 3.00% Year 155.95%
+You are staking 0.00 [SHRAP]-[wMEMO] BLP ($0.00), 0.00% of the pool.
+Stake 0.00 [SHRAP]-[wMEMO] BLP
+Unstake 0.00 [SHRAP]-[wMEMO] BLP
+Claim 0.00 SHRAP ($0.00)
+Staking or unstaking also claims rewards.
+
+37 - [SMART]-[SHRAP] BLP [+] [-] [<=>] Price: $47.78 TVL: $1,451.72
+SMART Price: $4.91
+SHRAP Price: $101.49
+Staked: 30.3313 BLP ($1,449.17)
+SHRAP Per Week: 1.38 ($140.08)
+APR: Day 1.38% Week 9.67% Year 502.65%
+You are staking 0.00 [SMART]-[SHRAP] BLP ($0.00), 0.00% of the pool.
+Stake 0.00 [SMART]-[SHRAP] BLP
+Unstake 0.00 [SMART]-[SHRAP] BLP
+Claim 0.00 SHRAP ($0.00)
+Staking or unstaking also claims rewards.
+
+38 - [SLURP]-[SHRAP] BLP [+] [-] [<=>] Price: $341.94 TVL: $3,744.96
+SLURP Price: $282.60
+SHRAP Price: $101.49
+Staked: 10.9292 BLP ($3,737.17)
+SHRAP Per Week: 1.38 ($140.08)
+APR: Day 0.54% Week 3.75% Year 194.91%
+You are staking 0.00 [SLURP]-[SHRAP] BLP ($0.00), 0.00% of the pool.
+Stake 0.00 [SLURP]-[SHRAP] BLP
+Unstake 0.00 [SLURP]-[SHRAP] BLP
+Claim 0.00 SHRAP ($0.00)
+Staking or unstaking also claims rewards.
+
+41 - [bDANI]-[BOMB] BLP [+] [-] [<=>] Price: $194,681.59 TVL: $23,517.77
+bDANI Price: $0.0000046398
+BOMB Price: $0.001449
+Staked: 0.0146 BLP ($2,843.30)
+SHRAP Per Week: 3.45 ($350.21)
+APR: Day 1.76% Week 12.32% Year 640.48%
+You are staking 0.00 [bDANI]-[BOMB] BLP ($0.00), 0.00% of the pool.
+Stake 0.00 [bDANI]-[BOMB] BLP
+Unstake 0.00 [bDANI]-[BOMB] BLP
+Claim 0.00 SHRAP ($0.00)
+Staking or unstaking also claims rewards.
+
+43 - MidasShrapDummyToken Price: $0.00 Market Cap: $0.00 
+Staked: 1.0000 MidasShrapDummyToken ($0.00)
+SHRAP Per Week: 6.90 ($700.41)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 MidasShrapDummyToken ($0.00), NaN% of the pool.
+Stake 0.00 MidasShrapDummyToken
+Unstake 0.00 MidasShrapDummyToken
+Claim 0.00 SHRAP ($0.00)
+Staking or unstaking also claims rewards.
+
+44 - [WFTM]-[Nova] BLP [+] [-] [<=>] Price: $13,940.43 TVL: $12,512.53
+WFTM Price: $2.02
+Nova Price: $0.02
+Staked: 0.6336 BLP ($8,833.25)
+SHRAP Per Week: 2.07 ($210.12)
+APR: Day 0.34% Week 2.38% Year 123.70%
+You are staking 0.00 [WFTM]-[Nova] BLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[Nova] BLP
+Unstake 0.00 [WFTM]-[Nova] BLP
+Claim 0.00 SHRAP ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $544,891.09

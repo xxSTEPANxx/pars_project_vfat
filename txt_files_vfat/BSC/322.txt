@@ -1,0 +1,73 @@
+************************ BINANCE SMART CHAIN *************************
+
+ *
+ *  _____                     _____        _         _
+ * |  __ \                   |  __ \      (_)       | |
+ * | |__) |__ _  _ __   _ __ | |__) |_ __  _  _ __  | |_  _ __
+ * |  ___// _  ||  _ \ |  __||  ___/|  __|| ||  _ \ | __||  __|
+ * | |   | (_| || |_) || |   | |    | |   | || | | || |_ | |
+ * |_|    \__,_|| .__/ |_|   |_|    |_|   |_||_| |_| \__||_|
+ *              |_|
+ *
+
+*************** 👨‍🌾 UNOFFICIAL PAPRPRINTR CALCULATOR 👨‍🌾 **************
+INFO    : https://paprprintr.finance
+TWITTER : https://twitter.com/paprprintr
+TELEGRAM: https://t.me/paprprintr
+**********************************************************************
+
+Thu Jan 27 2022 21:13:01 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Total Supply: 95548 PAPR
+Fully diluted marketcap: $96,674.01
+Price: 1 PAPR = $1.0118
+Your balance: 0.00 PAPR = $0.00
+
+Total Supply: 100000 PRNTR
+Fully diluted marketcap: $72,870.23
+Price: 1 PRNTR = $0.7287
+Your balance: 0.00 PRNTR =  $0.00
+
+-------------------------------------------------
+
+TREASURY INFORMATION
+
+Epoch duration = 6 hours
+Fixed expansion during bootstrap of 1 epochs
+Current epoch = 986
+Next epoch in 3h 46m 57s
+-------------------------------------------------
+
+POOLS INFORMATION
+
+PAPRBUSDPool
+Total supply: 11375 liquidity pool tokens
+(Total Value Locked $26,601.02)
+Price: 1 LP token = $2.3385 = 1.1410990 PAPR * $1.01 + 1.1877 BUSD * $1.00
+Epoch (6 hours) Day Week Month Year
+APR 0.09% 0.37% 2.57% 11.12% 133.50%
+PRNTR/LP 0.00 PRNTR/LP 0.00 PRNTR/LP 0.02 PRNTR/LP 0.09 PRNTR/LP 1.10 PRNTR/LP
+Bank Yield for
+ 0.0000 LP staked 0.00 PRNTR ($0.00) 0.00 PRNTR ($0.00) 0.00 PRNTR ($0.00) 0.00 PRNTR ($0.00) 0.00 PRNTR ($0.00)
+
+You have staked 0.0000 CakeLPPAPRBUSD ($0.00) = 0.000000 PAPR ($0.00000) + 0.0000 BUSD ($0.00000)
+You can claim 0.0000 PRNTR ($0.00)
+-------------------------------------------------
+
+PRNTRBUSDPool
+Total supply: 7886 liquidity pool tokens
+(Total Value Locked $13,911.59)
+Price: 1 LP token = $1.7642 = 1.2124311 PRNTR * $0.73 + 0.8835 BUSD * $1.00
+Epoch (6 hours) Day Week Month Year
+APR 0.12% 0.49% 3.43% 14.85% 178.24%
+PRNTR/LP 0.00 PRNTR/LP 0.00 PRNTR/LP 0.02 PRNTR/LP 0.09 PRNTR/LP 1.11 PRNTR/LP
+Bank Yield for
+ 0.0000 LP staked 0.00 PRNTR ($0.00) 0.00 PRNTR ($0.00) 0.00 PRNTR ($0.00) 0.00 PRNTR ($0.00) 0.00 PRNTR ($0.00)
+
+You have staked 0.0000 CakeLPPRNTRBUSD ($0.00) = 0.000000 PRNTR ($0.00000) + 0.0000 BUSD ($0.00000)
+You can claim 0.0000 PRNTR ($0.00)
+-------------------------------------------------

@@ -1,0 +1,79 @@
+*************** 👨‍🌾 UNOFFICIAL HELMET FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://www.helmet.insure
+***************************************************************************
+
+Thu Jan 27 2022 20:28:37 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+[Helmet]-[WBNB] Cake LP [+] [-] [<=>] Price: $9.64 TVL: $276,130.64
+Helmet Price: $0.06
+WBNB Price: $370.65
+Staked: 27074.9671 Cake-LP ($260,961.23)
+Helmet Per Week: 9584.74 ($558.83)
+Helmet APR: Day 0.0306% Week 0.2141% Year 11.1355%
+Cake Per Week: 0.00 ($0.00)
+Cake APR: Day 0.0000% Week 0.0000% Year 0.0000%
+You are staking 0.000000 [Helmet]-[WBNB] Cake LP $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 [Helmet]-[WBNB] Cake LP
+Unstake 0.000000 [Helmet]-[WBNB] Cake LP
+Claim 0.000000 Helmet ($0.00) 0.000000 Cake ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[Helmet]-[WBNB] Uni LP [+] [-] [<=>] Price: $9.37 TVL: $53,545.30
+Helmet Price: $0.06
+WBNB Price: $370.65
+Staked: 2057.1991 MDEX LP ($19,266.80)
+BHelmet Per Week: 0.00 ($0.00)
+BHelmet APR: Day NaN% Week NaN% Year NaN%
+MDX Per Week: 5912.52 ($1,355.10)
+MDX APR: Day 0.3681% Week 2.5770% Year 134.0016%
+You are staking 0.000000 [Helmet]-[WBNB] Uni LP $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 [Helmet]-[WBNB] Uni LP
+Unstake 0.000000 [Helmet]-[WBNB] Uni LP
+Claim 0.000000 BHelmet ($0.00) 0.000000 MDX ($0.00)
+Revoke (set approval to 0)
+Exit
+
+Helmet Price: $0.06 Market Cap: $2,915,229.93 [%]
+Staked: 24910418.2940 Helmet ($1,452,391.94)
+Helmet Per Week: 15894.54 ($926.72)
+Helmet APR: Day 0.0091% Week 0.0638% Year 3.3180%
+You are staking 0.000000 Helmet $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 Helmet
+Unstake 0.000000 Helmet
+Claim 0.000000 Helmet ($0.00)
+Revoke (set approval to 0)
+Exit
+
+DLP Price: $0.00 Market Cap: $0.00 
+Staked: 32006.1975 DLP ($0.00)
+KUN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 DLP $0.00 (NaN% of the pool).
+BSC Scan
+Stake 0.000000 DLP
+Unstake 0.000000 DLP
+Claim 0.000000 KUN ($0.00)
+Revoke (set approval to 0)
+Exit
+
+DLP Price: $0.00 Market Cap: $0.00 
+Staked: 71019.2972 DLP ($0.00)
+QHelmet Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 DLP $0.00 (NaN% of the pool).
+BSC Scan
+Stake 0.000000 DLP
+Unstake 0.000000 DLP
+Claim 0.000000 QHelmet ($0.00)
+Revoke (set approval to 0)
+Exit
+
+Total staked: $1,732,619.97

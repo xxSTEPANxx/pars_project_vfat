@@ -1,0 +1,92 @@
+***************************** AVALANCHE ******************************************
+    
+*************** 👨‍🌾 UNOFFICIAL STORMSWAP.FINANCE FARMING CALCULATOR 👨‍🌾 ***********
+INFO  : https://swiftfinance.farm
+**********************************************************************************
+
+Fri Jan 28 2022 00:17:58 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 16 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [SWIFT]-[WAVAX] JLP [+] [-] [<=>] Price: $6.17 TVL: $38,422.37
+SWIFT Price: $0.09
+WAVAX Price: $61.60
+Staked: 0.1382 JLP ($0.85)
+SWIFT Per Week: 3123.83 ($290.16)
+APR: Day 4863.71% Week 34045.98% Year 1770391.19%
+You are staking 0.00 [SWIFT]-[WAVAX] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [SWIFT]-[WAVAX] JLP - Fee 3.5%
+Unstake 0.00 [SWIFT]-[WAVAX] JLP
+Claim 0.00 SWIFT ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [SWIFT]-[USDC.e] JLP [+] [-] [<=>] Price: $708,731.55 TVL: $40,165.23
+SWIFT Price: $0.09
+USDC.e Price: $1.00
+Staked: 0.0000 JLP ($0.00)
+SWIFT Per Week: 3123.83 ($290.16)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [SWIFT]-[USDC.e] JLP ($0.00), NaN% of the pool.
+Stake 0.00 [SWIFT]-[USDC.e] JLP - Fee 3.5%
+Unstake 0.00 [SWIFT]-[USDC.e] JLP
+Claim 0.00 SWIFT ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - SWIFT Price: $0.09 Market Cap: $140,929.04 
+Staked: 5224.3177 SWIFT ($485.26)
+SWIFT Per Week: 3123.83 ($290.16)
+APR: Day 8.54% Week 59.79% Year 3109.29%
+You are staking 0.00 SWIFT ($0.00), 0.00% of the pool.
+Stake 0.00 SWIFT - Fee 3.5%
+Unstake 0.00 SWIFT
+Claim 0.00 SWIFT ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - WAVAX Price: $61.60 Market Cap: $1,043,319,430.03 
+Staked: 0.0000 WAVAX ($0.00)
+SWIFT Per Week: 3123.83 ($290.16)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 WAVAX ($0.00), NaN% of the pool.
+Stake 0.00 WAVAX - Fee 3.5%
+Unstake 0.00 WAVAX
+Claim 0.00 SWIFT ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - USDC.e Price: $1.00 Market Cap: $1,443,186,354.44 
+Staked: 0.0000 USDC.e ($0.00)
+SWIFT Per Week: 3123.83 ($290.16)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 USDC.e ($0.00), NaN% of the pool.
+Stake 0.00 USDC.e - Fee 3.5%
+Unstake 0.00 USDC.e
+Claim 0.00 SWIFT ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [SWIFT]-[WETH.e] JLP [+] [-] [<=>] Price: $31.13 TVL: $30,188.95
+SWIFT Price: $0.09
+WETH.e Price: $2,312.33
+Staked: 0.0303 JLP ($0.94)
+SWIFT Per Week: 3123.83 ($290.16)
+APR: Day 4390.30% Week 30732.13% Year 1598070.52%
+You are staking 0.00 [SWIFT]-[WETH.e] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [SWIFT]-[WETH.e] JLP - Fee 3.5%
+Unstake 0.00 [SWIFT]-[WETH.e] JLP
+Claim 0.00 SWIFT ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - LINK.e Price: $14.54 Market Cap: $170,225,866.86 
+Staked: 0.0000 LINK.e ($0.00)
+SWIFT Per Week: 3123.83 ($290.16)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 LINK.e ($0.00), NaN% of the pool.
+Stake 0.00 LINK.e - Fee 3.5%
+Unstake 0.00 LINK.e
+Claim 0.00 SWIFT ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $487.06

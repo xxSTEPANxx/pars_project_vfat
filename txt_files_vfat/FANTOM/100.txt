@@ -1,0 +1,187 @@
+*************** 👨‍🌾 UNOFFICIAL DRACO.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://cave.dracoforce.com/
+*********************************************************************************
+
+Fri Jan 28 2022 00:54:37 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 16 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [WFTM]-[CAVE] SPOOKY LP [+] [-] [<=>] Price: $0.68 TVL: $291.44
+WFTM Price: $2.04
+CAVE Price: $0.05
+Staked: 214.3127 spLP ($145.50)
+CAVE Per Week: 459.96 ($24.67)
+APR: Day 2.42% Week 16.96% Year 881.71%
+You are staking 0.00 [WFTM]-[CAVE] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[CAVE] SPOOKY LP
+Unstake 0.00 [WFTM]-[CAVE] SPOOKY LP
+Claim 0.00 CAVE ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [USDC]-[CAVE] SPOOKY LP [+] [-] [<=>] Price: $477,415.54 TVL: $378.12
+USDC Price: $1.01
+CAVE Price: $0.05
+Staked: 0.0005 spLP ($225.26)
+CAVE Per Week: 459.96 ($24.67)
+APR: Day 1.56% Week 10.95% Year 569.54%
+You are staking 0.00 [USDC]-[CAVE] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[CAVE] SPOOKY LP
+Unstake 0.00 [USDC]-[CAVE] SPOOKY LP
+Claim 0.00 CAVE ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WFTM]-[BOO] SPOOKY LP [+] [-] [<=>] Price: $15.02 TVL: $63,645,048.62
+WFTM Price: $2.04
+BOO Price: $25.32
+Staked: 0.3153 spLP ($4.74)
+CAVE Per Week: 150.87 ($8.09)
+APR: Day 24.40% Week 170.83% Year 8883.15%
+You are staking 0.00 [WFTM]-[BOO] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BOO] SPOOKY LP - Fee 3%
+Unstake 0.00 [WFTM]-[BOO] SPOOKY LP
+Claim 0.00 CAVE ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WFTM]-[ETH] SPOOKY LP [+] [-] [<=>] Price: $158.08 TVL: $42,864,505.19
+WFTM Price: $2.04
+ETH Price: $2,372.59
+Staked: 0.0000 spLP ($0.00)
+CAVE Per Week: 150.87 ($8.09)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WFTM]-[ETH] SPOOKY LP ($0.00), NaN% of the pool.
+Stake 0.00 [WFTM]-[ETH] SPOOKY LP - Fee 3%
+Unstake 0.00 [WFTM]-[ETH] SPOOKY LP
+Claim 0.00 CAVE ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDC]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $4,395,445.63 TVL: $169,210,632.29
+USDC Price: $1.01
+WFTM Price: $2.04
+Staked: 0.0000 spLP ($0.00)
+CAVE Per Week: 150.87 ($8.09)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[WFTM] SPOOKY LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[WFTM] SPOOKY LP - Fee 3%
+Unstake 0.00 [USDC]-[WFTM] SPOOKY LP
+Claim 0.00 CAVE ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WFTM]-[BTC] SPOOKY LP [+] [-] [<=>] Price: $11,369,313,735.51 TVL: $22,018,918.53
+WFTM Price: $2.04
+BTC Price: $36,339.00
+Staked: 0.0000 spLP ($0.00)
+CAVE Per Week: 150.87 ($8.09)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WFTM]-[BTC] SPOOKY LP ($0.00), NaN% of the pool.
+Stake 0.00 [WFTM]-[BTC] SPOOKY LP - Fee 3%
+Unstake 0.00 [WFTM]-[BTC] SPOOKY LP
+Claim 0.00 CAVE ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - DRC Price: $0.00 Market Cap: $0.00 
+Staked: 98.6416 DRC ($0.00)
+CAVE Per Week: 9.20 ($0.49)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 DRC ($0.00), NaN% of the pool.
+Stake 0.00 DRC
+Unstake 0.00 DRC
+Claim 0.00 CAVE ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - WFTM Price: $2.04 Market Cap: $1,473,153,856.81 
+Staked: 0.0729 WFTM ($0.15)
+CAVE Per Week: 136.15 ($7.30)
+APR: Day 701.93% Week 4913.54% Year 255504.07%
+You are staking 0.00 WFTM ($0.00), 0.00% of the pool.
+Stake 0.00 WFTM - Fee 3%
+Unstake 0.00 WFTM
+Claim 0.00 CAVE ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - USDC Price: $1.01 Market Cap: $1,744,775,719.05 
+Staked: 0.0097 USDC ($0.01)
+CAVE Per Week: 136.15 ($7.30)
+APR: Day 10648.66% Week 74540.65% Year 3876113.88%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 3%
+Unstake 0.00 USDC
+Claim 0.00 CAVE ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - ETH Price: $2,372.59 Market Cap: $1,131,912,014.06 
+Staked: 0.0000 ETH ($0.00)
+CAVE Per Week: 136.15 ($7.30)
+APR: Day 54313853167.00% Week 380196972169.02% Year 19770242552789.20%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 3%
+Unstake 0.00 ETH
+Claim 0.00 CAVE ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - BTC Price: $36,339.00 Market Cap: $625,278,129.03 
+Staked: 0.0000 BTC ($0.01)
+CAVE Per Week: 136.15 ($7.30)
+APR: Day 7002.15% Week 49015.05% Year 2548782.68%
+You are staking 0.00 BTC ($0.00), 0.00% of the pool.
+Stake 0.00 BTC - Fee 3%
+Unstake 0.00 BTC
+Claim 0.00 CAVE ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - DAI Price: $1.01 Market Cap: $711,512,155.93 
+Staked: 0.0097 DAI ($0.01)
+CAVE Per Week: 136.15 ($7.30)
+APR: Day 10695.45% Week 74868.15% Year 3893143.90%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 3%
+Unstake 0.00 DAI
+Claim 0.00 CAVE ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - fUSDT Price: $1.01 Market Cap: $353,946,320.35 
+Staked: 9.7093 fUSDT ($9.81)
+CAVE Per Week: 136.15 ($7.30)
+APR: Day 10.64% Week 74.47% Year 3872.41%
+You are staking 0.00 fUSDT ($0.00), 0.00% of the pool.
+Stake 0.00 fUSDT - Fee 3%
+Unstake 0.00 fUSDT
+Claim 0.00 CAVE ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - BNB Price: $367.17 Market Cap: $13,918,491.04 
+Staked: 0.0000 BNB ($0.01)
+CAVE Per Week: 136.15 ($7.30)
+APR: Day 14899.37% Week 104295.59% Year 5423370.92%
+You are staking 0.00 BNB ($0.00), 0.00% of the pool.
+Stake 0.00 BNB - Fee 3%
+Unstake 0.00 BNB
+Claim 0.00 CAVE ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - BOO Price: $25.32 Market Cap: $213,628,884.44 
+Staked: 0.9700 BOO ($24.56)
+CAVE Per Week: 136.15 ($7.30)
+APR: Day 4.25% Week 29.73% Year 1546.16%
+You are staking 0.00 BOO ($0.00), 0.00% of the pool.
+Stake 0.00 BOO - Fee 3%
+Unstake 0.00 BOO
+Claim 0.00 CAVE ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - CAVE Price: $0.05 Market Cap: $442.51 
+Staked: 1260.5633 CAVE ($67.61)
+CAVE Per Week: 220.78 ($11.84)
+APR: Day 2.50% Week 17.51% Year 910.75%
+You are staking 0.00 CAVE ($0.00), 0.00% of the pool.
+Stake 0.00 CAVE
+Unstake 0.00 CAVE
+Claim 0.00 CAVE ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $477.67

@@ -1,0 +1,37 @@
+*************** 👨‍🌾 UNOFFICIAL SMOOTHY.FINANCE FARMING CALCULATOR 👨‍🌾 ******************
+INFO  : https://smoothy.finance
+***************************************************************************************
+
+Thu Jan 27 2022 19:55:39 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 2 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - syUSD Price: $1.00 Market Cap: $2,328,729.71 [%]
+Staked: 2232169.3811 syUSD ($2,232,169.38)
+SMTY Per Week: 80547.95 ($4,939.60)
+APR: Day 0.03% Week 0.22% Year 11.51%
+You are staking 0.00 syUSD ($0.00), 0.00% of the pool.
+Stake 0.00 syUSD
+Unstake 0.00 syUSD
+Claim 0.00 SMTY ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [SMTY]-[WETH] Uni LP [+] [-] [<=>] Price: $26.49 TVL: $141,850.00
+SMTY Price: $0.06
+WETH Price: $2,483.85
+Staked: 5354.1828 UNI-V2 ($141,845.96)
+SMTY Per Week: 34520.55 ($2,116.97)
+APR: Day 0.21% Week 1.49% Year 77.61%
+You are staking 0.00 [SMTY]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SMTY]-[WETH] Uni LP
+Unstake 0.00 [SMTY]-[WETH] Uni LP
+Claim 0.00 SMTY ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $2,374,015.34

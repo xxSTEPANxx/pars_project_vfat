@@ -6,44 +6,17 @@ INFO  : https://app.towerfinance.io
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Thu Dec 16 2021 06:04:19 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 23:54:20 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
-0 - IVORY Price: $0.002160 Market Cap: $1,572,742.20 [%]
-Staked: 2622714.2643 IVORY ($5,664.98)
-IVORY Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 IVORY ($0.00), 0.00% of the pool.
-Stake 0.00 IVORY
-Unstake 0.00 IVORY
-Claim 0.00 IVORY ($0.00)
-Staking or unstaking also claims rewards.
-
-1 - [USDC]-[IVORY] Uni LP [+] [-] [<=>] Price: $91,552.41 TVL: $10,812.08
-USDC Price: $1.00
-IVORY Price: $0.002160
-Staked: 0.0749 FLP ($6,855.30)
-IVORY Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 [USDC]-[IVORY] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[IVORY] Uni LP
-Unstake 0.00 [USDC]-[IVORY] Uni LP
-Claim 0.00 IVORY ($0.00)
-Staking or unstaking also claims rewards.
-
-0 - [USDC]-[TOWER] Uni LP [+] [-] [<=>] Price: $1,252,557.78 TVL: $12,384.34
-USDC Price: $1.00
-TOWER Price: $0.97
-Staked: 0.0072 FLP ($9,065.37)
-IVORY Per Week: 0.00 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.00%
-You are staking 0.00 [USDC]-[TOWER] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[TOWER] Uni LP
-Unstake 0.00 [USDC]-[TOWER] Uni LP
-Claim 0.00 IVORY ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $21,585.65
+{
+  "code": -32603,
+  "message": "Non-200 status code: '400'",
+  "data": {
+    "error": "Unable to verify your data submission."
+  }
+}
+Oops something went wrong. Try refreshing the page.

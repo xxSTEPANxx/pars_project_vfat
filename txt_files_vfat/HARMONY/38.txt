@@ -1,0 +1,96 @@
+*************** 👨‍🌾 UNOFFICIAL CHAD FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://www.chadfinance.one
+*************************************************************************
+
+Fri Jan 28 2022 01:06:12 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 7 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - CHAD Price: $0.00 Market Cap: $0.00 
+Staked: 223686.5598 CHAD ($0.00)
+CHAD Per Week: 24796.80 ($39.75)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 CHAD ($0.00), NaN% of the pool.
+Stake 0.00 CHAD
+Unstake 0.00 CHAD
+Claim 0.00 CHAD ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [CHAD]-[WONE] Uni LP [+] [-] [<=>] Price: $0.03 TVL: $1,266.37
+CHAD Price: $0.001603
+WONE Price: $0.18
+Staked: 9788.2172 JEWEL-LP ($334.15)
+CHAD Per Week: 99187.20 ($159.01)
+APR: Day 6.80% Week 47.59% Year 2474.46%
+You are staking 0.00 [CHAD]-[WONE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CHAD]-[WONE] Uni LP - Fee 0.1%
+Unstake 0.00 [CHAD]-[WONE] Uni LP
+Claim 0.00 CHAD ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [UST]-[CHAD] Uni LP [+] [-] [<=>] Price: $0.08 TVL: $63.50
+UST Price: $1.00
+CHAD Price: $0.001603
+Staked: 772.8449 JEWEL-LP ($62.66)
+CHAD Per Week: 24796.80 ($39.75)
+APR: Day 9.06% Week 63.44% Year 3298.73%
+You are staking 0.00 [UST]-[CHAD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UST]-[CHAD] Uni LP - Fee 0.1%
+Unstake 0.00 [UST]-[CHAD] Uni LP
+Claim 0.00 CHAD ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [1WBTC]-[CHAD] Uni LP [+] [-] [<=>] Price: $1,512,587.37 TVL: $53.93
+1WBTC Price: $34,951.00
+CHAD Price: $0.001603
+Staked: 0.0000 JEWEL-LP ($53.00)
+CHAD Per Week: 24796.80 ($39.75)
+APR: Day 10.71% Week 75.00% Year 3899.90%
+You are staking 0.00 [1WBTC]-[CHAD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [1WBTC]-[CHAD] Uni LP - Fee 0.1%
+Unstake 0.00 [1WBTC]-[CHAD] Uni LP
+Claim 0.00 CHAD ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [CHAD]-[JEWEL] Uni LP [+] [-] [<=>] Price: $0.21 TVL: $127.90
+CHAD Price: $0.001603
+JEWEL Price: $6.76
+Staked: 605.8400 JEWEL-LP ($127.30)
+CHAD Per Week: 24796.80 ($39.75)
+APR: Day 4.46% Week 31.23% Year 1623.82%
+You are staking 0.00 [CHAD]-[JEWEL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CHAD]-[JEWEL] Uni LP - Fee 0.1%
+Unstake 0.00 [CHAD]-[JEWEL] Uni LP
+Claim 0.00 CHAD ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [KURO]-[CHAD] Uni LP [+] [-] [<=>] Price: $181.56 TVL: $68.16
+KURO Price: $0.003731
+CHAD Price: $0.001603
+Staked: 0.3736 JEWEL-LP ($67.83)
+CHAD Per Week: 12398.40 ($19.88)
+APR: Day 4.19% Week 29.30% Year 1523.83%
+You are staking 0.00 [KURO]-[CHAD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KURO]-[CHAD] Uni LP - Fee 0.1%
+Unstake 0.00 [KURO]-[CHAD] Uni LP
+Claim 0.00 CHAD ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [CHAD]-[MIS] Uni LP [+] [-] [<=>] Price: $0.04 TVL: $166.30
+CHAD Price: $0.001603
+MIS Price: $0.27
+Staked: 3962.9392 JEWEL-LP ($166.19)
+CHAD Per Week: 12398.40 ($19.88)
+APR: Day 1.71% Week 11.96% Year 621.92%
+You are staking 0.00 [CHAD]-[MIS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CHAD]-[MIS] Uni LP - Fee 0.1%
+Unstake 0.00 [CHAD]-[MIS] Uni LP
+Claim 0.00 CHAD ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $811.13

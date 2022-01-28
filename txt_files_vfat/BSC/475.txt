@@ -1,0 +1,349 @@
+*************** 👨‍🌾 UNOFFICIAL SVIKI SUPERMANION FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://sviki.supermanion.com
+**************************************************************************************
+
+Thu Jan 27 2022 21:35:06 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 30 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [SVIKI]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.02 TVL: $7.97
+SVIKI Price: $0.0000830985
+BUSD Price: $1.00
+Staked: 285.6147 Cake-LP ($5.33)
+SVIKI Per Week: 372.85 ($0.03)
+APR: Day 0.08% Week 0.58% Year 30.25%
+You are staking 0.00 [SVIKI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SVIKI]-[BUSD] Cake LP
+Unstake 0.00 [SVIKI]-[BUSD] Cake LP
+Claim 0.00 SVIKI ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [SVIKI]-[WBNB] Cake LP [+] [-] [<=>] Price: $0.42 TVL: $13.91
+SVIKI Price: $0.0000830985
+WBNB Price: $368.02
+Staked: 9.4575 Cake-LP ($3.95)
+SVIKI Per Week: 303.48 ($0.03)
+APR: Day 0.09% Week 0.64% Year 33.18%
+You are staking 0.00 [SVIKI]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SVIKI]-[WBNB] Cake LP
+Unstake 0.00 [SVIKI]-[WBNB] Cake LP
+Claim 0.00 SVIKI ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - SVIKI Price: $0.0000830985 Market Cap: $62.87 [%]
+Staked: 395531.3675 SVIKI ($32.87)
+SVIKI Per Week: 173.42 ($0.01)
+APR: Day 0.01% Week 0.04% Year 2.28%
+You are staking 0.00 SVIKI ($0.00), 0.00% of the pool.
+Stake 0.00 SVIKI
+Unstake 0.00 SVIKI
+Claim 0.00 SVIKI ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.39 TVL: $345,758,925.76
+WBNB Price: $368.02
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+SVIKI Per Week: 43.35 ($0.00)
+APR: Day 120668287949365.91% Week 844678015645561.38% Year 43923256813569192.00%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 SVIKI ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $7,725.62 TVL: $68,320,440.61
+BTCB Price: $36,133.00
+WBNB Price: $368.02
+Staked: 0.0000 Cake-LP ($0.00)
+SVIKI Per Week: 43.35 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 SVIKI ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,032.29 TVL: $74,040,966.47
+ETH Price: $2,429.74
+WBNB Price: $368.02
+Staked: 0.0000 Cake-LP ($0.00)
+SVIKI Per Week: 43.35 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 SVIKI ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $105.20 TVL: $200,292,474.94
+Cake Price: $6.97
+WBNB Price: $368.02
+Staked: 0.0000 Cake-LP ($0.00)
+SVIKI Per Week: 26.01 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 SVIKI ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [Cake]-[BUSD] Cake LP [+] [-] [<=>] Price: $7.79 TVL: $11,470,459.84
+Cake Price: $6.97
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+SVIKI Per Week: 26.01 ($0.00)
+APR: Day 440590954059473.56% Week 3084136678416315.00% Year 160375107277648384.00%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 SVIKI ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [DOT]-[WBNB] Cake LP [+] [-] [<=>] Price: $172.27 TVL: $17,684,823.57
+DOT Price: $17.91
+WBNB Price: $368.02
+Staked: 0.0000 Cake-LP ($0.00)
+SVIKI Per Week: 26.01 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 SVIKI ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [ADA]-[WBNB] Cake LP [+] [-] [<=>] Price: $42.27 TVL: $12,071,387.69
+ADA Price: $1.03
+WBNB Price: $368.02
+Staked: 0.0001 Cake-LP ($0.00)
+SVIKI Per Week: 26.01 ($0.00)
+APR: Day 10.83% Week 75.79% Year 3940.96%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 SVIKI ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $296,979,021.90
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+SVIKI Per Week: 34.68 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 SVIKI ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [DAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $16,853,145.99
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+SVIKI Per Week: 34.68 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 SVIKI ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $131,403,479.78
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+SVIKI Per Week: 34.68 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 SVIKI ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - BUSD Price: $1.00 Market Cap: $4,841,753,383.79 [%]
+Staked: 96.0000 BUSD ($95.82)
+SVIKI Per Week: 30.35 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.14%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 SVIKI ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - USDT Price: $1.00 Market Cap: $3,879,997,922.18 [%]
+Staked: 0.0000 USDT ($0.00)
+SVIKI Per Week: 30.35 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 USDT ($0.00), NaN% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 SVIKI ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - WBNB Price: $368.02 Market Cap: $1,921,089,697.51 [%]
+Staked: 0.0000 WBNB ($0.00)
+SVIKI Per Week: 30.35 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 WBNB ($0.00), NaN% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 SVIKI ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - BTCB Price: $36,133.00 Market Cap: $4,064,998,633.00 [%]
+Staked: 0.0000 BTCB ($0.00)
+SVIKI Per Week: 17.34 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 BTCB ($0.00), NaN% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 SVIKI ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - ETH Price: $2,429.74 Market Cap: $3,413,784,700.00 [%]
+Staked: 0.0001 ETH ($0.33)
+SVIKI Per Week: 17.34 ($0.00)
+APR: Day 0.06% Week 0.44% Year 22.96%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 SVIKI ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - Cake Price: $6.97 Market Cap: $4,286,326,187.64 [%]
+Staked: 0.0000 Cake ($0.00)
+SVIKI Per Week: 17.34 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 Cake ($0.00), NaN% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 SVIKI ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - DAI Price: $1.00 Market Cap: $262,000,000.00 [%]
+Staked: 0.0000 DAI ($0.00)
+SVIKI Per Week: 17.34 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 DAI ($0.00), NaN% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 SVIKI ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - USDC Price: $1.00 Market Cap: $1,779,000,000.00 [%]
+Staked: 4.8000 USDC ($4.80)
+SVIKI Per Week: 17.34 ($0.00)
+APR: Day 0.00% Week 0.03% Year 1.56%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 SVIKI ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - DOT Price: $17.91 Market Cap: $286,559,999.84 [%]
+Staked: 0.0000 DOT ($0.00)
+SVIKI Per Week: 17.34 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 DOT ($0.00), NaN% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 SVIKI ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - [SNORRE]-[SVIKI] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $0.31
+SNORRE Price: $0.000123
+SVIKI Price: $0.0000830985
+Staked: 47.3142 Cake-LP ($0.01)
+SVIKI Per Week: 190.76 ($0.02)
+APR: Day 23.69% Week 165.81% Year 8622.24%
+You are staking 0.00 [SNORRE]-[SVIKI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SNORRE]-[SVIKI] Cake LP
+Unstake 0.00 [SNORRE]-[SVIKI] Cake LP
+Claim 0.00 SVIKI ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [SMAN]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.07 TVL: $94.23
+SMAN Price: $0.000785
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+SVIKI Per Week: 86.71 ($0.01)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [SMAN]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [SMAN]-[BUSD] Cake LP - Fee 1%
+Unstake 0.00 [SMAN]-[BUSD] Cake LP
+Claim 0.00 SVIKI ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - SMAN Price: $0.000785 Market Cap: $262.77 [%]
+Staked: 9962.5288 SMAN ($7.82)
+SVIKI Per Week: 60.70 ($0.01)
+APR: Day 0.01% Week 0.06% Year 3.35%
+You are staking 0.00 SMAN ($0.00), 0.00% of the pool.
+Stake 0.00 SMAN
+Unstake 0.00 SMAN
+Claim 0.00 SVIKI ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - [SGIRLn]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.02 TVL: $9.91
+SGIRLn Price: $0.000107
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+SVIKI Per Week: 86.71 ($0.01)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [SGIRLn]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [SGIRLn]-[BUSD] Cake LP - Fee 1%
+Unstake 0.00 [SGIRLn]-[BUSD] Cake LP
+Claim 0.00 SVIKI ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - SGIRLn Price: $0.000107 Market Cap: $36.29 [%]
+Staked: 39635.1722 SGIRLn ($4.23)
+SVIKI Per Week: 60.70 ($0.01)
+APR: Day 0.02% Week 0.12% Year 6.20%
+You are staking 0.00 SGIRLn ($0.00), 0.00% of the pool.
+Stake 0.00 SGIRLn
+Unstake 0.00 SGIRLn
+Claim 0.00 SVIKI ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - [SMAN]-[SGIRLn] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $0.39
+SMAN Price: $0.000785
+SGIRLn Price: $0.000107
+Staked: 0.0000 Cake-LP ($0.00)
+SVIKI Per Week: 69.37 ($0.01)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [SMAN]-[SGIRLn] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [SMAN]-[SGIRLn] Cake LP - Fee 1%
+Unstake 0.00 [SMAN]-[SGIRLn] Cake LP
+Claim 0.00 SVIKI ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - JUNGLE Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 JUNGLE ($0.00)
+SVIKI Per Week: 43.35 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 JUNGLE ($0.00), NaN% of the pool.
+Stake 0.00 JUNGLE - Fee 2%
+Unstake 0.00 JUNGLE
+Claim 0.00 SVIKI ($0.00)
+Staking or unstaking also claims rewards.
+
+29 - [WBNB]-[SugarRush] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $181.27
+WBNB Price: $368.02
+SugarRush Price: $0.0000000059
+Staked: 538.0200 Cake-LP ($1.65)
+SVIKI Per Week: 34.68 ($0.00)
+APR: Day 0.02% Week 0.17% Year 9.09%
+You are staking 0.00 [WBNB]-[SugarRush] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[SugarRush] Cake LP - Fee 2%
+Unstake 0.00 [WBNB]-[SugarRush] Cake LP
+Claim 0.00 SVIKI ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $156.80

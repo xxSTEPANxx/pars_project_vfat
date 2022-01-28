@@ -1,0 +1,55 @@
+*************** 👨‍🌾 UNOFFICIAL WePiggy CALCULATOR 👨‍🌾 ***************
+INFO  : https://app.wepiggy.com
+*****************************************************************
+
+Fri Jan 28 2022 01:16:41 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Deposit Market Size : $1,863,587.65
+Borrow Market Size : $558,771.71
+TVL : $1,306,560.73
+
+ETH ($2,337.97)
+Supplied : 315.05 ($736,567.60) at 0.09% APY
+Borrowed : 30.42 ($71,130.45) at 1.20% APY
+Reserves : 0.28 ($645.44)
+Farming APY Supply 0.00% Borrow 0.00%
+Net APY Supply 0.09% Borrow -1.20%
+
+USDC ($1.00)
+Supplied : 279,011.66 ($279,011.66) at 2.39% APY
+Borrowed : 202,295.34 ($202,295.34) at 3.69% APY
+Reserves : 379.38 ($379.38)
+Farming APY Supply 0.00% Borrow 0.00%
+Net APY Supply 2.39% Borrow -3.69%
+
+USDT ($1.00)
+Supplied : 283,915.78 ($283,915.78) at 1.24% APY
+Borrowed : 148,814.63 ($148,814.63) at 2.66% APY
+Reserves : 258.82 ($258.82)
+Farming APY Supply 0.00% Borrow 0.00%
+Net APY Supply 1.24% Borrow -2.66%
+
+DAI ($1.00)
+Supplied : 345,361.31 ($345,361.31) at 0.46% APY
+Borrowed : 110,162.16 ($110,162.16) at 1.61% APY
+Reserves : 256.98 ($256.98)
+Farming APY Supply 0.00% Borrow 0.00%
+Net APY Supply 0.46% Borrow -1.61%
+
+WBTC ($36,095.82)
+Supplied : 4.01 ($144,718.59) at 0.22% APY
+Borrowed : 0.59 ($21,418.96) at 1.84% APY
+Reserves : 0.00 ($107.30)
+Farming APY Supply 0.00% Borrow 0.00%
+Net APY Supply 0.22% Borrow -1.84%
+
+LINK ($14.62)
+Supplied : 5,062.88 ($74,012.71) at 0.22% APY
+Borrowed : 338.62 ($4,950.18) at 4.44% APY
+Reserves : 6.63 ($96.87)
+Farming APY Supply 0.00% Borrow 0.00%
+Net APY Supply 0.22% Borrow -4.44%

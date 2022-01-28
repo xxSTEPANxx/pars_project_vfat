@@ -1,0 +1,40 @@
+***************** 👨‍🌾 UNOFFICIAL REVERSE PROTOCOL CALCULATOR 👨‍🌾 *****************
+INFO  : https://beta.reverseprotocol.one
+********************************************************************************
+
+Fri Jan 28 2022 01:05:56 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+============= farms ==============
+Found 4 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - RVRS Price: $0.00 Market Cap: $0.00 
+Staked: 5327563.2622 RVRS ($0.00)
+RVRS Per Week: 362880.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 RVRS ($0.00), NaN% of the pool.
+Stake 0.00 RVRS
+Unstake 0.00 RVRS
+Claim 0.00 RVRS ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $0.00
+======== reverseum pools =========
+Found 4 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+ROI assumes you deposit in the current block using the formula below.
+ROI = (blocks remaining * current APR per block) - 100
+If you have deposited prior to current block your ROI would be higher.
+Total Staked: $0.00
+========== single stake ==========
+Finished reading smart contracts.
+0 - RVRS Price: $0.14 Market Cap: $1,479,846.31 
+Staked: 5327562.2622 RVRS ($722,618.32)
+You are staking 0.00 RVRS ($0.00), 0.00% of the pool.
+
+Total Staked: $722,618.32

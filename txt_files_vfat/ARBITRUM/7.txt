@@ -1,0 +1,123 @@
+*************** 👨‍🌾 UNOFFICIAL THEHONEYPOT.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://thehoneypot.finance
+****************************************************************************************
+
+Thu Jan 27 2022 21:47:33 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 14 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+1 - [WETH]-[HONEY] SLP [+] [-] [<=>] Price: $7,256.68 TVL: $12,273.28
+WETH Price: $2,429.30
+HONEY Price: $0.000217
+Staked: 1.6000 SLP ($11,610.47)
+HONEY Per Week: 2596026.49 ($562.86)
+APR: Day 0.69% Week 4.85% Year 252.09%
+You are staking 0.00 [WETH]-[HONEY] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[HONEY] SLP
+Unstake 0.00 [WETH]-[HONEY] SLP
+Claim 0.00 HONEY ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [HONEY]-[USDT] SLP [+] [-] [<=>] Price: $30,446.88 TVL: $4,524.85
+HONEY Price: $0.000217
+USDT Price: $1.00
+Staked: 0.1470 SLP ($4,474.49)
+HONEY Per Week: 667549.67 ($144.74)
+APR: Day 0.46% Week 3.23% Year 168.20%
+You are staking 0.00 [HONEY]-[USDT] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [HONEY]-[USDT] SLP
+Unstake 0.00 [HONEY]-[USDT] SLP
+Claim 0.00 HONEY ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [HONEY]-[USDC] SLP [+] [-] [<=>] Price: $30,432.66 TVL: $1,976.16
+HONEY Price: $0.000217
+USDC Price: $1.00
+Staked: 0.0630 SLP ($1,916.07)
+HONEY Per Week: 445033.11 ($96.49)
+APR: Day 0.72% Week 5.04% Year 261.86%
+You are staking 0.00 [HONEY]-[USDC] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [HONEY]-[USDC] SLP
+Unstake 0.00 [HONEY]-[USDC] SLP
+Claim 0.00 HONEY ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [ADoge]-[HONEY] SLP [+] [-] [<=>] Price: $0.00 TVL: $1,872.50
+ADoge Price: $0.0000000298
+HONEY Price: $0.000217
+Staked: 332240886.4619 SLP ($1,748.05)
+HONEY Per Week: 296688.74 ($64.33)
+APR: Day 0.53% Week 3.68% Year 191.36%
+You are staking 0.00 [ADoge]-[HONEY] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADoge]-[HONEY] SLP
+Unstake 0.00 [ADoge]-[HONEY] SLP
+Claim 0.00 HONEY ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [SUSHI]-[HONEY] SLP [+] [-] [<=>] Price: $0.06 TVL: $299.94
+SUSHI Price: $4.07
+HONEY Price: $0.000217
+Staked: 4945.3069 SLP ($298.51)
+HONEY Per Week: 29668.87 ($6.43)
+APR: Day 0.31% Week 2.15% Year 112.06%
+You are staking 0.00 [SUSHI]-[HONEY] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [SUSHI]-[HONEY] SLP
+Unstake 0.00 [SUSHI]-[HONEY] SLP
+Claim 0.00 HONEY ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [HONEY]-[GMX] SLP [+] [-] [<=>] Price: $0.20 TVL: $1,282.32
+HONEY Price: $0.000217
+GMX Price: $41.37
+Staked: 6415.0155 SLP ($1,259.75)
+HONEY Per Week: 44503.31 ($9.65)
+APR: Day 0.11% Week 0.77% Year 39.83%
+You are staking 0.00 [HONEY]-[GMX] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [HONEY]-[GMX] SLP
+Unstake 0.00 [HONEY]-[GMX] SLP
+Claim 0.00 HONEY ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [HONEY]-[LINK] SLP [+] [-] [<=>] Price: $0.12 TVL: $541.63
+HONEY Price: $0.000217
+LINK Price: $15.07
+Staked: 4626.2356 SLP ($537.28)
+HONEY Per Week: 44503.31 ($9.65)
+APR: Day 0.26% Week 1.80% Year 93.39%
+You are staking 0.00 [HONEY]-[LINK] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [HONEY]-[LINK] SLP
+Unstake 0.00 [HONEY]-[LINK] SLP
+Claim 0.00 HONEY ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [ARBYS]-[HONEY] SLP [+] [-] [<=>] Price: $0.02 TVL: $425.85
+ARBYS Price: $0.33
+HONEY Price: $0.000217
+Staked: 24385.4643 SLP ($423.59)
+HONEY Per Week: 133509.93 ($28.95)
+APR: Day 0.98% Week 6.83% Year 355.36%
+You are staking 0.00 [ARBYS]-[HONEY] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [ARBYS]-[HONEY] SLP
+Unstake 0.00 [ARBYS]-[HONEY] SLP
+Claim 0.00 HONEY ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [SPELL]-[HONEY] SLP [+] [-] [<=>] Price: $0.00 TVL: $682.52
+SPELL Price: $0.005170
+HONEY Price: $0.000217
+Staked: 319519.6952 SLP ($681.15)
+HONEY Per Week: 222516.56 ($48.25)
+APR: Day 1.01% Week 7.08% Year 368.31%
+You are staking 0.00 [SPELL]-[HONEY] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [SPELL]-[HONEY] SLP
+Unstake 0.00 [SPELL]-[HONEY] SLP
+Claim 0.00 HONEY ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $22,949.35

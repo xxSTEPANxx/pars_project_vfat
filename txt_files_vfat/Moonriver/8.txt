@@ -1,0 +1,97 @@
+*************** 🌓 UNOFFICIAL 1SWAP FARMING CALCULATOR 🌓 ***************
+INFO  : https://1swap.fi/
+*****************************************************************************
+
+Fri Jan 28 2022 01:14:10 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 10 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - 1S3P Price: $1.00 Market Cap: $398,757.37 
+Staked: 285067.4529 1S3P ($285,067.45)
+1SWAP Per Week: 350000.00 ($205.58)
+APR: Day 0.01% Week 0.07% Year 3.75%
+You are staking 0.00 1S3P ($0.00), 0.00% of the pool.
+Stake 0.00 1S3P
+Unstake 0.00 1S3P
+Claim 0.00 1SWAP ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [1SWAP]-[WMOVR] SLP [+] [-] [<=>] Price: $0.44 TVL: $28,732.91
+1SWAP Price: $0.000587
+WMOVR Price: $71.67
+Staked: 65121.533298619746346958 SLP ($28,521.05)
+1SWAP Per Week: 2450000.00 ($1,439.04)
+APR: Day 0.72% Week 5.05% Year 262.37%
+You are staking 0.00 [1SWAP]-[WMOVR] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [1SWAP]-[WMOVR] SLP
+Unstake 0.00 [1SWAP]-[WMOVR] SLP
+Claim 0.00 1SWAP ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - BUSD/1S3P Price: $1.00 Market Cap: $110,089.97 
+Staked: 109949.6462 BUSD/1S3P ($109,949.65)
+1SWAP Per Week: 140000.00 ($82.23)
+APR: Day 0.01% Week 0.07% Year 3.89%
+You are staking 0.00 BUSD/1S3P ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD/1S3P
+Unstake 0.00 BUSD/1S3P
+Claim 0.00 1SWAP ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - MIM/1S3P Price: $0.00 Market Cap: $0.00 
+Staked: 124311.2313 MIM/1S3P ($0.00)
+1SWAP Per Week: 70000.00 ($41.12)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 MIM/1S3P ($0.00), NaN% of the pool.
+Stake 0.00 MIM/1S3P
+Unstake 0.00 MIM/1S3P
+Claim 0.00 1SWAP ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - AVAXUSD/1S3P Price: $0.00 Market Cap: $0.00 
+Staked: 4362.2771 AVAXUSD/1S3P ($0.00)
+1SWAP Per Week: 70000.00 ($41.12)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 AVAXUSD/1S3P ($0.00), NaN% of the pool.
+Stake 0.00 AVAXUSD/1S3P
+Unstake 0.00 AVAXUSD/1S3P
+Claim 0.00 1SWAP ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - WANUSD/1S3P Price: $0.00 Market Cap: $0.00 
+Staked: 11139.4717 WANUSD/1S3P ($0.00)
+1SWAP Per Week: 70000.00 ($41.12)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 WANUSD/1S3P ($0.00), NaN% of the pool.
+Stake 0.00 WANUSD/1S3P
+Unstake 0.00 WANUSD/1S3P
+Claim 0.00 1SWAP ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - FRAX/1S3P V2 Price: $0.00 Market Cap: $0.00 
+Staked: 12645.4047 FRAX/1S3P V2 ($0.00)
+1SWAP Per Week: 140000.00 ($82.23)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FRAX/1S3P V2 ($0.00), NaN% of the pool.
+Stake 0.00 FRAX/1S3P V2
+Unstake 0.00 FRAX/1S3P V2
+Claim 0.00 1SWAP ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - MAI/1S3P Price: $0.00 Market Cap: $0.00 
+Staked: 6974.2470 MAI/1S3P ($0.00)
+1SWAP Per Week: 70000.00 ($41.12)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 MAI/1S3P ($0.00), NaN% of the pool.
+Stake 0.00 MAI/1S3P
+Unstake 0.00 MAI/1S3P
+Claim 0.00 1SWAP ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $423,538.15

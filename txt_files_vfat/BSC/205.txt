@@ -1,0 +1,215 @@
+*************** 👨‍🌾 UNOFFICIAL SUKIYAKISWAP.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://sukiyakiswap.finance
+*****************************************************************************************
+
+Thu Jan 27 2022 20:53:06 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 18 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [Suki]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.16 TVL: $2,373.89
+Suki Price: $0.005559
+BUSD Price: $1.00
+Staked: 14209.9734 Cake-LP ($2,287.74)
+SUKI Per Week: 8615.58 ($47.89)
+APR: Day 0.30% Week 2.09% Year 108.86%
+You are staking 0.00 [Suki]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Suki]-[BUSD] Cake LP
+Unstake 0.00 [Suki]-[BUSD] Cake LP
+Claim 0.00 SUKI ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [Suki]-[WBNB] Cake LP [+] [-] [<=>] Price: $3.03 TVL: $1,438.99
+Suki Price: $0.005559
+WBNB Price: $369.29
+Staked: 435.3556 Cake-LP ($1,319.05)
+SUKI Per Week: 5384.74 ($29.93)
+APR: Day 0.32% Week 2.27% Year 118.00%
+You are staking 0.00 [Suki]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Suki]-[WBNB] Cake LP
+Unstake 0.00 [Suki]-[WBNB] Cake LP
+Claim 0.00 SUKI ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.48 TVL: $346,415,852.60
+WBNB Price: $369.29
+BUSD Price: $1.00
+Staked: 31.5258 Cake-LP ($1,496.89)
+SUKI Per Week: 538.47 ($2.99)
+APR: Day 0.03% Week 0.20% Year 10.40%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 SUKI ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $7,746.96 TVL: $68,740,050.28
+BTCB Price: $36,208.00
+WBNB Price: $369.29
+Staked: 0.0869 Cake-LP ($672.95)
+SUKI Per Week: 646.17 ($3.59)
+APR: Day 0.08% Week 0.53% Year 27.76%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 SUKI ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,044.50 TVL: $74,485,521.05
+ETH Price: $2,450.59
+WBNB Price: $369.29
+Staked: 0.1291 Cake-LP ($264.00)
+SUKI Per Week: 646.17 ($3.59)
+APR: Day 0.19% Week 1.36% Year 70.75%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 SUKI ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [DAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $16,856,262.52
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 53.6200 Cake-LP ($111.83)
+SUKI Per Week: 430.78 ($2.39)
+APR: Day 0.31% Week 2.14% Year 111.35%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 SUKI ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $131,301,526.28
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 40.9794 Cake-LP ($85.54)
+SUKI Per Week: 430.78 ($2.39)
+APR: Day 0.40% Week 2.80% Year 145.57%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 SUKI ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [DOT]-[WBNB] Cake LP [+] [-] [<=>] Price: $172.80 TVL: $17,739,903.18
+DOT Price: $17.96
+WBNB Price: $369.29
+Staked: 0.6805 Cake-LP ($117.59)
+SUKI Per Week: 646.17 ($3.59)
+APR: Day 0.44% Week 3.05% Year 158.84%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 SUKI ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [Cake]-[BUSD] Cake LP [+] [-] [<=>] Price: $7.81 TVL: $11,504,634.98
+Cake Price: $7.01
+BUSD Price: $1.00
+Staked: 6.5253 Cake-LP ($50.97)
+SUKI Per Week: 538.47 ($2.99)
+APR: Day 0.84% Week 5.87% Year 305.37%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 SUKI ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $105.68 TVL: $201,286,000.06
+Cake Price: $7.01
+WBNB Price: $369.29
+Staked: 0.1821 Cake-LP ($19.24)
+SUKI Per Week: 538.47 ($2.99)
+APR: Day 2.22% Week 15.55% Year 808.81%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 SUKI ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - Suki Price: $0.005559 Market Cap: $7,770.87 [%]
+Staked: 931989.0379 Suki ($5,180.87)
+SUKI Per Week: 1615.42 ($8.98)
+APR: Day 0.02% Week 0.17% Year 9.01%
+You are staking 0.00 Suki ($0.00), 0.00% of the pool.
+Stake 0.00 Suki
+Unstake 0.00 Suki
+Claim 0.00 SUKI ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - WBNB Price: $369.29 Market Cap: $1,928,027,765.28 [%]
+Staked: 2.6327 WBNB ($972.22)
+SUKI Per Week: 323.08 ($1.80)
+APR: Day 0.03% Week 0.18% Year 9.61%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 SUKI ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - BTCB Price: $36,208.00 Market Cap: $4,073,436,208.00 [%]
+Staked: 0.0086 BTCB ($311.87)
+SUKI Per Week: 215.39 ($1.20)
+APR: Day 0.05% Week 0.38% Year 19.96%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 SUKI ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - ETH Price: $2,450.59 Market Cap: $3,443,078,950.00 [%]
+Staked: 0.0174 ETH ($42.74)
+SUKI Per Week: 215.39 ($1.20)
+APR: Day 0.40% Week 2.80% Year 145.67%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 SUKI ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - DOT Price: $17.96 Market Cap: $287,359,999.84 [%]
+Staked: 3.7677 DOT ($67.67)
+SUKI Per Week: 215.39 ($1.20)
+APR: Day 0.25% Week 1.77% Year 92.01%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 SUKI ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - Cake Price: $7.01 Market Cap: $4,310,841,896.72 [%]
+Staked: 45.0095 Cake ($315.52)
+SUKI Per Week: 215.39 ($1.20)
+APR: Day 0.05% Week 0.38% Year 19.73%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 SUKI ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - BUSD Price: $1.00 Market Cap: $4,843,572,508.57 [%]
+Staked: 3106.7906 BUSD ($3,102.03)
+SUKI Per Week: 215.39 ($1.20)
+APR: Day 0.01% Week 0.04% Year 2.01%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 SUKI ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - BUNNY Price: $0.58 Market Cap: $8,630,935.31 [%]
+Staked: 6.4250 BUNNY ($3.73)
+SUKI Per Week: 215.39 ($1.20)
+APR: Day 4.59% Week 32.11% Year 1669.81%
+You are staking 0.00 BUNNY ($0.00), 0.00% of the pool.
+Stake 0.00 BUNNY - Fee 4%
+Unstake 0.00 BUNNY
+Claim 0.00 SUKI ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $16,422.46

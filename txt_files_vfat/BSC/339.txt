@@ -1,0 +1,85 @@
+*************** 👨‍🌾 UNOFFICIAL ROBINHOODSWAP.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://www.robinhoodswap.finance
+******************************************************************************************
+
+Thu Jan 27 2022 21:15:14 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 9 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - RBH Price: $0.003885 Market Cap: $4,868.58 [%]
+Staked: 255773.9897 RBH ($993.71)
+RBH Per Week: 7680.00 ($29.84)
+APR: Day 0.43% Week 3.00% Year 156.14%
+You are staking 0.00 RBH ($0.00), 0.00% of the pool.
+Stake 0.00 RBH
+Unstake 0.00 RBH
+Claim 0.00 RBH ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[RBH] Cake LP [+] [-] [<=>] Price: $2.55 TVL: $3,061.30
+WBNB Price: $368.63
+RBH Price: $0.003885
+Staked: 374.4122 Cake-LP ($954.17)
+RBH Per Week: 15360.00 ($59.68)
+APR: Day 0.89% Week 6.25% Year 325.22%
+You are staking 0.00 [WBNB]-[RBH] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[RBH] Cake LP
+Unstake 0.00 [WBNB]-[RBH] Cake LP
+Claim 0.00 RBH ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [RBH]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.13 TVL: $2,576.68
+RBH Price: $0.003885
+BUSD Price: $1.00
+Staked: 4164.2325 Cake-LP ($549.21)
+RBH Per Week: 15360.00 ($59.68)
+APR: Day 1.55% Week 10.87% Year 565.01%
+You are staking 0.00 [RBH]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [RBH]-[BUSD] Cake LP
+Unstake 0.00 [RBH]-[BUSD] Cake LP
+Claim 0.00 RBH ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $105.14 TVL: $200,166,764.11
+Cake Price: $6.95
+WBNB Price: $368.63
+Staked: 0.1411 Cake-LP ($14.84)
+RBH Per Week: 576.00 ($2.24)
+APR: Day 2.15% Week 15.08% Year 784.40%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 3%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 RBH ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.41 TVL: $345,892,742.32
+WBNB Price: $368.63
+BUSD Price: $1.00
+Staked: 31.1636 Cake-LP ($1,477.45)
+RBH Per Week: 576.00 ($2.24)
+APR: Day 0.02% Week 0.15% Year 7.88%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 3%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 RBH ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $131,178,529.85
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 1123.3638 Cake-LP ($2,342.69)
+RBH Per Week: 768.00 ($2.98)
+APR: Day 0.02% Week 0.13% Year 6.62%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 3.5%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 RBH ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $6,332.06

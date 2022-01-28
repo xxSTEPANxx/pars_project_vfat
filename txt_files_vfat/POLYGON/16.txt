@@ -6,115 +6,20 @@ INFO  : https://www.polystarter.fi
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Fri Dec 17 2021 09:11:00 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 21:59:04 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
+Staking Contract
 Found 10 pools.
 Showing incentivized pools only.
-Finished reading smart contracts.
-0 - [STARTER]-[WMATIC] Uni LP [+] [-] [<=>] Price: $0.03 TVL: $642.50
-STARTER Price: $0.0000809129
-WMATIC Price: $2.11
-Staked: 9157.5552 UNI-V2 ($248.92)
-STARTER Per Week: 143181.82 ($11.59)
-APR: Day 0.66% Week 4.65% Year 242.02%
-You are staking 0.00 [STARTER]-[WMATIC] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [STARTER]-[WMATIC] Uni LP
-Unstake 0.00 [STARTER]-[WMATIC] Uni LP
-Claim 0.00 STARTER ($0.00)
-Staking or unstaking also claims rewards.
-
-1 - WMATIC Price: $2.11 Market Cap: $642,106,673.66 [%]
-Staked: 136.2312 WMATIC ($287.45)
-STARTER Per Week: 34363.64 ($2.78)
-APR: Day 0.14% Week 0.97% Year 50.30%
-You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
-Stake 0.00 WMATIC
-Unstake 0.00 WMATIC
-Claim 0.00 STARTER ($0.00)
-Staking or unstaking also claims rewards.
-
-2 - QUICK Price: $244.99 Market Cap: $234,097,355.40 [%]
-Staked: 2.6308 QUICK ($644.53)
-STARTER Per Week: 34363.64 ($2.78)
-APR: Day 0.06% Week 0.43% Year 22.43%
-You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
-Stake 0.00 QUICK
-Unstake 0.00 QUICK
-Claim 0.00 STARTER ($0.00)
-Staking or unstaking also claims rewards.
-
-3 - MUST Price: $93.93 Market Cap: $5,301,382.39 [%]
-Staked: 0.7782 MUST ($73.10)
-STARTER Per Week: 34363.64 ($2.78)
-APR: Day 0.54% Week 3.80% Year 197.79%
-You are staking 0.00 MUST ($0.00), 0.00% of the pool.
-Stake 0.00 MUST
-Unstake 0.00 MUST
-Claim 0.00 STARTER ($0.00)
-Staking or unstaking also claims rewards.
-
-4 - Krill Price: $0.04 Market Cap: $420,814.12 [%]
-Staked: 762.5302 Krill ($29.86)
-STARTER Per Week: 11454.55 ($0.93)
-APR: Day 0.44% Week 3.10% Year 161.39%
-You are staking 0.00 Krill ($0.00), 0.00% of the pool.
-Stake 0.00 Krill
-Unstake 0.00 Krill
-Claim 0.00 STARTER ($0.00)
-Staking or unstaking also claims rewards.
-
-5 - WBTC Price: $47,790.00 Market Cap: $482,211,088.49 [%]
-Staked: 0.0013 WBTC ($62.25)
-STARTER Per Week: 11454.55 ($0.93)
-APR: Day 0.21% Week 1.49% Year 77.42%
-You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
-Stake 0.00 WBTC
-Unstake 0.00 WBTC
-Claim 0.00 STARTER ($0.00)
-Staking or unstaking also claims rewards.
-
-6 - WETH Price: $3,961.63 Market Cap: $1,758,590,473.81 [%]
-Staked: 0.0400 WETH ($158.47)
-STARTER Per Week: 11454.55 ($0.93)
-APR: Day 0.08% Week 0.58% Year 30.41%
-You are staking 0.00 WETH ($0.00), 0.00% of the pool.
-Stake 0.00 WETH
-Unstake 0.00 WETH
-Claim 0.00 STARTER ($0.00)
-Staking or unstaking also claims rewards.
-
-7 - DAI Price: $1.00 Market Cap: $367,631,170.58 [%]
-Staked: 90.4910 DAI ($90.49)
-STARTER Per Week: 11454.55 ($0.93)
-APR: Day 0.15% Week 1.02% Year 53.26%
-You are staking 0.00 DAI ($0.00), 0.00% of the pool.
-Stake 0.00 DAI
-Unstake 0.00 DAI
-Claim 0.00 STARTER ($0.00)
-Staking or unstaking also claims rewards.
-
-8 - USDC Price: $1.00 Market Cap: $952,211,410.03 [%]
-Staked: 227.6613 USDC ($227.66)
-STARTER Per Week: 11454.55 ($0.93)
-APR: Day 0.06% Week 0.41% Year 21.17%
-You are staking 0.00 USDC ($0.00), 0.00% of the pool.
-Stake 0.00 USDC
-Unstake 0.00 USDC
-Claim 0.00 STARTER ($0.00)
-Staking or unstaking also claims rewards.
-
-9 - USDT Price: $1.00 Market Cap: $319,744,445.29 [%]
-Staked: 507.4698 USDT ($507.47)
-STARTER Per Week: 11454.55 ($0.93)
-APR: Day 0.03% Week 0.18% Year 9.50%
-You are staking 0.00 USDT ($0.00), 0.00% of the pool.
-Stake 0.00 USDT
-Unstake 0.00 USDT
-Claim 0.00 STARTER ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $2,330.20
+{
+  "code": -32603,
+  "message": "Non-200 status code: '400'",
+  "data": {
+    "error": "Unable to verify your data submission."
+  }
+}
+Oops something went wrong. Try refreshing the page.

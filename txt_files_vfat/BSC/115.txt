@@ -1,0 +1,67 @@
+*************** 👨‍🌾 UNOFFICIAL CDO.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://cdo.finance
+********************************************************************************
+
+Thu Jan 27 2022 20:36:45 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 10 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+4 - [CODEX]-[WBNB] Cake LP [+] [-] [<=>] Price: $4.02 TVL: $64,156.71
+CODEX Price: $0.01
+WBNB Price: $370.44
+Staked: 15881.2125 Cake-LP ($63,902.28)
+CODEX Per Week: 73127.40 ($770.52)
+APR: Day 0.17% Week 1.21% Year 62.70%
+You are staking 0.00 [CODEX]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CODEX]-[WBNB] Cake LP
+Unstake 0.00 [CODEX]-[WBNB] Cake LP
+Claim 0.00 CODEX ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - CDO_vBNB Price: $0.00 Market Cap: $0.00 
+Staked: 60.6380 CDO_vBNB ($0.00)
+CODEX Per Week: 18281.85 ($192.63)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 CDO_vBNB ($0.00), NaN% of the pool.
+Stake 0.00 CDO_vBNB
+Unstake 0.00 CDO_vBNB
+Claim 0.00 CODEX ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - CDO_vBUSD Price: $0.00 Market Cap: $0.00 
+Staked: 60237.7420 CDO_vBUSD ($0.00)
+CODEX Per Week: 9140.93 ($96.31)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 CDO_vBUSD ($0.00), NaN% of the pool.
+Stake 0.00 CDO_vBUSD
+Unstake 0.00 CDO_vBUSD
+Claim 0.00 CODEX ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - CDO_vBTC Price: $0.00 Market Cap: $0.00 
+Staked: 0.1231 CDO_vBTC ($0.00)
+CODEX Per Week: 12187.90 ($128.42)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 CDO_vBTC ($0.00), NaN% of the pool.
+Stake 0.00 CDO_vBTC
+Unstake 0.00 CDO_vBTC
+Claim 0.00 CODEX ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - CDO_vETH Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 CDO_vETH ($0.00)
+CODEX Per Week: 9140.93 ($96.31)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 CDO_vETH ($0.00), NaN% of the pool.
+Stake 0.00 CDO_vETH
+Unstake 0.00 CDO_vETH
+Claim 0.00 CODEX ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $63,902.28

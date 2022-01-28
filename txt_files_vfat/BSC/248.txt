@@ -1,0 +1,63 @@
+*************** 👨‍🌾 UNOFFICIAL FRICTION.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://friction.finance
+*************************************************************************************
+
+Thu Jan 27 2022 21:00:07 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 5 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [xTAO]-[WBNB] Cake LP [+] [-] [<=>] Price: $21,907.46 TVL: $1,999.56
+xTAO Price: $0.000281
+WBNB Price: $368.71
+Staked: 0.0830 Cake-LP ($1,818.56)
+xTAO Per Week: 210763.64 ($59.14)
+APR: Day 0.46% Week 3.25% Year 169.11%
+You are staking 0.00 [xTAO]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [xTAO]-[WBNB] Cake LP
+Unstake 0.00 [xTAO]-[WBNB] Cake LP
+Claim 0.00 xTAO ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [xTAO]-[BUSD] Cake LP [+] [-] [<=>] Price: $1,156.87 TVL: $611.42
+xTAO Price: $0.000281
+BUSD Price: $1.00
+Staked: 0.5010 Cake-LP ($579.62)
+xTAO Per Week: 168610.91 ($47.31)
+APR: Day 1.17% Week 8.16% Year 424.48%
+You are staking 0.00 [xTAO]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [xTAO]-[BUSD] Cake LP
+Unstake 0.00 [xTAO]-[BUSD] Cake LP
+Claim 0.00 xTAO ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.48 TVL: $346,408,999.26
+WBNB Price: $368.71
+BUSD Price: $1.00
+Staked: 274.9975 Cake-LP ($13,056.98)
+xTAO Per Week: 42152.73 ($11.83)
+APR: Day 0.01% Week 0.09% Year 4.71%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 2%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 xTAO ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $105.68 TVL: $201,197,640.96
+Cake Price: $7.02
+WBNB Price: $368.71
+Staked: 1.5736 Cake-LP ($166.30)
+xTAO Per Week: 42152.73 ($11.83)
+APR: Day 1.02% Week 7.11% Year 369.87%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 2%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 xTAO ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $15,621.47

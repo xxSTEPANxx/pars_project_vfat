@@ -1,0 +1,253 @@
+*************** 👨‍🌾 UNOFFICIAL GAMMA.PARTHENON.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://gamma.parthenon.finance
+********************************************************************************************
+
+Thu Jan 27 2022 20:48:20 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 22 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [GAMMA]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.01 TVL: $42.49
+GAMMA Price: $0.0000496443
+BUSD Price: $1.00
+Staked: 2650.7629 Cake-LP ($38.76)
+GAMMA Per Week: 35469.47 ($1.76)
+APR: Day 0.65% Week 4.54% Year 236.26%
+You are staking 0.00 [GAMMA]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GAMMA]-[BUSD] Cake LP
+Unstake 0.00 [GAMMA]-[BUSD] Cake LP
+Claim 0.00 GAMMA ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [GAMMA]-[WBNB] Cake LP [+] [-] [<=>] Price: $0.28 TVL: $60.14
+GAMMA Price: $0.0000496443
+WBNB Price: $370.11
+Staked: 206.5801 Cake-LP ($57.56)
+GAMMA Per Week: 35469.47 ($1.76)
+APR: Day 0.44% Week 3.06% Year 159.09%
+You are staking 0.00 [GAMMA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GAMMA]-[WBNB] Cake LP
+Unstake 0.00 [GAMMA]-[WBNB] Cake LP
+Claim 0.00 GAMMA ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $66.00 TVL: $2,135,860.20
+WBNB Price: $370.11
+BUSD Price: $1.00
+Staked: 0.0146 Cake-LP ($0.96)
+GAMMA Per Week: 5456.84 ($0.27)
+APR: Day 4.01% Week 28.09% Year 1460.51%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 GAMMA ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.17 TVL: $3,557,347.97
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 1.4183 Cake-LP ($3.08)
+GAMMA Per Week: 5456.84 ($0.27)
+APR: Day 1.26% Week 8.80% Year 457.42%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 GAMMA ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $8,212.18 TVL: $298,437.05
+BTCB Price: $36,201.00
+WBNB Price: $370.11
+Staked: 0.0000 Cake-LP ($0.11)
+GAMMA Per Week: 5456.84 ($0.27)
+APR: Day 36.28% Week 253.94% Year 13205.05%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 GAMMA ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,189.71 TVL: $477,804.32
+ETH Price: $2,427.79
+WBNB Price: $370.11
+Staked: 0.0113 Cake-LP ($24.80)
+GAMMA Per Week: 5456.84 ($0.27)
+APR: Day 0.16% Week 1.09% Year 56.79%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 GAMMA ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [DAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.05 TVL: $1,365,164.92
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 0.1812 Cake-LP ($0.37)
+GAMMA Per Week: 5456.84 ($0.27)
+APR: Day 10.40% Week 72.81% Year 3785.88%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 GAMMA ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.28 TVL: $253,558.90
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 5.4027 Cake-LP ($12.32)
+GAMMA Per Week: 5456.84 ($0.27)
+APR: Day 0.31% Week 2.20% Year 114.31%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 GAMMA ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [DOT]-[WBNB] Cake LP [+] [-] [<=>] Price: $179.73 TVL: $322,060.10
+DOT Price: $17.97
+WBNB Price: $370.11
+Staked: 0.0045 Cake-LP ($0.81)
+GAMMA Per Week: 5456.84 ($0.27)
+APR: Day 4.78% Week 33.49% Year 1741.71%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 GAMMA ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - GAMMA Price: $0.0000496443 Market Cap: $303.39 [%]
+Staked: 2546742.1445 GAMMA ($126.43)
+GAMMA Per Week: 32741.05 ($1.63)
+APR: Day 0.18% Week 1.29% Year 66.85%
+You are staking 0.00 GAMMA ($0.00), 0.00% of the pool.
+Stake 0.00 GAMMA
+Unstake 0.00 GAMMA
+Claim 0.00 GAMMA ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - BUSD Price: $1.00 Market Cap: $4,849,257,879.85 [%]
+Staked: 110.1102 BUSD ($110.07)
+GAMMA Per Week: 5456.84 ($0.27)
+APR: Day 0.04% Week 0.25% Year 12.80%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 GAMMA ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - WBNB Price: $370.11 Market Cap: $1,932,335,692.99 [%]
+Staked: 0.0010 WBNB ($0.37)
+GAMMA Per Week: 8185.26 ($0.41)
+APR: Day 15.68% Week 109.79% Year 5709.19%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 GAMMA ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - USDT Price: $1.00 Market Cap: $3,873,561,005.62 [%]
+Staked: 15.1482 USDT ($15.12)
+GAMMA Per Week: 2728.42 ($0.14)
+APR: Day 0.13% Week 0.90% Year 46.57%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 GAMMA ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - BTCB Price: $36,201.00 Market Cap: $4,072,648,701.00 [%]
+Staked: 0.0000 BTCB ($0.00)
+GAMMA Per Week: 2728.42 ($0.14)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 BTCB ($0.00), NaN% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 GAMMA ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - ETH Price: $2,427.79 Market Cap: $3,411,044,950.00 [%]
+Staked: 0.0030 ETH ($7.20)
+GAMMA Per Week: 2728.42 ($0.14)
+APR: Day 0.27% Week 1.88% Year 97.83%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 GAMMA ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - DAI Price: $1.00 Market Cap: $262,000,000.00 [%]
+Staked: 9.5299 DAI ($9.53)
+GAMMA Per Week: 2728.42 ($0.14)
+APR: Day 0.20% Week 1.42% Year 73.91%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 GAMMA ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - USDC Price: $1.00 Market Cap: $1,778,130,069.00 [%]
+Staked: 9.1200 USDC ($9.12)
+GAMMA Per Week: 2728.42 ($0.14)
+APR: Day 0.21% Week 1.49% Year 77.27%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 GAMMA ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - DOT Price: $17.97 Market Cap: $287,519,999.84 [%]
+Staked: 9.0455 DOT ($162.55)
+GAMMA Per Week: 2728.42 ($0.14)
+APR: Day 0.01% Week 0.08% Year 4.33%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 GAMMA ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - Cake Price: $7.06 Market Cap: $4,341,580,375.08 [%]
+Staked: 0.0009 Cake ($0.01)
+GAMMA Per Week: 1364.21 ($0.07)
+APR: Day 145.54% Week 1018.78% Year 52976.42%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 GAMMA ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - MUSCLE Price: $0.00 Market Cap: $0.00 
+Staked: 0.0397 MUSCLE ($0.00)
+GAMMA Per Week: 2728.42 ($0.14)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 MUSCLE ($0.00), NaN% of the pool.
+Stake 0.00 MUSCLE - Fee 1%
+Unstake 0.00 MUSCLE
+Claim 0.00 GAMMA ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - AUTO Price: $405.46 Market Cap: $32,695,560.24 [%]
+Staked: 0.0028 AUTO ($1.14)
+GAMMA Per Week: 1364.21 ($0.07)
+APR: Day 0.85% Week 5.95% Year 309.37%
+You are staking 0.00 AUTO ($0.00), 0.00% of the pool.
+Stake 0.00 AUTO - Fee 4%
+Unstake 0.00 AUTO
+Claim 0.00 GAMMA ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - BETA Price: $0.00 Market Cap: $0.00 
+Staked: 14483.7815 BETA ($0.00)
+GAMMA Per Week: 4092.63 ($0.20)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BETA ($0.00), NaN% of the pool.
+Stake 0.00 BETA - Fee 4%
+Unstake 0.00 BETA
+Claim 0.00 GAMMA ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $580.30

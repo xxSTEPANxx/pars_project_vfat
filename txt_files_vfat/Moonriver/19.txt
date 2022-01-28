@@ -1,0 +1,41 @@
+***************************** MOONRIVER NETWORK ********************************
+
+*************** 👨‍🌾 UNOFFICIAL RIVRKITTY FARMING CALCULATOR 👨‍🌾 ****************
+INFO  : https://www.rivrkitty.com
+******************************************************************************
+
+Fri Jan 28 2022 01:16:19 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 2 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [FINN]-[RKITTY] Huckleberry LP [+] [-] [<=>] Price: $0.00 TVL: $104,003.72
+FINN Price: $0.34
+RKITTY Price: $0.0000001500
+Staked: 0.0000 HBLP ($0.00)
+PAWS Per Week: 433.79 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [FINN]-[RKITTY] Huckleberry LP ($0.00), NaN% of the pool.
+Stake 0.00 [FINN]-[RKITTY] Huckleberry LP
+Unstake 0.00 [FINN]-[RKITTY] Huckleberry LP
+Claim 0.00 PAWS ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WMOVR]-[RKITTY] Huckleberry LP [+] [-] [<=>] Price: $0.01 TVL: $3,407.10
+WMOVR Price: $71.64
+RKITTY Price: $0.0000001500
+Staked: 486630.4582 HBLP ($3,275.35)
+PAWS Per Week: 433.79 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [WMOVR]-[RKITTY] Huckleberry LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMOVR]-[RKITTY] Huckleberry LP
+Unstake 0.00 [WMOVR]-[RKITTY] Huckleberry LP
+Claim 0.00 PAWS ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $3,275.35

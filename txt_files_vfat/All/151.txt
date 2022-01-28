@@ -1,0 +1,51 @@
+*************** 👨‍🌾 UNOFFICIAL BEVERAGE.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://beverage.finance
+*************************************************************************************
+
+Thu Jan 27 2022 20:08:10 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 7 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+3 - [MKRETHDOOM]-[USDC] SLP [+] [-] [<=>] Price: $17,888,998.08 TVL: $44,112.25
+MKRETHDOOM Price: $79.40
+USDC Price: $1.00
+Staked: 0.0024 SLP ($43,820.92)
+DRINK Per Week: 407272.73 ($1,245.62)
+APR: Day 0.41% Week 2.84% Year 147.81%
+You are staking 0.00 [MKRETHDOOM]-[USDC] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [MKRETHDOOM]-[USDC] SLP
+Unstake 0.00 [MKRETHDOOM]-[USDC] SLP
+Claim 0.00 DRINK ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [TETHERDOOM]-[USDC] SLP [+] [-] [<=>] Price: $1,902,735.37 TVL: $166,298.06
+TETHERDOOM Price: $0.90
+USDC Price: $1.00
+Staked: 0.0873 SLP ($166,036.89)
+DRINK Per Week: 407272.73 ($1,245.62)
+APR: Day 0.11% Week 0.75% Year 39.01%
+You are staking 0.00 [TETHERDOOM]-[USDC] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [TETHERDOOM]-[USDC] SLP
+Unstake 0.00 [TETHERDOOM]-[USDC] SLP
+Claim 0.00 DRINK ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [DRINK]-[WETH] SLP [+] [-] [<=>] Price: $5.61 TVL: $54,536.64
+DRINK Price: $0.003058
+WETH Price: $2,475.46
+Staked: 9660.9640 SLP ($54,202.55)
+DRINK Per Week: 814545.45 ($2,491.24)
+APR: Day 0.66% Week 4.60% Year 239.00%
+You are staking 0.00 [DRINK]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [DRINK]-[WETH] SLP
+Unstake 0.00 [DRINK]-[WETH] SLP
+Claim 0.00 DRINK ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $264,060.36

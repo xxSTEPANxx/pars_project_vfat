@@ -1,0 +1,112 @@
+*************** 👨‍🌾 UNOFFICIAL VALUE SET DOLLAR CALCULATOR 👨‍🌾 ***************
+INFO  : https://valueset.finance/
+********************************************************************************
+
+Thu Jan 27 2022 19:39:53 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Current Epoch: 767
+VSD Price: $0.40
+Collateral Ratio: 46.92%
+VSD Total Supply: 58609.64, $23,316.21
+VSD Total Staged: 4.10, $1.63
+VSD Total Bonded: 513.25, $204.18
+You have 0.00 unstaked VSD, $0.00
+You have 0.00 staged VSD, $0.00, 0.0000% of the pool
+You have 0.00 bonded VSD, $0.00, 0.0000% of the pool
+Redeem 0.00 VSD
+
+
+[VSD]-[WETH] Uni LP [+] [-] [<=>] Price: $67.35 TVL: $275.07
+VSD Price: $0.40
+WETH Price: $2,476.53
+Staked: 4.0844 UNI-V2 ($275.07)
+VSD-WETH LP Total Staged: 4.08, $275.07
+VSD-WETH LP Total Bonded: 0.00, $0.00
+Your LP status is Frozen
+You have 0.00000000 unstaked VSD-WETH LP, $0.00
+You have 0.00000000 staged VSD-WETH LP, $0.00, 0.0000% of the pool
+You have 0.00000000 bonded VSD-WETH LP, $0.00, 0.0000% of the pool
+You have 0.00 claimable VSD ($0.00)
+Deposit 0.00000000 VSD-WETH LP
+Withdraw 0.00000000 VSD-WETH LP
+Bond 0.00000000 VSD-WETH LP
+Unbond 0.00000000 VSD-WETH LP
+Claim 0.00 VSD
+Provide 0.00 VSD + 0 WETH
+
+[VSD]-[DAI] Uni LP [+] [-] [<=>] Price: $1.28 TVL: $658.92
+VSD Price: $0.40
+DAI Price: $1.00
+Staked: 513.2402 UNI-V2 ($658.92)
+VSD-DAI LP Total Staged: 0.00, $0.00
+VSD-DAI LP Total Bonded: 513.24, $658.92
+Your LP status is Frozen
+You have 0.00000000 unstaked VSD-DAI LP, $0.00
+You have 0.00000000 staged VSD-DAI LP, $0.00, 0.0000% of the pool
+You have 0.00000000 bonded VSD-DAI LP, $0.00, 0.0000% of the pool
+You have 0.00 claimable VSD ($0.00)
+Deposit 0.00000000 VSD-DAI LP
+Withdraw 0.00000000 VSD-DAI LP
+Bond 0.00000000 VSD-DAI LP
+Unbond 0.00000000 VSD-DAI LP
+Claim 0.00 VSD
+Provide 0.00 VSD + 0 DAI
+
+[VSD]-[USDC] Uni LP [+] [-] [<=>] Price: $1,297,030.37 TVL: $35,351.15
+VSD Price: $0.40
+USDC Price: $1.00
+Staked: 0.0272 UNI-V2 ($35,342.69)
+VSD-USDC LP Total Staged: 0.02, $25,304.03
+VSD-USDC LP Total Bonded: 0.01, $10,038.66
+Your LP status is Frozen
+You have 0.00000000 unstaked VSD-USDC LP, $0.00
+You have 0.00000000 staged VSD-USDC LP, $0.00, 0.0000% of the pool
+You have 0.00000000 bonded VSD-USDC LP, $0.00, 0.0000% of the pool
+You have 0.00 claimable VSD ($0.00)
+Deposit 0.00000000 VSD-USDC LP
+Withdraw 0.00000000 VSD-USDC LP
+Bond 0.00000000 VSD-USDC LP
+Unbond 0.00000000 VSD-USDC LP
+Claim 0.00 VSD
+Provide 0.00 VSD + 0 USDC
+
+[VSD]-[USDT] Uni LP [+] [-] [<=>] Price: $1,000,469,215.05 TVL: $0.00
+VSD Price: $0.40
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($0.00)
+VSD-USDT LP Total Staged: 0.00, $0.00
+VSD-USDT LP Total Bonded: 0.00, $0.00
+Your LP status is Frozen
+You have 0.00000000 unstaked VSD-USDT LP, $0.00
+You have 0.00000000 staged VSD-USDT LP, $0.00, 0.0000% of the pool
+You have 0.00000000 bonded VSD-USDT LP, $0.00, 0.0000% of the pool
+You have 0.00 claimable VSD ($0.00)
+Deposit 0.00000000 VSD-USDT LP
+Withdraw 0.00000000 VSD-USDT LP
+Bond 0.00000000 VSD-USDT LP
+Unbond 0.00000000 VSD-USDT LP
+Claim 0.00 VSD
+Provide 0.00 VSD + 0 USDT
+
+TWAP: 0.402
+DAO APY: Day 0.00% Month 0.00% 
+DAO Unbonds
+Unbonding at epoch 768: 0.00 ($0.00)
+Unbonding at epoch 769: 0.00 ($0.00)
+Unbonding at epoch 770: 0.00 ($0.00)
+Unbonding at epoch 771: 0.00 ($0.00)
+Unbonding at epoch 772: 0.00 ($0.00)
+Unbonding at epoch 773: 0.00 ($0.00)
+Unbonding at epoch 774: 0.00 ($0.00)
+Unbonding at epoch 775: 0.00 ($0.00)
+Unbonding at epoch 776: 0.00 ($0.00)
+Unbonding at epoch 777: 0.00 ($0.00)
+Unbonding at epoch 778: 0.00 ($0.00)
+Unbonding at epoch 779: 0.00 ($0.00)
+Unbonding at epoch 780: 0.00 ($0.00)
+Unbonding at epoch 781: 0.00 ($0.00)
+Unbonding at epoch 782: 0.00 ($0.00)

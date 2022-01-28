@@ -1,0 +1,223 @@
+*************** 👨‍🌾 UNOFFICIAL OLIVE FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://olive.cash/farms
+**********************************************************************************
+
+Thu Jan 27 2022 20:47:23 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 123 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - OLIVE Price: $0.00 Market Cap: $0.00 
+Staked: 3268251.5229 OLIVE ($0.00)
+OLIVE Per Week: 37565.22 ($1,554.32)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 OLIVE ($0.00), NaN% of the pool.
+Stake 0.00 OLIVE
+Unstake 0.00 OLIVE
+Claim 0.00 OLIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [OLIVE]-[WBNB] Cake LP [+] [-] [<=>] Price: $8.59 TVL: $153,580.09
+OLIVE Price: $0.04
+WBNB Price: $370.11
+Staked: 17750.3493 Cake-LP ($152,474.70)
+OLIVE Per Week: 100173.91 ($4,144.86)
+APR: Day 0.39% Week 2.72% Year 141.36%
+You are staking 0.00 [OLIVE]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [OLIVE]-[WBNB] Cake LP
+Unstake 0.00 [OLIVE]-[WBNB] Cake LP
+Claim 0.00 OLIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [OLIVE]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.44 TVL: $39,096.02
+OLIVE Price: $0.04
+BUSD Price: $1.00
+Staked: 88768.0389 Cake-LP ($38,710.12)
+OLIVE Per Week: 20034.78 ($828.97)
+APR: Day 0.31% Week 2.14% Year 111.36%
+You are staking 0.00 [OLIVE]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [OLIVE]-[BUSD] Cake LP
+Unstake 0.00 [OLIVE]-[BUSD] Cake LP
+Claim 0.00 OLIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [SPORE]-[WBNB] Cake LP [+] [-] [<=>] Price: $16.15 TVL: $93,236.18
+SPORE Price: $0.0000000001
+WBNB Price: $370.11
+Staked: 5600.6227 Cake-LP ($90,433.82)
+OLIVE Per Week: 1252.17 ($51.81)
+APR: Day 0.01% Week 0.06% Year 2.98%
+You are staking 0.00 [SPORE]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SPORE]-[WBNB] Cake LP
+Unstake 0.00 [SPORE]-[WBNB] Cake LP
+Claim 0.00 OLIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - [BUBBLEGUM]-[WBNB] Cake LP [+] [-] [<=>] Price: $656.08 TVL: $23,229.86
+BUBBLEGUM Price: $0.0000001316
+WBNB Price: $370.11
+Staked: 7.7717 Cake-LP ($5,098.86)
+OLIVE Per Week: 5008.70 ($207.24)
+APR: Day 0.58% Week 4.06% Year 211.35%
+You are staking 0.00 [BUBBLEGUM]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUBBLEGUM]-[WBNB] Cake LP
+Unstake 0.00 [BUBBLEGUM]-[WBNB] Cake LP
+Claim 0.00 OLIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+41 - [SENSI]-[WBNB] Cake LP [+] [-] [<=>] Price: $96.10 TVL: $111,885.09
+SENSI Price: $0.0000000051
+WBNB Price: $370.11
+Staked: 205.5871 Cake-LP ($19,756.03)
+OLIVE Per Week: 2504.35 ($103.62)
+APR: Day 0.07% Week 0.52% Year 27.27%
+You are staking 0.00 [SENSI]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SENSI]-[WBNB] Cake LP
+Unstake 0.00 [SENSI]-[WBNB] Cake LP
+Claim 0.00 OLIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+59 - [KANA]-[WBNB] Cake LP [+] [-] [<=>] Price: $0.92 TVL: $47,370.84
+KANA Price: $0.000507
+WBNB Price: $370.11
+Staked: 33483.6805 Cake-LP ($30,673.11)
+OLIVE Per Week: 500.87 ($20.72)
+APR: Day 0.01% Week 0.07% Year 3.51%
+You are staking 0.00 [KANA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KANA]-[WBNB] Cake LP
+Unstake 0.00 [KANA]-[WBNB] Cake LP
+Claim 0.00 OLIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+60 - [HUSKY]-[WBNB] Cake LP [+] [-] [<=>] Price: $0.01 TVL: $28,525.68
+HUSKY Price: $0.0000000290
+WBNB Price: $370.11
+Staked: 930691.5206 Cake-LP ($7,269.85)
+OLIVE Per Week: 250.43 ($10.36)
+APR: Day 0.02% Week 0.14% Year 7.41%
+You are staking 0.00 [HUSKY]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [HUSKY]-[WBNB] Cake LP
+Unstake 0.00 [HUSKY]-[WBNB] Cake LP
+Claim 0.00 OLIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+67 - [XMINE]-[WBNB] Cake LP [+] [-] [<=>] Price: $7,564.41 TVL: $135,159.10
+XMINE Price: $0.0000314848
+WBNB Price: $370.11
+Staked: 0.3535 Cake-LP ($2,674.38)
+OLIVE Per Week: 2504.35 ($103.62)
+APR: Day 0.55% Week 3.87% Year 201.48%
+You are staking 0.00 [XMINE]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [XMINE]-[WBNB] Cake LP
+Unstake 0.00 [XMINE]-[WBNB] Cake LP
+Claim 0.00 OLIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+79 - [WBNB]-[IF1] Cake LP [+] [-] [<=>] Price: $325.49 TVL: $40,403.40
+WBNB Price: $370.11
+IF1 Price: $0.0000000583
+Staked: 11.8378 Cake-LP ($3,853.07)
+OLIVE Per Week: 5008.70 ($207.24)
+APR: Day 0.77% Week 5.38% Year 279.69%
+You are staking 0.00 [WBNB]-[IF1] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[IF1] Cake LP
+Unstake 0.00 [WBNB]-[IF1] Cake LP
+Claim 0.00 OLIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+80 - [SeaChain]-[WBNB] APE LP [+] [-] [<=>] Price: $1,451.70 TVL: $158,251.67
+SeaChain Price: $0.0000013969
+WBNB Price: $370.11
+Staked: 4.7993 APE-LP ($6,967.18)
+OLIVE Per Week: 10017.39 ($414.49)
+APR: Day 0.85% Week 5.95% Year 309.35%
+You are staking 0.00 [SeaChain]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SeaChain]-[WBNB] APE LP
+Unstake 0.00 [SeaChain]-[WBNB] APE LP
+Claim 0.00 OLIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+92 - [AMPLE]-[WBNB] Cake LP [+] [-] [<=>] Price: $2.03 TVL: $6,136.71
+AMPLE Price: $0.001783
+WBNB Price: $370.11
+Staked: 120.2461 Cake-LP ($243.62)
+OLIVE Per Week: 250.43 ($10.36)
+APR: Day 0.61% Week 4.25% Year 221.18%
+You are staking 0.00 [AMPLE]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AMPLE]-[WBNB] Cake LP
+Unstake 0.00 [AMPLE]-[WBNB] Cake LP
+Claim 0.00 OLIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+103 - LORY Price: $0.00 Market Cap: $0.00 
+Staked: 23584.3879 LORY ($0.00)
+OLIVE Per Week: 2504.35 ($103.62)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 LORY ($0.00), NaN% of the pool.
+Stake 0.00 LORY
+Unstake 0.00 LORY
+Claim 0.00 OLIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+104 - FRT Price: $0.00 Market Cap: $0.00 
+Staked: 27458.4624 FRT ($0.00)
+OLIVE Per Week: 5008.70 ($207.24)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FRT ($0.00), NaN% of the pool.
+Stake 0.00 FRT
+Unstake 0.00 FRT
+Claim 0.00 OLIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+109 - [CGS]-[WBNB] Cake LP [+] [-] [<=>] Price: $2.38 TVL: $6,179.39
+CGS Price: $0.002383
+WBNB Price: $370.11
+Staked: 140.7721 Cake-LP ($334.65)
+OLIVE Per Week: 250.43 ($10.36)
+APR: Day 0.44% Week 3.10% Year 161.01%
+You are staking 0.00 [CGS]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CGS]-[WBNB] Cake LP
+Unstake 0.00 [CGS]-[WBNB] Cake LP
+Claim 0.00 OLIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+111 - CORIS Price: $0.00 Market Cap: $0.00 
+Staked: 53836.5665 CORIS ($0.00)
+OLIVE Per Week: 1252.17 ($51.81)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 CORIS ($0.00), NaN% of the pool.
+Stake 0.00 CORIS
+Unstake 0.00 CORIS
+Claim 0.00 OLIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+121 - [FNX]-[WBNB] Cake LP [+] [-] [<=>] Price: $7,497.73 TVL: $12,802.35
+FNX Price: $0.0000373974
+WBNB Price: $370.11
+Staked: 0.2531 Cake-LP ($1,897.47)
+OLIVE Per Week: 2504.35 ($103.62)
+APR: Day 0.78% Week 5.46% Year 283.97%
+You are staking 0.00 [FNX]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FNX]-[WBNB] Cake LP
+Unstake 0.00 [FNX]-[WBNB] Cake LP
+Claim 0.00 OLIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+122 - [WINGS]-[WBNB] Uni LP [+] [-] [<=>] Price: $6.34 TVL: $197,306.67
+WINGS Price: $0.02
+WBNB Price: $370.11
+Staked: 102.3830 WINGS-LP ($649.12)
+OLIVE Per Week: 5008.70 ($207.24)
+APR: Day 4.56% Week 31.93% Year 1660.21%
+You are staking 0.00 [WINGS]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WINGS]-[WBNB] Uni LP
+Unstake 0.00 [WINGS]-[WBNB] Uni LP
+Claim 0.00 OLIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $361,035.99

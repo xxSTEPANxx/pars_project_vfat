@@ -1,0 +1,175 @@
+*************** 👨‍🌾 UNOFFICIAL KUKAFE FINANCE CALCULATOR 👨‍🌾 ***************
+INFO  : https://kukafe.finance
+***************************************************************************
+
+Fri Jan 28 2022 01:09:58 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 20 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - KAFE Price: $0.00 Market Cap: $0.00 
+Staked: 56735.5364 KAFE ($0.00)
+Kafe Per Week: 365.66 ($29.32)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 KAFE ($0.00), NaN% of the pool.
+Stake 0.00 KAFE
+Unstake 0.00 KAFE
+Claim 0.00 Kafe ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WKCS]-[KAFE] Uni LP [+] [-] [<=>] Price: $2.61 TVL: $28,617.57
+WKCS Price: $15.59
+KAFE Price: $0.08
+Staked: 10302.4190 KUDEX-LP ($26,861.38)
+Kafe Per Week: 2925.27 ($234.53)
+APR: Day 0.12% Week 0.87% Year 45.40%
+You are staking 0.00 [WKCS]-[KAFE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WKCS]-[KAFE] Uni LP
+Unstake 0.00 [WKCS]-[KAFE] Uni LP
+Claim 0.00 Kafe ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [USDT]-[KAFE] Uni LP [+] [-] [<=>] Price: $0.76 TVL: $2,491.81
+USDT Price: $1.00
+KAFE Price: $0.08
+Staked: 3244.1481 KUDEX-LP ($2,462.53)
+Kafe Per Week: 804.45 ($64.49)
+APR: Day 0.37% Week 2.62% Year 136.19%
+You are staking 0.00 [USDT]-[KAFE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[KAFE] Uni LP
+Unstake 0.00 [USDT]-[KAFE] Uni LP
+Claim 0.00 Kafe ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [KAFE]-[USDC] Uni LP [+] [-] [<=>] Price: $0.78 TVL: $2,715.84
+KAFE Price: $0.08
+USDC Price: $0.99
+Staked: 3290.0058 KUDEX-LP ($2,558.23)
+Kafe Per Week: 804.45 ($64.49)
+APR: Day 0.36% Week 2.52% Year 131.09%
+You are staking 0.00 [KAFE]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KAFE]-[USDC] Uni LP
+Unstake 0.00 [KAFE]-[USDC] Uni LP
+Claim 0.00 Kafe ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDT]-[USDC] Uni LP [+] [-] [<=>] Price: $2.03 TVL: $1,769.20
+USDT Price: $1.00
+USDC Price: $0.99
+Staked: 577.8423 KUDEX-LP ($1,170.89)
+Kafe Per Week: 29.25 ($2.35)
+APR: Day 0.03% Week 0.20% Year 10.42%
+You are staking 0.00 [USDT]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[USDC] Uni LP - Fee 3.5%
+Unstake 0.00 [USDT]-[USDC] Uni LP
+Claim 0.00 Kafe ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WKCS]-[USDC] Uni LP [+] [-] [<=>] Price: $8.43 TVL: $3,234.75
+WKCS Price: $15.59
+USDC Price: $0.99
+Staked: 75.0403 KUDEX-LP ($632.28)
+Kafe Per Week: 58.51 ($4.69)
+APR: Day 0.11% Week 0.74% Year 38.58%
+You are staking 0.00 [WKCS]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WKCS]-[USDC] Uni LP - Fee 3%
+Unstake 0.00 [WKCS]-[USDC] Uni LP
+Claim 0.00 Kafe ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [USDT]-[WKCS] Uni LP [+] [-] [<=>] Price: $8.67 TVL: $5,822.13
+USDT Price: $1.00
+WKCS Price: $15.59
+Staked: 130.1883 KUDEX-LP ($1,128.67)
+Kafe Per Week: 58.51 ($4.69)
+APR: Day 0.06% Week 0.42% Year 21.61%
+You are staking 0.00 [USDT]-[WKCS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WKCS] Uni LP - Fee 3%
+Unstake 0.00 [USDT]-[WKCS] Uni LP
+Claim 0.00 Kafe ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - WKCS Price: $15.59 Market Cap: $15,049,184.35 
+Staked: 55.8781 WKCS ($871.14)
+Kafe Per Week: 43.88 ($3.52)
+APR: Day 0.06% Week 0.40% Year 21.00%
+You are staking 0.00 WKCS ($0.00), 0.00% of the pool.
+Stake 0.00 WKCS - Fee 3%
+Unstake 0.00 WKCS
+Claim 0.00 Kafe ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - USDC Price: $0.99 Market Cap: $16,055,911.25 
+Staked: 1091.3596 USDC ($1,084.63)
+Kafe Per Week: 29.25 ($2.35)
+APR: Day 0.03% Week 0.22% Year 11.24%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 3.5%
+Unstake 0.00 USDC
+Claim 0.00 Kafe ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - USDT Price: $1.00 Market Cap: $27,608,552.60 
+Staked: 162.1088 USDT ($162.08)
+Kafe Per Week: 29.25 ($2.35)
+APR: Day 0.21% Week 1.45% Year 75.24%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 3.5%
+Unstake 0.00 USDT
+Claim 0.00 Kafe ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [WKCS]-[KAFE] KUS LP [+] [-] [<=>] Price: $2.57 TVL: $18,635.29
+WKCS Price: $15.59
+KAFE Price: $0.08
+Staked: 6592.9938 KUS-LP ($16,945.93)
+Kafe Per Week: 2925.27 ($234.53)
+APR: Day 0.20% Week 1.38% Year 71.97%
+You are staking 0.00 [WKCS]-[KAFE] KUS LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WKCS]-[KAFE] KUS LP
+Unstake 0.00 [WKCS]-[KAFE] KUS LP
+Claim 0.00 Kafe ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [USDT]-[KAFE] KUS LP [+] [-] [<=>] Price: $0.69 TVL: $4,627.32
+USDT Price: $1.00
+KAFE Price: $0.08
+Staked: 6637.4155 KUS-LP ($4,555.12)
+Kafe Per Week: 804.45 ($64.49)
+APR: Day 0.20% Week 1.42% Year 73.63%
+You are staking 0.00 [USDT]-[KAFE] KUS LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[KAFE] KUS LP
+Unstake 0.00 [USDT]-[KAFE] KUS LP
+Claim 0.00 Kafe ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [KUS]-[KAFE] KUS LP [+] [-] [<=>] Price: $0.45 TVL: $3,885.11
+KUS Price: $0.41
+KAFE Price: $0.08
+Staked: 6758.6160 KUS-LP ($3,054.51)
+Kafe Per Week: 1608.90 ($128.99)
+APR: Day 0.60% Week 4.22% Year 219.59%
+You are staking 0.00 [KUS]-[KAFE] KUS LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KUS]-[KAFE] KUS LP
+Unstake 0.00 [KUS]-[KAFE] KUS LP
+Claim 0.00 Kafe ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [KAFE]-[KUD] Uni LP [+] [-] [<=>] Price: $0.01 TVL: $3,799.20
+KAFE Price: $0.08
+KUD Price: $0.000273
+Staked: 357375.6310 KUDEX-LP ($3,787.95)
+Kafe Per Week: 1608.90 ($128.99)
+APR: Day 0.49% Week 3.41% Year 177.07%
+You are staking 0.00 [KAFE]-[KUD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KAFE]-[KUD] Uni LP
+Unstake 0.00 [KAFE]-[KUD] Uni LP
+Claim 0.00 Kafe ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $65,275.34

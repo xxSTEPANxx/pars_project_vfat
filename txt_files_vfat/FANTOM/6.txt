@@ -1,0 +1,37 @@
+*************** 👨‍🌾 UNOFFICIAL ESTER.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://ester.finance
+**********************************************************************************
+
+Fri Jan 28 2022 00:32:03 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 6 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [EST]-[WFTM] SPIRIT LP [+] [-] [<=>] Price: $0.27 TVL: $11,165.43
+EST Price: $0.006337
+WFTM Price: $2.02
+Staked: 28238.6273 SPIRIT-LP ($7,703.96)
+EST Per Week: 21992.73 ($139.38)
+APR: Day 0.26% Week 1.81% Year 94.08%
+You are staking 0.00 [EST]-[WFTM] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [EST]-[WFTM] SPIRIT LP
+Unstake 0.00 [EST]-[WFTM] SPIRIT LP
+Claim 0.00 EST ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - EST Price: $0.006337 Market Cap: $19,062.85 
+Staked: 336628.1553 EST ($2,133.34)
+EST Per Week: 2199.27 ($13.94)
+APR: Day 0.09% Week 0.65% Year 33.97%
+You are staking 0.00 EST ($0.00), 0.00% of the pool.
+Stake 0.00 EST
+Unstake 0.00 EST
+Claim 0.00 EST ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $9,837.30

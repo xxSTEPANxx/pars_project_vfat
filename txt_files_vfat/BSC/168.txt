@@ -1,0 +1,187 @@
+*************** 👨‍🌾 UNOFFICIAL GAMETOKEN.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://app.gametoken.finance
+**************************************************************************************
+
+Thu Jan 27 2022 20:46:45 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 32 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - GMEv3 Price: $0.003389 Market Cap: $1,386.13 [%]
+Staked: 146661.3812 GMEv3 ($497.06)
+GME Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 GMEv3 ($0.00), 0.00% of the pool.
+Stake 0.00 GMEv3
+Unstake 0.00 GMEv3
+Claim 0.00 GME ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [GMEv3]-[BUSD] APE LP [+] [-] [<=>] Price: $0.12 TVL: $345.09
+GMEv3 Price: $0.003389
+BUSD Price: $1.00
+Staked: 2900.8816 APE-LP ($342.37)
+GME Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [GMEv3]-[BUSD] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GMEv3]-[BUSD] APE LP
+Unstake 0.00 [GMEv3]-[BUSD] APE LP
+Claim 0.00 GME ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[GMEv3] APE LP [+] [-] [<=>] Price: $2.28 TVL: $658.46
+WBNB Price: $370.11
+GMEv3 Price: $0.003389
+Staked: 285.1194 APE-LP ($650.05)
+GME Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WBNB]-[GMEv3] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[GMEv3] APE LP
+Unstake 0.00 [WBNB]-[GMEv3] APE LP
+Claim 0.00 GME ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - Cake Price: $7.07 Market Cap: $4,347,726,323.88 [%]
+Staked: 0.1064 Cake ($0.75)
+GME Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake
+Unstake 0.00 Cake
+Claim 0.00 GME ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - BUSD Price: $1.00 Market Cap: $4,849,558,641.81 [%]
+Staked: 2.0796 BUSD ($2.08)
+GME Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD
+Unstake 0.00 BUSD
+Claim 0.00 GME ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [WBNB]-[BUSD] APE LP [+] [-] [<=>] Price: $51.98 TVL: $9,476,058.94
+WBNB Price: $370.11
+BUSD Price: $1.00
+Staked: 4.1204 APE-LP ($214.19)
+GME Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WBNB]-[BUSD] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] APE LP
+Unstake 0.00 [WBNB]-[BUSD] APE LP
+Claim 0.00 GME ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [BANANA]-[GMEv3] APE LP [+] [-] [<=>] Price: $0.09 TVL: $16.67
+BANANA Price: $0.62
+GMEv3 Price: $0.003389
+Staked: 175.5866 APE-LP ($16.34)
+GME Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [BANANA]-[GMEv3] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BANANA]-[GMEv3] APE LP
+Unstake 0.00 [BANANA]-[GMEv3] APE LP
+Claim 0.00 GME ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [AUTO]-[WBNB] APE LP [+] [-] [<=>] Price: $799.67 TVL: $652,670.99
+AUTO Price: $405.82
+WBNB Price: $370.11
+Staked: 0.0679 APE-LP ($54.29)
+GME Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [AUTO]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AUTO]-[WBNB] APE LP
+Unstake 0.00 [AUTO]-[WBNB] APE LP
+Claim 0.00 GME ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [FTM]-[WBNB] APE LP [+] [-] [<=>] Price: $62.26 TVL: $3,501,970.37
+FTM Price: $2.14
+WBNB Price: $370.11
+Staked: 0.0000 APE-LP ($0.00)
+GME Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [FTM]-[WBNB] APE LP ($0.00), NaN% of the pool.
+Stake 0.00 [FTM]-[WBNB] APE LP
+Unstake 0.00 [FTM]-[WBNB] APE LP
+Claim 0.00 GME ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [XRP]-[WBNB] APE LP [+] [-] [<=>] Price: $31.03 TVL: $873,904.03
+XRP Price: $0.61
+WBNB Price: $370.11
+Staked: 7.8257 APE-LP ($242.80)
+GME Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [XRP]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [XRP]-[WBNB] APE LP
+Unstake 0.00 [XRP]-[WBNB] APE LP
+Claim 0.00 GME ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - XRP Price: $0.61 Market Cap: $167,738,181.00 [%]
+Staked: 2.3210 XRP ($1.41)
+GME Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 XRP ($0.00), 0.00% of the pool.
+Stake 0.00 XRP
+Unstake 0.00 XRP
+Claim 0.00 GME ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [WBNB]-[MATIC] APE LP [+] [-] [<=>] Price: $54.18 TVL: $2,342,247.66
+WBNB Price: $370.11
+MATIC Price: $1.61
+Staked: 0.4283 APE-LP ($23.21)
+GME Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WBNB]-[MATIC] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[MATIC] APE LP
+Unstake 0.00 [WBNB]-[MATIC] APE LP
+Claim 0.00 GME ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - [DOT]-[WBNB] APE LP [+] [-] [<=>] Price: $169.64 TVL: $1,749,655.15
+DOT Price: $17.98
+WBNB Price: $370.11
+Staked: 0.0000 APE-LP ($0.00)
+GME Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [DOT]-[WBNB] APE LP ($0.00), NaN% of the pool.
+Stake 0.00 [DOT]-[WBNB] APE LP
+Unstake 0.00 [DOT]-[WBNB] APE LP
+Claim 0.00 GME ($0.00)
+Staking or unstaking also claims rewards.
+
+29 - [Cake]-[GMEv3] APE LP [+] [-] [<=>] Price: $0.31 TVL: $38.46
+Cake Price: $7.07
+GMEv3 Price: $0.003389
+Staked: 115.9839 APE-LP ($36.28)
+GME Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [Cake]-[GMEv3] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[GMEv3] APE LP
+Unstake 0.00 [Cake]-[GMEv3] APE LP
+Claim 0.00 GME ($0.00)
+Staking or unstaking also claims rewards.
+
+30 - [DOT]-[GMEv3] APE LP [+] [-] [<=>] Price: $0.50 TVL: $8.11
+DOT Price: $17.98
+GMEv3 Price: $0.003389
+Staked: 10.3899 APE-LP ($5.16)
+GME Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [DOT]-[GMEv3] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[GMEv3] APE LP
+Unstake 0.00 [DOT]-[GMEv3] APE LP
+Claim 0.00 GME ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $2,085.99

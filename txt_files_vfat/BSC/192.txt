@@ -1,0 +1,503 @@
+*************** 👨‍🌾 UNOFFICIAL ZOMBIE-FARM FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://zombie-farm.com
+****************************************************************************************
+
+Thu Jan 27 2022 20:50:15 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 13 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [Zombie]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.06 TVL: $396.72
+Zombie Price: $0.000492
+BUSD Price: $1.00
+Staked: 5151.4750 Cake-LP ($320.09)
+ZOMBIE Per Week: 22400.00 ($11.02)
+APR: Day 0.49% Week 3.44% Year 179.09%
+You are staking 0.00 [Zombie]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Zombie]-[BUSD] Cake LP
+Unstake 0.00 [Zombie]-[BUSD] Cake LP
+Claim 0.00 ZOMBIE ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [Zombie]-[WBNB] Cake LP [+] [-] [<=>] Price: $1.23 TVL: $811.62
+Zombie Price: $0.000492
+WBNB Price: $370.49
+Staked: 389.6214 Cake-LP ($478.67)
+ZOMBIE Per Week: 22400.00 ($11.02)
+APR: Day 0.33% Week 2.30% Year 119.76%
+You are staking 0.00 [Zombie]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Zombie]-[WBNB] Cake LP
+Unstake 0.00 [Zombie]-[WBNB] Cake LP
+Claim 0.00 ZOMBIE ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $66.03 TVL: $2,136,849.00
+WBNB Price: $370.49
+BUSD Price: $1.00
+Staked: 20.0001 Cake-LP ($1,320.69)
+ZOMBIE Per Week: 13440.00 ($6.61)
+APR: Day 0.07% Week 0.50% Year 26.04%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 ZOMBIE ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - Zombie Price: $0.000492 Market Cap: $2,138.07 [%]
+Staked: 1339686.5161 Zombie ($659.32)
+ZOMBIE Per Week: 22400.00 ($11.02)
+APR: Day 0.24% Week 1.67% Year 86.95%
+You are staking 0.00 Zombie ($0.00), 0.00% of the pool.
+Stake 0.00 Zombie
+Unstake 0.00 Zombie
+Claim 0.00 ZOMBIE ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $7,759.56 TVL: $68,851,098.66
+BTCB Price: $36,208.00
+WBNB Price: $370.49
+Staked: 0.0451 Cake-LP ($349.90)
+ZOMBIE Per Week: 6720.00 ($3.31)
+APR: Day 0.14% Week 0.95% Year 49.15%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 ZOMBIE ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,039.11 TVL: $74,289,340.26
+ETH Price: $2,429.73
+WBNB Price: $370.49
+Staked: 0.3138 Cake-LP ($639.90)
+ZOMBIE Per Week: 6720.00 ($3.31)
+APR: Day 0.07% Week 0.52% Year 26.88%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 ZOMBIE ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [DOT]-[WBNB] Cake LP [+] [-] [<=>] Price: $173.08 TVL: $17,768,709.47
+DOT Price: $17.96
+WBNB Price: $370.49
+Staked: 1.9793 Cake-LP ($342.58)
+ZOMBIE Per Week: 6720.00 ($3.31)
+APR: Day 0.14% Week 0.97% Year 50.20%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 ZOMBIE ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $296,950,570.33
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 2508.6840 Cake-LP ($5,253.09)
+ZOMBIE Per Week: 4480.00 ($2.20)
+APR: Day 0.01% Week 0.04% Year 2.18%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 ZOMBIE ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [DAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $16,865,276.83
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 138.2321 Cake-LP ($288.46)
+ZOMBIE Per Week: 4480.00 ($2.20)
+APR: Day 0.11% Week 0.76% Year 39.75%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 ZOMBIE ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $131,415,293.51
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 702.9126 Cake-LP ($1,468.51)
+ZOMBIE Per Week: 4480.00 ($2.20)
+APR: Day 0.02% Week 0.15% Year 7.81%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 ZOMBIE ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.58 TVL: $347,164,903.51
+WBNB Price: $370.49
+BUSD Price: $1.00
+Staked: 208.3528 Cake-LP ($9,914.25)
+ZOMBIE Per Week: 13440.00 ($6.61)
+APR: Day 0.01% Week 0.07% Year 3.47%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 ZOMBIE ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [ADA]-[WBNB] Cake LP [+] [-] [<=>] Price: $42.41 TVL: $12,111,838.53
+ADA Price: $1.03
+WBNB Price: $370.49
+Staked: 3.0240 Cake-LP ($128.26)
+ZOMBIE Per Week: 6720.00 ($3.31)
+APR: Day 0.37% Week 2.58% Year 134.09%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 ZOMBIE ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $106.01 TVL: $201,900,286.90
+Cake Price: $7.03
+WBNB Price: $370.49
+Staked: 9.7104 Cake-LP ($1,029.37)
+ZOMBIE Per Week: 6720.00 ($3.31)
+APR: Day 0.05% Week 0.32% Year 16.71%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 ZOMBIE ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $22,193.08
+Staking Contract
+Found 28 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [Mummy]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.03 TVL: $241.70
+Mummy Price: $0.000141
+BUSD Price: $1.00
+Staked: 5154.7412 Cake-LP ($175.09)
+MUMMY Per Week: 19117.24 ($2.70)
+APR: Day 0.22% Week 1.54% Year 80.04%
+You are staking 0.00 [Mummy]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Mummy]-[BUSD] Cake LP
+Unstake 0.00 [Mummy]-[BUSD] Cake LP
+Claim 0.00 MUMMY ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [Mummy]-[WBNB] Cake LP [+] [-] [<=>] Price: $0.69 TVL: $131.53
+Mummy Price: $0.000141
+WBNB Price: $370.49
+Staked: 147.9612 Cake-LP ($101.97)
+MUMMY Per Week: 19117.24 ($2.70)
+APR: Day 0.38% Week 2.64% Year 137.44%
+You are staking 0.00 [Mummy]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Mummy]-[WBNB] Cake LP
+Unstake 0.00 [Mummy]-[WBNB] Cake LP
+Claim 0.00 MUMMY ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [Mummy]-[Zombie] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $16.47
+Mummy Price: $0.000141
+Zombie Price: $0.000492
+Staked: 8587.3817 Cake-LP ($5.79)
+MUMMY Per Week: 19117.24 ($2.70)
+APR: Day 6.65% Week 46.55% Year 2420.54%
+You are staking 0.00 [Mummy]-[Zombie] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Mummy]-[Zombie] Cake LP
+Unstake 0.00 [Mummy]-[Zombie] Cake LP
+Claim 0.00 MUMMY ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - Mummy Price: $0.000141 Market Cap: $759.75 [%]
+Staked: 1769874.0474 Mummy ($249.52)
+MUMMY Per Week: 19117.24 ($2.70)
+APR: Day 0.15% Week 1.08% Year 56.17%
+You are staking 0.00 Mummy ($0.00), 0.00% of the pool.
+Stake 0.00 Mummy - Fee 2%
+Unstake 0.00 Mummy
+Claim 0.00 MUMMY ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [Zombie]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.06 TVL: $396.72
+Zombie Price: $0.000492
+BUSD Price: $1.00
+Staked: 448.2295 Cake-LP ($27.85)
+MUMMY Per Week: 11470.34 ($1.62)
+APR: Day 0.83% Week 5.81% Year 301.93%
+You are staking 0.00 [Zombie]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Zombie]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [Zombie]-[BUSD] Cake LP
+Claim 0.00 MUMMY ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [Zombie]-[WBNB] Cake LP [+] [-] [<=>] Price: $1.23 TVL: $811.62
+Zombie Price: $0.000492
+WBNB Price: $370.49
+Staked: 121.3876 Cake-LP ($149.13)
+MUMMY Per Week: 11470.34 ($1.62)
+APR: Day 0.15% Week 1.08% Year 56.39%
+You are staking 0.00 [Zombie]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Zombie]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Zombie]-[WBNB] Cake LP
+Claim 0.00 MUMMY ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - Zombie Price: $0.000492 Market Cap: $2,138.07 [%]
+Staked: 31554.5877 Zombie ($15.53)
+MUMMY Per Week: 19117.24 ($2.70)
+APR: Day 2.48% Week 17.36% Year 902.47%
+You are staking 0.00 Zombie ($0.00), 0.00% of the pool.
+Stake 0.00 Zombie - Fee 2%
+Unstake 0.00 Zombie
+Claim 0.00 MUMMY ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - Phantom Price: $0.00 Market Cap: $0.00 
+Staked: 126697.2057 Phantom ($0.00)
+MUMMY Per Week: 19117.24 ($2.70)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 Phantom ($0.00), NaN% of the pool.
+Stake 0.00 Phantom - Fee 2%
+Unstake 0.00 Phantom
+Claim 0.00 MUMMY ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [Phantom]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.04 TVL: $69.94
+Phantom Price: $0.000165
+BUSD Price: $1.00
+Staked: 79.7941 Cake-LP ($2.99)
+MUMMY Per Week: 11470.34 ($1.62)
+APR: Day 7.74% Week 54.15% Year 2815.83%
+You are staking 0.00 [Phantom]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Phantom]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [Phantom]-[BUSD] Cake LP
+Claim 0.00 MUMMY ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [WBNB]-[Phantom] Cake LP [+] [-] [<=>] Price: $0.75 TVL: $206.92
+WBNB Price: $370.49
+Phantom Price: $0.000165
+Staked: 42.3075 Cake-LP ($31.70)
+MUMMY Per Week: 11470.34 ($1.62)
+APR: Day 0.73% Week 5.10% Year 265.26%
+You are staking 0.00 [WBNB]-[Phantom] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[Phantom] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[Phantom] Cake LP
+Claim 0.00 MUMMY ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - [Zombie]-[Phantom] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $4.83
+Zombie Price: $0.000492
+Phantom Price: $0.000165
+Staked: 1600.1329 Cake-LP ($1.17)
+MUMMY Per Week: 11470.34 ($1.62)
+APR: Day 19.81% Week 138.67% Year 7210.95%
+You are staking 0.00 [Zombie]-[Phantom] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Zombie]-[Phantom] Cake LP - Fee 4%
+Unstake 0.00 [Zombie]-[Phantom] Cake LP
+Claim 0.00 MUMMY ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - [Mummy]-[Phantom] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $4.01
+Mummy Price: $0.000141
+Phantom Price: $0.000165
+Staked: 3142.3445 Cake-LP ($1.06)
+MUMMY Per Week: 11470.34 ($1.62)
+APR: Day 21.81% Week 152.66% Year 7938.58%
+You are staking 0.00 [Mummy]-[Phantom] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Mummy]-[Phantom] Cake LP - Fee 4%
+Unstake 0.00 [Mummy]-[Phantom] Cake LP
+Claim 0.00 MUMMY ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - [Vampire]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.07 TVL: $107.34
+Vampire Price: $0.000676
+BUSD Price: $1.00
+Staked: 265.4675 Cake-LP ($18.41)
+MUMMY Per Week: 19117.24 ($2.70)
+APR: Day 2.09% Week 14.64% Year 761.24%
+You are staking 0.00 [Vampire]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Vampire]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [Vampire]-[BUSD] Cake LP
+Claim 0.00 MUMMY ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - [Vampire]-[WBNB] Cake LP [+] [-] [<=>] Price: $1.38 TVL: $50.93
+Vampire Price: $0.000676
+WBNB Price: $370.49
+Staked: 2.1138 Cake-LP ($2.91)
+MUMMY Per Week: 19117.24 ($2.70)
+APR: Day 13.23% Week 92.58% Year 4813.92%
+You are staking 0.00 [Vampire]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Vampire]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Vampire]-[WBNB] Cake LP
+Claim 0.00 MUMMY ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $783.12
+Staking Contract
+Found 27 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [Phantom]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.04 TVL: $69.94
+Phantom Price: $0.000165
+BUSD Price: $1.00
+Staked: 1305.7802 Cake-LP ($48.87)
+PHANTOM Per Week: 19117.24 ($3.15)
+APR: Day 0.92% Week 6.44% Year 334.93%
+You are staking 0.00 [Phantom]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Phantom]-[BUSD] Cake LP
+Unstake 0.00 [Phantom]-[BUSD] Cake LP
+Claim 0.00 PHANTOM ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WBNB]-[Phantom] Cake LP [+] [-] [<=>] Price: $0.75 TVL: $206.92
+WBNB Price: $370.49
+Phantom Price: $0.000165
+Staked: 218.8353 Cake-LP ($163.97)
+PHANTOM Per Week: 19117.24 ($3.15)
+APR: Day 0.27% Week 1.92% Year 99.82%
+You are staking 0.00 [WBNB]-[Phantom] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[Phantom] Cake LP
+Unstake 0.00 [WBNB]-[Phantom] Cake LP
+Claim 0.00 PHANTOM ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [Mummy]-[Zombie] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $16.47
+Mummy Price: $0.000141
+Zombie Price: $0.000492
+Staked: 4827.5950 Cake-LP ($3.25)
+PHANTOM Per Week: 19117.24 ($3.15)
+APR: Day 13.81% Week 96.70% Year 5028.57%
+You are staking 0.00 [Mummy]-[Zombie] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Mummy]-[Zombie] Cake LP - Fee 2%
+Unstake 0.00 [Mummy]-[Zombie] Cake LP
+Claim 0.00 PHANTOM ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [Mummy]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.03 TVL: $241.70
+Mummy Price: $0.000141
+BUSD Price: $1.00
+Staked: 1383.5299 Cake-LP ($46.99)
+PHANTOM Per Week: 11470.34 ($1.89)
+APR: Day 0.57% Week 4.02% Year 208.98%
+You are staking 0.00 [Mummy]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Mummy]-[BUSD] Cake LP - Fee 5%
+Unstake 0.00 [Mummy]-[BUSD] Cake LP
+Claim 0.00 PHANTOM ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [Zombie]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.06 TVL: $396.72
+Zombie Price: $0.000492
+BUSD Price: $1.00
+Staked: 298.6417 Cake-LP ($18.56)
+PHANTOM Per Week: 11470.34 ($1.89)
+APR: Day 1.45% Week 10.18% Year 529.24%
+You are staking 0.00 [Zombie]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Zombie]-[BUSD] Cake LP - Fee 5%
+Unstake 0.00 [Zombie]-[BUSD] Cake LP
+Claim 0.00 PHANTOM ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [Zombie]-[WBNB] Cake LP [+] [-] [<=>] Price: $1.23 TVL: $811.62
+Zombie Price: $0.000492
+WBNB Price: $370.49
+Staked: 108.2443 Cake-LP ($132.98)
+PHANTOM Per Week: 11470.34 ($1.89)
+APR: Day 0.20% Week 1.42% Year 73.85%
+You are staking 0.00 [Zombie]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Zombie]-[WBNB] Cake LP - Fee 5%
+Unstake 0.00 [Zombie]-[WBNB] Cake LP
+Claim 0.00 PHANTOM ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - Phantom Price: $0.000165 Market Cap: $788.05 [%]
+Staked: 1803033.7792 Phantom ($296.87)
+PHANTOM Per Week: 19117.24 ($3.15)
+APR: Day 0.15% Week 1.06% Year 55.13%
+You are staking 0.00 Phantom ($0.00), 0.00% of the pool.
+Stake 0.00 Phantom - Fee 2%
+Unstake 0.00 Phantom
+Claim 0.00 PHANTOM ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - Zombie Price: $0.000492 Market Cap: $2,138.07 [%]
+Staked: 24339.2329 Zombie ($11.98)
+PHANTOM Per Week: 19117.24 ($3.15)
+APR: Day 3.75% Week 26.28% Year 1366.44%
+You are staking 0.00 Zombie ($0.00), 0.00% of the pool.
+Stake 0.00 Zombie - Fee 2%
+Unstake 0.00 Zombie
+Claim 0.00 PHANTOM ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - Mummy Price: $0.000141 Market Cap: $759.75 [%]
+Staked: 94788.6094 Mummy ($13.36)
+PHANTOM Per Week: 19117.24 ($3.15)
+APR: Day 3.36% Week 23.55% Year 1224.83%
+You are staking 0.00 Mummy ($0.00), 0.00% of the pool.
+Stake 0.00 Mummy - Fee 2%
+Unstake 0.00 Mummy
+Claim 0.00 PHANTOM ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [Mummy]-[WBNB] Cake LP [+] [-] [<=>] Price: $0.69 TVL: $131.53
+Mummy Price: $0.000141
+WBNB Price: $370.49
+Staked: 29.5056 Cake-LP ($20.33)
+PHANTOM Per Week: 11470.34 ($1.89)
+APR: Day 1.33% Week 9.29% Year 482.95%
+You are staking 0.00 [Mummy]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Mummy]-[WBNB] Cake LP - Fee 5%
+Unstake 0.00 [Mummy]-[WBNB] Cake LP
+Claim 0.00 PHANTOM ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [Zombie]-[Phantom] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $4.83
+Zombie Price: $0.000492
+Phantom Price: $0.000165
+Staked: 1823.0525 Cake-LP ($1.33)
+PHANTOM Per Week: 11470.34 ($1.89)
+APR: Day 20.31% Week 142.15% Year 7391.82%
+You are staking 0.00 [Zombie]-[Phantom] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Zombie]-[Phantom] Cake LP - Fee 5%
+Unstake 0.00 [Zombie]-[Phantom] Cake LP
+Claim 0.00 PHANTOM ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - [Mummy]-[Phantom] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $4.01
+Mummy Price: $0.000141
+Phantom Price: $0.000165
+Staked: 7973.3310 Cake-LP ($2.69)
+PHANTOM Per Week: 11470.34 ($1.89)
+APR: Day 10.04% Week 70.27% Year 3653.92%
+You are staking 0.00 [Mummy]-[Phantom] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Mummy]-[Phantom] Cake LP - Fee 5%
+Unstake 0.00 [Mummy]-[Phantom] Cake LP
+Claim 0.00 PHANTOM ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - [Vampire]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.07 TVL: $107.34
+Vampire Price: $0.000676
+BUSD Price: $1.00
+Staked: 158.5570 Cake-LP ($11.00)
+PHANTOM Per Week: 19117.24 ($3.15)
+APR: Day 4.09% Week 28.63% Year 1488.50%
+You are staking 0.00 [Vampire]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Vampire]-[BUSD] Cake LP - Fee 5%
+Unstake 0.00 [Vampire]-[BUSD] Cake LP
+Claim 0.00 PHANTOM ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - [Vampire]-[WBNB] Cake LP [+] [-] [<=>] Price: $1.38 TVL: $50.93
+Vampire Price: $0.000676
+WBNB Price: $370.49
+Staked: 6.0105 Cake-LP ($8.28)
+PHANTOM Per Week: 19117.24 ($3.15)
+APR: Day 5.43% Week 38.02% Year 1977.19%
+You are staking 0.00 [Vampire]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Vampire]-[WBNB] Cake LP - Fee 5%
+Unstake 0.00 [Vampire]-[WBNB] Cake LP
+Claim 0.00 PHANTOM ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $780.47

@@ -1,0 +1,109 @@
+*************** 👨‍🌾 UNOFFICIAL ICEBERG FROSTARBI FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://iceberg.frostarbi.com
+**************************************************************************************
+
+Thu Jan 27 2022 21:48:48 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 9 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [FFARM]-[USDC] SLP [+] [-] [<=>] Price: $184,969.28 TVL: $15.28
+FFARM Price: $0.008160
+USDC Price: $1.00
+Staked: 0.0000 SLP ($1.60)
+FFARM Per Week: 1113.04 ($9.08)
+APR: Day 80.94% Week 566.55% Year 29460.38%
+You are staking 0.00 [FFARM]-[USDC] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [FFARM]-[USDC] SLP
+Unstake 0.00 [FFARM]-[USDC] SLP
+Claim 0.00 FFARM ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [FFARM]-[WETH] SLP [+] [-] [<=>] Price: $9.78 TVL: $69.37
+FFARM Price: $0.008160
+WETH Price: $2,428.06
+Staked: 2.0406 SLP ($19.96)
+FFARM Per Week: 1113.04 ($9.08)
+APR: Day 6.50% Week 45.49% Year 2365.73%
+You are staking 0.00 [FFARM]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [FFARM]-[WETH] SLP
+Unstake 0.00 [FFARM]-[WETH] SLP
+Claim 0.00 FFARM ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - FFARM Price: $0.008160 Market Cap: $279.73 
+Staked: 22523.1468 FFARM ($183.78)
+FFARM Per Week: 695.65 ($5.68)
+APR: Day 0.44% Week 3.09% Year 160.61%
+You are staking 0.00 FFARM ($0.00), 0.00% of the pool.
+Stake 0.00 FFARM
+Unstake 0.00 FFARM
+Claim 0.00 FFARM ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - WETH Price: $2,428.06 Market Cap: $574,957,888.24 
+Staked: 0.0058 WETH ($13.99)
+FFARM Per Week: 333.91 ($2.72)
+APR: Day 2.78% Week 19.48% Year 1013.03%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 FFARM ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - USDC Price: $1.00 Market Cap: $372,901,692.68 
+Staked: 274.5682 USDC ($274.57)
+FFARM Per Week: 278.26 ($2.27)
+APR: Day 0.12% Week 0.83% Year 43.00%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 FFARM ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - GMX Price: $0.00 Market Cap: $0.00 
+Staked: 45.2548 GMX ($0.00)
+FFARM Per Week: 250.43 ($2.04)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 GMX ($0.00), NaN% of the pool.
+Stake 0.00 GMX - Fee 3%
+Unstake 0.00 GMX
+Claim 0.00 FFARM ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - USDT Price: $1.00 Market Cap: $177,405,379.79 
+Staked: 0.0000 USDT ($0.00)
+FFARM Per Week: 278.26 ($2.27)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 USDT ($0.00), NaN% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 FFARM ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - SUSHI Price: $4.07 Market Cap: $1,232,267.56 
+Staked: 0.0000 SUSHI ($0.00)
+FFARM Per Week: 278.26 ($2.27)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 SUSHI ($0.00), NaN% of the pool.
+Stake 0.00 SUSHI - Fee 4%
+Unstake 0.00 SUSHI
+Claim 0.00 FFARM ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - FFARM Price: $0.00 Market Cap: $0.00 
+Staked: 123.7311 FFARM ($0.00)
+FFARM Per Week: 139.13 ($1.14)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FFARM ($0.00), NaN% of the pool.
+Stake 0.00 FFARM
+Unstake 0.00 FFARM
+Claim 0.00 FFARM ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $493.90

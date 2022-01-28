@@ -1,0 +1,48 @@
+*************** 👨‍🌾 UNOFFICIAL STABILIZE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://www.stabilize.finance/app/
+***************************************************************************************
+
+Thu Jan 27 2022 19:21:39 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 26 pools.
+[STBZ]-[WETH] Uni LP [+] [-] [<=>] Price: $25.46 TVL: $17,330.74
+STBZ Price: $0.05
+WETH Price: $2,465.98
+Staked: 419.7230 UNI-V2 ($10,686.05)
+STBZ Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 undefined ($0.00), 0.00% of the pool.
+Stake 0.00 undefined
+Unstake 0.00 undefined
+Claim 0.00 STBZ
+
+DAI Price: $1.00 Market Cap: $9,190,399,242.83 [%]
+Staked: 159130.1211 DAI ($159,130.12)
+STBZ Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 undefined ($0.00), 0.00% of the pool.
+Stake 0.00 undefined
+Unstake 0.00 undefined
+Claim 0.00 STBZ
+
+USDC Price: $1.00 Market Cap: $44,062,323,394.32 [%]
+Staked: 0.0000 USDC ($0.00)
+STBZ Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 undefined ($0.00), NaN% of the pool.
+Stake 0.00 undefined
+Unstake 0.00 undefined
+Claim 0.00 STBZ
+
+USDT Price: $1.00 Market Cap: $39,823,315,849.94 [%]
+Staked: 0.0000 USDT ($0.00)
+STBZ Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 undefined ($0.00), NaN% of the pool.
+Stake 0.00 undefined
+Unstake 0.00 undefined
+Claim 0.00 STBZ

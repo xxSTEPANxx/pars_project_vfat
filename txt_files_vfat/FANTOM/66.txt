@@ -1,0 +1,238 @@
+*************** 👨‍🌾 UNOFFICIAL SINGULAR FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://singular.farm/
+***************************************************************************************
+
+Fri Jan 28 2022 00:47:12 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 22 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [USDC]-[SING] SPOOKY LP [+] [-] [<=>] Price: $448,790.56 TVL: $17,641.74
+USDC Price: $1.00
+SING Price: $0.03
+Staked: 0.0175 spLP ($7,868.22)
+SING Per Week: 2124.90 ($61.20)
+APR: Day 0.11% Week 0.78% Year 40.45%
+You are staking 0.00 [USDC]-[SING] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[SING] SPOOKY LP
+Unstake 0.00 [USDC]-[SING] SPOOKY LP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - SING Price: $0.03 Market Cap: $54,215.87 
+Staked: 62633.5919 SING ($1,804.00)
+SING Per Week: 424.98 ($12.24)
+APR: Day 0.10% Week 0.68% Year 35.28%
+You are staking 0.00 SING ($0.00), 0.00% of the pool.
+Stake 0.00 SING
+Unstake 0.00 SING
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WFTM]-[BOO] SPOOKY LP [+] [-] [<=>] Price: $14.90 TVL: $63,122,810.61
+WFTM Price: $2.02
+BOO Price: $25.16
+Staked: 0.0000 spLP ($0.00)
+SING Per Week: 212.49 ($6.12)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WFTM]-[BOO] SPOOKY LP ($0.00), NaN% of the pool.
+Stake 0.00 [WFTM]-[BOO] SPOOKY LP - Fee 1%
+Unstake 0.00 [WFTM]-[BOO] SPOOKY LP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDC]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $4,352,080.70 TVL: $167,540,003.98
+USDC Price: $1.00
+WFTM Price: $2.02
+Staked: 0.0000 spLP ($0.00)
+SING Per Week: 212.49 ($6.12)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[WFTM] SPOOKY LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[WFTM] SPOOKY LP - Fee 1%
+Unstake 0.00 [USDC]-[WFTM] SPOOKY LP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [WFTM]-[ETH] SPOOKY LP [+] [-] [<=>] Price: $156.34 TVL: $42,392,400.81
+WFTM Price: $2.02
+ETH Price: $2,343.74
+Staked: 0.0000 spLP ($0.00)
+SING Per Week: 212.49 ($6.12)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WFTM]-[ETH] SPOOKY LP ($0.00), NaN% of the pool.
+Stake 0.00 [WFTM]-[ETH] SPOOKY LP - Fee 1%
+Unstake 0.00 [WFTM]-[ETH] SPOOKY LP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WFTM]-[BTC] SPOOKY LP [+] [-] [<=>] Price: $11,259,687,794.76 TVL: $21,806,606.27
+WFTM Price: $2.02
+BTC Price: $35,995.00
+Staked: 0.0000 spLP ($0.00)
+SING Per Week: 212.49 ($6.12)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WFTM]-[BTC] SPOOKY LP ($0.00), NaN% of the pool.
+Stake 0.00 [WFTM]-[BTC] SPOOKY LP - Fee 1%
+Unstake 0.00 [WFTM]-[BTC] SPOOKY LP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [fUSDT]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $3,774,708.11 TVL: $37,080,082.21
+fUSDT Price: $1.00
+WFTM Price: $2.02
+Staked: 0.0000 spLP ($0.00)
+SING Per Week: 212.49 ($6.12)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [fUSDT]-[WFTM] SPOOKY LP ($0.00), NaN% of the pool.
+Stake 0.00 [fUSDT]-[WFTM] SPOOKY LP - Fee 1%
+Unstake 0.00 [fUSDT]-[WFTM] SPOOKY LP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [WFTM]-[BNB] SPOOKY LP [+] [-] [<=>] Price: $60.38 TVL: $12,963,380.02
+WFTM Price: $2.02
+BNB Price: $363.96
+Staked: 0.0000 spLP ($0.00)
+SING Per Week: 212.49 ($6.12)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WFTM]-[BNB] SPOOKY LP ($0.00), NaN% of the pool.
+Stake 0.00 [WFTM]-[BNB] SPOOKY LP - Fee 1%
+Unstake 0.00 [WFTM]-[BNB] SPOOKY LP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [USDC]-[WFTM] Uni LP [+] [-] [<=>] Price: $2,992,661.48 TVL: $64,445.39
+USDC Price: $1.00
+WFTM Price: $2.02
+Staked: 0.0000 fWINGS-LP ($0.00)
+SING Per Week: 212.49 ($6.12)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[WFTM] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[WFTM] Uni LP - Fee 1%
+Unstake 0.00 [USDC]-[WFTM] Uni LP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [USDC]-[fWINGS] Uni LP [+] [-] [<=>] Price: $250,770.07 TVL: $36,542.23
+USDC Price: $1.00
+fWINGS Price: $0.01
+Staked: 0.0000 fWINGS-LP ($0.00)
+SING Per Week: 106.25 ($3.06)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[fWINGS] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[fWINGS] Uni LP - Fee 1%
+Unstake 0.00 [USDC]-[fWINGS] Uni LP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [fUSDT]-[WFTM] Uni LP [+] [-] [<=>] Price: $2,922,137.51 TVL: $21,964.96
+fUSDT Price: $1.00
+WFTM Price: $2.02
+Staked: 0.0000 fWINGS-LP ($0.00)
+SING Per Week: 212.49 ($6.12)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [fUSDT]-[WFTM] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [fUSDT]-[WFTM] Uni LP - Fee 1%
+Unstake 0.00 [fUSDT]-[WFTM] Uni LP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [USDC]-[fUSDT] Uni LP [+] [-] [<=>] Price: $2,016,134,877,173.66 TVL: $263,001.28
+USDC Price: $1.00
+fUSDT Price: $1.00
+Staked: 0.0000 fWINGS-LP ($0.00)
+SING Per Week: 212.49 ($6.12)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[fUSDT] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[fUSDT] Uni LP - Fee 1%
+Unstake 0.00 [USDC]-[fUSDT] Uni LP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [WFTM]-[MESO] SPOOKY LP [+] [-] [<=>] Price: $3.29 TVL: $3,198.51
+WFTM Price: $2.02
+MESO Price: $1.12
+Staked: 2.5512 spLP ($8.40)
+SING Per Week: 5.31 ($0.15)
+APR: Day 0.26% Week 1.82% Year 94.69%
+You are staking 0.00 [WFTM]-[MESO] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[MESO] SPOOKY LP
+Unstake 0.00 [WFTM]-[MESO] SPOOKY LP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [WFTM]-[SING] Uni LP [+] [-] [<=>] Price: $0.74 TVL: $10,609.47
+WFTM Price: $2.02
+SING Price: $0.03
+Staked: 0.0000 fWINGS-LP ($0.00)
+SING Per Week: 1062.45 ($30.60)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WFTM]-[SING] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [WFTM]-[SING] Uni LP
+Unstake 0.00 [WFTM]-[SING] Uni LP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [WFTM]-[fWINGS] Uni LP [+] [-] [<=>] Price: $0.36 TVL: $48,258.17
+WFTM Price: $2.02
+fWINGS Price: $0.01
+Staked: 0.0000 fWINGS-LP ($0.00)
+SING Per Week: 39.84 ($1.15)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WFTM]-[fWINGS] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [WFTM]-[fWINGS] Uni LP - Fee 1%
+Unstake 0.00 [WFTM]-[fWINGS] Uni LP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [WFTM]-[MIM] SPOOKY LP [+] [-] [<=>] Price: $3.49 TVL: $22,127,258.44
+WFTM Price: $2.02
+MIM Price: $1.00
+Staked: 0.0000 spLP ($0.00)
+SING Per Week: 53.12 ($1.53)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WFTM]-[MIM] SPOOKY LP ($0.00), NaN% of the pool.
+Stake 0.00 [WFTM]-[MIM] SPOOKY LP - Fee 1%
+Unstake 0.00 [WFTM]-[MIM] SPOOKY LP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - wMEMO Price: $0.00 Market Cap: $0.00 
+Staked: 0.0771 wMEMO ($0.00)
+SING Per Week: 106.25 ($3.06)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 wMEMO ($0.00), NaN% of the pool.
+Stake 0.00 wMEMO - Fee 2%
+Unstake 0.00 wMEMO
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - [WFTM]-[GRIM] SPIRIT LP [+] [-] [<=>] Price: $1.32 TVL: $515,791.20
+WFTM Price: $2.02
+GRIM Price: $0.005787
+Staked: 0.0000 SPIRIT-LP ($0.00)
+SING Per Week: 106.25 ($3.06)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WFTM]-[GRIM] SPIRIT LP ($0.00), NaN% of the pool.
+Stake 0.00 [WFTM]-[GRIM] SPIRIT LP - Fee 1%
+Unstake 0.00 [WFTM]-[GRIM] SPIRIT LP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - [SING]-[ELK] ELK LP [+] [-] [<=>] Price: $0.66 TVL: $1,193.55
+SING Price: $0.03
+ELK Price: $2.91
+Staked: 19.0981 ELP ($12.56)
+SING Per Week: 106.25 ($3.06)
+APR: Day 3.48% Week 24.36% Year 1266.82%
+You are staking 0.00 [SING]-[ELK] ELK LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SING]-[ELK] ELK LP
+Unstake 0.00 [SING]-[ELK] ELK LP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $9,693.18

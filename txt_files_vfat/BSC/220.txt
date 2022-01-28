@@ -1,0 +1,133 @@
+***************UNOFFICIAL WARDENSWAP.FINANCE FARMING CALCULATOR ***************
+INFO  : https://www.wardenswap.finance
+*******************************************************************************
+
+Thu Jan 27 2022 20:55:22 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 12 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - Warden Price: $0.20 Market Cap: $12,085,678.31 [%]
+Staked: 1670082.9070 Warden ($336,401.49)
+WAD Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 Warden ($0.00), 0.00% of the pool.
+Stake 0.00 Warden
+Unstake 0.00 Warden
+Claim 0.00 WAD ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [Warden]-[WBNB] Uni LP [+] [-] [<=>] Price: $19.33 TVL: $705,950.81
+Warden Price: $0.20
+WBNB Price: $369.16
+Staked: 21599.8405 WAD-LP ($417,592.61)
+WAD Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [Warden]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Warden]-[WBNB] Uni LP
+Unstake 0.00 [Warden]-[WBNB] Uni LP
+Claim 0.00 WAD ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BUSD] Uni LP [+] [-] [<=>] Price: $42.18 TVL: $85,161.96
+WBNB Price: $369.16
+BUSD Price: $1.00
+Staked: 1668.6039 WAD-LP ($70,377.81)
+WAD Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WBNB]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Uni LP
+Unstake 0.00 [WBNB]-[BUSD] Uni LP
+Claim 0.00 WAD ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [BTCB]-[WBNB] Uni LP [+] [-] [<=>] Price: $7,509.79 TVL: $100,539.61
+BTCB Price: $36,289.00
+WBNB Price: $369.16
+Staked: 11.9622 WAD-LP ($89,833.83)
+WAD Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [BTCB]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Uni LP
+Unstake 0.00 [BTCB]-[WBNB] Uni LP
+Claim 0.00 WAD ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [ETH]-[WBNB] Uni LP [+] [-] [<=>] Price: $1,956.68 TVL: $45,258.64
+ETH Price: $2,454.15
+WBNB Price: $369.16
+Staked: 15.1167 WAD-LP ($29,578.61)
+WAD Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [ETH]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Uni LP
+Unstake 0.00 [ETH]-[WBNB] Uni LP
+Claim 0.00 WAD ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [USDT]-[BUSD] Uni LP [+] [-] [<=>] Price: $2.00 TVL: $100,481.92
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 44973.3945 WAD-LP ($89,935.94)
+WAD Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDT]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Uni LP
+Unstake 0.00 [USDT]-[BUSD] Uni LP
+Claim 0.00 WAD ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [Warden]-[BUSD] Uni LP [+] [-] [<=>] Price: $1.02 TVL: $736,472.73
+Warden Price: $0.20
+BUSD Price: $1.00
+Staked: 539838.0970 WAD-LP ($549,166.22)
+WAD Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [Warden]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Warden]-[BUSD] Uni LP
+Unstake 0.00 [Warden]-[BUSD] Uni LP
+Claim 0.00 WAD ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [BIDR]-[WBNB] Uni LP [+] [-] [<=>] Price: $173.60 TVL: $2,409.55
+BIDR Price: $0.0000655159
+WBNB Price: $369.16
+Staked: 5.5830 WAD-LP ($969.19)
+WAD Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [BIDR]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BIDR]-[WBNB] Uni LP
+Unstake 0.00 [BIDR]-[WBNB] Uni LP
+Claim 0.00 WAD ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [Warden]-[USDT] Cake LP [+] [-] [<=>] Price: $0.93 TVL: $26,360.79
+Warden Price: $0.20
+USDT Price: $1.00
+Staked: 17659.8234 Cake-LP ($16,410.90)
+WAD Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [Warden]-[USDT] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Warden]-[USDT] Cake LP
+Unstake 0.00 [Warden]-[USDT] Cake LP
+Claim 0.00 WAD ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [USDT]-[WBNB] Uni LP [+] [-] [<=>] Price: $40.59 TVL: $7,640.66
+USDT Price: $1.00
+WBNB Price: $369.16
+Staked: 32.7111 WAD-LP ($1,327.65)
+WAD Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDT]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WBNB] Uni LP
+Unstake 0.00 [USDT]-[WBNB] Uni LP
+Claim 0.00 WAD ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $1,601,594.26

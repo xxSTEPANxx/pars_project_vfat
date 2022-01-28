@@ -1,0 +1,236 @@
+*************** 👨‍🌾 UNOFFICIAL SINGULAR FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://singular.farm/
+***************************************************************************************
+
+Fri Jan 28 2022 00:20:25 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 27 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [USDT.e]-[SING] JLP [+] [-] [<=>] Price: $427,637.02 TVL: $12,771.10
+USDT.e Price: $1.00
+SING Price: $0.02
+Staked: 0.0171 JLP ($7,325.11)
+SING Per Week: 7145.51 ($161.72)
+APR: Day 0.32% Week 2.21% Year 114.81%
+You are staking 0.00 [USDT.e]-[SING] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT.e]-[SING] JLP
+Unstake 0.00 [USDT.e]-[SING] JLP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WAVAX]-[SING] JLP [+] [-] [<=>] Price: $3.33 TVL: $5,309.95
+WAVAX Price: $61.54
+SING Price: $0.02
+Staked: 783.9859 JLP ($2,613.44)
+SING Per Week: 2802.16 ($63.42)
+APR: Day 0.35% Week 2.43% Year 126.19%
+You are staking 0.00 [WAVAX]-[SING] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WAVAX]-[SING] JLP
+Unstake 0.00 [WAVAX]-[SING] JLP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - SING Price: $0.02 Market Cap: $42,592.98 
+Staked: 159446.7995 SING ($3,608.74)
+SING Per Week: 1120.86 ($25.37)
+APR: Day 0.10% Week 0.70% Year 36.55%
+You are staking 0.00 SING ($0.00), 0.00% of the pool.
+Stake 0.00 SING
+Unstake 0.00 SING
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WETH.e]-[WAVAX] JLP [+] [-] [<=>] Price: $825.87 TVL: $83,987,965.00
+WETH.e Price: $2,322.04
+WAVAX Price: $61.54
+Staked: 0.0000 JLP ($0.00)
+SING Per Week: 560.43 ($12.68)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WETH.e]-[WAVAX] JLP ($0.00), NaN% of the pool.
+Stake 0.00 [WETH.e]-[WAVAX] JLP - Fee 0.2%
+Unstake 0.00 [WETH.e]-[WAVAX] JLP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - xJOE Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 xJOE ($0.00)
+SING Per Week: 910.70 ($20.61)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 xJOE ($0.00), NaN% of the pool.
+Stake 0.00 xJOE - Fee 0.2%
+Unstake 0.00 xJOE
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WAVAX]-[USDT.e] JLP [+] [-] [<=>] Price: $19,311,028.40 TVL: $96,066,487.94
+WAVAX Price: $61.54
+USDT.e Price: $1.00
+Staked: 0.0000 JLP ($0.00)
+SING Per Week: 560.43 ($12.68)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WAVAX]-[USDT.e] JLP ($0.00), NaN% of the pool.
+Stake 0.00 [WAVAX]-[USDT.e] JLP - Fee 0.2%
+Unstake 0.00 [WAVAX]-[USDT.e] JLP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [USDC.e]-[DAI.e] JLP [+] [-] [<=>] Price: $2,056,526.27 TVL: $699,060.60
+USDC.e Price: $1.01
+DAI.e Price: $1.00
+Staked: 0.0000 JLP ($0.00)
+SING Per Week: 560.43 ($12.68)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC.e]-[DAI.e] JLP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC.e]-[DAI.e] JLP - Fee 0.2%
+Unstake 0.00 [USDC.e]-[DAI.e] JLP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [WBTC.e]-[WAVAX] JLP [+] [-] [<=>] Price: $320,047,636.42 TVL: $19,533,010.67
+WBTC.e Price: $35,713.00
+WAVAX Price: $61.54
+Staked: 0.0000 JLP ($0.00)
+SING Per Week: 560.43 ($12.68)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WBTC.e]-[WAVAX] JLP ($0.00), NaN% of the pool.
+Stake 0.00 [WBTC.e]-[WAVAX] JLP - Fee 0.2%
+Unstake 0.00 [WBTC.e]-[WAVAX] JLP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [LINK.e]-[WAVAX] JLP [+] [-] [<=>] Price: $62.83 TVL: $12,563,835.91
+LINK.e Price: $14.54
+WAVAX Price: $61.54
+Staked: 0.0000 JLP ($0.00)
+SING Per Week: 560.43 ($12.68)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [LINK.e]-[WAVAX] JLP ($0.00), NaN% of the pool.
+Stake 0.00 [LINK.e]-[WAVAX] JLP - Fee 0.2%
+Unstake 0.00 [LINK.e]-[WAVAX] JLP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [WAVAX]-[DAI.e] JLP [+] [-] [<=>] Price: $18.72 TVL: $11,064,212.25
+WAVAX Price: $61.54
+DAI.e Price: $1.00
+Staked: 0.0000 JLP ($0.00)
+SING Per Week: 560.43 ($12.68)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WAVAX]-[DAI.e] JLP ($0.00), NaN% of the pool.
+Stake 0.00 [WAVAX]-[DAI.e] JLP - Fee 0.2%
+Unstake 0.00 [WAVAX]-[DAI.e] JLP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [OLIVE]-[WAVAX] Uni LP [+] [-] [<=>] Price: $5.19 TVL: $137,949.17
+OLIVE Price: $0.04
+WAVAX Price: $61.54
+Staked: 853.1865 Olive-LP ($4,423.88)
+SING Per Week: 70.05 ($1.59)
+APR: Day 0.01% Week 0.04% Year 1.86%
+You are staking 0.00 [OLIVE]-[WAVAX] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [OLIVE]-[WAVAX] Uni LP
+Unstake 0.00 [OLIVE]-[WAVAX] Uni LP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [AAVE.e]-[WAVAX] JLP [+] [-] [<=>] Price: $192.92 TVL: $1,876,180.56
+AAVE.e Price: $138.80
+WAVAX Price: $61.54
+Staked: 0.0000 JLP ($0.00)
+SING Per Week: 140.11 ($3.17)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [AAVE.e]-[WAVAX] JLP ($0.00), NaN% of the pool.
+Stake 0.00 [AAVE.e]-[WAVAX] JLP - Fee 0.3%
+Unstake 0.00 [AAVE.e]-[WAVAX] JLP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [YTS]-[SING] Uni LP [+] [-] [<=>] Price: $0.04 TVL: $454.21
+YTS Price: $0.009060
+SING Price: $0.02
+Staked: 1680.1124 YSL ($60.08)
+SING Per Week: 70.05 ($1.59)
+APR: Day 0.38% Week 2.64% Year 137.22%
+You are staking 0.00 [YTS]-[SING] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [YTS]-[SING] Uni LP
+Unstake 0.00 [YTS]-[SING] Uni LP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [AVAI]-[USDC.e] JLP [+] [-] [<=>] Price: $2,023,418.39 TVL: $1,342.36
+AVAI Price: $0.98
+USDC.e Price: $1.01
+Staked: 0.0006 JLP ($1,302.78)
+SING Per Week: 140.11 ($3.17)
+APR: Day 0.03% Week 0.24% Year 12.66%
+You are staking 0.00 [AVAI]-[USDC.e] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [AVAI]-[USDC.e] JLP
+Unstake 0.00 [AVAI]-[USDC.e] JLP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [USDC.e]-[USDT.e] JLP [+] [-] [<=>] Price: $2,064,801,376,954.79 TVL: $4,877,872.12
+USDC.e Price: $1.01
+USDT.e Price: $1.00
+Staked: 0.0000 JLP ($0.00)
+SING Per Week: 140.11 ($3.17)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC.e]-[USDT.e] JLP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC.e]-[USDT.e] JLP - Fee 0.25%
+Unstake 0.00 [USDC.e]-[USDT.e] JLP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [JOE]-[USDC.e] JLP [+] [-] [<=>] Price: $2,262,278.92 TVL: $4,735,842.34
+JOE Price: $0.91
+USDC.e Price: $1.01
+Staked: 0.0000 JLP ($0.00)
+SING Per Week: 280.22 ($6.34)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [JOE]-[USDC.e] JLP ($0.00), NaN% of the pool.
+Stake 0.00 [JOE]-[USDC.e] JLP - Fee 0.25%
+Unstake 0.00 [JOE]-[USDC.e] JLP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - wMEMO Price: $0.00 Market Cap: $0.00 
+Staked: 0.3281 wMEMO ($0.00)
+SING Per Week: 1751.35 ($39.64)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 wMEMO ($0.00), NaN% of the pool.
+Stake 0.00 wMEMO - Fee 2%
+Unstake 0.00 wMEMO
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - [WAVAX]-[a.BEE] JLP [+] [-] [<=>] Price: $8.53 TVL: $25,576.41
+WAVAX Price: $61.54
+a.BEE Price: $0.26
+Staked: 3.7101 JLP ($31.65)
+SING Per Week: 70.05 ($1.59)
+APR: Day 0.72% Week 5.01% Year 260.53%
+You are staking 0.00 [WAVAX]-[a.BEE] JLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WAVAX]-[a.BEE] JLP
+Unstake 0.00 [WAVAX]-[a.BEE] JLP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - [PARTY]-[WAVAX] Uni LP [+] [-] [<=>] Price: $1.27 TVL: $42,425.51
+PARTY Price: $0.006163
+WAVAX Price: $61.54
+Staked: 80.8649 xPARTY ($102.50)
+SING Per Week: 140.11 ($3.17)
+APR: Day 0.44% Week 3.09% Year 160.87%
+You are staking 0.00 [PARTY]-[WAVAX] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PARTY]-[WAVAX] Uni LP
+Unstake 0.00 [PARTY]-[WAVAX] Uni LP
+Claim 0.00 SING ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $19,468.18

@@ -1,0 +1,49 @@
+*************** 👨‍🌾 UNOFFICIAL EVODEFI FARMING CALCULATOR 👨‍🌾 *****************
+INFO  : https://evodefi.com
+****************************************************************************************
+
+Thu Jan 27 2022 20:45:26 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 22 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - GENX Price: $0.16 Market Cap: $579,300.86 [%]
+Staked: 915953.7967 GENX ($143,746.52)
+GENX Per Week: 960.00 ($150.66)
+APR: Day 0.01% Week 0.10% Year 5.45%
+You are staking 0.00 GENX ($0.00), 0.00% of the pool.
+Stake 0.00 GENX
+Unstake 0.00 GENX
+Claim 0.00 GENX ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [GENX]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.86 TVL: $29,482.95
+GENX Price: $0.16
+BUSD Price: $1.00
+Staked: 34174.0342 Cake-LP ($29,295.17)
+GENX Per Week: 1920.00 ($301.32)
+APR: Day 0.15% Week 1.03% Year 53.49%
+You are staking 0.00 [GENX]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GENX]-[BUSD] Cake LP
+Unstake 0.00 [GENX]-[BUSD] Cake LP
+Claim 0.00 GENX ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [GENX]-[WBNB] Cake LP [+] [-] [<=>] Price: $16.72 TVL: $28,536.49
+GENX Price: $0.16
+WBNB Price: $369.61
+Staked: 1555.3732 Cake-LP ($26,010.80)
+GENX Per Week: 1152.00 ($180.79)
+APR: Day 0.10% Week 0.70% Year 36.14%
+You are staking 0.00 [GENX]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GENX]-[WBNB] Cake LP
+Unstake 0.00 [GENX]-[WBNB] Cake LP
+Claim 0.00 GENX ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $199,052.49

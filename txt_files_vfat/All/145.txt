@@ -1,0 +1,73 @@
+*************** 👨‍🌾 UNOFFICIAL SINGULARITYDAO FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://app.singularitydao.ai
+***********************************************************************************
+
+Thu Jan 27 2022 20:06:47 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 5 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - SDAO Price: $0.86 Market Cap: $86,156,000.00 [%]
+Staked: 5348982.8759 SDAO ($4,608,469.69)
+SDAO Per Week: 31132.73 ($26,822.72)
+APR: Day 0.08% Week 0.58% Year 30.27%
+You are staking 0.00 SDAO ($0.00), 0.00% of the pool.
+Stake 0.00 SDAO
+Unstake 0.00 SDAO
+Claim 0.00 SDAO ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [SDAO]-[WETH] Uni LP [+] [-] [<=>] Price: $116.69 TVL: $1,030,810.31
+SDAO Price: $0.86
+WETH Price: $2,475.34
+Staked: 3526.8280 UNI-V2 ($411,560.66)
+SDAO Per Week: 3396.30 ($2,926.11)
+APR: Day 0.10% Week 0.71% Year 36.97%
+You are staking 0.00 [SDAO]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SDAO]-[WETH] Uni LP
+Unstake 0.00 [SDAO]-[WETH] Uni LP
+Claim 0.00 SDAO ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [AGIX]-[WETH] Uni LP [+] [-] [<=>] Price: $4,235,094.60 TVL: $1,727,233.17
+AGIX Price: $0.14
+WETH Price: $2,475.34
+Staked: 0.1141 UNI-V2 ($483,275.22)
+SDAO Per Week: 1132.10 ($975.37)
+APR: Day 0.03% Week 0.20% Year 10.49%
+You are staking 0.00 [AGIX]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AGIX]-[WETH] Uni LP
+Unstake 0.00 [AGIX]-[WETH] Uni LP
+Claim 0.00 SDAO ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [SDAO]-[USDT] Uni LP [+] [-] [<=>] Price: $1,995,947.79 TVL: $614,562.08
+SDAO Price: $0.86
+USDT Price: $1.00
+Staked: 0.2216 UNI-V2 ($442,290.94)
+SDAO Per Week: 2264.20 ($1,950.74)
+APR: Day 0.06% Week 0.44% Year 22.93%
+You are staking 0.00 [SDAO]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SDAO]-[USDT] Uni LP
+Unstake 0.00 [SDAO]-[USDT] Uni LP
+Claim 0.00 SDAO ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [AGIX]-[USDT] Uni LP [+] [-] [<=>] Price: $78,172,583,047.12 TVL: $505,504.94
+AGIX Price: $0.14
+USDT Price: $1.00
+Staked: 0.0000 UNI-V2 ($240,708.55)
+SDAO Per Week: 566.05 ($487.69)
+APR: Day 0.03% Week 0.20% Year 10.54%
+You are staking 0.00 [AGIX]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AGIX]-[USDT] Uni LP
+Unstake 0.00 [AGIX]-[USDT] Uni LP
+Claim 0.00 SDAO ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $6,186,305.06

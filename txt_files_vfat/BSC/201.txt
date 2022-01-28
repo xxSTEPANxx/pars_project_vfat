@@ -1,0 +1,229 @@
+*************** 👨‍🌾 UNOFFICIAL COINSWAP FINANCE CALCULATOR 👨‍🌾 ***************
+INFO  : https://coinswap.space/
+*******************************************************************************
+
+Thu Jan 27 2022 20:52:04 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 18 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - CSS Price: $0.26 Market Cap: $1,073,979.91 [%]
+Staked: 1227615.3122 CSS ($313,862.90)
+CSS Per Week: 10864.67 ($2,777.76)
+APR: Day 0.13% Week 0.89% Year 46.02%
+You are staking 0.00 CSS ($0.00), 0.00% of the pool.
+Stake 0.00 CSS
+Unstake 0.00 CSS
+Claim 0.00 CSS ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [CSS]-[WBNB] CSS LP [+] [-] [<=>] Price: $20.67 TVL: $398,490.88
+CSS Price: $0.26
+WBNB Price: $370.04
+Staked: 18664.2026 CS-LP ($385,833.29)
+CSS Per Week: 21729.34 ($5,555.51)
+APR: Day 0.21% Week 1.44% Year 74.87%
+You are staking 0.00 [CSS]-[WBNB] CSS LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CSS]-[WBNB] CSS LP
+Unstake 0.00 [CSS]-[WBNB] CSS LP
+Claim 0.00 CSS ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [CSS]-[BUSD] CSS LP [+] [-] [<=>] Price: $1.06 TVL: $372,959.51
+CSS Price: $0.26
+BUSD Price: $1.00
+Staked: 312833.0310 CS-LP ($330,751.95)
+CSS Per Week: 21729.34 ($5,555.51)
+APR: Day 0.24% Week 1.68% Year 87.34%
+You are staking 0.00 [CSS]-[BUSD] CSS LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CSS]-[BUSD] CSS LP
+Unstake 0.00 [CSS]-[BUSD] CSS LP
+Claim 0.00 CSS ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WBNB]-[BUSD] CSS LP [+] [-] [<=>] Price: $43.70 TVL: $383,311.13
+WBNB Price: $370.04
+BUSD Price: $1.00
+Staked: 8616.1861 CS-LP ($376,555.81)
+CSS Per Week: 5432.34 ($1,388.88)
+APR: Day 0.05% Week 0.37% Year 19.18%
+You are staking 0.00 [WBNB]-[BUSD] CSS LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] CSS LP
+Unstake 0.00 [WBNB]-[BUSD] CSS LP
+Claim 0.00 CSS ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDT]-[BUSD] CSS LP [+] [-] [<=>] Price: $2.02 TVL: $338,845.50
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 165205.3044 CS-LP ($333,701.62)
+CSS Per Week: 2716.17 ($694.44)
+APR: Day 0.03% Week 0.21% Year 10.82%
+You are staking 0.00 [USDT]-[BUSD] CSS LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] CSS LP
+Unstake 0.00 [USDT]-[BUSD] CSS LP
+Claim 0.00 CSS ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [ETH]-[WBNB] CSS LP [+] [-] [<=>] Price: $1,948.50 TVL: $147,228.01
+ETH Price: $2,447.60
+WBNB Price: $370.04
+Staked: 75.2613 CS-LP ($146,646.40)
+CSS Per Week: 2716.17 ($694.44)
+APR: Day 0.07% Week 0.47% Year 24.62%
+You are staking 0.00 [ETH]-[WBNB] CSS LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] CSS LP
+Unstake 0.00 [ETH]-[WBNB] CSS LP
+Claim 0.00 CSS ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [BTCB]-[WBNB] CSS LP [+] [-] [<=>] Price: $7,431.96 TVL: $156,298.29
+BTCB Price: $36,208.00
+WBNB Price: $370.04
+Staked: 20.9700 CS-LP ($155,848.44)
+CSS Per Week: 2716.17 ($694.44)
+APR: Day 0.06% Week 0.45% Year 23.17%
+You are staking 0.00 [BTCB]-[WBNB] CSS LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] CSS LP
+Unstake 0.00 [BTCB]-[WBNB] CSS LP
+Claim 0.00 CSS ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [Cake]-[WBNB] CSS LP [+] [-] [<=>] Price: $103.72 TVL: $109,053.67
+Cake Price: $7.02
+WBNB Price: $370.04
+Staked: 1046.7450 CS-LP ($108,569.95)
+CSS Per Week: 2716.17 ($694.44)
+APR: Day 0.09% Week 0.64% Year 33.26%
+You are staking 0.00 [Cake]-[WBNB] CSS LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] CSS LP
+Unstake 0.00 [Cake]-[WBNB] CSS LP
+Claim 0.00 CSS ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [ADA]-[WBNB] CSS LP [+] [-] [<=>] Price: $40.06 TVL: $110,846.78
+ADA Price: $1.03
+WBNB Price: $370.04
+Staked: 2724.8757 CS-LP ($109,146.19)
+CSS Per Week: 2716.17 ($694.44)
+APR: Day 0.09% Week 0.64% Year 33.08%
+You are staking 0.00 [ADA]-[WBNB] CSS LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] CSS LP
+Unstake 0.00 [ADA]-[WBNB] CSS LP
+Claim 0.00 CSS ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [DOT]-[WBNB] CSS LP [+] [-] [<=>] Price: $167.17 TVL: $95,302.35
+DOT Price: $17.96
+WBNB Price: $370.04
+Staked: 564.4936 CS-LP ($94,364.26)
+CSS Per Week: 2716.17 ($694.44)
+APR: Day 0.11% Week 0.74% Year 38.27%
+You are staking 0.00 [DOT]-[WBNB] CSS LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] CSS LP
+Unstake 0.00 [DOT]-[WBNB] CSS LP
+Claim 0.00 CSS ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [WBNB]-[LINK] CSS LP [+] [-] [<=>] Price: $152.30 TVL: $56,367.20
+WBNB Price: $370.04
+LINK Price: $15.11
+Staked: 345.1296 CS-LP ($52,563.69)
+CSS Per Week: 1629.70 ($416.66)
+APR: Day 0.11% Week 0.79% Year 41.22%
+You are staking 0.00 [WBNB]-[LINK] CSS LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[LINK] CSS LP
+Unstake 0.00 [WBNB]-[LINK] CSS LP
+Claim 0.00 CSS ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [TRX]-[WBNB] CSS LP [+] [-] [<=>] Price: $9.22 TVL: $57,167.49
+TRX Price: $0.06
+WBNB Price: $370.04
+Staked: 6162.0266 CS-LP ($56,842.78)
+CSS Per Week: 1629.70 ($416.66)
+APR: Day 0.10% Week 0.73% Year 38.12%
+You are staking 0.00 [TRX]-[WBNB] CSS LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TRX]-[WBNB] CSS LP
+Unstake 0.00 [TRX]-[WBNB] CSS LP
+Claim 0.00 CSS ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [ETH]-[BETH] CSS LP [+] [-] [<=>] Price: $4,765.65 TVL: $379,452.15
+ETH Price: $2,447.60
+BETH Price: $2,306.97
+Staked: 78.8549 CS-LP ($375,794.82)
+CSS Per Week: 2716.17 ($694.44)
+APR: Day 0.03% Week 0.18% Year 9.61%
+You are staking 0.00 [ETH]-[BETH] CSS LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[BETH] CSS LP
+Unstake 0.00 [ETH]-[BETH] CSS LP
+Claim 0.00 CSS ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [USDC]-[BUSD] CSS LP [+] [-] [<=>] Price: $2.00 TVL: $236,050.63
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 116727.5499 CS-LP ($233,526.05)
+CSS Per Week: 2172.93 ($555.55)
+APR: Day 0.03% Week 0.24% Year 12.37%
+You are staking 0.00 [USDC]-[BUSD] CSS LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] CSS LP
+Unstake 0.00 [USDC]-[BUSD] CSS LP
+Claim 0.00 CSS ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [VNT]-[BUSD] CSS LP [+] [-] [<=>] Price: $0.20 TVL: $55,381.47
+VNT Price: $0.009506
+BUSD Price: $1.00
+Staked: 264562.4229 CS-LP ($53,456.98)
+CSS Per Week: 1629.70 ($416.66)
+APR: Day 0.11% Week 0.78% Year 40.53%
+You are staking 0.00 [VNT]-[BUSD] CSS LP ($0.00), 0.00% of the pool.
+Stake 0.00 [VNT]-[BUSD] CSS LP
+Unstake 0.00 [VNT]-[BUSD] CSS LP
+Claim 0.00 CSS ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [WBNB]-[EX] CSS LP [+] [-] [<=>] Price: $2.59 TVL: $160,803.56
+WBNB Price: $370.04
+EX Price: $0.004374
+Staked: 9622.9087 CS-LP ($24,971.42)
+CSS Per Week: 1629.70 ($416.66)
+APR: Day 0.24% Week 1.67% Year 86.77%
+You are staking 0.00 [WBNB]-[EX] CSS LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[EX] CSS LP
+Unstake 0.00 [WBNB]-[EX] CSS LP
+Claim 0.00 CSS ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [WBNB]-[ETERNAL] CSS LP [+] [-] [<=>] Price: $33.66 TVL: $9,872.07
+WBNB Price: $370.04
+ETERNAL Price: $0.70
+Staked: 288.3698 CS-LP ($9,707.12)
+CSS Per Week: 1629.70 ($416.66)
+APR: Day 0.61% Week 4.29% Year 223.20%
+You are staking 0.00 [WBNB]-[ETERNAL] CSS LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[ETERNAL] CSS LP
+Unstake 0.00 [WBNB]-[ETERNAL] CSS LP
+Claim 0.00 CSS ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [MBOX]-[WBNB] CSS LP [+] [-] [<=>] Price: $61.61 TVL: $14,189.02
+MBOX Price: $2.55
+WBNB Price: $370.04
+Staked: 227.7606 CS-LP ($14,031.37)
+CSS Per Week: 1629.70 ($416.66)
+APR: Day 0.42% Week 2.97% Year 154.41%
+You are staking 0.00 [MBOX]-[WBNB] CSS LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MBOX]-[WBNB] CSS LP
+Unstake 0.00 [MBOX]-[WBNB] CSS LP
+Claim 0.00 CSS ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $3,176,175.04

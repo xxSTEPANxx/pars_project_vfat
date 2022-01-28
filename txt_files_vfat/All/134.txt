@@ -1,0 +1,45 @@
+*************** 👨‍🌾 UNOFFICIAL XBE.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://app.xbe.finance
+********************************************************************************
+
+EARLY WITHDRAWAL PENALTY
+
+Please note that XBE LP rewards are automatically staked (which further has an unbonding time of 5 days). 
+All staked XBE rewards will further earn XBE staking rewards, up until withdrawn. 
+During the unbonding process XBE will continue to earn XBE staking rewards until withdrawn.
+
+Users may withdraw their XBE LP rewards at anytime during the unbonding process at a 50% penalty. 
+This penalty is awarded to the XBE stakers.
+
+Thu Jan 27 2022 20:03:29 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+XBE Price: $762.29 Market Cap: $14,512,828.85 [%]
+Staked: 12189.3275 XBE ($9,291,802.43)
+XBE Per Week: 51.99 ($39,629.62)
+APR: Day 0.06% Week 0.43% Year 22.18%
+You are staking 0.000000 XBE $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 XBE
+Unstake 0.000000 XBE
+Total earnings : 0.000000 Bonded tokens : 0
+Claim 0.000000 XBE ($0.00)
+Revoke (set approval to 0)
+
+[XBE]-[WETH] SLP [+] [-] [<=>] Price: $2,804.97 TVL: $1,286,522.42
+XBE Price: $762.29
+WETH Price: $2,475.23
+Staked: 452.5702 SLP ($1,269,444.37)
+XBE Per Week: 144.23 ($109,946.58)
+APR: Day 1.24% Week 8.66% Year 450.37%
+You are staking 0.000000 [XBE]-[WETH] SLP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [XBE]-[WETH] SLP
+Unstake 0.000000 [XBE]-[WETH] SLP
+Claim 0.000000 XBE ($0.00)
+Revoke (set approval to 0)
+
+Total staked: $10,561,246.80

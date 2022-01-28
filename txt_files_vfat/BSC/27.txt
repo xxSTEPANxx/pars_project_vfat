@@ -1,0 +1,149 @@
+*************** 👨‍🌾 UNOFFICIAL KICKSTART.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://kickstart.finance
+**************************************************************************************
+
+Thu Jan 27 2022 20:19:33 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 12 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [KICK]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.02 TVL: $323.57
+KICK Price: $0.0000761732
+BUSD Price: $1.00
+Staked: 13177.0454 Cake-LP ($249.49)
+KICK Per Week: 65560.98 ($4.99)
+APR: Day 0.29% Week 2.00% Year 104.09%
+You are staking 0.00 [KICK]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KICK]-[BUSD] Cake LP
+Unstake 0.00 [KICK]-[BUSD] Cake LP
+Claim 0.00 KICK ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [KICK]-[WBNB] Cake LP [+] [-] [<=>] Price: $0.36 TVL: $83.44
+KICK Price: $0.0000761732
+WBNB Price: $371.03
+Staked: 217.4076 Cake-LP ($77.91)
+KICK Per Week: 39336.59 ($3.00)
+APR: Day 0.55% Week 3.85% Year 200.00%
+You are staking 0.00 [KICK]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KICK]-[WBNB] Cake LP
+Unstake 0.00 [KICK]-[WBNB] Cake LP
+Claim 0.00 KICK ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $65.97 TVL: $2,134,871.17
+WBNB Price: $371.03
+BUSD Price: $1.00
+Staked: 4.5310 Cake-LP ($298.92)
+KICK Per Week: 16390.24 ($1.25)
+APR: Day 0.06% Week 0.42% Year 21.72%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 3%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 KICK ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $8,271.43 TVL: $300,590.13
+BTCB Price: $36,634.00
+WBNB Price: $371.03
+Staked: 0.0007 Cake-LP ($5.79)
+KICK Per Week: 16390.24 ($1.25)
+APR: Day 3.08% Week 21.56% Year 1121.28%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 3%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 KICK ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,209.60 TVL: $482,142.58
+ETH Price: $2,466.04
+WBNB Price: $371.03
+Staked: 0.0196 Cake-LP ($43.23)
+KICK Per Week: 16390.24 ($1.25)
+APR: Day 0.41% Week 2.89% Year 150.16%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 3%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 KICK ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [AUTO]-[WBNB] Cake LP [+] [-] [<=>] Price: $832.97 TVL: $1,025,477.15
+AUTO Price: $409.97
+WBNB Price: $371.03
+Staked: 0.3268 Cake-LP ($272.23)
+KICK Per Week: 8195.12 ($0.62)
+APR: Day 0.03% Week 0.23% Year 11.92%
+You are staking 0.00 [AUTO]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AUTO]-[WBNB] Cake LP - Fee 3%
+Unstake 0.00 [AUTO]-[WBNB] Cake LP
+Claim 0.00 KICK ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $124.40 TVL: $3,359,313.06
+Cake Price: $7.20
+WBNB Price: $371.03
+Staked: 0.5991 Cake-LP ($74.53)
+KICK Per Week: 8195.12 ($0.62)
+APR: Day 0.12% Week 0.84% Year 43.55%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 3%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 KICK ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - KICK Price: $0.0000761732 Market Cap: $671.62 [%]
+Staked: 3993019.3694 KICK ($304.16)
+KICK Per Week: 16390.24 ($1.25)
+APR: Day 0.06% Week 0.41% Year 21.34%
+You are staking 0.00 KICK ($0.00), 0.00% of the pool.
+Stake 0.00 KICK - Fee 3%
+Unstake 0.00 KICK
+Claim 0.00 KICK ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - WBNB Price: $371.03 Market Cap: $1,937,286,700.77 [%]
+Staked: 0.0146 WBNB ($5.43)
+KICK Per Week: 4917.07 ($0.37)
+APR: Day 0.99% Week 6.90% Year 358.69%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 3%
+Unstake 0.00 WBNB
+Claim 0.00 KICK ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - BUSD Price: $1.00 Market Cap: $4,833,235,028.87 [%]
+Staked: 246.5918 BUSD ($245.69)
+KICK Per Week: 3278.05 ($0.25)
+APR: Day 0.01% Week 0.10% Year 5.28%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 3%
+Unstake 0.00 BUSD
+Claim 0.00 KICK ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - BTCB Price: $36,634.00 Market Cap: $4,121,361,634.00 [%]
+Staked: 0.0768 BTCB ($2,811.89)
+KICK Per Week: 3278.05 ($0.25)
+APR: Day 0.00% Week 0.01% Year 0.46%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 3%
+Unstake 0.00 BTCB
+Claim 0.00 KICK ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - ETH Price: $2,466.04 Market Cap: $3,464,786,200.00 [%]
+Staked: 0.0036 ETH ($8.99)
+KICK Per Week: 3278.05 ($0.25)
+APR: Day 0.40% Week 2.78% Year 144.42%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 3%
+Unstake 0.00 ETH
+Claim 0.00 KICK ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $4,398.26

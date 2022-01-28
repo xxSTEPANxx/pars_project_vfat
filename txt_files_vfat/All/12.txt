@@ -1,0 +1,47 @@
+*************** 👨‍🌾 UNOFFICIAL EMPTY SET DOLLAR CALCULATOR 👨‍🌾 ***************
+INFO  : https://emptyset.finance
+*****************************************************************************
+
+Thu Jan 27 2022 19:12:34 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Current Epoch: 995
+ESD Price: $0.02
+ESD Total Supply: 137846186.09, $2,213,263.88
+ESD Total Staged: 12248854.22, $196,668.09
+ESD Total Bonded: 254786203.56, $4,090,857.48
+Your DAO status is Frozen
+You have 0.00 unstaked ESD, $0.00
+You have 0.00 staged ESD, $0.00, 0.0000% of the pool
+You have 0.00 bonded ESD, $0.00, 0.0000% of the pool
+Deposit 0.00 ESD
+Withdraw 0.00 ESD
+Bond 0.00 ESD
+Unbond 0.00 ESD
+
+
+{
+  "reason": "cannot estimate gas; transaction may fail or may require manual gas limit",
+  "code": "UNPREDICTABLE_GAS_LIMIT",
+  "error": {
+    "code": -32603,
+    "message": "execution reverted: SafeMath: subtraction overflow",
+    "data": {
+      "originalError": {
+        "code": 3,
+        "data": "0x08c379a00000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000000000000001e536166654d6174683a207375627472616374696f6e206f766572666c6f770000",
+        "message": "execution reverted: SafeMath: subtraction overflow"
+      }
+    }
+  },
+  "method": "call",
+  "transaction": {
+    "to": "0x4082D11E506e3250009A991061ACd2176077C88f",
+    "data": "0xc0d7a94f0000000000000000000000009fc94f19a42067a4620a9885808aeee8b1b9a444",
+    "accessList": null
+  }
+}
+Oops something went wrong. Try refreshing the page.

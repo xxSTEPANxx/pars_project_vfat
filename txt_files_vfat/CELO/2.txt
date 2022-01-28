@@ -1,0 +1,58 @@
+***************************** CELO ****************************************
+
+*************** 👨‍🌾 UNOFFICIAL HAREM FINANCE FARMING CALCULATOR 👨‍🌾 ***********
+INFO  : https://harem.farm/
+********************************************************************************
+
+Fri Jan 28 2022 01:11:00 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 4 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - HAREM Price: $0.00 Market Cap: $0.00 
+Staked: 12823184.2215 HAREM ($0.00)
+HAREM Per Week: 395294.12 ($5.34)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 HAREM ($0.00), NaN% of the pool.
+Stake 0.00 HAREM
+Unstake 0.00 HAREM
+Claim 0.00 HAREM ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - CELO Price: $2.97 Market Cap: $1,895,319,212.91 
+Staked: 37.7051 CELO ($111.98)
+HAREM Per Week: 15811.76 ($0.21)
+APR: Day 0.03% Week 0.19% Year 9.92%
+You are staking 0.00 CELO ($0.00), 0.00% of the pool.
+Stake 0.00 CELO
+Unstake 0.00 CELO
+Claim 0.00 HAREM ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [CELO]-[HAREM] Ubeswap LP Token [+] [-] [<=>] Price: $0.01 TVL: $106.73
+CELO Price: $2.97
+HAREM Price: $0.0000135086
+Staked: 8169.4753 ULP ($106.28)
+HAREM Per Week: 790588.24 ($10.68)
+APR: Day 1.44% Week 10.05% Year 522.52%
+You are staking 0.00 [CELO]-[HAREM] Ubeswap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [CELO]-[HAREM] Ubeswap LP Token
+Unstake 0.00 [CELO]-[HAREM] Ubeswap LP Token
+Claim 0.00 HAREM ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - cETH Price: $2,240.15 Market Cap: $2,737,148.94 
+Staked: 0.0164 cETH ($36.73)
+HAREM Per Week: 7905.88 ($0.11)
+APR: Day 0.04% Week 0.29% Year 15.12%
+You are staking 0.00 cETH ($0.00), 0.00% of the pool.
+Stake 0.00 cETH
+Unstake 0.00 cETH - Fee 0.5%
+Claim 0.00 HAREM ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $254.99

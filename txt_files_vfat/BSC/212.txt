@@ -1,0 +1,64 @@
+*************** 👨‍🌾 UNOFFICIAL SUPERLION.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://superlion.finance
+**************************************************************************************
+
+Thu Jan 27 2022 20:53:58 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 28 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+Total Staked: $0.00
+Staking Contract
+Found 4 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - MLION Price: $0.02 Market Cap: $54.09 [%]
+Staked: 848.8424 MLION ($16.43)
+MLION Per Week: 12.83 ($0.25)
+APR: Day 0.22% Week 1.51% Year 78.59%
+You are staking 0.00 MLION ($0.00), 0.00% of the pool.
+Stake 0.00 MLION
+Unstake 0.00 MLION
+Claim 0.00 MLION ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - Slion Price: $0.00 Market Cap: $0.00 
+Staked: 80442.8415 Slion ($0.00)
+MLION Per Week: 6.41 ($0.12)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 Slion ($0.00), NaN% of the pool.
+Stake 0.00 Slion
+Unstake 0.00 Slion
+Claim 0.00 MLION ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [MLION]-[WBNB] Cake LP [+] [-] [<=>] Price: $6.11 TVL: $39.69
+MLION Price: $0.02
+WBNB Price: $369.29
+Staked: 6.3552 Cake-LP ($38.84)
+MLION Per Week: 25.66 ($0.50)
+APR: Day 0.18% Week 1.28% Year 66.50%
+You are staking 0.00 [MLION]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MLION]-[WBNB] Cake LP
+Unstake 0.00 [MLION]-[WBNB] Cake LP
+Claim 0.00 MLION ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [BTCB]-[MLION] Cake LP [+] [-] [<=>] Price: $55.18 TVL: $6.58
+BTCB Price: $36,172.00
+MLION Price: $0.02
+Staked: 0.0364 Cake-LP ($2.01)
+MLION Per Week: 25.66 ($0.50)
+APR: Day 3.54% Week 24.75% Year 1287.22%
+You are staking 0.00 [BTCB]-[MLION] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[MLION] Cake LP
+Unstake 0.00 [BTCB]-[MLION] Cake LP
+Claim 0.00 MLION ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $57.27

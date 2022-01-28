@@ -1,0 +1,127 @@
+*************** 👨‍🌾 UNOFFICIAL THUNDERSWAP FARMING CALCULATOR 👨‍🌾 *****************
+INFO  : https://thunderswap.finance
+****************************************************************************************
+
+Thu Jan 27 2022 20:42:40 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 34 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - TNDR Price: $0.00 Market Cap: $0.00 
+Staked: 1554583.4352 TNDR ($0.00)
+TNDR Per Week: 8697.15 ($31.36)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 TNDR ($0.00), NaN% of the pool.
+Stake 0.00 TNDR
+Unstake 0.00 TNDR
+Claim 0.00 TNDR ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [TNDR]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.14 TVL: $1,281.36
+TNDR Price: $0.003605
+BUSD Price: $1.00
+Staked: 5299.7533 Cake-LP ($737.40)
+TNDR Per Week: 3478.86 ($12.54)
+APR: Day 0.24% Week 1.70% Year 88.44%
+You are staking 0.00 [TNDR]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TNDR]-[BUSD] Cake LP
+Unstake 0.00 [TNDR]-[BUSD] Cake LP
+Claim 0.00 TNDR ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [TNDR]-[WBNB] Cake LP [+] [-] [<=>] Price: $2.55 TVL: $748.70
+TNDR Price: $0.003605
+WBNB Price: $369.66
+Staked: 83.1421 Cake-LP ($212.20)
+TNDR Per Week: 2087.32 ($7.53)
+APR: Day 0.51% Week 3.55% Year 184.41%
+You are staking 0.00 [TNDR]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TNDR]-[WBNB] Cake LP
+Unstake 0.00 [TNDR]-[WBNB] Cake LP
+Claim 0.00 TNDR ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - BUSD Price: $1.00 Market Cap: $4,845,740,905.29 [%]
+Staked: 651.9846 BUSD ($651.28)
+TNDR Per Week: 1739.43 ($6.27)
+APR: Day 0.14% Week 0.96% Year 50.07%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 TNDR ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - WBNB Price: $369.66 Market Cap: $1,930,069,349.58 [%]
+Staked: 2.2352 WBNB ($826.26)
+TNDR Per Week: 2609.15 ($9.41)
+APR: Day 0.16% Week 1.14% Year 59.20%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 TNDR ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - TLPT Price: $0.00 Market Cap: $0.00 
+Staked: 1.0000 TLPT ($0.00)
+TNDR Per Week: 17394.31 ($62.71)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 TLPT ($0.00), NaN% of the pool.
+Stake 0.00 TLPT
+Unstake 0.00 TLPT
+Claim 0.00 TNDR ($0.00)
+Staking or unstaking also claims rewards.
+
+30 - [TNDR]-[WBNB] Uni LP [+] [-] [<=>] Price: $2.36 TVL: $2,521.38
+TNDR Price: $0.003605
+WBNB Price: $369.66
+Staked: 1065.5410 Thunder-LP ($2,513.54)
+TNDR Per Week: 34788.61 ($125.42)
+APR: Day 0.71% Week 4.99% Year 259.47%
+You are staking 0.00 [TNDR]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TNDR]-[WBNB] Uni LP
+Unstake 0.00 [TNDR]-[WBNB] Uni LP
+Claim 0.00 TNDR ($0.00)
+Staking or unstaking also claims rewards.
+
+31 - [TNDR]-[BUSD] Uni LP [+] [-] [<=>] Price: $0.12 TVL: $2,087.61
+TNDR Price: $0.003605
+BUSD Price: $1.00
+Staked: 16489.9561 Thunder-LP ($2,033.08)
+TNDR Per Week: 26091.46 ($94.07)
+APR: Day 0.66% Week 4.63% Year 240.59%
+You are staking 0.00 [TNDR]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TNDR]-[BUSD] Uni LP
+Unstake 0.00 [TNDR]-[BUSD] Uni LP
+Claim 0.00 TNDR ($0.00)
+Staking or unstaking also claims rewards.
+
+32 - [WBNB]-[BUSD] Uni LP [+] [-] [<=>] Price: $40.01 TVL: $3,728.90
+WBNB Price: $369.66
+BUSD Price: $1.00
+Staked: 93.1814 Thunder-LP ($3,728.18)
+TNDR Per Week: 3478.86 ($12.54)
+APR: Day 0.05% Week 0.34% Year 17.49%
+You are staking 0.00 [WBNB]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Uni LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Uni LP
+Claim 0.00 TNDR ($0.00)
+Staking or unstaking also claims rewards.
+
+33 - [USDT]-[BUSD] Uni LP [+] [-] [<=>] Price: $2.01 TVL: $135.45
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 67.3146 Thunder-LP ($135.45)
+TNDR Per Week: 434.86 ($1.57)
+APR: Day 0.17% Week 1.16% Year 60.19%
+You are staking 0.00 [USDT]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Uni LP
+Unstake 0.00 [USDT]-[BUSD] Uni LP
+Claim 0.00 TNDR ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $10,837.37

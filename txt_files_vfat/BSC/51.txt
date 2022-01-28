@@ -1,0 +1,138 @@
+*************** 👨‍🌾 UNOFFICIAL IRON FINANCE CALCULATOR 👨‍🌾 ***************
+INFO  : https://iron.finance/
+*************************************************************************
+
+Thu Jan 27 2022 20:23:51 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 4 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [IRON]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.10 TVL: $9,217.10
+IRON Price: $1.00
+BUSD Price: $1.00
+Staked: 2537.3153 Cake-LP ($5,324.82)
+STEEL Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [IRON]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [IRON]-[BUSD] Cake LP
+Unstake 0.00 [IRON]-[BUSD] Cake LP
+Claim 0.00 STEEL ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [STEEL]-[WBNB] Cake LP [+] [-] [<=>] Price: $3.83 TVL: $4,515.77
+STEEL Price: $0.004399
+WBNB Price: $371.09
+Staked: 764.2852 Cake-LP ($2,924.09)
+STEEL Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [STEEL]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [STEEL]-[WBNB] Cake LP
+Unstake 0.00 [STEEL]-[WBNB] Cake LP
+Claim 0.00 STEEL ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [IRON]-[STEEL] Cake LP [+] [-] [<=>] Price: $0.14 TVL: $8,110.45
+IRON Price: $1.00
+STEEL Price: $0.004399
+Staked: 25338.9464 Cake-LP ($3,633.95)
+STEEL Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [IRON]-[STEEL] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [IRON]-[STEEL] Cake LP
+Unstake 0.00 [IRON]-[STEEL] Cake LP
+Claim 0.00 STEEL ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - ACS4IRON Price: $1.03 Market Cap: $898.57 [%]
+Staked: 399.1857 ACS4IRON ($412.28)
+STEEL Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 ACS4IRON ($0.00), 0.00% of the pool.
+Stake 0.00 ACS4IRON
+Unstake 0.00 ACS4IRON
+Claim 0.00 STEEL ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $12,295.15
+Staking Contract
+Found 6 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [DND]-[WBNB] Cake LP [+] [-] [<=>] Price: $1.04 TVL: $11,059.63
+DND Price: $0.0000106860
+WBNB Price: $371.09
+Staked: 17.5542 Cake-LP ($18.23)
+DND Per Week: 20.16 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.06%
+You are staking 0.00 [DND]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DND]-[WBNB] Cake LP
+Unstake 0.00 [DND]-[WBNB] Cake LP
+Claim 0.00 DND ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [dBTC]-[BTCB] Cake LP [+] [-] [<=>] Price: $3,580.39 TVL: $391.04
+dBTC Price: $83.92
+BTCB Price: $36,542.00
+Staked: 0.0020 Cake-LP ($7.15)
+DND Per Week: 10.08 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.08%
+You are staking 0.00 [dBTC]-[BTCB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [dBTC]-[BTCB] Cake LP
+Unstake 0.00 [dBTC]-[BTCB] Cake LP
+Claim 0.00 DND ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [dBNB]-[WBNB] Cake LP [+] [-] [<=>] Price: $46.18 TVL: $893.28
+dBNB Price: $1.40
+WBNB Price: $371.09
+Staked: 18.3426 Cake-LP ($847.04)
+DND Per Week: 10.08 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [dBNB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [dBNB]-[WBNB] Cake LP
+Unstake 0.00 [dBNB]-[WBNB] Cake LP
+Claim 0.00 DND ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [ETH]-[dETH] Cake LP [+] [-] [<=>] Price: $659.40 TVL: $694.22
+ETH Price: $2,459.73
+dETH Price: $43.19
+Staked: 0.0194 Cake-LP ($12.78)
+DND Per Week: 10.08 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.04%
+You are staking 0.00 [ETH]-[dETH] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[dETH] Cake LP
+Unstake 0.00 [ETH]-[dETH] Cake LP
+Claim 0.00 DND ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [ADA]-[dADA] Cake LP [+] [-] [<=>] Price: $2.10 TVL: $7,215.14
+ADA Price: $1.03
+dADA Price: $1.01
+Staked: 651.3970 Cake-LP ($1,370.10)
+DND Per Week: 10.08 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [ADA]-[dADA] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[dADA] Cake LP
+Unstake 0.00 [ADA]-[dADA] Cake LP
+Claim 0.00 DND ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [dDOT]-[DOT] Cake LP [+] [-] [<=>] Price: $21.98 TVL: $2,311.51
+dDOT Price: $6.60
+DOT Price: $17.92
+Staked: 4.6828 Cake-LP ($102.93)
+DND Per Week: 10.08 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.01%
+You are staking 0.00 [dDOT]-[DOT] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [dDOT]-[DOT] Cake LP
+Unstake 0.00 [dDOT]-[DOT] Cake LP
+Claim 0.00 DND ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $2,358.23

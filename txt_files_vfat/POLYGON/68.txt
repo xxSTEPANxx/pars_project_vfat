@@ -6,20 +6,24 @@ INFO  : https://defi.polyakita.com
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Fri Dec 17 2021 09:43:48 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 22:19:27 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
-Found 14 pools.
-Showing incentivized pools only.
 {
   "code": -32603,
-  "message": "Internal JSON-RPC error.",
+  "message": "JsonRpcEngine: Response has no error or result for request:\n{\n  \"jsonrpc\": \"2.0\",\n  \"id\": \"7a7356c7-884d-4e02-afda-b743f0b51b8c\",\n  \"method\": \"eth_blockNumber\",\n  \"params\": [],\n  \"origin\": \"metamask\",\n  \"tabId\": 3\n}",
   "data": {
-    "code": -32000,
-    "message": "header not found"
+    "request": {
+      "jsonrpc": "2.0",
+      "id": "7a7356c7-884d-4e02-afda-b743f0b51b8c",
+      "method": "eth_blockNumber",
+      "params": [],
+      "origin": "metamask",
+      "tabId": 3
+    }
   }
 }
 Oops something went wrong. Try refreshing the page.

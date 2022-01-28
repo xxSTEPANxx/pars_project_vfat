@@ -1,0 +1,70 @@
+*************** 👨‍🌾 UNOFFICIAL GEIST.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://geist.finance
+**********************************************************************************
+
+Fri Jan 28 2022 00:46:31 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+DAI ($1.00)
+Supplied : 172,490,243.82 ($172,490,243.82) at 1.05% APR
+Borrowed : 111,549,573.49 ($111,549,573.49) at 3.23% APR
+Reserves : 60,940,674.87 ($60,940,674.87)
+
+ETH ($2,343.74)
+Supplied : 106,679.30 ($250,028,540.80) at 0.25% APR
+Borrowed : 21,355.78 ($50,052,385.70) at 2.46% APR
+Reserves : 85,323.54 ($199,976,191.64)
+
+fUSDT ($1.00)
+Supplied : 173,225,876.25 ($173,225,876.25) at 0.92% APR
+Borrowed : 111,624,393.47 ($111,624,393.47) at 2.86% APR
+Reserves : 61,601,487.86 ($61,601,487.86)
+
+WFTM ($2.02)
+Supplied : 108,599,547.68 ($219,371,086.32) at 1.02% APR
+Borrowed : 39,281,753.69 ($79,349,142.45) at 5.63% APR
+Reserves : 69,317,808.27 ($140,021,972.70)
+
+BTC ($35,904.00)
+Supplied : 7,555.76 ($271,282,111.24) at 0.17% APR
+Borrowed : 1,252.90 ($44,984,114.80) at 2.04% APR
+Reserves : 6,302.86 ($226,297,996.85)
+
+LINK ($14.68)
+Supplied : 651,105.07 ($9,558,222.40) at 2.81% APR
+Borrowed : 299,240.23 ($4,392,846.59) at 12.23% APR
+Reserves : 351,865.36 ($5,165,383.50)
+
+MIM ($1.00)
+Supplied : 27,861,025.79 ($27,861,025.79) at 38.75% APR
+Borrowed : 27,750,058.08 ($27,750,058.08) at 77.80% APR
+Reserves : 110,989.37 ($110,989.37)
+
+USDC ($1.00)
+Supplied : 197,908,572.42 ($197,908,572.42) at 0.97% APR
+Borrowed : 130,563,380.92 ($130,563,380.92) at 2.93% APR
+Reserves : 67,345,196.45 ($67,345,196.45)
+
+CRV ($2.73)
+Supplied : 1,358,521.87 ($3,708,764.70) at 13.11% APR
+Borrowed : 717,539.33 ($1,958,882.38) at 49.64% APR
+Reserves : 640,985.81 ($1,749,891.27)
+
+You have the choice to stake with a locking period. Please check the website for more details
+
+GEIST Price: $0.22 Market Cap: $49,947,812.95 
+Staked: 185761472.2582 GEIST ($41,618,000.24)
+GEIST Per Week: 2365503.44 ($529,967.39)
+APR: Day 0.18% Week 1.27% Year 66.22%
+You are staking 0.000000 GEIST $0.00 (0.00% of the pool).
+FTM Scan
+Stake 0.000000 GEIST
+Unstake 0.000000 GEIST
+Claim NaN GEIST ($0.00)
+Revoke (set approval to 0)
+Exit
+
+Total staked: $41,618,000.24

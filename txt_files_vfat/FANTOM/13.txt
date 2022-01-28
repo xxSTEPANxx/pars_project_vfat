@@ -1,0 +1,81 @@
+*************** 👨‍🌾 UNOFFICIAL STAKE STEAK FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://stakesteak.com
+*********************************************************************************
+
+Fri Jan 28 2022 00:33:51 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 10 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+Note: There is a 0.05% deposit fee into farms that is returned to iFUSD holders, and 10% claim fee that is returned to xSTEAK holders.
+0 - iFUSD Price: $0.57 Market Cap: $17,577.37 
+Staked: 10069.3143 iFUSD ($5,708.49)
+STEAK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 iFUSD ($0.00), 0.00% of the pool.
+Stake 0.00 iFUSD - Fee 0.005%
+Unstake 0.00 iFUSD
+Claim 0.00 STEAK ($0.00)
+Staking or unstaking also claims rewards.
+
+Note: There is a 0.05% deposit fee into farms that is returned to iFUSD holders, and 10% claim fee that is returned to xSTEAK holders.
+1 - [STEAK]-[FUSD] SPIRIT LP [+] [-] [<=>] Price: $0.21 TVL: $2,111.63
+STEAK Price: $0.01
+FUSD Price: $0.55
+Staked: 3561.2668 SPIRIT-LP ($742.02)
+STEAK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [STEAK]-[FUSD] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [STEAK]-[FUSD] SPIRIT LP - Fee 0.005%
+Unstake 0.00 [STEAK]-[FUSD] SPIRIT LP
+Claim 0.00 STEAK ($0.00)
+Staking or unstaking also claims rewards.
+
+Note: There is a 0.05% deposit fee into farms that is returned to iFUSD holders, and 10% claim fee that is returned to xSTEAK holders.
+2 - [USDC]-[FUSD] SPIRIT LP [+] [-] [<=>] Price: $2,100,597.50 TVL: $2,477.29
+USDC Price: $1.00
+FUSD Price: $0.55
+Staked: 0.0001 SPIRIT-LP ($142.62)
+STEAK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDC]-[FUSD] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[FUSD] SPIRIT LP - Fee 0.005%
+Unstake 0.00 [USDC]-[FUSD] SPIRIT LP
+Claim 0.00 STEAK ($0.00)
+Staking or unstaking also claims rewards.
+
+Note: There is a 0.05% deposit fee into farms that is returned to iFUSD holders, and 10% claim fee that is returned to xSTEAK holders.
+5 - [WFTM]-[FUSD] SPIRIT LP [+] [-] [<=>] Price: $3.97 TVL: $9,343.89
+WFTM Price: $2.01
+FUSD Price: $0.55
+Staked: 1794.3055 SPIRIT-LP ($7,130.78)
+STEAK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WFTM]-[FUSD] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[FUSD] SPIRIT LP - Fee 0.005%
+Unstake 0.00 [WFTM]-[FUSD] SPIRIT LP
+Claim 0.00 STEAK ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $13,723.91
+FUSD Price: $0.55 Market Cap: $15,980,389.39 
+Staked: 31811.3228 FUSD ($17,577.37)
+FUSD Per Week: 14000.00 ($7,735.71)
+APR: Day 6.29% Week 44.01% Year 2288.49%
+You are staking 0.00 FUSD ($0.00), 0.00% of the pool.
+iFUSD Contract
+Deposit 0.00 FUSD
+Withdraw 0.00 iFUSD
+
+STEAK Price: $0.01 Market Cap: $67,501.07 
+Staked: 270599.8688 STEAK ($3,656.44)
+STEAK Per Week: 14000.00 ($189.17)
+APR: Day 0.74% Week 5.17% Year 269.03%
+You are staking 0.00 STEAK ($0.00), 0.00% of the pool.
+iFUSD Contract
+Deposit 0.00 STEAK
+Withdraw 0.00 xSTEAK

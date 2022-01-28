@@ -1,0 +1,231 @@
+*************** 👨‍🌾 UNOFFICIAL TRIDENT.PEARLDEFI FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://trident.pearldefi.com
+************************************************************************************
+
+Thu Jan 27 2022 21:20:20 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 20 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [TRIDENT]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $21.79
+TRIDENT Price: $0.0000000000
+BUSD Price: $1.00
+Staked: 10769.4114 Cake-LP ($20.85)
+TRIDENT Per Week: 5929411.76 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.06%
+You are staking 0.00 [TRIDENT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TRIDENT]-[BUSD] Cake LP
+Unstake 0.00 [TRIDENT]-[BUSD] Cake LP
+Claim 0.00 TRIDENT ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [TRIDENT]-[WBNB] Cake LP [+] [-] [<=>] Price: $0.03 TVL: $85.23
+TRIDENT Price: $0.0000000000
+WBNB Price: $367.86
+Staked: 1916.2651 Cake-LP ($65.31)
+TRIDENT Per Week: 5929411.76 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.02%
+You are staking 0.00 [TRIDENT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TRIDENT]-[WBNB] Cake LP
+Unstake 0.00 [TRIDENT]-[WBNB] Cake LP
+Claim 0.00 TRIDENT ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.40 TVL: $345,829,757.78
+WBNB Price: $367.86
+BUSD Price: $1.00
+Staked: 0.0018 Cake-LP ($0.08)
+TRIDENT Per Week: 741176.47 ($0.00)
+APR: Day 0.01% Week 0.04% Year 1.83%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 TRIDENT ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $105.25 TVL: $200,389,369.86
+Cake Price: $6.98
+WBNB Price: $367.86
+Staked: 0.0000 Cake-LP ($0.00)
+TRIDENT Per Week: 592941.18 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 TRIDENT ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $7,731.10 TVL: $68,368,807.14
+BTCB Price: $36,200.00
+WBNB Price: $367.86
+Staked: 0.0000 Cake-LP ($0.00)
+TRIDENT Per Week: 592941.18 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 TRIDENT ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,027.84 TVL: $73,878,427.96
+ETH Price: $2,420.15
+WBNB Price: $367.86
+Staked: 0.0000 Cake-LP ($0.00)
+TRIDENT Per Week: 592941.18 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 TRIDENT ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.10 TVL: $297,102,611.09
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+TRIDENT Per Week: 296470.59 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 TRIDENT ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [DAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $16,860,274.18
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+TRIDENT Per Week: 296470.59 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 TRIDENT ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - TRIDENT Price: $0.0000000000 Market Cap: $0.00 [%]
+Staked: 2415197.4838 TRIDENT ($0.00)
+TRIDENT Per Week: 1482352.94 ($0.00)
+APR: Day 8.77% Week 61.38% Year 3191.55%
+You are staking 0.00 TRIDENT ($0.00), 0.00% of the pool.
+Stake 0.00 TRIDENT
+Unstake 0.00 TRIDENT
+Claim 0.00 TRIDENT ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - PEARL Price: $0.00 Market Cap: $0.00 
+Staked: 218.0219 PEARL ($0.00)
+TRIDENT Per Week: 741176.47 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 PEARL ($0.00), NaN% of the pool.
+Stake 0.00 PEARL
+Unstake 0.00 PEARL
+Claim 0.00 TRIDENT ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - WBNB Price: $367.86 Market Cap: $1,919,528,382.39 [%]
+Staked: 0.0096 WBNB ($3.53)
+TRIDENT Per Week: 444705.88 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.03%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 TRIDENT ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - Cake Price: $6.98 Market Cap: $4,292,448,133.38 [%]
+Staked: 0.0000 Cake ($0.00)
+TRIDENT Per Week: 296470.59 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 Cake ($0.00), NaN% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 TRIDENT ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - BUNNY Price: $0.57 Market Cap: $8,539,768.67 [%]
+Staked: 0.0000 BUNNY ($0.00)
+TRIDENT Per Week: 296470.59 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 BUNNY ($0.00), NaN% of the pool.
+Stake 0.00 BUNNY - Fee 4%
+Unstake 0.00 BUNNY
+Claim 0.00 TRIDENT ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - BTCB Price: $36,200.00 Market Cap: $4,072,536,200.00 [%]
+Staked: 0.0000 BTCB ($0.00)
+TRIDENT Per Week: 444705.88 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 BTCB ($0.00), NaN% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 TRIDENT ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - ETH Price: $2,420.15 Market Cap: $3,400,310,750.00 [%]
+Staked: 0.0000 ETH ($0.00)
+TRIDENT Per Week: 444705.88 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 ETH ($0.00), NaN% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 TRIDENT ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - BUSD Price: $1.00 Market Cap: $4,845,852,478.28 [%]
+Staked: 2.9198 BUSD ($2.92)
+TRIDENT Per Week: 148235.29 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.01%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 TRIDENT ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - USDT Price: $1.00 Market Cap: $3,879,997,922.18 [%]
+Staked: 0.0000 USDT ($0.00)
+TRIDENT Per Week: 148235.29 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 USDT ($0.00), NaN% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 TRIDENT ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - DAI Price: $1.00 Market Cap: $262,000,000.00 [%]
+Staked: 0.0000 DAI ($0.00)
+TRIDENT Per Week: 148235.29 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 DAI ($0.00), NaN% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 TRIDENT ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - ADA Price: $1.03 Market Cap: $288,400,000.00 [%]
+Staked: 0.0000 ADA ($0.00)
+TRIDENT Per Week: 296470.59 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 ADA ($0.00), NaN% of the pool.
+Stake 0.00 ADA - Fee 4%
+Unstake 0.00 ADA
+Claim 0.00 TRIDENT ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - LINK Price: $15.01 Market Cap: $129,086,000.00 [%]
+Staked: 0.0000 LINK ($0.00)
+TRIDENT Per Week: 296470.59 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 LINK ($0.00), NaN% of the pool.
+Stake 0.00 LINK - Fee 4%
+Unstake 0.00 LINK
+Claim 0.00 TRIDENT ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $92.69

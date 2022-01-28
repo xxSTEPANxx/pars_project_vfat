@@ -1,0 +1,62 @@
+*************** 👨‍🌾 UNOFFICIAL FLEX PROTOCOL FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://flexprotocol.org/#/stake
+**********************************************************************************
+
+Thu Jan 27 2022 20:31:27 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+****** Flex Token price: $0.11 ******
+BUSD Price: $1.00 Market Cap: $4,847,070,079.12 [%]
+Staked: 1.0000 BUSD ($1.00)
+FLEX Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 BUSD $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 BUSD
+Unstake 0.000000 BUSD
+Claim 0.000000 FLEX ($0.00)
+Revoke (set approval to 0)
+Exit
+
+USDC Price: $1.00 Market Cap: $1,779,000,000.00 [%]
+Staked: 1.2000 USDC ($1.20)
+FLEX Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 USDC $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 USDC
+Unstake 0.000000 USDC
+Claim 0.000000 FLEX ($0.00)
+Revoke (set approval to 0)
+Exit
+
+USDT Price: $1.00 Market Cap: $3,871,547,286.70 [%]
+Staked: 1.0000 USDT ($1.00)
+FLEX Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 USDT $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 USDT
+Unstake 0.000000 USDT
+Claim 0.000000 FLEX ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[FLEX]-[BUSD] Cake LP [+] [-] [<=>] Price: $1.10 TVL: $1,125.66
+FLEX Price: $0.11
+BUSD Price: $1.00
+Staked: 756.0184 Cake-LP ($827.98)
+FLEX Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [FLEX]-[BUSD] Cake LP $0.00 (0.00% of the pool).
+BSC Scan
+Stake 0.000000 [FLEX]-[BUSD] Cake LP
+Unstake 0.000000 [FLEX]-[BUSD] Cake LP
+Claim 0.000000 FLEX ($0.00)
+Revoke (set approval to 0)
+Exit
+
+Total staked: $831.17

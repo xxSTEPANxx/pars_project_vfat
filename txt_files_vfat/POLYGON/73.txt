@@ -6,129 +6,20 @@ INFO  : https://dinosaurfinance.vercel.app
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Fri Dec 17 2021 09:45:39 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 22:20:43 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
+Staking Contract
 Found 11 pools.
 Showing incentivized pools only.
-Finished reading smart contracts.
-0 - [USDC]-[DINO] Uni LP [+] [-] [<=>] Price: $294,882.42 TVL: $1,521.59
-USDC Price: $1.00
-DINO Price: $0.02
-Staked: 0.0051 UNI-V2 ($1,500.91)
-DINO Per Week: 75195.82 ($1,153.80)
-APR: Day 10.98% Week 76.87% Year 3997.44%
-You are staking 0.00 [USDC]-[DINO] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[DINO] Uni LP - Fee 100%
-Unstake 0.00 [USDC]-[DINO] Uni LP
-Claim 0.00 DINO ($0.00)
-Staking or unstaking also claims rewards.
-
-1 - [WMATIC]-[DINO] Uni LP [+] [-] [<=>] Price: $0.44 TVL: $1,027.96
-WMATIC Price: $2.08
-DINO Price: $0.02
-Staked: 2307.6150 UNI-V2 ($1,005.56)
-DINO Per Week: 75195.82 ($1,153.80)
-APR: Day 16.39% Week 114.74% Year 5966.60%
-You are staking 0.00 [WMATIC]-[DINO] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[DINO] Uni LP - Fee 100%
-Unstake 0.00 [WMATIC]-[DINO] Uni LP
-Claim 0.00 DINO ($0.00)
-Staking or unstaking also claims rewards.
-
-2 - DINO Price: $0.02 Market Cap: $41,629.32 [%]
-Staked: 2328658.6999 DINO ($35,730.91)
-DINO Per Week: 37597.91 ($576.90)
-APR: Day 0.23% Week 1.61% Year 83.96%
-You are staking 0.00 DINO ($0.00), 0.00% of the pool.
-Stake 0.00 DINO - Fee 100%
-Unstake 0.00 DINO
-Claim 0.00 DINO ($0.00)
-Staking or unstaking also claims rewards.
-
-3 - WMATIC Price: $2.08 Market Cap: $633,902,434.24 [%]
-Staked: 6204.2762 WMATIC ($12,904.89)
-DINO Per Week: 15039.16 ($230.76)
-APR: Day 0.26% Week 1.79% Year 92.98%
-You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
-Stake 0.00 WMATIC - Fee 100%
-Unstake 0.00 WMATIC
-Claim 0.00 DINO ($0.00)
-Staking or unstaking also claims rewards.
-
-4 - AAVE Price: $174.40 Market Cap: $47,462,057.93 [%]
-Staked: 12.6688 AAVE ($2,209.45)
-DINO Per Week: 5263.71 ($80.77)
-APR: Day 0.52% Week 3.66% Year 190.09%
-You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
-Stake 0.00 AAVE - Fee 100%
-Unstake 0.00 AAVE
-Claim 0.00 DINO ($0.00)
-Staking or unstaking also claims rewards.
-
-5 - WBTC Price: $47,539.00 Market Cap: $479,678,446.03 [%]
-Staked: 0.1250 WBTC ($5,944.24)
-DINO Per Week: 9023.50 ($138.46)
-APR: Day 0.33% Week 2.33% Year 121.12%
-You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
-Stake 0.00 WBTC - Fee 100%
-Unstake 0.00 WBTC
-Claim 0.00 DINO ($0.00)
-Staking or unstaking also claims rewards.
-
-6 - QUICK Price: $244.67 Market Cap: $233,791,583.11 [%]
-Staked: 0.9603 QUICK ($234.95)
-DINO Per Week: 9023.50 ($138.46)
-APR: Day 8.42% Week 58.93% Year 3064.31%
-You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
-Stake 0.00 QUICK - Fee 100%
-Unstake 0.00 QUICK
-Claim 0.00 DINO ($0.00)
-Staking or unstaking also claims rewards.
-
-7 - WETH Price: $3,949.34 Market Cap: $1,753,361,671.48 [%]
-Staked: 0.7631 WETH ($3,013.88)
-DINO Per Week: 11279.37 ($173.07)
-APR: Day 0.82% Week 5.74% Year 298.61%
-You are staking 0.00 WETH ($0.00), 0.00% of the pool.
-Stake 0.00 WETH - Fee 100%
-Unstake 0.00 WETH
-Claim 0.00 DINO ($0.00)
-Staking or unstaking also claims rewards.
-
-8 - DAI Price: $1.00 Market Cap: $367,647,843.61 [%]
-Staked: 2768.3372 DAI ($2,768.34)
-DINO Per Week: 7519.58 ($115.38)
-APR: Day 0.60% Week 4.17% Year 216.73%
-You are staking 0.00 DAI ($0.00), 0.00% of the pool.
-Stake 0.00 DAI - Fee 100%
-Unstake 0.00 DAI
-Claim 0.00 DINO ($0.00)
-Staking or unstaking also claims rewards.
-
-9 - LINK Price: $19.04 Market Cap: $33,147,790.89 [%]
-Staked: 53.9659 LINK ($1,027.51)
-DINO Per Week: 5263.71 ($80.77)
-APR: Day 1.12% Week 7.86% Year 408.74%
-You are staking 0.00 LINK ($0.00), 0.00% of the pool.
-Stake 0.00 LINK - Fee 100%
-Unstake 0.00 LINK
-Claim 0.00 DINO ($0.00)
-Staking or unstaking also claims rewards.
-
-10 - [USDC]-[WETH] Uni LP [+] [-] [<=>] Price: $185,950,330.76 TVL: $80,927,290.02
-USDC Price: $1.00
-WETH Price: $3,949.34
-Staked: 0.0000 UNI-V2 ($0.00)
-DINO Per Week: 37597.91 ($576.90)
-APR: Day Infinity% Week Infinity% Year Infinity%
-You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), NaN% of the pool.
-Stake 0.00 [USDC]-[WETH] Uni LP - Fee 100%
-Unstake 0.00 [USDC]-[WETH] Uni LP
-Claim 0.00 DINO ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $66,340.63
+{
+  "code": -32603,
+  "message": "Non-200 status code: '400'",
+  "data": {
+    "error": "Unable to verify your data submission."
+  }
+}
+Oops something went wrong. Try refreshing the page.

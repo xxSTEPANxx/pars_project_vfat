@@ -1,0 +1,49 @@
+*************** 👨‍🌾 UNOFFICIAL DJINN FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : http://djinn.gold
+**********************************************************************************
+
+Thu Jan 27 2022 20:38:05 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 3 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [DJINN]-[BUSD] Cake LP [+] [-] [<=>] Price: $1.84 TVL: $10,930.08
+DJINN Price: $0.81
+BUSD Price: $1.00
+Staked: 3690.6034 Cake-LP ($6,801.90)
+DJINNS Per Week: 122.73 ($26.88)
+APR: Day 0.06% Week 0.40% Year 20.55%
+You are staking 0.00 [DJINN]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DJINN]-[BUSD] Cake LP
+Unstake 0.00 [DJINN]-[BUSD] Cake LP
+Claim 0.00 DJINNS ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [DJINNS]-[WBNB] Cake LP [+] [-] [<=>] Price: $18.37 TVL: $394.38
+DJINNS Price: $0.22
+WBNB Price: $370.44
+Staked: 21.0452 Cake-LP ($386.63)
+DJINNS Per Week: 61.36 ($13.44)
+APR: Day 0.50% Week 3.48% Year 180.73%
+You are staking 0.00 [DJINNS]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DJINNS]-[WBNB] Cake LP
+Unstake 0.00 [DJINNS]-[WBNB] Cake LP
+Claim 0.00 DJINNS ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - DEVT Price: $0.00 Market Cap: $0.00 
+Staked: 1.0000 DEVT ($0.00)
+DJINNS Per Week: 7.67 ($1.68)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 DEVT ($0.00), NaN% of the pool.
+Stake 0.00 DEVT
+Unstake 0.00 DEVT
+Claim 0.00 DJINNS ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $7,188.53

@@ -6,23 +6,17 @@ INFO  : https://xenomorph.finance/
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Fri Dec 17 2021 11:11:18 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 23:09:11 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
-Found 14 pools.
-Showing incentivized pools only.
 {
   "code": -32603,
-  "message": "Non-200 status code: '401'",
+  "message": "Non-200 status code: '400'",
   "data": {
-    "timestamp": "2021-12-17T08:11:49.097+00:00",
-    "status": 401,
-    "error": "Unauthorized",
-    "message": "",
-    "path": "/v3/295cce92179b4be498665b1b16dfee34"
+    "error": "Unable to verify your data submission."
   }
 }
 Oops something went wrong. Try refreshing the page.

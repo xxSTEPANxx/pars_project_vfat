@@ -1,0 +1,137 @@
+*************** 👨‍🌾 UNOFFICIAL COSMICSWAP.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://app.cosmicswap.finance
+***************************************************************************************
+
+Thu Jan 27 2022 20:58:55 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 20 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [COSMIC]-[BUSD] Cake LP [+] [-] [<=>] Price: $1.20 TVL: $74,065.93
+COSMIC Price: $0.34
+BUSD Price: $1.00
+Staked: 4587.8804 Cake-LP ($5,509.77)
+COSMIC Per Week: 430.08 ($144.74)
+APR: Day 0.38% Week 2.63% Year 136.60%
+You are staking 0.00 [COSMIC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [COSMIC]-[BUSD] Cake LP
+Unstake 0.00 [COSMIC]-[BUSD] Cake LP
+Claim 0.00 COSMIC ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - COSMIC Price: $0.34 Market Cap: $66,293.17 [%]
+Staked: 44981.1321 COSMIC ($15,138.22)
+COSMIC Per Week: 215.04 ($72.37)
+APR: Day 0.07% Week 0.48% Year 24.86%
+You are staking 0.00 COSMIC ($0.00), 0.00% of the pool.
+Stake 0.00 COSMIC
+Unstake 0.00 COSMIC
+Claim 0.00 COSMIC ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - DOT Price: $18.08 Market Cap: $289,279,999.84 [%]
+Staked: 320.8796 DOT ($5,801.50)
+COSMIC Per Week: 53.76 ($18.09)
+APR: Day 0.04% Week 0.31% Year 16.22%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 1%
+Unstake 0.00 DOT
+Claim 0.00 COSMIC ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - WBNB Price: $368.93 Market Cap: $1,925,935,488.59 [%]
+Staked: 38.2738 WBNB ($14,120.37)
+COSMIC Per Week: 161.28 ($54.28)
+APR: Day 0.05% Week 0.38% Year 19.99%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 1%
+Unstake 0.00 WBNB
+Claim 0.00 COSMIC ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $105.71 TVL: $201,257,399.84
+Cake Price: $7.02
+WBNB Price: $368.93
+Staked: 30.8188 Cake-LP ($3,257.81)
+COSMIC Per Week: 107.52 ($36.19)
+APR: Day 0.16% Week 1.11% Year 57.76%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 1%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 COSMIC ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - BUSD Price: $1.00 Market Cap: $4,850,999,388.63 [%]
+Staked: 13222.6572 BUSD ($13,222.66)
+COSMIC Per Week: 161.28 ($54.28)
+APR: Day 0.06% Week 0.41% Year 21.35%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 1%
+Unstake 0.00 BUSD
+Claim 0.00 COSMIC ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [AGA]-[WBNB] Cake LP [+] [-] [<=>] Price: $175,155,586.86 TVL: $3,091.43
+AGA Price: $0.20
+WBNB Price: $368.93
+Staked: 0.0000 Cake-LP ($2,864.56)
+COSMIC Per Week: 161.28 ($54.28)
+APR: Day 0.27% Week 1.89% Year 98.53%
+You are staking 0.00 [AGA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AGA]-[WBNB] Cake LP - Fee 0.5%
+Unstake 0.00 [AGA]-[WBNB] Cake LP
+Claim 0.00 COSMIC ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [AGAr]-[AGA] Cake LP [+] [-] [<=>] Price: $5,644,639,009,324.20 TVL: $4,426.68
+AGAr Price: $40.26
+AGA Price: $0.20
+Staked: 0.0000 Cake-LP ($4,347.90)
+COSMIC Per Week: 161.28 ($54.28)
+APR: Day 0.18% Week 1.25% Year 64.92%
+You are staking 0.00 [AGAr]-[AGA] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AGAr]-[AGA] Cake LP - Fee 0.5%
+Unstake 0.00 [AGAr]-[AGA] Cake LP
+Claim 0.00 COSMIC ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [COSMIC]-[AGA] Cake LP [+] [-] [<=>] Price: $5,226,358.65 TVL: $4,081.19
+COSMIC Price: $0.34
+AGA Price: $0.20
+Staked: 0.0008 Cake-LP ($3,988.47)
+COSMIC Per Week: 322.56 ($108.56)
+APR: Day 0.39% Week 2.72% Year 141.53%
+You are staking 0.00 [COSMIC]-[AGA] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [COSMIC]-[AGA] Cake LP - Fee 0.5%
+Unstake 0.00 [COSMIC]-[AGA] Cake LP
+Claim 0.00 COSMIC ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - QBERT Price: $0.00 Market Cap: $0.00 
+Staked: 8796960.6448 QBERT ($0.00)
+COSMIC Per Week: 80.64 ($27.14)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 QBERT ($0.00), NaN% of the pool.
+Stake 0.00 QBERT - Fee 1%
+Unstake 0.00 QBERT
+Claim 0.00 COSMIC ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [QBERT]-[COSMIC] Cake LP [+] [-] [<=>] Price: $0.01 TVL: $488.82
+QBERT Price: $0.0000399188
+COSMIC Price: $0.34
+Staked: 65804.6318 Cake-LP ($487.94)
+COSMIC Per Week: 161.28 ($54.28)
+APR: Day 1.59% Week 11.12% Year 578.44%
+You are staking 0.00 [QBERT]-[COSMIC] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [QBERT]-[COSMIC] Cake LP - Fee 1%
+Unstake 0.00 [QBERT]-[COSMIC] Cake LP
+Claim 0.00 COSMIC ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $68,739.20

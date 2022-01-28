@@ -1,0 +1,200 @@
+*************** UNOFFICIAL LANDSWAP FARMING CALCULATOR ***************
+
+INFO  : https://landswap.app
+**********************************************************************
+
+Fri Jan 28 2022 01:14:38 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 16 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - LAND Price: $0.04 Market Cap: $448.63 
+Staked: 829.0700 LAND ($35.61)
+LAND Per Week: 96.59 ($4.15)
+APR: Day 1.66% Week 11.65% Year 605.80%
+You are staking 0.00 LAND ($0.00), 0.00% of the pool.
+Stake 0.00 LAND
+Unstake 0.00 LAND
+Claim 0.00 LAND ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [LAND]-[USDC] SLP [+] [-] [<=>] Price: $420,387.96 TVL: $214.31
+LAND Price: $0.04
+USDC Price: $1.00
+Staked: 0.0004 SLP ($181.63)
+LAND Per Week: 321.96 ($13.83)
+APR: Day 1.09% Week 7.61% Year 395.89%
+You are staking 0.00 [LAND]-[USDC] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [LAND]-[USDC] SLP
+Unstake 0.00 [LAND]-[USDC] SLP
+Claim 0.00 LAND ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WMOVR]-[USDC] SLP [+] [-] [<=>] Price: $21,738,441.39 TVL: $3,778,588.68
+WMOVR Price: $71.67
+USDC Price: $1.00
+Staked: 0.0000 SLP ($0.00)
+LAND Per Week: 32.20 ($1.38)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WMOVR]-[USDC] SLP ($0.00), NaN% of the pool.
+Stake 0.00 [WMOVR]-[USDC] SLP - Fee 4%
+Unstake 0.00 [WMOVR]-[USDC] SLP
+Claim 0.00 LAND ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [SOLAR]-[USDC] SLP [+] [-] [<=>] Price: $2,141,139.95 TVL: $794,810.58
+SOLAR Price: $0.98
+USDC Price: $1.00
+Staked: 0.0000 SLP ($0.00)
+LAND Per Week: 80.49 ($3.46)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [SOLAR]-[USDC] SLP ($0.00), NaN% of the pool.
+Stake 0.00 [SOLAR]-[USDC] SLP - Fee 4%
+Unstake 0.00 [SOLAR]-[USDC] SLP
+Claim 0.00 LAND ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [SOLAR]-[WMOVR] SLP [+] [-] [<=>] Price: $17.68 TVL: $3,109,587.83
+SOLAR Price: $0.98
+WMOVR Price: $71.67
+Staked: 0.0000 SLP ($0.00)
+LAND Per Week: 80.49 ($3.46)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [SOLAR]-[WMOVR] SLP ($0.00), NaN% of the pool.
+Stake 0.00 [SOLAR]-[WMOVR] SLP - Fee 4%
+Unstake 0.00 [SOLAR]-[WMOVR] SLP
+Claim 0.00 LAND ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [DAI]-[USDC] SLP [+] [-] [<=>] Price: $2,025,578.96 TVL: $2,543,616.15
+DAI Price: $1.00
+USDC Price: $1.00
+Staked: 0.0000 SLP ($0.00)
+LAND Per Week: 32.20 ($1.38)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [DAI]-[USDC] SLP ($0.00), NaN% of the pool.
+Stake 0.00 [DAI]-[USDC] SLP - Fee 4%
+Unstake 0.00 [DAI]-[USDC] SLP
+Claim 0.00 LAND ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [BUSD]-[USDC] SLP [+] [-] [<=>] Price: $2,062,221.20 TVL: $5,466,640.72
+BUSD Price: $1.00
+USDC Price: $1.00
+Staked: 0.0000 SLP ($0.00)
+LAND Per Week: 32.20 ($1.38)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [BUSD]-[USDC] SLP ($0.00), NaN% of the pool.
+Stake 0.00 [BUSD]-[USDC] SLP - Fee 4%
+Unstake 0.00 [BUSD]-[USDC] SLP
+Claim 0.00 LAND ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [ETH]-[USDC] SLP [+] [-] [<=>] Price: $99,714,592.52 TVL: $304,976.88
+ETH Price: $2,235.70
+USDC Price: $1.00
+Staked: 0.0000 SLP ($0.00)
+LAND Per Week: 32.20 ($1.38)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [ETH]-[USDC] SLP ($0.00), NaN% of the pool.
+Stake 0.00 [ETH]-[USDC] SLP - Fee 4%
+Unstake 0.00 [ETH]-[USDC] SLP
+Claim 0.00 LAND ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [BNB]-[BUSD] SLP [+] [-] [<=>] Price: $39.52 TVL: $181,647.50
+BNB Price: $374.16
+BUSD Price: $1.00
+Staked: 0.0000 SLP ($0.00)
+LAND Per Week: 32.20 ($1.38)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [BNB]-[BUSD] SLP ($0.00), NaN% of the pool.
+Stake 0.00 [BNB]-[BUSD] SLP - Fee 4%
+Unstake 0.00 [BNB]-[BUSD] SLP
+Claim 0.00 LAND ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [WBTC]-[USDC] SLP [+] [-] [<=>] Price: $37,944,422,288,818.14 TVL: $774,602.80
+WBTC Price: $34,955.00
+USDC Price: $1.00
+Staked: 0.0000 SLP ($0.00)
+LAND Per Week: 32.20 ($1.38)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WBTC]-[USDC] SLP ($0.00), NaN% of the pool.
+Stake 0.00 [WBTC]-[USDC] SLP - Fee 4%
+Unstake 0.00 [WBTC]-[USDC] SLP
+Claim 0.00 LAND ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [USDT]-[USDC] SLP [+] [-] [<=>] Price: $2,027,670,385,636.79 TVL: $2,681,763.91
+USDT Price: $1.00
+USDC Price: $1.00
+Staked: 0.0000 SLP ($0.00)
+LAND Per Week: 32.20 ($1.38)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDT]-[USDC] SLP ($0.00), NaN% of the pool.
+Stake 0.00 [USDT]-[USDC] SLP - Fee 4%
+Unstake 0.00 [USDT]-[USDC] SLP
+Claim 0.00 LAND ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [MATIC]-[WMOVR] SLP [+] [-] [<=>] Price: $21.71 TVL: $408,121.96
+MATIC Price: $1.54
+WMOVR Price: $71.67
+Staked: 0.0000 SLP ($0.00)
+LAND Per Week: 32.20 ($1.38)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [MATIC]-[WMOVR] SLP ($0.00), NaN% of the pool.
+Stake 0.00 [MATIC]-[WMOVR] SLP - Fee 4%
+Unstake 0.00 [MATIC]-[WMOVR] SLP
+Claim 0.00 LAND ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [AVAX]-[WMOVR] SLP [+] [-] [<=>] Price: $138.65 TVL: $557,118.33
+AVAX Price: $61.98
+WMOVR Price: $71.67
+Staked: 0.0000 SLP ($0.00)
+LAND Per Week: 32.20 ($1.38)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [AVAX]-[WMOVR] SLP ($0.00), NaN% of the pool.
+Stake 0.00 [AVAX]-[WMOVR] SLP - Fee 4%
+Unstake 0.00 [AVAX]-[WMOVR] SLP
+Claim 0.00 LAND ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - SOLAR Price: $0.98 Market Cap: $5,381,635.41 
+Staked: 0.0000 SOLAR ($0.00)
+LAND Per Week: 32.20 ($1.38)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 SOLAR ($0.00), NaN% of the pool.
+Stake 0.00 SOLAR - Fee 4%
+Unstake 0.00 SOLAR
+Claim 0.00 LAND ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - mSWAP Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 mSWAP ($0.00)
+LAND Per Week: 22.54 ($0.97)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 mSWAP ($0.00), NaN% of the pool.
+Stake 0.00 mSWAP - Fee 4%
+Unstake 0.00 mSWAP
+Claim 0.00 LAND ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - WMOVR Price: $71.67 Market Cap: $14,250,859.50 
+Staked: 0.0000 WMOVR ($0.00)
+LAND Per Week: 12.88 ($0.55)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 WMOVR ($0.00), NaN% of the pool.
+Stake 0.00 WMOVR - Fee 4%
+Unstake 0.00 WMOVR
+Claim 0.00 LAND ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $217.24

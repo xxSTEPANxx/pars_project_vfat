@@ -1,0 +1,61 @@
+*************** 👨‍🌾 UNOFFICIAL SLOTHFINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://slothfinance.com
+*********************************************************************************
+
+Thu Jan 27 2022 20:55:31 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 4 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [sloth]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.02 TVL: $12.61
+sloth Price: $0.0000575816
+BUSD Price: $1.00
+Staked: 510.4789 Cake-LP ($8.03)
+SLOTH Per Week: 16799.97 ($0.97)
+APR: Day 1.72% Week 12.04% Year 626.10%
+You are staking 0.00 [sloth]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [sloth]-[BUSD] Cake LP
+Unstake 0.00 [sloth]-[BUSD] Cake LP
+Claim 0.00 SLOTH ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [sloth]-[WBNB] Cake LP [+] [-] [<=>] Price: $0.30 TVL: $13.28
+sloth Price: $0.0000575816
+WBNB Price: $369.16
+Staked: 17.4059 Cake-LP ($5.29)
+SLOTH Per Week: 16799.97 ($0.97)
+APR: Day 2.61% Week 18.30% Year 951.60%
+You are staking 0.00 [sloth]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [sloth]-[WBNB] Cake LP
+Unstake 0.00 [sloth]-[WBNB] Cake LP
+Claim 0.00 SLOTH ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.50 TVL: $346,522,561.99
+WBNB Price: $369.16
+BUSD Price: $1.00
+Staked: 9.3468 Cake-LP ($443.93)
+SLOTH Per Week: 4199.99 ($0.24)
+APR: Day 0.01% Week 0.05% Year 2.83%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 SLOTH ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - sloth Price: $0.0000575816 Market Cap: $47.09 [%]
+Staked: 401568.7397 sloth ($23.12)
+SLOTH Per Week: 4199.99 ($0.24)
+APR: Day 0.15% Week 1.05% Year 54.39%
+You are staking 0.00 sloth ($0.00), 0.00% of the pool.
+Stake 0.00 sloth
+Unstake 0.00 sloth
+Claim 0.00 SLOTH ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $480.38

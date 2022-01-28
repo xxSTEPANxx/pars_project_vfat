@@ -1,0 +1,219 @@
+*************** 👨‍🌾 UNOFFICIAL DRAGONBALL.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://dragonballfinance.org
+***************************************************************************************
+
+Thu Jan 27 2022 20:37:29 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 50 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+2 - DBALL Price: $0.000659 Market Cap: $5,460.09 [%]
+Staked: 2862270.0697 DBALL ($1,885.45)
+DBALL Per Week: 17249.20 ($11.36)
+APR: Day 0.09% Week 0.60% Year 31.34%
+You are staking 0.00 DBALL ($0.00), 0.00% of the pool.
+Stake 0.00 DBALL
+Unstake 0.00 DBALL
+Claim 0.00 DBALL ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - WBNB Price: $370.44 Market Cap: $1,934,329,500.67 [%]
+Staked: 1.4533 WBNB ($538.36)
+DBALL Per Week: 3449.84 ($2.27)
+APR: Day 0.06% Week 0.42% Year 21.95%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 3%
+Unstake 0.00 WBNB
+Claim 0.00 DBALL ($0.00)
+Staking or unstaking also claims rewards.
+
+32 - SENZU Price: $0.00 Market Cap: $0.00 
+Staked: 1786.5968 SENZU ($0.00)
+DBALL Per Week: 8624.60 ($5.68)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SENZU ($0.00), NaN% of the pool.
+Stake 0.00 SENZU - Fee 3%
+Unstake 0.00 SENZU
+Claim 0.00 DBALL ($0.00)
+Staking or unstaking also claims rewards.
+
+33 - [DBALL]-[BUSD] Uni LP [+] [-] [<=>] Price: $0.05 TVL: $457.24
+DBALL Price: $0.000659
+BUSD Price: $1.00
+Staked: 7416.9682 DBALL-LP ($401.72)
+DBALL Per Week: 34498.40 ($22.72)
+APR: Day 0.81% Week 5.66% Year 294.16%
+You are staking 0.00 [DBALL]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DBALL]-[BUSD] Uni LP
+Unstake 0.00 [DBALL]-[BUSD] Uni LP
+Claim 0.00 DBALL ($0.00)
+Staking or unstaking also claims rewards.
+
+34 - [WBNB]-[DBALL] Uni LP [+] [-] [<=>] Price: $1.06 TVL: $772.19
+WBNB Price: $370.44
+DBALL Price: $0.000659
+Staked: 664.4350 DBALL-LP ($702.52)
+DBALL Per Week: 34498.40 ($22.72)
+APR: Day 0.46% Week 3.23% Year 168.21%
+You are staking 0.00 [WBNB]-[DBALL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[DBALL] Uni LP
+Unstake 0.00 [WBNB]-[DBALL] Uni LP
+Claim 0.00 DBALL ($0.00)
+Staking or unstaking also claims rewards.
+
+35 - [SENZU]-[DBALL] Uni LP [+] [-] [<=>] Price: $0.03 TVL: $240.39
+SENZU Price: $0.30
+DBALL Price: $0.000659
+Staked: 8114.3700 DBALL-LP ($237.04)
+DBALL Per Week: 20699.04 ($13.63)
+APR: Day 0.82% Week 5.75% Year 299.11%
+You are staking 0.00 [SENZU]-[DBALL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SENZU]-[DBALL] Uni LP
+Unstake 0.00 [SENZU]-[DBALL] Uni LP
+Claim 0.00 DBALL ($0.00)
+Staking or unstaking also claims rewards.
+
+36 - [USDT]-[DBALL] Uni LP [+] [-] [<=>] Price: $0.05 TVL: $116.09
+USDT Price: $1.00
+DBALL Price: $0.000659
+Staked: 1635.8383 DBALL-LP ($86.13)
+DBALL Per Week: 8624.60 ($5.68)
+APR: Day 0.94% Week 6.60% Year 342.98%
+You are staking 0.00 [USDT]-[DBALL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[DBALL] Uni LP
+Unstake 0.00 [USDT]-[DBALL] Uni LP
+Claim 0.00 DBALL ($0.00)
+Staking or unstaking also claims rewards.
+
+38 - [BTCB]-[DBALL] Uni LP [+] [-] [<=>] Price: $9.93 TVL: $51.81
+BTCB Price: $36,502.00
+DBALL Price: $0.000659
+Staked: 3.4572 DBALL-LP ($34.33)
+DBALL Per Week: 8624.60 ($5.68)
+APR: Day 2.36% Week 16.55% Year 860.42%
+You are staking 0.00 [BTCB]-[DBALL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[DBALL] Uni LP
+Unstake 0.00 [BTCB]-[DBALL] Uni LP
+Claim 0.00 DBALL ($0.00)
+Staking or unstaking also claims rewards.
+
+39 - [ETH]-[DBALL] Uni LP [+] [-] [<=>] Price: $2.56 TVL: $123.94
+ETH Price: $2,435.72
+DBALL Price: $0.000659
+Staked: 34.6553 DBALL-LP ($88.83)
+DBALL Per Week: 8624.60 ($5.68)
+APR: Day 0.91% Week 6.40% Year 332.56%
+You are staking 0.00 [ETH]-[DBALL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[DBALL] Uni LP
+Unstake 0.00 [ETH]-[DBALL] Uni LP
+Claim 0.00 DBALL ($0.00)
+Staking or unstaking also claims rewards.
+
+40 - [WBNB]-[SENZU] Uni LP [+] [-] [<=>] Price: $23.46 TVL: $92.47
+WBNB Price: $370.44
+SENZU Price: $0.30
+Staked: 3.9304 DBALL-LP ($92.22)
+DBALL Per Week: 4312.30 ($2.84)
+APR: Day 0.44% Week 3.08% Year 160.18%
+You are staking 0.00 [WBNB]-[SENZU] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[SENZU] Uni LP
+Unstake 0.00 [WBNB]-[SENZU] Uni LP
+Claim 0.00 DBALL ($0.00)
+Staking or unstaking also claims rewards.
+
+42 - [Cake]-[WBNB] Uni LP [+] [-] [<=>] Price: $104.68 TVL: $65.74
+Cake Price: $7.16
+WBNB Price: $370.44
+Staked: 0.6280 DBALL-LP ($65.74)
+DBALL Per Week: 1724.92 ($1.14)
+APR: Day 0.25% Week 1.73% Year 89.88%
+You are staking 0.00 [Cake]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Uni LP
+Unstake 0.00 [Cake]-[WBNB] Uni LP
+Claim 0.00 DBALL ($0.00)
+Staking or unstaking also claims rewards.
+
+43 - [WBNB]-[BUSD] Uni LP [+] [-] [<=>] Price: $41.35 TVL: $104.09
+WBNB Price: $370.44
+BUSD Price: $1.00
+Staked: 2.5113 DBALL-LP ($103.85)
+DBALL Per Week: 1724.92 ($1.14)
+APR: Day 0.16% Week 1.09% Year 56.89%
+You are staking 0.00 [WBNB]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Uni LP
+Unstake 0.00 [WBNB]-[BUSD] Uni LP
+Claim 0.00 DBALL ($0.00)
+Staking or unstaking also claims rewards.
+
+44 - [USDT]-[BUSD] Uni LP [+] [-] [<=>] Price: $2.02 TVL: $283.34
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 40.0000 DBALL-LP ($80.96)
+DBALL Per Week: 862.46 ($0.57)
+APR: Day 0.10% Week 0.70% Year 36.49%
+You are staking 0.00 [USDT]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Uni LP
+Unstake 0.00 [USDT]-[BUSD] Uni LP
+Claim 0.00 DBALL ($0.00)
+Staking or unstaking also claims rewards.
+
+45 - [ETH]-[WBNB] Uni LP [+] [-] [<=>] Price: $1,912.88 TVL: $109.99
+ETH Price: $2,435.72
+WBNB Price: $370.44
+Staked: 0.0225 DBALL-LP ($43.08)
+DBALL Per Week: 431.23 ($0.28)
+APR: Day 0.09% Week 0.66% Year 34.29%
+You are staking 0.00 [ETH]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Uni LP
+Unstake 0.00 [ETH]-[WBNB] Uni LP
+Claim 0.00 DBALL ($0.00)
+Staking or unstaking also claims rewards.
+
+46 - [BTCB]-[WBNB] Uni LP [+] [-] [<=>] Price: $7,454.25 TVL: $51.69
+BTCB Price: $36,502.00
+WBNB Price: $370.44
+Staked: 0.0069 DBALL-LP ($51.66)
+DBALL Per Week: 431.23 ($0.28)
+APR: Day 0.08% Week 0.55% Year 28.59%
+You are staking 0.00 [BTCB]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Uni LP
+Unstake 0.00 [BTCB]-[WBNB] Uni LP
+Claim 0.00 DBALL ($0.00)
+Staking or unstaking also claims rewards.
+
+47 - Cake Price: $7.16 Market Cap: $4,403,053,534.72 [%]
+Staked: 8.8262 Cake ($63.20)
+DBALL Per Week: 3449.84 ($2.27)
+APR: Day 0.51% Week 3.60% Year 186.99%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 3%
+Unstake 0.00 Cake
+Claim 0.00 DBALL ($0.00)
+Staking or unstaking also claims rewards.
+
+48 - BTCB Price: $36,502.00 Market Cap: $4,106,511,502.00 [%]
+Staked: 0.0029 BTCB ($106.68)
+DBALL Per Week: 1724.92 ($1.14)
+APR: Day 0.15% Week 1.07% Year 55.38%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 3%
+Unstake 0.00 BTCB
+Claim 0.00 DBALL ($0.00)
+Staking or unstaking also claims rewards.
+
+49 - ETH Price: $2,435.72 Market Cap: $3,422,186,600.00 [%]
+Staked: 1.1660 ETH ($2,840.14)
+DBALL Per Week: 1724.92 ($1.14)
+APR: Day 0.01% Week 0.04% Year 2.08%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 3%
+Unstake 0.00 ETH
+Claim 0.00 DBALL ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $7,421.91

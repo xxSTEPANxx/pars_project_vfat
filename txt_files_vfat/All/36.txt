@@ -1,0 +1,62 @@
+*************** 👨‍🌾 UNOFFICIAL YFLUSD FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://yflusd.linkswap.app
+******************************************************************************
+
+Thu Jan 27 2022 19:25:45 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+[sYFL]-[WETH] LSLP [+] [-] [<=>] Price: $14.74 TVL: $3,875.30
+sYFL Price: $0.009512
+WETH Price: $2,467.55
+Staked: 171.9358 LSLP ($2,535.19)
+sYFL Per Week: 6501.37 ($61.84)
+APR: Day 0.35% Week 2.44% Year 126.84%
+You are staking 0.000000 [sYFL]-[WETH] LSLP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [sYFL]-[WETH] LSLP
+Unstake 0.000000 [sYFL]-[WETH] LSLP
+Claim 0.000000 sYFL ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[LINK]-[YFLUSD] LSLP [+] [-] [<=>] Price: $0.39 TVL: $377.42
+LINK Price: $15.42
+YFLUSD Price: $0.002307
+Staked: 862.5550 LSLP ($334.96)
+sYFL Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [LINK]-[YFLUSD] LSLP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [LINK]-[YFLUSD] LSLP
+Unstake 0.000000 [LINK]-[YFLUSD] LSLP
+Claim 0.000000 sYFL ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[YFLUSD]-[WETH] LSLP [+] [-] [<=>] Price: $5.04 TVL: $2,023.68
+YFLUSD Price: $0.002307
+WETH Price: $2,467.55
+Staked: 388.0911 LSLP ($1,956.70)
+sYFL Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [YFLUSD]-[WETH] LSLP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [YFLUSD]-[WETH] LSLP
+Unstake 0.000000 [YFLUSD]-[WETH] LSLP
+Claim 0.000000 sYFL ($0.00)
+Revoke (set approval to 0)
+Exit
+
+Boardroom
+There is a total 49826.65 sYFL ($473.95) staked in the Boardroom.
+You are staking 0 sYFL ($0.00), 0.00% of the pool.
+Stake 0.00 sYFL
+Unstake 0.00 sYFL
+Claim 0.00 YFLUSD ($0.00)
+Revoke (set approval to 0)
+Exit
+
+Total staked: $5,300.80

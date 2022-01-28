@@ -1,0 +1,27 @@
+*************** 👨‍🌾 UNOFFICIAL ABRACADABRA FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://abracadabra.money
+********************************************************************************
+
+Thu Jan 27 2022 19:59:12 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 3 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [SPELL]-[WETH] SLP [+] [-] [<=>] Price: $9.52 TVL: $18,377,845.88
+SPELL Price: $0.005113
+WETH Price: $2,481.53
+Staked: 1603701.2912 SLP ($15,274,941.06)
+SPELL Per Week: 15627684.00 ($79,902.00)
+APR: Day 0.07% Week 0.52% Year 27.20%
+You are staking 0.00 [SPELL]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [SPELL]-[WETH] SLP
+Unstake 0.00 [SPELL]-[WETH] SLP
+Claim 0.00 SPELL ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $15,274,941.06

@@ -1,0 +1,235 @@
+*************** 👨‍🌾 UNOFFICIAL SMOKINGCUCUMBER.FINANCE FARMING CALCULATOR 👨‍🌾 *****************
+INFO  : https://www.smokingcucumber.finance
+**********************************************************************************************
+
+Thu Jan 27 2022 21:27:08 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 20 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [CCB]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.02 TVL: $3.06
+CCB Price: $0.000117
+BUSD Price: $1.00
+Staked: 71.0554 Cake-LP ($1.68)
+CCB Per Week: 24000.00 ($2.81)
+APR: Day 23.82% Week 166.75% Year 8670.77%
+You are staking 0.00 [CCB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CCB]-[BUSD] Cake LP
+Unstake 0.00 [CCB]-[BUSD] Cake LP
+Claim 0.00 CCB ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WBNB]-[CCB] Cake LP [+] [-] [<=>] Price: $0.46 TVL: $6.17
+WBNB Price: $368.40
+CCB Price: $0.000117
+Staked: 9.3620 Cake-LP ($4.29)
+CCB Per Week: 24000.00 ($2.81)
+APR: Day 9.34% Week 65.39% Year 3400.51%
+You are staking 0.00 [WBNB]-[CCB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[CCB] Cake LP
+Unstake 0.00 [WBNB]-[CCB] Cake LP
+Claim 0.00 CCB ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.40 TVL: $345,840,850.78
+WBNB Price: $368.40
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+CCB Per Week: 4000.00 ($0.47)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 CCB ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $296,895,843.67
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0094 Cake-LP ($0.02)
+CCB Per Week: 2400.00 ($0.28)
+APR: Day 203.88% Week 1427.13% Year 74210.53%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 CCB ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $7,729.93 TVL: $68,358,390.63
+BTCB Price: $36,136.00
+WBNB Price: $368.40
+Staked: 0.0000 Cake-LP ($0.00)
+CCB Per Week: 2400.00 ($0.28)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 CCB ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,035.52 TVL: $74,158,476.96
+ETH Price: $2,434.95
+WBNB Price: $368.40
+Staked: 0.0000 Cake-LP ($0.00)
+CCB Per Week: 2400.00 ($0.28)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 CCB ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [DAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.08 TVL: $16,848,429.45
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0384 Cake-LP ($0.08)
+CCB Per Week: 2400.00 ($0.28)
+APR: Day 50.06% Week 350.45% Year 18223.44%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 CCB ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $131,290,307.93
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0093 Cake-LP ($0.02)
+CCB Per Week: 2400.00 ($0.28)
+APR: Day 205.66% Week 1439.59% Year 74858.56%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 CCB ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [DOT]-[WBNB] Cake LP [+] [-] [<=>] Price: $172.35 TVL: $17,693,951.39
+DOT Price: $17.91
+WBNB Price: $368.40
+Staked: 0.0000 Cake-LP ($0.00)
+CCB Per Week: 2400.00 ($0.28)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 CCB ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $105.25 TVL: $200,392,778.44
+Cake Price: $6.97
+WBNB Price: $368.40
+Staked: 0.0000 Cake-LP ($0.00)
+CCB Per Week: 2400.00 ($0.28)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 CCB ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - BUSD Price: $1.00 Market Cap: $4,839,041,675.14 [%]
+Staked: 15.3600 BUSD ($15.32)
+CCB Per Week: 2400.00 ($0.28)
+APR: Day 0.26% Week 1.83% Year 95.21%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 CCB ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - CCB Price: $0.000117 Market Cap: $69.02 [%]
+Staked: 265254.9045 CCB ($31.01)
+CCB Per Week: 16000.00 ($1.87)
+APR: Day 0.86% Week 6.03% Year 313.66%
+You are staking 0.00 CCB ($0.00), 0.00% of the pool.
+Stake 0.00 CCB
+Unstake 0.00 CCB
+Claim 0.00 CCB ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - WBNB Price: $368.40 Market Cap: $1,922,614,387.74 [%]
+Staked: 0.0029 WBNB ($1.06)
+CCB Per Week: 2400.00 ($0.28)
+APR: Day 3.78% Week 26.44% Year 1374.96%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 CCB ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - USDT Price: $1.00 Market Cap: $3,879,997,922.18 [%]
+Staked: 1.9200 USDT ($1.92)
+CCB Per Week: 1600.00 ($0.19)
+APR: Day 1.39% Week 9.74% Year 506.53%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 CCB ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - BTCB Price: $36,136.00 Market Cap: $4,065,336,136.00 [%]
+Staked: 0.0000 BTCB ($1.04)
+CCB Per Week: 1600.00 ($0.19)
+APR: Day 2.57% Week 17.97% Year 934.21%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 CCB ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - ETH Price: $2,434.95 Market Cap: $3,421,104,750.00 [%]
+Staked: 0.0005 ETH ($1.17)
+CCB Per Week: 1600.00 ($0.19)
+APR: Day 2.28% Week 15.95% Year 829.66%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 CCB ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - DAI Price: $1.00 Market Cap: $262,000,000.00 [%]
+Staked: 30.0480 DAI ($30.05)
+CCB Per Week: 1600.00 ($0.19)
+APR: Day 0.09% Week 0.62% Year 32.37%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 CCB ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - USDC Price: $1.00 Market Cap: $1,777,062,669.00 [%]
+Staked: 0.9604 USDC ($0.96)
+CCB Per Week: 1600.00 ($0.19)
+APR: Day 2.79% Week 19.50% Year 1013.80%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 CCB ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - DOT Price: $17.91 Market Cap: $286,559,999.84 [%]
+Staked: 0.0000 DOT ($0.00)
+CCB Per Week: 1600.00 ($0.19)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 DOT ($0.00), NaN% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 CCB ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - Cake Price: $6.97 Market Cap: $4,286,310,362.42 [%]
+Staked: 0.0000 Cake ($0.00)
+CCB Per Week: 1600.00 ($0.19)
+APR: Day 399305.56% Week 2795138.90% Year 145347223.00%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 CCB ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $88.62

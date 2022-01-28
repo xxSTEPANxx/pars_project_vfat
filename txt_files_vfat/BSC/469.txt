@@ -1,0 +1,108 @@
+*************** 👨‍🌾 UNOFFICIAL SHIBANOVA FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://app.shibanova.io
+******************************************************************************
+
+Thu Jan 27 2022 21:34:15 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 32 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - NOVA Price: $0.10 Market Cap: $100,698.74 [%]
+Staked: 450113.6028 NOVA ($44,597.64)
+Nova Per Week: 5040.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 NOVA ($0.00), 0.00% of the pool.
+Stake 0.00 NOVA
+Unstake 0.00 NOVA
+Claim 0.00 Nova ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [NOVA]-[WBNB] Uni LP [+] [-] [<=>] Price: $13.01 TVL: $43,363.66
+NOVA Price: $0.10
+WBNB Price: $368.02
+Staked: 3293.8128 SHIBA-LP ($42,836.37)
+sNova Per Week: 6720.00 ($665.82)
+APR: Day 0.22% Week 1.55% Year 80.83%
+You are staking 0.00 [NOVA]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [NOVA]-[WBNB] Uni LP
+Unstake 0.00 [NOVA]-[WBNB] Uni LP
+Claim 0.00 sNova ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [NOVA]-[BUSD] Uni LP [+] [-] [<=>] Price: $0.68 TVL: $45,937.97
+NOVA Price: $0.10
+BUSD Price: $1.00
+Staked: 67624.7755 SHIBA-LP ($45,872.51)
+sNova Per Week: 6720.00 ($665.82)
+APR: Day 0.21% Week 1.45% Year 75.48%
+You are staking 0.00 [NOVA]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [NOVA]-[BUSD] Uni LP
+Unstake 0.00 [NOVA]-[BUSD] Uni LP
+Claim 0.00 sNova ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WBNB]-[BUSD] Uni LP [+] [-] [<=>] Price: $39.12 TVL: $18,991.14
+WBNB Price: $368.02
+BUSD Price: $1.00
+Staked: 471.7281 SHIBA-LP ($18,455.25)
+Nova Per Week: 672.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [WBNB]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Uni LP
+Unstake 0.00 [WBNB]-[BUSD] Uni LP
+Claim 0.00 Nova ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [ETH]-[WBNB] Uni LP [+] [-] [<=>] Price: $1,896.49 TVL: $7,651.71
+ETH Price: $2,429.74
+WBNB Price: $368.02
+Staked: 3.7272 SHIBA-LP ($7,068.67)
+Nova Per Week: 336.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [ETH]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Uni LP
+Unstake 0.00 [ETH]-[WBNB] Uni LP
+Claim 0.00 Nova ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [BTCB]-[WBNB] Uni LP [+] [-] [<=>] Price: $7,307.39 TVL: $6,472.67
+BTCB Price: $36,133.00
+WBNB Price: $368.02
+Staked: 0.8724 SHIBA-LP ($6,374.86)
+Nova Per Week: 336.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [BTCB]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Uni LP
+Unstake 0.00 [BTCB]-[WBNB] Uni LP
+Claim 0.00 Nova ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [WBNB]-[MATIC] Uni LP [+] [-] [<=>] Price: $48.59 TVL: $9,113.42
+WBNB Price: $368.02
+MATIC Price: $1.59
+Staked: 179.4917 SHIBA-LP ($8,720.93)
+Nova Per Week: 336.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [WBNB]-[MATIC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[MATIC] Uni LP
+Unstake 0.00 [WBNB]-[MATIC] Uni LP
+Claim 0.00 Nova ($0.00)
+Staking or unstaking also claims rewards.
+
+31 - RP Price: $0.00 Market Cap: $0.00 
+Staked: 1.0000 RP ($0.00)
+Nova Per Week: 26880.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 RP ($0.00), NaN% of the pool.
+Stake 0.00 RP
+Unstake 0.00 RP
+Claim 0.00 Nova ($0.00)
+Staking or unstaking also claims rewards.
+
+{}
+Oops something went wrong. Try refreshing the page.

@@ -1,0 +1,203 @@
+*************** 👨‍🌾 UNOFFICIAL ALITA.FINANCE FARMING CALCULATOR 👨‍🌾 *****************
+INFO  : https://app.alita.finance
+************************************************************************************
+
+Thu Jan 27 2022 21:37:05 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 17 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - ALI Price: $0.63 Market Cap: $11,156,635.08 [%]
+Staked: 10839037.3348 ALI ($6,797,938.06)
+ALI Per Week: 383983.56 ($240,823.64)
+APR: Day 0.51% Week 3.54% Year 184.22%
+You are staking 0.00 ALI ($0.00), 0.00% of the pool.
+Stake 0.00 ALI
+Unstake 0.00 ALI
+Claim 0.00 ALI ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [ALI]-[USDT] Uni LP [+] [-] [<=>] Price: $1.63 TVL: $929,664.73
+ALI Price: $0.63
+USDT Price: $1.00
+Staked: 567886.7026 ALI-LP ($926,766.37)
+ALI Per Week: 119676.69 ($75,057.84)
+APR: Day 1.16% Week 8.10% Year 421.14%
+You are staking 0.00 [ALI]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ALI]-[USDT] Uni LP
+Unstake 0.00 [ALI]-[USDT] Uni LP
+Claim 0.00 ALI ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [ALI]-[WBNB] Uni LP [+] [-] [<=>] Price: $30.84 TVL: $786,327.64
+ALI Price: $0.63
+WBNB Price: $368.50
+Staked: 25475.1170 ALI-LP ($785,645.11)
+ALI Per Week: 99730.58 ($62,548.20)
+APR: Day 1.14% Week 7.96% Year 413.99%
+You are staking 0.00 [ALI]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ALI]-[WBNB] Uni LP
+Unstake 0.00 [ALI]-[WBNB] Uni LP
+Claim 0.00 ALI ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDT]-[BUSD] Uni LP [+] [-] [<=>] Price: $2.01 TVL: $957,427.78
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 476951.2871 ALI-LP ($957,192.05)
+ALI Per Week: 4986.53 ($3,127.41)
+APR: Day 0.05% Week 0.33% Year 16.99%
+You are staking 0.00 [USDT]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Uni LP
+Unstake 0.00 [USDT]-[BUSD] Uni LP
+Claim 0.00 ALI ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [BTCB]-[WBNB] Uni LP [+] [-] [<=>] Price: $7,360.76 TVL: $381,796.83
+BTCB Price: $36,105.00
+WBNB Price: $368.50
+Staked: 51.8683 ALI-LP ($381,789.87)
+ALI Per Week: 4986.53 ($3,127.41)
+APR: Day 0.12% Week 0.82% Year 42.60%
+You are staking 0.00 [BTCB]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Uni LP
+Unstake 0.00 [BTCB]-[WBNB] Uni LP
+Claim 0.00 ALI ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [ETH]-[WBNB] Uni LP [+] [-] [<=>] Price: $1,903.58 TVL: $216,601.78
+ETH Price: $2,411.10
+WBNB Price: $368.50
+Staked: 113.7823 ALI-LP ($216,593.17)
+ALI Per Week: 4986.53 ($3,127.41)
+APR: Day 0.21% Week 1.44% Year 75.08%
+You are staking 0.00 [ETH]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Uni LP
+Unstake 0.00 [ETH]-[WBNB] Uni LP
+Claim 0.00 ALI ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [ETH]-[ALI] Uni LP [+] [-] [<=>] Price: $78.65 TVL: $300,278.32
+ETH Price: $2,411.10
+ALI Price: $0.63
+Staked: 3814.2311 ALI-LP ($299,994.97)
+ALI Per Week: 39892.23 ($25,019.28)
+APR: Day 1.19% Week 8.34% Year 433.67%
+You are staking 0.00 [ETH]-[ALI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[ALI] Uni LP
+Unstake 0.00 [ETH]-[ALI] Uni LP
+Claim 0.00 ALI ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [WBNB]-[BUSD] Uni LP [+] [-] [<=>] Price: $39.52 TVL: $211,920.98
+WBNB Price: $368.50
+BUSD Price: $1.00
+Staked: 5361.0419 ALI-LP ($211,895.05)
+ALI Per Week: 4986.53 ($3,127.41)
+APR: Day 0.21% Week 1.48% Year 76.75%
+You are staking 0.00 [WBNB]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Uni LP
+Unstake 0.00 [WBNB]-[BUSD] Uni LP
+Claim 0.00 ALI ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [ALI]-[BUSD] Uni LP [+] [-] [<=>] Price: $1.60 TVL: $452,883.82
+ALI Price: $0.63
+BUSD Price: $1.00
+Staked: 282857.4829 ALI-LP ($451,734.21)
+ALI Per Week: 59838.35 ($37,528.92)
+APR: Day 1.19% Week 8.31% Year 432.00%
+You are staking 0.00 [ALI]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ALI]-[BUSD] Uni LP
+Unstake 0.00 [ALI]-[BUSD] Uni LP
+Claim 0.00 ALI ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - REFERRAL Price: $0.00 Market Cap: $0.00 
+Staked: 1.0000 REFERRAL ($0.00)
+ALI Per Week: 49040.02 ($30,756.52)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 REFERRAL ($0.00), NaN% of the pool.
+Stake 0.00 REFERRAL
+Unstake 0.00 REFERRAL
+Claim 0.00 ALI ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [RACA]-[WBNB] Uni LP [+] [-] [<=>] Price: $1.76 TVL: $123,708.81
+RACA Price: $0.001806
+WBNB Price: $368.50
+Staked: 69812.7206 ALI-LP ($123,147.68)
+ALI Per Week: 4986.53 ($3,127.41)
+APR: Day 0.36% Week 2.54% Year 132.06%
+You are staking 0.00 [RACA]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [RACA]-[WBNB] Uni LP
+Unstake 0.00 [RACA]-[WBNB] Uni LP
+Claim 0.00 ALI ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [WBNB]-[BETA] Uni LP [+] [-] [<=>] Price: $24.16 TVL: $100,232.20
+WBNB Price: $368.50
+BETA Price: $0.38
+Staked: 4149.2267 ALI-LP ($100,232.03)
+ALI Per Week: 4986.53 ($3,127.41)
+APR: Day 0.45% Week 3.12% Year 162.25%
+You are staking 0.00 [WBNB]-[BETA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BETA] Uni LP
+Unstake 0.00 [WBNB]-[BETA] Uni LP
+Claim 0.00 ALI ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [WBNB]-[HERO] Uni LP [+] [-] [<=>] Price: $9.43 TVL: $50,337.37
+WBNB Price: $368.50
+HERO Price: $0.06
+Staked: 5276.3521 ALI-LP ($49,759.75)
+ALI Per Week: 4986.53 ($3,127.41)
+APR: Day 0.90% Week 6.29% Year 326.82%
+You are staking 0.00 [WBNB]-[HERO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[HERO] Uni LP
+Unstake 0.00 [WBNB]-[HERO] Uni LP
+Claim 0.00 ALI ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [AXS]-[WBNB] Uni LP [+] [-] [<=>] Price: $266.61 TVL: $129,380.22
+AXS Price: $46.98
+WBNB Price: $368.50
+Staked: 483.2997 ALI-LP ($128,850.88)
+ALI Per Week: 9973.06 ($6,254.82)
+APR: Day 0.69% Week 4.85% Year 252.42%
+You are staking 0.00 [AXS]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AXS]-[WBNB] Uni LP
+Unstake 0.00 [AXS]-[WBNB] Uni LP
+Claim 0.00 ALI ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [SHIB]-[WBNB] Uni LP [+] [-] [<=>] Price: $0.18 TVL: $132,650.39
+SHIB Price: $0.0000209334
+WBNB Price: $368.50
+Staked: 731662.9191 ALI-LP ($132,633.25)
+ALI Per Week: 9973.06 ($6,254.82)
+APR: Day 0.67% Week 4.72% Year 245.23%
+You are staking 0.00 [SHIB]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SHIB]-[WBNB] Uni LP
+Unstake 0.00 [SHIB]-[WBNB] Uni LP
+Claim 0.00 ALI ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [ALPACA]-[WBNB] Uni LP [+] [-] [<=>] Price: $22.88 TVL: $222,467.10
+ALPACA Price: $0.34
+WBNB Price: $368.50
+Staked: 9721.3195 ALI-LP ($222,467.10)
+ALI Per Week: 9973.06 ($6,254.82)
+APR: Day 0.40% Week 2.81% Year 146.20%
+You are staking 0.00 [ALPACA]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ALPACA]-[WBNB] Uni LP
+Unstake 0.00 [ALPACA]-[WBNB] Uni LP
+Claim 0.00 ALI ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $11,786,639.56

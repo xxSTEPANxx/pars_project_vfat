@@ -6,38 +6,17 @@ INFO  : https://polygon.paprprintr.finance
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Fri Dec 17 2021 10:57:54 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 23:01:08 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
-[PRNTR]-[USDC] Uni LP [+] [-] [<=>] Price: $3,002,031.09 TVL: $43,601.83
-PRNTR Price: $1.58
-USDC Price: $1.00
-Staked: 0.0142 UNI-V2 ($42,573.68)
-PRNTR Per Week: 671.23 ($1,057.85)
-APR: Day 0.35% Week 2.48% Year 129.21%
-You are staking 0.000000 [PRNTR]-[USDC] Uni LP $0.00 (0.00% of the pool).
-Polygon Explorer
-Stake 0.000000 [PRNTR]-[USDC] Uni LP
-Unstake 0.000000 [PRNTR]-[USDC] Uni LP
-Claim 0.000000 PRNTR ($0.00)
-Revoke (set approval to 0)
-Exit
-
-[USDC]-[PAPR] Uni LP [+] [-] [<=>] Price: $2,085,469.00 TVL: $87,482.30
-USDC Price: $1.00
-PAPR Price: $1.02
-Staked: 0.0396 UNI-V2 ($82,659.42)
-PRNTR Per Week: 958.90 ($1,511.21)
-APR: Day 0.26% Week 1.83% Year 95.07%
-You are staking 0.000000 [USDC]-[PAPR] Uni LP $0.00 (0.00% of the pool).
-Polygon Explorer
-Stake 0.000000 [USDC]-[PAPR] Uni LP
-Unstake 0.000000 [USDC]-[PAPR] Uni LP
-Claim 0.000000 PRNTR ($0.00)
-Revoke (set approval to 0)
-Exit
-
-Total staked: $125,233.10
+{
+  "code": -32603,
+  "message": "Non-200 status code: '400'",
+  "data": {
+    "error": "Unable to verify your data submission."
+  }
+}
+Oops something went wrong. Try refreshing the page.

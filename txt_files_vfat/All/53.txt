@@ -1,0 +1,62 @@
+*************** 👨‍🌾 UNOFFICIAL SIREN FARMING CALCULATOR 👨‍🌾 ******************
+INFO  : https://app.sirenmarkets.com/stake
+*****************************************************************************
+
+Thu Jan 27 2022 19:35:06 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Finished reading smart contracts.
+[WETH]-[SI] Uni LP [+] [-] [<=>] Price: $71.45 TVL: $745,990.40
+WETH Price: $2,426.46
+SI Price: $0.46
+Staked: 10285.5201 UNI-V2 ($734,930.52)
+SI Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [WETH]-[SI] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [WETH]-[SI] Uni LP
+Unstake 0.000000 [WETH]-[SI] Uni LP
+Claim 0.000000 SI ($0.00)
+Revoke (set approval to 0)
+Exit
+
+WBTC Price: $36,635.00 Market Cap: $9,933,843,855.97 [%]
+Staked: 0.0308 WBTC ($1,129.25)
+SI Per Week: 31250.0000 ($14,425.50)
+APR: Day 182.49% Week 1277.44% Year 66427.09%
+You are staking 0.0000 WBTC ($0.00), 0.00% of the pool.
+
+USDC Price: $1.00 Market Cap: $44,067,168,539.56 [%]
+Staked: 74564.9124 USDC ($74,564.91)
+SI Per Week: 31250.0000 ($14,425.50)
+APR: Day 2.76% Week 19.35% Year 1006.00%
+You are staking 0.0000 USDC ($0.00), 0.00% of the pool.
+
+SUSHI Price: $4.19 Market Cap: $1,004,593,281.19 [%]
+Staked: 39.5428 SUSHI ($165.68)
+SI Per Week: 31250.0000 ($14,425.50)
+APR: Day 1243.80% Week 8706.61% Year 452743.51%
+You are staking 0.0000 SUSHI ($0.00), 0.00% of the pool.
+
+USDC Price: $1.00 Market Cap: $44,067,168,539.56 [%]
+Staked: 60.1000 USDC ($60.10)
+SI Per Week: 31250.0000 ($14,425.50)
+APR: Day 3428.93% Week 24002.49% Year 1248129.29%
+You are staking 0.0000 USDC ($0.00), 0.00% of the pool.
+
+[WETH]-[SI] SLP [+] [-] [<=>] Price: $67.88 TVL: $1,265,984.74
+WETH Price: $2,426.46
+SI Price: $0.46
+Staked: 4.7530 SLP ($322.62)
+SI Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [WETH]-[SI] SLP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [WETH]-[SI] SLP
+Unstake 0.000000 [WETH]-[SI] SLP
+Claim 0.000000 SI ($0.00)
+Revoke (set approval to 0)
+Exit

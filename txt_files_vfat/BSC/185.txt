@@ -1,0 +1,243 @@
+*************** 👨‍🌾 UNOFFICIAL DELTA.PARTHENON.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://delta.parthenon.finance
+********************************************************************************************
+
+Thu Jan 27 2022 20:49:22 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 21 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [DELTA]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.01 TVL: $15.57
+DELTA Price: $0.0000113880
+BUSD Price: $1.00
+Staked: 1804.3454 Cake-LP ($13.09)
+DELTA Per Week: 40731.43 ($0.46)
+APR: Day 0.51% Week 3.54% Year 184.32%
+You are staking 0.00 [DELTA]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DELTA]-[BUSD] Cake LP
+Unstake 0.00 [DELTA]-[BUSD] Cake LP
+Claim 0.00 DELTA ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [DELTA]-[WBNB] Cake LP [+] [-] [<=>] Price: $0.14 TVL: $22.28
+DELTA Price: $0.0000113880
+WBNB Price: $370.49
+Staked: 149.7982 Cake-LP ($20.57)
+DELTA Per Week: 40731.43 ($0.46)
+APR: Day 0.32% Week 2.25% Year 117.24%
+You are staking 0.00 [DELTA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DELTA]-[WBNB] Cake LP
+Unstake 0.00 [DELTA]-[WBNB] Cake LP
+Claim 0.00 DELTA ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.58 TVL: $347,164,857.98
+WBNB Price: $370.49
+BUSD Price: $1.00
+Staked: 0.0013 Cake-LP ($0.06)
+DELTA Per Week: 4937.14 ($0.06)
+APR: Day 12.98% Week 90.87% Year 4725.43%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 DELTA ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $296,950,532.04
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 0.1058 Cake-LP ($0.22)
+DELTA Per Week: 4937.14 ($0.06)
+APR: Day 3.62% Week 25.37% Year 1319.30%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 DELTA ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $7,758.82 TVL: $68,844,458.85
+BTCB Price: $36,201.00
+WBNB Price: $370.49
+Staked: 0.0012 Cake-LP ($9.01)
+DELTA Per Week: 4937.14 ($0.06)
+APR: Day 0.09% Week 0.62% Year 32.45%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 DELTA ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,039.11 TVL: $74,289,361.38
+ETH Price: $2,429.73
+WBNB Price: $370.49
+Staked: 0.0003 Cake-LP ($0.55)
+DELTA Per Week: 4937.14 ($0.06)
+APR: Day 1.47% Week 10.26% Year 533.70%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 DELTA ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [DAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $16,865,276.83
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0023 Cake-LP ($0.00)
+DELTA Per Week: 4937.14 ($0.06)
+APR: Day 165.92% Week 1161.46% Year 60395.81%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 DELTA ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $131,415,289.11
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0001 Cake-LP ($0.00)
+DELTA Per Week: 4937.14 ($0.06)
+APR: Day 3861.59% Week 27031.10% Year 1405617.30%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 DELTA ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [DOT]-[WBNB] Cake LP [+] [-] [<=>] Price: $173.08 TVL: $17,768,709.47
+DOT Price: $17.96
+WBNB Price: $370.49
+Staked: 0.0001 Cake-LP ($0.02)
+DELTA Per Week: 4937.14 ($0.06)
+APR: Day 46.41% Week 324.84% Year 16891.70%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 DELTA ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - DELTA Price: $0.0000113880 Market Cap: $70.67 [%]
+Staked: 2804194.3775 DELTA ($31.93)
+DELTA Per Week: 29622.86 ($0.34)
+APR: Day 0.15% Week 1.06% Year 54.93%
+You are staking 0.00 DELTA ($0.00), 0.00% of the pool.
+Stake 0.00 DELTA
+Unstake 0.00 DELTA
+Claim 0.00 DELTA ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - BUSD Price: $1.00 Market Cap: $4,848,758,226.91 [%]
+Staked: 3.1200 BUSD ($3.12)
+DELTA Per Week: 4937.14 ($0.06)
+APR: Day 0.26% Week 1.80% Year 93.75%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 DELTA ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - WBNB Price: $370.49 Market Cap: $1,934,302,223.61 [%]
+Staked: 0.0001 WBNB ($0.04)
+DELTA Per Week: 7405.71 ($0.08)
+APR: Day 32.52% Week 227.63% Year 11836.99%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 DELTA ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - USDT Price: $1.00 Market Cap: $3,873,561,005.62 [%]
+Staked: 0.0000 USDT ($0.00)
+DELTA Per Week: 2468.57 ($0.03)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 USDT ($0.00), NaN% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 DELTA ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - BTCB Price: $36,201.00 Market Cap: $4,072,648,701.00 [%]
+Staked: 0.0003 BTCB ($11.61)
+DELTA Per Week: 2468.57 ($0.03)
+APR: Day 0.03% Week 0.24% Year 12.59%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 DELTA ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - ETH Price: $2,429.73 Market Cap: $3,413,770,650.00 [%]
+Staked: 0.0040 ETH ($9.72)
+DELTA Per Week: 2468.57 ($0.03)
+APR: Day 0.04% Week 0.29% Year 15.04%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 DELTA ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - DAI Price: $1.00 Market Cap: $262,000,000.00 [%]
+Staked: 0.0000 DAI ($0.00)
+DELTA Per Week: 2468.57 ($0.03)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 DAI ($0.00), NaN% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 DELTA ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - USDC Price: $1.00 Market Cap: $1,776,868,758.00 [%]
+Staked: 0.0000 USDC ($0.00)
+DELTA Per Week: 2468.57 ($0.03)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 USDC ($0.00), NaN% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 DELTA ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - DOT Price: $17.96 Market Cap: $287,359,999.84 [%]
+Staked: 0.0001 DOT ($0.00)
+DELTA Per Week: 2468.57 ($0.03)
+APR: Day 223.61% Week 1565.26% Year 81393.59%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 DELTA ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - Cake Price: $7.03 Market Cap: $4,323,133,783.38 [%]
+Staked: 0.0010 Cake ($0.01)
+DELTA Per Week: 2468.57 ($0.03)
+APR: Day 57.13% Week 399.89% Year 20794.15%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 DELTA ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - MUSCLE Price: $0.00 Market Cap: $0.00 
+Staked: 61.9103 MUSCLE ($0.00)
+DELTA Per Week: 2468.57 ($0.03)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 MUSCLE ($0.00), NaN% of the pool.
+Stake 0.00 MUSCLE - Fee 1%
+Unstake 0.00 MUSCLE
+Claim 0.00 DELTA ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - GAMMA Price: $0.00 Market Cap: $0.00 
+Staked: 35237.8725 GAMMA ($0.00)
+DELTA Per Week: 3702.86 ($0.04)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 GAMMA ($0.00), NaN% of the pool.
+Stake 0.00 GAMMA - Fee 4%
+Unstake 0.00 GAMMA
+Claim 0.00 DELTA ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $99.95

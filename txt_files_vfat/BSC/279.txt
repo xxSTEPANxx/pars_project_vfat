@@ -1,0 +1,61 @@
+*************** 👨‍🌾 UNOFFICIAL LONGDRINK.FINANCE FARMING CALCULATOR 👨‍🌾 *****************
+INFO  : https://longdrink.finance
+****************************************************************************************
+
+Thu Jan 27 2022 21:07:23 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 41 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - LONGterm Price: $0.00 Market Cap: $0.00 
+Staked: 0.9400 LONGterm ($0.00)
+LONG Per Week: 1043.28 ($2.15)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 LONGterm ($0.00), NaN% of the pool.
+Stake 0.00 LONGterm
+Unstake 0.00 LONGterm
+Claim 0.00 LONG ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BEV] Cake LP [+] [-] [<=>] Price: $313.79 TVL: $3,905.62
+WBNB Price: $368.82
+BEV Price: $65.64
+Staked: 10.6013 Cake-LP ($3,326.53)
+LONG Per Week: 417.31 ($0.86)
+APR: Day 0.00% Week 0.03% Year 1.35%
+You are staking 0.00 [WBNB]-[BEV] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BEV] Cake LP
+Unstake 0.00 [WBNB]-[BEV] Cake LP
+Claim 0.00 LONG ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [LONG]-[WBNB] Cake LP [+] [-] [<=>] Price: $1.80 TVL: $1,194.39
+LONG Price: $0.002066
+WBNB Price: $368.82
+Staked: 654.2018 Cake-LP ($1,176.62)
+LONG Per Week: 1669.25 ($3.45)
+APR: Day 0.04% Week 0.29% Year 15.24%
+You are staking 0.00 [LONG]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LONG]-[WBNB] Cake LP
+Unstake 0.00 [LONG]-[WBNB] Cake LP
+Claim 0.00 LONG ($0.00)
+Staking or unstaking also claims rewards.
+
+40 - [WBNB]-[L1Q] Cake LP [+] [-] [<=>] Price: $405.39 TVL: $271.30
+WBNB Price: $368.82
+L1Q Price: $110.86
+Staked: 0.0657 Cake-LP ($26.63)
+LONG Per Week: 417.31 ($0.86)
+APR: Day 0.46% Week 3.24% Year 168.32%
+You are staking 0.00 [WBNB]-[L1Q] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[L1Q] Cake LP
+Unstake 0.00 [WBNB]-[L1Q] Cake LP
+Claim 0.00 LONG ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $4,529.79

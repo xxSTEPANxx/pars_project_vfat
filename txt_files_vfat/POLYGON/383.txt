@@ -6,193 +6,20 @@ INFO  : https://jamfinance.cc
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Thu Dec 16 2021 06:05:01 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 23:54:22 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
+Staking Contract
 Found 17 pools.
 Showing incentivized pools only.
-Finished reading smart contracts.
-0 - [JAM]-[USDC] Uni LP [+] [-] [<=>] Price: $52,390.66 TVL: $1.86
-JAM Price: $0.000657
-USDC Price: $1.00
-Staked: 0.0000 UNI-V2 ($1.86)
-JAM Per Week: 2388.18 ($1.57)
-APR: Day 12.06% Week 84.44% Year 4390.63%
-You are staking 0.00 [JAM]-[USDC] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [JAM]-[USDC] Uni LP
-Unstake 0.00 [JAM]-[USDC] Uni LP
-Claim 0.00 JAM ($0.00)
-Staking or unstaking also claims rewards.
-
-1 - [JAM]-[WMATIC] Uni LP [+] [-] [<=>] Price: $0.08 TVL: $1.89
-JAM Price: $0.000657
-WMATIC Price: $2.14
-Staked: 1.2297 UNI-V2 ($0.09)
-JAM Per Week: 2388.18 ($1.57)
-APR: Day 238.09% Week 1666.62% Year 86664.19%
-You are staking 0.00 [JAM]-[WMATIC] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [JAM]-[WMATIC] Uni LP
-Unstake 0.00 [JAM]-[WMATIC] Uni LP
-Claim 0.00 JAM ($0.00)
-Staking or unstaking also claims rewards.
-
-2 - [JAM]-[WETH] Uni LP [+] [-] [<=>] Price: $3.31 TVL: $0.26
-JAM Price: $0.000657
-WETH Price: $4,039.79
-Staked: 0.0513 UNI-V2 ($0.17)
-JAM Per Week: 2388.18 ($1.57)
-APR: Day 131.95% Week 923.65% Year 48029.68%
-You are staking 0.00 [JAM]-[WETH] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [JAM]-[WETH] Uni LP
-Unstake 0.00 [JAM]-[WETH] Uni LP
-Claim 0.00 JAM ($0.00)
-Staking or unstaking also claims rewards.
-
-3 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,859,128.33 TVL: $52,195,191.83
-WMATIC Price: $2.14
-USDC Price: $1.00
-Staked: 0.0001 UNI-V2 ($375.91)
-JAM Per Week: 1023.51 ($0.67)
-APR: Day 0.03% Week 0.18% Year 9.30%
-You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
-Unstake 0.00 [WMATIC]-[USDC] Uni LP
-Claim 0.00 JAM ($0.00)
-Staking or unstaking also claims rewards.
-
-4 - [USDC]-[WETH] Uni LP [+] [-] [<=>] Price: $188,022,510.66 TVL: $79,041,761.29
-USDC Price: $1.00
-WETH Price: $4,039.79
-Staked: 0.0000 UNI-V2 ($324.90)
-JAM Per Week: 1023.51 ($0.67)
-APR: Day 0.03% Week 0.21% Year 10.76%
-You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
-Unstake 0.00 [USDC]-[WETH] Uni LP
-Claim 0.00 JAM ($0.00)
-Staking or unstaking also claims rewards.
-
-5 - JAM Price: $0.000657 Market Cap: $3.94 [%]
-Staked: 2068.5282 JAM ($1.36)
-JAM Per Week: 1705.85 ($1.12)
-APR: Day 11.78% Week 82.47% Year 4288.27%
-You are staking 0.00 JAM ($0.00), 0.00% of the pool.
-Stake 0.00 JAM
-Unstake 0.00 JAM
-Claim 0.00 JAM ($0.00)
-Staking or unstaking also claims rewards.
-
-6 - WMATIC Price: $2.14 Market Cap: $651,044,466.17 [%]
-Staked: 29.7600 WMATIC ($63.69)
-JAM Per Week: 1023.51 ($0.67)
-APR: Day 0.15% Week 1.06% Year 54.87%
-You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
-Stake 0.00 WMATIC - Fee 4%
-Unstake 0.00 WMATIC
-Claim 0.00 JAM ($0.00)
-Staking or unstaking also claims rewards.
-
-7 - PolyDoge Price: $0.0000000241 Market Cap: $24,056,000.00 [%]
-Staked: 0.0000 PolyDoge ($0.00)
-JAM Per Week: 1023.51 ($0.67)
-APR: Day 3.990896477849131e+26% Week 2.7936275344943916e+27% Year 1.4526863179370837e+29%
-You are staking 0.00 PolyDoge ($0.00), 0.00% of the pool.
-Stake 0.00 PolyDoge - Fee 4%
-Unstake 0.00 PolyDoge
-Claim 0.00 JAM ($0.00)
-Staking or unstaking also claims rewards.
-
-8 - WETH Price: $4,039.79 Market Cap: $1,793,155,013.19 [%]
-Staked: 0.0000 WETH ($0.00)
-JAM Per Week: 1023.51 ($0.67)
-APR: Day Infinity% Week Infinity% Year Infinity%
-You are staking 0.00 WETH ($0.00), NaN% of the pool.
-Stake 0.00 WETH - Fee 4%
-Unstake 0.00 WETH
-Claim 0.00 JAM ($0.00)
-Staking or unstaking also claims rewards.
-
-9 - WBTC Price: $49,074.00 Market Cap: $497,800,844.82 [%]
-Staked: 0.0000 WBTC ($0.00)
-JAM Per Week: 1023.51 ($0.67)
-APR: Day Infinity% Week Infinity% Year Infinity%
-You are staking 0.00 WBTC ($0.00), NaN% of the pool.
-Stake 0.00 WBTC - Fee 4%
-Unstake 0.00 WBTC
-Claim 0.00 JAM ($0.00)
-Staking or unstaking also claims rewards.
-
-10 - AAVE Price: $175.96 Market Cap: $47,899,718.33 [%]
-Staked: 0.0013 AAVE ($0.23)
-JAM Per Week: 1023.51 ($0.67)
-APR: Day 42.47% Week 297.29% Year 15459.17%
-You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
-Stake 0.00 AAVE - Fee 4%
-Unstake 0.00 AAVE
-Claim 0.00 JAM ($0.00)
-Staking or unstaking also claims rewards.
-
-11 - QUICK Price: $251.60 Market Cap: $240,410,864.75 [%]
-Staked: 0.0003 QUICK ($0.06)
-JAM Per Week: 1023.51 ($0.67)
-APR: Day 151.03% Week 1057.21% Year 54974.67%
-You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
-Stake 0.00 QUICK - Fee 4%
-Unstake 0.00 QUICK
-Claim 0.00 JAM ($0.00)
-Staking or unstaking also claims rewards.
-
-12 - FISH Price: $0.00 Market Cap: $0.00 
-Staked: 0.0841 FISH ($0.00)
-JAM Per Week: 1023.51 ($0.67)
-APR: Day NaN% Week NaN% Year NaN%
-You are staking 0.00 FISH ($0.00), NaN% of the pool.
-Stake 0.00 FISH - Fee 4%
-Unstake 0.00 FISH
-Claim 0.00 JAM ($0.00)
-Staking or unstaking also claims rewards.
-
-13 - LINK Price: $19.98 Market Cap: $34,653,375.95 [%]
-Staked: 0.0038 LINK ($0.08)
-JAM Per Week: 1023.51 ($0.67)
-APR: Day 127.14% Week 890.00% Year 46280.13%
-You are staking 0.00 LINK ($0.00), 0.00% of the pool.
-Stake 0.00 LINK - Fee 4%
-Unstake 0.00 LINK
-Claim 0.00 JAM ($0.00)
-Staking or unstaking also claims rewards.
-
-14 - USDC Price: $1.00 Market Cap: $943,523,274.91 [%]
-Staked: 10.6176 USDC ($10.62)
-JAM Per Week: 1023.51 ($0.67)
-APR: Day 0.90% Week 6.33% Year 329.13%
-You are staking 0.00 USDC ($0.00), 0.00% of the pool.
-Stake 0.00 USDC - Fee 4%
-Unstake 0.00 USDC
-Claim 0.00 JAM ($0.00)
-Staking or unstaking also claims rewards.
-
-15 - DAI Price: $1.00 Market Cap: $374,131,149.78 [%]
-Staked: 17.9445 DAI ($17.94)
-JAM Per Week: 1023.51 ($0.67)
-APR: Day 0.54% Week 3.75% Year 194.74%
-You are staking 0.00 DAI ($0.00), 0.00% of the pool.
-Stake 0.00 DAI - Fee 4%
-Unstake 0.00 DAI
-Claim 0.00 JAM ($0.00)
-Staking or unstaking also claims rewards.
-
-16 - USDT Price: $1.00 Market Cap: $313,461,279.68 [%]
-Staked: 0.0000 USDT ($0.00)
-JAM Per Week: 1023.51 ($0.67)
-APR: Day Infinity% Week Infinity% Year Infinity%
-You are staking 0.00 USDT ($0.00), NaN% of the pool.
-Stake 0.00 USDT - Fee 4%
-Unstake 0.00 USDT
-Claim 0.00 JAM ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $796.91
+{
+  "code": -32603,
+  "message": "Non-200 status code: '400'",
+  "data": {
+    "error": "Unable to verify your data submission."
+  }
+}
+Oops something went wrong. Try refreshing the page.

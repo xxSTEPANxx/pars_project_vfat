@@ -1,0 +1,297 @@
+*************** 👨‍🌾 UNOFFICIAL SpacePortDeFi FARMING CALCULATOR 👨‍🌾 *****************
+INFO  : https://bsc4.SpacePortDeFi.com
+****************************************************************************************
+
+Thu Jan 27 2022 21:34:02 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 26 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - GALACTICA Price: $0.00 Market Cap: $0.00 
+Staked: 60320.5644 GALACTICA ($0.00)
+GALACTICA Per Week: 0.63 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 GALACTICA ($0.00), NaN% of the pool.
+Stake 0.00 GALACTICA
+Unstake 0.00 GALACTICA
+Claim 0.00 GALACTICA ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.39 TVL: $345,758,874.91
+WBNB Price: $368.02
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+GALACTICA Per Week: 0.19 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 GALACTICA ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $7,725.62 TVL: $68,320,440.51
+BTCB Price: $36,133.00
+WBNB Price: $368.02
+Staked: 0.0000 Cake-LP ($0.00)
+GALACTICA Per Week: 0.14 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 GALACTICA ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,032.29 TVL: $74,040,965.95
+ETH Price: $2,429.74
+WBNB Price: $368.02
+Staked: 0.0000 Cake-LP ($0.00)
+GALACTICA Per Week: 0.14 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 GALACTICA ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDT]-[WBNB] Cake LP [+] [-] [<=>] Price: $48.71 TVL: $190,307,198.57
+USDT Price: $1.00
+WBNB Price: $368.02
+Staked: 0.0000 Cake-LP ($0.00)
+GALACTICA Per Week: 0.10 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDT]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[WBNB] Cake LP
+Claim 0.00 GALACTICA ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [ADA]-[WBNB] Cake LP [+] [-] [<=>] Price: $42.27 TVL: $12,071,386.05
+ADA Price: $1.03
+WBNB Price: $368.02
+Staked: 0.0062 Cake-LP ($0.26)
+GALACTICA Per Week: 0.14 ($0.00)
+APR: Day 0.01% Week 0.05% Year 2.50%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 GALACTICA ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $296,979,016.64
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 469.0028 Cake-LP ($982.18)
+GALACTICA Per Week: 0.14 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 GALACTICA ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $105.20 TVL: $200,292,404.25
+Cake Price: $6.97
+WBNB Price: $368.02
+Staked: 0.0000 Cake-LP ($0.00)
+GALACTICA Per Week: 0.10 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 GALACTICA ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [DAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $16,853,145.99
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+GALACTICA Per Week: 0.10 ($0.00)
+APR: Day 768922636442.85% Week 5382458455099.98% Year 279887839665199.03%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 GALACTICA ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [DOT]-[WBNB] Cake LP [+] [-] [<=>] Price: $172.31 TVL: $17,689,761.93
+DOT Price: $17.92
+WBNB Price: $368.02
+Staked: 0.0000 Cake-LP ($0.00)
+GALACTICA Per Week: 0.10 ($0.00)
+APR: Day 9305208522.06% Week 65136459654.43% Year 3387095902030.51%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 GALACTICA ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - WBNB Price: $368.02 Market Cap: $1,921,083,092.56 [%]
+Staked: 0.0144 WBNB ($5.32)
+GALACTICA Per Week: 0.12 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.10%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 GALACTICA ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - BUSD Price: $1.00 Market Cap: $4,841,753,383.79 [%]
+Staked: 0.0000 BUSD ($0.00)
+GALACTICA Per Week: 0.12 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 BUSD ($0.00), NaN% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 GALACTICA ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - BTCB Price: $36,133.00 Market Cap: $4,064,998,633.00 [%]
+Staked: 0.0000 BTCB ($0.00)
+GALACTICA Per Week: 0.10 ($0.00)
+APR: Day 44375240.18% Week 310626681.24% Year 16152587424.31%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 GALACTICA ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - ETH Price: $2,429.74 Market Cap: $3,413,784,700.00 [%]
+Staked: 0.0000 ETH ($0.00)
+GALACTICA Per Week: 0.10 ($0.00)
+APR: Day 659910341.56% Week 4619372390.93% Year 240207364328.18%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 GALACTICA ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - Cake Price: $6.97 Market Cap: $4,286,324,335.53 [%]
+Staked: 1.4965 Cake ($10.43)
+GALACTICA Per Week: 0.07 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.03%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 GALACTICA ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - ADA Price: $1.03 Market Cap: $288,400,000.00 [%]
+Staked: 0.0000 ADA ($0.00)
+GALACTICA Per Week: 0.10 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 ADA ($0.00), NaN% of the pool.
+Stake 0.00 ADA - Fee 4%
+Unstake 0.00 ADA
+Claim 0.00 GALACTICA ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - DOT Price: $17.92 Market Cap: $286,719,999.84 [%]
+Staked: 0.0000 DOT ($0.00)
+GALACTICA Per Week: 0.07 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 DOT ($0.00), NaN% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 GALACTICA ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - USDT Price: $1.00 Market Cap: $3,879,997,922.18 [%]
+Staked: 0.0000 USDT ($0.00)
+GALACTICA Per Week: 0.10 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 USDT ($0.00), NaN% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 GALACTICA ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - USDC Price: $1.00 Market Cap: $1,779,000,000.00 [%]
+Staked: 0.0000 USDC ($0.00)
+GALACTICA Per Week: 0.10 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 USDC ($0.00), NaN% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 GALACTICA ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - XRP Price: $0.60 Market Cap: $166,663,144.00 [%]
+Staked: 0.0000 XRP ($0.00)
+GALACTICA Per Week: 0.07 ($0.00)
+APR: Day 1998693499079.52% Week 13990854493556.67% Year 727524433664947.00%
+You are staking 0.00 XRP ($0.00), 0.00% of the pool.
+Stake 0.00 XRP - Fee 4%
+Unstake 0.00 XRP
+Claim 0.00 GALACTICA ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - LTC Price: $106.77 Market Cap: $66,731,250.00 [%]
+Staked: 0.0000 LTC ($0.00)
+GALACTICA Per Week: 0.07 ($0.00)
+APR: Day 11263069354.48% Week 78841485481.38% Year 4099757245031.90%
+You are staking 0.00 LTC ($0.00), 0.00% of the pool.
+Stake 0.00 LTC - Fee 4%
+Unstake 0.00 LTC
+Claim 0.00 GALACTICA ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - SATELITE Price: $0.00 Market Cap: $0.00 
+Staked: 3934.9065 SATELITE ($0.00)
+GALACTICA Per Week: 0.05 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SATELITE ($0.00), NaN% of the pool.
+Stake 0.00 SATELITE - Fee 2%
+Unstake 0.00 SATELITE
+Claim 0.00 GALACTICA ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - STARSHIP Price: $0.00 Market Cap: $0.00 
+Staked: 564.6910 STARSHIP ($0.00)
+GALACTICA Per Week: 0.05 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 STARSHIP ($0.00), NaN% of the pool.
+Stake 0.00 STARSHIP - Fee 2%
+Unstake 0.00 STARSHIP
+Claim 0.00 GALACTICA ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - UFO Price: $0.00 Market Cap: $0.00 
+Staked: 4671.1726 UFO ($0.00)
+GALACTICA Per Week: 0.10 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 UFO ($0.00), NaN% of the pool.
+Stake 0.00 UFO - Fee 2%
+Unstake 0.00 UFO
+Claim 0.00 GALACTICA ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - [GALACTICA]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.06 TVL: $47.84
+GALACTICA Price: $0.000869
+BUSD Price: $1.00
+Staked: 198.3404 Cake-LP ($12.04)
+GALACTICA Per Week: 1.93 ($0.00)
+APR: Day 0.00% Week 0.01% Year 0.72%
+You are staking 0.00 [GALACTICA]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GALACTICA]-[BUSD] Cake LP
+Unstake 0.00 [GALACTICA]-[BUSD] Cake LP
+Claim 0.00 GALACTICA ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - [GALACTICA]-[WBNB] Cake LP [+] [-] [<=>] Price: $1.18 TVL: $96.04
+GALACTICA Price: $0.000869
+WBNB Price: $368.02
+Staked: 15.1725 Cake-LP ($17.96)
+GALACTICA Per Week: 1.45 ($0.00)
+APR: Day 0.00% Week 0.01% Year 0.36%
+You are staking 0.00 [GALACTICA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [GALACTICA]-[WBNB] Cake LP
+Unstake 0.00 [GALACTICA]-[WBNB] Cake LP
+Claim 0.00 GALACTICA ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $1,028.18

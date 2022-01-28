@@ -2,33 +2,33 @@
 INFO  : https://app.sushi.com
 *****************************************************************************
 
-Wed Dec 15 2021 19:56:08 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 20:09:01 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
 Staking Contract
-Found 36 pools.
+Found 48 pools.
 Showing incentivized pools only.
 Finished reading smart contracts.
-2 - [cvxCRV]-[CRV] SLP [+] [-] [<=>] Price: $6.88 TVL: $3,961,212.22
-cvxCRV Price: $3.25
-CRV Price: $3.28
-Staked: 547542.5844 SLP ($3,769,021.37)
-SUSHI Per Week: 91.43 ($521.17)
-APR: Day 0.00% Week 0.01% Year 0.72%
+[cvxCRV]-[CRV] SLP [+] [-] [<=>] Price: $6.03 TVL: $2,982,744.90
+cvxCRV Price: $2.71
+CRV Price: $2.89
+Staked: 466085.6909 SLP ($2,809,356.33)
+SUSHI Per Week: 59.61 ($249.76)
+APR: Day 0.00% Week 0.01% Year 0.46%
 You are staking 0.00 [cvxCRV]-[CRV] SLP ($0.00), 0.00% of the pool.
 Stake 0.00 [cvxCRV]-[CRV] SLP
 Unstake 0.00 [cvxCRV]-[CRV] SLP
 Claim 0.00 SUSHI ($0.00)
 Staking or unstaking also claims rewards.
 
-3 - [PICKLE]-[WETH] SLP [+] [-] [<=>] Price: $343.38 TVL: $1,395,040.71
-PICKLE Price: $6.83
-WETH Price: $3,680.09
-Staked: 3888.2757 SLP ($1,335,147.55)
-SUSHI Per Week: 45.72 ($260.59)
+[PICKLE]-[WETH] SLP [+] [-] [<=>] Price: $280.59 TVL: $1,070,991.79
+PICKLE Price: $6.66
+WETH Price: $2,475.46
+Staked: 3659.1206 SLP ($1,026,697.15)
+SUSHI Per Week: 47.69 ($199.81)
 APR: Day 0.00% Week 0.02% Year 1.01%
 You are staking 0.00 [PICKLE]-[WETH] SLP ($0.00), 0.00% of the pool.
 Stake 0.00 [PICKLE]-[WETH] SLP
@@ -36,265 +36,265 @@ Unstake 0.00 [PICKLE]-[WETH] SLP
 Claim 0.00 SUSHI ($0.00)
 Staking or unstaking also claims rewards.
 
-[MPH]-[WETH] SLP [+] [-] [<=>] Price: $623.06 TVL: $1,663,332.02
-MPH Price: $20.65
-WETH Price: $3,680.09
-Staked: 2569.5506 SLP ($1,600,985.30)
-SUSHI Per Week: 45.72 ($260.59)
-MPH Per Week: 168.00 ($3,469.20)
-APR SUSHI: Day 0.00% Week 0.02% Year 0.85%
-APR MPH: Day 0.03% Week 0.22% Year 11.27%
-Total Per Week: $3,729.79
-Total APR: Day 0.0333% Week 0.23% Year 12.11%
+[MPH]-[WETH] SLP [+] [-] [<=>] Price: $446.03 TVL: $273,475.29
+MPH Price: $15.26
+WETH Price: $2,475.46
+Staked: 515.2619 SLP ($229,820.68)
+SUSHI Per Week: 71.53 ($299.71)
+MPH Per Week: 168.00 ($2,563.68)
+APR SUSHI: Day 0.02% Week 0.13% Year 6.78%
+APR MPH: Day 0.16% Week 1.12% Year 58.01%
+Total Per Week: $2,863.39
+Total APR: Day 0.1780% Week 1.25% Year 64.79%
 You are staking 0.00 [MPH]-[WETH] SLP ($0.00), 0.00% of the pool.
 Stake 0.00 [MPH]-[WETH] SLP
 Unstake 0.00 [MPH]-[WETH] SLP
 Claim 0.00 SUSHI ($0.00) + 0.00 MPH ($0.00)
 Staking or unstaking also claims rewards.
 
-[YGG]-[WETH] SLP [+] [-] [<=>] Price: $335.66 TVL: $15,800,988.02
-YGG Price: $5.27
-WETH Price: $3,680.09
-Staked: 46153.9675 SLP ($15,491,864.59)
-SUSHI Per Week: 557.75 ($3,179.17)
-YGG Per Week: 58333.33 ($307,416.67)
-APR SUSHI: Day 0.00% Week 0.02% Year 1.07%
-APR YGG: Day 0.28% Week 1.98% Year 103.19%
-Total Per Week: $310,595.83
-Total APR: Day 0.2864% Week 2.00% Year 104.25%
+[YGG]-[WETH] SLP [+] [-] [<=>] Price: $202.53 TVL: $10,823,157.47
+YGG Price: $2.81
+WETH Price: $2,475.46
+Staked: 52573.9064 SLP ($10,647,789.61)
+SUSHI Per Week: 447.06 ($1,873.19)
+YGG Per Week: 58333.33 ($163,916.67)
+APR SUSHI: Day 0.00% Week 0.02% Year 0.91%
+APR YGG: Day 0.22% Week 1.54% Year 80.05%
+Total Per Week: $165,789.86
+Total APR: Day 0.2224% Week 1.56% Year 80.97%
 You are staking 0.00 [YGG]-[WETH] SLP ($0.00), 0.00% of the pool.
 Stake 0.00 [YGG]-[WETH] SLP
 Unstake 0.00 [YGG]-[WETH] SLP
 Claim 0.00 SUSHI ($0.00) + 0.00 YGG ($0.00)
 Staking or unstaking also claims rewards.
 
-[TRU]-[WETH] SLP [+] [-] [<=>] Price: $6,961,634.91 TVL: $4,795,948.97
-TRU Price: $0.26
-WETH Price: $3,680.09
-Staked: 0.3903 SLP ($2,717,433.68)
-SUSHI Per Week: 91.43 ($521.17)
-TRU Per Week: 70757.40 ($18,291.28)
-APR SUSHI: Day 0.00% Week 0.02% Year 1.00%
-APR TRU: Day 0.10% Week 0.67% Year 35.00%
-Total Per Week: $18,812.46
-Total APR: Day 0.0989% Week 0.69% Year 36.00%
+[TRU]-[WETH] SLP [+] [-] [<=>] Price: $4,947,840.58 TVL: $3,202,172.50
+TRU Price: $0.19
+WETH Price: $2,475.46
+Staked: 0.3506 SLP ($1,734,475.77)
+SUSHI Per Week: 137.10 ($574.45)
+TRU Per Week: 70757.40 ($13,504.76)
+APR SUSHI: Day 0.00% Week 0.03% Year 1.72%
+APR TRU: Day 0.11% Week 0.78% Year 40.49%
+Total Per Week: $14,079.20
+Total APR: Day 0.1160% Week 0.81% Year 42.21%
 You are staking 0.00 [TRU]-[WETH] SLP ($0.00), 0.00% of the pool.
 Stake 0.00 [TRU]-[WETH] SLP
 Unstake 0.00 [TRU]-[WETH] SLP
 Claim 0.00 SUSHI ($0.00) + 0.00 TRU ($0.00)
 Staking or unstaking also claims rewards.
 
-[USDC]-[CQT] SLP [+] [-] [<=>] Price: $1,598,038.52 TVL: $1,130,423.28
+[USDC]-[CQT] SLP [+] [-] [<=>] Price: $1,398,978.56 TVL: $1,041,639.70
 USDC Price: $1.00
-CQT Price: $0.54
-Staked: 0.2870 SLP ($458,678.73)
-SUSHI Per Week: 45.72 ($260.59)
-CQT Per Week: 6048.00 ($3,241.71)
-APR SUSHI: Day 0.01% Week 0.06% Year 2.95%
-APR CQT: Day 0.10% Week 0.71% Year 36.75%
-Total Per Week: $3,502.30
-Total APR: Day 0.1091% Week 0.76% Year 39.71%
+CQT Price: $0.40
+Staked: 0.3303 SLP ($462,112.77)
+SUSHI Per Week: 41.73 ($174.83)
+CQT Per Week: 6048.00 ($2,441.14)
+APR SUSHI: Day 0.01% Week 0.04% Year 1.97%
+APR CQT: Day 0.08% Week 0.53% Year 27.47%
+Total Per Week: $2,615.97
+Total APR: Day 0.0809% Week 0.57% Year 29.44%
 You are staking 0.00 [USDC]-[CQT] SLP ($0.00), 0.00% of the pool.
 Stake 0.00 [USDC]-[CQT] SLP
 Unstake 0.00 [USDC]-[CQT] SLP
 Claim 0.00 SUSHI ($0.00) + 0.00 CQT ($0.00)
 Staking or unstaking also claims rewards.
 
-[WETH]-[SI] SLP [+] [-] [<=>] Price: $91.14 TVL: $2,807,553.62
-WETH Price: $3,680.09
-SI Price: $0.55
-Staked: 29445.9071 SLP ($2,683,846.99)
-SUSHI Per Week: 137.15 ($781.76)
-SI Per Week: 35000.00 ($19,337.74)
-APR SUSHI: Day 0.00% Week 0.03% Year 1.51%
-APR SI: Day 0.10% Week 0.72% Year 37.47%
-Total Per Week: $20,119.51
-Total APR: Day 0.1071% Week 0.75% Year 38.98%
+[WETH]-[SI] SLP [+] [-] [<=>] Price: $67.70 TVL: $1,262,621.02
+WETH Price: $2,475.46
+SI Price: $0.45
+Staked: 16356.2160 SLP ($1,107,276.79)
+SUSHI Per Week: 35.77 ($149.86)
+SI Per Week: 35000.00 ($15,772.15)
+APR SUSHI: Day 0.00% Week 0.01% Year 0.70%
+APR SI: Day 0.20% Week 1.42% Year 74.07%
+Total Per Week: $15,922.01
+Total APR: Day 0.2054% Week 1.44% Year 74.77%
 You are staking 0.00 [WETH]-[SI] SLP ($0.00), 0.00% of the pool.
 Stake 0.00 [WETH]-[SI] SLP
 Unstake 0.00 [WETH]-[SI] SLP
 Claim 0.00 SUSHI ($0.00) + 0.00 SI ($0.00)
 Staking or unstaking also claims rewards.
 
-[WETH]-[AMP] SLP [+] [-] [<=>] Price: $32.78 TVL: $3,863,405.24
-WETH Price: $3,680.09
-AMP Price: $0.05
-Staked: 101285.4442 SLP ($3,320,515.70)
-SUSHI Per Week: 320.02 ($1,824.11)
-AMP Per Week: 175000.00 ($8,329.36)
-APR SUSHI: Day 0.01% Week 0.05% Year 2.86%
-APR AMP: Day 0.04% Week 0.25% Year 13.04%
-Total Per Week: $10,153.47
-Total APR: Day 0.0437% Week 0.31% Year 15.90%
+[WETH]-[AMP] SLP [+] [-] [<=>] Price: $21.38 TVL: $2,467,478.18
+WETH Price: $2,475.46
+AMP Price: $0.03
+Staked: 99360.9695 SLP ($2,123,877.22)
+SUSHI Per Week: 71.53 ($299.71)
+AMP Per Week: 175000.00 ($5,201.96)
+APR SUSHI: Day 0.00% Week 0.01% Year 0.73%
+APR AMP: Day 0.03% Week 0.24% Year 12.74%
+Total Per Week: $5,501.67
+Total APR: Day 0.0370% Week 0.26% Year 13.47%
 You are staking 0.00 [WETH]-[AMP] SLP ($0.00), 0.00% of the pool.
 Stake 0.00 [WETH]-[AMP] SLP
 Unstake 0.00 [WETH]-[AMP] SLP
 Claim 0.00 SUSHI ($0.00) + 0.00 AMP ($0.00)
 Staking or unstaking also claims rewards.
 
-[BIOS]-[WETH] SLP [+] [-] [<=>] Price: $233.29 TVL: $1,140,140.05
-BIOS Price: $3.15
-WETH Price: $3,680.09
-Staked: 4222.7207 SLP ($985,100.90)
-SUSHI Per Week: 137.15 ($781.76)
-BIOS Per Week: 2661.12 ($8,382.53)
-APR SUSHI: Day 0.01% Week 0.08% Year 4.13%
-APR BIOS: Day 0.12% Week 0.85% Year 44.25%
-Total Per Week: $9,164.29
-Total APR: Day 0.1329% Week 0.93% Year 48.38%
+[BIOS]-[WETH] SLP [+] [-] [<=>] Price: $161.65 TVL: $742,817.03
+BIOS Price: $2.20
+WETH Price: $2,475.46
+Staked: 4371.3699 SLP ($706,635.33)
+SUSHI Per Week: 59.61 ($249.76)
+BIOS Per Week: 2661.12 ($5,854.46)
+APR SUSHI: Day 0.01% Week 0.04% Year 1.84%
+APR BIOS: Day 0.12% Week 0.83% Year 43.08%
+Total Per Week: $6,104.22
+Total APR: Day 0.1234% Week 0.86% Year 44.92%
 You are staking 0.00 [BIOS]-[WETH] SLP ($0.00), 0.00% of the pool.
 Stake 0.00 [BIOS]-[WETH] SLP
 Unstake 0.00 [BIOS]-[WETH] SLP
 Claim 0.00 SUSHI ($0.00) + 0.00 BIOS ($0.00)
 Staking or unstaking also claims rewards.
 
-[NEAR]-[WETH] SLP [+] [-] [<=>] Price: $0.40 TVL: $7,787,806.85
-NEAR Price: $10.05
-WETH Price: $3,680.09
-Staked: 16735572.0977 SLP ($6,664,537.08)
-SUSHI Per Week: 91.43 ($521.17)
-NEAR Per Week: 5831.00 ($58,601.29)
-APR SUSHI: Day 0.00% Week 0.01% Year 0.41%
-APR NEAR: Day 0.13% Week 0.88% Year 45.72%
-Total Per Week: $59,122.47
-Total APR: Day 0.1267% Week 0.89% Year 46.13%
+[NEAR]-[WETH] SLP [+] [-] [<=>] Price: $0.35 TVL: $6,959,024.58
+NEAR Price: $11.23
+WETH Price: $2,475.46
+Staked: 16766917.4003 SLP ($5,870,524.69)
+SUSHI Per Week: 447.06 ($1,873.19)
+NEAR Per Week: 5831.00 ($65,502.50)
+APR SUSHI: Day 0.00% Week 0.03% Year 1.66%
+APR NEAR: Day 0.16% Week 1.12% Year 58.02%
+Total Per Week: $67,375.70
+Total APR: Day 0.1640% Week 1.15% Year 59.68%
 You are staking 0.00 [NEAR]-[WETH] SLP ($0.00), 0.00% of the pool.
 Stake 0.00 [NEAR]-[WETH] SLP
 Unstake 0.00 [NEAR]-[WETH] SLP
 Claim 0.00 SUSHI ($0.00) + 0.00 NEAR ($0.00)
 Staking or unstaking also claims rewards.
 
-[TOKE]-[WETH] SLP [+] [-] [<=>] Price: $756.64 TVL: $119,549,236.20
-TOKE Price: $36.20
-WETH Price: $3,680.09
-Staked: 1045.1998 SLP ($790,841.42)
-SUSHI Per Week: 91.43 ($521.17)
-TOKE Per Week: 350.00 ($12,670.01)
-APR SUSHI: Day 0.01% Week 0.07% Year 3.43%
-APR TOKE: Day 0.23% Week 1.60% Year 83.31%
-Total Per Week: $13,191.18
-Total APR: Day 0.2383% Week 1.67% Year 86.74%
+[TOKE]-[WETH] SLP [+] [-] [<=>] Price: $568.96 TVL: $102,200,681.20
+TOKE Price: $30.19
+WETH Price: $2,475.46
+Staked: 1499.2447 SLP ($853,004.31)
+SUSHI Per Week: 596.08 ($2,497.59)
+TOKE Per Week: 350.00 ($10,566.51)
+APR SUSHI: Day 0.04% Week 0.29% Year 15.23%
+APR TOKE: Day 0.18% Week 1.24% Year 64.41%
+Total Per Week: $13,064.10
+Total APR: Day 0.2188% Week 1.53% Year 79.64%
 You are staking 0.00 [TOKE]-[WETH] SLP ($0.00), 0.00% of the pool.
 Stake 0.00 [TOKE]-[WETH] SLP
 Unstake 0.00 [TOKE]-[WETH] SLP
 Claim 0.00 SUSHI ($0.00) + 0.00 TOKE ($0.00)
 Staking or unstaking also claims rewards.
 
-[WETH]-[WNCG] SLP [+] [-] [<=>] Price: $191.90 TVL: $4,333,514.18
-WETH Price: $3,680.09
-WNCG Price: $2.13
-Staked: 15784.0139 SLP ($3,029,015.14)
-SUSHI Per Week: 137.15 ($781.76)
-WNCG Per Week: 31111.03 ($66,266.50)
-APR SUSHI: Day 0.00% Week 0.03% Year 1.34%
-APR WNCG: Day 0.31% Week 2.19% Year 113.76%
-Total Per Week: $67,048.26
-Total APR: Day 0.3162% Week 2.21% Year 115.10%
+[WETH]-[WNCG] SLP [+] [-] [<=>] Price: $109.06 TVL: $2,564,998.90
+WETH Price: $2,475.46
+WNCG Price: $1.01
+Staked: 16734.0231 SLP ($1,825,059.66)
+SUSHI Per Week: 89.41 ($374.64)
+WNCG Per Week: 31111.03 ($31,422.14)
+APR SUSHI: Day 0.00% Week 0.02% Year 1.07%
+APR WNCG: Day 0.25% Week 1.72% Year 89.53%
+Total Per Week: $31,796.78
+Total APR: Day 0.2489% Week 1.74% Year 90.60%
 You are staking 0.00 [WETH]-[WNCG] SLP ($0.00), 0.00% of the pool.
 Stake 0.00 [WETH]-[WNCG] SLP
 Unstake 0.00 [WETH]-[WNCG] SLP
 Claim 0.00 SUSHI ($0.00) + 0.00 WNCG ($0.00)
 Staking or unstaking also claims rewards.
 
-[BIT]-[WETH] SLP [+] [-] [<=>] Price: $162.22 TVL: $140,648,708.04
-BIT Price: $1.73
-WETH Price: $3,680.09
-Staked: 849873.6842 SLP ($137,866,817.48)
-SUSHI Per Week: 82.29 ($469.06)
-BIT Per Week: 700000.00 ($1,211,000.00)
-APR SUSHI: Day 0.00% Week 0.00% Year 0.02%
-APR BIT: Day 0.13% Week 0.88% Year 45.68%
-Total Per Week: $1,211,469.06
-Total APR: Day 0.1255% Week 0.88% Year 45.69%
+[BIT]-[WETH] SLP [+] [-] [<=>] Price: $124.31 TVL: $80,162,770.56
+BIT Price: $1.50
+WETH Price: $2,475.46
+Staked: 627370.4936 SLP ($77,987,058.07)
+SUSHI Per Week: 208.63 ($874.16)
+BIT Per Week: 700000.00 ($1,050,000.00)
+APR SUSHI: Day 0.00% Week 0.00% Year 0.06%
+APR BIT: Day 0.19% Week 1.35% Year 70.01%
+Total Per Week: $1,050,874.16
+Total APR: Day 0.1925% Week 1.35% Year 70.07%
 You are staking 0.00 [BIT]-[WETH] SLP ($0.00), 0.00% of the pool.
 Stake 0.00 [BIT]-[WETH] SLP
 Unstake 0.00 [BIT]-[WETH] SLP
 Claim 0.00 SUSHI ($0.00) + 0.00 BIT ($0.00)
 Staking or unstaking also claims rewards.
 
-18 - [DYDX]-[WETH] SLP [+] [-] [<=>] Price: $436.98 TVL: $3,301,667.83
-DYDX Price: $7.82
-WETH Price: $3,680.09
-Staked: 7175.7701 SLP ($3,135,634.69)
-SUSHI Per Week: 640.04 ($3,648.22)
-APR: Day 0.02% Week 0.12% Year 6.05%
+[DYDX]-[WETH] SLP [+] [-] [<=>] Price: $313.99 TVL: $1,797,780.49
+DYDX Price: $5.85
+WETH Price: $2,475.46
+Staked: 5293.5522 SLP ($1,662,108.51)
+SUSHI Per Week: 298.04 ($1,248.80)
+APR: Day 0.01% Week 0.08% Year 3.91%
 You are staking 0.00 [DYDX]-[WETH] SLP ($0.00), 0.00% of the pool.
 Stake 0.00 [DYDX]-[WETH] SLP
 Unstake 0.00 [DYDX]-[WETH] SLP
 Claim 0.00 SUSHI ($0.00)
 Staking or unstaking also claims rewards.
 
-[WETH]-[BANANA] SLP [+] [-] [<=>] Price: $674.58 TVL: $2,364,049.09
-WETH Price: $3,680.09
-BANANA Price: $26.49
-Staked: 1270.0788 SLP ($856,764.66)
-SUSHI Per Week: 91.43 ($521.17)
-BANANA Per Week: 700.00 ($18,543.00)
-APR SUSHI: Day 0.01% Week 0.06% Year 3.16%
-APR BANANA: Day 0.31% Week 2.16% Year 112.54%
-Total Per Week: $19,064.17
-Total APR: Day 0.3179% Week 2.23% Year 115.71%
+[WETH]-[BANANA] SLP [+] [-] [<=>] Price: $588.36 TVL: $2,554,172.11
+WETH Price: $2,475.46
+BANANA Price: $28.57
+Staked: 2063.0861 SLP ($1,213,827.92)
+SUSHI Per Week: 119.22 ($499.52)
+BANANA Per Week: 700.00 ($19,999.00)
+APR SUSHI: Day 0.01% Week 0.04% Year 2.14%
+APR BANANA: Day 0.24% Week 1.65% Year 85.68%
+Total Per Week: $20,498.52
+Total APR: Day 0.2412% Week 1.69% Year 87.81%
 You are staking 0.00 [WETH]-[BANANA] SLP ($0.00), 0.00% of the pool.
 Stake 0.00 [WETH]-[BANANA] SLP
 Unstake 0.00 [WETH]-[BANANA] SLP
 Claim 0.00 SUSHI ($0.00) + 0.00 BANANA ($0.00)
 Staking or unstaking also claims rewards.
 
-[APW]-[WETH] SLP [+] [-] [<=>] Price: $205.69 TVL: $5,387,562.05
-APW Price: $2.75
-WETH Price: $3,680.09
-Staked: 3510.1308 SLP ($722,016.28)
-SUSHI Per Week: 137.15 ($781.76)
-APW Per Week: 4838.40 ($13,305.60)
-APR SUSHI: Day 0.02% Week 0.11% Year 5.63%
-APR APW: Day 0.26% Week 1.84% Year 95.83%
-Total Per Week: $14,087.36
-Total APR: Day 0.2787% Week 1.95% Year 101.46%
+[APW]-[WETH] SLP [+] [-] [<=>] Price: $98.68 TVL: $2,404,397.03
+APW Price: $0.94
+WETH Price: $2,475.46
+Staked: 3952.1311 SLP ($389,993.36)
+SUSHI Per Week: 41.73 ($174.83)
+APW Per Week: 4838.40 ($4,533.04)
+APR SUSHI: Day 0.01% Week 0.04% Year 2.33%
+APR APW: Day 0.17% Week 1.16% Year 60.44%
+Total Per Week: $4,707.88
+Total APR: Day 0.1725% Week 1.21% Year 62.77%
 You are staking 0.00 [APW]-[WETH] SLP ($0.00), 0.00% of the pool.
 Stake 0.00 [APW]-[WETH] SLP
 Unstake 0.00 [APW]-[WETH] SLP
 Claim 0.00 SUSHI ($0.00) + 0.00 APW ($0.00)
 Staking or unstaking also claims rewards.
 
-[MARS4]-[WETH] SLP [+] [-] [<=>] Price: $19.15 TVL: $1,908,776.83
-MARS4 Price: $0.02
-WETH Price: $3,680.09
-Staked: 86105.3167 SLP ($1,649,021.02)
-SUSHI Per Week: 91.43 ($521.17)
-MARS4 Per Week: 1209600.00 ($24,920.93)
-APR SUSHI: Day 0.00% Week 0.03% Year 1.64%
-APR MARS4: Day 0.22% Week 1.51% Year 78.59%
-Total Per Week: $25,442.10
-Total APR: Day 0.2204% Week 1.54% Year 80.23%
+[MARS4]-[WETH] SLP [+] [-] [<=>] Price: $13.43 TVL: $1,254,936.04
+MARS4 Price: $0.01
+WETH Price: $2,475.46
+Staked: 79753.3677 SLP ($1,071,035.44)
+SUSHI Per Week: 47.69 ($199.81)
+MARS4 Per Week: 1209600.00 ($17,957.94)
+APR SUSHI: Day 0.00% Week 0.02% Year 0.97%
+APR MARS4: Day 0.24% Week 1.68% Year 87.19%
+Total Per Week: $18,157.75
+Total APR: Day 0.2422% Week 1.70% Year 88.16%
 You are staking 0.00 [MARS4]-[WETH] SLP ($0.00), 0.00% of the pool.
 Stake 0.00 [MARS4]-[WETH] SLP
 Unstake 0.00 [MARS4]-[WETH] SLP
 Claim 0.00 SUSHI ($0.00) + 0.00 MARS4 ($0.00)
 Staking or unstaking also claims rewards.
 
-[NFTL]-[WETH] SLP [+] [-] [<=>] Price: $18.79 TVL: $1,649,594.89
-NFTL Price: $0.02
-WETH Price: $3,680.09
-Staked: 27581.2429 SLP ($518,245.07)
-SUSHI Per Week: 182.87 ($1,042.35)
-NFTL Per Week: 699995.52 ($16,090.76)
-APR SUSHI: Day 0.03% Week 0.20% Year 10.46%
-APR NFTL: Day 0.44% Week 3.10% Year 161.45%
-Total Per Week: $17,133.11
-Total APR: Day 0.4723% Week 3.31% Year 171.91%
+[NFTL]-[WETH] SLP [+] [-] [<=>] Price: $19.78 TVL: $1,715,684.03
+NFTL Price: $0.04
+WETH Price: $2,475.46
+Staked: 26668.4960 SLP ($527,388.33)
+SUSHI Per Week: 149.02 ($624.40)
+NFTL Per Week: 699995.52 ($25,420.81)
+APR SUSHI: Day 0.02% Week 0.12% Year 6.16%
+APR NFTL: Day 0.69% Week 4.82% Year 250.65%
+Total Per Week: $26,045.21
+Total APR: Day 0.7055% Week 4.94% Year 256.80%
 You are staking 0.00 [NFTL]-[WETH] SLP ($0.00), 0.00% of the pool.
 Stake 0.00 [NFTL]-[WETH] SLP
 Unstake 0.00 [NFTL]-[WETH] SLP
 Claim 0.00 SUSHI ($0.00) + 0.00 NFTL ($0.00)
 Staking or unstaking also claims rewards.
 
-[USDC]-[QUARTZ] SLP [+] [-] [<=>] Price: $4,417,891.41 TVL: $4,220,522.44
+[USDC]-[QUARTZ] SLP [+] [-] [<=>] Price: $6,278,820.60 TVL: $6,360,581.18
 USDC Price: $1.00
-QUARTZ Price: $4.69
-Staked: 0.3316 SLP ($1,465,026.10)
-SUSHI Per Week: 457.17 ($2,605.87)
+QUARTZ Price: $8.73
+Staked: 0.1643 SLP ($1,031,644.62)
+SUSHI Per Week: 327.85 ($1,373.67)
 vestedQUARTZ Per Week: 3024.00 ($0.00)
-APR SUSHI: Day 0.03% Week 0.18% Year 9.25%
+APR SUSHI: Day 0.02% Week 0.13% Year 6.92%
 APR vestedQUARTZ: Day NaN% Week NaN% Year NaN%
 Total Per Week: $0.00
 Total APR: Day NaN% Week NaN% Year NaN%
@@ -304,188 +304,376 @@ Unstake 0.00 [USDC]-[QUARTZ] SLP
 Claim 0.00 SUSHI ($0.00) + 0.00 vestedQUARTZ ($0.00)
 Staking or unstaking also claims rewards.
 
-24 - [WETH]-[ENS] SLP [+] [-] [<=>] Price: $974.37 TVL: $3,625,542.06
-WETH Price: $3,680.09
-ENS Price: $37.58
-Staked: 2580.3441 SLP ($2,514,208.56)
-SUSHI Per Week: 411.45 ($2,345.29)
-APR: Day 0.01% Week 0.09% Year 4.85%
+[WETH]-[ENS] SLP [+] [-] [<=>] Price: $544.73 TVL: $3,475,907.19
+WETH Price: $2,475.46
+ENS Price: $16.74
+Staked: 5334.4338 SLP ($2,905,815.05)
+SUSHI Per Week: 387.45 ($1,623.43)
+APR: Day 0.01% Week 0.06% Year 2.91%
 You are staking 0.00 [WETH]-[ENS] SLP ($0.00), 0.00% of the pool.
 Stake 0.00 [WETH]-[ENS] SLP
 Unstake 0.00 [WETH]-[ENS] SLP
 Claim 0.00 SUSHI ($0.00)
 Staking or unstaking also claims rewards.
 
-[BMI]-[WETH] SLP [+] [-] [<=>] Price: $64.84 TVL: $1,503,659.98
-BMI Price: $0.28
-WETH Price: $3,680.09
-Staked: 18610.7984 SLP ($1,206,813.75)
-SUSHI Per Week: 320.02 ($1,824.11)
-BMI Per Week: 43182.72 ($11,891.14)
-APR SUSHI: Day 0.02% Week 0.15% Year 7.86%
-APR BMI: Day 0.14% Week 0.99% Year 51.24%
-Total Per Week: $13,715.25
-Total APR: Day 0.1624% Week 1.14% Year 59.10%
+[BMI]-[WETH] SLP [+] [-] [<=>] Price: $37.94 TVL: $1,014,741.73
+BMI Price: $0.14
+WETH Price: $2,475.46
+Staked: 21307.8761 SLP ($808,444.25)
+SUSHI Per Week: 35.77 ($149.86)
+BMI Per Week: 43182.72 ($6,014.27)
+APR SUSHI: Day 0.00% Week 0.02% Year 0.96%
+APR BMI: Day 0.11% Week 0.74% Year 38.68%
+Total Per Week: $6,164.13
+Total APR: Day 0.1089% Week 0.76% Year 39.65%
 You are staking 0.00 [BMI]-[WETH] SLP ($0.00), 0.00% of the pool.
 Stake 0.00 [BMI]-[WETH] SLP
 Unstake 0.00 [BMI]-[WETH] SLP
 Claim 0.00 SUSHI ($0.00) + 0.00 BMI ($0.00)
 Staking or unstaking also claims rewards.
 
-[WETH]-[GODS] SLP [+] [-] [<=>] Price: $304.60 TVL: $2,246,232.63
-WETH Price: $3,680.09
-GODS Price: $4.94
-Staked: 4240.2349 SLP ($1,291,586.54)
-SUSHI Per Week: 228.59 ($1,302.94)
-GODS Per Week: 3628.80 ($17,926.27)
-APR SUSHI: Day 0.01% Week 0.10% Year 5.25%
-APR GODS: Day 0.20% Week 1.39% Year 72.17%
-Total Per Week: $19,229.21
-Total APR: Day 0.2127% Week 1.49% Year 77.42%
+[WETH]-[GODS] SLP [+] [-] [<=>] Price: $176.23 TVL: $1,393,036.36
+WETH Price: $2,475.46
+GODS Price: $2.26
+Staked: 4733.9114 SLP ($834,269.50)
+SUSHI Per Week: 268.24 ($1,123.92)
+GODS Per Week: 3628.80 ($8,201.09)
+APR SUSHI: Day 0.02% Week 0.13% Year 7.01%
+APR GODS: Day 0.14% Week 0.98% Year 51.12%
+Total Per Week: $9,325.00
+Total APR: Day 0.1597% Week 1.12% Year 58.12%
 You are staking 0.00 [WETH]-[GODS] SLP ($0.00), 0.00% of the pool.
 Stake 0.00 [WETH]-[GODS] SLP
 Unstake 0.00 [WETH]-[GODS] SLP
 Claim 0.00 SUSHI ($0.00) + 0.00 GODS ($0.00)
 Staking or unstaking also claims rewards.
 
-[WETH]-[IMX] SLP [+] [-] [<=>] Price: $301.22 TVL: $8,920,439.14
-WETH Price: $3,680.09
-IMX Price: $4.57
-Staked: 25728.1672 SLP ($7,749,895.17)
-SUSHI Per Week: 228.59 ($1,302.94)
-IMX Per Week: 11491.20 ($52,514.78)
-APR SUSHI: Day 0.00% Week 0.02% Year 0.87%
-APR IMX: Day 0.10% Week 0.68% Year 35.24%
-Total Per Week: $53,817.72
-Total APR: Day 0.0992% Week 0.69% Year 36.11%
+[WETH]-[IMX] SLP [+] [-] [<=>] Price: $192.16 TVL: $4,866,437.42
+WETH Price: $2,475.46
+IMX Price: $2.62
+Staked: 21564.2352 SLP ($4,143,841.41)
+SUSHI Per Week: 536.48 ($2,247.83)
+IMX Per Week: 11491.20 ($30,106.94)
+APR SUSHI: Day 0.01% Week 0.05% Year 2.82%
+APR IMX: Day 0.10% Week 0.73% Year 37.78%
+Total Per Week: $32,354.78
+Total APR: Day 0.1115% Week 0.78% Year 40.60%
 You are staking 0.00 [WETH]-[IMX] SLP ($0.00), 0.00% of the pool.
 Stake 0.00 [WETH]-[IMX] SLP
 Unstake 0.00 [WETH]-[IMX] SLP
 Claim 0.00 SUSHI ($0.00) + 0.00 IMX ($0.00)
 Staking or unstaking also claims rewards.
 
-[XDEFI]-[WETH] SLP [+] [-] [<=>] Price: $95.72 TVL: $3,329,050.84
-XDEFI Price: $0.59
-WETH Price: $3,680.09
-Staked: 11712.3360 SLP ($1,121,146.19)
-SUSHI Per Week: 228.59 ($1,302.94)
-XDEFI Per Week: 28767.13 ($16,839.70)
-APR SUSHI: Day 0.02% Week 0.12% Year 6.04%
-APR XDEFI: Day 0.21% Week 1.50% Year 78.10%
-Total Per Week: $18,142.64
-Total APR: Day 0.2312% Week 1.62% Year 84.15%
+[XDEFI]-[WETH] SLP [+] [-] [<=>] Price: $82.68 TVL: $3,079,695.81
+XDEFI Price: $0.64
+WETH Price: $2,475.46
+Staked: 14897.0955 SLP ($1,231,748.69)
+SUSHI Per Week: 89.41 ($374.64)
+XDEFI Per Week: 28767.13 ($18,359.96)
+APR SUSHI: Day 0.00% Week 0.03% Year 1.58%
+APR XDEFI: Day 0.21% Week 1.49% Year 77.51%
+Total Per Week: $18,734.60
+Total APR: Day 0.2173% Week 1.52% Year 79.09%
 You are staking 0.00 [XDEFI]-[WETH] SLP ($0.00), 0.00% of the pool.
 Stake 0.00 [XDEFI]-[WETH] SLP
 Unstake 0.00 [XDEFI]-[WETH] SLP
 Claim 0.00 SUSHI ($0.00) + 0.00 XDEFI ($0.00)
 Staking or unstaking also claims rewards.
 
-[ATTR]-[WETH] SLP [+] [-] [<=>] Price: $18.05 TVL: $598,341.76
-ATTR Price: $0.02
-WETH Price: $3,680.09
-Staked: 11966.4286 SLP ($215,943.23)
-SUSHI Per Week: 137.15 ($781.76)
-ATTR Per Week: 604800.00 ($13,086.70)
-APR SUSHI: Day 0.05% Week 0.36% Year 18.83%
-APR ATTR: Day 0.87% Week 6.06% Year 315.13%
-Total Per Week: $13,868.46
-Total APR: Day 0.9175% Week 6.42% Year 333.96%
+[ATTR]-[WETH] SLP [+] [-] [<=>] Price: $12.07 TVL: $523,453.59
+ATTR Price: $0.01
+WETH Price: $2,475.46
+Staked: 22044.9758 SLP ($266,021.20)
+SUSHI Per Week: 17.88 ($74.93)
+ATTR Per Week: 604800.00 ($8,677.22)
+APR SUSHI: Day 0.00% Week 0.03% Year 1.46%
+APR ATTR: Day 0.47% Week 3.26% Year 169.62%
+Total Per Week: $8,752.15
+Total APR: Day 0.4700% Week 3.29% Year 171.08%
 You are staking 0.00 [ATTR]-[WETH] SLP ($0.00), 0.00% of the pool.
 Stake 0.00 [ATTR]-[WETH] SLP
 Unstake 0.00 [ATTR]-[WETH] SLP
 Claim 0.00 SUSHI ($0.00) + 0.00 ATTR ($0.00)
 Staking or unstaking also claims rewards.
 
-[NIL]-[WETH] SLP [+] [-] [<=>] Price: $502.10 TVL: $548,297.92
-NIL Price: $16.45
-WETH Price: $3,680.09
-Staked: 1084.8641 SLP ($544,713.62)
-SUSHI Per Week: 91.43 ($521.17)
-NIL Per Week: 2100.00 ($34,545.00)
-APR SUSHI: Day 0.01% Week 0.10% Year 4.98%
-APR NIL: Day 0.91% Week 6.34% Year 329.78%
-Total Per Week: $35,066.17
-Total APR: Day 0.9196% Week 6.44% Year 334.75%
+[NIL]-[WETH] SLP [+] [-] [<=>] Price: $183.47 TVL: $238,781.85
+NIL Price: $3.20
+WETH Price: $2,475.46
+Staked: 1285.3179 SLP ($235,820.75)
+SUSHI Per Week: 41.73 ($174.83)
+NIL Per Week: 2100.00 ($6,720.00)
+APR SUSHI: Day 0.01% Week 0.07% Year 3.86%
+APR NIL: Day 0.41% Week 2.85% Year 148.18%
+Total Per Week: $6,894.83
+Total APR: Day 0.4177% Week 2.92% Year 152.04%
 You are staking 0.00 [NIL]-[WETH] SLP ($0.00), 0.00% of the pool.
 Stake 0.00 [NIL]-[WETH] SLP
 Unstake 0.00 [NIL]-[WETH] SLP
 Claim 0.00 SUSHI ($0.00) + 0.00 NIL ($0.00)
 Staking or unstaking also claims rewards.
 
-31 - [WETH]-[PSP] SLP [+] [-] [<=>] Price: $76.88 TVL: $237,996.78
-WETH Price: $3,680.09
-PSP Price: $0.34
-Staked: 2859.8057 SLP ($219,854.06)
-SUSHI Per Week: 274.30 ($1,563.52)
-APR: Day 0.10% Week 0.71% Year 36.98%
+[WETH]-[PSP] SLP [+] [-] [<=>] Price: $45.36 TVL: $1,315,842.16
+WETH Price: $2,475.46
+PSP Price: $0.17
+Staked: 28042.9632 SLP ($1,271,906.84)
+SUSHI Per Week: 119.22 ($499.52)
+PSP Per Week: 388888.89 ($65,509.11)
+APR SUSHI: Day 0.01% Week 0.04% Year 2.04%
+APR PSP: Day 0.74% Week 5.15% Year 267.82%
+Total Per Week: $66,008.63
+Total APR: Day 0.7414% Week 5.19% Year 269.87%
 You are staking 0.00 [WETH]-[PSP] SLP ($0.00), 0.00% of the pool.
 Stake 0.00 [WETH]-[PSP] SLP
 Unstake 0.00 [WETH]-[PSP] SLP
-Claim 0.00 SUSHI ($0.00)
+Claim 0.00 SUSHI ($0.00) + 0.00 PSP ($0.00)
 Staking or unstaking also claims rewards.
 
-[USDC]-[DIVER] SLP [+] [-] [<=>] Price: $805,960.11 TVL: $5,733,736.95
+[USDC]-[DIVER] SLP [+] [-] [<=>] Price: $515,540.82 TVL: $3,558,805.42
 USDC Price: $1.00
-DIVER Price: $0.16
-Staked: 1.7952 SLP ($1,446,830.94)
-SUSHI Per Week: 137.15 ($781.76)
-DIVER Per Week: 169344.00 ($26,927.22)
-APR SUSHI: Day 0.01% Week 0.05% Year 2.81%
-APR DIVER: Day 0.27% Week 1.86% Year 96.78%
-Total Per Week: $27,708.98
-Total APR: Day 0.2736% Week 1.92% Year 99.59%
+DIVER Price: $0.06
+Staked: 1.5830 SLP ($816,114.23)
+SUSHI Per Week: 29.80 ($124.88)
+DIVER Per Week: 169344.00 ($10,976.71)
+APR SUSHI: Day 0.00% Week 0.02% Year 0.80%
+APR DIVER: Day 0.19% Week 1.34% Year 69.94%
+Total Per Week: $11,101.59
+Total APR: Day 0.1943% Week 1.36% Year 70.74%
 You are staking 0.00 [USDC]-[DIVER] SLP ($0.00), 0.00% of the pool.
 Stake 0.00 [USDC]-[DIVER] SLP
 Unstake 0.00 [USDC]-[DIVER] SLP
 Claim 0.00 SUSHI ($0.00) + 0.00 DIVER ($0.00)
 Staking or unstaking also claims rewards.
 
-[CRE8]-[USDT] SLP [+] [-] [<=>] Price: $384,053.05 TVL: $518,137.10
-CRE8 Price: $0.04
+[CRE8]-[USDT] SLP [+] [-] [<=>] Price: $277,583.88 TVL: $375,182.11
+CRE8 Price: $0.02
 USDT Price: $1.00
-Staked: 1.3471 SLP ($517,376.02)
-SUSHI Per Week: 137.15 ($781.76)
-CRE8 Per Week: 233331.00 ($8,437.91)
-APR SUSHI: Day 0.02% Week 0.15% Year 7.86%
-APR CRE8: Day 0.23% Week 1.63% Year 84.81%
-Total Per Week: $9,219.67
-Total APR: Day 0.2546% Week 1.78% Year 92.66%
+Staked: 1.3488 SLP ($374,412.91)
+SUSHI Per Week: 11.92 ($49.95)
+CRE8 Per Week: 233331.00 ($4,399.37)
+APR SUSHI: Day 0.00% Week 0.01% Year 0.69%
+APR CRE8: Day 0.17% Week 1.18% Year 61.10%
+Total Per Week: $4,449.33
+Total APR: Day 0.1698% Week 1.19% Year 61.79%
 You are staking 0.00 [CRE8]-[USDT] SLP ($0.00), 0.00% of the pool.
 Stake 0.00 [CRE8]-[USDT] SLP
 Unstake 0.00 [CRE8]-[USDT] SLP
 Claim 0.00 SUSHI ($0.00) + 0.00 CRE8 ($0.00)
 Staking or unstaking also claims rewards.
 
-[SPS]-[WETH] SLP [+] [-] [<=>] Price: $59.37 TVL: $1,039,404.17
-SPS Price: $0.24
-WETH Price: $3,680.09
-Staked: 17390.9464 SLP ($1,032,498.24)
-SUSHI Per Week: 137.15 ($781.76)
-SPS Per Week: 105000.00 ($25,023.34)
-APR SUSHI: Day 0.01% Week 0.08% Year 3.94%
-APR SPS: Day 0.35% Week 2.42% Year 126.03%
-Total Per Week: $25,805.10
-Total APR: Day 0.3570% Week 2.50% Year 129.96%
+[SPS]-[WETH] SLP [+] [-] [<=>] Price: $33.66 TVL: $2,070,241.76
+SPS Price: $0.11
+WETH Price: $2,475.46
+Staked: 61469.4805 SLP ($2,069,064.51)
+SUSHI Per Week: 29.80 ($124.88)
+SPS Per Week: 105000.00 ($11,920.86)
+APR SUSHI: Day 0.00% Week 0.01% Year 0.31%
+APR SPS: Day 0.08% Week 0.58% Year 29.96%
+Total Per Week: $12,045.74
+Total APR: Day 0.0832% Week 0.58% Year 30.27%
 You are staking 0.00 [SPS]-[WETH] SLP ($0.00), 0.00% of the pool.
 Stake 0.00 [SPS]-[WETH] SLP
 Unstake 0.00 [SPS]-[WETH] SLP
 Claim 0.00 SUSHI ($0.00) + 0.00 SPS ($0.00)
 Staking or unstaking also claims rewards.
 
-[WETH]-[BICO] SLP [+] [-] [<=>] Price: $244.40 TVL: $3,107,072.02
-WETH Price: $3,680.09
-BICO Price: $3.77
-Staked: 9026.6318 SLP ($2,206,108.42)
-SUSHI Per Week: 182.87 ($1,042.35)
-BICO Per Week: 5250.00 ($19,792.50)
-APR SUSHI: Day 0.01% Week 0.05% Year 2.46%
-APR BICO: Day 0.13% Week 0.90% Year 46.65%
-Total Per Week: $20,834.85
-Total APR: Day 0.1349% Week 0.94% Year 49.11%
+[WETH]-[BICO] SLP [+] [-] [<=>] Price: $143.63 TVL: $2,099,149.85
+WETH Price: $2,475.46
+BICO Price: $1.90
+Staked: 10926.5320 SLP ($1,569,393.19)
+SUSHI Per Week: 89.41 ($374.64)
+BICO Per Week: 5250.00 ($9,975.00)
+APR SUSHI: Day 0.00% Week 0.02% Year 1.24%
+APR BICO: Day 0.09% Week 0.64% Year 33.05%
+Total Per Week: $10,349.64
+Total APR: Day 0.0942% Week 0.66% Year 34.29%
 You are staking 0.00 [WETH]-[BICO] SLP ($0.00), 0.00% of the pool.
 Stake 0.00 [WETH]-[BICO] SLP
 Unstake 0.00 [WETH]-[BICO] SLP
 Claim 0.00 SUSHI ($0.00) + 0.00 BICO ($0.00)
 Staking or unstaking also claims rewards.
 
-Total Staked: $209,127,488.48
+[WXRP]-[USDC] SLP [+] [-] [<=>] Price: $1,565,186.21 TVL: $879,455.82
+WXRP Price: $0.61
+USDC Price: $1.00
+Staked: 0.5615 SLP ($878,895.85)
+SUSHI Per Week: 1192.17 ($4,995.18)
+WRAP Per Week: 9359.28 ($0.00)
+APR SUSHI: Day 0.08% Week 0.57% Year 29.55%
+APR WRAP: Day NaN% Week NaN% Year NaN%
+Total Per Week: $0.00
+Total APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [WXRP]-[USDC] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WXRP]-[USDC] SLP
+Unstake 0.00 [WXRP]-[USDC] SLP
+Claim 0.00 SUSHI ($0.00) + 0.00 WRAP ($0.00)
+Staking or unstaking also claims rewards.
+
+[WKDA]-[USDC] SLP [+] [-] [<=>] Price: $4,922,896.83 TVL: $312,528.82
+WKDA Price: $5.89
+USDC Price: $1.00
+Staked: 0.0633 SLP ($311,744.38)
+SUSHI Per Week: 298.04 ($1,248.80)
+WRAP Per Week: 9359.28 ($0.00)
+APR SUSHI: Day 0.06% Week 0.40% Year 20.83%
+APR WRAP: Day NaN% Week NaN% Year NaN%
+Total Per Week: $0.00
+Total APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [WKDA]-[USDC] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WKDA]-[USDC] SLP
+Unstake 0.00 [WKDA]-[USDC] SLP
+Claim 0.00 SUSHI ($0.00) + 0.00 WRAP ($0.00)
+Staking or unstaking also claims rewards.
+
+[WLTC]-[USDC] SLP [+] [-] [<=>] Price: $0.00 TVL: $0.00
+WLTC Price: $0.00
+USDC Price: $1.00
+Staked: 0.0000 SLP ($0.00)
+SUSHI Per Week: 1788.25 ($7,492.77)
+WRAP Per Week: 9359.28 ($0.00)
+APR SUSHI: Day NaN% Week NaN% Year NaN%
+APR WRAP: Day NaN% Week NaN% Year NaN%
+Total Per Week: $0.00
+Total APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [WLTC]-[USDC] SLP ($0.00), NaN% of the pool.
+Stake 0.00 [WLTC]-[USDC] SLP
+Unstake 0.00 [WLTC]-[USDC] SLP
+Claim 0.00 SUSHI ($0.00) + 0.00 WRAP ($0.00)
+Staking or unstaking also claims rewards.
+
+[WETH]-[VEGA] SLP [+] [-] [<=>] Price: $265.46 TVL: $1,740,896.97
+WETH Price: $2,475.46
+VEGA Price: $6.29
+Staked: 5267.9141 SLP ($1,398,396.17)
+SUSHI Per Week: 71.53 ($299.71)
+VEGA Per Week: 2943.99 ($18,517.70)
+APR SUSHI: Day 0.00% Week 0.02% Year 1.11%
+APR VEGA: Day 0.19% Week 1.32% Year 68.86%
+Total Per Week: $18,817.41
+Total APR: Day 0.1922% Week 1.35% Year 69.97%
+You are staking 0.00 [WETH]-[VEGA] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[VEGA] SLP
+Unstake 0.00 [WETH]-[VEGA] SLP
+Claim 0.00 SUSHI ($0.00) + 0.00 VEGA ($0.00)
+Staking or unstaking also claims rewards.
+
+[VITE]-[WETH] SLP [+] [-] [<=>] Price: $22.48 TVL: $713,053.52
+VITE Price: $0.05
+WETH Price: $2,475.46
+Staked: 31703.4641 SLP ($712,594.77)
+SUSHI Per Week: 11.92 ($49.95)
+VITE Per Week: 42336.00 ($2,133.57)
+APR SUSHI: Day 0.00% Week 0.01% Year 0.36%
+APR VITE: Day 0.04% Week 0.30% Year 15.57%
+Total Per Week: $2,183.52
+Total APR: Day 0.0438% Week 0.31% Year 15.93%
+You are staking 0.00 [VITE]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [VITE]-[WETH] SLP
+Unstake 0.00 [VITE]-[WETH] SLP
+Claim 0.00 SUSHI ($0.00) + 0.00 VITE ($0.00)
+Staking or unstaking also claims rewards.
+
+[gm]-[WETH] SLP [+] [-] [<=>] Price: $0.84 TVL: $895,516.11
+gm Price: $0.0000666600
+WETH Price: $2,475.46
+Staked: 196125.8796 SLP ($165,644.03)
+SUSHI Per Week: 29.80 ($124.88)
+gm Per Week: 161000000.00 ($10,732.26)
+APR SUSHI: Day 0.01% Week 0.08% Year 3.92%
+APR gm: Day 0.93% Week 6.48% Year 336.91%
+Total Per Week: $10,857.14
+Total APR: Day 0.9364% Week 6.55% Year 340.83%
+You are staking 0.00 [gm]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [gm]-[WETH] SLP
+Unstake 0.00 [gm]-[WETH] SLP
+Claim 0.00 SUSHI ($0.00) + 0.00 gm ($0.00)
+Staking or unstaking also claims rewards.
+
+[RADAR]-[WETH] SLP [+] [-] [<=>] Price: $18.27 TVL: $2,874,089.67
+RADAR Price: $0.03
+WETH Price: $2,475.46
+Staked: 149586.9352 SLP ($2,732,569.19)
+SUSHI Per Week: 268.24 ($1,123.92)
+RADAR Per Week: 5600000.00 ($145,902.68)
+APR SUSHI: Day 0.01% Week 0.04% Year 2.14%
+APR RADAR: Day 0.76% Week 5.34% Year 277.65%
+Total Per Week: $147,026.60
+Total APR: Day 0.7686% Week 5.38% Year 279.79%
+You are staking 0.00 [RADAR]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [RADAR]-[WETH] SLP
+Unstake 0.00 [RADAR]-[WETH] SLP
+Claim 0.00 SUSHI ($0.00) + 0.00 RADAR ($0.00)
+Staking or unstaking also claims rewards.
+
+[NEWO]-[USDC] SLP [+] [-] [<=>] Price: $869,593.87 TVL: $9,068,945.35
+NEWO Price: $0.18
+USDC Price: $1.00
+Staked: 0.0104 SLP ($9,053.00)
+SUSHI Per Week: 59.61 ($249.76)
+APR: Day 0.39% Week 2.76% Year 143.46%
+You are staking 0.00 [NEWO]-[USDC] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [NEWO]-[USDC] SLP
+Unstake 0.00 [NEWO]-[USDC] SLP
+Claim 0.00 SUSHI ($0.00)
+Staking or unstaking also claims rewards.
+
+[GET]-[WETH] SLP [+] [-] [<=>] Price: $132.87 TVL: $1,092,277.96
+GET Price: $1.76
+WETH Price: $2,475.46
+Staked: 847.7654 SLP ($112,642.84)
+SUSHI Per Week: 29.80 ($124.88)
+APR: Day 0.02% Week 0.11% Year 5.76%
+You are staking 0.00 [GET]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [GET]-[WETH] SLP
+Unstake 0.00 [GET]-[WETH] SLP
+Claim 0.00 SUSHI ($0.00)
+Staking or unstaking also claims rewards.
+
+[SOS]-[WETH] SLP [+] [-] [<=>] Price: $2.68 TVL: $6,836,418.25
+SOS Price: $0.0000018100
+WETH Price: $2,475.46
+Staked: 2475954.5798 SLP ($6,639,824.02)
+SUSHI Per Week: 298.04 ($1,248.80)
+SOS Per Week: 105000000000.00 ($190,050.00)
+APR SUSHI: Day 0.00% Week 0.02% Year 0.98%
+APR SOS: Day 0.41% Week 2.86% Year 148.84%
+Total Per Week: $191,298.80
+Total APR: Day 0.4116% Week 2.88% Year 149.82%
+You are staking 0.00 [SOS]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [SOS]-[WETH] SLP
+Unstake 0.00 [SOS]-[WETH] SLP
+Claim 0.00 SUSHI ($0.00) + 0.00 SOS ($0.00)
+Staking or unstaking also claims rewards.
+
+[LYRA]-[WETH] SLP [+] [-] [<=>] Price: $50.91 TVL: $2,023,490.72
+LYRA Price: $0.26
+WETH Price: $2,475.46
+Staked: 35885.3609 SLP ($1,827,008.04)
+SUSHI Per Week: 59.61 ($249.76)
+LYRA Per Week: 231000.00 ($59,737.06)
+APR SUSHI: Day 0.00% Week 0.01% Year 0.71%
+APR LYRA: Day 0.47% Week 3.27% Year 170.02%
+Total Per Week: $59,986.82
+Total APR: Day 0.4690% Week 3.28% Year 170.73%
+You are staking 0.00 [LYRA]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [LYRA]-[WETH] SLP
+Unstake 0.00 [LYRA]-[WETH] SLP
+Claim 0.00 SUSHI ($0.00) + 0.00 LYRA ($0.00)
+Staking or unstaking also claims rewards.
+
+[GAS]-[WETH] SLP [+] [-] [<=>] Price: $0.56 TVL: $287,888.76
+GAS Price: $0.0000192900
+WETH Price: $2,475.46
+Staked: 495958.6895 SLP ($279,943.25)
+SUSHI Per Week: 29.80 ($124.88)
+GAS Per Week: 1149120000.00 ($22,166.52)
+APR SUSHI: Day 0.01% Week 0.04% Year 2.32%
+APR GAS: Day 1.13% Week 7.92% Year 411.75%
+Total Per Week: $22,291.40
+Total APR: Day 1.1375% Week 7.96% Year 414.07%
+You are staking 0.00 [GAS]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [GAS]-[WETH] SLP
+Unstake 0.00 [GAS]-[WETH] SLP
+Claim 0.00 SUSHI ($0.00) + 0.00 GAS ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $144,874,854.66

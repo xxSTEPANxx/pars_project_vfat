@@ -1,0 +1,353 @@
+*************** 👨‍🌾 UNOFFICIAL HALVAR FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://www.halvar.farmwiki.xyz
+***************************************************************************
+
+Thu Jan 27 2022 21:16:30 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 30 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [HALVAR]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.05 TVL: $42.46
+HALVAR Price: $0.000446
+BUSD Price: $1.00
+Staked: 529.3515 Cake-LP ($25.91)
+HALVAR Per Week: 1638.55 ($0.73)
+APR: Day 0.40% Week 2.82% Year 146.51%
+You are staking 0.00 [HALVAR]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [HALVAR]-[BUSD] Cake LP
+Unstake 0.00 [HALVAR]-[BUSD] Cake LP
+Claim 0.00 HALVAR ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WBNB]-[HALVAR] Cake LP [+] [-] [<=>] Price: $0.94 TVL: $37.54
+WBNB Price: $368.08
+HALVAR Price: $0.000446
+Staked: 14.1027 Cake-LP ($13.27)
+HALVAR Per Week: 1462.99 ($0.65)
+APR: Day 0.70% Week 4.91% Year 255.49%
+You are staking 0.00 [WBNB]-[HALVAR] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[HALVAR] Cake LP
+Unstake 0.00 [WBNB]-[HALVAR] Cake LP
+Claim 0.00 HALVAR ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - HALVAR Price: $0.000446 Market Cap: $264.23 [%]
+Staked: 111337.9059 HALVAR ($49.61)
+HALVAR Per Week: 1462.99 ($0.65)
+APR: Day 0.19% Week 1.31% Year 68.33%
+You are staking 0.00 HALVAR ($0.00), 0.00% of the pool.
+Stake 0.00 HALVAR
+Unstake 0.00 HALVAR
+Claim 0.00 HALVAR ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.40 TVL: $345,834,805.22
+WBNB Price: $368.08
+BUSD Price: $1.00
+Staked: 0.0788 Cake-LP ($3.74)
+HALVAR Per Week: 131.67 ($0.06)
+APR: Day 0.22% Week 1.57% Year 81.64%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 HALVAR ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDT]-[WBNB] Cake LP [+] [-] [<=>] Price: $48.67 TVL: $190,165,615.89
+USDT Price: $1.00
+WBNB Price: $368.08
+Staked: 0.2377 Cake-LP ($11.57)
+HALVAR Per Week: 117.04 ($0.05)
+APR: Day 0.06% Week 0.45% Year 23.44%
+You are staking 0.00 [USDT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[WBNB] Cake LP
+Claim 0.00 HALVAR ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $7,729.67 TVL: $68,356,082.79
+BTCB Price: $36,165.00
+WBNB Price: $368.08
+Staked: 0.0000 Cake-LP ($0.08)
+HALVAR Per Week: 102.41 ($0.05)
+APR: Day 8.43% Week 59.03% Year 3069.71%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 HALVAR ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,035.55 TVL: $74,159,343.02
+ETH Price: $2,437.15
+WBNB Price: $368.08
+Staked: 0.0000 Cake-LP ($0.00)
+HALVAR Per Week: 102.41 ($0.05)
+APR: Day 64048067835714.44% Week 448336474850001.06% Year 23313496692200056.00%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 HALVAR ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $105.06 TVL: $200,017,389.45
+Cake Price: $6.95
+WBNB Price: $368.08
+Staked: 0.0000 Cake-LP ($0.00)
+HALVAR Per Week: 87.78 ($0.04)
+APR: Day 1063683325768833.25% Week 7445783280381833.00% Year 387180730579855296.00%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 HALVAR ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [DOT]-[WBNB] Cake LP [+] [-] [<=>] Price: $172.57 TVL: $17,715,850.88
+DOT Price: $17.97
+WBNB Price: $368.08
+Staked: 0.0362 Cake-LP ($6.25)
+HALVAR Per Week: 87.78 ($0.04)
+APR: Day 0.09% Week 0.63% Year 32.55%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 HALVAR ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [ADA]-[WBNB] Cake LP [+] [-] [<=>] Price: $42.28 TVL: $12,072,343.50
+ADA Price: $1.03
+WBNB Price: $368.08
+Staked: 0.0000 Cake-LP ($0.00)
+HALVAR Per Week: 87.78 ($0.04)
+APR: Day 2202790941276004.75% Week 15419536588932034.00% Year 801815902624465792.00%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 HALVAR ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [WBNB]-[LINK] Cake LP [+] [-] [<=>] Price: $155.78 TVL: $10,362,668.65
+WBNB Price: $368.08
+LINK Price: $15.01
+Staked: 0.0261 Cake-LP ($4.06)
+HALVAR Per Week: 87.78 ($0.04)
+APR: Day 0.14% Week 0.96% Year 50.10%
+You are staking 0.00 [WBNB]-[LINK] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[LINK] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[LINK] Cake LP
+Claim 0.00 HALVAR ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [WBNB]-[UNI] Cake LP [+] [-] [<=>] Price: $129.64 TVL: $6,847,127.33
+WBNB Price: $368.08
+UNI Price: $10.64
+Staked: 0.0000 Cake-LP ($0.00)
+HALVAR Per Week: 87.78 ($0.04)
+APR: Day 1077481802205297.25% Week 7542372615437081.00% Year 392203376002728192.00%
+You are staking 0.00 [WBNB]-[UNI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[UNI] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[UNI] Cake LP
+Claim 0.00 HALVAR ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [DAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.08 TVL: $16,841,507.93
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+HALVAR Per Week: 73.15 ($0.03)
+APR: Day 47322.41% Week 331256.87% Year 17225357.38%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 HALVAR ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $131,283,687.12
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+HALVAR Per Week: 73.15 ($0.03)
+APR: Day 47723.01% Week 334061.06% Year 17371174.93%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 HALVAR ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $296,774,852.31
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0001 Cake-LP ($0.00)
+HALVAR Per Week: 73.15 ($0.03)
+APR: Day 2224.89% Week 15574.23% Year 809860.13%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 HALVAR ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - BUSD Price: $1.00 Market Cap: $4,843,121,365.62 [%]
+Staked: 1.9200 BUSD ($1.92)
+HALVAR Per Week: 58.52 ($0.03)
+APR: Day 0.19% Week 1.36% Year 70.73%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 HALVAR ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - USDT Price: $1.00 Market Cap: $3,873,626,965.59 [%]
+Staked: 12.4800 USDT ($12.46)
+HALVAR Per Week: 58.52 ($0.03)
+APR: Day 0.03% Week 0.21% Year 10.88%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 HALVAR ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - WBNB Price: $368.08 Market Cap: $1,920,946,495.75 [%]
+Staked: 0.0634 WBNB ($23.32)
+HALVAR Per Week: 102.41 ($0.05)
+APR: Day 0.03% Week 0.20% Year 10.17%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 HALVAR ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - BTCB Price: $36,165.00 Market Cap: $4,068,598,665.00 [%]
+Staked: 0.0002 BTCB ($8.79)
+HALVAR Per Week: 73.15 ($0.03)
+APR: Day 0.05% Week 0.37% Year 19.28%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 HALVAR ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - ETH Price: $2,437.15 Market Cap: $3,424,195,750.00 [%]
+Staked: 0.0033 ETH ($8.11)
+HALVAR Per Week: 73.15 ($0.03)
+APR: Day 0.06% Week 0.40% Year 20.90%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 HALVAR ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - Cake Price: $6.95 Market Cap: $4,273,990,879.98 [%]
+Staked: 0.4881 Cake ($3.39)
+HALVAR Per Week: 73.15 ($0.03)
+APR: Day 0.14% Week 0.96% Year 49.96%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 HALVAR ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - [sWIKI]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.86 TVL: $122.05
+sWIKI Price: $0.17
+BUSD Price: $1.00
+Staked: 8.3367 Cake-LP ($7.19)
+HALVAR Per Week: 438.90 ($0.20)
+APR: Day 0.39% Week 2.72% Year 141.37%
+You are staking 0.00 [sWIKI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [sWIKI]-[BUSD] Cake LP - Fee 1%
+Unstake 0.00 [sWIKI]-[BUSD] Cake LP
+Claim 0.00 HALVAR ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - [WIKI]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.02 TVL: $82.45
+WIKI Price: $0.0000892051
+BUSD Price: $1.00
+Staked: 19.4795 Cake-LP ($0.41)
+HALVAR Per Week: 438.90 ($0.20)
+APR: Day 6.85% Week 47.95% Year 2493.15%
+You are staking 0.00 [WIKI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WIKI]-[BUSD] Cake LP - Fee 1%
+Unstake 0.00 [WIKI]-[BUSD] Cake LP
+Claim 0.00 HALVAR ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [WIKI]-[WBNB] Cake LP [+] [-] [<=>] Price: $0.39 TVL: $25.14
+WIKI Price: $0.0000892051
+WBNB Price: $368.08
+Staked: 4.5443 Cake-LP ($1.78)
+HALVAR Per Week: 351.12 ($0.16)
+APR: Day 1.26% Week 8.80% Year 457.57%
+You are staking 0.00 [WIKI]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WIKI]-[WBNB] Cake LP - Fee 1%
+Unstake 0.00 [WIKI]-[WBNB] Cake LP
+Claim 0.00 HALVAR ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - sWIKI Price: $0.17 Market Cap: $330.91 [%]
+Staked: 27.6730 sWIKI ($4.58)
+HALVAR Per Week: 351.12 ($0.16)
+APR: Day 0.49% Week 3.42% Year 177.68%
+You are staking 0.00 sWIKI ($0.00), 0.00% of the pool.
+Stake 0.00 sWIKI - Fee 1%
+Unstake 0.00 sWIKI
+Claim 0.00 HALVAR ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - WIKI Price: $0.0000892051 Market Cap: $124.11 [%]
+Staked: 16107.2697 WIKI ($1.44)
+HALVAR Per Week: 292.60 ($0.13)
+APR: Day 1.30% Week 9.07% Year 471.82%
+You are staking 0.00 WIKI ($0.00), 0.00% of the pool.
+Stake 0.00 WIKI - Fee 1%
+Unstake 0.00 WIKI
+Claim 0.00 HALVAR ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - [BTCB]-[HALVAR] Cake LP [+] [-] [<=>] Price: $8.65 TVL: $8.23
+BTCB Price: $36,165.00
+HALVAR Price: $0.000446
+Staked: 0.9382 Cake-LP ($8.12)
+HALVAR Per Week: 936.31 ($0.42)
+APR: Day 0.73% Week 5.14% Year 267.19%
+You are staking 0.00 [BTCB]-[HALVAR] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[HALVAR] Cake LP - Fee 1%
+Unstake 0.00 [BTCB]-[HALVAR] Cake LP
+Claim 0.00 HALVAR ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - [ETH]-[HALVAR] Cake LP [+] [-] [<=>] Price: $2.29 TVL: $5.71
+ETH Price: $2,437.15
+HALVAR Price: $0.000446
+Staked: 2.4046 Cake-LP ($5.51)
+HALVAR Per Week: 936.31 ($0.42)
+APR: Day 1.08% Week 7.57% Year 393.46%
+You are staking 0.00 [ETH]-[HALVAR] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[HALVAR] Cake LP - Fee 1%
+Unstake 0.00 [ETH]-[HALVAR] Cake LP
+Claim 0.00 HALVAR ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - FOX Price: $0.00 Market Cap: $0.00 
+Staked: 1200251513.1675 FOX ($0.00)
+HALVAR Per Week: 131.67 ($0.06)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FOX ($0.00), NaN% of the pool.
+Stake 0.00 FOX - Fee 5%
+Unstake 0.00 FOX
+Claim 0.00 HALVAR ($0.00)
+Staking or unstaking also claims rewards.
+
+29 - SCORGI Price: $0.00 Market Cap: $0.00 
+Staked: 22873698997.1950 SCORGI ($0.00)
+HALVAR Per Week: 87.78 ($0.04)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SCORGI ($0.00), NaN% of the pool.
+Stake 0.00 SCORGI - Fee 5%
+Unstake 0.00 SCORGI
+Claim 0.00 HALVAR ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $201.50

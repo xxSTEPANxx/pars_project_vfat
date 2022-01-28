@@ -1,0 +1,159 @@
+*************** 👨‍🌾 UNOFFICIAL BULLRUN.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://fantom.bullrun.finance
+************************************************************************************
+
+Fri Jan 28 2022 00:37:38 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 13 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - BULL Price: $0.0000944962 Market Cap: $3,906.51 
+Staked: 13381576.6999 BULL ($1,264.51)
+BULL Per Week: 150528.00 ($14.22)
+APR: Day 0.16% Week 1.12% Year 58.49%
+You are staking 0.00 BULL ($0.00), 0.00% of the pool.
+Stake 0.00 BULL
+Unstake 0.00 BULL
+Claim 0.00 BULL ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - WFTM Price: $2.02 Market Cap: $1,459,775,813.33 
+Staked: 29.7600 WFTM ($60.12)
+BULL Per Week: 75264.00 ($7.11)
+APR: Day 1.69% Week 11.83% Year 615.21%
+You are staking 0.00 WFTM ($0.00), 0.00% of the pool.
+Stake 0.00 WFTM - Fee 4%
+Unstake 0.00 WFTM
+Claim 0.00 BULL ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - BOO Price: $25.18 Market Cap: $212,444,264.41 
+Staked: 20.7243 BOO ($521.84)
+BULL Per Week: 75264.00 ($7.11)
+APR: Day 0.19% Week 1.36% Year 70.87%
+You are staking 0.00 BOO ($0.00), 0.00% of the pool.
+Stake 0.00 BOO - Fee 4%
+Unstake 0.00 BOO
+Claim 0.00 BULL ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - BTC Price: $35,902.00 Market Cap: $617,758,754.74 
+Staked: 0.0060 BTC ($214.17)
+BULL Per Week: 75264.00 ($7.11)
+APR: Day 0.47% Week 3.32% Year 172.68%
+You are staking 0.00 BTC ($0.00), 0.00% of the pool.
+Stake 0.00 BTC - Fee 4%
+Unstake 0.00 BTC
+Claim 0.00 BULL ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - ETH Price: $2,345.85 Market Cap: $1,119,206,339.30 
+Staked: 0.0007 ETH ($1.71)
+BULL Per Week: 75264.00 ($7.11)
+APR: Day 59.36% Week 415.52% Year 21606.98%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 BULL ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - USDC Price: $1.00 Market Cap: $1,732,283,660.60 
+Staked: 0.2134 USDC ($0.21)
+BULL Per Week: 37632.00 ($3.56)
+APR: Day 238.02% Week 1666.13% Year 86638.99%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 BULL ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [WFTM]-[BULL] SPOOKY LP [+] [-] [<=>] Price: $0.03 TVL: $3,109.97
+WFTM Price: $2.02
+BULL Price: $0.0000944962
+Staked: 10513.0512 spLP ($303.62)
+BULL Per Week: 301056.00 ($28.45)
+APR: Day 1.34% Week 9.37% Year 487.22%
+You are staking 0.00 [WFTM]-[BULL] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BULL] SPOOKY LP
+Unstake 0.00 [WFTM]-[BULL] SPOOKY LP
+Claim 0.00 BULL ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [USDC]-[BULL] SPOOKY LP [+] [-] [<=>] Price: $28,433.18 TVL: $306.35
+USDC Price: $1.00
+BULL Price: $0.0000944962
+Staked: 0.0104 spLP ($294.39)
+BULL Per Week: 301056.00 ($28.45)
+APR: Day 1.38% Week 9.66% Year 502.50%
+You are staking 0.00 [USDC]-[BULL] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BULL] SPOOKY LP
+Unstake 0.00 [USDC]-[BULL] SPOOKY LP
+Claim 0.00 BULL ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [BOO]-[BULL] SPOOKY LP [+] [-] [<=>] Price: $0.13 TVL: $403.70
+BOO Price: $25.18
+BULL Price: $0.0000944962
+Staked: 3173.4510 spLP ($402.73)
+BULL Per Week: 301056.00 ($28.45)
+APR: Day 1.01% Week 7.06% Year 367.32%
+You are staking 0.00 [BOO]-[BULL] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BOO]-[BULL] SPOOKY LP
+Unstake 0.00 [BOO]-[BULL] SPOOKY LP
+Claim 0.00 BULL ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [USDC]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $4,352,034.36 TVL: $167,770,531.32
+USDC Price: $1.00
+WFTM Price: $2.02
+Staked: 0.0000 spLP ($0.76)
+BULL Per Week: 75264.00 ($7.11)
+APR: Day 133.88% Week 937.19% Year 48733.72%
+You are staking 0.00 [USDC]-[WFTM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WFTM] SPOOKY LP - Fee 4%
+Unstake 0.00 [USDC]-[WFTM] SPOOKY LP
+Claim 0.00 BULL ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [fUSDT]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $3,774,735.26 TVL: $37,079,590.70
+fUSDT Price: $1.00
+WFTM Price: $2.02
+Staked: 0.0000 spLP ($157.76)
+BULL Per Week: 75264.00 ($7.11)
+APR: Day 0.64% Week 4.51% Year 234.43%
+You are staking 0.00 [fUSDT]-[WFTM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [fUSDT]-[WFTM] SPOOKY LP - Fee 4%
+Unstake 0.00 [fUSDT]-[WFTM] SPOOKY LP
+Claim 0.00 BULL ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [WFTM]-[ETH] SPOOKY LP [+] [-] [<=>] Price: $156.41 TVL: $42,411,092.35
+WFTM Price: $2.02
+ETH Price: $2,345.85
+Staked: 3.3945 spLP ($530.94)
+BULL Per Week: 75264.00 ($7.11)
+APR: Day 0.19% Week 1.34% Year 69.66%
+You are staking 0.00 [WFTM]-[ETH] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ETH] SPOOKY LP - Fee 4%
+Unstake 0.00 [WFTM]-[ETH] SPOOKY LP
+Claim 0.00 BULL ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [WFTM]-[BTC] SPOOKY LP [+] [-] [<=>] Price: $11,245,102,090.87 TVL: $21,778,358.18
+WFTM Price: $2.02
+BTC Price: $35,902.00
+Staked: 0.0000 spLP ($421.04)
+BULL Per Week: 75264.00 ($7.11)
+APR: Day 0.24% Week 1.69% Year 87.84%
+You are staking 0.00 [WFTM]-[BTC] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BTC] SPOOKY LP - Fee 4%
+Unstake 0.00 [WFTM]-[BTC] SPOOKY LP
+Claim 0.00 BULL ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $4,173.81

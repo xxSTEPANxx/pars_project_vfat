@@ -8,115 +8,20 @@ INFO  : https://polybutterfly.finance
 
 The project has closed please do not deposit
 
-Fri Dec 17 2021 09:44:20 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 22:19:44 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
+Staking Contract
 Found 10 pools.
 Showing incentivized pools only.
-Finished reading smart contracts.
-0 - [USDC]-[POLLEN] Uni LP [+] [-] [<=>] Price: $2,090.38 TVL: $0.89
-USDC Price: $1.00
-POLLEN Price: $0.0000009980
-Staked: 0.0000 UNI-V2 ($0.01)
-POLLEN Per Week: 721728.00 ($0.72)
-APR: Day 914.04% Week 6398.25% Year 332708.78%
-You are staking 0.00 [USDC]-[POLLEN] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[POLLEN] Uni LP
-Unstake 0.00 [USDC]-[POLLEN] Uni LP
-Claim 0.00 POLLEN ($0.00)
-Staking or unstaking also claims rewards.
-
-1 - POLLEN Price: $0.0000009980 Market Cap: $8.31 [%]
-Staked: 6811638.0128 POLLEN ($6.80)
-POLLEN Per Week: 494899.20 ($0.49)
-APR: Day 1.04% Week 7.27% Year 377.81%
-You are staking 0.00 POLLEN ($0.00), 0.00% of the pool.
-Stake 0.00 POLLEN
-Unstake 0.00 POLLEN
-Claim 0.00 POLLEN ($0.00)
-Staking or unstaking also claims rewards.
-
-2 - WMATIC Price: $2.08 Market Cap: $633,900,317.00 [%]
-Staked: 0.0000 WMATIC ($0.00)
-POLLEN Per Week: 206208.00 ($0.21)
-APR: Day 1413405797207572736.00% Week 9893840580453009408.00% Year 514479710183556513792.00%
-You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
-Stake 0.00 WMATIC
-Unstake 0.00 WMATIC
-Claim 0.00 POLLEN ($0.00)
-Staking or unstaking also claims rewards.
-
-3 - WETH Price: $3,948.61 Market Cap: $1,753,035,858.12 [%]
-Staked: 0.0000 WETH ($0.00)
-POLLEN Per Week: 206208.00 ($0.21)
-APR: Day Infinity% Week Infinity% Year Infinity%
-You are staking 0.00 WETH ($0.00), NaN% of the pool.
-Stake 0.00 WETH
-Unstake 0.00 WETH
-Claim 0.00 POLLEN ($0.00)
-Staking or unstaking also claims rewards.
-
-4 - WBTC Price: $47,535.00 Market Cap: $479,638,085.19 [%]
-Staked: 0.0002 WBTC ($7.53)
-POLLEN Per Week: 82483.20 ($0.08)
-APR: Day 0.16% Week 1.09% Year 56.82%
-You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
-Stake 0.00 WBTC
-Unstake 0.00 WBTC
-Claim 0.00 POLLEN ($0.00)
-Staking or unstaking also claims rewards.
-
-5 - USDT Price: $1.00 Market Cap: $318,730,138.11 [%]
-Staked: 0.9830 USDT ($0.98)
-POLLEN Per Week: 82483.20 ($0.08)
-APR: Day 1.20% Week 8.40% Year 436.85%
-You are staking 0.00 USDT ($0.00), 0.00% of the pool.
-Stake 0.00 USDT
-Unstake 0.00 USDT
-Claim 0.00 POLLEN ($0.00)
-Staking or unstaking also claims rewards.
-
-6 - USDC Price: $1.00 Market Cap: $951,771,601.00 [%]
-Staked: 0.0000 USDC ($0.00)
-POLLEN Per Week: 82483.20 ($0.08)
-APR: Day 42017.00% Week 294118.99% Year 15294187.72%
-You are staking 0.00 USDC ($0.00), 0.00% of the pool.
-Stake 0.00 USDC
-Unstake 0.00 USDC
-Claim 0.00 POLLEN ($0.00)
-Staking or unstaking also claims rewards.
-
-7 - DAI Price: $1.00 Market Cap: $367,647,843.61 [%]
-Staked: 0.5563 DAI ($0.56)
-POLLEN Per Week: 82483.20 ($0.08)
-APR: Day 2.11% Week 14.80% Year 769.46%
-You are staking 0.00 DAI ($0.00), 0.00% of the pool.
-Stake 0.00 DAI
-Unstake 0.00 DAI
-Claim 0.00 POLLEN ($0.00)
-Staking or unstaking also claims rewards.
-
-8 - QUICK Price: $244.64 Market Cap: $233,762,916.96 [%]
-Staked: 0.0018 QUICK ($0.44)
-POLLEN Per Week: 51552.00 ($0.05)
-APR: Day 1.66% Week 11.64% Year 605.24%
-You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
-Stake 0.00 QUICK
-Unstake 0.00 QUICK
-Claim 0.00 POLLEN ($0.00)
-Staking or unstaking also claims rewards.
-
-9 - GEN Price: $0.00 Market Cap: $0.00 
-Staked: 0.0007 GEN ($0.00)
-POLLEN Per Week: 51552.00 ($0.05)
-APR: Day NaN% Week NaN% Year NaN%
-You are staking 0.00 GEN ($0.00), NaN% of the pool.
-Stake 0.00 GEN
-Unstake 0.00 GEN
-Claim 0.00 POLLEN ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $16.32
+{
+  "code": -32603,
+  "message": "Non-200 status code: '400'",
+  "data": {
+    "error": "Unable to verify your data submission."
+  }
+}
+Oops something went wrong. Try refreshing the page.

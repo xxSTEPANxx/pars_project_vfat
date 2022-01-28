@@ -1,0 +1,127 @@
+*************** 👨‍🌾 UNOFFICIAL EGGPLANT FARMING CALCULATOR 👨‍🌾 *****************
+INFO  : https://mushrooms.finance
+*******************************************************************************
+
+Thu Jan 27 2022 20:58:33 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 11 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - MM Price: $1.52 Market Cap: $71,657.50 [%]
+Staked: 10400.8519 MM ($15,764.31)
+MM Per Week: 2.08 ($3.15)
+APR: Day 0.00% Week 0.02% Year 1.04%
+You are staking 0.00 MM ($0.00), 0.00% of the pool.
+Stake 0.00 MM
+Unstake 0.00 MM
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [MM]-[WBNB] Cake LP [+] [-] [<=>] Price: $48.15 TVL: $56,393.27
+MM Price: $1.52
+WBNB Price: $368.93
+Staked: 74.2507 Cake-LP ($3,574.81)
+MM Per Week: 14.13 ($21.41)
+APR: Day 0.09% Week 0.60% Year 31.15%
+You are staking 0.00 [MM]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MM]-[WBNB] Cake LP
+Unstake 0.00 [MM]-[WBNB] Cake LP
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - mBTCB Price: $0.00 Market Cap: $0.00 
+Staked: 0.2458 mBTCB ($0.00)
+MM Per Week: 8.31 ($12.60)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 mBTCB ($0.00), NaN% of the pool.
+Stake 0.00 mBTCB
+Unstake 0.00 mBTCB
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - mBUSD (Wrapped BUSD Token) Price: $1.07 TVL: $13,703.04
+Staked: 3489.9085 mBUSD ($3,720.19)
+MM Per Week: 8.31 ($12.60)
+APR: Day 0.05% Week 0.34% Year 17.61%
+You are staking 0.00 mBUSD ($0.00), 0.00% of the pool.
+Stake 0.00 mBUSD
+Unstake 0.00 mBUSD
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - mEPS (Wrapped Ellipsis) Price: $0.16 TVL: $7,417.84
+Staked: 47065.9722 mEPS ($7,319.01)
+MM Per Week: 2.33 ($3.53)
+APR: Day 0.01% Week 0.05% Year 2.51%
+You are staking 0.00 mEPS ($0.00), 0.00% of the pool.
+Stake 0.00 mEPS
+Unstake 0.00 mEPS
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - mlowb (Wrapped loser coin) Price: $0.00 TVL: $0.00
+Staked: 16249007.9025 mlowb ($0.00)
+MM Per Week: 0.08 ($0.13)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 mlowb ($0.00), NaN% of the pool.
+Stake 0.00 mlowb
+Unstake 0.00 mlowb
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - mCake-LP (Wrapped [USDT]-[lowb] Cake LP) Price: $0.04 TVL: $2,262.80
+Staked: 11109.9738 mCake-LP ($425.07)
+MM Per Week: 0.08 ($0.13)
+APR: Day 0.00% Week 0.03% Year 1.54%
+You are staking 0.00 mCake-LP ($0.00), 0.00% of the pool.
+Stake 0.00 mCake-LP
+Unstake 0.00 mCake-LP
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - mCake (Wrapped PancakeSwap Token) Price: $8.63 TVL: $433.47
+Staked: 8.7150 mCake ($75.22)
+MM Per Week: 2.08 ($3.15)
+APR: Day 0.60% Week 4.19% Year 217.69%
+You are staking 0.00 mCake ($0.00), 0.00% of the pool.
+Stake 0.00 mCake
+Unstake 0.00 mCake
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - mXVS (Wrapped Venus) Price: $8.21 TVL: $455.31
+Staked: 52.8613 mXVS ($433.98)
+MM Per Week: 0.42 ($0.63)
+APR: Day 0.02% Week 0.15% Year 7.55%
+You are staking 0.00 mXVS ($0.00), 0.00% of the pool.
+Stake 0.00 mXVS
+Unstake 0.00 mXVS
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - mALPACA (Wrapped AlpacaToken) Price: $0.00 TVL: $265.25
+Staked: 280911.8868 mALPACA ($265.25)
+MM Per Week: 1.66 ($2.52)
+APR: Day 0.14% Week 0.95% Year 49.39%
+You are staking 0.00 mALPACA ($0.00), 0.00% of the pool.
+Stake 0.00 mALPACA
+Unstake 0.00 mALPACA
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - mWBNB (Wrapped Wrapped BNB) Price: $377.10 TVL: $463.78
+Staked: 0.6638 mWBNB ($250.32)
+MM Per Week: 2.08 ($3.15)
+APR: Day 0.18% Week 1.26% Year 65.42%
+You are staking 0.00 mWBNB ($0.00), 0.00% of the pool.
+Stake 0.00 mWBNB
+Unstake 0.00 mWBNB
+Claim 0.00 MM ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $31,828.16

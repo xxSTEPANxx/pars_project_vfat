@@ -1,0 +1,261 @@
+*************** 👨‍🌾 UNOFFICIAL DEFILY FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://defily.io/
+*************************************************************************
+
+Thu Jan 27 2022 21:37:27 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 22 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [WBNB]-[DFL] Cake LP [+] [-] [<=>] Price: $1.57 TVL: $39,158.01
+WBNB Price: $368.50
+DFL Price: $0.001461
+Staked: 5732.4820 Cake-LP ($8,987.45)
+DFL Per Week: 60220.23 ($87.99)
+APR: Day 0.14% Week 0.98% Year 50.91%
+You are staking 0.00 [WBNB]-[DFL] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[DFL] Cake LP
+Unstake 0.00 [WBNB]-[DFL] Cake LP
+Claim 0.00 DFL ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - DRAGON Price: $0.00 Market Cap: $0.00 
+Staked: 10745744.5691 DRAGON ($0.00)
+DFL Per Week: 30110.12 ($43.99)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 DRAGON ($0.00), NaN% of the pool.
+Stake 0.00 DRAGON
+Unstake 0.00 DRAGON
+Claim 0.00 DFL ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [KAI]-[WBNB] Cake LP [+] [-] [<=>] Price: $9.01 TVL: $186,880.99
+KAI Price: $0.04
+WBNB Price: $368.50
+Staked: 1.1941 Cake-LP ($10.76)
+DFL Per Week: 150.55 ($0.22)
+APR: Day 0.29% Week 2.05% Year 106.35%
+You are staking 0.00 [KAI]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KAI]-[WBNB] Cake LP
+Unstake 0.00 [KAI]-[WBNB] Cake LP
+Claim 0.00 DFL ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [LPDi]-[WBNB] Cake LP [+] [-] [<=>] Price: $4.69 TVL: $9,427.84
+LPDi Price: $0.01
+WBNB Price: $368.50
+Staked: 102.8944 Cake-LP ($482.81)
+DFL Per Week: 150.55 ($0.22)
+APR: Day 0.01% Week 0.05% Year 2.37%
+You are staking 0.00 [LPDi]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LPDi]-[WBNB] Cake LP
+Unstake 0.00 [LPDi]-[WBNB] Cake LP
+Claim 0.00 DFL ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [DFL]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.08 TVL: $1,454.19
+DFL Price: $0.001461
+BUSD Price: $1.00
+Staked: 17856.4078 Cake-LP ($1,399.76)
+DFL Per Week: 15055.06 ($22.00)
+APR: Day 0.22% Week 1.57% Year 81.72%
+You are staking 0.00 [DFL]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DFL]-[BUSD] Cake LP
+Unstake 0.00 [DFL]-[BUSD] Cake LP
+Claim 0.00 DFL ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [DFL]-[DPET] Cake LP [+] [-] [<=>] Price: $0.05 TVL: $621.33
+DFL Price: $0.001461
+DPET Price: $0.40
+Staked: 12243.8593 Cake-LP ($605.90)
+DFL Per Week: 7527.53 ($11.00)
+APR: Day 0.26% Week 1.82% Year 94.39%
+You are staking 0.00 [DFL]-[DPET] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DFL]-[DPET] Cake LP
+Unstake 0.00 [DFL]-[DPET] Cake LP
+Claim 0.00 DFL ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [KAI]-[DFL] Cake LP [+] [-] [<=>] Price: $0.02 TVL: $2,137.31
+KAI Price: $0.04
+DFL Price: $0.001461
+Staked: 130554.4192 Cake-LP ($2,087.68)
+DFL Per Week: 7527.53 ($11.00)
+APR: Day 0.08% Week 0.53% Year 27.40%
+You are staking 0.00 [KAI]-[DFL] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KAI]-[DFL] Cake LP
+Unstake 0.00 [KAI]-[DFL] Cake LP
+Claim 0.00 DFL ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [BTCB]-[DFL] Cake LP [+] [-] [<=>] Price: $14.74 TVL: $2,190.49
+BTCB Price: $36,105.00
+DFL Price: $0.001461
+Staked: 145.5500 Cake-LP ($2,145.85)
+DFL Per Week: 15055.06 ($22.00)
+APR: Day 0.15% Week 1.03% Year 53.31%
+You are staking 0.00 [BTCB]-[DFL] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[DFL] Cake LP
+Unstake 0.00 [BTCB]-[DFL] Cake LP
+Claim 0.00 DFL ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [ETH]-[DFL] Cake LP [+] [-] [<=>] Price: $3.82 TVL: $1,935.86
+ETH Price: $2,415.14
+DFL Price: $0.001461
+Staked: 496.2204 Cake-LP ($1,895.88)
+DFL Per Week: 15055.06 ($22.00)
+APR: Day 0.17% Week 1.16% Year 60.33%
+You are staking 0.00 [ETH]-[DFL] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[DFL] Cake LP
+Unstake 0.00 [ETH]-[DFL] Cake LP
+Claim 0.00 DFL ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [WBNB]-[DFL] Uni LP [+] [-] [<=>] Price: $1.51 TVL: $3,710.27
+WBNB Price: $368.50
+DFL Price: $0.001461
+Staked: 2366.5723 WINGS-LP ($3,572.79)
+DFL Per Week: 45165.18 ($65.99)
+APR: Day 0.26% Week 1.85% Year 96.05%
+You are staking 0.00 [WBNB]-[DFL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[DFL] Uni LP
+Unstake 0.00 [WBNB]-[DFL] Uni LP
+Claim 0.00 DFL ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [WINGS]-[DFL] Uni LP [+] [-] [<=>] Price: $0.01 TVL: $456.84
+WINGS Price: $0.02
+DFL Price: $0.001461
+Staked: 41015.4018 WINGS-LP ($444.03)
+DFL Per Week: 7527.53 ($11.00)
+APR: Day 0.35% Week 2.48% Year 128.81%
+You are staking 0.00 [WINGS]-[DFL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WINGS]-[DFL] Uni LP
+Unstake 0.00 [WINGS]-[DFL] Uni LP
+Claim 0.00 DFL ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [LDR]-[WBNB] Cake LP [+] [-] [<=>] Price: $41.01 TVL: $483.01
+LDR Price: $1.08
+WBNB Price: $368.50
+Staked: 10.8780 Cake-LP ($446.14)
+DFL Per Week: 7527.53 ($11.00)
+APR: Day 0.35% Week 2.47% Year 128.19%
+You are staking 0.00 [LDR]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LDR]-[WBNB] Cake LP
+Unstake 0.00 [LDR]-[WBNB] Cake LP
+Claim 0.00 DFL ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - DFL1 Price: $0.00 Market Cap: $0.00 
+Staked: 7844632.1178 DFL1 ($0.00)
+DFL Per Week: 60220.23 ($87.99)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 DFL1 ($0.00), NaN% of the pool.
+Stake 0.00 DFL1
+Unstake 0.00 DFL1
+Claim 0.00 DFL ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - DFL2 Price: $0.00 Market Cap: $0.00 
+Staked: 13464305.3786 DFL2 ($0.00)
+DFL Per Week: 90330.35 ($131.98)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 DFL2 ($0.00), NaN% of the pool.
+Stake 0.00 DFL2
+Unstake 0.00 DFL2
+Claim 0.00 DFL ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - CAKELP1 Price: $0.00 Market Cap: $0.00 
+Staked: 5290.2176 CAKELP1 ($0.00)
+DFL Per Week: 120440.47 ($175.98)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 CAKELP1 ($0.00), NaN% of the pool.
+Stake 0.00 CAKELP1
+Unstake 0.00 CAKELP1
+Claim 0.00 DFL ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - DFL12 Price: $0.00 Market Cap: $0.00 
+Staked: 17497120.0469 DFL12 ($0.00)
+DFL Per Week: 180660.70 ($263.97)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 DFL12 ($0.00), NaN% of the pool.
+Stake 0.00 DFL12
+Unstake 0.00 DFL12
+Claim 0.00 DFL ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - AIGANG Price: $0.00 Market Cap: $0.00 
+Staked: 559.0743 AIGANG ($0.00)
+DFL Per Week: 7527.53 ($11.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 AIGANG ($0.00), NaN% of the pool.
+Stake 0.00 AIGANG
+Unstake 0.00 AIGANG
+Claim 0.00 DFL ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [AIGANG]-[WBNB] Cake LP [+] [-] [<=>] Price: $29.41 TVL: $209.01
+AIGANG Price: $0.56
+WBNB Price: $368.50
+Staked: 6.9251 Cake-LP ($203.68)
+DFL Per Week: 7527.53 ($11.00)
+APR: Day 0.77% Week 5.40% Year 280.80%
+You are staking 0.00 [AIGANG]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AIGANG]-[WBNB] Cake LP
+Unstake 0.00 [AIGANG]-[WBNB] Cake LP
+Claim 0.00 DFL ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - LDR Price: $1.08 Market Cap: $451.21 [%]
+Staked: 186.3555 LDR ($202.13)
+DFL Per Week: 7527.53 ($11.00)
+APR: Day 0.78% Week 5.44% Year 282.96%
+You are staking 0.00 LDR ($0.00), 0.00% of the pool.
+Stake 0.00 LDR
+Unstake 0.00 LDR
+Claim 0.00 DFL ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - CAKELP2 Price: $0.00 Market Cap: $0.00 
+Staked: 5475.1804 CAKELP2 ($0.00)
+DFL Per Week: 180660.70 ($263.97)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 CAKELP2 ($0.00), NaN% of the pool.
+Stake 0.00 CAKELP2
+Unstake 0.00 CAKELP2
+Claim 0.00 DFL ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - [CROX]-[DFL] Cake LP [+] [-] [<=>] Price: $0.02 TVL: $671.91
+CROX Price: $0.09
+DFL Price: $0.001461
+Staked: 28790.1401 Cake-LP ($662.55)
+DFL Per Week: 7527.53 ($11.00)
+APR: Day 0.24% Week 1.66% Year 86.32%
+You are staking 0.00 [CROX]-[DFL] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CROX]-[DFL] Cake LP
+Unstake 0.00 [CROX]-[DFL] Cake LP
+Claim 0.00 DFL ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - CROX Price: $0.09 Market Cap: $446,639.13 [%]
+Staked: 640.4125 CROX ($57.21)
+DFL Per Week: 1505.51 ($2.20)
+APR: Day 0.55% Week 3.85% Year 199.95%
+You are staking 0.00 CROX ($0.00), 0.00% of the pool.
+Stake 0.00 CROX
+Unstake 0.00 CROX
+Claim 0.00 DFL ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $23,204.61

@@ -1,0 +1,138 @@
+***************************** BSC NETWORK ******************************************
+
+*************** 👨‍🌾 UNOFFICIAL KYBER-DMM FARMING CALCULATOR 👨‍🌾 *************
+INFO  : https://dmm.exchange/
+***************************************************************************
+
+Thu Jan 27 2022 20:11:57 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+NOTE: Once rewards are harvested, they vest for 30 days before they can be claimable.
+      Each time you harvest, that amount harvested starts vesting for 30 days.
+[WBNB]-[KNC] DMM-LP WBNB-KNC [+] [-] [<=>] LP Price: $55.25 TVL: $1,184,141.03
+WBNB/KNC Price: 178.07436325
+KNC/WBNB Price: 0.00561563
+Reward Tokens: KNC $1.82
+Rewards Per Week: KNC 0.00000000 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+Total Staked: 129.695224901595253186 DMM-LP WBNB-KNC ($7,165.63)
+You are staking 0.000000000000000000 DMM-LP WBNB-KNC $0.00 (0.00% of the pool).
+Vesting rewards: 0.00000000 KNC ($0.00)
+Vested rewards: 0.00000000 KNC ($0.00)
+BSCScan
+Stake 0.000000000000000000 DMM-LP WBNB-KNC
+Withdraw 0.000000000000000000 DMM-LP WBNB-KNC
+Harvest 0.0000 KNC ($0.00)
+Claim 0.00000000 KNC ($0.00)
+Revoke (set approval to 0)
+
+
+[USDT]-[WBNB] DMM-LP USDT-WBNB [+] [-] [<=>] LP Price: $45.12 TVL: $37,603.28
+USDT/WBNB Price: 0.00297171
+WBNB/USDT Price: 336.50699310
+Reward Tokens: KNC $1.82
+Rewards Per Week: KNC 0.00000000 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+Total Staked: 799.493069812054500289 DMM-LP USDT-WBNB ($36,074.90)
+You are staking 0.000000000000000000 DMM-LP USDT-WBNB $0.00 (0.00% of the pool).
+Vesting rewards: 0.00000000 KNC ($0.00)
+Vested rewards: 0.00000000 KNC ($0.00)
+BSCScan
+Stake 0.000000000000000000 DMM-LP USDT-WBNB
+Withdraw 0.000000000000000000 DMM-LP USDT-WBNB
+Harvest 0.0000 KNC ($0.00)
+Claim 0.00000000 KNC ($0.00)
+Revoke (set approval to 0)
+
+
+[USDT]-[BUSD] DMM-LP USDT-BUSD [+] [-] [<=>] LP Price: $2.10 TVL: $444,354.86
+USDT/BUSD Price: 1.05887326
+BUSD/USDT Price: 0.94440009
+Reward Tokens: KNC $1.82
+Rewards Per Week: KNC 0.00000000 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+Total Staked: 205266.286235607432899997 DMM-LP USDT-BUSD ($431,239.72)
+You are staking 0.000000000000000000 DMM-LP USDT-BUSD $0.00 (0.00% of the pool).
+Vesting rewards: 0.00000000 KNC ($0.00)
+Vested rewards: 0.00000000 KNC ($0.00)
+BSCScan
+Stake 0.000000000000000000 DMM-LP USDT-BUSD
+Withdraw 0.000000000000000000 DMM-LP USDT-BUSD
+Harvest 0.0000 KNC ($0.00)
+Claim 0.00000000 KNC ($0.00)
+Revoke (set approval to 0)
+
+
+[ETH]-[WBNB] DMM-LP ETH-WBNB [+] [-] [<=>] LP Price: $1,959.99 TVL: $955.20
+ETH/WBNB Price: 6.06296375
+WBNB/ETH Price: 0.16493584
+Reward Tokens: KNC $1.82
+Rewards Per Week: KNC 0.00000000 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+Total Staked: 0.344075117486568050 DMM-LP ETH-WBNB ($674.38)
+You are staking 0.000000000000000000 DMM-LP ETH-WBNB $0.00 (0.00% of the pool).
+Vesting rewards: 0.00000000 KNC ($0.00)
+Vested rewards: 0.00000000 KNC ($0.00)
+BSCScan
+Stake 0.000000000000000000 DMM-LP ETH-WBNB
+Withdraw 0.000000000000000000 DMM-LP ETH-WBNB
+Harvest 0.0000 KNC ($0.00)
+Claim 0.00000000 KNC ($0.00)
+Revoke (set approval to 0)
+
+
+[WBNB]-[HERO] DMM-LP WBNB-HERO [+] [-] [<=>] LP Price: $8.28 TVL: $16,859.30
+WBNB/HERO Price: 1429705318.82096148
+HERO/WBNB Price: 0.00000000
+Reward Tokens: KNC $1.82 HERO $0.11
+Rewards Per Week: KNC 0.00000000 ($0.00) HERO 0.00000000 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+Total Staked: 2031.926037568549872958 DMM-LP WBNB-HERO ($16,814.96)
+You are staking 0.000000000000000000 DMM-LP WBNB-HERO $0.00 (0.00% of the pool).
+Vesting rewards: 0.00000000 KNC ($0.00) 0.00000000 HERO ($0.00)
+Vested rewards: 0.00000000 KNC ($0.00) 0.00000000 HERO ($0.00)
+BSCScan
+Stake 0.000000000000000000 DMM-LP WBNB-HERO
+Withdraw 0.000000000000000000 DMM-LP WBNB-HERO
+Harvest 0.0000 KNC ($0.00) 0.0000 HERO ($0.00)
+Claim 0.00000000 KNC ($0.00) 0.00000000 HERO ($0.00)
+Revoke (set approval to 0)
+
+
+[WBNB]-[CTR] DMM-LP WBNB-CTR [+] [-] [<=>] LP Price: $8.70 TVL: $39,836.29
+WBNB/CTR Price: 11368.69860941
+CTR/WBNB Price: 0.00008796
+Reward Tokens: CTR $0.05 KNC $1.82
+Rewards Per Week: CTR 0.00000000 ($0.00) KNC 0.00000000 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+Total Staked: 35.419271196198927498 DMM-LP WBNB-CTR ($308.20)
+You are staking 0.000000000000000000 DMM-LP WBNB-CTR $0.00 (0.00% of the pool).
+Vesting rewards: 0.00000000 CTR ($0.00) 0.00000000 KNC ($0.00)
+Vested rewards: 0.00000000 CTR ($0.00) 0.00000000 KNC ($0.00)
+BSCScan
+Stake 0.000000000000000000 DMM-LP WBNB-CTR
+Withdraw 0.000000000000000000 DMM-LP WBNB-CTR
+Harvest 0.0000 CTR ($0.00) 0.0000 KNC ($0.00)
+Claim 0.00000000 CTR ($0.00) 0.00000000 KNC ($0.00)
+Revoke (set approval to 0)
+
+
+[USDT]-[FIWA] DMM-LP USDT-FIWA [+] [-] [<=>] LP Price: $0.13 TVL: $64,807.31
+USDT/FIWA Price: 258.34261315
+FIWA/USDT Price: 0.00387083
+Reward Tokens: FIWA $0.00 KNC $1.82
+Rewards Per Week: FIWA 0.00000000 ($0.00) KNC 0.00000000 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+Total Staked: 16430.292283021979528712 DMM-LP USDT-FIWA ($2,143.10)
+You are staking 0.000000000000000000 DMM-LP USDT-FIWA $0.00 (0.00% of the pool).
+Vesting rewards: 0.00000000 FIWA ($0.00) 0.00000000 KNC ($0.00)
+Vested rewards: 0.00000000 FIWA ($0.00) 0.00000000 KNC ($0.00)
+BSCScan
+Stake 0.000000000000000000 DMM-LP USDT-FIWA
+Withdraw 0.000000000000000000 DMM-LP USDT-FIWA
+Harvest 0.0000 FIWA ($0.00) 0.0000 KNC ($0.00)
+Claim 0.00000000 FIWA ($0.00) 0.00000000 KNC ($0.00)
+Revoke (set approval to 0)

@@ -2,123 +2,20 @@
 INFO  : https://fenrir.farmwiki.xyz
 *****************************************************************************
 
-Thu Dec 16 2021 06:10:01 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 23:57:26 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
+Staking Contract
 Found 23 pools.
 Showing incentivized pools only.
-Finished reading smart contracts.
-0 - [USDC]-[WIKI] Uni LP [+] [-] [<=>] Price: $68,197.87 TVL: $16.17
-USDC Price: $1.00
-WIKI Price: $0.001082
-Staked: 0.0001 UNI-V2 ($9.61)
-FENRIR Per Week: 1907.28 ($0.21)
-APR: Day 0.31% Week 2.19% Year 113.74%
-You are staking 0.00 [USDC]-[WIKI] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[WIKI] Uni LP
-Unstake 0.00 [USDC]-[WIKI] Uni LP
-Claim 0.00 FENRIR ($0.00)
-Staking or unstaking also claims rewards.
-
-1 - [USDC]-[FENRIR] Uni LP [+] [-] [<=>] Price: $21,364.02 TVL: $3.52
-USDC Price: $1.00
-FENRIR Price: $0.000110
-Staked: 0.0002 UNI-V2 ($3.52)
-FENRIR Per Week: 6675.50 ($0.74)
-APR: Day 2.99% Week 20.92% Year 1088.04%
-You are staking 0.00 [USDC]-[FENRIR] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[FENRIR] Uni LP
-Unstake 0.00 [USDC]-[FENRIR] Uni LP
-Claim 0.00 FENRIR ($0.00)
-Staking or unstaking also claims rewards.
-
-2 - [WMATIC]-[FENRIR] Uni LP [+] [-] [<=>] Price: $0.03 TVL: $6.02
-WMATIC Price: $2.14
-FENRIR Price: $0.000110
-Staked: 161.4519 UNI-V2 ($5.04)
-FENRIR Per Week: 9154.97 ($1.01)
-APR: Day 2.86% Week 20.00% Year 1040.05%
-You are staking 0.00 [WMATIC]-[FENRIR] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[FENRIR] Uni LP
-Unstake 0.00 [WMATIC]-[FENRIR] Uni LP
-Claim 0.00 FENRIR ($0.00)
-Staking or unstaking also claims rewards.
-
-3 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,859,137.75 TVL: $52,194,802.17
-WMATIC Price: $2.14
-USDC Price: $1.00
-Staked: 0.0000 UNI-V2 ($1.06)
-FENRIR Per Week: 1144.37 ($0.13)
-APR: Day 1.69% Week 11.84% Year 615.92%
-You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
-Unstake 0.00 [WMATIC]-[USDC] Uni LP
-Claim 0.00 FENRIR ($0.00)
-Staking or unstaking also claims rewards.
-
-4 - [WMATIC]-[WETH] Uni LP [+] [-] [<=>] Price: $245.93 TVL: $110,220,815.69
-WMATIC Price: $2.14
-WETH Price: $4,040.13
-Staked: 0.0080 UNI-V2 ($1.97)
-FENRIR Per Week: 1144.37 ($0.13)
-APR: Day 0.92% Week 6.42% Year 333.64%
-You are staking 0.00 [WMATIC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[WETH] Uni LP - Fee 4%
-Unstake 0.00 [WMATIC]-[WETH] Uni LP
-Claim 0.00 FENRIR ($0.00)
-Staking or unstaking also claims rewards.
-
-7 - FENRIR Price: $0.000110 Market Cap: $30.34 [%]
-Staked: 179645.7450 FENRIR ($19.80)
-FENRIR Per Week: 4768.21 ($0.53)
-APR: Day 0.38% Week 2.65% Year 138.02%
-You are staking 0.00 FENRIR ($0.00), 0.00% of the pool.
-Stake 0.00 FENRIR
-Unstake 0.00 FENRIR
-Claim 0.00 FENRIR ($0.00)
-Staking or unstaking also claims rewards.
-
-12 - WMATIC Price: $2.14 Market Cap: $651,064,070.03 [%]
-Staked: 479.5237 WMATIC ($1,026.18)
-FENRIR Per Week: 762.91 ($0.08)
-APR: Day 0.00% Week 0.01% Year 0.43%
-You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
-Stake 0.00 WMATIC - Fee 4%
-Unstake 0.00 WMATIC
-Claim 0.00 FENRIR ($0.00)
-Staking or unstaking also claims rewards.
-
-13 - WETH Price: $4,040.13 Market Cap: $1,793,313,213.69 [%]
-Staked: 0.0000 WETH ($0.00)
-FENRIR Per Week: 762.91 ($0.08)
-APR: Day Infinity% Week Infinity% Year Infinity%
-You are staking 0.00 WETH ($0.00), NaN% of the pool.
-Stake 0.00 WETH - Fee 4%
-Unstake 0.00 WETH
-Claim 0.00 FENRIR ($0.00)
-Staking or unstaking also claims rewards.
-
-21 - WIKI Price: $0.001082 Market Cap: $111.10 [%]
-Staked: 22270.9009 WIKI ($24.11)
-FENRIR Per Week: 1907.28 ($0.21)
-APR: Day 0.12% Week 0.87% Year 45.34%
-You are staking 0.00 WIKI ($0.00), 0.00% of the pool.
-Stake 0.00 WIKI - Fee 1%
-Unstake 0.00 WIKI
-Claim 0.00 FENRIR ($0.00)
-Staking or unstaking also claims rewards.
-
-22 - WBTC Price: $49,080.00 Market Cap: $497,861,708.11 [%]
-Staked: 0.0001 WBTC ($4.71)
-FENRIR Per Week: 572.19 ($0.06)
-APR: Day 0.19% Week 1.34% Year 69.59%
-You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
-Stake 0.00 WBTC - Fee 4%
-Unstake 0.00 WBTC
-Claim 0.00 FENRIR ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $1,096.00
+{
+  "code": -32603,
+  "message": "Non-200 status code: '400'",
+  "data": {
+    "error": "Unable to verify your data submission."
+  }
+}
+Oops something went wrong. Try refreshing the page.

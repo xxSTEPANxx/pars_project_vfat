@@ -1,0 +1,37 @@
+*************** 👨‍🌾 UNOFFICIAL KAWAIISWAP FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://www.kawaiiswap.finance
+******************************************************************************
+
+Thu Jan 27 2022 21:41:21 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 4 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [CALCIFIRE]-[WBNB] APE LP [+] [-] [<=>] Price: $4.35 TVL: $32,629.01
+CALCIFIRE Price: $0.01
+WBNB Price: $368.53
+Staked: 4743.5878 APE-LP ($20,627.01)
+CALCIFIRE Per Week: 86400.00 ($1,032.48)
+APR: Day 0.72% Week 5.01% Year 260.28%
+You are staking 0.00 [CALCIFIRE]-[WBNB] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CALCIFIRE]-[WBNB] APE LP
+Unstake 0.00 [CALCIFIRE]-[WBNB] APE LP
+Claim 0.00 CALCIFIRE ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - CALCIFIRE Price: $0.01 Market Cap: $63,129.51 [%]
+Staked: 3391220.6925 CALCIFIRE ($40,525.10)
+CALCIFIRE Per Week: 115200.00 ($1,376.64)
+APR: Day 0.49% Week 3.40% Year 176.64%
+You are staking 0.00 CALCIFIRE ($0.00), 0.00% of the pool.
+Stake 0.00 CALCIFIRE
+Unstake 0.00 CALCIFIRE
+Claim 0.00 CALCIFIRE ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $61,152.11

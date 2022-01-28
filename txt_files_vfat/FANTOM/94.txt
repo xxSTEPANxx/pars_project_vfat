@@ -1,0 +1,47 @@
+*************** 👨‍🌾 UNOFFICIAL BEAR FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://bearfinance.org
+**********************************************************************************
+
+Fri Jan 28 2022 00:52:41 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 3 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - BEAR Price: $0.00 Market Cap: $0.00 
+Staked: 392.6696 BEAR ($0.00)
+BEAR Per Week: 75.60 ($32.55)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BEAR ($0.00), NaN% of the pool.
+Stake 0.00 BEAR
+Unstake 0.00 BEAR
+Claim 0.00 BEAR ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [BEAR]-[DAI] SPOOKY LP [+] [-] [<=>] Price: $1.38 TVL: $1,291.72
+BEAR Price: $0.43
+DAI Price: $1.00
+Staked: 237.4201 spLP ($328.70)
+BEAR Per Week: 113.40 ($48.82)
+APR: Day 2.12% Week 14.85% Year 772.30%
+You are staking 0.00 [BEAR]-[DAI] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BEAR]-[DAI] SPOOKY LP
+Unstake 0.00 [BEAR]-[DAI] SPOOKY LP
+Claim 0.00 BEAR ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - GHOST Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 GHOST ($0.00)
+BEAR Per Week: 113.40 ($48.82)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 GHOST ($0.00), NaN% of the pool.
+Stake 0.00 GHOST
+Unstake 0.00 GHOST
+Claim 0.00 BEAR ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $328.70

@@ -1,0 +1,261 @@
+*************** 👨‍🌾 UNOFFICIAL THUNDERBIRD FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://thunderbird.finance/
+**********************************************************************************
+
+Thu Jan 27 2022 21:13:25 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 22 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - TBIRD Price: $0.00 Market Cap: $0.00 
+Staked: 1656956.5119 TBIRD ($0.00)
+TBIRD Per Week: 18863.16 ($0.77)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 TBIRD ($0.00), NaN% of the pool.
+Stake 0.00 TBIRD
+Unstake 0.00 TBIRD
+Claim 0.00 TBIRD ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [TBIRD]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.01 TVL: $34.01
+TBIRD Price: $0.0000408024
+BUSD Price: $1.00
+Staked: 2240.4235 Cake-LP ($30.28)
+TBIRD Per Week: 94315.79 ($3.85)
+APR: Day 1.82% Week 12.71% Year 660.78%
+You are staking 0.00 [TBIRD]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [TBIRD]-[BUSD] Cake LP
+Unstake 0.00 [TBIRD]-[BUSD] Cake LP
+Claim 0.00 TBIRD ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[TBIRD] Cake LP [+] [-] [<=>] Price: $0.25 TVL: $27.41
+WBNB Price: $368.51
+TBIRD Price: $0.0000408024
+Staked: 102.7508 Cake-LP ($26.13)
+TBIRD Per Week: 70736.84 ($2.89)
+APR: Day 1.58% Week 11.05% Year 574.48%
+You are staking 0.00 [WBNB]-[TBIRD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[TBIRD] Cake LP
+Unstake 0.00 [WBNB]-[TBIRD] Cake LP
+Claim 0.00 TBIRD ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [DAI]-[TBIRD] Cake LP [+] [-] [<=>] Price: $0.01 TVL: $11.44
+DAI Price: $1.00
+TBIRD Price: $0.0000408024
+Staked: 853.1239 Cake-LP ($11.22)
+TBIRD Per Week: 47157.89 ($1.92)
+APR: Day 2.45% Week 17.14% Year 891.51%
+You are staking 0.00 [DAI]-[TBIRD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[TBIRD] Cake LP
+Unstake 0.00 [DAI]-[TBIRD] Cake LP
+Claim 0.00 TBIRD ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDT]-[TBIRD] Cake LP [+] [-] [<=>] Price: $0.01 TVL: $7.87
+USDT Price: $1.00
+TBIRD Price: $0.0000408024
+Staked: 553.6942 Cake-LP ($7.23)
+TBIRD Per Week: 47157.89 ($1.92)
+APR: Day 3.80% Week 26.62% Year 1384.29%
+You are staking 0.00 [USDT]-[TBIRD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[TBIRD] Cake LP
+Unstake 0.00 [USDT]-[TBIRD] Cake LP
+Claim 0.00 TBIRD ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.39 TVL: $345,719,073.54
+WBNB Price: $368.51
+BUSD Price: $1.00
+Staked: 30.6170 Cake-LP ($1,450.81)
+TBIRD Per Week: 11789.47 ($0.48)
+APR: Day 0.00% Week 0.03% Year 1.72%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 TBIRD ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,037.09 TVL: $74,215,735.17
+ETH Price: $2,438.01
+WBNB Price: $368.51
+Staked: 0.0000 Cake-LP ($0.07)
+TBIRD Per Week: 11789.47 ($0.48)
+APR: Day 95.74% Week 670.16% Year 34848.24%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 TBIRD ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [Cake]-[BUSD] Cake LP [+] [-] [<=>] Price: $7.76 TVL: $11,436,445.87
+Cake Price: $6.94
+BUSD Price: $1.00
+Staked: 17.4200 Cake-LP ($135.26)
+TBIRD Per Week: 11789.47 ($0.48)
+APR: Day 0.05% Week 0.36% Year 18.49%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 TBIRD ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [WBNB]-[LINK] Cake LP [+] [-] [<=>] Price: $155.77 TVL: $10,361,808.61
+WBNB Price: $368.51
+LINK Price: $14.99
+Staked: 0.0001 Cake-LP ($0.02)
+TBIRD Per Week: 9431.58 ($0.38)
+APR: Day 240.50% Week 1683.52% Year 87543.10%
+You are staking 0.00 [WBNB]-[LINK] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[LINK] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[LINK] Cake LP
+Claim 0.00 TBIRD ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [VAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.03 TVL: $8,548,359.13
+VAI Price: $0.93
+BUSD Price: $1.00
+Staked: 90.0000 Cake-LP ($182.75)
+TBIRD Per Week: 9431.58 ($0.38)
+APR: Day 0.03% Week 0.21% Year 10.95%
+You are staking 0.00 [VAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [VAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [VAI]-[BUSD] Cake LP
+Claim 0.00 TBIRD ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [ADA]-[WBNB] Cake LP [+] [-] [<=>] Price: $42.30 TVL: $12,079,381.19
+ADA Price: $1.03
+WBNB Price: $368.51
+Staked: 0.9972 Cake-LP ($42.18)
+TBIRD Per Week: 9431.58 ($0.38)
+APR: Day 0.13% Week 0.91% Year 47.44%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 TBIRD ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.08 TVL: $131,129,984.08
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 183.6725 Cake-LP ($382.89)
+TBIRD Per Week: 7073.68 ($0.29)
+APR: Day 0.01% Week 0.08% Year 3.92%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 TBIRD ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [DAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.08 TVL: $16,826,057.62
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 93.3577 Cake-LP ($194.36)
+TBIRD Per Week: 7073.68 ($0.29)
+APR: Day 0.02% Week 0.15% Year 7.72%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 TBIRD ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - BUSD Price: $1.00 Market Cap: $4,834,239,185.74 [%]
+Staked: 389.3395 BUSD ($387.99)
+TBIRD Per Week: 4715.79 ($0.19)
+APR: Day 0.01% Week 0.05% Year 2.58%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 TBIRD ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - BTCB Price: $36,216.00 Market Cap: $4,074,336,216.00 [%]
+Staked: 0.0360 BTCB ($1,304.62)
+TBIRD Per Week: 4715.79 ($0.19)
+APR: Day 0.00% Week 0.01% Year 0.77%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 TBIRD ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - USDT Price: $1.00 Market Cap: $3,873,626,965.59 [%]
+Staked: 96.0000 USDT ($95.84)
+TBIRD Per Week: 4715.79 ($0.19)
+APR: Day 0.03% Week 0.20% Year 10.44%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 TBIRD ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - USDC Price: $1.00 Market Cap: $1,774,490,235.00 [%]
+Staked: 96.3998 USDC ($96.16)
+TBIRD Per Week: 4715.79 ($0.19)
+APR: Day 0.03% Week 0.20% Year 10.41%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 TBIRD ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - WBNB Price: $368.51 Market Cap: $1,923,825,558.80 [%]
+Staked: 0.0038 WBNB ($1.39)
+TBIRD Per Week: 4715.79 ($0.19)
+APR: Day 1.97% Week 13.80% Year 717.58%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 TBIRD ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - Cake Price: $6.94 Market Cap: $4,267,835,195.44 [%]
+Staked: 0.4221 Cake ($2.93)
+TBIRD Per Week: 4715.79 ($0.19)
+APR: Day 0.94% Week 6.57% Year 341.55%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 TBIRD ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - DAI Price: $1.00 Market Cap: $261,564,556.00 [%]
+Staked: 1440.0000 DAI ($1,437.61)
+TBIRD Per Week: 4715.79 ($0.19)
+APR: Day 0.00% Week 0.01% Year 0.70%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 TBIRD ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - ADA Price: $1.03 Market Cap: $288,400,000.00 [%]
+Staked: 0.0000 ADA ($0.00)
+TBIRD Per Week: 4715.79 ($0.19)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 ADA ($0.00), NaN% of the pool.
+Stake 0.00 ADA - Fee 4%
+Unstake 0.00 ADA
+Claim 0.00 TBIRD ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - [ADA]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.52 TVL: $45,490.95
+ADA Price: $1.03
+BUSD Price: $1.00
+Staked: 0.0176 Cake-LP ($0.04)
+TBIRD Per Week: 9431.58 ($0.38)
+APR: Day 123.60% Week 865.19% Year 44989.87%
+You are staking 0.00 [ADA]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [ADA]-[BUSD] Cake LP
+Claim 0.00 TBIRD ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $5,789.80

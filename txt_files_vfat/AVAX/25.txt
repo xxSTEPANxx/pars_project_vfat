@@ -1,0 +1,146 @@
+***************************** AVALANCHE **************************************
+    
+*************** 👨‍🌾 UNOFFICIAL BIRDY.FINANCE FARMING CALCULATOR 👨‍🌾 ***********
+INFO  : https://avaxgive.netlify.app/
+******************************************************************************
+
+Fri Jan 28 2022 00:15:01 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 13 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - GIVE Price: $0.00 Market Cap: $0.00 
+Staked: 326638.2125 GIVE ($0.00)
+GIVE Per Week: 8247.27 ($3.18)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 GIVE ($0.00), NaN% of the pool.
+Stake 0.00 GIVE
+Unstake 0.00 GIVE
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [GIVE]-[USDC.e] PGL [+] [-] [<=>] Price: $40,836.00 TVL: $79.04
+GIVE Price: $0.000385
+USDC.e Price: $1.00
+Staked: 0.0019 PGL ($78.94)
+GIVE Per Week: 8247.27 ($3.18)
+APR: Day 0.57% Week 4.02% Year 209.21%
+You are staking 0.00 [GIVE]-[USDC.e] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [GIVE]-[USDC.e] PGL
+Unstake 0.00 [GIVE]-[USDC.e] PGL
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [GIVE]-[WAVAX] PGL [+] [-] [<=>] Price: $0.34 TVL: $175.97
+GIVE Price: $0.000385
+WAVAX Price: $61.73
+Staked: 514.3968 PGL ($175.39)
+GIVE Per Week: 24741.82 ($9.53)
+APR: Day 0.78% Week 5.43% Year 282.49%
+You are staking 0.00 [GIVE]-[WAVAX] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [GIVE]-[WAVAX] PGL
+Unstake 0.00 [GIVE]-[WAVAX] PGL
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDC.e]-[WAVAX] PGL [+] [-] [<=>] Price: $19,759,648.56 TVL: $15,393,429.14
+USDC.e Price: $1.00
+WAVAX Price: $61.73
+Staked: 0.0000 PGL ($112.72)
+GIVE Per Week: 4948.36 ($1.91)
+APR: Day 0.24% Week 1.69% Year 87.91%
+You are staking 0.00 [USDC.e]-[WAVAX] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC.e]-[WAVAX] PGL - Fee 3%
+Unstake 0.00 [USDC.e]-[WAVAX] PGL
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - WAVAX Price: $61.73 Market Cap: $1,045,608,948.13 
+Staked: 0.6970 WAVAX ($43.03)
+GIVE Per Week: 7422.55 ($2.86)
+APR: Day 0.95% Week 6.64% Year 345.46%
+You are staking 0.00 WAVAX ($0.00), 0.00% of the pool.
+Stake 0.00 WAVAX - Fee 3%
+Unstake 0.00 WAVAX
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [PNG]-[GIVE] PGL [+] [-] [<=>] Price: $0.02 TVL: $12.84
+PNG Price: $0.32
+GIVE Price: $0.000385
+Staked: 552.6560 PGL ($12.82)
+GIVE Per Week: 4948.36 ($1.91)
+APR: Day 2.12% Week 14.87% Year 773.15%
+You are staking 0.00 [PNG]-[GIVE] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [PNG]-[GIVE] PGL
+Unstake 0.00 [PNG]-[GIVE] PGL
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - PNG Price: $0.32 Market Cap: $172,400,486.00 
+Staked: 57.3312 PNG ($18.37)
+GIVE Per Week: 4948.36 ($1.91)
+APR: Day 1.48% Week 10.37% Year 539.37%
+You are staking 0.00 PNG ($0.00), 0.00% of the pool.
+Stake 0.00 PNG - Fee 3%
+Unstake 0.00 PNG
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - WBTC.e Price: $35,656.00 Market Cap: $723,091,638.61 
+Staked: 0.0007 WBTC.e ($26.07)
+GIVE Per Week: 7422.55 ($2.86)
+APR: Day 1.57% Week 10.96% Year 570.10%
+You are staking 0.00 WBTC.e ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC.e - Fee 3%
+Unstake 0.00 WBTC.e
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - WETH.e Price: $2,322.63 Market Cap: $1,016,633,115.44 
+Staked: 0.0398 WETH.e ($92.48)
+GIVE Per Week: 7422.55 ($2.86)
+APR: Day 0.44% Week 3.09% Year 160.73%
+You are staking 0.00 WETH.e ($0.00), 0.00% of the pool.
+Stake 0.00 WETH.e - Fee 3%
+Unstake 0.00 WETH.e
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - USDC.e Price: $1.00 Market Cap: $1,441,197,631.40 
+Staked: 22.9100 USDC.e ($22.88)
+GIVE Per Week: 2474.18 ($0.95)
+APR: Day 0.59% Week 4.16% Year 216.55%
+You are staking 0.00 USDC.e ($0.00), 0.00% of the pool.
+Stake 0.00 USDC.e - Fee 3%
+Unstake 0.00 USDC.e
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [WAVAX]-[DAI.e] PGL [+] [-] [<=>] Price: $19.32 TVL: $5,959,812.09
+WAVAX Price: $61.73
+DAI.e Price: $1.00
+Staked: 0.5106 PGL ($9.86)
+GIVE Per Week: 4948.36 ($1.91)
+APR: Day 2.76% Week 19.32% Year 1004.48%
+You are staking 0.00 [WAVAX]-[DAI.e] PGL ($0.00), 0.00% of the pool.
+Stake 0.00 [WAVAX]-[DAI.e] PGL - Fee 3%
+Unstake 0.00 [WAVAX]-[DAI.e] PGL
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - DAI.e Price: $1.00 Market Cap: $648,589,353.49 
+Staked: 16.2173 DAI.e ($16.22)
+GIVE Per Week: 4948.36 ($1.91)
+APR: Day 1.68% Week 11.75% Year 611.02%
+You are staking 0.00 DAI.e ($0.00), 0.00% of the pool.
+Stake 0.00 DAI.e - Fee 3%
+Unstake 0.00 DAI.e
+Claim 0.00 GIVE ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $608.78

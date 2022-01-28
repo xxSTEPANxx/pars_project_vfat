@@ -1,0 +1,54 @@
+*************** 👨‍🌾 UNOFFICIAL SWAPR FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://swapr.eth.link
+**************************************************************************
+
+Thu Jan 27 2022 20:07:24 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+[DXD]-[WETH] Uni LP [+] [-] [<=>] Price: $2,132.90 TVL: $206,217.39
+DXD Price: $418.03
+WETH Price: $2,475.34
+Staked: 30.0526 DXS ($64,099.31)
+SWPR Per Week: 0.00 ($0.00) APR: Year 0.00%
+Total Per Week: $0.00
+Total APR: Day 0.0000% Week 0.00% Year 0.00%
+You are staking 0.000000 [DXD]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [DXD]-[WETH] Uni LP
+Unstake 0.000000 [DXD]-[WETH] Uni LP
+Claim 0.000000 SWPR ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[SWPR]-[WETH] Uni LP [+] [-] [<=>] Price: $18.85 TVL: $24,951.94
+SWPR Price: $0.04
+WETH Price: $2,475.34
+Staked: 0.0004 DXS ($0.01)
+SWPR Per Week: 0.00 ($0.00) APR: Year 0.00%
+Total Per Week: $0.00
+Total APR: Day 0.0000% Week 0.00% Year 0.00%
+You are staking 0.000000 [SWPR]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [SWPR]-[WETH] Uni LP
+Unstake 0.000000 [SWPR]-[WETH] Uni LP
+Claim 0.000000 SWPR ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[DAI]-[WETH] Uni LP [+] [-] [<=>] Price: $103.53 TVL: $942,914.90
+DAI Price: $1.00
+WETH Price: $2,475.34
+Staked: 0.0000 DXS ($0.00)
+SWPR Per Week: 0.00 ($0.00) APR: Year NaN%
+Total Per Week: $0.00
+Total APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 [DAI]-[WETH] Uni LP $0.00 (NaN% of the pool).
+Etherscan
+Stake 0.000000 [DAI]-[WETH] Uni LP
+Unstake 0.000000 [DAI]-[WETH] Uni LP
+Claim 0.000000 SWPR ($0.00)
+Revoke (set approval to 0)
+Exit
+
+Total staked: $64,099.32

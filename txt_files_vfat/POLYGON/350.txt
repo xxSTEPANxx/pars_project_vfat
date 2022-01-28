@@ -8,139 +8,17 @@ INFO  : https://www.omegadefi.space/
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Thu Dec 16 2021 05:48:37 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 23:46:43 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
-Found 12 pools.
-Showing incentivized pools only.
-Finished reading smart contracts.
-0 - [WMATIC]-[OMEGA] Uni LP [+] [-] [<=>] Price: $0.04 TVL: $17.43
-WMATIC Price: $2.15
-OMEGA Price: $0.000176
-Staked: 71.6638 UNI-V2 ($2.89)
-OMEGA Per Week: 6981.82 ($1.23)
-APR: Day 6.08% Week 42.53% Year 2211.68%
-You are staking 0.00 [WMATIC]-[OMEGA] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[OMEGA] Uni LP
-Unstake 0.00 [WMATIC]-[OMEGA] Uni LP
-Claim 0.00 OMEGA ($0.00)
-Staking or unstaking also claims rewards.
-
-1 - OMEGA Price: $0.000176 Market Cap: $14.06 [%]
-Staked: 6368.8239 OMEGA ($1.12)
-OMEGA Per Week: 6981.82 ($1.23)
-APR: Day 15.66% Week 109.62% Year 5700.50%
-You are staking 0.00 OMEGA ($0.00), 0.00% of the pool.
-Stake 0.00 OMEGA
-Unstake 0.00 OMEGA
-Claim 0.00 OMEGA ($0.00)
-Staking or unstaking also claims rewards.
-
-2 - WMATIC Price: $2.15 Market Cap: $654,543,431.25 [%]
-Staked: 3.4486 WMATIC ($7.41)
-OMEGA Per Week: 1396.36 ($0.25)
-APR: Day 0.47% Week 3.31% Year 172.11%
-You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
-Stake 0.00 WMATIC - Fee 4%
-Unstake 0.00 WMATIC
-Claim 0.00 OMEGA ($0.00)
-Staking or unstaking also claims rewards.
-
-3 - USDC Price: $1.00 Market Cap: $943,395,526.17 [%]
-Staked: 9.9119 USDC ($9.91)
-OMEGA Per Week: 698.18 ($0.12)
-APR: Day 0.18% Week 1.24% Year 64.38%
-You are staking 0.00 USDC ($0.00), 0.00% of the pool.
-Stake 0.00 USDC - Fee 4%
-Unstake 0.00 USDC
-Claim 0.00 OMEGA ($0.00)
-Staking or unstaking also claims rewards.
-
-4 - QUICK Price: $251.15 Market Cap: $239,980,877.11 [%]
-Staked: 0.0040 QUICK ($1.02)
-OMEGA Per Week: 698.18 ($0.12)
-APR: Day 1.72% Week 12.07% Year 627.85%
-You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
-Stake 0.00 QUICK - Fee 4%
-Unstake 0.00 QUICK
-Claim 0.00 OMEGA ($0.00)
-Staking or unstaking also claims rewards.
-
-5 - USDT Price: $1.00 Market Cap: $313,461,123.87 [%]
-Staked: 2.0088 USDT ($2.01)
-OMEGA Per Week: 698.18 ($0.12)
-APR: Day 0.87% Week 6.11% Year 317.64%
-You are staking 0.00 USDT ($0.00), 0.00% of the pool.
-Stake 0.00 USDT - Fee 4%
-Unstake 0.00 USDT
-Claim 0.00 OMEGA ($0.00)
-Staking or unstaking also claims rewards.
-
-6 - WETH Price: $4,037.32 Market Cap: $1,791,976,592.67 [%]
-Staked: 0.0006 WETH ($2.28)
-OMEGA Per Week: 698.18 ($0.12)
-APR: Day 0.77% Week 5.39% Year 280.05%
-You are staking 0.00 WETH ($0.00), 0.00% of the pool.
-Stake 0.00 WETH - Fee 4%
-Unstake 0.00 WETH
-Claim 0.00 OMEGA ($0.00)
-Staking or unstaking also claims rewards.
-
-7 - WBTC Price: $49,041.00 Market Cap: $497,466,096.73 [%]
-Staked: 0.0000 WBTC ($2.13)
-OMEGA Per Week: 698.18 ($0.12)
-APR: Day 0.82% Week 5.75% Year 299.24%
-You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
-Stake 0.00 WBTC - Fee 4%
-Unstake 0.00 WBTC
-Claim 0.00 OMEGA ($0.00)
-Staking or unstaking also claims rewards.
-
-8 - DAI Price: $1.00 Market Cap: $374,131,149.78 [%]
-Staked: 3.9256 DAI ($3.93)
-OMEGA Per Week: 698.18 ($0.12)
-APR: Day 0.45% Week 3.13% Year 162.54%
-You are staking 0.00 DAI ($0.00), 0.00% of the pool.
-Stake 0.00 DAI - Fee 4%
-Unstake 0.00 DAI
-Claim 0.00 OMEGA ($0.00)
-Staking or unstaking also claims rewards.
-
-9 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,872,786.25 TVL: $52,318,174.64
-WMATIC Price: $2.15
-USDC Price: $1.00
-Staked: 0.0000 UNI-V2 ($0.28)
-OMEGA Per Week: 1396.36 ($0.25)
-APR: Day 12.72% Week 89.05% Year 4630.62%
-You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
-Unstake 0.00 [WMATIC]-[USDC] Uni LP
-Claim 0.00 OMEGA ($0.00)
-Staking or unstaking also claims rewards.
-
-10 - [USDC]-[USDT] Uni LP [+] [-] [<=>] Price: $2,624,551,586,108.17 TVL: $24,542,816.07
-USDC Price: $1.00
-USDT Price: $1.00
-Staked: 0.0000 UNI-V2 ($0.16)
-OMEGA Per Week: 1396.36 ($0.25)
-APR: Day 22.48% Week 157.39% Year 8184.17%
-You are staking 0.00 [USDC]-[USDT] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[USDT] Uni LP - Fee 4%
-Unstake 0.00 [USDC]-[USDT] Uni LP
-Claim 0.00 OMEGA ($0.00)
-Staking or unstaking also claims rewards.
-
-11 - PolyDoge Price: $0.0000000241 Market Cap: $24,100,000.00 [%]
-Staked: 360878746.5965 PolyDoge ($8.70)
-OMEGA Per Week: 698.18 ($0.12)
-APR: Day 0.20% Week 1.41% Year 73.37%
-You are staking 0.00 PolyDoge ($0.00), 0.00% of the pool.
-Stake 0.00 PolyDoge - Fee 4%
-Unstake 0.00 PolyDoge
-Claim 0.00 OMEGA ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $41.82
+{
+  "code": -32603,
+  "message": "Non-200 status code: '400'",
+  "data": {
+    "error": "Unable to verify your data submission."
+  }
+}
+Oops something went wrong. Try refreshing the page.

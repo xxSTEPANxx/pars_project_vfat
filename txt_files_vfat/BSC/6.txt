@@ -1,0 +1,688 @@
+*************** 👨‍🌾 UNOFFICIAL BAKERYSWAP FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://www.bakeryswap.org
+*******************************************************************************
+
+Thu Jan 27 2022 20:12:22 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 36 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [USDT]-[WBNB] BLP [+] [-] [<=>] Price: $133.89 TVL: $225,031.34
+USDT Price: $1.00
+WBNB Price: $372.91
+Staked: 1150.0486 BLP ($153,983.93)
+BAKE Per Week: 765.57 ($473.48)
+APR: Day 0.04% Week 0.31% Year 15.99%
+You are staking 0.00 [USDT]-[WBNB] BLP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WBNB] BLP
+Unstake 0.00 [USDT]-[WBNB] BLP
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WBNB]-[BAKE] BLP [+] [-] [<=>] Price: $45.20 TVL: $18,994,585.89
+WBNB Price: $372.91
+BAKE Price: $0.62
+Staked: 324972.3123 BLP ($14,690,188.82)
+BAKE Per Week: 15311.39 ($9,469.70)
+APR: Day 0.01% Week 0.06% Year 3.35%
+You are staking 0.00 [WBNB]-[BAKE] BLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BAKE] BLP
+Unstake 0.00 [WBNB]-[BAKE] BLP
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BUSD] BLP [+] [-] [<=>] Price: $60.94 TVL: $491,103.34
+WBNB Price: $372.91
+BUSD Price: $1.00
+Staked: 6523.9343 BLP ($397,542.36)
+BAKE Per Week: 2296.71 ($1,420.45)
+APR: Day 0.05% Week 0.36% Year 18.58%
+You are staking 0.00 [WBNB]-[BUSD] BLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] BLP
+Unstake 0.00 [WBNB]-[BUSD] BLP
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [ETH]-[WBNB] BLP [+] [-] [<=>] Price: $2,114.84 TVL: $556,765.91
+ETH Price: $2,479.71
+WBNB Price: $372.91
+Staked: 260.5422 BLP ($551,005.30)
+BAKE Per Week: 765.57 ($473.48)
+APR: Day 0.01% Week 0.09% Year 4.47%
+You are staking 0.00 [ETH]-[WBNB] BLP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] BLP
+Unstake 0.00 [ETH]-[WBNB] BLP
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [BTCB]-[WBNB] BLP [+] [-] [<=>] Price: $7,863.05 TVL: $286,808.86
+BTCB Price: $36,685.00
+WBNB Price: $372.91
+Staked: 28.1464 BLP ($221,316.46)
+BAKE Per Week: 765.57 ($473.48)
+APR: Day 0.03% Week 0.21% Year 11.12%
+You are staking 0.00 [BTCB]-[WBNB] BLP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] BLP
+Unstake 0.00 [BTCB]-[WBNB] BLP
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - BAKE Price: $0.62 Market Cap: $452,435,915.64 [%]
+Staked: 33089295.6878 BAKE ($20,464,869.06)
+BAKE Per Week: 15311.39 ($9,469.70)
+APR: Day 0.01% Week 0.05% Year 2.41%
+You are staking 0.00 BAKE ($0.00), 0.00% of the pool.
+Stake 0.00 BAKE
+Unstake 0.00 BAKE
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - SOCCER Price: $0.00 Market Cap: $0.00 
+Staked: 340.5402 SOCCER ($0.00)
+BAKE Per Week: 765.57 ($473.48)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SOCCER ($0.00), NaN% of the pool.
+Stake 0.00 SOCCER
+Unstake 0.00 SOCCER
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [POKER]-[WBNB] BLP [+] [-] [<=>] Price: $660.16 TVL: $83,833.76
+POKER Price: $268.95
+WBNB Price: $372.91
+Staked: 121.6522 BLP ($80,310.19)
+BAKE Per Week: 765.57 ($473.48)
+APR: Day 0.08% Week 0.59% Year 30.66%
+You are staking 0.00 [POKER]-[WBNB] BLP ($0.00), 0.00% of the pool.
+Stake 0.00 [POKER]-[WBNB] BLP
+Unstake 0.00 [POKER]-[WBNB] BLP
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - POKER Price: $268.95 Market Cap: $137,432.07 [%]
+Staked: 339.9432 POKER ($91,426.80)
+BAKE Per Week: 765.57 ($473.48)
+APR: Day 0.07% Week 0.52% Year 26.93%
+You are staking 0.00 POKER ($0.00), 0.00% of the pool.
+Stake 0.00 POKER
+Unstake 0.00 POKER
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [CAR]-[WBNB] BLP [+] [-] [<=>] Price: $671.16 TVL: $97,824.82
+CAR Price: $270.79
+WBNB Price: $372.91
+Staked: 142.8078 BLP ($95,846.88)
+BAKE Per Week: 765.57 ($473.48)
+APR: Day 0.07% Week 0.49% Year 25.69%
+You are staking 0.00 [CAR]-[WBNB] BLP ($0.00), 0.00% of the pool.
+Stake 0.00 [CAR]-[WBNB] BLP
+Unstake 0.00 [CAR]-[WBNB] BLP
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - CAR Price: $270.79 Market Cap: $186,035.73 [%]
+Staked: 450.4270 CAR ($121,973.10)
+BAKE Per Week: 765.57 ($473.48)
+APR: Day 0.06% Week 0.39% Year 20.19%
+You are staking 0.00 CAR ($0.00), 0.00% of the pool.
+Stake 0.00 CAR
+Unstake 0.00 CAR
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [DOGGY]-[WBNB] BLP [+] [-] [<=>] Price: $2.47 TVL: $1,687,317.15
+DOGGY Price: $0.001848
+WBNB Price: $372.91
+Staked: 68344.4079 BLP ($168,892.93)
+BAKE Per Week: 765.57 ($473.48)
+APR: Day 0.04% Week 0.28% Year 14.58%
+You are staking 0.00 [DOGGY]-[WBNB] BLP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOGGY]-[WBNB] BLP
+Unstake 0.00 [DOGGY]-[WBNB] BLP
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [WBNB]-[TOKAU] BLP [+] [-] [<=>] Price: $0.04 TVL: $282,687.95
+WBNB Price: $372.91
+TOKAU Price: $0.0000000133
+Staked: 4564189.0282 BLP ($195,333.22)
+BAKE Per Week: 765.57 ($473.48)
+APR: Day 0.03% Week 0.24% Year 12.60%
+You are staking 0.00 [WBNB]-[TOKAU] BLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[TOKAU] BLP
+Unstake 0.00 [WBNB]-[TOKAU] BLP
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - [WBNB]-[GAT] BLP [+] [-] [<=>] Price: $119.89 TVL: $408,582.04
+WBNB Price: $372.91
+GAT Price: $5.37
+Staked: 365.1726 BLP ($43,781.81)
+BAKE Per Week: 765.57 ($473.48)
+APR: Day 0.15% Week 1.08% Year 56.24%
+You are staking 0.00 [WBNB]-[GAT] BLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[GAT] BLP
+Unstake 0.00 [WBNB]-[GAT] BLP
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - [SOCCER]-[WBNB] BLP [+] [-] [<=>] Price: $856.91 TVL: $90,122.12
+SOCCER Price: $267.73
+WBNB Price: $372.91
+Staked: 104.1266 BLP ($89,226.87)
+BAKE Per Week: 765.57 ($473.48)
+APR: Day 0.08% Week 0.53% Year 27.59%
+You are staking 0.00 [SOCCER]-[WBNB] BLP ($0.00), 0.00% of the pool.
+Stake 0.00 [SOCCER]-[WBNB] BLP
+Unstake 0.00 [SOCCER]-[WBNB] BLP
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - [BAKE]-[BUSD] BLP [+] [-] [<=>] Price: $2.47 TVL: $472,089.88
+BAKE Price: $0.62
+BUSD Price: $1.00
+Staked: 114774.8387 BLP ($283,902.87)
+BAKE Per Week: 765.57 ($473.48)
+APR: Day 0.02% Week 0.17% Year 8.67%
+You are staking 0.00 [BAKE]-[BUSD] BLP ($0.00), 0.00% of the pool.
+Stake 0.00 [BAKE]-[BUSD] BLP
+Unstake 0.00 [BAKE]-[BUSD] BLP
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - ComboStakingPower Price: $0.00 Market Cap: $0.00 
+Staked: 7896543.1898 ComboStakingPower ($0.00)
+BAKE Per Week: 11483.54 ($7,102.27)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 ComboStakingPower ($0.00), NaN% of the pool.
+Stake 0.00 ComboStakingPower
+Unstake 0.00 ComboStakingPower
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - BakerySoccerStakingPower Price: $0.00 Market Cap: $0.00 
+Staked: 329.0000 BakerySoccerStakingPower ($0.00)
+BAKE Per Week: 765.57 ($473.48)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BakerySoccerStakingPower ($0.00), NaN% of the pool.
+Stake 0.00 BakerySoccerStakingPower
+Unstake 0.00 BakerySoccerStakingPower
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+29 - CarNFTStakingPower Price: $0.00 Market Cap: $0.00 
+Staked: 28150.2000 CarNFTStakingPower ($0.00)
+BAKE Per Week: 765.57 ($473.48)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 CarNFTStakingPower ($0.00), NaN% of the pool.
+Stake 0.00 CarNFTStakingPower
+Unstake 0.00 CarNFTStakingPower
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+30 - DoggyNFTStakingPower Price: $0.00 Market Cap: $0.00 
+Staked: 5163.0000 DoggyNFTStakingPower ($0.00)
+BAKE Per Week: 765.57 ($473.48)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 DoggyNFTStakingPower ($0.00), NaN% of the pool.
+Stake 0.00 DoggyNFTStakingPower
+Unstake 0.00 DoggyNFTStakingPower
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+31 - BarkingNFTStakingPower Price: $0.00 Market Cap: $0.00 
+Staked: 1253.0000 BarkingNFTStakingPower ($0.00)
+BAKE Per Week: 765.57 ($473.48)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BarkingNFTStakingPower ($0.00), NaN% of the pool.
+Stake 0.00 BarkingNFTStakingPower
+Unstake 0.00 BarkingNFTStakingPower
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+32 - PokerCardStakingPower Price: $0.00 Market Cap: $0.00 
+Staked: 4196000.0000 PokerCardStakingPower ($0.00)
+BAKE Per Week: 765.57 ($473.48)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 PokerCardStakingPower ($0.00), NaN% of the pool.
+Stake 0.00 PokerCardStakingPower
+Unstake 0.00 PokerCardStakingPower
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+33 - DoggyEquipmentStakingPower Price: $0.00 Market Cap: $0.00 
+Staked: 242.0000 DoggyEquipmentStakingPower ($0.00)
+BAKE Per Week: 765.57 ($473.48)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 DoggyEquipmentStakingPower ($0.00), NaN% of the pool.
+Stake 0.00 DoggyEquipmentStakingPower
+Unstake 0.00 DoggyEquipmentStakingPower
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+34 - BakeMuskMixerStakingPower Price: $0.00 Market Cap: $0.00 
+Staked: 48.0000 BakeMuskMixerStakingPower ($0.00)
+BAKE Per Week: 765.57 ($473.48)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BakeMuskMixerStakingPower ($0.00), NaN% of the pool.
+Stake 0.00 BakeMuskMixerStakingPower
+Unstake 0.00 BakeMuskMixerStakingPower
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+35 - [EGG]-[WBNB] BLP [+] [-] [<=>] Price: $709.80 TVL: $52,628.49
+EGG Price: $327.94
+WBNB Price: $372.91
+Staked: 55.3270 BLP ($39,271.19)
+BAKE Per Week: 765.57 ($473.48)
+APR: Day 0.17% Week 1.21% Year 62.70%
+You are staking 0.00 [EGG]-[WBNB] BLP ($0.00), 0.00% of the pool.
+Stake 0.00 [EGG]-[WBNB] BLP
+Unstake 0.00 [EGG]-[WBNB] BLP
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $37,688,871.78
+Staking Contract
+Found 47 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [WBNB]-[BAKE] BLP [+] [-] [<=>] Price: $45.20 TVL: $18,994,585.89
+WBNB Price: $372.91
+BAKE Price: $0.62
+Staked: 9423.3985 BLP ($425,979.38)
+BAKE Per Week: 166077.80 ($102,714.80)
+APR: Day 3.44% Week 24.11% Year 1253.86%
+You are staking 0.00 [WBNB]-[BAKE] BLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BAKE] BLP
+Unstake 0.00 [WBNB]-[BAKE] BLP
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WBNB]-[BUSD] BLP [+] [-] [<=>] Price: $60.94 TVL: $491,103.34
+WBNB Price: $372.91
+BUSD Price: $1.00
+Staked: 630.8225 BLP ($38,439.79)
+BAKE Per Week: 16607.78 ($10,271.48)
+APR: Day 3.82% Week 26.72% Year 1389.49%
+You are staking 0.00 [WBNB]-[BUSD] BLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] BLP
+Unstake 0.00 [WBNB]-[BUSD] BLP
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [ETH]-[WBNB] BLP [+] [-] [<=>] Price: $2,114.84 TVL: $556,765.91
+ETH Price: $2,479.71
+WBNB Price: $372.91
+Staked: 1.0869 BLP ($2,298.63)
+BAKE Per Week: 5535.93 ($3,423.83)
+APR: Day 21.28% Week 148.95% Year 7745.42%
+You are staking 0.00 [ETH]-[WBNB] BLP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] BLP
+Unstake 0.00 [ETH]-[WBNB] BLP
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [BTCB]-[WBNB] BLP [+] [-] [<=>] Price: $7,863.05 TVL: $286,808.86
+BTCB Price: $36,685.00
+WBNB Price: $372.91
+Staked: 6.4935 BLP ($51,058.64)
+BAKE Per Week: 193757.44 ($119,833.94)
+APR: Day 33.53% Week 234.70% Year 12204.33%
+You are staking 0.00 [BTCB]-[WBNB] BLP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] BLP
+Unstake 0.00 [BTCB]-[WBNB] BLP
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - BAKE Price: $0.62 Market Cap: $452,435,915.64 [%]
+Staked: 2271555.3179 BAKE ($1,404,897.90)
+BAKE Per Week: 116254.46 ($71,900.36)
+APR: Day 0.73% Week 5.12% Year 266.13%
+You are staking 0.00 BAKE ($0.00), 0.00% of the pool.
+Stake 0.00 BAKE
+Unstake 0.00 BAKE
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [BAKE]-[BUSD] BLP [+] [-] [<=>] Price: $2.47 TVL: $472,089.88
+BAKE Price: $0.62
+BUSD Price: $1.00
+Staked: 37289.6354 BLP ($92,238.29)
+BAKE Per Week: 44287.41 ($27,390.61)
+APR: Day 4.24% Week 29.70% Year 1544.17%
+You are staking 0.00 [BAKE]-[BUSD] BLP ($0.00), 0.00% of the pool.
+Stake 0.00 [BAKE]-[BUSD] BLP
+Unstake 0.00 [BAKE]-[BUSD] BLP
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [USDT]-[BUSD] BLP [+] [-] [<=>] Price: $2.04 TVL: $34,306.91
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 7908.2402 BLP ($16,099.39)
+BAKE Per Week: 11071.85 ($6,847.65)
+APR: Day 6.08% Week 42.53% Year 2211.75%
+You are staking 0.00 [USDT]-[BUSD] BLP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] BLP
+Unstake 0.00 [USDT]-[BUSD] BLP
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - DSPT Price: $0.00 Market Cap: $0.00 
+Staked: 1165337.3205 DSPT ($0.00)
+BAKE Per Week: 138398.17 ($85,595.67)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 DSPT ($0.00), NaN% of the pool.
+Stake 0.00 DSPT
+Unstake 0.00 DSPT
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [PET]-[BAKE] BLP [+] [-] [<=>] Price: $0.40 TVL: $21,588.67
+PET Price: $0.05
+BAKE Price: $0.62
+Staked: 16325.6085 BLP ($6,516.26)
+BAKE Per Week: 5535.93 ($3,423.83)
+APR: Day 7.51% Week 52.54% Year 2732.22%
+You are staking 0.00 [PET]-[BAKE] BLP ($0.00), 0.00% of the pool.
+Stake 0.00 [PET]-[BAKE] BLP
+Unstake 0.00 [PET]-[BAKE] BLP
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [DOGE]-[BAKE] BLP [+] [-] [<=>] Price: $68,567.15 TVL: $34,502.10
+DOGE Price: $0.14
+BAKE Price: $0.62
+Staked: 0.1824 BLP ($12,504.13)
+BAKE Per Week: 5535.93 ($3,423.83)
+APR: Day 3.91% Week 27.38% Year 1423.84%
+You are staking 0.00 [DOGE]-[BAKE] BLP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOGE]-[BAKE] BLP
+Unstake 0.00 [DOGE]-[BAKE] BLP
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - BAKEReserve Price: $0.00 Market Cap: $0.00 
+Staked: 10000.0000 BAKEReserve ($0.00)
+BAKE Per Week: 11071853.55 ($6,847,653.55)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BAKEReserve ($0.00), NaN% of the pool.
+Stake 0.00 BAKEReserve
+Unstake 0.00 BAKEReserve
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - [USDC]-[BUSD] BLP [+] [-] [<=>] Price: $2.01 TVL: $35,756.93
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 16484.7704 BLP ($33,073.29)
+BAKE Per Week: 199293.36 ($123,257.76)
+APR: Day 53.24% Week 372.68% Year 19379.40%
+You are staking 0.00 [USDC]-[BUSD] BLP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] BLP
+Unstake 0.00 [USDC]-[BUSD] BLP
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - [BAT]-[BAKE] BLP [+] [-] [<=>] Price: $1.54 TVL: $7,558.88
+BAT Price: $0.84
+BAKE Price: $0.62
+Staked: 3602.8878 BLP ($5,563.96)
+BAKE Per Week: 5535.93 ($3,423.83)
+APR: Day 8.79% Week 61.54% Year 3199.86%
+You are staking 0.00 [BAT]-[BAKE] BLP ($0.00), 0.00% of the pool.
+Stake 0.00 [BAT]-[BAKE] BLP
+Unstake 0.00 [BAT]-[BAKE] BLP
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - [AUTO]-[WBNB] BLP [+] [-] [<=>] Price: $823.57 TVL: $26,710.26
+AUTO Price: $412.17
+WBNB Price: $372.91
+Staked: 17.2714 BLP ($14,224.21)
+BAKE Per Week: 5535.93 ($3,423.83)
+APR: Day 3.44% Week 24.07% Year 1251.66%
+You are staking 0.00 [AUTO]-[WBNB] BLP ($0.00), 0.00% of the pool.
+Stake 0.00 [AUTO]-[WBNB] BLP
+Unstake 0.00 [AUTO]-[WBNB] BLP
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - SOCCER Price: $267.73 Market Cap: $148,187.64 [%]
+Staked: 23.6888 SOCCER ($6,342.17)
+BAKE Per Week: 5535.93 ($3,423.83)
+APR: Day 7.71% Week 53.99% Year 2807.23%
+You are staking 0.00 SOCCER ($0.00), 0.00% of the pool.
+Stake 0.00 SOCCER
+Unstake 0.00 SOCCER
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - [SOCCER]-[BAKE] BLP [+] [-] [<=>] Price: $27.68 TVL: $1,803.35
+SOCCER Price: $267.73
+BAKE Price: $0.62
+Staked: 38.6104 BLP ($1,068.69)
+BAKE Per Week: 5535.93 ($3,423.83)
+APR: Day 45.77% Week 320.38% Year 16659.59%
+You are staking 0.00 [SOCCER]-[BAKE] BLP ($0.00), 0.00% of the pool.
+Stake 0.00 [SOCCER]-[BAKE] BLP
+Unstake 0.00 [SOCCER]-[BAKE] BLP
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+29 - BakerySoccerStakingPower Price: $0.00 Market Cap: $0.00 
+Staked: 23.0000 BakerySoccerStakingPower ($0.00)
+BAKE Per Week: 5535.93 ($3,423.83)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BakerySoccerStakingPower ($0.00), NaN% of the pool.
+Stake 0.00 BakerySoccerStakingPower
+Unstake 0.00 BakerySoccerStakingPower
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+31 - [TCT]-[BUSD] BLP [+] [-] [<=>] Price: $0.30 TVL: $9,875.47
+TCT Price: $0.02
+BUSD Price: $1.00
+Staked: 19393.1296 BLP ($5,746.55)
+BAKE Per Week: 5535.93 ($3,423.83)
+APR: Day 8.51% Week 59.58% Year 3098.19%
+You are staking 0.00 [TCT]-[BUSD] BLP ($0.00), 0.00% of the pool.
+Stake 0.00 [TCT]-[BUSD] BLP
+Unstake 0.00 [TCT]-[BUSD] BLP
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+32 - [POKER]-[WBNB] BLP [+] [-] [<=>] Price: $660.16 TVL: $83,833.76
+POKER Price: $268.95
+WBNB Price: $372.91
+Staked: 1.9159 BLP ($1,264.80)
+BAKE Per Week: 5535.93 ($3,423.83)
+APR: Day 38.67% Week 270.70% Year 14076.49%
+You are staking 0.00 [POKER]-[WBNB] BLP ($0.00), 0.00% of the pool.
+Stake 0.00 [POKER]-[WBNB] BLP
+Unstake 0.00 [POKER]-[WBNB] BLP
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+33 - POKER Price: $268.95 Market Cap: $137,432.07 [%]
+Staked: 2.5426 POKER ($683.83)
+BAKE Per Week: 5535.93 ($3,423.83)
+APR: Day 71.53% Week 500.69% Year 26035.72%
+You are staking 0.00 POKER ($0.00), 0.00% of the pool.
+Stake 0.00 POKER
+Unstake 0.00 POKER
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+34 - [CAR]-[WBNB] BLP [+] [-] [<=>] Price: $671.16 TVL: $97,824.82
+CAR Price: $270.79
+WBNB Price: $372.91
+Staked: 1.7842 BLP ($1,197.47)
+BAKE Per Week: 5535.93 ($3,423.83)
+APR: Day 40.85% Week 285.92% Year 14867.93%
+You are staking 0.00 [CAR]-[WBNB] BLP ($0.00), 0.00% of the pool.
+Stake 0.00 [CAR]-[WBNB] BLP
+Unstake 0.00 [CAR]-[WBNB] BLP
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+35 - CAR Price: $270.79 Market Cap: $186,035.73 [%]
+Staked: 20.4130 CAR ($5,527.74)
+BAKE Per Week: 5535.93 ($3,423.83)
+APR: Day 8.85% Week 61.94% Year 3220.83%
+You are staking 0.00 CAR ($0.00), 0.00% of the pool.
+Stake 0.00 CAR
+Unstake 0.00 CAR
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+36 - CarNFTStakingPowerToken Price: $0.00 Market Cap: $0.00 
+Staked: 1500.0000 CarNFTStakingPowerToken ($0.00)
+BAKE Per Week: 5535.93 ($3,423.83)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 CarNFTStakingPowerToken ($0.00), NaN% of the pool.
+Stake 0.00 CarNFTStakingPowerToken
+Unstake 0.00 CarNFTStakingPowerToken
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+37 - [DOGGY]-[WBNB] BLP [+] [-] [<=>] Price: $2.47 TVL: $1,687,317.15
+DOGGY Price: $0.001848
+WBNB Price: $372.91
+Staked: 610425.3079 BLP ($1,508,485.10)
+BAKE Per Week: 16607.78 ($10,271.48)
+APR: Day 0.10% Week 0.68% Year 35.41%
+You are staking 0.00 [DOGGY]-[WBNB] BLP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOGGY]-[WBNB] BLP
+Unstake 0.00 [DOGGY]-[WBNB] BLP
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+38 - DoggyNFTStakingPower Price: $0.00 Market Cap: $0.00 
+Staked: 982.0000 DoggyNFTStakingPower ($0.00)
+BAKE Per Week: 5535.93 ($3,423.83)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 DoggyNFTStakingPower ($0.00), NaN% of the pool.
+Stake 0.00 DoggyNFTStakingPower
+Unstake 0.00 DoggyNFTStakingPower
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+39 - [DOGGY]-[BARK] BLP [+] [-] [<=>] Price: $0.00 TVL: $934,068.19
+DOGGY Price: $0.001848
+BARK Price: $0.000169
+Staked: 812675294.1283 BLP ($927,824.55)
+BAKE Per Week: 5535.93 ($3,423.83)
+APR: Day 0.05% Week 0.37% Year 19.19%
+You are staking 0.00 [DOGGY]-[BARK] BLP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOGGY]-[BARK] BLP
+Unstake 0.00 [DOGGY]-[BARK] BLP
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+40 - BarkingNFTStakingPower Price: $0.00 Market Cap: $0.00 
+Staked: 117.0000 BarkingNFTStakingPower ($0.00)
+BAKE Per Week: 5535.93 ($3,423.83)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BarkingNFTStakingPower ($0.00), NaN% of the pool.
+Stake 0.00 BarkingNFTStakingPower
+Unstake 0.00 BarkingNFTStakingPower
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+41 - [WBNB]-[TOKAU] BLP [+] [-] [<=>] Price: $0.04 TVL: $282,687.95
+WBNB Price: $372.91
+TOKAU Price: $0.0000000133
+Staked: 74371.4922 BLP ($3,182.87)
+BAKE Per Week: 5535.93 ($3,423.83)
+APR: Day 15.37% Week 107.57% Year 5593.66%
+You are staking 0.00 [WBNB]-[TOKAU] BLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[TOKAU] BLP
+Unstake 0.00 [WBNB]-[TOKAU] BLP
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+43 - PokerCardStakingPower Price: $0.00 Market Cap: $0.00 
+Staked: 10637500.0000 PokerCardStakingPower ($0.00)
+BAKE Per Week: 5535.93 ($3,423.83)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 PokerCardStakingPower ($0.00), NaN% of the pool.
+Stake 0.00 PokerCardStakingPower
+Unstake 0.00 PokerCardStakingPower
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+44 - DoggyEquipmentStakingPower Price: $0.00 Market Cap: $0.00 
+Staked: 5.0000 DoggyEquipmentStakingPower ($0.00)
+BAKE Per Week: 5535.93 ($3,423.83)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 DoggyEquipmentStakingPower ($0.00), NaN% of the pool.
+Stake 0.00 DoggyEquipmentStakingPower
+Unstake 0.00 DoggyEquipmentStakingPower
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+45 - [WBNB]-[GAT] BLP [+] [-] [<=>] Price: $119.89 TVL: $408,582.04
+WBNB Price: $372.91
+GAT Price: $5.37
+Staked: 0.4323 BLP ($51.83)
+BAKE Per Week: 5535.93 ($3,423.83)
+APR: Day 943.66% Week 6605.62% Year 343492.35%
+You are staking 0.00 [WBNB]-[GAT] BLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[GAT] BLP
+Unstake 0.00 [WBNB]-[GAT] BLP
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+46 - BakeMuskMixerStakingPower Price: $0.00 Market Cap: $0.00 
+Staked: 8.0000 BakeMuskMixerStakingPower ($0.00)
+BAKE Per Week: 5535.93 ($3,423.83)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BakeMuskMixerStakingPower ($0.00), NaN% of the pool.
+Stake 0.00 BakeMuskMixerStakingPower
+Unstake 0.00 BakeMuskMixerStakingPower
+Claim 0.00 BAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $4,564,269.47
+Staking Contract
+Found 1 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [PET]-[WBNB] BLP [+] [-] [<=>] Price: $31.71 TVL: $111,840.43
+PET Price: $0.05
+WBNB Price: $372.91
+Staked: 3313.5518 BLP ($105,066.08)
+PET Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [PET]-[WBNB] BLP ($0.00), 0.00% of the pool.
+Stake 0.00 [PET]-[WBNB] BLP
+Unstake 0.00 [PET]-[WBNB] BLP
+Claim 0.00 PET ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $105,066.08
+Staking Contract
+Found 1 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [ALICE]-[BAKE] BLP [+] [-] [<=>] Price: $283,670,971.42 TVL: $622,390.18
+ALICE Price: $6.80
+BAKE Price: $0.62
+Staked: 0.0021 BLP ($604,080.36)
+ALICE Per Week: 699.96 ($4,760.14)
+APR: Day 0.11% Week 0.79% Year 40.98%
+You are staking 0.00 [ALICE]-[BAKE] BLP ($0.00), 0.00% of the pool.
+Stake 0.00 [ALICE]-[BAKE] BLP
+Unstake 0.00 [ALICE]-[BAKE] BLP
+Claim 0.00 ALICE ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $604,080.36

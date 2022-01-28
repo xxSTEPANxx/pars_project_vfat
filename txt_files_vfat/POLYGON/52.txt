@@ -6,7 +6,7 @@ INFO  : https://polygon.iron.finance
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Fri Dec 17 2021 09:34:28 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 22:13:36 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
@@ -16,10 +16,9 @@ Found 5 pools.
 Showing incentivized pools only.
 {
   "code": -32603,
-  "message": "Internal JSON-RPC error.",
+  "message": "Non-200 status code: '400'",
   "data": {
-    "code": -32000,
-    "message": "header not found"
+    "error": "Unable to verify your data submission."
   }
 }
 Oops something went wrong. Try refreshing the page.

@@ -1,0 +1,337 @@
+*************** 👨‍🌾 UNOFFICIAL COBRA JUNGLESWAP FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://cobra.jungleswap.cash
+*************************************************************************************
+
+Thu Jan 27 2022 21:32:45 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 29 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [BUSD]-[COBRA] Cake LP [+] [-] [<=>] Price: $0.09 TVL: $229.11
+BUSD Price: $1.00
+COBRA Price: $0.001782
+Staked: 1016.5010 Cake-LP ($95.67)
+COBRA Per Week: 5.61 ($0.01)
+APR: Day 0.00% Week 0.01% Year 0.54%
+You are staking 0.00 [BUSD]-[COBRA] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUSD]-[COBRA] Cake LP
+Unstake 0.00 [BUSD]-[COBRA] Cake LP
+Claim 0.00 COBRA ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WBNB]-[COBRA] Cake LP [+] [-] [<=>] Price: $2.00 TVL: $54.98
+WBNB Price: $368.61
+COBRA Price: $0.001782
+Staked: 22.5350 Cake-LP ($45.17)
+COBRA Per Week: 4.68 ($0.01)
+APR: Day 0.00% Week 0.02% Year 0.96%
+You are staking 0.00 [WBNB]-[COBRA] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[COBRA] Cake LP
+Unstake 0.00 [WBNB]-[COBRA] Cake LP
+Claim 0.00 COBRA ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - COBRA Price: $0.001782 Market Cap: $282.76 [%]
+Staked: 21899.1694 COBRA ($39.02)
+COBRA Per Week: 2.94 ($0.01)
+APR: Day 0.00% Week 0.01% Year 0.70%
+You are staking 0.00 COBRA ($0.00), 0.00% of the pool.
+Stake 0.00 COBRA
+Unstake 0.00 COBRA
+Claim 0.00 COBRA ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.42 TVL: $345,944,146.65
+WBNB Price: $368.61
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+COBRA Per Week: 0.74 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 COBRA ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $7,731.81 TVL: $68,375,157.01
+BTCB Price: $36,133.00
+WBNB Price: $368.61
+Staked: 0.0000 Cake-LP ($0.00)
+COBRA Per Week: 0.67 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 COBRA ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,035.99 TVL: $74,175,738.04
+ETH Price: $2,434.69
+WBNB Price: $368.61
+Staked: 0.0000 Cake-LP ($0.00)
+COBRA Per Week: 0.67 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 COBRA ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $105.28 TVL: $200,452,906.54
+Cake Price: $6.97
+WBNB Price: $368.61
+Staked: 0.0000 Cake-LP ($0.00)
+COBRA Per Week: 0.53 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 COBRA ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [Cake]-[BUSD] Cake LP [+] [-] [<=>] Price: $7.79 TVL: $11,467,370.65
+Cake Price: $6.97
+BUSD Price: $1.00
+Staked: 0.1617 Cake-LP ($1.26)
+COBRA Per Week: 0.47 ($0.00)
+APR: Day 0.01% Week 0.07% Year 3.44%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 COBRA ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [DOT]-[WBNB] Cake LP [+] [-] [<=>] Price: $172.40 TVL: $17,698,995.99
+DOT Price: $17.91
+WBNB Price: $368.61
+Staked: 0.0000 Cake-LP ($0.00)
+COBRA Per Week: 0.47 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 COBRA ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [ADA]-[WBNB] Cake LP [+] [-] [<=>] Price: $42.31 TVL: $12,081,038.43
+ADA Price: $1.03
+WBNB Price: $368.61
+Staked: 0.0000 Cake-LP ($0.00)
+COBRA Per Week: 0.47 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 COBRA ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $296,899,481.06
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+COBRA Per Week: 0.60 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 COBRA ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [DAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.08 TVL: $16,848,632.11
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+COBRA Per Week: 0.60 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 COBRA ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $131,368,293.12
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 0.9335 Cake-LP ($1.95)
+COBRA Per Week: 0.60 ($0.00)
+APR: Day 0.01% Week 0.05% Year 2.86%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 COBRA ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - BUSD Price: $1.00 Market Cap: $4,839,158,099.12 [%]
+Staked: 0.0000 BUSD ($0.00)
+COBRA Per Week: 0.47 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 BUSD ($0.00), NaN% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 COBRA ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - USDT Price: $1.00 Market Cap: $3,879,997,922.18 [%]
+Staked: 1.9200 USDT ($1.92)
+COBRA Per Week: 0.47 ($0.00)
+APR: Day 0.01% Week 0.04% Year 2.26%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 COBRA ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - WBNB Price: $368.61 Market Cap: $1,924,180,630.89 [%]
+Staked: 0.0032 WBNB ($1.18)
+COBRA Per Week: 0.47 ($0.00)
+APR: Day 0.01% Week 0.07% Year 3.69%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 COBRA ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - BTCB Price: $36,133.00 Market Cap: $4,064,998,633.00 [%]
+Staked: 0.0000 BTCB ($0.00)
+COBRA Per Week: 0.27 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 BTCB ($0.00), NaN% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 COBRA ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - ETH Price: $2,434.69 Market Cap: $3,420,739,450.00 [%]
+Staked: 0.0000 ETH ($0.00)
+COBRA Per Week: 0.27 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 ETH ($0.00), NaN% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 COBRA ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - Cake Price: $6.97 Market Cap: $4,286,321,790.53 [%]
+Staked: 0.0000 Cake ($0.00)
+COBRA Per Week: 0.27 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 Cake ($0.00), NaN% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 COBRA ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - DAI Price: $1.00 Market Cap: $262,000,000.00 [%]
+Staked: 1.1911 DAI ($1.19)
+COBRA Per Week: 0.27 ($0.00)
+APR: Day 0.01% Week 0.04% Year 2.08%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 COBRA ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - USDC Price: $1.00 Market Cap: $1,779,000,000.00 [%]
+Staked: 0.0000 USDC ($0.00)
+COBRA Per Week: 0.27 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 USDC ($0.00), NaN% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 COBRA ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - DOT Price: $17.91 Market Cap: $286,559,999.84 [%]
+Staked: 0.0000 DOT ($0.00)
+COBRA Per Week: 0.27 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 DOT ($0.00), NaN% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 COBRA ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - [JUNGLE]-[BUSD] Cake LP [+] [-] [<=>] Price: $28,865.83 TVL: $3,121.07
+JUNGLE Price: $0.24
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+COBRA Per Week: 1.34 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [JUNGLE]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [JUNGLE]-[BUSD] Cake LP - Fee 1%
+Unstake 0.00 [JUNGLE]-[BUSD] Cake LP
+Claim 0.00 COBRA ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [KONG]-[BUSD] Cake LP [+] [-] [<=>] Price: $34,341.91 TVL: $1,015.28
+KONG Price: $0.05
+BUSD Price: $1.00
+Staked: 0.0009 Cake-LP ($31.68)
+COBRA Per Week: 1.00 ($0.00)
+APR: Day 0.00% Week 0.01% Year 0.29%
+You are staking 0.00 [KONG]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KONG]-[BUSD] Cake LP - Fee 1%
+Unstake 0.00 [KONG]-[BUSD] Cake LP
+Claim 0.00 COBRA ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - JUNGLE Price: $0.24 Market Cap: $40,245.52 [%]
+Staked: 105.7062 JUNGLE ($25.39)
+COBRA Per Week: 1.34 ($0.00)
+APR: Day 0.00% Week 0.01% Year 0.49%
+You are staking 0.00 JUNGLE ($0.00), 0.00% of the pool.
+Stake 0.00 JUNGLE
+Unstake 0.00 JUNGLE
+Claim 0.00 COBRA ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - KONG Price: $0.05 Market Cap: $1,976.26 [%]
+Staked: 147.8638 KONG ($7.68)
+COBRA Per Week: 1.00 ($0.00)
+APR: Day 0.00% Week 0.02% Year 1.21%
+You are staking 0.00 KONG ($0.00), 0.00% of the pool.
+Stake 0.00 KONG
+Unstake 0.00 KONG
+Claim 0.00 COBRA ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - [JUNGLE]-[COBRA] Cake LP [+] [-] [<=>] Price: $0.05 TVL: $5.25
+JUNGLE Price: $0.24
+COBRA Price: $0.001782
+Staked: 115.3128 Cake-LP ($5.20)
+COBRA Per Week: 2.41 ($0.00)
+APR: Day 0.01% Week 0.08% Year 4.28%
+You are staking 0.00 [JUNGLE]-[COBRA] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [JUNGLE]-[COBRA] Cake LP
+Unstake 0.00 [JUNGLE]-[COBRA] Cake LP
+Claim 0.00 COBRA ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - [JUNGLE]-[BR34P] Cake LP [+] [-] [<=>] Price: $2,209,939.50 TVL: $11,143.12
+JUNGLE Price: $0.24
+BR34P Price: $375.02
+Staked: 0.0002 Cake-LP ($522.90)
+COBRA Per Week: 0.67 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.01%
+You are staking 0.00 [JUNGLE]-[BR34P] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [JUNGLE]-[BR34P] Cake LP - Fee 1%
+Unstake 0.00 [JUNGLE]-[BR34P] Cake LP
+Claim 0.00 COBRA ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - GREEDY Price: $0.00 Market Cap: $0.00 
+Staked: 66404.8994 GREEDY ($0.00)
+COBRA Per Week: 0.40 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 GREEDY ($0.00), NaN% of the pool.
+Stake 0.00 GREEDY - Fee 2%
+Unstake 0.00 GREEDY
+Claim 0.00 COBRA ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $780.21

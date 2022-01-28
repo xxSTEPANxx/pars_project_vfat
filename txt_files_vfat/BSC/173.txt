@@ -1,0 +1,147 @@
+*************** 👨‍🌾 UNOFFICIAL SHRIMP.FINANCE FARMING CALCULATOR 👨‍🌾 ***********************
+INFO  : https://shrimpswap.finance
+*******************************************************************************************
+
+Thu Jan 27 2022 20:47:40 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 12 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - SHRIMP Price: $0.000258 Market Cap: $5,414.58 [%]
+Staked: 2332223.2150 SHRIMP ($601.33)
+SHRIMP Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 SHRIMP ($0.00), 0.00% of the pool.
+Stake 0.00 SHRIMP
+Unstake 0.00 SHRIMP
+Claim 0.00 SHRIMP ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [SHRIMP]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.03 TVL: $1,344.17
+SHRIMP Price: $0.000258
+BUSD Price: $1.00
+Staked: 23922.4027 Cake-LP ($811.26)
+SHRIMP Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [SHRIMP]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SHRIMP]-[BUSD] Cake LP
+Unstake 0.00 [SHRIMP]-[BUSD] Cake LP
+Claim 0.00 SHRIMP ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [SHRIMP]-[WBNB] Cake LP [+] [-] [<=>] Price: $0.64 TVL: $907.97
+SHRIMP Price: $0.000258
+WBNB Price: $370.11
+Staked: 454.5514 Cake-LP ($292.11)
+SHRIMP Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [SHRIMP]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SHRIMP]-[WBNB] Cake LP
+Unstake 0.00 [SHRIMP]-[WBNB] Cake LP
+Claim 0.00 SHRIMP ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $66.01 TVL: $2,135,920.76
+WBNB Price: $370.11
+BUSD Price: $1.00
+Staked: 11.5100 Cake-LP ($759.73)
+SHRIMP Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 3%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 SHRIMP ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [ETH]-[BETH] Cake LP [+] [-] [<=>] Price: $4,805.83 TVL: $313,353.95
+ETH Price: $2,427.79
+BETH Price: $2,307.11
+Staked: 0.0000 Cake-LP ($0.00)
+SHRIMP Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [ETH]-[BETH] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[BETH] Cake LP - Fee 3%
+Unstake 0.00 [ETH]-[BETH] Cake LP
+Claim 0.00 SHRIMP ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [Cake]-[BUSD] Cake LP [+] [-] [<=>] Price: $8.62 TVL: $68,143.57
+Cake Price: $7.06
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+SHRIMP Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP - Fee 3%
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 SHRIMP ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - BUSD Price: $1.00 Market Cap: $4,849,558,641.81 [%]
+Staked: 30.6236 BUSD ($30.61)
+SHRIMP Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 3%
+Unstake 0.00 BUSD
+Claim 0.00 SHRIMP ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - WBNB Price: $370.11 Market Cap: $1,932,383,844.36 [%]
+Staked: 0.0000 WBNB ($0.00)
+SHRIMP Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 3%
+Unstake 0.00 WBNB
+Claim 0.00 SHRIMP ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - Cake Price: $7.06 Market Cap: $4,341,579,115.21 [%]
+Staked: 7.0941 Cake ($50.08)
+SHRIMP Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 3%
+Unstake 0.00 Cake
+Claim 0.00 SHRIMP ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - DOGE Price: $0.14 Market Cap: $282,212,000.00 [%]
+Staked: 1640.4168 DOGE ($231.47)
+SHRIMP Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 DOGE ($0.00), 0.00% of the pool.
+Stake 0.00 DOGE - Fee 3%
+Unstake 0.00 DOGE
+Claim 0.00 SHRIMP ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [USDT]-[USDC] Cake LP [+] [-] [<=>] Price: $2.07 TVL: $53,061.49
+USDT Price: $1.00
+USDC Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+SHRIMP Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDT]-[USDC] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[USDC] Cake LP - Fee 3%
+Unstake 0.00 [USDT]-[USDC] Cake LP
+Claim 0.00 SHRIMP ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - SALT Price: $0.00 Market Cap: $0.00 
+Staked: 1065.4574 SALT ($0.00)
+SHRIMP Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SALT ($0.00), NaN% of the pool.
+Stake 0.00 SALT - Fee 3%
+Unstake 0.00 SALT
+Claim 0.00 SHRIMP ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $2,776.60

@@ -1,0 +1,30 @@
+*************** 👨‍🌾 UNOFFICIAL ARBITER FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://lootswap.finance/guilds/arb
+**************************************************************************************
+
+Fri Jan 28 2022 01:02:14 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 16 pools.
+Showing incentivized pools only.
+{
+  "reason": null,
+  "code": "CALL_EXCEPTION",
+  "method": "pendingReward(uint256,address)",
+  "errorArgs": null,
+  "errorName": null,
+  "errorSignature": null,
+  "address": "0x1b1987278d7737aa6bced283643c314c318c3879",
+  "args": [
+    1,
+    "0x9fc94f19a42067a4620a9885808aeee8b1b9a444"
+  ],
+  "transaction": {
+    "data": "0x98969e8200000000000000000000000000000000000000000000000000000000000000010000000000000000000000009fc94f19a42067a4620a9885808aeee8b1b9a444",
+    "to": "0x1b1987278d7737aa6bCeD283643C314c318C3879"
+  }
+}
+Oops something went wrong. Try refreshing the page.

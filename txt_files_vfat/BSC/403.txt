@@ -1,0 +1,151 @@
+*************** 👨‍🌾 UNOFFICIAL BOOBAFINANCE FARMING CALCULATOR 👨‍🌾 *****************
+INFO  : https://app.boobafinance.com
+***********************************************************************************
+
+Thu Jan 27 2022 21:24:32 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 14 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - LIV Price: $0.000603 Market Cap: $153.42 [%]
+Staked: 146389.0102 LIV ($88.31)
+LIV Per Week: 458.18 ($0.28)
+APR: Day 0.04% Week 0.31% Year 16.28%
+You are staking 0.00 LIV ($0.00), 0.00% of the pool.
+Stake 0.00 LIV
+Unstake 0.00 LIV
+Claim 0.00 LIV ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [LIV]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.05 TVL: $20.07
+LIV Price: $0.000603
+BUSD Price: $1.00
+Staked: 373.7517 Cake-LP ($19.65)
+LIV Per Week: 458.18 ($0.28)
+APR: Day 0.20% Week 1.41% Year 73.15%
+You are staking 0.00 [LIV]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LIV]-[BUSD] Cake LP
+Unstake 0.00 [LIV]-[BUSD] Cake LP
+Claim 0.00 LIV ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [LIV]-[WBNB] Cake LP [+] [-] [<=>] Price: $1.09 TVL: $27.95
+LIV Price: $0.000603
+WBNB Price: $367.59
+Staked: 22.7681 Cake-LP ($24.72)
+LIV Per Week: 458.18 ($0.28)
+APR: Day 0.16% Week 1.12% Year 58.15%
+You are staking 0.00 [LIV]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LIV]-[WBNB] Cake LP
+Unstake 0.00 [LIV]-[WBNB] Cake LP
+Claim 0.00 LIV ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.36 TVL: $345,553,096.93
+WBNB Price: $367.59
+BUSD Price: $1.00
+Staked: 0.2475 Cake-LP ($11.72)
+LIV Per Week: 229.09 ($0.14)
+APR: Day 0.17% Week 1.18% Year 61.31%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 3%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 LIV ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - WBNB Price: $367.59 Market Cap: $1,918,417,630.43 [%]
+Staked: 0.0540 WBNB ($19.85)
+LIV Per Week: 229.09 ($0.14)
+APR: Day 0.10% Week 0.70% Year 36.20%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 2%
+Unstake 0.00 WBNB
+Claim 0.00 LIV ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [LIV]-[BOBA] Cake LP [+] [-] [<=>] Price: $0.01 TVL: $39.03
+LIV Price: $0.000603
+BOBA Price: $0.0000000000
+Staked: 3621.9103 Cake-LP ($29.59)
+LIV Per Week: 4581.82 ($2.76)
+APR: Day 1.33% Week 9.34% Year 485.68%
+You are staking 0.00 [LIV]-[BOBA] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LIV]-[BOBA] Cake LP
+Unstake 0.00 [LIV]-[BOBA] Cake LP
+Claim 0.00 LIV ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [BOBA]-[WBNB] Cake LP [+] [-] [<=>] Price: $4.73 TVL: $5,365.74
+BOBA Price: $0.0000000000
+WBNB Price: $367.59
+Staked: 34.6250 Cake-LP ($163.67)
+LIV Per Week: 916.36 ($0.55)
+APR: Day 0.05% Week 0.34% Year 17.56%
+You are staking 0.00 [BOBA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BOBA]-[WBNB] Cake LP
+Unstake 0.00 [BOBA]-[WBNB] Cake LP
+Claim 0.00 LIV ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [BOBA]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.33 TVL: $87.55
+BOBA Price: $0.0000000000
+BUSD Price: $1.00
+Staked: 264.4104 Cake-LP ($86.89)
+LIV Per Week: 916.36 ($0.55)
+APR: Day 0.09% Week 0.64% Year 33.08%
+You are staking 0.00 [BOBA]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BOBA]-[BUSD] Cake LP
+Unstake 0.00 [BOBA]-[BUSD] Cake LP
+Claim 0.00 LIV ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $7,728.27 TVL: $68,343,787.81
+BTCB Price: $36,200.00
+WBNB Price: $367.59
+Staked: 0.0145 Cake-LP ($112.18)
+LIV Per Week: 229.09 ($0.14)
+APR: Day 0.02% Week 0.12% Year 6.41%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 3%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 LIV ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $105.14 TVL: $200,172,143.74
+Cake Price: $6.97
+WBNB Price: $367.59
+Staked: 0.0764 Cake-LP ($8.03)
+LIV Per Week: 229.09 ($0.14)
+APR: Day 0.25% Week 1.72% Year 89.51%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 3%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 LIV ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - Cake Price: $6.97 Market Cap: $4,286,306,208.59 [%]
+Staked: 0.3055 Cake ($2.13)
+LIV Per Week: 229.09 ($0.14)
+APR: Day 0.93% Week 6.49% Year 337.52%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 3%
+Unstake 0.00 Cake
+Claim 0.00 LIV ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - ETH Price: $2,435.14 Market Cap: $3,421,371,700.00 [%]
+Staked: 0.0040 ETH ($9.73)
+LIV Per Week: 229.09 ($0.14)
+APR: Day 0.20% Week 1.42% Year 73.88%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 3%
+Unstake 0.00 ETH
+Claim 0.00 LIV ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $576.46

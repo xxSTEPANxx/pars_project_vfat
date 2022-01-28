@@ -6,119 +6,20 @@ INFO  : https://fire.elementic.finance
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Thu Dec 16 2021 05:57:41 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 23:50:25 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
+Staking Contract
 Found 10 pools.
 Showing incentivized pools only.
-Finished reading smart contracts.
-0 - [WMATIC]-[FIRE] Uni LP [+] [-] [<=>] Price: $1.44 TVL: $14.13
-WMATIC Price: $2.15
-FIRE Price: $0.24
-Staked: 8.9545 UNI-V2 ($12.93)
-FIRE Per Week: 3.46 ($0.82)
-APR: Day 0.90% Week 6.33% Year 329.11%
-You are staking 0.00 [WMATIC]-[FIRE] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[FIRE] Uni LP
-Unstake 0.00 [WMATIC]-[FIRE] Uni LP
-Claim 0.00 FIRE ($0.00)
-Staking or unstaking also claims rewards.
-
-1 - [USDC]-[FIRE] Uni LP [+] [-] [<=>] Price: $1,001,439.25 TVL: $7.31
-USDC Price: $1.00
-FIRE Price: $0.24
-Staked: 0.0000 UNI-V2 ($6.20)
-FIRE Per Week: 3.74 ($0.89)
-APR: Day 2.04% Week 14.30% Year 743.44%
-You are staking 0.00 [USDC]-[FIRE] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[FIRE] Uni LP
-Unstake 0.00 [USDC]-[FIRE] Uni LP
-Claim 0.00 FIRE ($0.00)
-Staking or unstaking also claims rewards.
-
-2 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,872,815.05 TVL: $52,319,385.18
-WMATIC Price: $2.15
-USDC Price: $1.00
-Staked: 0.0001 UNI-V2 ($710.42)
-FIRE Per Week: 0.29 ($0.07)
-APR: Day 0.00% Week 0.01% Year 0.50%
-You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 3.8%
-Unstake 0.00 [WMATIC]-[USDC] Uni LP
-Claim 0.00 FIRE ($0.00)
-Staking or unstaking also claims rewards.
-
-3 - FIRE Price: $0.24 Market Cap: $15.70 [%]
-Staked: 16.6020 FIRE ($3.93)
-FIRE Per Week: 2.30 ($0.55)
-APR: Day 1.98% Week 13.88% Year 721.65%
-You are staking 0.00 FIRE ($0.00), 0.00% of the pool.
-Stake 0.00 FIRE
-Unstake 0.00 FIRE
-Claim 0.00 FIRE ($0.00)
-Staking or unstaking also claims rewards.
-
-4 - WMATIC Price: $2.15 Market Cap: $654,653,659.84 [%]
-Staked: 437.1780 WMATIC ($939.93)
-FIRE Per Week: 0.29 ($0.07)
-APR: Day 0.00% Week 0.01% Year 0.38%
-You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
-Stake 0.00 WMATIC - Fee 3.8%
-Unstake 0.00 WMATIC
-Claim 0.00 FIRE ($0.00)
-Staking or unstaking also claims rewards.
-
-5 - USDC Price: $1.00 Market Cap: $943,500,239.53 [%]
-Staked: 11.1361 USDC ($11.14)
-FIRE Per Week: 0.29 ($0.07)
-APR: Day 0.09% Week 0.61% Year 31.85%
-You are staking 0.00 USDC ($0.00), 0.00% of the pool.
-Stake 0.00 USDC - Fee 3.8%
-Unstake 0.00 USDC
-Claim 0.00 FIRE ($0.00)
-Staking or unstaking also claims rewards.
-
-6 - USDT Price: $1.00 Market Cap: $313,461,279.68 [%]
-Staked: 532.3827 USDT ($532.38)
-FIRE Per Week: 0.29 ($0.07)
-APR: Day 0.00% Week 0.01% Year 0.67%
-You are staking 0.00 USDT ($0.00), 0.00% of the pool.
-Stake 0.00 USDT - Fee 3.8%
-Unstake 0.00 USDT
-Claim 0.00 FIRE ($0.00)
-Staking or unstaking also claims rewards.
-
-7 - DAI Price: $1.00 Market Cap: $374,131,149.78 [%]
-Staked: 2.9726 DAI ($2.97)
-FIRE Per Week: 0.29 ($0.07)
-APR: Day 0.33% Week 2.29% Year 119.34%
-You are staking 0.00 DAI ($0.00), 0.00% of the pool.
-Stake 0.00 DAI - Fee 3.8%
-Unstake 0.00 DAI
-Claim 0.00 FIRE ($0.00)
-Staking or unstaking also claims rewards.
-
-8 - WETH Price: $4,037.16 Market Cap: $1,791,978,545.65 [%]
-Staked: 0.0000 WETH ($0.00)
-FIRE Per Week: 0.29 ($0.07)
-APR: Day 241396109563926.22% Week 1689772766947483.50% Year 87868183881269136.00%
-You are staking 0.00 WETH ($0.00), 0.00% of the pool.
-Stake 0.00 WETH - Fee 3.8%
-Unstake 0.00 WETH
-Claim 0.00 FIRE ($0.00)
-Staking or unstaking also claims rewards.
-
-9 - WBTC Price: $49,029.00 Market Cap: $497,344,370.15 [%]
-Staked: 0.0051 WBTC ($248.06)
-FIRE Per Week: 0.29 ($0.07)
-APR: Day 0.00% Week 0.03% Year 1.43%
-You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
-Stake 0.00 WBTC - Fee 3.8%
-Unstake 0.00 WBTC
-Claim 0.00 FIRE ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $2,467.98
+{
+  "code": -32603,
+  "message": "Non-200 status code: '400'",
+  "data": {
+    "error": "Unable to verify your data submission."
+  }
+}
+Oops something went wrong. Try refreshing the page.

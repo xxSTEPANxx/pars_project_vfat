@@ -1,0 +1,183 @@
+*************** 👨‍🌾 UNOFFICIAL SALEM FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://salem.finance
+***********************************************************************************
+
+Fri Jan 28 2022 00:48:48 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 15 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - SALEM Price: $0.13 Market Cap: $2,145.56 
+Staked: 3673.6681 SALEM ($474.92)
+SALEM Per Week: 73.30 ($9.48)
+APR: Day 0.29% Week 2.00% Year 103.76%
+You are staking 0.00 SALEM ($0.00), 0.00% of the pool.
+Stake 0.00 SALEM
+Unstake 0.00 SALEM
+Claim 0.00 SALEM ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WFTM]-[SALEM] SPOOKY LP [+] [-] [<=>] Price: $1.05 TVL: $284.53
+WFTM Price: $2.03
+SALEM Price: $0.13
+Staked: 134.0754 spLP ($141.38)
+SALEM Per Week: 87.97 ($11.37)
+APR: Day 1.15% Week 8.04% Year 418.26%
+You are staking 0.00 [WFTM]-[SALEM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[SALEM] SPOOKY LP
+Unstake 0.00 [WFTM]-[SALEM] SPOOKY LP
+Claim 0.00 SALEM ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [USDC]-[SALEM] SPOOKY LP [+] [-] [<=>] Price: $748,586.78 TVL: $1,059.71
+USDC Price: $1.01
+SALEM Price: $0.13
+Staked: 0.0002 spLP ($151.15)
+SALEM Per Week: 87.97 ($11.37)
+APR: Day 1.07% Week 7.52% Year 391.23%
+You are staking 0.00 [USDC]-[SALEM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[SALEM] SPOOKY LP
+Unstake 0.00 [USDC]-[SALEM] SPOOKY LP
+Claim 0.00 SALEM ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDC]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $4,384,619.85 TVL: $168,792,648.37
+USDC Price: $1.01
+WFTM Price: $2.03
+Staked: 0.0000 spLP ($131.54)
+SALEM Per Week: 43.98 ($5.69)
+APR: Day 0.62% Week 4.32% Year 224.78%
+You are staking 0.00 [USDC]-[WFTM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WFTM] SPOOKY LP - Fee 2%
+Unstake 0.00 [USDC]-[WFTM] SPOOKY LP
+Claim 0.00 SALEM ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [WFTM]-[ETH] SPOOKY LP [+] [-] [<=>] Price: $157.04 TVL: $42,580,920.60
+WFTM Price: $2.03
+ETH Price: $2,352.96
+Staked: 0.6161 spLP ($96.76)
+SALEM Per Week: 40.32 ($5.21)
+APR: Day 0.77% Week 5.39% Year 280.11%
+You are staking 0.00 [WFTM]-[ETH] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ETH] SPOOKY LP - Fee 2%
+Unstake 0.00 [WFTM]-[ETH] SPOOKY LP
+Claim 0.00 SALEM ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WFTM]-[BTC] SPOOKY LP [+] [-] [<=>] Price: $11,294,428,440.26 TVL: $21,873,888.39
+WFTM Price: $2.03
+BTC Price: $36,039.00
+Staked: 0.0000 spLP ($449.74)
+SALEM Per Week: 40.32 ($5.21)
+APR: Day 0.17% Week 1.16% Year 60.26%
+You are staking 0.00 [WFTM]-[BTC] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BTC] SPOOKY LP - Fee 2%
+Unstake 0.00 [WFTM]-[BTC] SPOOKY LP
+Claim 0.00 SALEM ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [WFTM]-[BNB] SPOOKY LP [+] [-] [<=>] Price: $60.60 TVL: $13,012,434.44
+WFTM Price: $2.03
+BNB Price: $364.91
+Staked: 0.3356 spLP ($20.34)
+SALEM Per Week: 29.32 ($3.79)
+APR: Day 2.66% Week 18.64% Year 969.04%
+You are staking 0.00 [WFTM]-[BNB] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BNB] SPOOKY LP - Fee 2%
+Unstake 0.00 [WFTM]-[BNB] SPOOKY LP
+Claim 0.00 SALEM ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [WFTM]-[DAI] SPOOKY LP [+] [-] [<=>] Price: $3.75 TVL: $43,744,524.18
+WFTM Price: $2.03
+DAI Price: $1.00
+Staked: 35.1150 spLP ($131.72)
+SALEM Per Week: 32.99 ($4.26)
+APR: Day 0.46% Week 3.24% Year 168.35%
+You are staking 0.00 [WFTM]-[DAI] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[DAI] SPOOKY LP - Fee 2%
+Unstake 0.00 [WFTM]-[DAI] SPOOKY LP
+Claim 0.00 SALEM ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [WFTM]-[BOO] SPOOKY LP [+] [-] [<=>] Price: $14.94 TVL: $63,285,381.42
+WFTM Price: $2.03
+BOO Price: $25.16
+Staked: 192.7143 spLP ($2,878.70)
+SALEM Per Week: 40.32 ($5.21)
+APR: Day 0.03% Week 0.18% Year 9.42%
+You are staking 0.00 [WFTM]-[BOO] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BOO] SPOOKY LP - Fee 2%
+Unstake 0.00 [WFTM]-[BOO] SPOOKY LP
+Claim 0.00 SALEM ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [fUSDT]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $3,784,086.24 TVL: $37,172,206.36
+fUSDT Price: $1.00
+WFTM Price: $2.03
+Staked: 0.0000 spLP ($113.78)
+SALEM Per Week: 29.32 ($3.79)
+APR: Day 0.48% Week 3.33% Year 173.24%
+You are staking 0.00 [fUSDT]-[WFTM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [fUSDT]-[WFTM] SPOOKY LP - Fee 2%
+Unstake 0.00 [fUSDT]-[WFTM] SPOOKY LP
+Claim 0.00 SALEM ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - WFTM Price: $2.03 Market Cap: $1,466,242,217.01 
+Staked: 800.5407 WFTM ($1,625.10)
+SALEM Per Week: 40.32 ($5.21)
+APR: Day 0.05% Week 0.32% Year 16.68%
+You are staking 0.00 WFTM ($0.00), 0.00% of the pool.
+Stake 0.00 WFTM - Fee 2%
+Unstake 0.00 WFTM
+Claim 0.00 SALEM ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - USDC Price: $1.01 Market Cap: $1,746,470,111.08 
+Staked: 205.9934 USDC ($208.05)
+SALEM Per Week: 36.65 ($4.74)
+APR: Day 0.33% Week 2.28% Year 118.43%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 2%
+Unstake 0.00 USDC
+Claim 0.00 SALEM ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - BOO Price: $25.16 Market Cap: $212,278,137.34 
+Staked: 57.8427 BOO ($1,455.32)
+SALEM Per Week: 36.65 ($4.74)
+APR: Day 0.05% Week 0.33% Year 16.93%
+You are staking 0.00 BOO ($0.00), 0.00% of the pool.
+Stake 0.00 BOO - Fee 2%
+Unstake 0.00 BOO
+Claim 0.00 SALEM ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - ETH Price: $2,352.96 Market Cap: $1,122,592,759.09 
+Staked: 0.9400 ETH ($2,211.78)
+SALEM Per Week: 40.32 ($5.21)
+APR: Day 0.03% Week 0.24% Year 12.25%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 2%
+Unstake 0.00 ETH
+Claim 0.00 SALEM ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - BTC Price: $36,039.00 Market Cap: $620,116,087.18 
+Staked: 0.0016 BTC ($58.42)
+SALEM Per Week: 40.32 ($5.21)
+APR: Day 1.27% Week 8.92% Year 463.93%
+You are staking 0.00 BTC ($0.00), 0.00% of the pool.
+Stake 0.00 BTC - Fee 2%
+Unstake 0.00 BTC
+Claim 0.00 SALEM ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $10,148.70

@@ -1,0 +1,115 @@
+*************** 👨‍🌾 UNOFFICIAL LIXIR FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://app.lixir.finance
+**************************************************************************
+
+Thu Jan 27 2022 20:06:26 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+[WETH]-[LIX] Lixir LP Token [+] [-] [<=>] Price: $15.96 TVL: $284,372.38
+WETH Price: $2,475.34
+LIX Price: $0.66
+Staked: 17122.8957 lv_LIX-WETH ($273,308.25)
+LIX Per Week: 4370.99 ($2,881.92)
+APR: Day 0.15% Week 1.05% Year 54.83%
+You are staking 0.000000 [WETH]-[LIX] Lixir LP Token $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [WETH]-[LIX] Lixir LP Token
+Unstake 0.000000 [WETH]-[LIX] Lixir LP Token
+Revoke (set approval to 0)
+Exit
+
+[USDC]-[WETH] Lixir LP Token [+] [-] [<=>] Price: $8,260,834.23 TVL: $631,031.07
+USDC Price: $1.00
+WETH Price: $2,475.34
+Staked: 0.0716 lv_WETH-USDC ($591,842.92)
+LIX Per Week: 1457.00 ($960.64)
+APR: Day 0.02% Week 0.16% Year 8.44%
+You are staking 0.000000 [USDC]-[WETH] Lixir LP Token $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [USDC]-[WETH] Lixir LP Token
+Unstake 0.000000 [USDC]-[WETH] Lixir LP Token
+Revoke (set approval to 0)
+Exit
+
+[WBTC]-[WETH] Lixir LP Token [+] [-] [<=>] Price: $159,891,211.06 TVL: $175,195.95
+WBTC Price: $36,607.00
+WETH Price: $2,475.34
+Staked: 0.0011 lv_WBTC-WETH ($172,784.14)
+LIX Per Week: 1457.00 ($960.64)
+APR: Day 0.08% Week 0.56% Year 28.91%
+You are staking 0.000000 [WBTC]-[WETH] Lixir LP Token $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [WBTC]-[WETH] Lixir LP Token
+Unstake 0.000000 [WBTC]-[WETH] Lixir LP Token
+Revoke (set approval to 0)
+Exit
+
+[LINK]-[WETH] Lixir LP Token [+] [-] [<=>] Price: $28.76 TVL: $112,042.91
+LINK Price: $15.47
+WETH Price: $2,475.34
+Staked: 3796.2143 lv_LINK-WETH ($109,181.46)
+LIX Per Week: 2913.99 ($1,921.28)
+APR: Day 0.25% Week 1.76% Year 91.51%
+You are staking 0.000000 [LINK]-[WETH] Lixir LP Token $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [LINK]-[WETH] Lixir LP Token
+Unstake 0.000000 [LINK]-[WETH] Lixir LP Token
+Revoke (set approval to 0)
+Exit
+
+[WETH]-[ENS] Lixir LP Token [+] [-] [<=>] Price: $31.85 TVL: $71,438.25
+WETH Price: $2,475.34
+ENS Price: $16.74
+Staked: 2164.4018 lv_ENS-WETH ($68,940.27)
+LIX Per Week: 2913.99 ($1,921.28)
+APR: Day 0.40% Week 2.79% Year 144.92%
+You are staking 0.000000 [WETH]-[ENS] Lixir LP Token $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [WETH]-[ENS] Lixir LP Token
+Unstake 0.000000 [WETH]-[ENS] Lixir LP Token
+Revoke (set approval to 0)
+Exit
+
+[WETH]-[WSTR] Lixir LP Token [+] [-] [<=>] Price: $3,884.93 TVL: $3,130.68
+WETH Price: $2,475.34
+WSTR Price: $9,343.78
+Staked: 0.8059 lv_WSTR-WETH ($3,130.68)
+LIX Per Week: 771.35 ($508.57)
+APR: Day 2.32% Week 16.24% Year 844.73%
+You are staking 0.000000 [WETH]-[WSTR] Lixir LP Token $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [WETH]-[WSTR] Lixir LP Token
+Unstake 0.000000 [WETH]-[WSTR] Lixir LP Token
+Revoke (set approval to 0)
+Exit
+
+[FLOKI]-[WETH] Lixir LP Token [+] [-] [<=>] Price: $142.59 TVL: $45.25
+FLOKI Price: $0.0000013581
+WETH Price: $2,475.34
+Staked: 0.2429 lv_FLOKI-WETH ($34.63)
+LIX Per Week: 771.35 ($508.57)
+APR: Day 209.80% Week 1468.61% Year 76367.50%
+You are staking 0.000000 [FLOKI]-[WETH] Lixir LP Token $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [FLOKI]-[WETH] Lixir LP Token
+Unstake 0.000000 [FLOKI]-[WETH] Lixir LP Token
+Revoke (set approval to 0)
+Exit
+
+[SOS]-[WETH] Lixir LP Token [+] [-] [<=>] Price: $0.01 TVL: $5,804.43
+SOS Price: $0.0000018100
+WETH Price: $2,475.34
+Staked: 419170.2810 lv_SOS-WETH ($5,315.50)
+LIX Per Week: 771.35 ($508.57)
+APR: Day 1.37% Week 9.57% Year 497.52%
+You are staking 0.000000 [SOS]-[WETH] Lixir LP Token $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [SOS]-[WETH] Lixir LP Token
+Unstake 0.000000 [SOS]-[WETH] Lixir LP Token
+Revoke (set approval to 0)
+Exit
+
+Total staked: $1,224,537.85

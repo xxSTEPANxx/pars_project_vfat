@@ -1,0 +1,135 @@
+***************************** FANTOM NETWORK *************************************
+    
+*************** 👨‍🌾 UNOFFICIAL MORPHEUS SWAP FARMING CALCULATOR 👨‍🌾 *********************
+INFO  : https://morpheusswap.finance/
+***********************************************************************************
+
+Fri Jan 28 2022 00:42:48 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 70 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+54 - [WFTM]-[MIM] Uni LP [+] [-] [<=>] Price: $2.85 TVL: $1,388,934.37
+WFTM Price: $2.02
+MIM Price: $1.00
+Staked: 484495.4871 mLP ($1,382,717.93)
+MORPH Per Week: 47912.77 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [WFTM]-[MIM] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[MIM] Uni LP
+Unstake 0.00 [WFTM]-[MIM] Uni LP
+Claim 0.00 MORPH ($0.00)
+Staking or unstaking also claims rewards.
+
+55 - [USDC]-[WFTM] Uni LP [+] [-] [<=>] Price: $765,103,777.75 TVL: $1,898,458.71
+USDC Price: $1.00
+WFTM Price: $2.02
+Staked: 0.0025 mLP ($1,893,981.16)
+MORPH Per Week: 43099.95 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [USDC]-[WFTM] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WFTM] Uni LP
+Unstake 0.00 [USDC]-[WFTM] Uni LP
+Claim 0.00 MORPH ($0.00)
+Staking or unstaking also claims rewards.
+
+58 - [WFTM]-[ETH] Uni LP [+] [-] [<=>] Price: $136.94 TVL: $1,514,335.39
+WFTM Price: $2.02
+ETH Price: $2,320.36
+Staked: 11052.7897 mLP ($1,513,584.19)
+MORPH Per Week: 38330.22 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [WFTM]-[ETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ETH] Uni LP
+Unstake 0.00 [WFTM]-[ETH] Uni LP
+Claim 0.00 MORPH ($0.00)
+Staking or unstaking also claims rewards.
+
+59 - [WFTM]-[BTC] Uni LP [+] [-] [<=>] Price: $53,873,943.66 TVL: $1,168,752.19
+WFTM Price: $2.02
+BTC Price: $35,866.00
+Staked: 0.0217 mLP ($1,167,640.12)
+MORPH Per Week: 38330.22 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [WFTM]-[BTC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BTC] Uni LP
+Unstake 0.00 [WFTM]-[BTC] Uni LP
+Claim 0.00 MORPH ($0.00)
+Staking or unstaking also claims rewards.
+
+63 - [MIM]-[wMEMO] Uni LP [+] [-] [<=>] Price: $288.23 TVL: $160,707.65
+MIM Price: $1.00
+wMEMO Price: $20,739.88
+Staked: 548.3447 mLP ($158,052.06)
+MORPH Per Week: 9212.61 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [MIM]-[wMEMO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MIM]-[wMEMO] Uni LP
+Unstake 0.00 [MIM]-[wMEMO] Uni LP
+Claim 0.00 MORPH ($0.00)
+Staking or unstaking also claims rewards.
+
+64 - NEO Price: $0.00 Market Cap: $0.00 
+Staked: 1.0000 NEO ($0.00)
+MORPH Per Week: 35683.16 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 NEO ($0.00), NaN% of the pool.
+Stake 0.00 NEO
+Unstake 0.00 NEO
+Claim 0.00 MORPH ($0.00)
+Staking or unstaking also claims rewards.
+
+66 - [WFTM]-[wMEMO] Uni LP [+] [-] [<=>] Price: $409.47 TVL: $421,757.31
+WFTM Price: $2.02
+wMEMO Price: $20,739.88
+Staked: 1001.2605 mLP ($409,982.46)
+MORPH Per Week: 21169.26 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [WFTM]-[wMEMO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[wMEMO] Uni LP
+Unstake 0.00 [WFTM]-[wMEMO] Uni LP
+Claim 0.00 MORPH ($0.00)
+Staking or unstaking also claims rewards.
+
+67 - [WFTM]-[nICE] Uni LP [+] [-] [<=>] Price: $5.53 TVL: $422,802.49
+WFTM Price: $2.02
+nICE Price: $3.77
+Staked: 75875.9833 mLP ($419,427.45)
+MORPH Per Week: 21169.26 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [WFTM]-[nICE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[nICE] Uni LP
+Unstake 0.00 [WFTM]-[nICE] Uni LP
+Claim 0.00 MORPH ($0.00)
+Staking or unstaking also claims rewards.
+
+68 - [WFTM]-[sSPELL] Uni LP [+] [-] [<=>] Price: $0.22 TVL: $295,669.39
+WFTM Price: $2.02
+sSPELL Price: $0.006116
+Staked: 1297509.7935 mLP ($288,468.34)
+MORPH Per Week: 21169.26 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [WFTM]-[sSPELL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[sSPELL] Uni LP
+Unstake 0.00 [WFTM]-[sSPELL] Uni LP
+Claim 0.00 MORPH ($0.00)
+Staking or unstaking also claims rewards.
+
+69 - [MIM]-[DAI] Uni LP [+] [-] [<=>] Price: $2.00 TVL: $3,716,753.75
+MIM Price: $1.00
+DAI Price: $1.00
+Staked: 1812919.6698 mLP ($3,625,853.62)
+MORPH Per Week: 26323.29 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [MIM]-[DAI] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MIM]-[DAI] Uni LP
+Unstake 0.00 [MIM]-[DAI] Uni LP
+Claim 0.00 MORPH ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $10,859,707.33

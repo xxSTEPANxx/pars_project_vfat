@@ -1,0 +1,113 @@
+*************** 👩‍🌾 UNOFFICIAL ABRAKADABRA FARMING CALCULATOR 👩‍🌾 ***************
+INFO  : https://abrakadabra.tech
+********************************************************************************
+
+Thu Jan 27 2022 20:36:20 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 9 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - ABRA Price: $0.11 Market Cap: $2,822.09 [%]
+Staked: 8161.1880 ABRA ($879.68)
+ABRA Per Week: 73.64 ($7.94)
+APR: Day 0.13% Week 0.90% Year 46.92%
+You are staking 0.00 ABRA ($0.00), 0.00% of the pool.
+Stake 0.00 ABRA
+Unstake 0.00 ABRA
+Claim 0.00 ABRA ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [ABRA]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.69 TVL: $702.01
+ABRA Price: $0.11
+BUSD Price: $1.00
+Staked: 598.6549 Cake-LP ($412.05)
+ABRA Per Week: 294.58 ($31.75)
+APR: Day 1.10% Week 7.71% Year 400.71%
+You are staking 0.00 [ABRA]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ABRA]-[BUSD] Cake LP
+Unstake 0.00 [ABRA]-[BUSD] Cake LP
+Claim 0.00 ABRA ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[ABRA] Cake LP [+] [-] [<=>] Price: $13.17 TVL: $698.85
+WBNB Price: $370.44
+ABRA Price: $0.11
+Staked: 29.0981 Cake-LP ($383.28)
+ABRA Per Week: 147.29 ($15.88)
+APR: Day 0.59% Week 4.14% Year 215.39%
+You are staking 0.00 [WBNB]-[ABRA] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[ABRA] Cake LP
+Unstake 0.00 [WBNB]-[ABRA] Cake LP
+Claim 0.00 ABRA ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.17 TVL: $3,559,122.99
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 88.9201 Cake-LP ($193.17)
+ABRA Per Week: 44.19 ($4.76)
+APR: Day 0.35% Week 2.47% Year 128.21%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 ABRA ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - BTCB Price: $36,502.00 Market Cap: $4,106,511,502.00 [%]
+Staked: 0.0007 BTCB ($24.50)
+ABRA Per Week: 14.73 ($1.59)
+APR: Day 0.93% Week 6.48% Year 337.03%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 ABRA ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - ETH Price: $2,439.23 Market Cap: $3,427,118,150.00 [%]
+Staked: 0.0070 ETH ($17.07)
+ABRA Per Week: 14.73 ($1.59)
+APR: Day 1.33% Week 9.30% Year 483.50%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 ABRA ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - WBNB Price: $370.44 Market Cap: $1,934,339,326.13 [%]
+Staked: 0.0655 WBNB ($24.25)
+ABRA Per Week: 14.73 ($1.59)
+APR: Day 0.94% Week 6.55% Year 340.48%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 ABRA ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $123.96 TVL: $3,347,402.43
+Cake Price: $7.16
+WBNB Price: $370.44
+Staked: 6.4104 Cake-LP ($794.64)
+ABRA Per Week: 14.73 ($1.59)
+APR: Day 0.03% Week 0.20% Year 10.39%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 3%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 ABRA ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - ADA Price: $1.03 Market Cap: $288,400,000.00 [%]
+Staked: 18.0000 ADA ($18.54)
+ABRA Per Week: 14.73 ($1.59)
+APR: Day 1.22% Week 8.56% Year 445.28%
+You are staking 0.00 ADA ($0.00), 0.00% of the pool.
+Stake 0.00 ADA - Fee 4%
+Unstake 0.00 ADA
+Claim 0.00 ABRA ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $2,747.17

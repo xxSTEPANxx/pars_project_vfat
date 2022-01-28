@@ -1,0 +1,250 @@
+*************** 👨‍🌾 UNOFFICIAL FARMERSONLY FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://app.farmersonly.fi
+**************************************************************************************
+
+Fri Jan 28 2022 01:03:57 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 26 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - FOX Price: $2.51 Market Cap: $741,552.63 
+Staked: 117168.7279 FOX ($293,881.34)
+FOX Per Week: 2245.54 ($5,632.25)
+APR: Day 0.27% Week 1.92% Year 99.66%
+You are staking 0.00 FOX ($0.00), 0.00% of the pool.
+Stake 0.00 FOX
+Unstake 0.00 FOX
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [FOX]-[1USDC] SLP [+] [-] [<=>] Price: $3,453,338.54 TVL: $26,811.23
+FOX Price: $2.51
+1USDC Price: $1.00
+Staked: 0.0074 SLP ($25,502.22)
+FOX Per Week: 149.70 ($375.48)
+APR: Day 0.21% Week 1.47% Year 76.56%
+You are staking 0.00 [FOX]-[1USDC] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [FOX]-[1USDC] SLP
+Unstake 0.00 [FOX]-[1USDC] SLP
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [FOX]-[WONE] SLP [+] [-] [<=>] Price: $1.51 TVL: $39,054.63
+FOX Price: $2.51
+WONE Price: $0.18
+Staked: 23279.1387 SLP ($35,067.92)
+FOX Per Week: 149.70 ($375.48)
+APR: Day 0.15% Week 1.07% Year 55.68%
+You are staking 0.00 [FOX]-[WONE] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [FOX]-[WONE] SLP
+Unstake 0.00 [FOX]-[WONE] SLP
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [FOX]-[WONE] Uni LP [+] [-] [<=>] Price: $1.51 TVL: $16,445.96
+FOX Price: $2.51
+WONE Price: $0.18
+Staked: 7766.1442 JEWEL-LP ($11,731.51)
+FOX Per Week: 149.70 ($375.48)
+APR: Day 0.46% Week 3.20% Year 166.43%
+You are staking 0.00 [FOX]-[WONE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FOX]-[WONE] Uni LP
+Unstake 0.00 [FOX]-[WONE] Uni LP
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - FOXBOND Price: $0.00 Market Cap: $0.00 
+Staked: 1.0000 FOXBOND ($0.00)
+FOX Per Week: 1497.03 ($3,754.83)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FOXBOND ($0.00), NaN% of the pool.
+Stake 0.00 FOXBOND
+Unstake 0.00 FOXBOND
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [FOX]-[WONE] Uni LP [+] [-] [<=>] Price: $1.34 TVL: $337,951.50
+FOX Price: $2.51
+WONE Price: $0.18
+Staked: 252219.6112 FOX-LP ($337,836.50)
+FOX Per Week: 5988.12 ($15,019.33)
+APR: Day 0.64% Week 4.45% Year 231.18%
+You are staking 0.00 [FOX]-[WONE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FOX]-[WONE] Uni LP
+Unstake 0.00 [FOX]-[WONE] Uni LP
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [FOX]-[UST] Uni LP [+] [-] [<=>] Price: $3.18 TVL: $140,489.70
+FOX Price: $2.51
+UST Price: $1.00
+Staked: 44074.2026 FOX-LP ($140,364.33)
+FOX Per Week: 2994.06 ($7,509.67)
+APR: Day 0.76% Week 5.35% Year 278.21%
+You are staking 0.00 [FOX]-[UST] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FOX]-[UST] Uni LP
+Unstake 0.00 [FOX]-[UST] Uni LP
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [FOX]-[stONE] Uni LP [+] [-] [<=>] Price: $1.34 TVL: $23,927.90
+FOX Price: $2.51
+stONE Price: $0.17
+Staked: 17783.4216 FOX-LP ($23,778.68)
+FOX Per Week: 299.41 ($750.97)
+APR: Day 0.45% Week 3.16% Year 164.22%
+You are staking 0.00 [FOX]-[stONE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FOX]-[stONE] Uni LP
+Unstake 0.00 [FOX]-[stONE] Uni LP
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [1ETH]-[WONE] Uni LP [+] [-] [<=>] Price: $40.97 TVL: $80,851.55
+1ETH Price: $2,364.72
+WONE Price: $0.18
+Staked: 1973.0799 FOX-LP ($80,828.59)
+FOX Per Week: 299.41 ($750.97)
+APR: Day 0.13% Week 0.93% Year 48.31%
+You are staking 0.00 [1ETH]-[WONE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [1ETH]-[WONE] Uni LP
+Unstake 0.00 [1ETH]-[WONE] Uni LP
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [1USDC]-[WONE] Uni LP [+] [-] [<=>] Price: $847,751.71 TVL: $52,398.30
+1USDC Price: $1.00
+WONE Price: $0.18
+Staked: 0.0618 FOX-LP ($52,394.79)
+FOX Per Week: 149.70 ($375.48)
+APR: Day 0.10% Week 0.72% Year 37.27%
+You are staking 0.00 [1USDC]-[WONE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [1USDC]-[WONE] Uni LP
+Unstake 0.00 [1USDC]-[WONE] Uni LP
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [UST]-[WONE] Uni LP [+] [-] [<=>] Price: $0.85 TVL: $64,709.78
+UST Price: $1.00
+WONE Price: $0.18
+Staked: 75817.4472 FOX-LP ($64,707.25)
+FOX Per Week: 149.70 ($375.48)
+APR: Day 0.08% Week 0.58% Year 30.17%
+You are staking 0.00 [UST]-[WONE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UST]-[WONE] Uni LP
+Unstake 0.00 [UST]-[WONE] Uni LP
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [FOX]-[MIS] Uni LP [+] [-] [<=>] Price: $1.64 TVL: $9,851.17
+FOX Price: $2.51
+MIS Price: $0.27
+Staked: 5996.8520 FOX-LP ($9,851.07)
+FOX Per Week: 149.70 ($375.48)
+APR: Day 0.54% Week 3.81% Year 198.20%
+You are staking 0.00 [FOX]-[MIS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FOX]-[MIS] Uni LP
+Unstake 0.00 [FOX]-[MIS] Uni LP
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - [FOX]-[JEWEL] Uni LP [+] [-] [<=>] Price: $8.32 TVL: $23,908.28
+FOX Price: $2.51
+JEWEL Price: $6.82
+Staked: 2874.0631 FOX-LP ($23,907.82)
+FOX Per Week: 149.70 ($375.48)
+APR: Day 0.22% Week 1.57% Year 81.67%
+You are staking 0.00 [FOX]-[JEWEL] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FOX]-[JEWEL] Uni LP
+Unstake 0.00 [FOX]-[JEWEL] Uni LP
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - [FOX]-[RVRS] Uni LP [+] [-] [<=>] Price: $1.17 TVL: $7,382.37
+FOX Price: $2.51
+RVRS Price: $0.13
+Staked: 6309.6350 FOX-LP ($7,382.27)
+FOX Per Week: 149.70 ($375.48)
+APR: Day 0.73% Week 5.09% Year 264.49%
+You are staking 0.00 [FOX]-[RVRS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FOX]-[RVRS] Uni LP
+Unstake 0.00 [FOX]-[RVRS] Uni LP
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - [FOX]-[rAVAX] Uni LP [+] [-] [<=>] Price: $24.44 TVL: $12,548.75
+FOX Price: $2.51
+rAVAX Price: $58.51
+Staked: 513.4163 FOX-LP ($12,547.32)
+FOX Per Week: 149.70 ($375.48)
+APR: Day 0.43% Week 2.99% Year 155.61%
+You are staking 0.00 [FOX]-[rAVAX] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FOX]-[rAVAX] Uni LP
+Unstake 0.00 [FOX]-[rAVAX] Uni LP
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [FOX]-[TRANQ] Uni LP [+] [-] [<=>] Price: $1.94 TVL: $14,945.95
+FOX Price: $2.51
+TRANQ Price: $0.37
+Staked: 7694.3007 FOX-LP ($14,942.45)
+FOX Per Week: 149.70 ($375.48)
+APR: Day 0.36% Week 2.51% Year 130.67%
+You are staking 0.00 [FOX]-[TRANQ] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FOX]-[TRANQ] Uni LP
+Unstake 0.00 [FOX]-[TRANQ] Uni LP
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - [FOX]-[COINKX] Uni LP [+] [-] [<=>] Price: $0.44 TVL: $26,821.63
+FOX Price: $2.51
+COINKX Price: $0.02
+Staked: 61153.6464 FOX-LP ($26,821.48)
+FOX Per Week: 149.70 ($375.48)
+APR: Day 0.20% Week 1.40% Year 72.80%
+You are staking 0.00 [FOX]-[COINKX] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FOX]-[COINKX] Uni LP
+Unstake 0.00 [FOX]-[COINKX] Uni LP
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - [FOX]-[XYA] Uni LP [+] [-] [<=>] Price: $1.15 TVL: $6,197.13
+FOX Price: $2.51
+XYA Price: $0.13
+Staked: 5405.1046 FOX-LP ($6,192.80)
+FOX Per Week: 149.70 ($375.48)
+APR: Day 0.87% Week 6.06% Year 315.29%
+You are staking 0.00 [FOX]-[XYA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FOX]-[XYA] Uni LP
+Unstake 0.00 [FOX]-[XYA] Uni LP
+Claim 0.00 FOX ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $1,167,738.35
+
+Found 88 vaults.
+{
+  "code": -32603,
+  "message": "JsonRpcEngine: Response has no error or result for request:\n{\n  \"method\": \"eth_call\",\n  \"params\": [\n    {\n      \"to\": \"0x2914646e782cc36297c6639734892927b3b6fe56\",\n      \"data\": \"0x1526fe270000000000000000000000000000000000000000000000000000000000000048\"\n    },\n    \"0x15372fb\"\n  ],\n  \"jsonrpc\": \"2.0\",\n  \"id\": 2254473409,\n  \"origin\": \"https://vfat.tools\",\n  \"tabId\": 2\n}",
+  "data": {
+    "request": {
+      "method": "eth_call",
+      "params": [
+        {
+          "to": "0x2914646e782cc36297c6639734892927b3b6fe56",
+          "data": "0x1526fe270000000000000000000000000000000000000000000000000000000000000048"
+        },
+        "0x15372fb"
+      ],
+      "jsonrpc": "2.0",
+      "id": 2254473409,
+      "origin": "https://vfat.tools",
+      "tabId": 2
+    }
+  },
+  "stack": "{\n  \"code\": -32603,\n  \"message\": \"JsonRpcEngine: Response has no error or result for request:\\n{\\n  \\\"method\\\": \\\"eth_call\\\",\\n  \\\"params\\\": [\\n    {\\n      \\\"to\\\": \\\"0x2914646e782cc36297c6639734892927b3b6fe56\\\",\\n      \\\"data\\\": \\\"0x1526fe270000000000000000000000000000000000000000000000000000000000000048\\\"\\n    },\\n    \\\"0x15372fb\\\"\\n  ],\\n  \\\"jsonrpc\\\": \\\"2.0\\\",\\n  \\\"id\\\": 2254473409,\\n  \\\"origin\\\": \\\"https://vfat.tools\\\",\\n  \\\"tabId\\\": 2\\n}\",\n  \"data\": {\n    \"request\": {\n      \"method\": \"eth_call\",\n      \"params\": [\n        {\n          \"to\": \"0x2914646e782cc36297c6639734892927b3b6fe56\",\n          \"data\": \"0x1526fe270000000000000000000000000000000000000000000000000000000000000048\"\n        },\n        \"0x15372fb\"\n      ],\n      \"jsonrpc\": \"2.0\",\n      \"id\": 2254473409,\n      \"origin\": \"https://vfat.tools\",\n      \"tabId\": 2\n    }\n  },\n  \"stack\": \"Error: JsonRpcEngine: Response has no error or result for request:\\n{\\n  \\\"method\\\": \\\"eth_call\\\",\\n  \\\"params\\\": [\\n    {\\n      \\\"to\\\": \\\"0x2914646e782cc36297c6639734892927b3b6fe56\\\",\\n      \\\"data\\\": \\\"0x1526fe270000000000000000000000000000000000000000000000000000000000000048\\\"\\n    },\\n    \\\"0x15372fb\\\"\\n  ],\\n  \\\"jsonrpc\\\": \\\"2.0\\\",\\n  \\\"id\\\": 2254473409,\\n  \\\"origin\\\": \\\"https://vfat.tools\\\",\\n  \\\"tabId\\\": 2\\n}\\n    at new o (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/common-1.js:16:24204)\\n    at Function._checkForCompletion (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:305269)\\n    at a._processRequest (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304461)\\n    at async a._handle (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304249)\"\n}\n  at new o (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/common-1.js:16:24204)\n  at Function._checkForCompletion (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:305269)\n  at a._processRequest (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304461)\n  at async a._handle (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304249)"
+}
+Oops something went wrong. Try refreshing the page.

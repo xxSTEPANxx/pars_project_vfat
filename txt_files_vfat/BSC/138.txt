@@ -1,0 +1,145 @@
+*************** 👨‍🌾 UNOFFICIAL DANKSWAP FARMING CALCULATOR 👨‍🌾 *****************
+INFO  : https://app.dankswap.finance
+****************************************************************************************
+
+Thu Jan 27 2022 20:41:06 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 11 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - WEED Price: $0.00 Market Cap: $0.00 
+Staked: 1078131.6113 WEED ($0.00)
+WEED Per Week: 52916.15 ($26.80)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 WEED ($0.00), NaN% of the pool.
+Stake 0.00 WEED
+Unstake 0.00 WEED
+Claim 0.00 WEED ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WEED]-[WBNB] Uni LP [+] [-] [<=>] Price: $0.95 TVL: $930.79
+WEED Price: $0.000507
+WBNB Price: $369.82
+Staked: 346.2208 Weed-LP ($328.55)
+WEED Per Week: 30827.93 ($15.62)
+APR: Day 0.68% Week 4.75% Year 247.15%
+You are staking 0.00 [WEED]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WEED]-[WBNB] Uni LP
+Unstake 0.00 [WEED]-[WBNB] Uni LP
+Claim 0.00 WEED ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BUSD] Uni LP [+] [-] [<=>] Price: $42.65 TVL: $425.13
+WBNB Price: $369.82
+BUSD Price: $1.00
+Staked: 8.9779 Weed-LP ($382.95)
+WEED Per Week: 3082.79 ($1.56)
+APR: Day 0.06% Week 0.41% Year 21.20%
+You are staking 0.00 [WBNB]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Uni LP
+Unstake 0.00 [WBNB]-[BUSD] Uni LP
+Claim 0.00 WEED ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WEED]-[BUSD] Uni LP [+] [-] [<=>] Price: $0.05 TVL: $362.56
+WEED Price: $0.000507
+BUSD Price: $1.00
+Staked: 6258.4170 Weed-LP ($307.58)
+WEED Per Week: 30827.93 ($15.62)
+APR: Day 0.73% Week 5.08% Year 264.00%
+You are staking 0.00 [WEED]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WEED]-[BUSD] Uni LP
+Unstake 0.00 [WEED]-[BUSD] Uni LP
+Claim 0.00 WEED ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [VAI]-[BUSD] Uni LP [+] [-] [<=>] Price: $1.95 TVL: $61.26
+VAI Price: $0.94
+BUSD Price: $1.00
+Staked: 0.0010 Weed-LP ($0.00)
+WEED Per Week: 1541.40 ($0.78)
+APR: Day 5714.83% Week 40003.81% Year 2080198.37%
+You are staking 0.00 [VAI]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [VAI]-[BUSD] Uni LP
+Unstake 0.00 [VAI]-[BUSD] Uni LP
+Claim 0.00 WEED ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [Cake]-[WEED] Uni LP [+] [-] [<=>] Price: $0.12 TVL: $195.53
+Cake Price: $7.10
+WEED Price: $0.000507
+Staked: 870.5795 Weed-LP ($106.35)
+WEED Per Week: 30827.93 ($15.62)
+APR: Day 2.10% Week 14.68% Year 763.53%
+You are staking 0.00 [Cake]-[WEED] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WEED] Uni LP
+Unstake 0.00 [Cake]-[WEED] Uni LP
+Claim 0.00 WEED ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [WEED]-[BAKE] Uni LP [+] [-] [<=>] Price: $0.04 TVL: $97.59
+WEED Price: $0.000507
+BAKE Price: $0.61
+Staked: 1453.7171 Weed-LP ($52.16)
+WEED Per Week: 30827.93 ($15.62)
+APR: Day 4.28% Week 29.94% Year 1556.66%
+You are staking 0.00 [WEED]-[BAKE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WEED]-[BAKE] Uni LP
+Unstake 0.00 [WEED]-[BAKE] Uni LP
+Claim 0.00 WEED ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [WBNB]-[PSG] Uni LP [+] [-] [<=>] Price: $15,250,659,495.80 TVL: $378.92
+WBNB Price: $369.82
+PSG Price: $12.23
+Staked: 0.0000 Weed-LP ($306.95)
+WEED Per Week: 7706.98 ($3.90)
+APR: Day 0.18% Week 1.27% Year 66.14%
+You are staking 0.00 [WBNB]-[PSG] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[PSG] Uni LP
+Unstake 0.00 [WBNB]-[PSG] Uni LP
+Claim 0.00 WEED ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [ASR]-[WBNB] Uni LP [+] [-] [<=>] Price: $7,144,955,256.67 TVL: $490.59
+ASR Price: $2.98
+WBNB Price: $369.82
+Staked: 0.0000 Weed-LP ($451.73)
+WEED Per Week: 7706.98 ($3.90)
+APR: Day 0.12% Week 0.86% Year 44.94%
+You are staking 0.00 [ASR]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ASR]-[WBNB] Uni LP
+Unstake 0.00 [ASR]-[WBNB] Uni LP
+Claim 0.00 WEED ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [ATM]-[WBNB] Uni LP [+] [-] [<=>] Price: $9,087,888,956.70 TVL: $180.13
+ATM Price: $4.95
+WBNB Price: $369.82
+Staked: 0.0000 Weed-LP ($171.32)
+WEED Per Week: 7706.98 ($3.90)
+APR: Day 0.33% Week 2.28% Year 118.49%
+You are staking 0.00 [ATM]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ATM]-[WBNB] Uni LP
+Unstake 0.00 [ATM]-[WBNB] Uni LP
+Claim 0.00 WEED ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [WBNB]-[JUV] Uni LP [+] [-] [<=>] Price: $10,507,730,063.71 TVL: $158.36
+WBNB Price: $369.82
+JUV Price: $6.05
+Staked: 0.0000 Weed-LP ($43.63)
+WEED Per Week: 7706.98 ($3.90)
+APR: Day 1.28% Week 8.95% Year 465.29%
+You are staking 0.00 [WBNB]-[JUV] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[JUV] Uni LP
+Unstake 0.00 [WBNB]-[JUV] Uni LP
+Claim 0.00 WEED ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $2,151.22

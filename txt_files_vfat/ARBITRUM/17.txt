@@ -1,0 +1,106 @@
+********************* 👨‍🌾 IMPERMAX.FINANCE LENDING CALCULATOR 👨‍🌾 **********************
+INFO  : https://arbitrum.impermax.finance
+*****************************************************************************************
+
+Thu Jan 27 2022 21:49:04 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+
+BTC-ETH
+BTC
+Total supplied: 6.411080119999999
+Total borrowed: 5.14251321
+Supply APR: 6.081212098864677%
+Borrow APR: 9.476674244784002%
+Utilization Rate: 80.212898821174%
+Kink Utilization Rate: 80%
+ETH
+Total supplied: 106.84480615310486
+Total borrowed: 72.10269571494356
+Supply APR: 0.8834601592476646%
+Borrow APR: 1.6364355126191998%
+Utilization Rate: 67.48357576841212%
+Kink Utilization Rate: 80%
+
+IMX-ETH
+IMX
+Total supplied: 679829.6098040136
+Total borrowed: 279705.2764287365
+Supply APR: 4.904452383499852%
+Borrow APR: 14.900469490367998%
+Utilization Rate: 41.14343835499781%
+Kink Utilization Rate: 75%
+ETH
+Total supplied: 46.15847056962991
+Total borrowed: 28.277665621226475
+Supply APR: 3.4622991937480156%
+Borrow APR: 7.064516815963201%
+Utilization Rate: 61.26213731143822%
+Kink Utilization Rate: 75%
+
+USDC-ETH
+USDC
+Total supplied: 759248.69811
+Total borrowed: 377385.102639
+Supply APR: 3.5190554651869106%
+Borrow APR: 8.8498401958512%
+Utilization Rate: 49.70507075987431%
+Kink Utilization Rate: 80%
+ETH
+Total supplied: 195.21021961806895
+Total borrowed: 82.41487023459213
+Supply APR: 0.9597836037815101%
+Borrow APR: 2.8417136304816006%
+Utilization Rate: 42.21852236826421%
+Kink Utilization Rate: 80%
+
+USDT-ETH
+USDT
+Total supplied: 84509.514359
+Total borrowed: 50302.395791
+Supply APR: 12.921738625157705%
+Borrow APR: 27.1361293710336%
+Utilization Rate: 59.52276045193361%
+Kink Utilization Rate: 80%
+ETH
+Total supplied: 31.788616817231
+Total borrowed: 11.628460462873726
+Supply APR: 0.8658057173101397%
+Borrow APR: 2.9585565382464%
+Utilization Rate: 36.58058017979104%
+Kink Utilization Rate: 80%
+
+NYAN-ETH
+NYAN
+Total supplied: 40583.8636899863
+Total borrowed: 1000.3180127129566
+Supply APR: 0.0007811129857209161%
+Borrow APR: 0.0352116721728%
+Utilization Rate: 2.4648171015806364%
+Kink Utilization Rate: 70%
+ETH
+Total supplied: 0.34497702923442275
+Total borrowed: 0.03528938295779964
+Supply APR: 0.013454025233708488%
+Borrow APR: 0.14613553764%
+Utilization Rate: 10.229487753464127%
+Kink Utilization Rate: 70%
+
+SUSHI-ETH
+SUSHI
+Total supplied: 8785.80636180287
+Total borrowed: 6744.5970325573235
+Supply APR: 9.84881690841025%
+Borrow APR: 16.0368732617472%
+Utilization Rate: 76.7669665687159%
+Kink Utilization Rate: 75%
+ETH
+Total supplied: 20.845952735292414
+Total borrowed: 14.062152608362405
+Supply APR: 5.083467089455127%
+Borrow APR: 9.419762893838401%
+Utilization Rate: 67.4574714186847%
+Kink Utilization Rate: 75%

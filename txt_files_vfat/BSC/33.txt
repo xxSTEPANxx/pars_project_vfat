@@ -1,0 +1,187 @@
+*************** 👨‍🌾 UNOFFICIAL ALPACA FINANCE FARMING CALCULATOR 👨‍🌾 *****************
+INFO  : https://app.alpacafinance.org
+*************************************************************************************
+
+Thu Jan 27 2022 20:20:30 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 25 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+1 - ibBNB Price: $370.78 Market Cap: $127,325,274.31 [%]
+Staked: 295789.8270 ibBNB ($109,672,952.05)
+ALPACA Per Week: 32292.91 ($11,276.49)
+APR: Day 0.00% Week 0.01% Year 0.53%
+You are staking 0.00 ibBNB ($0.00), 0.00% of the pool.
+Stake 0.00 ibBNB
+Unstake 0.00 ibBNB
+Claim 0.00 ALPACA ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - ibBUSD Price: $1.00 Market Cap: $127,810,140.70 [%]
+Staked: 121042262.8060 ibBUSD ($121,042,262.81)
+ALPACA Per Week: 24911.67 ($8,699.01)
+APR: Day 0.00% Week 0.01% Year 0.37%
+You are staking 0.00 ibBUSD ($0.00), 0.00% of the pool.
+Stake 0.00 ibBUSD
+Unstake 0.00 ibBUSD
+Claim 0.00 ALPACA ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - debtIbBNB_V2 Price: $370.78 Market Cap: $49,584,290.24 [%]
+Staked: 133729.6786 debtIbBNB_V2 ($49,584,290.24)
+ALPACA Per Week: 55359.27 ($19,331.12)
+APR: Day 0.01% Week 0.04% Year 2.03%
+You are staking 0.00 debtIbBNB_V2 ($0.00), 0.00% of the pool.
+Stake 0.00 debtIbBNB_V2
+Unstake 0.00 debtIbBNB_V2
+Claim 0.00 ALPACA ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - debtIbBUSD_V2 Price: $1.00 Market Cap: $46,481,381.06 [%]
+Staked: 46481381.0645 debtIbBUSD_V2 ($46,481,381.06)
+ALPACA Per Week: 55359.27 ($19,331.12)
+APR: Day 0.01% Week 0.04% Year 2.16%
+You are staking 0.00 debtIbBUSD_V2 ($0.00), 0.00% of the pool.
+Stake 0.00 debtIbBUSD_V2
+Unstake 0.00 debtIbBUSD_V2
+Claim 0.00 ALPACA ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - debtibETH_V2 Price: $2,463.60 Market Cap: $8,354,120.51 [%]
+Staked: 3391.0215 debtibETH_V2 ($8,354,120.51)
+ALPACA Per Week: 18453.09 ($6,443.71)
+APR: Day 0.01% Week 0.08% Year 4.01%
+You are staking 0.00 debtibETH_V2 ($0.00), 0.00% of the pool.
+Stake 0.00 debtibETH_V2
+Unstake 0.00 debtibETH_V2
+Claim 0.00 ALPACA ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - ibETH Price: $2,463.60 Market Cap: $31,229,459.24 [%]
+Staked: 11851.0260 ibETH ($29,196,187.55)
+ALPACA Per Week: 13839.82 ($4,832.78)
+APR: Day 0.00% Week 0.02% Year 0.86%
+You are staking 0.00 ibETH ($0.00), 0.00% of the pool.
+Stake 0.00 ibETH
+Unstake 0.00 ibETH
+Claim 0.00 ALPACA ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - debtibALPACA_V2 Price: $0.35 Market Cap: $1,496,624.56 [%]
+Staked: 4285940.0812 debtibALPACA_V2 ($1,496,624.56)
+ALPACA Per Week: 922.65 ($322.19)
+APR: Day 0.00% Week 0.02% Year 1.12%
+You are staking 0.00 debtibALPACA_V2 ($0.00), 0.00% of the pool.
+Stake 0.00 debtibALPACA_V2
+Unstake 0.00 debtibALPACA_V2
+Claim 0.00 ALPACA ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - debtibUSDT_V2 Price: $0.00 Market Cap: $0.00 
+Staked: 32681224.8802 debtibUSDT_V2 ($0.00)
+ALPACA Per Week: 18453.09 ($6,443.71)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 debtibUSDT_V2 ($0.00), NaN% of the pool.
+Stake 0.00 debtibUSDT_V2
+Unstake 0.00 debtibUSDT_V2
+Claim 0.00 ALPACA ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - ibUSDT Price: $0.00 Market Cap: $0.00 
+Staked: 83315155.1206 ibUSDT ($0.00)
+ALPACA Per Week: 18453.09 ($6,443.71)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 ibUSDT ($0.00), NaN% of the pool.
+Stake 0.00 ibUSDT
+Unstake 0.00 ibUSDT
+Claim 0.00 ALPACA ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - debtibBTCB_V2 Price: $0.00 Market Cap: $0.00 
+Staked: 280.7611 debtibBTCB_V2 ($0.00)
+ALPACA Per Week: 9226.54 ($3,221.85)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 debtibBTCB_V2 ($0.00), NaN% of the pool.
+Stake 0.00 debtibBTCB_V2
+Unstake 0.00 debtibBTCB_V2
+Claim 0.00 ALPACA ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - ibBTCB Price: $0.00 Market Cap: $0.00 
+Staked: 1696.4481 ibBTCB ($0.00)
+ALPACA Per Week: 18453.09 ($6,443.71)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 ibBTCB ($0.00), NaN% of the pool.
+Stake 0.00 ibBTCB
+Unstake 0.00 ibBTCB
+Claim 0.00 ALPACA ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - debtibTUSD_V2 Price: $0.00 Market Cap: $0.00 
+Staked: 4718841.8570 debtibTUSD_V2 ($0.00)
+ALPACA Per Week: 1845.31 ($644.37)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 debtibTUSD_V2 ($0.00), NaN% of the pool.
+Stake 0.00 debtibTUSD_V2
+Unstake 0.00 debtibTUSD_V2
+Claim 0.00 ALPACA ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - ibTUSD Price: $0.00 Market Cap: $0.00 
+Staked: 58740669.0829 ibTUSD ($0.00)
+ALPACA Per Week: 11071.85 ($3,866.22)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 ibTUSD ($0.00), NaN% of the pool.
+Stake 0.00 ibTUSD
+Unstake 0.00 ibTUSD
+Claim 0.00 ALPACA ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - [AUSD]-[BUSD] Cake LP [+] [-] [<=>] Price: $1.96 TVL: $13,850,985.32
+AUSD Price: $0.96
+BUSD Price: $1.00
+Staked: 7067537.3213 Cake-LP ($13,850,637.09)
+ALPACA Per Week: 55359.27 ($19,331.12)
+APR: Day 0.02% Week 0.14% Year 7.26%
+You are staking 0.00 [AUSD]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AUSD]-[BUSD] Cake LP
+Unstake 0.00 [AUSD]-[BUSD] Cake LP
+Claim 0.00 ALPACA ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - fdALPACA Price: $0.00 Market Cap: $0.00 
+Staked: 1.0000 fdALPACA ($0.00)
+ALPACA Per Week: 55359.27 ($19,331.12)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 fdALPACA ($0.00), NaN% of the pool.
+Stake 0.00 fdALPACA
+Unstake 0.00 fdALPACA
+Claim 0.00 ALPACA ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - debtibUSDC_V2 Price: $0.00 Market Cap: $0.00 
+Staked: 1351790.4564 debtibUSDC_V2 ($0.00)
+ALPACA Per Week: 4613.27 ($1,610.93)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 debtibUSDC_V2 ($0.00), NaN% of the pool.
+Stake 0.00 debtibUSDC_V2
+Unstake 0.00 debtibUSDC_V2
+Claim 0.00 ALPACA ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - ibUSDC Price: $0.00 Market Cap: $0.00 
+Staked: 4675417.5715 ibUSDC ($0.00)
+ALPACA Per Week: 9226.54 ($3,221.85)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 ibUSDC ($0.00), NaN% of the pool.
+Stake 0.00 ibUSDC
+Unstake 0.00 ibUSDC
+Claim 0.00 ALPACA ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $379,678,455.87

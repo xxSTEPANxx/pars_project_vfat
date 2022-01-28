@@ -1,0 +1,371 @@
+*************** 👨‍🌾 UNOFFICIAL 1001NIGHTS RAJAH FARMING CALCULATOR 👨‍🌾 *****************
+INFO  : https://rajah.1001nights.gold
+***************************************************************************************
+
+Thu Jan 27 2022 21:38:18 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 33 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.45 TVL: $346,167,130.77
+WBNB Price: $368.50
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+RAJAH Per Week: 4.23 ($0.00)
+APR: Day 16.43% Week 115.02% Year 5981.08%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 RAJAH ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [USDT]-[WBNB] Cake LP [+] [-] [<=>] Price: $48.74 TVL: $190,431,395.28
+USDT Price: $1.00
+WBNB Price: $368.50
+Staked: 0.4102 Cake-LP ($19.99)
+RAJAH Per Week: 3.52 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.12%
+You are staking 0.00 [USDT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[WBNB] Cake LP
+Claim 0.00 RAJAH ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $7,727.66 TVL: $68,338,473.03
+BTCB Price: $36,105.00
+WBNB Price: $368.50
+Staked: 0.0000 Cake-LP ($0.00)
+RAJAH Per Week: 3.52 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 RAJAH ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,027.51 TVL: $73,865,165.32
+ETH Price: $2,415.14
+WBNB Price: $368.50
+Staked: 0.0000 Cake-LP ($0.00)
+RAJAH Per Week: 3.52 ($0.00)
+APR: Day 3.20% Week 22.43% Year 1166.39%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 RAJAH ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $105.42 TVL: $200,711,314.18
+Cake Price: $6.99
+WBNB Price: $368.50
+Staked: 0.0002 Cake-LP ($0.02)
+RAJAH Per Week: 3.17 ($0.00)
+APR: Day 0.30% Week 2.10% Year 109.03%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 RAJAH ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [Cake]-[BUSD] Cake LP [+] [-] [<=>] Price: $7.80 TVL: $11,493,252.29
+Cake Price: $6.99
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+RAJAH Per Week: 3.17 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 RAJAH ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [DOT]-[WBNB] Cake LP [+] [-] [<=>] Price: $172.52 TVL: $17,711,168.78
+DOT Price: $17.94
+WBNB Price: $368.50
+Staked: 0.0000 Cake-LP ($0.00)
+RAJAH Per Week: 3.17 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 RAJAH ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [ADA]-[WBNB] Cake LP [+] [-] [<=>] Price: $42.30 TVL: $12,079,242.16
+ADA Price: $1.03
+WBNB Price: $368.50
+Staked: 0.0100 Cake-LP ($0.42)
+RAJAH Per Week: 3.17 ($0.00)
+APR: Day 0.01% Week 0.10% Year 5.03%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 RAJAH ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.10 TVL: $297,134,999.10
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0158 Cake-LP ($0.03)
+RAJAH Per Week: 3.52 ($0.00)
+APR: Day 0.20% Week 1.37% Year 71.38%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 RAJAH ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [DAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $16,861,996.55
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0388 Cake-LP ($0.08)
+RAJAH Per Week: 3.52 ($0.00)
+APR: Day 0.08% Week 0.56% Year 29.23%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 RAJAH ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $131,474,168.91
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 8.2847 Cake-LP ($17.32)
+RAJAH Per Week: 3.52 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.14%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 RAJAH ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - BUSD Price: $1.00 Market Cap: $4,846,842,082.15 [%]
+Staked: 0.0000 BUSD ($0.00)
+RAJAH Per Week: 2.47 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 BUSD ($0.00), NaN% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 RAJAH ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - USDT Price: $1.00 Market Cap: $3,879,997,922.18 [%]
+Staked: 0.0126 USDT ($0.01)
+RAJAH Per Week: 2.47 ($0.00)
+APR: Day 0.36% Week 2.53% Year 131.58%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 RAJAH ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - WBNB Price: $368.50 Market Cap: $1,923,646,334.52 [%]
+Staked: 0.0000 WBNB ($0.00)
+RAJAH Per Week: 2.47 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 WBNB ($0.00), NaN% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 RAJAH ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - BTCB Price: $36,105.00 Market Cap: $4,061,848,605.00 [%]
+Staked: 0.0000 BTCB ($0.00)
+RAJAH Per Week: 1.41 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 BTCB ($0.00), NaN% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 RAJAH ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - ETH Price: $2,415.14 Market Cap: $3,393,271,700.00 [%]
+Staked: 0.0000 ETH ($0.00)
+RAJAH Per Week: 1.41 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 ETH ($0.00), NaN% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 RAJAH ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - Cake Price: $6.99 Market Cap: $4,298,632,241.93 [%]
+Staked: 0.0000 Cake ($0.00)
+RAJAH Per Week: 1.41 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 Cake ($0.00), NaN% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 RAJAH ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - DAI Price: $1.00 Market Cap: $262,000,000.00 [%]
+Staked: 0.0000 DAI ($0.00)
+RAJAH Per Week: 1.41 ($0.00)
+APR: Day 270.05% Week 1890.32% Year 98296.86%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 RAJAH ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - USDC Price: $1.00 Market Cap: $1,779,000,000.00 [%]
+Staked: 0.0000 USDC ($0.00)
+RAJAH Per Week: 1.41 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 USDC ($0.00), NaN% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 RAJAH ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - DOT Price: $17.94 Market Cap: $287,039,999.84 [%]
+Staked: 0.0000 DOT ($0.00)
+RAJAH Per Week: 1.41 ($0.00)
+APR: Day 3726.45% Week 26085.15% Year 1356427.90%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 RAJAH ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - ADA Price: $1.03 Market Cap: $288,400,000.00 [%]
+Staked: 0.0000 ADA ($0.00)
+RAJAH Per Week: 1.41 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 ADA ($0.00), NaN% of the pool.
+Stake 0.00 ADA - Fee 4%
+Unstake 0.00 ADA
+Claim 0.00 RAJAH ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - [ABU]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.04 TVL: $60.33
+ABU Price: $0.000324
+BUSD Price: $1.00
+Staked: 67.4864 Cake-LP ($2.68)
+RAJAH Per Week: 7.05 ($0.00)
+APR: Day 0.00% Week 0.03% Year 1.77%
+You are staking 0.00 [ABU]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ABU]-[BUSD] Cake LP - Fee 1%
+Unstake 0.00 [ABU]-[BUSD] Cake LP
+Claim 0.00 RAJAH ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [RAJAH]-[WBNB] Cake LP [+] [-] [<=>] Price: $0.47 TVL: $1.49
+RAJAH Price: $0.000129
+WBNB Price: $368.50
+Staked: 3.0000 Cake-LP ($1.42)
+RAJAH Per Week: 28.20 ($0.00)
+APR: Day 0.04% Week 0.26% Year 13.32%
+You are staking 0.00 [RAJAH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [RAJAH]-[WBNB] Cake LP
+Unstake 0.00 [RAJAH]-[WBNB] Cake LP
+Claim 0.00 RAJAH ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - ABU Price: $0.000324 Market Cap: $106.79 [%]
+Staked: 5154.0446 ABU ($1.67)
+RAJAH Per Week: 5.64 ($0.00)
+APR: Day 0.01% Week 0.04% Year 2.26%
+You are staking 0.00 ABU ($0.00), 0.00% of the pool.
+Stake 0.00 ABU - Fee 0.5%
+Unstake 0.00 ABU
+Claim 0.00 RAJAH ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - [ALADDIN]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.03 TVL: $27.33
+ALADDIN Price: $0.000225
+BUSD Price: $1.00
+Staked: 366.4678 Cake-LP ($12.39)
+RAJAH Per Week: 7.05 ($0.00)
+APR: Day 0.00% Week 0.01% Year 0.38%
+You are staking 0.00 [ALADDIN]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ALADDIN]-[BUSD] Cake LP - Fee 1%
+Unstake 0.00 [ALADDIN]-[BUSD] Cake LP
+Claim 0.00 RAJAH ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - ALADDIN Price: $0.000225 Market Cap: $68.61 [%]
+Staked: 502.5569 ALADDIN ($0.11)
+RAJAH Per Week: 5.64 ($0.00)
+APR: Day 0.09% Week 0.64% Year 33.46%
+You are staking 0.00 ALADDIN ($0.00), 0.00% of the pool.
+Stake 0.00 ALADDIN - Fee 0.5%
+Unstake 0.00 ALADDIN
+Claim 0.00 RAJAH ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - [JASMINE]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.05 TVL: $29.40
+JASMINE Price: $0.000533
+BUSD Price: $1.00
+Staked: 181.1811 Cake-LP ($9.32)
+RAJAH Per Week: 7.05 ($0.00)
+APR: Day 0.00% Week 0.01% Year 0.51%
+You are staking 0.00 [JASMINE]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [JASMINE]-[BUSD] Cake LP - Fee 1%
+Unstake 0.00 [JASMINE]-[BUSD] Cake LP
+Claim 0.00 RAJAH ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - JASMINE Price: $0.000533 Market Cap: $94.45 [%]
+Staked: 627.7680 JASMINE ($0.33)
+RAJAH Per Week: 5.64 ($0.00)
+APR: Day 0.03% Week 0.22% Year 11.31%
+You are staking 0.00 JASMINE ($0.00), 0.00% of the pool.
+Stake 0.00 JASMINE - Fee 0.5%
+Unstake 0.00 JASMINE
+Claim 0.00 RAJAH ($0.00)
+Staking or unstaking also claims rewards.
+
+29 - [RAJAH]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.03 TVL: $95.69
+RAJAH Price: $0.000129
+BUSD Price: $1.00
+Staked: 150.3877 Cake-LP ($3.84)
+RAJAH Per Week: 31.72 ($0.00)
+APR: Day 0.02% Week 0.11% Year 5.54%
+You are staking 0.00 [RAJAH]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [RAJAH]-[BUSD] Cake LP
+Unstake 0.00 [RAJAH]-[BUSD] Cake LP
+Claim 0.00 RAJAH ($0.00)
+Staking or unstaking also claims rewards.
+
+30 - [RAJAH]-[JASMINE] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $0.51
+RAJAH Price: $0.000129
+JASMINE Price: $0.000533
+Staked: 0.0000 Cake-LP ($0.00)
+RAJAH Per Week: 19.74 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [RAJAH]-[JASMINE] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [RAJAH]-[JASMINE] Cake LP
+Unstake 0.00 [RAJAH]-[JASMINE] Cake LP
+Claim 0.00 RAJAH ($0.00)
+Staking or unstaking also claims rewards.
+
+31 - RAJAH Price: $0.000129 Market Cap: $74.54 [%]
+Staked: 59504.0482 RAJAH ($7.68)
+RAJAH Per Week: 17.62 ($0.00)
+APR: Day 0.00% Week 0.03% Year 1.54%
+You are staking 0.00 RAJAH ($0.00), 0.00% of the pool.
+Stake 0.00 RAJAH
+Unstake 0.00 RAJAH
+Claim 0.00 RAJAH ($0.00)
+Staking or unstaking also claims rewards.
+
+32 - [WWF]-[WBNB] Cake LP [+] [-] [<=>] Price: $1.40 TVL: $1,967.32
+WWF Price: $0.001075
+WBNB Price: $368.50
+Staked: 0.0000 Cake-LP ($0.00)
+RAJAH Per Week: 3.88 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WWF]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [WWF]-[WBNB] Cake LP - Fee 2%
+Unstake 0.00 [WWF]-[WBNB] Cake LP
+Claim 0.00 RAJAH ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $77.33

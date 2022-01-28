@@ -1,0 +1,51 @@
+*************** 👨‍🌾 UNOFFICIAL NYAN FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://arbinyan.xyz/
+**************************************************************************
+
+WARNING: Staking through vfat is currently broken. 
+         Visit https://arbinyan.xyz/ to single stake ETH and NYAN!
+
+Thu Jan 27 2022 21:47:26 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+NYAN Price: $0.03 Market Cap: $3,195,478.00 
+Staked: 7766674.7206 NYAN ($248,182.38)
+NYAN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 NYAN $0.00 (0.00% of the pool).
+Arbitrum Explorer
+Stake 0.000000 NYAN
+Unstake 0.000000 NYAN
+Claim 0.000000 NYAN ($0.00)
+Revoke (set approval to 0)
+Exit
+
+ETH Price: $2,429.30 Market Cap: $0.00 
+Staked: 152.8166 ETH ($371,237.33)
+NYAN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 ETH $0.00 (0.00% of the pool).
+Arbitrum Explorer
+Please use the official website to stake ETH.
+Unstake 0.000000 ETH
+Claim 0.000000 NYAN ($0.00)
+Exit
+
+[WETH]-[NYAN] SLP [+] [-] [<=>] Price: $19.40 TVL: $207,947.78
+WETH Price: $2,429.30
+NYAN Price: $0.03
+Staked: 6124.7425 SLP ($118,813.00)
+NYAN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [WETH]-[NYAN] SLP $0.00 (0.00% of the pool).
+Arbitrum Explorer
+Stake 0.000000 [WETH]-[NYAN] SLP
+Unstake 0.000000 [WETH]-[NYAN] SLP
+Claim 0.000000 NYAN ($0.00)
+Revoke (set approval to 0)
+Exit
+
+Total staked: $738,232.71

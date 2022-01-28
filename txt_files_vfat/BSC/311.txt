@@ -1,0 +1,49 @@
+*************** 👨‍🌾 UNOFFICIAL B2X FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://b2xtoken.io/farm
+************************************************************************
+
+Thu Jan 27 2022 21:11:34 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 3 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [B2X]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,110,243.98 TVL: $6,063.12
+B2X Price: $0.29
+WBNB Price: $369.08
+Staked: 0.0005 Cake-LP ($978.54)
+B2X Per Week: 218.18 ($63.32)
+APR: Day 0.92% Week 6.47% Year 336.47%
+You are staking 0.00 [B2X]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [B2X]-[WBNB] Cake LP
+Unstake 0.00 [B2X]-[WBNB] Cake LP
+Claim 0.00 B2X ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [B2X]-[BUSD] Cake LP [+] [-] [<=>] Price: $109,318.42 TVL: $1,171.42
+B2X Price: $0.29
+BUSD Price: $1.00
+Staked: 0.0076 Cake-LP ($826.81)
+B2X Per Week: 218.18 ($63.32)
+APR: Day 1.09% Week 7.66% Year 398.21%
+You are staking 0.00 [B2X]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [B2X]-[BUSD] Cake LP
+Unstake 0.00 [B2X]-[BUSD] Cake LP
+Claim 0.00 B2X ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - B2X Price: $0.29 Market Cap: $7,009.06 [%]
+Staked: 3583.0362 B2X ($1,039.81)
+B2X Per Week: 145.45 ($42.21)
+APR: Day 0.58% Week 4.06% Year 211.10%
+You are staking 0.00 B2X ($0.00), 0.00% of the pool.
+Stake 0.00 B2X
+Unstake 0.00 B2X
+Claim 0.00 B2X ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $2,845.17

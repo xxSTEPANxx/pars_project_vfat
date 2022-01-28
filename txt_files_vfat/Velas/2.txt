@@ -1,0 +1,367 @@
+*************** 👨‍🌾 UNOFFICIAL JUNGLESWAP FARMING CALCULATOR 👨‍🌾 ********************
+INFO  : https://vlx.jungleswap.cash
+************************************************************************************
+
+Mon Dec 27 2021 09:27:55 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 32 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - JUNGLE Price: $0.01 Market Cap: $2,924.76 
+Staked: 91404.1217 JUNGLE ($1,136.16)
+JUNGLE Per Week: 1629.70 ($20.26)
+APR: Day 0.25% Week 1.78% Year 92.71%
+You are staking 0.00 JUNGLE ($0.00), 0.00% of the pool.
+Stake 0.00 JUNGLE
+Unstake 0.00 JUNGLE
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [JUNGLE]-[WVLX] Wagyu LP Token [+] [-] [<=>] Price: $0.14 TVL: $424.78
+JUNGLE Price: $0.01
+WVLX Price: $0.34
+Staked: 1025.1455 Wagyu-LP ($143.26)
+JUNGLE Per Week: 679.04 ($8.44)
+APR: Day 0.84% Week 5.89% Year 306.36%
+You are staking 0.00 [JUNGLE]-[WVLX] Wagyu LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [JUNGLE]-[WVLX] Wagyu LP Token
+Unstake 0.00 [JUNGLE]-[WVLX] Wagyu LP Token
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [USDT]-[JUNGLE] Wagyu LP Token [+] [-] [<=>] Price: $253,407.89 TVL: $112.92
+USDT Price: $1.05
+JUNGLE Price: $0.01
+Staked: 0.0003 Wagyu-LP ($75.94)
+JUNGLE Per Week: 339.52 ($4.22)
+APR: Day 0.79% Week 5.56% Year 288.98%
+You are staking 0.00 [USDT]-[JUNGLE] Wagyu LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[JUNGLE] Wagyu LP Token
+Unstake 0.00 [USDT]-[JUNGLE] Wagyu LP Token
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WAG]-[WVLX] Wagyu LP Token [+] [-] [<=>] Price: $0.80 TVL: $13,183,736.20
+WAG Price: $0.45
+WVLX Price: $0.34
+Staked: 53.6406 Wagyu-LP ($42.80)
+JUNGLE Per Week: 135.81 ($1.69)
+APR: Day 0.56% Week 3.94% Year 205.08%
+You are staking 0.00 [WAG]-[WVLX] Wagyu LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WAG]-[WVLX] Wagyu LP Token
+Unstake 0.00 [WAG]-[WVLX] Wagyu LP Token
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [ETH]-[WVLX] Wagyu LP Token [+] [-] [<=>] Price: $76.46 TVL: $6,850,022.37
+ETH Price: $4,240.19
+WVLX Price: $0.34
+Staked: 2.8492 Wagyu-LP ($217.85)
+JUNGLE Per Week: 271.62 ($3.38)
+APR: Day 0.22% Week 1.55% Year 80.59%
+You are staking 0.00 [ETH]-[WVLX] Wagyu LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WVLX] Wagyu LP Token
+Unstake 0.00 [ETH]-[WVLX] Wagyu LP Token
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [BUSD]-[WVLX] Wagyu LP Token [+] [-] [<=>] Price: $1.23 TVL: $4,625,710.30
+BUSD Price: $1.00
+WVLX Price: $0.34
+Staked: 71.5375 Wagyu-LP ($88.14)
+JUNGLE Per Week: 271.62 ($3.38)
+APR: Day 0.55% Week 3.83% Year 199.18%
+You are staking 0.00 [BUSD]-[WVLX] Wagyu LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [BUSD]-[WVLX] Wagyu LP Token
+Unstake 0.00 [BUSD]-[WVLX] Wagyu LP Token
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [WVLX]-[USDC] Wagyu LP Token [+] [-] [<=>] Price: $1,188,495.63 TVL: $3,768,199.58
+WVLX Price: $0.34
+USDC Price: $1.00
+Staked: 0.0001 Wagyu-LP ($78.45)
+JUNGLE Per Week: 271.62 ($3.38)
+APR: Day 0.61% Week 4.30% Year 223.80%
+You are staking 0.00 [WVLX]-[USDC] Wagyu LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WVLX]-[USDC] Wagyu LP Token
+Unstake 0.00 [WVLX]-[USDC] Wagyu LP Token
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [USDT]-[WVLX] Wagyu LP Token [+] [-] [<=>] Price: $1,242,323.29 TVL: $3,828,032.55
+USDT Price: $1.05
+WVLX Price: $0.34
+Staked: 0.0001 Wagyu-LP ($112.22)
+JUNGLE Per Week: 271.62 ($3.38)
+APR: Day 0.43% Week 3.01% Year 156.45%
+You are staking 0.00 [USDT]-[WVLX] Wagyu LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WVLX] Wagyu LP Token
+Unstake 0.00 [USDT]-[WVLX] Wagyu LP Token
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - WAG Price: $0.45 Market Cap: $227,855,651.31 
+Staked: 1749.0414 WAG ($791.00)
+JUNGLE Per Week: 135.81 ($1.69)
+APR: Day 0.03% Week 0.21% Year 11.10%
+You are staking 0.00 WAG ($0.00), 0.00% of the pool.
+Stake 0.00 WAG
+Unstake 0.00 WAG
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - SHIBIL Price: $0.0000004378 Market Cap: $4,378.12 
+Staked: 493614420.4748 SHIBIL ($216.11)
+JUNGLE Per Week: 271.62 ($3.38)
+APR: Day 0.22% Week 1.56% Year 81.24%
+You are staking 0.00 SHIBIL ($0.00), 0.00% of the pool.
+Stake 0.00 SHIBIL - Fee 2%
+Unstake 0.00 SHIBIL
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [SHIBIL]-[WVLX] Wagyu LP Token [+] [-] [<=>] Price: $0.00 TVL: $1,590.87
+SHIBIL Price: $0.0000004378
+WVLX Price: $0.34
+Staked: 114296.3100 Wagyu-LP ($88.81)
+JUNGLE Per Week: 407.43 ($5.06)
+APR: Day 0.81% Week 5.70% Year 296.54%
+You are staking 0.00 [SHIBIL]-[WVLX] Wagyu LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [SHIBIL]-[WVLX] Wagyu LP Token - Fee 2%
+Unstake 0.00 [SHIBIL]-[WVLX] Wagyu LP Token
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [BITORB]-[WVLX] Wagyu LP Token [+] [-] [<=>] Price: $0.37 TVL: $1,982,551.33
+BITORB Price: $0.10
+WVLX Price: $0.34
+Staked: 272.9939 Wagyu-LP ($100.12)
+JUNGLE Per Week: 67.90 ($0.84)
+APR: Day 0.12% Week 0.84% Year 43.84%
+You are staking 0.00 [BITORB]-[WVLX] Wagyu LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [BITORB]-[WVLX] Wagyu LP Token - Fee 2%
+Unstake 0.00 [BITORB]-[WVLX] Wagyu LP Token
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [USDT]-[BUSD] Wagyu LP Token [+] [-] [<=>] Price: $66,492,338.45 TVL: $61.61
+USDT Price: $1.05
+BUSD Price: $1.00
+Staked: 0.0000 Wagyu-LP ($61.55)
+JUNGLE Per Week: 271.62 ($3.38)
+APR: Day 0.78% Week 5.49% Year 285.23%
+You are staking 0.00 [USDT]-[BUSD] Wagyu LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Wagyu LP Token - Fee 2%
+Unstake 0.00 [USDT]-[BUSD] Wagyu LP Token
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [JUNGLE]-[ETH] Wagyu LP Token [+] [-] [<=>] Price: $16.49 TVL: $79.64
+JUNGLE Price: $0.01
+ETH Price: $4,240.19
+Staked: 4.8287 Wagyu-LP ($79.64)
+JUNGLE Per Week: 339.52 ($4.22)
+APR: Day 0.76% Week 5.30% Year 275.55%
+You are staking 0.00 [JUNGLE]-[ETH] Wagyu LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [JUNGLE]-[ETH] Wagyu LP Token
+Unstake 0.00 [JUNGLE]-[ETH] Wagyu LP Token
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [USDT]-[SHIBIL] Wagyu LP Token [+] [-] [<=>] Price: $1,558.64 TVL: $66.19
+USDT Price: $1.05
+SHIBIL Price: $0.0000004378
+Staked: 0.0413 Wagyu-LP ($64.44)
+JUNGLE Per Week: 135.81 ($1.69)
+APR: Day 0.37% Week 2.62% Year 136.22%
+You are staking 0.00 [USDT]-[SHIBIL] Wagyu LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[SHIBIL] Wagyu LP Token
+Unstake 0.00 [USDT]-[SHIBIL] Wagyu LP Token
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [VLXPAD]-[WVLX] Wagyu LP Token [+] [-] [<=>] Price: $1.10 TVL: $438,800.25
+VLXPAD Price: $0.37
+WVLX Price: $0.34
+Staked: 51.2041 Wagyu-LP ($56.30)
+JUNGLE Per Week: 67.90 ($0.84)
+APR: Day 0.21% Week 1.50% Year 77.96%
+You are staking 0.00 [VLXPAD]-[WVLX] Wagyu LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [VLXPAD]-[WVLX] Wagyu LP Token - Fee 2%
+Unstake 0.00 [VLXPAD]-[WVLX] Wagyu LP Token
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - WVLX Price: $0.34 Market Cap: $20,060,996.52 
+Staked: 1629.8901 WVLX ($550.16)
+JUNGLE Per Week: 543.23 ($6.75)
+APR: Day 0.18% Week 1.23% Year 63.82%
+You are staking 0.00 WVLX ($0.00), 0.00% of the pool.
+Stake 0.00 WVLX - Fee 2%
+Unstake 0.00 WVLX
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [SCAR]-[WVLX] Wagyu LP Token [+] [-] [<=>] Price: $0.32 TVL: $3,242,064.35
+SCAR Price: $0.07
+WVLX Price: $0.34
+Staked: 214.0756 Wagyu-LP ($68.79)
+JUNGLE Per Week: 67.90 ($0.84)
+APR: Day 0.18% Week 1.23% Year 63.80%
+You are staking 0.00 [SCAR]-[WVLX] Wagyu LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [SCAR]-[WVLX] Wagyu LP Token - Fee 2%
+Unstake 0.00 [SCAR]-[WVLX] Wagyu LP Token
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - [PLSPAD]-[WVLX] Wagyu LP Token [+] [-] [<=>] Price: $0.51 TVL: $927,043.53
+PLSPAD Price: $0.18
+WVLX Price: $0.34
+Staked: 112.2225 Wagyu-LP ($57.54)
+JUNGLE Per Week: 67.90 ($0.84)
+APR: Day 0.21% Week 1.47% Year 76.28%
+You are staking 0.00 [PLSPAD]-[WVLX] Wagyu LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [PLSPAD]-[WVLX] Wagyu LP Token - Fee 2%
+Unstake 0.00 [PLSPAD]-[WVLX] Wagyu LP Token
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - [JUNGLE]-[WVLX] Uni LP [+] [-] [<=>] Price: $0.14 TVL: $1,312.00
+JUNGLE Price: $0.01
+WVLX Price: $0.34
+Staked: 7465.9390 JUNGLE-LP ($1,041.73)
+JUNGLE Per Week: 6518.80 ($81.03)
+APR: Day 1.11% Week 7.78% Year 404.47%
+You are staking 0.00 [JUNGLE]-[WVLX] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [JUNGLE]-[WVLX] Uni LP
+Unstake 0.00 [JUNGLE]-[WVLX] Uni LP
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - [USDT]-[JUNGLE] Uni LP [+] [-] [<=>] Price: $243,268.04 TVL: $292.46
+USDT Price: $1.05
+JUNGLE Price: $0.01
+Staked: 0.0010 JUNGLE-LP ($240.75)
+JUNGLE Per Week: 3802.63 ($47.27)
+APR: Day 2.80% Week 19.63% Year 1020.94%
+You are staking 0.00 [USDT]-[JUNGLE] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[JUNGLE] Uni LP
+Unstake 0.00 [USDT]-[JUNGLE] Uni LP
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [ETH]-[WVLX] Uni LP [+] [-] [<=>] Price: $75.75 TVL: $630.44
+ETH Price: $4,240.19
+WVLX Price: $0.34
+Staked: 8.3096 JUNGLE-LP ($629.44)
+JUNGLE Per Week: 814.85 ($10.13)
+APR: Day 0.23% Week 1.61% Year 83.68%
+You are staking 0.00 [ETH]-[WVLX] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WVLX] Uni LP
+Unstake 0.00 [ETH]-[WVLX] Uni LP
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - [USDT]-[WVLX] Uni LP [+] [-] [<=>] Price: $1,193,022.32 TVL: $297.22
+USDT Price: $1.05
+WVLX Price: $0.34
+Staked: 0.0002 JUNGLE-LP ($296.56)
+JUNGLE Per Week: 814.85 ($10.13)
+APR: Day 0.49% Week 3.42% Year 177.60%
+You are staking 0.00 [USDT]-[WVLX] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WVLX] Uni LP
+Unstake 0.00 [USDT]-[WVLX] Uni LP
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - [USDT]-[USDC] Uni LP [+] [-] [<=>] Price: $2,050,172,764,439.21 TVL: $577.38
+USDT Price: $1.05
+USDC Price: $1.00
+Staked: 0.0000 JUNGLE-LP ($576.99)
+JUNGLE Per Week: 543.23 ($6.75)
+APR: Day 0.17% Week 1.17% Year 60.85%
+You are staking 0.00 [USDT]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[USDC] Uni LP
+Unstake 0.00 [USDT]-[USDC] Uni LP
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - [VSH]-[WVLX] Uni LP [+] [-] [<=>] Price: $7.90 TVL: $99.53
+VSH Price: $0.0000000428
+WVLX Price: $0.34
+Staked: 12.5997 JUNGLE-LP ($99.49)
+JUNGLE Per Week: 679.04 ($8.44)
+APR: Day 1.21% Week 8.48% Year 441.14%
+You are staking 0.00 [VSH]-[WVLX] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [VSH]-[WVLX] Uni LP
+Unstake 0.00 [VSH]-[WVLX] Uni LP
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - [BUSD]-[WVLX] Uni LP [+] [-] [<=>] Price: $1.16 TVL: $357.95
+BUSD Price: $1.00
+WVLX Price: $0.34
+Staked: 306.2461 JUNGLE-LP ($356.30)
+JUNGLE Per Week: 814.85 ($10.13)
+APR: Day 0.41% Week 2.84% Year 147.82%
+You are staking 0.00 [BUSD]-[WVLX] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUSD]-[WVLX] Uni LP
+Unstake 0.00 [BUSD]-[WVLX] Uni LP
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - [WVLX]-[USDC] Uni LP [+] [-] [<=>] Price: $1,163,847.53 TVL: $237.29
+WVLX Price: $0.34
+USDC Price: $1.00
+Staked: 0.0002 JUNGLE-LP ($235.25)
+JUNGLE Per Week: 814.85 ($10.13)
+APR: Day 0.62% Week 4.31% Year 223.89%
+You are staking 0.00 [WVLX]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WVLX]-[USDC] Uni LP
+Unstake 0.00 [WVLX]-[USDC] Uni LP
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+
+29 - [USDT]-[BUSD] Uni LP [+] [-] [<=>] Price: $2,046,760.54 TVL: $244.03
+USDT Price: $1.05
+BUSD Price: $1.00
+Staked: 0.0001 JUNGLE-LP ($242.13)
+JUNGLE Per Week: 814.85 ($10.13)
+APR: Day 0.60% Week 4.18% Year 217.52%
+You are staking 0.00 [USDT]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Uni LP
+Unstake 0.00 [USDT]-[BUSD] Uni LP
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+
+30 - [BUSD]-[USDC] Uni LP [+] [-] [<=>] Price: $1,999,054.39 TVL: $340.00
+BUSD Price: $1.00
+USDC Price: $1.00
+Staked: 0.0002 JUNGLE-LP ($339.96)
+JUNGLE Per Week: 543.23 ($6.75)
+APR: Day 0.28% Week 1.99% Year 103.28%
+You are staking 0.00 [BUSD]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUSD]-[USDC] Uni LP
+Unstake 0.00 [BUSD]-[USDC] Uni LP
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+
+31 - [mVLX]-[WVLX] Uni LP [+] [-] [<=>] Price: $0.00 TVL: $684.13
+mVLX Price: $0.0000014539
+WVLX Price: $0.34
+Staked: 92319.9930 JUNGLE-LP ($132.11)
+JUNGLE Per Week: 271.62 ($3.38)
+APR: Day 0.37% Week 2.56% Year 132.89%
+You are staking 0.00 [mVLX]-[WVLX] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [mVLX]-[WVLX] Uni LP
+Unstake 0.00 [mVLX]-[WVLX] Uni LP
+Claim 0.00 JUNGLE ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $8,220.02

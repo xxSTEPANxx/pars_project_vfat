@@ -1,0 +1,85 @@
+*************** 👨‍🌾 UNOFFICIAL SMOKEHOUSE FINANCE FARMING CALCULATOR 👨‍🌾 *****************
+INFO  : https://thesmokehouse.finance
+****************************************************************************************
+
+Thu Jan 27 2022 20:40:34 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 11 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - SMOKE Price: $0.00 Market Cap: $0.00 
+Staked: 623721.5416 SMOKE ($0.00)
+SMOKE Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SMOKE ($0.00), NaN% of the pool.
+Stake 0.00 SMOKE
+Unstake 0.00 SMOKE
+Claim 0.00 SMOKE ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [SMOKE]-[WBNB] Cake LP [+] [-] [<=>] Price: $1.67 TVL: $5,042.13
+SMOKE Price: $0.001431
+WBNB Price: $369.82
+Staked: 1757.0199 Cake-LP ($2,929.27)
+SMOKE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [SMOKE]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SMOKE]-[WBNB] Cake LP
+Unstake 0.00 [SMOKE]-[WBNB] Cake LP
+Claim 0.00 SMOKE ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [SMOKE]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.08 TVL: $753.73
+SMOKE Price: $0.001431
+BUSD Price: $1.00
+Staked: 2904.5802 Cake-LP ($240.18)
+SMOKE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [SMOKE]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SMOKE]-[BUSD] Cake LP
+Unstake 0.00 [SMOKE]-[BUSD] Cake LP
+Claim 0.00 SMOKE ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [SMOKE]-[USDT] Trisolaris LP Token [+] [-] [<=>] Price: $0.08 TVL: $525.25
+SMOKE Price: $0.001431
+USDT Price: $1.00
+Staked: 1643.4545 TLP ($136.44)
+SMOKE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [SMOKE]-[USDT] Trisolaris LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [SMOKE]-[USDT] Trisolaris LP Token
+Unstake 0.00 [SMOKE]-[USDT] Trisolaris LP Token
+Claim 0.00 SMOKE ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [bTBB]-[WBNB] Cake LP [+] [-] [<=>] Price: $171.72 TVL: $52,520.88
+bTBB Price: $18.78
+WBNB Price: $369.82
+Staked: 2.4228 Cake-LP ($416.05)
+SMOKE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [bTBB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [bTBB]-[WBNB] Cake LP
+Unstake 0.00 [bTBB]-[WBNB] Cake LP
+Claim 0.00 SMOKE ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [SMOKE]-[bTBB] Cake LP [+] [-] [<=>] Price: $0.33 TVL: $108.09
+SMOKE Price: $0.001431
+bTBB Price: $18.78
+Staked: 148.3088 Cake-LP ($49.65)
+SMOKE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [SMOKE]-[bTBB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [SMOKE]-[bTBB] Cake LP
+Unstake 0.00 [SMOKE]-[bTBB] Cake LP
+Claim 0.00 SMOKE ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $3,771.58

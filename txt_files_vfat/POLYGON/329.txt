@@ -6,171 +6,20 @@ INFO  : https://polydino.finance
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Thu Dec 16 2021 05:37:04 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 23:41:09 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
+Staking Contract
 Found 15 pools.
 Showing incentivized pools only.
-Finished reading smart contracts.
-0 - [WMATIC]-[DINO] Uni LP [+] [-] [<=>] Price: $0.04 TVL: $19.11
-WMATIC Price: $2.14
-DINO Price: $0.000199
-Staked: 302.7174 UNI-V2 ($12.78)
-DINO Per Week: 3740.26 ($0.75)
-APR: Day 0.83% Week 5.83% Year 303.24%
-You are staking 0.00 [WMATIC]-[DINO] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[DINO] Uni LP
-Unstake 0.00 [WMATIC]-[DINO] Uni LP
-Claim 0.00 DINO ($0.00)
-Staking or unstaking also claims rewards.
-
-1 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,859,098.19 TVL: $52,195,715.43
-WMATIC Price: $2.14
-USDC Price: $1.00
-Staked: 0.0000 UNI-V2 ($44.88)
-DINO Per Week: 561.04 ($0.11)
-APR: Day 0.04% Week 0.25% Year 12.95%
-You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
-Unstake 0.00 [WMATIC]-[USDC] Uni LP
-Claim 0.00 DINO ($0.00)
-Staking or unstaking also claims rewards.
-
-2 - [USDC]-[DINO] Uni LP [+] [-] [<=>] Price: $29,076.97 TVL: $13.57
-USDC Price: $1.00
-DINO Price: $0.000199
-Staked: 0.0003 UNI-V2 ($8.28)
-DINO Per Week: 3740.26 ($0.75)
-APR: Day 1.29% Week 9.00% Year 467.85%
-You are staking 0.00 [USDC]-[DINO] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[DINO] Uni LP
-Unstake 0.00 [USDC]-[DINO] Uni LP
-Claim 0.00 DINO ($0.00)
-Staking or unstaking also claims rewards.
-
-3 - DINO Price: $0.000199 Market Cap: $38.54 [%]
-Staked: 79614.2989 DINO ($15.86)
-DINO Per Week: 935.06 ($0.19)
-APR: Day 0.17% Week 1.17% Year 61.07%
-You are staking 0.00 DINO ($0.00), 0.00% of the pool.
-Stake 0.00 DINO
-Unstake 0.00 DINO
-Claim 0.00 DINO ($0.00)
-Staking or unstaking also claims rewards.
-
-4 - WMATIC Price: $2.14 Market Cap: $651,461,840.32 [%]
-Staked: 7.8590 WMATIC ($16.82)
-DINO Per Week: 561.04 ($0.11)
-APR: Day 0.09% Week 0.66% Year 34.57%
-You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
-Stake 0.00 WMATIC - Fee 4%
-Unstake 0.00 WMATIC
-Claim 0.00 DINO ($0.00)
-Staking or unstaking also claims rewards.
-
-5 - WETH Price: $4,037.44 Market Cap: $1,792,005,931.55 [%]
-Staked: 0.0000 WETH ($0.12)
-DINO Per Week: 561.04 ($0.11)
-APR: Day 13.73% Week 96.14% Year 4999.17%
-You are staking 0.00 WETH ($0.00), 0.00% of the pool.
-Stake 0.00 WETH - Fee 4%
-Unstake 0.00 WETH
-Claim 0.00 DINO ($0.00)
-Staking or unstaking also claims rewards.
-
-6 - WBTC Price: $49,027.00 Market Cap: $497,324,082.38 [%]
-Staked: 0.0000 WBTC ($0.15)
-DINO Per Week: 561.04 ($0.11)
-APR: Day 10.31% Week 72.16% Year 3752.46%
-You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
-Stake 0.00 WBTC - Fee 4%
-Unstake 0.00 WBTC
-Claim 0.00 DINO ($0.00)
-Staking or unstaking also claims rewards.
-
-7 - DAI Price: $1.00 Market Cap: $374,043,603.09 [%]
-Staked: 147.1441 DAI ($147.11)
-DINO Per Week: 561.04 ($0.11)
-APR: Day 0.01% Week 0.08% Year 3.95%
-You are staking 0.00 DAI ($0.00), 0.00% of the pool.
-Stake 0.00 DAI - Fee 4%
-Unstake 0.00 DAI
-Claim 0.00 DINO ($0.00)
-Staking or unstaking also claims rewards.
-
-8 - USDT Price: $1.00 Market Cap: $313,273,360.65 [%]
-Staked: 0.2312 USDT ($0.23)
-DINO Per Week: 561.04 ($0.11)
-APR: Day 6.91% Week 48.39% Year 2516.20%
-You are staking 0.00 USDT ($0.00), 0.00% of the pool.
-Stake 0.00 USDT - Fee 4%
-Unstake 0.00 USDT
-Claim 0.00 DINO ($0.00)
-Staking or unstaking also claims rewards.
-
-9 - USDC Price: $1.00 Market Cap: $943,399,926.25 [%]
-Staked: 0.4626 USDC ($0.46)
-DINO Per Week: 561.04 ($0.11)
-APR: Day 3.45% Week 24.17% Year 1256.64%
-You are staking 0.00 USDC ($0.00), 0.00% of the pool.
-Stake 0.00 USDC - Fee 4%
-Unstake 0.00 USDC
-Claim 0.00 DINO ($0.00)
-Staking or unstaking also claims rewards.
-
-10 - QUICK Price: $251.49 Market Cap: $240,305,756.66 [%]
-Staked: 0.0102 QUICK ($2.55)
-DINO Per Week: 374.03 ($0.07)
-APR: Day 0.42% Week 2.92% Year 151.76%
-You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
-Stake 0.00 QUICK - Fee 4%
-Unstake 0.00 QUICK
-Claim 0.00 DINO ($0.00)
-Staking or unstaking also claims rewards.
-
-11 - [USDC]-[WETH] Uni LP [+] [-] [<=>] Price: $187,967,383.83 TVL: $79,018,533.36
-USDC Price: $1.00
-WETH Price: $4,037.44
-Staked: 0.0000 UNI-V2 ($5.19)
-DINO Per Week: 561.04 ($0.11)
-APR: Day 0.31% Week 2.15% Year 111.94%
-You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
-Unstake 0.00 [USDC]-[WETH] Uni LP
-Claim 0.00 DINO ($0.00)
-Staking or unstaking also claims rewards.
-
-12 - AAVE Price: $175.70 Market Cap: $47,828,941.30 [%]
-Staked: 0.0116 AAVE ($2.03)
-DINO Per Week: 374.03 ($0.07)
-APR: Day 0.52% Week 3.67% Year 190.83%
-You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
-Stake 0.00 AAVE - Fee 4%
-Unstake 0.00 AAVE
-Claim 0.00 DINO ($0.00)
-Staking or unstaking also claims rewards.
-
-13 - SUSHI Price: $5.90 Market Cap: $3,220,781.34 [%]
-Staked: 0.0579 SUSHI ($0.34)
-DINO Per Week: 374.03 ($0.07)
-APR: Day 3.11% Week 21.80% Year 1133.82%
-You are staking 0.00 SUSHI ($0.00), 0.00% of the pool.
-Stake 0.00 SUSHI - Fee 4%
-Unstake 0.00 SUSHI
-Claim 0.00 DINO ($0.00)
-Staking or unstaking also claims rewards.
-
-14 - LINK Price: $19.96 Market Cap: $34,618,687.89 [%]
-Staked: 0.1423 LINK ($2.84)
-DINO Per Week: 374.03 ($0.07)
-APR: Day 0.37% Week 2.62% Year 136.47%
-You are staking 0.00 LINK ($0.00), 0.00% of the pool.
-Stake 0.00 LINK - Fee 4%
-Unstake 0.00 LINK
-Claim 0.00 DINO ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $259.66
+{
+  "code": -32603,
+  "message": "Non-200 status code: '400'",
+  "data": {
+    "error": "Unable to verify your data submission."
+  }
+}
+Oops something went wrong. Try refreshing the page.

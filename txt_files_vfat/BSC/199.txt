@@ -1,0 +1,61 @@
+*************** 👨‍🌾 UNOFFICIAL MOCKTAILSWAP.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://www.mocktailswap.finance
+*****************************************************************************************
+
+Thu Jan 27 2022 20:51:48 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 13 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - MOK Price: $0.002185 Market Cap: $60,126.92 [%]
+Staked: 572127.1198 MOK ($1,250.35)
+MOK Per Week: 35280.00 ($77.10)
+APR: Day 0.88% Week 6.17% Year 320.66%
+You are staking 0.00 MOK ($0.00), 0.00% of the pool.
+Stake 0.00 MOK
+Unstake 0.00 MOK
+Claim 0.00 MOK ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WBNB]-[MOK] Uni LP [+] [-] [<=>] Price: $1.88 TVL: $16,846.33
+WBNB Price: $370.04
+MOK Price: $0.002185
+Staked: 1143.4366 MOK-LP ($2,148.98)
+MOK Per Week: 44100.00 ($96.38)
+APR: Day 0.64% Week 4.48% Year 233.21%
+You are staking 0.00 [WBNB]-[MOK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[MOK] Uni LP
+Unstake 0.00 [WBNB]-[MOK] Uni LP
+Claim 0.00 MOK ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [MOK]-[BUSD] Uni LP [+] [-] [<=>] Price: $0.10 TVL: $4,384.70
+MOK Price: $0.002185
+BUSD Price: $1.00
+Staked: 11536.7526 MOK-LP ($1,168.57)
+MOK Per Week: 44100.00 ($96.38)
+APR: Day 1.18% Week 8.25% Year 428.87%
+You are staking 0.00 [MOK]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MOK]-[BUSD] Uni LP
+Unstake 0.00 [MOK]-[BUSD] Uni LP
+Claim 0.00 MOK ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [Cake]-[MOK] Uni LP [+] [-] [<=>] Price: $0.25 TVL: $1,108.02
+Cake Price: $7.02
+MOK Price: $0.002185
+Staked: 141.3945 MOK-LP ($35.98)
+MOK Per Week: 17640.00 ($38.55)
+APR: Day 15.31% Week 107.14% Year 5571.28%
+You are staking 0.00 [Cake]-[MOK] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[MOK] Uni LP
+Unstake 0.00 [Cake]-[MOK] Uni LP
+Claim 0.00 MOK ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $4,603.88

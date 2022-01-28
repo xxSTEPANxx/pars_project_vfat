@@ -1,0 +1,149 @@
+*************** 👨‍🌾 UNOFFICIAL COUGARSWAP FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://cougarswap.io
+****************************************************************************************
+
+Thu Jan 27 2022 21:03:41 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 38 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [CGS]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.14 TVL: $6,786.15
+CGS Price: $0.002390
+BUSD Price: $1.00
+Staked: 37088.5934 Cake-LP ($5,181.59)
+CGS Per Week: 84884.21 ($202.85)
+APR: Day 0.56% Week 3.91% Year 203.57%
+You are staking 0.00 [CGS]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CGS]-[BUSD] Cake LP
+Unstake 0.00 [CGS]-[BUSD] Cake LP
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [CGS]-[WBNB] Cake LP [+] [-] [<=>] Price: $2.38 TVL: $6,182.07
+CGS Price: $0.002390
+WBNB Price: $369.34
+Staked: 1129.6031 Cake-LP ($2,686.55)
+CGS Per Week: 84884.21 ($202.85)
+APR: Day 1.08% Week 7.55% Year 392.64%
+You are staking 0.00 [CGS]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CGS]-[WBNB] Cake LP
+Unstake 0.00 [CGS]-[WBNB] Cake LP
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - CGS Price: $0.002390 Market Cap: $40,983.62 [%]
+Staked: 5127190.6796 CGS ($12,252.76)
+CGS Per Week: 42442.11 ($101.43)
+APR: Day 0.12% Week 0.83% Year 43.04%
+You are staking 0.00 CGS ($0.00), 0.00% of the pool.
+Stake 0.00 CGS
+Unstake 0.00 CGS
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - BUSD Price: $1.00 Market Cap: $4,850,999,388.63 [%]
+Staked: 5198.3975 BUSD ($5,198.40)
+CGS Per Week: 21221.05 ($50.71)
+APR: Day 0.14% Week 0.98% Year 50.73%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 2%
+Unstake 0.00 BUSD
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [CGS]-[USDT] Cake LP [+] [-] [<=>] Price: $0.17 TVL: $828.82
+CGS Price: $0.002390
+USDT Price: $1.00
+Staked: 4670.9951 Cake-LP ($805.23)
+CGS Per Week: 21221.05 ($50.71)
+APR: Day 0.90% Week 6.30% Year 327.49%
+You are staking 0.00 [CGS]-[USDT] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CGS]-[USDT] Cake LP
+Unstake 0.00 [CGS]-[USDT] Cake LP
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [Cake]-[CGS] Cake LP [+] [-] [<=>] Price: $0.36 TVL: $1,029.90
+Cake Price: $7.01
+CGS Price: $0.002390
+Staked: 1877.9020 Cake-LP ($677.30)
+CGS Per Week: 21221.05 ($50.71)
+APR: Day 1.07% Week 7.49% Year 389.35%
+You are staking 0.00 [Cake]-[CGS] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[CGS] Cake LP
+Unstake 0.00 [Cake]-[CGS] Cake LP
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - [CGS]-[BANANA] Cake LP [+] [-] [<=>] Price: $0.11 TVL: $475.10
+CGS Price: $0.002390
+BANANA Price: $0.62
+Staked: 4333.0710 Cake-LP ($471.26)
+CGS Per Week: 21221.05 ($50.71)
+APR: Day 1.54% Week 10.76% Year 559.58%
+You are staking 0.00 [CGS]-[BANANA] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CGS]-[BANANA] Cake LP
+Unstake 0.00 [CGS]-[BANANA] Cake LP
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - [CGS]-[BTCB] Cake LP [+] [-] [<=>] Price: $27.67 TVL: $897.20
+CGS Price: $0.002390
+BTCB Price: $36,305.00
+Staked: 24.2441 Cake-LP ($670.80)
+CGS Per Week: 21221.05 ($50.71)
+APR: Day 1.08% Week 7.56% Year 393.13%
+You are staking 0.00 [CGS]-[BTCB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CGS]-[BTCB] Cake LP
+Unstake 0.00 [CGS]-[BTCB] Cake LP
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+29 - [ETH]-[CGS] Cake LP [+] [-] [<=>] Price: $7.42 TVL: $819.96
+ETH Price: $2,458.64
+CGS Price: $0.002390
+Staked: 108.8226 Cake-LP ($807.46)
+CGS Per Week: 21221.05 ($50.71)
+APR: Day 0.90% Week 6.28% Year 326.59%
+You are staking 0.00 [ETH]-[CGS] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[CGS] Cake LP
+Unstake 0.00 [ETH]-[CGS] Cake LP
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+34 - OLIVE Price: $0.00 Market Cap: $0.00 
+Staked: 32188.8264 OLIVE ($0.00)
+CGS Per Week: 21221.05 ($50.71)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 OLIVE ($0.00), NaN% of the pool.
+Stake 0.00 OLIVE
+Unstake 0.00 OLIVE
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+35 - CORIS Price: $0.00 Market Cap: $0.00 
+Staked: 13934.8437 CORIS ($0.00)
+CGS Per Week: 21221.05 ($50.71)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 CORIS ($0.00), NaN% of the pool.
+Stake 0.00 CORIS
+Unstake 0.00 CORIS
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+36 - WSPP Price: $0.00 Market Cap: $0.00 
+Staked: 34207347119488.0000 WSPP ($0.00)
+CGS Per Week: 21221.05 ($50.71)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 WSPP ($0.00), NaN% of the pool.
+Stake 0.00 WSPP
+Unstake 0.00 WSPP
+Claim 0.00 CGS ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $28,751.34

@@ -1,0 +1,229 @@
+*************** 👨‍🌾 UNOFFICIAL KNIGHTSWAP.FINANCIAL FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://app.knightswap.financial
+*****************************************************************************************
+
+Thu Jan 27 2022 21:45:11 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 21 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [KNIGHT]-[BUSD] Uni LP [+] [-] [<=>] Price: $1.65 TVL: $7,964,312.14
+KNIGHT Price: $0.67
+BUSD Price: $1.00
+Staked: 4807319.9371 Knight-LP ($7,946,759.90)
+KNIGHT Per Week: 514723.40 ($345,029.50)
+APR: Day 0.62% Week 4.34% Year 225.77%
+You are staking 0.00 [KNIGHT]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KNIGHT]-[BUSD] Uni LP
+Unstake 0.00 [KNIGHT]-[BUSD] Uni LP
+Claim 0.00 KNIGHT ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WBNB]-[KNIGHT] Uni LP [+] [-] [<=>] Price: $32.20 TVL: $7,490,078.27
+WBNB Price: $368.15
+KNIGHT Price: $0.67
+Staked: 231812.4749 Knight-LP ($7,463,625.39)
+KNIGHT Per Week: 686297.87 ($460,039.33)
+APR: Day 0.88% Week 6.16% Year 320.52%
+You are staking 0.00 [WBNB]-[KNIGHT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[KNIGHT] Uni LP
+Unstake 0.00 [WBNB]-[KNIGHT] Uni LP
+Claim 0.00 KNIGHT ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BUSD] Uni LP [+] [-] [<=>] Price: $39.15 TVL: $12,429,678.34
+WBNB Price: $368.15
+BUSD Price: $1.00
+Staked: 317155.9750 Knight-LP ($12,417,851.82)
+KNIGHT Per Week: 171574.47 ($115,009.83)
+APR: Day 0.13% Week 0.93% Year 48.16%
+You are staking 0.00 [WBNB]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Uni LP
+Unstake 0.00 [WBNB]-[BUSD] Uni LP
+Claim 0.00 KNIGHT ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - KNIGHT Price: $0.67 Market Cap: $21,117,096.94 [%]
+Staked: 9725414.6671 KNIGHT ($6,519,141.93)
+KNIGHT Per Week: 343148.94 ($230,019.66)
+APR: Day 0.50% Week 3.53% Year 183.48%
+You are staking 0.00 KNIGHT ($0.00), 0.00% of the pool.
+Stake 0.00 KNIGHT
+Unstake 0.00 KNIGHT
+Claim 0.00 KNIGHT ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [WIZARD]-[WBNB] Uni LP [+] [-] [<=>] Price: $27.05 TVL: $174,352.45
+WIZARD Price: $0.49
+WBNB Price: $368.15
+Staked: 6440.4578 Knight-LP ($174,235.53)
+KNIGHT Per Week: 11438.30 ($7,667.32)
+APR: Day 0.63% Week 4.40% Year 228.83%
+You are staking 0.00 [WIZARD]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WIZARD]-[WBNB] Uni LP
+Unstake 0.00 [WIZARD]-[WBNB] Uni LP
+Claim 0.00 KNIGHT ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [BUSD]-[GUARD] Uni LP [+] [-] [<=>] Price: $1.40 TVL: $11,902,643.40
+BUSD Price: $1.00
+GUARD Price: $0.45
+Staked: 8371245.8827 Knight-LP ($11,697,616.53)
+KNIGHT Per Week: 114382.98 ($76,673.22)
+APR: Day 0.09% Week 0.66% Year 34.08%
+You are staking 0.00 [BUSD]-[GUARD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUSD]-[GUARD] Uni LP
+Unstake 0.00 [BUSD]-[GUARD] Uni LP
+Claim 0.00 KNIGHT ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [ETH]-[WBNB] Uni LP [+] [-] [<=>] Price: $1,901.47 TVL: $2,563,271.36
+ETH Price: $2,433.72
+WBNB Price: $368.15
+Staked: 1347.1537 Knight-LP ($2,561,574.79)
+KNIGHT Per Week: 22876.60 ($15,334.64)
+APR: Day 0.09% Week 0.60% Year 31.13%
+You are staking 0.00 [ETH]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Uni LP
+Unstake 0.00 [ETH]-[WBNB] Uni LP
+Claim 0.00 KNIGHT ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [BTCB]-[WBNB] Uni LP [+] [-] [<=>] Price: $7,335.47 TVL: $3,755,634.65
+BTCB Price: $36,255.00
+WBNB Price: $368.15
+Staked: 511.7249 Knight-LP ($3,753,742.12)
+KNIGHT Per Week: 22876.60 ($15,334.64)
+APR: Day 0.06% Week 0.41% Year 21.24%
+You are staking 0.00 [BTCB]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Uni LP
+Unstake 0.00 [BTCB]-[WBNB] Uni LP
+Claim 0.00 KNIGHT ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [DAI]-[USDT] Uni LP [+] [-] [<=>] Price: $2.00 TVL: $4,256,413.39
+DAI Price: $1.00
+USDT Price: $1.00
+Staked: 2125216.1608 Knight-LP ($4,256,079.61)
+KNIGHT Per Week: 22876.60 ($15,334.64)
+APR: Day 0.05% Week 0.36% Year 18.74%
+You are staking 0.00 [DAI]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[USDT] Uni LP
+Unstake 0.00 [DAI]-[USDT] Uni LP
+Claim 0.00 KNIGHT ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [USDT]-[BUSD] Uni LP [+] [-] [<=>] Price: $2.01 TVL: $5,102,307.61
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 2540306.0652 Knight-LP ($5,101,050.78)
+KNIGHT Per Week: 22876.60 ($15,334.64)
+APR: Day 0.04% Week 0.30% Year 15.63%
+You are staking 0.00 [USDT]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Uni LP
+Unstake 0.00 [USDT]-[BUSD] Uni LP
+Claim 0.00 KNIGHT ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [CRUSH]-[WBNB] Uni LP [+] [-] [<=>] Price: $6.37 TVL: $93,071.89
+CRUSH Price: $0.03
+WBNB Price: $368.15
+Staked: 14616.9662 Knight-LP ($93,038.86)
+KNIGHT Per Week: 11438.30 ($7,667.32)
+APR: Day 1.18% Week 8.24% Year 428.53%
+You are staking 0.00 [CRUSH]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CRUSH]-[WBNB] Uni LP
+Unstake 0.00 [CRUSH]-[WBNB] Uni LP
+Claim 0.00 KNIGHT ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [WOLFIES]-[BUSD] Uni LP [+] [-] [<=>] Price: $2,427.79 TVL: $963,728.93
+WOLFIES Price: $0.001249
+BUSD Price: $1.00
+Staked: 395.3876 Knight-LP ($959,917.08)
+KNIGHT Per Week: 11438.30 ($7,667.32)
+APR: Day 0.11% Week 0.80% Year 41.53%
+You are staking 0.00 [WOLFIES]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WOLFIES]-[BUSD] Uni LP
+Unstake 0.00 [WOLFIES]-[BUSD] Uni LP
+Claim 0.00 KNIGHT ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [WBNB]-[DEP] Uni LP [+] [-] [<=>] Price: $8.60 TVL: $158,504.91
+WBNB Price: $368.15
+DEP Price: $0.05
+Staked: 9146.0730 Knight-LP ($78,652.34)
+KNIGHT Per Week: 8578.72 ($5,750.49)
+APR: Day 1.04% Week 7.31% Year 380.19%
+You are staking 0.00 [WBNB]-[DEP] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[DEP] Uni LP
+Unstake 0.00 [WBNB]-[DEP] Uni LP
+Claim 0.00 KNIGHT ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [PixelSQUID]-[WBNB] Uni LP [+] [-] [<=>] Price: $1.05 TVL: $77,368.17
+PixelSQUID Price: $0.000740
+WBNB Price: $368.15
+Staked: 63003.7683 Knight-LP ($66,440.21)
+KNIGHT Per Week: 11438.30 ($7,667.32)
+APR: Day 1.65% Week 11.54% Year 600.09%
+You are staking 0.00 [PixelSQUID]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PixelSQUID]-[WBNB] Uni LP
+Unstake 0.00 [PixelSQUID]-[WBNB] Uni LP
+Claim 0.00 KNIGHT ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [MVC]-[WBNB] Uni LP [+] [-] [<=>] Price: $0.14 TVL: $80,003.45
+MVC Price: $0.0000104811
+WBNB Price: $368.15
+Staked: 566505.4172 Knight-LP ($79,958.85)
+KNIGHT Per Week: 11438.30 ($7,667.32)
+APR: Day 1.37% Week 9.59% Year 498.63%
+You are staking 0.00 [MVC]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MVC]-[WBNB] Uni LP
+Unstake 0.00 [MVC]-[WBNB] Uni LP
+Claim 0.00 KNIGHT ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [$JOKE]-[WBNB] Uni LP [+] [-] [<=>] Price: $18,279.81 TVL: $94,368.34
+$JOKE Price: $0.000211
+WBNB Price: $368.15
+Staked: 5.1273 Knight-LP ($93,726.89)
+KNIGHT Per Week: 11438.30 ($7,667.32)
+APR: Day 1.17% Week 8.18% Year 425.39%
+You are staking 0.00 [$JOKE]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [$JOKE]-[WBNB] Uni LP
+Unstake 0.00 [$JOKE]-[WBNB] Uni LP
+Claim 0.00 KNIGHT ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [WBNB]-[SPA] Uni LP [+] [-] [<=>] Price: $5.55 TVL: $466,964.04
+WBNB Price: $368.15
+SPA Price: $0.02
+Staked: 69735.8535 Knight-LP ($386,791.39)
+KNIGHT Per Week: 11438.30 ($7,667.32)
+APR: Day 0.28% Week 1.98% Year 103.08%
+You are staking 0.00 [WBNB]-[SPA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[SPA] Uni LP
+Unstake 0.00 [WBNB]-[SPA] Uni LP
+Claim 0.00 KNIGHT ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - [WBNB]-[THUNDER] Uni LP [+] [-] [<=>] Price: $81,127.72 TVL: $47,149.24
+WBNB Price: $368.15
+THUNDER Price: $0.004025
+Staked: 0.5809 Knight-LP ($47,124.87)
+KNIGHT Per Week: 5719.15 ($3,833.66)
+APR: Day 1.16% Week 8.14% Year 423.03%
+You are staking 0.00 [WBNB]-[THUNDER] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[THUNDER] Uni LP
+Unstake 0.00 [WBNB]-[THUNDER] Uni LP
+Claim 0.00 KNIGHT ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $63,697,328.88

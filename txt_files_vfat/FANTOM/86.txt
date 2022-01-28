@@ -1,0 +1,100 @@
+*************** 👨‍🌾 UNOFFICIAL COFFIN.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://app.coffin.finance/farms
+**************************************************************************
+
+Fri Jan 28 2022 00:50:52 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+---- ⚰️🌾 Farms COFFIN MAKER V1 🌾⚰️ ----
+Staking Contract
+Found 2 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [WFTM]-[COFFIN] SPOOKY LP [+] [-] [<=>] Price: $0.76 TVL: $317,490.80
+WFTM Price: $2.03
+COFFIN Price: $0.07
+Staked: 18554.6775 spLP ($14,127.38)
+COFFIN Per Week: 6014.59 ($400.09)
+APR: Day 0.40% Week 2.83% Year 147.27%
+You are staking 0.00 [WFTM]-[COFFIN] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[COFFIN] SPOOKY LP
+Unstake 0.00 [WFTM]-[COFFIN] SPOOKY LP
+Claim 0.00 COFFIN ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [USDC]-[CoUSD] SPOOKY LP [+] [-] [<=>] Price: $1,836,688.45 TVL: $116,003.47
+USDC Price: $1.01
+CoUSD Price: $0.81
+Staked: 0.0013 spLP ($2,407.67)
+COFFIN Per Week: 33.41 ($2.22)
+APR: Day 0.01% Week 0.09% Year 4.80%
+You are staking 0.00 [USDC]-[CoUSD] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[CoUSD] SPOOKY LP
+Unstake 0.00 [USDC]-[CoUSD] SPOOKY LP
+Claim 0.00 COFFIN ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $16,535.05
+---- ⚰️🌾 Farms COFFIN MAKER V2 🌾⚰️ ----
+Staking Contract
+Found 5 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - COFFIN Price: $0.07 Market Cap: $1,095,587.76 
+Staked: 3596837.5190 COFFIN ($239,261.63)
+COFFIN Per Week: 99524.05 ($6,620.34)
+APR: Day 0.40% Week 2.77% Year 143.88%
+You are staking 0.00 COFFIN ($0.00), 0.00% of the pool.
+Stake 0.00 COFFIN
+Unstake 0.00 COFFIN
+Claim 0.00 COFFIN ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - CoUSD Price: $0.81 Market Cap: $238,421.75 
+Staked: 156760.8977 CoUSD ($127,284.52)
+COFFIN Per Week: 9952.41 ($662.03)
+APR: Day 0.07% Week 0.52% Year 27.05%
+You are staking 0.00 CoUSD ($0.00), 0.00% of the pool.
+Stake 0.00 CoUSD
+Unstake 0.00 CoUSD
+Claim 0.00 COFFIN ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WFTM]-[COFFIN] SPOOKY LP [+] [-] [<=>] Price: $0.76 TVL: $317,490.80
+WFTM Price: $2.03
+COFFIN Price: $0.07
+Staked: 384609.3318 spLP ($292,838.48)
+COFFIN Per Week: 248810.13 ($16,550.85)
+APR: Day 0.81% Week 5.65% Year 293.90%
+You are staking 0.00 [WFTM]-[COFFIN] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[COFFIN] SPOOKY LP
+Unstake 0.00 [WFTM]-[COFFIN] SPOOKY LP
+Claim 0.00 COFFIN ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - bpt-costab Price: $0.00 Market Cap: $0.00 
+Staked: 44977.0399 bpt-costab ($0.00)
+COFFIN Per Week: 9952.41 ($662.03)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 bpt-costab ($0.00), NaN% of the pool.
+Stake 0.00 bpt-costab
+Unstake 0.00 bpt-costab
+Claim 0.00 COFFIN ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDC]-[CoUSD] SPOOKY LP [+] [-] [<=>] Price: $1,836,688.45 TVL: $116,003.47
+USDC Price: $1.01
+CoUSD Price: $0.81
+Staked: 0.0583 spLP ($107,082.43)
+COFFIN Per Week: 24881.01 ($1,655.08)
+APR: Day 0.22% Week 1.55% Year 80.37%
+You are staking 0.00 [USDC]-[CoUSD] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[CoUSD] SPOOKY LP
+Unstake 0.00 [USDC]-[CoUSD] SPOOKY LP
+Claim 0.00 COFFIN ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $766,467.06

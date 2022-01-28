@@ -1,0 +1,255 @@
+*************** 👨‍🌾 UNOFFICIAL SQUID.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://squid-defi.com
+*********************************************************************************
+
+Fri Jan 28 2022 00:49:09 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 22 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [WFTM]-[SQUID] SPOOKY LP [+] [-] [<=>] Price: $1.29 TVL: $1,011.65
+WFTM Price: $2.03
+SQUID Price: $0.18
+Staked: 158.3150 spLP ($204.53)
+SQUID Per Week: 998.75 ($181.22)
+APR: Day 12.66% Week 88.60% Year 4607.33%
+You are staking 0.00 [WFTM]-[SQUID] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[SQUID] SPOOKY LP
+Unstake 0.00 [WFTM]-[SQUID] SPOOKY LP
+Claim 0.00 SQUID ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [USDC]-[SQUID] SPOOKY LP [+] [-] [<=>] Price: $888,563.57 TVL: $475.71
+USDC Price: $1.01
+SQUID Price: $0.18
+Staked: 0.0000 spLP ($12.61)
+SQUID Per Week: 554.86 ($100.68)
+APR: Day 114.04% Week 798.30% Year 41511.85%
+You are staking 0.00 [USDC]-[SQUID] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[SQUID] SPOOKY LP
+Unstake 0.00 [USDC]-[SQUID] SPOOKY LP
+Claim 0.00 SQUID ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WFTM]-[BOO] SPOOKY LP [+] [-] [<=>] Price: $14.94 TVL: $63,297,980.02
+WFTM Price: $2.03
+BOO Price: $25.17
+Staked: 0.1016 spLP ($1.52)
+SQUID Per Week: 55.49 ($10.07)
+APR: Day 94.75% Week 663.25% Year 34489.24%
+You are staking 0.00 [WFTM]-[BOO] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BOO] SPOOKY LP - Fee 4%
+Unstake 0.00 [WFTM]-[BOO] SPOOKY LP
+Claim 0.00 SQUID ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WFTM]-[ETH] SPOOKY LP [+] [-] [<=>] Price: $157.04 TVL: $42,581,333.44
+WFTM Price: $2.03
+ETH Price: $2,352.96
+Staked: 0.0000 spLP ($0.00)
+SQUID Per Week: 55.49 ($10.07)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WFTM]-[ETH] SPOOKY LP ($0.00), NaN% of the pool.
+Stake 0.00 [WFTM]-[ETH] SPOOKY LP - Fee 4%
+Unstake 0.00 [WFTM]-[ETH] SPOOKY LP
+Claim 0.00 SQUID ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDC]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $4,384,623.01 TVL: $168,792,770.34
+USDC Price: $1.01
+WFTM Price: $2.03
+Staked: 0.0000 spLP ($0.00)
+SQUID Per Week: 55.49 ($10.07)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[WFTM] SPOOKY LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[WFTM] SPOOKY LP - Fee 4%
+Unstake 0.00 [USDC]-[WFTM] SPOOKY LP
+Claim 0.00 SQUID ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WFTM]-[SCREAM] SPOOKY LP [+] [-] [<=>] Price: $25.51 TVL: $16,713,756.95
+WFTM Price: $2.03
+SCREAM Price: $74.36
+Staked: 0.0000 spLP ($0.00)
+SQUID Per Week: 55.49 ($10.07)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WFTM]-[SCREAM] SPOOKY LP ($0.00), NaN% of the pool.
+Stake 0.00 [WFTM]-[SCREAM] SPOOKY LP - Fee 4%
+Unstake 0.00 [WFTM]-[SCREAM] SPOOKY LP
+Claim 0.00 SQUID ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - SQUID Price: $0.18 Market Cap: $1,814.49 
+Staked: 2444.1369 SQUID ($443.49)
+SQUID Per Week: 665.83 ($120.81)
+APR: Day 3.89% Week 27.24% Year 1416.59%
+You are staking 0.00 SQUID ($0.00), 0.00% of the pool.
+Stake 0.00 SQUID
+Unstake 0.00 SQUID
+Claim 0.00 SQUID ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - WFTM Price: $2.03 Market Cap: $1,466,248,617.06 
+Staked: 57.6233 WFTM ($116.98)
+SQUID Per Week: 55.49 ($10.07)
+APR: Day 1.23% Week 8.61% Year 447.56%
+You are staking 0.00 WFTM ($0.00), 0.00% of the pool.
+Stake 0.00 WFTM - Fee 4%
+Unstake 0.00 WFTM
+Claim 0.00 SQUID ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - USDC Price: $1.01 Market Cap: $1,746,470,111.08 
+Staked: 96.0000 USDC ($96.96)
+SQUID Per Week: 55.49 ($10.07)
+APR: Day 1.48% Week 10.38% Year 539.95%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 SQUID ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - ETH Price: $2,352.96 Market Cap: $1,122,592,759.09 
+Staked: 0.0000 ETH ($0.00)
+SQUID Per Week: 55.49 ($10.07)
+APR: Day 28801.70% Week 201611.88% Year 10483817.87%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 SQUID ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - BTC Price: $36,039.00 Market Cap: $620,116,087.18 
+Staked: 0.0000 BTC ($1.51)
+SQUID Per Week: 55.49 ($10.07)
+APR: Day 95.32% Week 667.21% Year 34695.00%
+You are staking 0.00 BTC ($0.00), 0.00% of the pool.
+Stake 0.00 BTC - Fee 4%
+Unstake 0.00 BTC
+Claim 0.00 SQUID ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - DAI Price: $1.00 Market Cap: $704,467,481.12 
+Staked: 3.3870 DAI ($3.39)
+SQUID Per Week: 55.49 ($10.07)
+APR: Day 42.46% Week 297.25% Year 15457.14%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 SQUID ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - fUSDT Price: $1.00 Market Cap: $350,441,901.33 
+Staked: 302.6805 fUSDT ($302.68)
+SQUID Per Week: 55.49 ($10.07)
+APR: Day 0.48% Week 3.33% Year 172.96%
+You are staking 0.00 fUSDT ($0.00), 0.00% of the pool.
+Stake 0.00 fUSDT - Fee 4%
+Unstake 0.00 fUSDT
+Claim 0.00 SQUID ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - BNB Price: $364.91 Market Cap: $13,835,248.54 
+Staked: 0.0000 BNB ($0.00)
+SQUID Per Week: 55.49 ($10.07)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 BNB ($0.00), NaN% of the pool.
+Stake 0.00 BNB - Fee 4%
+Unstake 0.00 BNB
+Claim 0.00 SQUID ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - BOO Price: $25.17 Market Cap: $212,362,545.70 
+Staked: 137.6520 BOO ($3,464.70)
+SQUID Per Week: 55.49 ($10.07)
+APR: Day 0.04% Week 0.29% Year 15.11%
+You are staking 0.00 BOO ($0.00), 0.00% of the pool.
+Stake 0.00 BOO - Fee 4%
+Unstake 0.00 BOO
+Claim 0.00 SQUID ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [DAI]-[SQUID] SPOOKY LP [+] [-] [<=>] Price: $0.87 TVL: $263.61
+DAI Price: $1.00
+SQUID Price: $0.18
+Staked: 34.4759 spLP ($29.97)
+SQUID Per Week: 277.43 ($50.34)
+APR: Day 23.99% Week 167.95% Year 8733.57%
+You are staking 0.00 [DAI]-[SQUID] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[SQUID] SPOOKY LP
+Unstake 0.00 [DAI]-[SQUID] SPOOKY LP
+Claim 0.00 SQUID ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [fUSDT]-[SQUID] SPOOKY LP [+] [-] [<=>] Price: $869,962.27 TVL: $304.97
+fUSDT Price: $1.00
+SQUID Price: $0.18
+Staked: 0.0000 spLP ($2.45)
+SQUID Per Week: 277.43 ($50.34)
+APR: Day 293.91% Week 2057.35% Year 106982.33%
+You are staking 0.00 [fUSDT]-[SQUID] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [fUSDT]-[SQUID] SPOOKY LP
+Unstake 0.00 [fUSDT]-[SQUID] SPOOKY LP
+Claim 0.00 SQUID ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - fOLIVE Price: $0.00 Market Cap: $0.00 
+Staked: 941.0351 fOLIVE ($0.00)
+SQUID Per Week: 11.10 ($2.01)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 fOLIVE ($0.00), NaN% of the pool.
+Stake 0.00 fOLIVE
+Unstake 0.00 fOLIVE
+Claim 0.00 SQUID ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - WITCHER Price: $0.00 Market Cap: $0.00 
+Staked: 788.5775 WITCHER ($0.00)
+SQUID Per Week: 11.10 ($2.01)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 WITCHER ($0.00), NaN% of the pool.
+Stake 0.00 WITCHER
+Unstake 0.00 WITCHER
+Claim 0.00 SQUID ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - AAVE Price: $0.00 Market Cap: $0.00 
+Staked: 3.8489 AAVE ($0.00)
+SQUID Per Week: 55.49 ($10.07)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 AAVE ($0.00), NaN% of the pool.
+Stake 0.00 AAVE - Fee 4%
+Unstake 0.00 AAVE
+Claim 0.00 SQUID ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - [WFTM]-[BTC] SPOOKY LP [+] [-] [<=>] Price: $11,294,429,638.61 TVL: $21,873,890.71
+WFTM Price: $2.03
+BTC Price: $36,039.00
+Staked: 0.0000 spLP ($0.00)
+SQUID Per Week: 55.49 ($10.07)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WFTM]-[BTC] SPOOKY LP ($0.00), NaN% of the pool.
+Stake 0.00 [WFTM]-[BTC] SPOOKY LP - Fee 4%
+Unstake 0.00 [WFTM]-[BTC] SPOOKY LP
+Claim 0.00 SQUID ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - [WFTM]-[DAI] SPOOKY LP [+] [-] [<=>] Price: $3.75 TVL: $43,744,840.22
+WFTM Price: $2.03
+DAI Price: $1.00
+Staked: 0.0000 spLP ($0.00)
+SQUID Per Week: 55.49 ($10.07)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WFTM]-[DAI] SPOOKY LP ($0.00), NaN% of the pool.
+Stake 0.00 [WFTM]-[DAI] SPOOKY LP - Fee 4%
+Unstake 0.00 [WFTM]-[DAI] SPOOKY LP
+Claim 0.00 SQUID ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $4,680.79

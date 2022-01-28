@@ -1,0 +1,129 @@
+*************** 👨‍🌾 UNOFFICIAL STORMSWAP.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://cronos.stormswap.finance
+**************************************************************************************
+
+Wed Dec 22 2021 18:18:55 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 11 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - WIND Price: $0.06 Market Cap: $75,359.26 
+Staked: 398054.7362 WIND ($25,031.44)
+WIND Per Week: 21600.00 ($1,358.30)
+APR: Day 0.78% Week 5.43% Year 282.17%
+You are staking 0.00 WIND ($0.00), 0.00% of the pool.
+Stake 0.00 WIND
+Unstake 0.00 WIND
+Claim 0.00 WIND ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - WCRO Price: $0.54 Market Cap: $411,950,250.27 
+Staked: 233316.6801 WCRO ($125,636.37)
+WIND Per Week: 10800.00 ($679.15)
+APR: Day 0.08% Week 0.54% Year 28.11%
+You are staking 0.00 WCRO ($0.00), 0.00% of the pool.
+Stake 0.00 WCRO
+Unstake 0.00 WCRO - Fee 4%
+Claim 0.00 WIND ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - WETH Price: $4,030.89 Market Cap: $277,905,680.16 
+Staked: 20.4829 WETH ($82,564.26)
+WIND Per Week: 10800.00 ($679.15)
+APR: Day 0.12% Week 0.82% Year 42.77%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH
+Unstake 0.00 WETH - Fee 4%
+Claim 0.00 WIND ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - WBTC Price: $49,270.00 Market Cap: $268,915,660.00 
+Staked: 3.6507 WBTC ($179,869.21)
+WIND Per Week: 10800.00 ($679.15)
+APR: Day 0.05% Week 0.38% Year 19.63%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC
+Unstake 0.00 WBTC - Fee 4%
+Claim 0.00 WIND ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - USDC Price: $1.01 Market Cap: $540,350,000.00 
+Staked: 110498.5947 USDC ($111,603.58)
+WIND Per Week: 8100.00 ($509.36)
+APR: Day 0.07% Week 0.46% Year 23.73%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC
+Unstake 0.00 USDC - Fee 4%
+Claim 0.00 WIND ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - USDT Price: $1.01 Market Cap: $380,770,000.00 
+Staked: 138068.1208 USDT ($139,448.80)
+WIND Per Week: 8100.00 ($509.36)
+APR: Day 0.05% Week 0.37% Year 18.99%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT
+Unstake 0.00 USDT - Fee 4%
+Claim 0.00 WIND ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - VVS Price: $0.0000576100 Market Cap: $2,121,111,093.97 
+Staked: 67716159.6863 VVS ($3,901.13)
+WIND Per Week: 8100.00 ($509.36)
+APR: Day 1.87% Week 13.06% Year 678.96%
+You are staking 0.00 VVS ($0.00), 0.00% of the pool.
+Stake 0.00 VVS
+Unstake 0.00 VVS - Fee 4%
+Claim 0.00 WIND ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - BUSD Price: $1.01 Market Cap: $7,114,526.95 
+Staked: 228331.3810 BUSD ($230,614.69)
+WIND Per Week: 8100.00 ($509.36)
+APR: Day 0.03% Week 0.22% Year 11.49%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD
+Unstake 0.00 BUSD - Fee 4%
+Claim 0.00 WIND ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [WIND]-[WCRO] Crona LP Token [+] [-] [<=>] Price: $0.38 TVL: $59,105.94
+WIND Price: $0.06
+WCRO Price: $0.54
+Staked: 99901.4349 Crona-LP ($38,282.09)
+WIND Per Week: 67500.00 ($4,244.70)
+APR: Day 1.58% Week 11.09% Year 576.57%
+You are staking 0.00 [WIND]-[WCRO] Crona LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WIND]-[WCRO] Crona LP Token
+Unstake 0.00 [WIND]-[WCRO] Crona LP Token
+Claim 0.00 WIND ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - CRONA Price: $0.00 Market Cap: $0.00 
+Staked: 16777.8316 CRONA ($0.00)
+WIND Per Week: 8100.00 ($509.36)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 CRONA ($0.00), NaN% of the pool.
+Stake 0.00 CRONA
+Unstake 0.00 CRONA - Fee 4%
+Claim 0.00 WIND ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [miMatic]-[WIND] Uni LP [+] [-] [<=>] Price: $0.51 TVL: $20,230.00
+miMatic Price: $1.03
+WIND Price: $0.06
+Staked: 39160.8267 UNI-V2 ($20,099.60)
+WIND Per Week: 54000.00 ($3,395.76)
+APR: Day 2.41% Week 16.89% Year 878.52%
+You are staking 0.00 [miMatic]-[WIND] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [miMatic]-[WIND] Uni LP
+Unstake 0.00 [miMatic]-[WIND] Uni LP
+Claim 0.00 WIND ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $957,051.18

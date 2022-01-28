@@ -1,0 +1,140 @@
+*************** 👨‍🌾 UNOFFICIAL XTOKEN FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://xtoken.cafe/app/dashboard
+***************************************************************************
+
+Thu Jan 27 2022 19:30:25 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+*** Important ***
+Please do not use the Claim function as it will fail. To claim your rewards you need to use Exit, you can then Stake again.
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+[XTK]-[WETH] Uni LP [+] [-] [<=>] Price: $19.64 TVL: $623,416.25
+XTK Price: $0.03
+WETH Price: $2,467.09
+Staked: 2251.7874 UNI-V2 ($44,221.57)
+XTK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [XTK]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [XTK]-[WETH] Uni LP
+Unstake 0.000000 [XTK]-[WETH] Uni LP
+Claim 0.000000 XTK ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[SNX 25.00%]-[WETH 25.00%]-[xSNXa 50.00%] BPT Price: $0.01 TVL: $24,957.52
+SNX Price: $4.88
+WETH Price: $2,467.09
+xSNXa Price: $0.00
+Staked: 1993304.3829 [SNX 25.00%]-[WETH 25.00%]-[xSNXa 50.00%] ($20,080.63)
+XTK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [SNX 25.00%]-[WETH 25.00%]-[xSNXa 50.00%] $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [SNX 25.00%]-[WETH 25.00%]-[xSNXa 50.00%]
+Unstake 0.000000 [SNX 25.00%]-[WETH 25.00%]-[xSNXa 50.00%]
+Claim 0.000000 XTK ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[WETH 25.00%]-[AAVE 25.00%]-[xAAVEa 50.00%] BPT Price: $2.05 TVL: $318,735.59
+WETH Price: $2,467.09
+AAVE Price: $148.26
+xAAVEa Price: $2.08
+Staked: 131772.0293 [WETH 25.00%]-[AAVE 25.00%]-[xAAVEa 50.00%] ($270,046.12)
+XTK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [WETH 25.00%]-[AAVE 25.00%]-[xAAVEa 50.00%] $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [WETH 25.00%]-[AAVE 25.00%]-[xAAVEa 50.00%]
+Unstake 0.000000 [WETH 25.00%]-[AAVE 25.00%]-[xAAVEa 50.00%]
+Claim 0.000000 XTK ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[AAVE 25.00%]-[WETH 25.00%]-[xAAVEb 50.00%] BPT Price: $2.53 TVL: $233,928.94
+AAVE Price: $148.26
+WETH Price: $2,467.09
+xAAVEb Price: $2.78
+Staked: 63548.1382 [AAVE 25.00%]-[WETH 25.00%]-[xAAVEb 50.00%] ($160,949.26)
+XTK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [AAVE 25.00%]-[WETH 25.00%]-[xAAVEb 50.00%] $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [AAVE 25.00%]-[WETH 25.00%]-[xAAVEb 50.00%]
+Unstake 0.000000 [AAVE 25.00%]-[WETH 25.00%]-[xAAVEb 50.00%]
+Claim 0.000000 XTK ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[xKNCa]-[WETH] Uni LP [+] [-] [<=>] Price: $44.05 TVL: $1,449.25
+xKNCa Price: $0.19
+WETH Price: $2,467.09
+Staked: 23.1397 UNI-V2 ($1,019.25)
+XTK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [xKNCa]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [xKNCa]-[WETH] Uni LP
+Unstake 0.000000 [xKNCa]-[WETH] Uni LP
+Claim 0.000000 XTK ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[xKNCb]-[WETH] Uni LP [+] [-] [<=>] Price: $47.25 TVL: $7,036.25
+xKNCb Price: $0.21
+WETH Price: $2,467.09
+Staked: 147.6212 UNI-V2 ($6,974.66)
+XTK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [xKNCb]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [xKNCb]-[WETH] Uni LP
+Unstake 0.000000 [xKNCb]-[WETH] Uni LP
+Claim 0.000000 XTK ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[ETH]-[xINCHa] 1INCH LP Price: $1.40 TVL: $149,985.13
+ETH Price: $9,463.00
+xINCHa Price: $0.13
+Staked: 19953.2328 1LP-ETH-xINCHa ($27,901.87)
+XTK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [ETH]-[xINCHa] 1INCH LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [ETH]-[xINCHa] 1INCH LP
+Unstake 0.000000 [ETH]-[xINCHa] 1INCH LP
+Claim 0.000000 XTK ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[ETH]-[xINCHb] 1INCH LP Price: $1.85 TVL: $6,371.32
+ETH Price: $9,463.00
+xINCHb Price: $0.31
+Staked: 15.0000 1LP-ETH-xINCHb ($27.75)
+XTK Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [ETH]-[xINCHb] 1INCH LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [ETH]-[xINCHb] 1INCH LP
+Unstake 0.000000 [ETH]-[xINCHb] 1INCH LP
+Claim 0.000000 XTK ($0.00)
+Revoke (set approval to 0)
+Exit
+
+xBNTBNT Price: $0.00 Market Cap: $0.00 
+Staked: 1132913.5008 xBNTBNT ($0.00)
+XTK Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.000000 xBNTBNT $0.00 (NaN% of the pool).
+Etherscan
+Stake 0.000000 xBNTBNT
+Unstake 0.000000 xBNTBNT
+Claim 0.000000 XTK ($0.00)
+Revoke (set approval to 0)
+Exit
+
+Total staked: $531,221.11

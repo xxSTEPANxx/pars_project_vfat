@@ -2,55 +2,17 @@
 INFO  : https://polytide.finance/
 **************************************************************************
 
-Fri Dec 17 2021 11:01:43 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 23:02:16 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
-Found 4 pools.
-Showing incentivized pools only.
-Finished reading smart contracts.
-0 - OYSTER Price: $0.00 Market Cap: $0.00 
-Staked: 61069.5386 OYSTER ($0.00)
-OYSTER Per Week: 342.86 ($0.35)
-APR: Day NaN% Week NaN% Year NaN%
-You are staking 0.00 OYSTER ($0.00), NaN% of the pool.
-Stake 0.00 OYSTER
-Unstake 0.00 OYSTER
-Claim 0.00 OYSTER ($0.00)
-Staking or unstaking also claims rewards.
-
-1 - [USDC]-[OYSTER] Uni LP [+] [-] [<=>] Price: $65,465.39 TVL: $135.23
-USDC Price: $1.00
-OYSTER Price: $0.001023
-Staked: 0.0005 UNI-V2 ($33.84)
-OYSTER Per Week: 5142.86 ($5.26)
-APR: Day 2.22% Week 15.54% Year 808.22%
-You are staking 0.00 [USDC]-[OYSTER] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[OYSTER] Uni LP
-Unstake 0.00 [USDC]-[OYSTER] Uni LP
-Claim 0.00 OYSTER ($0.00)
-Staking or unstaking also claims rewards.
-
-2 - USDC Price: $1.00 Market Cap: $952,294,882.74 [%]
-Staked: 9945.8031 USDC ($9,945.80)
-OYSTER Per Week: 1371.43 ($1.40)
-APR: Day 0.00% Week 0.01% Year 0.73%
-You are staking 0.00 USDC ($0.00), 0.00% of the pool.
-Stake 0.00 USDC - Fee 0.5%
-Unstake 0.00 USDC
-Claim 0.00 OYSTER ($0.00)
-Staking or unstaking also claims rewards.
-
-3 - USDC Price: $1.00 Market Cap: $952,294,882.74 [%]
-Staked: 9945.8031 USDC ($9,945.80)
-OYSTER Per Week: 342.86 ($0.35)
-APR: Day 0.00% Week 0.00% Year 0.18%
-You are staking 0.00 USDC ($0.00), 0.00% of the pool.
-Stake 0.00 USDC - Fee 0.5%
-Unstake 0.00 USDC
-Claim 0.00 OYSTER ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $19,925.44
+{
+  "code": -32603,
+  "message": "Non-200 status code: '400'",
+  "data": {
+    "error": "Unable to verify your data submission."
+  }
+}
+Oops something went wrong. Try refreshing the page.

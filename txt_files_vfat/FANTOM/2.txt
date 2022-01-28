@@ -1,0 +1,509 @@
+*************** 👨‍🌾 UNOFFICIAL SPOOKYSWAP.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://spookyswap.finance
+***************************************************************************************
+
+Fri Jan 28 2022 00:29:53 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 60 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [WFTM]-[BOO] SPOOKY LP [+] [-] [<=>] Price: $15.00 TVL: $63,521,805.12
+WFTM Price: $2.02
+BOO Price: $25.48
+Staked: 3972333.4620 spLP ($59,567,783.77)
+BOO Per Week: 30619.84 ($780,193.53)
+APR: Day 0.19% Week 1.31% Year 68.11%
+You are staking 0.00 [WFTM]-[BOO] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BOO] SPOOKY LP
+Unstake 0.00 [WFTM]-[BOO] SPOOKY LP
+Claim 0.00 BOO ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [fUSDT]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $3,774,723.75 TVL: $37,079,477.62
+fUSDT Price: $1.00
+WFTM Price: $2.02
+Staked: 9.8015 spLP ($36,997,879.32)
+BOO Per Week: 3061.98 ($78,019.35)
+APR: Day 0.03% Week 0.21% Year 10.97%
+You are staking 0.00 [fUSDT]-[WFTM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [fUSDT]-[WFTM] SPOOKY LP
+Unstake 0.00 [fUSDT]-[WFTM] SPOOKY LP
+Claim 0.00 BOO ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [USDC]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $4,352,016.93 TVL: $167,245,185.72
+USDC Price: $1.00
+WFTM Price: $2.02
+Staked: 38.1924 spLP ($166,213,987.94)
+BOO Per Week: 9185.95 ($234,058.06)
+APR: Day 0.02% Week 0.14% Year 7.32%
+You are staking 0.00 [USDC]-[WFTM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WFTM] SPOOKY LP
+Unstake 0.00 [USDC]-[WFTM] SPOOKY LP
+Claim 0.00 BOO ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WFTM]-[DAI] SPOOKY LP [+] [-] [<=>] Price: $3.74 TVL: $43,634,321.04
+WFTM Price: $2.02
+DAI Price: $1.00
+Staked: 11568470.3011 spLP ($43,285,627.09)
+BOO Per Week: 4286.78 ($109,227.09)
+APR: Day 0.04% Week 0.25% Year 13.12%
+You are staking 0.00 [WFTM]-[DAI] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[DAI] SPOOKY LP
+Unstake 0.00 [WFTM]-[DAI] SPOOKY LP
+Claim 0.00 BOO ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [WFTM]-[BTC] SPOOKY LP [+] [-] [<=>] Price: $11,234,370,530.13 TVL: $21,833,706.82
+WFTM Price: $2.02
+BTC Price: $35,834.00
+Staked: 0.0019 spLP ($21,685,765.80)
+BOO Per Week: 3061.98 ($78,019.35)
+APR: Day 0.05% Week 0.36% Year 18.71%
+You are staking 0.00 [WFTM]-[BTC] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BTC] SPOOKY LP
+Unstake 0.00 [WFTM]-[BTC] SPOOKY LP
+Claim 0.00 BOO ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WFTM]-[ETH] SPOOKY LP [+] [-] [<=>] Price: $156.20 TVL: $42,355,101.66
+WFTM Price: $2.02
+ETH Price: $2,339.68
+Staked: 270031.7128 spLP ($42,180,032.48)
+BOO Per Week: 4490.91 ($114,428.38)
+APR: Day 0.04% Week 0.27% Year 14.11%
+You are staking 0.00 [WFTM]-[ETH] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ETH] SPOOKY LP
+Unstake 0.00 [WFTM]-[ETH] SPOOKY LP
+Claim 0.00 BOO ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [WFTM]-[LINK] SPOOKY LP [+] [-] [<=>] Price: $11.76 TVL: $11,878,379.62
+WFTM Price: $2.02
+LINK Price: $14.62
+Staked: 1006086.6017 spLP ($11,834,337.20)
+BOO Per Week: 1530.99 ($39,009.68)
+APR: Day 0.05% Week 0.33% Year 17.14%
+You are staking 0.00 [WFTM]-[LINK] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[LINK] SPOOKY LP
+Unstake 0.00 [WFTM]-[LINK] SPOOKY LP
+Claim 0.00 BOO ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [WFTM]-[AAVE] SPOOKY LP [+] [-] [<=>] Price: $35.58 TVL: $1,552,793.59
+WFTM Price: $2.02
+AAVE Price: $138.92
+Staked: 42713.9659 spLP ($1,519,816.38)
+BOO Per Week: 204.13 ($5,201.29)
+APR: Day 0.05% Week 0.34% Year 17.80%
+You are staking 0.00 [WFTM]-[AAVE] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[AAVE] SPOOKY LP
+Unstake 0.00 [WFTM]-[AAVE] SPOOKY LP
+Claim 0.00 BOO ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [WFTM]-[SUSHI] SPOOKY LP [+] [-] [<=>] Price: $6.04 TVL: $7,495,509.95
+WFTM Price: $2.02
+SUSHI Price: $3.89
+Staked: 1237762.9593 spLP ($7,474,757.99)
+BOO Per Week: 1020.66 ($26,006.45)
+APR: Day 0.05% Week 0.35% Year 18.09%
+You are staking 0.00 [WFTM]-[SUSHI] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[SUSHI] SPOOKY LP
+Unstake 0.00 [WFTM]-[SUSHI] SPOOKY LP
+Claim 0.00 BOO ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [CRV]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $5.17 TVL: $4,464,853.70
+CRV Price: $2.72
+WFTM Price: $2.02
+Staked: 861084.7499 spLP ($4,455,589.84)
+BOO Per Week: 1735.12 ($44,210.97)
+APR: Day 0.14% Week 0.99% Year 51.60%
+You are staking 0.00 [CRV]-[WFTM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CRV]-[WFTM] SPOOKY LP
+Unstake 0.00 [CRV]-[WFTM] SPOOKY LP
+Claim 0.00 BOO ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [WFTM]-[ICE] SPOOKY LP [+] [-] [<=>] Price: $6.41 TVL: $2,044,018.65
+WFTM Price: $2.02
+ICE Price: $3.84
+Staked: 279038.0274 spLP ($1,789,581.56)
+BOO Per Week: 1020.66 ($26,006.45)
+APR: Day 0.21% Week 1.45% Year 75.57%
+You are staking 0.00 [WFTM]-[ICE] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ICE] SPOOKY LP
+Unstake 0.00 [WFTM]-[ICE] SPOOKY LP
+Claim 0.00 BOO ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [WFTM]-[BNB] SPOOKY LP [+] [-] [<=>] Price: $60.27 TVL: $12,941,416.50
+WFTM Price: $2.02
+BNB Price: $362.73
+Staked: 214403.9832 spLP ($12,922,999.78)
+BOO Per Week: 3061.98 ($78,019.35)
+APR: Day 0.09% Week 0.60% Year 31.39%
+You are staking 0.00 [WFTM]-[BNB] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BNB] SPOOKY LP
+Unstake 0.00 [WFTM]-[BNB] SPOOKY LP
+Claim 0.00 BOO ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - [WFTM]-[ANY] SPOOKY LP [+] [-] [<=>] Price: $13.64 TVL: $4,925,977.31
+WFTM Price: $2.02
+ANY Price: $19.74
+Staked: 359643.9718 spLP ($4,903,794.29)
+BOO Per Week: 612.40 ($15,603.87)
+APR: Day 0.05% Week 0.32% Year 16.55%
+You are staking 0.00 [WFTM]-[ANY] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ANY] SPOOKY LP
+Unstake 0.00 [WFTM]-[ANY] SPOOKY LP
+Claim 0.00 BOO ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [WFTM]-[BIFI] SPOOKY LP [+] [-] [<=>] Price: $129.66 TVL: $1,400,508.21
+WFTM Price: $2.02
+BIFI Price: $1,847.41
+Staked: 10769.3889 spLP ($1,396,383.15)
+BOO Per Week: 306.20 ($7,801.94)
+APR: Day 0.08% Week 0.56% Year 29.05%
+You are staking 0.00 [WFTM]-[BIFI] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BIFI] SPOOKY LP
+Unstake 0.00 [WFTM]-[BIFI] SPOOKY LP
+Claim 0.00 BOO ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - [WFTM]-[MIM] SPOOKY LP [+] [-] [<=>] Price: $3.49 TVL: $22,660,831.50
+WFTM Price: $2.02
+MIM Price: $1.00
+Staked: 6266274.3239 spLP ($21,873,124.96)
+BOO Per Week: 2143.39 ($54,613.55)
+APR: Day 0.04% Week 0.25% Year 12.98%
+You are staking 0.00 [WFTM]-[MIM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[MIM] SPOOKY LP
+Unstake 0.00 [WFTM]-[MIM] SPOOKY LP
+Claim 0.00 BOO ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - [WFTM]-[KEK] SPOOKY LP [+] [-] [<=>] Price: $0.75 TVL: $600,863.94
+WFTM Price: $2.02
+KEK Price: $0.07
+Staked: 794953.5747 spLP ($593,497.17)
+BOO Per Week: 102.07 ($2,600.65)
+APR: Day 0.06% Week 0.44% Year 22.79%
+You are staking 0.00 [WFTM]-[KEK] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[KEK] SPOOKY LP
+Unstake 0.00 [WFTM]-[KEK] SPOOKY LP
+Claim 0.00 BOO ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - [YFI]-[ETH] SPOOKY LP [+] [-] [<=>] Price: $15,127.37 TVL: $5,639,119.76
+YFI Price: $23,270.00
+ETH Price: $2,339.68
+Staked: 370.7229 spLP ($5,608,061.96)
+BOO Per Week: 1224.79 ($31,207.74)
+APR: Day 0.08% Week 0.56% Year 28.94%
+You are staking 0.00 [YFI]-[ETH] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [YFI]-[ETH] SPOOKY LP
+Unstake 0.00 [YFI]-[ETH] SPOOKY LP
+Claim 0.00 BOO ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - [WFTM]-[SCREAM] SPOOKY LP [+] [-] [<=>] Price: $25.50 TVL: $16,704,890.22
+WFTM Price: $2.02
+SCREAM Price: $74.67
+Staked: 66790.4091 spLP ($1,702,981.07)
+BOO Per Week: 408.26 ($10,402.58)
+APR: Day 0.09% Week 0.61% Year 31.76%
+You are staking 0.00 [WFTM]-[SCREAM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[SCREAM] SPOOKY LP
+Unstake 0.00 [WFTM]-[SCREAM] SPOOKY LP
+Claim 0.00 BOO ($0.00)
+Staking or unstaking also claims rewards.
+
+29 - [WFTM]-[FOO] SPOOKY LP [+] [-] [<=>] Price: $0.64 TVL: $102,183.68
+WFTM Price: $2.02
+FOO Price: $0.05
+Staked: 148449.7515 spLP ($95,432.45)
+BOO Per Week: 102.07 ($2,600.65)
+APR: Day 0.39% Week 2.73% Year 141.71%
+You are staking 0.00 [WFTM]-[FOO] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[FOO] SPOOKY LP
+Unstake 0.00 [WFTM]-[FOO] SPOOKY LP
+Claim 0.00 BOO ($0.00)
+Staking or unstaking also claims rewards.
+
+34 - [WFTM]-[TREEB] SPOOKY LP [+] [-] [<=>] Price: $1.16 TVL: $2,729,080.26
+WFTM Price: $2.02
+TREEB Price: $0.14
+Staked: 2350564.1483 spLP ($2,716,538.68)
+BOO Per Week: 612.40 ($15,603.87)
+APR: Day 0.08% Week 0.57% Year 29.87%
+You are staking 0.00 [WFTM]-[TREEB] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[TREEB] SPOOKY LP
+Unstake 0.00 [WFTM]-[TREEB] SPOOKY LP
+Claim 0.00 BOO ($0.00)
+Staking or unstaking also claims rewards.
+
+35 - [BTC]-[ETH] SPOOKY LP [+] [-] [<=>] Price: $41,179,772,490.64 TVL: $41,497,631.45
+BTC Price: $35,834.00
+ETH Price: $2,339.68
+Staked: 0.0010 spLP ($41,416,128.29)
+BOO Per Week: 1224.79 ($31,207.74)
+APR: Day 0.01% Week 0.08% Year 3.92%
+You are staking 0.00 [BTC]-[ETH] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTC]-[ETH] SPOOKY LP
+Unstake 0.00 [BTC]-[ETH] SPOOKY LP
+Claim 0.00 BOO ($0.00)
+Staking or unstaking also claims rewards.
+
+36 - [WFTM]-[FONT] SPOOKY LP [+] [-] [<=>] Price: $2.31 TVL: $310,209.32
+WFTM Price: $2.02
+FONT Price: $0.64
+Staked: 46387.1931 spLP ($107,138.26)
+BOO Per Week: 102.07 ($2,600.65)
+APR: Day 0.35% Week 2.43% Year 126.22%
+You are staking 0.00 [WFTM]-[FONT] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[FONT] SPOOKY LP
+Unstake 0.00 [WFTM]-[FONT] SPOOKY LP
+Claim 0.00 BOO ($0.00)
+Staking or unstaking also claims rewards.
+
+37 - [LQDR]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $18.50 TVL: $751,591.82
+LQDR Price: $29.54
+WFTM Price: $2.02
+Staked: 38844.8396 spLP ($718,761.13)
+BOO Per Week: 204.13 ($5,201.29)
+APR: Day 0.10% Week 0.72% Year 37.63%
+You are staking 0.00 [LQDR]-[WFTM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LQDR]-[WFTM] SPOOKY LP
+Unstake 0.00 [LQDR]-[WFTM] SPOOKY LP
+Claim 0.00 BOO ($0.00)
+Staking or unstaking also claims rewards.
+
+38 - [WFTM]-[SPELL] SPOOKY LP [+] [-] [<=>] Price: $3,415,291.53 TVL: $3,781,551.66
+WFTM Price: $2.02
+SPELL Price: $0.005156
+Staked: 1.0868 spLP ($3,711,781.29)
+BOO Per Week: 1020.66 ($26,006.45)
+APR: Day 0.10% Week 0.70% Year 36.43%
+You are staking 0.00 [WFTM]-[SPELL] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[SPELL] SPOOKY LP
+Unstake 0.00 [WFTM]-[SPELL] SPOOKY LP
+Claim 0.00 BOO ($0.00)
+Staking or unstaking also claims rewards.
+
+39 - [WFTM]-[CFi] SPOOKY LP [+] [-] [<=>] Price: $4.91 TVL: $213,830.81
+WFTM Price: $2.02
+CFi Price: $2.92
+Staked: 24354.1221 spLP ($119,623.45)
+BOO Per Week: 102.07 ($2,600.65)
+APR: Day 0.31% Week 2.17% Year 113.05%
+You are staking 0.00 [WFTM]-[CFi] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[CFi] SPOOKY LP
+Unstake 0.00 [WFTM]-[CFi] SPOOKY LP
+Claim 0.00 BOO ($0.00)
+Staking or unstaking also claims rewards.
+
+41 - [WFTM]-[DOLA] SPOOKY LP [+] [-] [<=>] Price: $2.97 TVL: $485,839.00
+WFTM Price: $2.02
+DOLA Price: $1.01
+Staked: 163731.9651 spLP ($485,518.90)
+BOO Per Week: 204.13 ($5,201.29)
+APR: Day 0.15% Week 1.07% Year 55.71%
+You are staking 0.00 [WFTM]-[DOLA] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[DOLA] SPOOKY LP
+Unstake 0.00 [WFTM]-[DOLA] SPOOKY LP
+Claim 0.00 BOO ($0.00)
+Staking or unstaking also claims rewards.
+
+42 - [USDC]-[miMATIC] SPOOKY LP [+] [-] [<=>] Price: $2,035,705.97 TVL: $19,381,489.51
+USDC Price: $1.00
+miMATIC Price: $1.00
+Staked: 9.2985 spLP ($18,929,071.88)
+BOO Per Week: 714.46 ($18,204.52)
+APR: Day 0.01% Week 0.10% Year 5.00%
+You are staking 0.00 [USDC]-[miMATIC] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[miMATIC] SPOOKY LP
+Unstake 0.00 [USDC]-[miMATIC] SPOOKY LP
+Claim 0.00 BOO ($0.00)
+Staking or unstaking also claims rewards.
+
+44 - [WFTM]-[JOE] SPOOKY LP [+] [-] [<=>] Price: $2.80 TVL: $451,550.58
+WFTM Price: $2.02
+JOE Price: $0.91
+Staked: 158505.7053 spLP ($444,394.38)
+BOO Per Week: 306.20 ($7,801.94)
+APR: Day 0.25% Week 1.76% Year 91.29%
+You are staking 0.00 [WFTM]-[JOE] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[JOE] SPOOKY LP
+Unstake 0.00 [WFTM]-[JOE] SPOOKY LP
+Claim 0.00 BOO ($0.00)
+Staking or unstaking also claims rewards.
+
+45 - [USDC]-[TUSD] SPOOKY LP [+] [-] [<=>] Price: $2,023,582.57 TVL: $28,712,416.91
+USDC Price: $1.00
+TUSD Price: $1.00
+Staked: 14.1621 spLP ($28,658,185.34)
+BOO Per Week: 816.53 ($20,805.16)
+APR: Day 0.01% Week 0.07% Year 3.78%
+You are staking 0.00 [USDC]-[TUSD] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[TUSD] SPOOKY LP
+Unstake 0.00 [USDC]-[TUSD] SPOOKY LP
+Claim 0.00 BOO ($0.00)
+Staking or unstaking also claims rewards.
+
+46 - [WFTM]-[YOSHI] SPOOKY LP [+] [-] [<=>] Price: $3.43 TVL: $4,526,109.51
+WFTM Price: $2.02
+YOSHI Price: $1.39
+Staked: 384420.0645 spLP ($1,320,238.80)
+BOO Per Week: 204.13 ($5,201.29)
+APR: Day 0.06% Week 0.39% Year 20.49%
+You are staking 0.00 [WFTM]-[YOSHI] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[YOSHI] SPOOKY LP
+Unstake 0.00 [WFTM]-[YOSHI] SPOOKY LP
+Claim 0.00 BOO ($0.00)
+Staking or unstaking also claims rewards.
+
+47 - [WFTM]-[wsSPA] SPOOKY LP [+] [-] [<=>] Price: $22.89 TVL: $470,537.12
+WFTM Price: $2.02
+wsSPA Price: $59.96
+Staked: 20254.8197 spLP ($463,723.84)
+BOO Per Week: 408.26 ($10,402.58)
+APR: Day 0.32% Week 2.24% Year 116.65%
+You are staking 0.00 [WFTM]-[wsSPA] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[wsSPA] SPOOKY LP
+Unstake 0.00 [WFTM]-[wsSPA] SPOOKY LP
+Claim 0.00 BOO ($0.00)
+Staking or unstaking also claims rewards.
+
+49 - [WFTM]-[wsHEC] SPOOKY LP [+] [-] [<=>] Price: $264,791.78 TVL: $939,076.16
+WFTM Price: $2.02
+wsHEC Price: $109.87
+Staked: 3.3947 spLP ($898,899.19)
+BOO Per Week: 408.26 ($10,402.58)
+APR: Day 0.17% Week 1.16% Year 60.18%
+You are staking 0.00 [WFTM]-[wsHEC] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[wsHEC] SPOOKY LP
+Unstake 0.00 [WFTM]-[wsHEC] SPOOKY LP
+Claim 0.00 BOO ($0.00)
+Staking or unstaking also claims rewards.
+
+51 - [WFTM]-[OOE] SPOOKY LP [+] [-] [<=>] Price: $1.07 TVL: $305,573.47
+WFTM Price: $2.02
+OOE Price: $0.14
+Staked: 285272.0943 spLP ($304,966.16)
+BOO Per Week: 408.26 ($10,402.58)
+APR: Day 0.49% Week 3.41% Year 177.38%
+You are staking 0.00 [WFTM]-[OOE] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[OOE] SPOOKY LP
+Unstake 0.00 [WFTM]-[OOE] SPOOKY LP
+Claim 0.00 BOO ($0.00)
+Staking or unstaking also claims rewards.
+
+52 - [WFTM]-[AVAX] SPOOKY LP [+] [-] [<=>] Price: $22.75 TVL: $5,743,437.90
+WFTM Price: $2.02
+AVAX Price: $61.43
+Staked: 251851.2936 spLP ($5,729,439.71)
+BOO Per Week: 1224.79 ($31,207.74)
+APR: Day 0.08% Week 0.54% Year 28.32%
+You are staking 0.00 [WFTM]-[AVAX] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[AVAX] SPOOKY LP
+Unstake 0.00 [WFTM]-[AVAX] SPOOKY LP
+Claim 0.00 BOO ($0.00)
+Staking or unstaking also claims rewards.
+
+53 - [WFTM]-[WOO] SPOOKY LP [+] [-] [<=>] Price: $2.21 TVL: $2,242,759.44
+WFTM Price: $2.02
+WOO Price: $0.58
+Staked: 1010667.0584 spLP ($2,238,421.92)
+BOO Per Week: 510.33 ($13,003.23)
+APR: Day 0.08% Week 0.58% Year 30.21%
+You are staking 0.00 [WFTM]-[WOO] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[WOO] SPOOKY LP
+Unstake 0.00 [WFTM]-[WOO] SPOOKY LP
+Claim 0.00 BOO ($0.00)
+Staking or unstaking also claims rewards.
+
+54 - [WFTM]-[MATIC] SPOOKY LP [+] [-] [<=>] Price: $3.60 TVL: $3,188,120.28
+WFTM Price: $2.02
+MATIC Price: $1.53
+Staked: 882534.8649 spLP ($3,176,042.04)
+BOO Per Week: 816.53 ($20,805.16)
+APR: Day 0.09% Week 0.66% Year 34.06%
+You are staking 0.00 [WFTM]-[MATIC] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[MATIC] SPOOKY LP
+Unstake 0.00 [WFTM]-[MATIC] SPOOKY LP
+Claim 0.00 BOO ($0.00)
+Staking or unstaking also claims rewards.
+
+55 - [WFTM]-[INV] SPOOKY LP [+] [-] [<=>] Price: $56.23 TVL: $247,209.30
+WFTM Price: $2.02
+INV Price: $378.45
+Staked: 4382.8964 spLP ($246,449.39)
+BOO Per Week: 204.13 ($5,201.29)
+APR: Day 0.30% Week 2.11% Year 109.75%
+You are staking 0.00 [WFTM]-[INV] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[INV] SPOOKY LP
+Unstake 0.00 [WFTM]-[INV] SPOOKY LP
+Claim 0.00 BOO ($0.00)
+Staking or unstaking also claims rewards.
+
+56 - [HND]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $8.49 TVL: $726,951.48
+HND Price: $1.74
+WFTM Price: $2.02
+Staked: 83310.0140 spLP ($706,952.40)
+BOO Per Week: 408.26 ($10,402.58)
+APR: Day 0.21% Week 1.47% Year 76.52%
+You are staking 0.00 [HND]-[WFTM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [HND]-[WFTM] SPOOKY LP
+Unstake 0.00 [HND]-[WFTM] SPOOKY LP
+Claim 0.00 BOO ($0.00)
+Staking or unstaking also claims rewards.
+
+57 - [WFTM]-[BRUSH] SPOOKY LP [+] [-] [<=>] Price: $1.06 TVL: $551,347.33
+WFTM Price: $2.02
+BRUSH Price: $0.08
+Staked: 514312.7956 spLP ($543,783.01)
+BOO Per Week: 408.26 ($10,402.58)
+APR: Day 0.27% Week 1.91% Year 99.48%
+You are staking 0.00 [WFTM]-[BRUSH] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BRUSH] SPOOKY LP
+Unstake 0.00 [WFTM]-[BRUSH] SPOOKY LP
+Claim 0.00 BOO ($0.00)
+Staking or unstaking also claims rewards.
+
+58 - [WFTM]-[BEETS] SPOOKY LP [+] [-] [<=>] Price: $2.33 TVL: $518,594.04
+WFTM Price: $2.02
+BEETS Price: $0.53
+Staked: 214531.5030 spLP ($499,834.39)
+BOO Per Week: 510.33 ($13,003.23)
+APR: Day 0.37% Week 2.60% Year 135.28%
+You are staking 0.00 [WFTM]-[BEETS] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BEETS] SPOOKY LP
+Unstake 0.00 [WFTM]-[BEETS] SPOOKY LP
+Claim 0.00 BOO ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $559,537,326.65
+Found 1 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - BOO Price: $25.48 Market Cap: $214,974,360.94 
+Staked: 12536.1480 BOO ($319,421.05)
+BOO Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BOO ($0.00), 0.00% of the pool.
+Stake 0.00 BOO
+Unstake 0.00 BOO
+Claim 0.00 BOO ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $319,421.05

@@ -1,0 +1,61 @@
+*************** 👨‍🌾 UNOFFICIAL PARACHUTESWAP.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://parachuteswap.com
+******************************************************************************************
+
+Thu Jan 27 2022 21:21:51 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 4 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [PARA]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.01 TVL: $4.12
+PARA Price: $0.0000411201
+BUSD Price: $1.00
+Staked: 317.8724 Cake-LP ($4.09)
+PARA Per Week: 35407.03 ($1.46)
+APR: Day 5.08% Week 35.56% Year 1849.38%
+You are staking 0.00 [PARA]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PARA]-[BUSD] Cake LP
+Unstake 0.00 [PARA]-[BUSD] Cake LP
+Claim 0.00 PARA ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [PARA]-[WBNB] Cake LP [+] [-] [<=>] Price: $0.25 TVL: $2.42
+PARA Price: $0.0000411201
+WBNB Price: $367.93
+Staked: 9.7554 Cake-LP ($2.42)
+PARA Per Week: 35407.03 ($1.46)
+APR: Day 8.60% Week 60.21% Year 3130.83%
+You are staking 0.00 [PARA]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PARA]-[WBNB] Cake LP
+Unstake 0.00 [PARA]-[WBNB] Cake LP
+Claim 0.00 PARA ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.40 TVL: $345,812,136.52
+WBNB Price: $367.93
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+PARA Per Week: 590.12 ($0.02)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 PARA ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - PARA Price: $0.0000411201 Market Cap: $23.57 [%]
+Staked: 392868.6706 PARA ($16.15)
+PARA Per Week: 17703.51 ($0.73)
+APR: Day 0.64% Week 4.51% Year 234.32%
+You are staking 0.00 PARA ($0.00), 0.00% of the pool.
+Stake 0.00 PARA
+Unstake 0.00 PARA
+Claim 0.00 PARA ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $22.67

@@ -6,59 +6,20 @@ INFO  : https://polysky.finance
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Thu Dec 16 2021 04:50:01 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 23:11:32 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
-Found 32 pools.
+Staking Contract
+Found 34 pools.
 Showing incentivized pools only.
-Finished reading smart contracts.
-0 - SIRIUS Price: $0.00 Market Cap: $0.00 
-Staked: 729434.8595 SIRIUS ($0.00)
-SIRIUS Per Week: 29700.00 ($4,832.73)
-APR: Day NaN% Week NaN% Year NaN%
-You are staking 0.00 SIRIUS ($0.00), NaN% of the pool.
-Stake 0.00 SIRIUS
-Unstake 0.00 SIRIUS
-Claim 0.00 SIRIUS ($0.00)
-Staking or unstaking also claims rewards.
-
-1 - [WMATIC]-[SIRIUS] Uni LP [+] [-] [<=>] Price: $1.23 TVL: $13,286.10
-WMATIC Price: $2.15
-SIRIUS Price: $0.16
-Staked: 10734.5711 UNI-V2 ($13,235.13)
-SIRIUS Per Week: 4050.00 ($659.01)
-APR: Day 0.71% Week 4.98% Year 258.92%
-You are staking 0.00 [WMATIC]-[SIRIUS] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[SIRIUS] Uni LP
-Unstake 0.00 [WMATIC]-[SIRIUS] Uni LP
-Claim 0.00 SIRIUS ($0.00)
-Staking or unstaking also claims rewards.
-
-4 - [WMATIC]-[SIRIUS] APE LP [+] [-] [<=>] Price: $1.19 TVL: $13,449.56
-WMATIC Price: $2.15
-SIRIUS Price: $0.16
-Staked: 11207.1652 APE-LP ($13,339.35)
-SIRIUS Per Week: 4050.00 ($659.01)
-APR: Day 0.71% Week 4.94% Year 256.90%
-You are staking 0.00 [WMATIC]-[SIRIUS] APE LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[SIRIUS] APE LP
-Unstake 0.00 [WMATIC]-[SIRIUS] APE LP
-Claim 0.00 SIRIUS ($0.00)
-Staking or unstaking also claims rewards.
-
-27 - [USDC]-[SIRIUS] Uni LP [+] [-] [<=>] Price: $832,276.34 TVL: $19,126.87
-USDC Price: $1.00
-SIRIUS Price: $0.16
-Staked: 0.0227 UNI-V2 ($18,901.07)
-SIRIUS Per Week: 5400.00 ($878.68)
-APR: Day 0.66% Week 4.65% Year 241.74%
-You are staking 0.00 [USDC]-[SIRIUS] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[SIRIUS] Uni LP
-Unstake 0.00 [USDC]-[SIRIUS] Uni LP
-Claim 0.00 SIRIUS ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $45,475.56
+{
+  "code": -32603,
+  "message": "Non-200 status code: '400'",
+  "data": {
+    "error": "Unable to verify your data submission."
+  }
+}
+Oops something went wrong. Try refreshing the page.

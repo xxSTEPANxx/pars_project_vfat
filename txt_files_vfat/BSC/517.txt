@@ -1,0 +1,267 @@
+*************** 👨‍🌾 UNOFFICIAL CZODIAC PROTOCOL FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://app.czodiac.com/#/czfarm
+***********************************************************************************
+
+Thu Jan 27 2022 21:40:38 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 24 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [CZF]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $31,414.00
+CZF Price: $0.0000010796
+BUSD Price: $1.00
+Staked: 55810331.4062 Cake-LP ($15,821.04)
+CZF Per Week: 804084184.62 ($868.08)
+APR: Day 0.78% Week 5.49% Year 285.32%
+You are staking 0.00 [CZF]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CZF]-[BUSD] Cake LP
+Unstake 0.00 [CZF]-[BUSD] Cake LP
+Claim 0.00 CZF ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [CZF]-[WBNB] Cake LP [+] [-] [<=>] Price: $0.01 TVL: $73,589.65
+CZF Price: $0.0000010796
+WBNB Price: $368.53
+Staked: 9187327.7152 Cake-LP ($57,247.22)
+CZF Per Week: 3216336738.46 ($3,472.33)
+APR: Day 0.87% Week 6.07% Year 315.41%
+You are staking 0.00 [CZF]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CZF]-[WBNB] Cake LP
+Unstake 0.00 [CZF]-[WBNB] Cake LP
+Claim 0.00 CZF ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [CZF]-[CZUSD] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $11,814.24
+CZF Price: $0.0000010796
+CZUSD Price: $0.96
+Staked: 31934251.0736 Cake-LP ($10,695.72)
+CZF Per Week: 482450510.77 ($520.85)
+APR: Day 0.70% Week 4.87% Year 253.22%
+You are staking 0.00 [CZF]-[CZUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CZF]-[CZUSD] Cake LP
+Unstake 0.00 [CZF]-[CZUSD] Cake LP
+Claim 0.00 CZF ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [CZUSD]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.02 TVL: $112,313.55
+CZUSD Price: $0.96
+BUSD Price: $1.00
+Staked: 54711.3890 Cake-LP ($110,273.59)
+CZF Per Week: 643267347.69 ($694.47)
+APR: Day 0.09% Week 0.63% Year 32.75%
+You are staking 0.00 [CZUSD]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CZUSD]-[BUSD] Cake LP
+Unstake 0.00 [CZUSD]-[BUSD] Cake LP
+Claim 0.00 CZF ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [CZF]-[GHD] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $873.80
+CZF Price: $0.0000010796
+GHD Price: $0.000385
+Staked: 102426340.2523 Cake-LP ($871.21)
+CZF Per Week: 80408418.46 ($86.81)
+APR: Day 1.42% Week 9.96% Year 518.14%
+You are staking 0.00 [CZF]-[GHD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CZF]-[GHD] Cake LP
+Unstake 0.00 [CZF]-[GHD] Cake LP
+Claim 0.00 CZF ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [CZF]-[WBNB] Uni LP [+] [-] [<=>] Price: $0.01 TVL: $556.52
+CZF Price: $0.0000010796
+WBNB Price: $368.53
+Staked: 70438.9641 Cafe-LP ($497.48)
+CZF Per Week: 40204209.23 ($43.40)
+APR: Day 1.25% Week 8.72% Year 453.69%
+You are staking 0.00 [CZF]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CZF]-[WBNB] Uni LP
+Unstake 0.00 [CZF]-[WBNB] Uni LP
+Claim 0.00 CZF ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [BREW]-[CZF] Uni LP [+] [-] [<=>] Price: $0.00 TVL: $241.19
+BREW Price: $0.03
+CZF Price: $0.0000010796
+Staked: 2243805.5319 Cafe-LP ($237.50)
+CZF Per Week: 40204209.23 ($43.40)
+APR: Day 2.61% Week 18.28% Year 950.31%
+You are staking 0.00 [BREW]-[CZF] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BREW]-[CZF] Uni LP
+Unstake 0.00 [BREW]-[CZF] Uni LP
+Claim 0.00 CZF ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [CZF]-[IF1] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $597.14
+CZF Price: $0.0000010796
+IF1 Price: $0.0000000550
+Staked: 146431.8655 Cake-LP ($593.09)
+CZF Per Week: 80408418.46 ($86.81)
+APR: Day 2.09% Week 14.64% Year 761.11%
+You are staking 0.00 [CZF]-[IF1] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CZF]-[IF1] Cake LP
+Unstake 0.00 [CZF]-[IF1] Cake LP
+Claim 0.00 CZF ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [CZF]-[BRY] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $1,058.42
+CZF Price: $0.0000010796
+BRY Price: $0.49
+Staked: 3523610.5795 Cake-LP ($1,054.03)
+CZF Per Week: 80408418.46 ($86.81)
+APR: Day 1.18% Week 8.24% Year 428.26%
+You are staking 0.00 [CZF]-[BRY] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CZF]-[BRY] Cake LP
+Unstake 0.00 [CZF]-[BRY] Cake LP
+Claim 0.00 CZF ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [game1]-[CZF] Uni LP [+] [-] [<=>] Price: $0.00 TVL: $871.75
+game1 Price: $0.001801
+CZF Price: $0.0000010796
+Staked: 8952407.4533 Baby-LP ($870.86)
+CZF Per Week: 80408418.46 ($86.81)
+APR: Day 1.42% Week 9.97% Year 518.34%
+You are staking 0.00 [game1]-[CZF] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [game1]-[CZF] Uni LP
+Unstake 0.00 [game1]-[CZF] Uni LP
+Claim 0.00 CZF ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [BTCB]-[CZF] Cake LP [+] [-] [<=>] Price: $0.07 TVL: $6,321.63
+BTCB Price: $36,105.00
+CZF Price: $0.0000010796
+Staked: 89976.5407 Cake-LP ($5,910.78)
+CZF Per Week: 321633673.85 ($347.23)
+APR: Day 0.84% Week 5.87% Year 305.48%
+You are staking 0.00 [BTCB]-[CZF] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[CZF] Cake LP
+Unstake 0.00 [BTCB]-[CZF] Cake LP
+Claim 0.00 CZF ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [ETH]-[CZF] Cake LP [+] [-] [<=>] Price: $0.02 TVL: $2,904.65
+ETH Price: $2,435.50
+CZF Price: $0.0000010796
+Staked: 166876.8736 Cake-LP ($2,861.52)
+CZF Per Week: 321633673.85 ($347.23)
+APR: Day 1.73% Week 12.13% Year 631.00%
+You are staking 0.00 [ETH]-[CZF] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[CZF] Cake LP
+Unstake 0.00 [ETH]-[CZF] Cake LP
+Claim 0.00 CZF ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [Cake]-[CZF] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $3,072.24
+Cake Price: $7.00
+CZF Price: $0.0000010796
+Staked: 3137256.1412 Cake-LP ($3,031.90)
+CZF Per Week: 321633673.85 ($347.23)
+APR: Day 1.64% Week 11.45% Year 595.54%
+You are staking 0.00 [Cake]-[CZF] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[CZF] Cake LP
+Unstake 0.00 [Cake]-[CZF] Cake LP
+Claim 0.00 CZF ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [CZF]-[PRHO] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $1,113.10
+CZF Price: $0.0000010796
+PRHO Price: $0.0000236542
+Staked: 536953264.2483 Cake-LP ($1,111.51)
+CZF Per Week: 80408418.46 ($86.81)
+APR: Day 1.12% Week 7.81% Year 406.12%
+You are staking 0.00 [CZF]-[PRHO] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CZF]-[PRHO] Cake LP
+Unstake 0.00 [CZF]-[PRHO] Cake LP
+Claim 0.00 CZF ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [ADA]-[CZF] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $6,658.56
+ADA Price: $1.03
+CZF Price: $0.0000010796
+Staked: 3120536.1758 Cake-LP ($6,636.44)
+CZF Per Week: 321633673.85 ($347.23)
+APR: Day 0.75% Week 5.23% Year 272.08%
+You are staking 0.00 [ADA]-[CZF] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADA]-[CZF] Cake LP
+Unstake 0.00 [ADA]-[CZF] Cake LP
+Claim 0.00 CZF ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [CZF]-[GUT] Uni LP [+] [-] [<=>] Price: $0.00 TVL: $2,300.66
+CZF Price: $0.0000010796
+GUT Price: $0.003449
+Staked: 8881422.5190 Guitar-LP ($1,092.14)
+CZF Per Week: 80408418.46 ($86.81)
+APR: Day 1.14% Week 7.95% Year 413.32%
+You are staking 0.00 [CZF]-[GUT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CZF]-[GUT] Uni LP
+Unstake 0.00 [CZF]-[GUT] Uni LP
+Claim 0.00 CZF ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [AMPLE]-[CZF] Uni LP [+] [-] [<=>] Price: $0.00 TVL: $3,528.67
+AMPLE Price: $0.001763
+CZF Price: $0.0000010796
+Staked: 16754864.2822 Ample-LP ($1,469.38)
+CZF Per Week: 160816836.92 ($173.62)
+APR: Day 1.69% Week 11.82% Year 614.41%
+You are staking 0.00 [AMPLE]-[CZF] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [AMPLE]-[CZF] Uni LP
+Unstake 0.00 [AMPLE]-[CZF] Uni LP
+Claim 0.00 CZF ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - [CZF]-[$MAINST] APE LP [+] [-] [<=>] Price: $0.00 TVL: $1,919.28
+CZF Price: $0.0000010796
+$MAINST Price: $0.0000000005
+Staked: 1347604.0995 APE-LP ($1,915.53)
+CZF Per Week: 160816836.92 ($173.62)
+APR: Day 1.29% Week 9.06% Year 471.31%
+You are staking 0.00 [CZF]-[$MAINST] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CZF]-[$MAINST] APE LP
+Unstake 0.00 [CZF]-[$MAINST] APE LP
+Claim 0.00 CZF ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - [BABY]-[CZF] Uni LP [+] [-] [<=>] Price: $0.00 TVL: $514.77
+BABY Price: $0.35
+CZF Price: $0.0000010796
+Staked: 384474.8871 Baby-LP ($474.72)
+CZF Per Week: 40204209.23 ($43.40)
+APR: Day 1.31% Week 9.14% Year 475.44%
+You are staking 0.00 [BABY]-[CZF] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BABY]-[CZF] Uni LP
+Unstake 0.00 [BABY]-[CZF] Uni LP
+Claim 0.00 CZF ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - [CZF]-[DEP] APE LP [+] [-] [<=>] Price: $0.00 TVL: $2,214.53
+CZF Price: $0.0000010796
+DEP Price: $0.05
+Staked: 4776178.1945 APE-LP ($2,212.01)
+CZF Per Week: 241225255.38 ($260.42)
+APR: Day 1.68% Week 11.77% Year 612.21%
+You are staking 0.00 [CZF]-[DEP] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CZF]-[DEP] APE LP
+Unstake 0.00 [CZF]-[DEP] APE LP
+Claim 0.00 CZF ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [DEP]-[CZUSD] APE LP [+] [-] [<=>] Price: $0.44 TVL: $2,144.80
+DEP Price: $0.05
+CZUSD Price: $0.96
+Staked: 4916.2795 APE-LP ($2,143.27)
+CZF Per Week: 241225255.38 ($260.42)
+APR: Day 1.74% Week 12.15% Year 631.84%
+You are staking 0.00 [DEP]-[CZUSD] APE LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DEP]-[CZUSD] APE LP
+Unstake 0.00 [DEP]-[CZUSD] APE LP
+Claim 0.00 CZF ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $227,020.94

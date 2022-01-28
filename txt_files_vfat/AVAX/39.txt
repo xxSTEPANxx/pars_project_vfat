@@ -1,0 +1,902 @@
+***************************** AVALANCHE ***************************************
+    
+*************** 👨‍🌾 UNOFFICIAL ELEVEN.FINANCE FARMING CALCULATOR 👨‍🌾 ***********
+INFO  : https://eleven.finance
+*******************************************************************************
+
+Fri Jan 28 2022 00:18:24 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 75 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - 11PNGWAVAX (Wrapped [PNG]-[WAVAX] PGL) Price: $27.63 TVL: $44.06
+Staked: 0.5540 11PNGWAVAX ($15.31)
+ELE Per Week: 1.26 ($0.10)
+APR: Day 0.09% Week 0.63% Year 32.59%
+You are staking 0.00 11PNGWAVAX ($0.00), 0.00% of the pool.
+Stake 0.00 11PNGWAVAX
+Unstake 0.00 11PNGWAVAX
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - 11WETH.eWAVAX (Wrapped [WETH.e]-[WAVAX] PGL) Price: $984.74 TVL: $140.05
+Staked: 0.1183 11WETH.eWAVAX ($116.53)
+ELE Per Week: 1.26 ($0.10)
+APR: Day 0.01% Week 0.08% Year 4.28%
+You are staking 0.00 11WETH.eWAVAX ($0.00), 0.00% of the pool.
+Stake 0.00 11WETH.eWAVAX
+Unstake 0.00 11WETH.eWAVAX
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - 11WAVAXUSDT.e (Wrapped [WAVAX]-[USDT.e] PGL) Price: $15,441,093,954.58 TVL: $221,474.60
+Staked: 0.0000 11WAVAXUSDT.e ($0.00)
+ELE Per Week: 1.26 ($0.10)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 11WAVAXUSDT.e ($0.00), NaN% of the pool.
+Stake 0.00 11WAVAXUSDT.e
+Unstake 0.00 11WAVAXUSDT.e
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - 11WBTC.eWAVAX (Wrapped [WBTC.e]-[WAVAX] PGL) Price: $1,554,104,451.23 TVL: $23.11
+Staked: 0.0000 11WBTC.eWAVAX ($0.00)
+ELE Per Week: 1.26 ($0.10)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 11WBTC.eWAVAX ($0.00), NaN% of the pool.
+Stake 0.00 11WBTC.eWAVAX
+Unstake 0.00 11WBTC.eWAVAX
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - 11LINK.eWAVAX (Wrapped [LINK.e]-[WAVAX] PGL) Price: $158.87 TVL: $3.88
+Staked: 0.0000 11LINK.eWAVAX ($0.00)
+ELE Per Week: 1.26 ($0.10)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 11LINK.eWAVAX ($0.00), NaN% of the pool.
+Stake 0.00 11LINK.eWAVAX
+Unstake 0.00 11LINK.eWAVAX
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - 11WAVAXDAI.e (Wrapped [WAVAX]-[DAI.e] PGL) Price: $9,831.59 TVL: $99,072.46
+Staked: 0.0000 11WAVAXDAI.e ($0.00)
+ELE Per Week: 1.26 ($0.10)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 11WAVAXDAI.e ($0.00), NaN% of the pool.
+Stake 0.00 11WAVAXDAI.e
+Unstake 0.00 11WAVAXDAI.e
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - 11UNI.eWAVAX (Wrapped [UNI.e]-[WAVAX] PGL) Price: $84.70 TVL: $1.25
+Staked: 0.0000 11UNI.eWAVAX ($0.00)
+ELE Per Week: 1.26 ($0.10)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 11UNI.eWAVAX ($0.00), NaN% of the pool.
+Stake 0.00 11UNI.eWAVAX
+Unstake 0.00 11UNI.eWAVAX
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - 11SUSHI.eWAVAX (Wrapped [SUSHI.e]-[WAVAX] PGL) Price: $221.27 TVL: $18.69
+Staked: 0.0000 11SUSHI.eWAVAX ($0.00)
+ELE Per Week: 1.26 ($0.10)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 11SUSHI.eWAVAX ($0.00), NaN% of the pool.
+Stake 0.00 11SUSHI.eWAVAX
+Unstake 0.00 11SUSHI.eWAVAX
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - 11AAVE.eWAVAX (Wrapped [AAVE.e]-[WAVAX] PGL) Price: $771.59 TVL: $7.47
+Staked: 0.0000 11AAVE.eWAVAX ($0.00)
+ELE Per Week: 1.26 ($0.10)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 11AAVE.eWAVAX ($0.00), NaN% of the pool.
+Stake 0.00 11AAVE.eWAVAX
+Unstake 0.00 11AAVE.eWAVAX
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - 11YFI.eWAVAX (Wrapped [YFI.e]-[WAVAX] PGL) Price: $22,577.47 TVL: $52.02
+Staked: 0.0003 11YFI.eWAVAX ($5.65)
+ELE Per Week: 1.26 ($0.10)
+APR: Day 0.24% Week 1.70% Year 88.21%
+You are staking 0.00 11YFI.eWAVAX ($0.00), 0.00% of the pool.
+Stake 0.00 11YFI.eWAVAX
+Unstake 0.00 11YFI.eWAVAX
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - 11WAVAXSNOB (Wrapped [WAVAX]-[SNOB] PGL) Price: $93.90 TVL: $29.69
+Staked: 0.0277 11WAVAXSNOB ($2.60)
+ELE Per Week: 1.26 ($0.10)
+APR: Day 0.53% Week 3.68% Year 191.50%
+You are staking 0.00 11WAVAXSNOB ($0.00), 0.00% of the pool.
+Stake 0.00 11WAVAXSNOB
+Unstake 0.00 11WAVAXSNOB
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - 11VSOWAVAX (Wrapped [VSO]-[WAVAX] PGL) Price: $15.82 TVL: $9.42
+Staked: 0.1192 11VSOWAVAX ($1.89)
+ELE Per Week: 1.26 ($0.10)
+APR: Day 0.73% Week 5.09% Year 264.53%
+You are staking 0.00 11VSOWAVAX ($0.00), 0.00% of the pool.
+Stake 0.00 11VSOWAVAX
+Unstake 0.00 11VSOWAVAX
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - 11SPOREWAVAX (Wrapped [SPORE]-[WAVAX] PGL) Price: $11.91 TVL: $1.86
+Staked: 0.0000 11SPOREWAVAX ($0.00)
+ELE Per Week: 1.26 ($0.10)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 11SPOREWAVAX ($0.00), NaN% of the pool.
+Stake 0.00 11SPOREWAVAX
+Unstake 0.00 11SPOREWAVAX
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - 11WAVAXBIFI (Wrapped [WAVAX]-[BIFI] PGL) Price: $949.17 TVL: $1.95
+Staked: 0.0000 11WAVAXBIFI ($0.00)
+ELE Per Week: 1.26 ($0.10)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 11WAVAXBIFI ($0.00), NaN% of the pool.
+Stake 0.00 11WAVAXBIFI
+Unstake 0.00 11WAVAXBIFI
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - 11BNBWAVAX (Wrapped [BNB]-[WAVAX] PGL) Price: $407.45 TVL: $62.51
+Staked: 0.1486 11BNBWAVAX ($60.55)
+ELE Per Week: 5.06 ($0.38)
+APR: Day 0.09% Week 0.63% Year 32.95%
+You are staking 0.00 11BNBWAVAX ($0.00), 0.00% of the pool.
+Stake 0.00 11BNBWAVAX
+Unstake 0.00 11BNBWAVAX
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - 11WAVAXXAVA (Wrapped [WAVAX]-[XAVA] PGL) Price: $257.89 TVL: $20.44
+Staked: 0.0000 11WAVAXXAVA ($0.00)
+ELE Per Week: 1.26 ($0.10)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 11WAVAXXAVA ($0.00), NaN% of the pool.
+Stake 0.00 11WAVAXXAVA
+Unstake 0.00 11WAVAXXAVA
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - 11WAVAXPEFI (Wrapped [WAVAX]-[PEFI] PGL) Price: $NaN.N TVL: $NaN.N
+Staked: 0.0000 11WAVAXPEFI ($0.00)
+ELE Per Week: 1.26 ($0.10)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 11WAVAXPEFI ($0.00), NaN% of the pool.
+Stake 0.00 11WAVAXPEFI
+Unstake 0.00 11WAVAXPEFI
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - 11TRYBWAVAX (Wrapped [TRYB]-[WAVAX] PGL) Price: $8,502,591.83 TVL: $1.43
+Staked: 0.0000 11TRYBWAVAX ($0.00)
+ELE Per Week: 1.26 ($0.10)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 11TRYBWAVAX ($0.00), NaN% of the pool.
+Stake 0.00 11TRYBWAVAX
+Unstake 0.00 11TRYBWAVAX
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - 11SHERPAWAVAX (Wrapped [SHERPA]-[WAVAX] PGL) Price: $91.55 TVL: $2.22
+Staked: 0.0000 11SHERPAWAVAX ($0.00)
+ELE Per Week: 1.26 ($0.10)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 11SHERPAWAVAX ($0.00), NaN% of the pool.
+Stake 0.00 11SHERPAWAVAX
+Unstake 0.00 11SHERPAWAVAX
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - 11YAKWAVAX (Wrapped [YAK]-[WAVAX] PGL) Price: $2,248.73 TVL: $2.49
+Staked: 0.0000 11YAKWAVAX ($0.00)
+ELE Per Week: 1.26 ($0.10)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 11YAKWAVAX ($0.00), NaN% of the pool.
+Stake 0.00 11YAKWAVAX
+Unstake 0.00 11YAKWAVAX
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - 11WETH.ePNG (Wrapped [WETH.e]-[PNG] PGL) Price: $87.93 TVL: $1.28
+Staked: 0.0000 11WETH.ePNG ($0.00)
+ELE Per Week: 1.26 ($0.10)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 11WETH.ePNG ($0.00), NaN% of the pool.
+Stake 0.00 11WETH.ePNG
+Unstake 0.00 11WETH.ePNG
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - 11PNGUSDT.e (Wrapped [PNG]-[USDT.e] PGL) Price: $35,064,530.01 TVL: $82.32
+Staked: 0.0000 11PNGUSDT.e ($0.00)
+ELE Per Week: 1.26 ($0.10)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 11PNGUSDT.e ($0.00), NaN% of the pool.
+Stake 0.00 11PNGUSDT.e
+Unstake 0.00 11PNGUSDT.e
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - 11WBTC.ePNG (Wrapped [WBTC.e]-[PNG] PGL) Price: $89,973,762.11 TVL: $4.35
+Staked: 0.0000 11WBTC.ePNG ($0.00)
+ELE Per Week: 1.26 ($0.10)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 11WBTC.ePNG ($0.00), NaN% of the pool.
+Stake 0.00 11WBTC.ePNG
+Unstake 0.00 11WBTC.ePNG
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - 11LINK.ePNG (Wrapped [LINK.e]-[PNG] PGL) Price: $22.41 TVL: $5.36
+Staked: 0.0000 11LINK.ePNG ($0.00)
+ELE Per Week: 1.26 ($0.10)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 11LINK.ePNG ($0.00), NaN% of the pool.
+Stake 0.00 11LINK.ePNG
+Unstake 0.00 11LINK.ePNG
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - 11PNGDAI.e (Wrapped [PNG]-[DAI.e] PGL) Price: $1.44 TVL: $1,380.01
+Staked: 881.2084 11PNGDAI.e ($1,269.55)
+ELE Per Week: 1.26 ($0.10)
+APR: Day 0.00% Week 0.01% Year 0.39%
+You are staking 0.00 11PNGDAI.e ($0.00), 0.00% of the pool.
+Stake 0.00 11PNGDAI.e
+Unstake 0.00 11PNGDAI.e
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - 11PNGUNI.e (Wrapped [PNG]-[UNI.e] PGL) Price: $12.37 TVL: $2.22
+Staked: 0.0000 11PNGUNI.e ($0.00)
+ELE Per Week: 1.26 ($0.10)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 11PNGUNI.e ($0.00), NaN% of the pool.
+Stake 0.00 11PNGUNI.e
+Unstake 0.00 11PNGUNI.e
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - 11SUSHI.ePNG (Wrapped [SUSHI.e]-[PNG] PGL) Price: $3.66 TVL: $832.81
+Staked: 144.1234 11SUSHI.ePNG ($527.41)
+ELE Per Week: 1.26 ($0.10)
+APR: Day 0.00% Week 0.02% Year 0.95%
+You are staking 0.00 11SUSHI.ePNG ($0.00), 0.00% of the pool.
+Stake 0.00 11SUSHI.ePNG
+Unstake 0.00 11SUSHI.ePNG
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - 11PNGAAVE.e (Wrapped [PNG]-[AAVE.e] PGL) Price: $32.65 TVL: $1.23
+Staked: 0.0000 11PNGAAVE.e ($0.00)
+ELE Per Week: 1.26 ($0.10)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 11PNGAAVE.e ($0.00), NaN% of the pool.
+Stake 0.00 11PNGAAVE.e
+Unstake 0.00 11PNGAAVE.e
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - 11PNGYFI.e (Wrapped [PNG]-[YFI.e] PGL) Price: $176.41 TVL: $269.46
+Staked: 0.0000 11PNGYFI.e ($0.00)
+ELE Per Week: 1.26 ($0.10)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 11PNGYFI.e ($0.00), NaN% of the pool.
+Stake 0.00 11PNGYFI.e
+Unstake 0.00 11PNGYFI.e
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+29 - 11PNGSNOB (Wrapped [PNG]-[SNOB] PGL) Price: $1.10 TVL: $0.35
+Staked: 0.0000 11PNGSNOB ($0.00)
+ELE Per Week: 1.26 ($0.10)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 11PNGSNOB ($0.00), NaN% of the pool.
+Stake 0.00 11PNGSNOB
+Unstake 0.00 11PNGSNOB
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+30 - 11PNGVSO (Wrapped [PNG]-[VSO] PGL) Price: $2.08 TVL: $14.49
+Staked: 0.0000 11PNGVSO ($0.00)
+ELE Per Week: 1.26 ($0.10)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 11PNGVSO ($0.00), NaN% of the pool.
+Stake 0.00 11PNGVSO
+Unstake 0.00 11PNGVSO
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+31 - 11PNGSPORE (Wrapped [PNG]-[SPORE] PGL) Price: $0.45 TVL: $4.29
+Staked: 0.0000 11PNGSPORE ($0.00)
+ELE Per Week: 1.26 ($0.10)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 11PNGSPORE ($0.00), NaN% of the pool.
+Stake 0.00 11PNGSPORE
+Unstake 0.00 11PNGSPORE
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+32 - 11PNGBIFI (Wrapped [PNG]-[BIFI] PGL) Price: $63.86 TVL: $0.14
+Staked: 0.0000 11PNGBIFI ($0.00)
+ELE Per Week: 1.26 ($0.10)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 11PNGBIFI ($0.00), NaN% of the pool.
+Stake 0.00 11PNGBIFI
+Unstake 0.00 11PNGBIFI
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+33 - 11BNBPNG (Wrapped [BNB]-[PNG] PGL) Price: $35.30 TVL: $28.78
+Staked: 0.5026 11BNBPNG ($17.74)
+ELE Per Week: 1.26 ($0.10)
+APR: Day 0.08% Week 0.54% Year 28.11%
+You are staking 0.00 11BNBPNG ($0.00), 0.00% of the pool.
+Stake 0.00 11BNBPNG
+Unstake 0.00 11BNBPNG
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+34 - 11PNGXAVA (Wrapped [PNG]-[XAVA] PGL) Price: $3.68 TVL: $0.60
+Staked: 0.0000 11PNGXAVA ($0.00)
+ELE Per Week: 1.26 ($0.10)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 11PNGXAVA ($0.00), NaN% of the pool.
+Stake 0.00 11PNGXAVA
+Unstake 0.00 11PNGXAVA
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+35 - 11PNGPEFI (Wrapped [PNG]-[PEFI] PGL) Price: $5.07 TVL: $209.66
+Staked: 5.4868 11PNGPEFI ($27.82)
+ELE Per Week: 1.26 ($0.10)
+APR: Day 0.05% Week 0.34% Year 17.93%
+You are staking 0.00 11PNGPEFI ($0.00), 0.00% of the pool.
+Stake 0.00 11PNGPEFI
+Unstake 0.00 11PNGPEFI
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+36 - 11TRYBPNG (Wrapped [TRYB]-[PNG] PGL) Price: $310,953.20 TVL: $503.61
+Staked: 0.0013 11TRYBPNG ($399.67)
+ELE Per Week: 1.26 ($0.10)
+APR: Day 0.00% Week 0.02% Year 1.25%
+You are staking 0.00 11TRYBPNG ($0.00), 0.00% of the pool.
+Stake 0.00 11TRYBPNG
+Unstake 0.00 11TRYBPNG
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+37 - 11PNGSHERPA (Wrapped [PNG]-[SHERPA] PGL) Price: $8.21 TVL: $15.46
+Staked: 0.0000 11PNGSHERPA ($0.00)
+ELE Per Week: 1.26 ($0.10)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 11PNGSHERPA ($0.00), NaN% of the pool.
+Stake 0.00 11PNGSHERPA
+Unstake 0.00 11PNGSHERPA
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+38 - 11YAKPNG (Wrapped [YAK]-[PNG] PGL) Price: $628.22 TVL: $28.16
+Staked: 0.0000 11YAKPNG ($0.00)
+ELE Per Week: 1.26 ($0.10)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 11YAKPNG ($0.00), NaN% of the pool.
+Stake 0.00 11YAKPNG
+Unstake 0.00 11YAKPNG
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+39 - 11ELEWAVAX (Wrapped [ELE]-[WAVAX] PGL) Price: $4.82 TVL: $283.88
+Staked: 38.9082 11ELEWAVAX ($187.38)
+ELE Per Week: 126.38 ($9.59)
+APR: Day 0.73% Week 5.12% Year 266.18%
+You are staking 0.00 11ELEWAVAX ($0.00), 0.00% of the pool.
+Stake 0.00 11ELEWAVAX
+Unstake 0.00 11ELEWAVAX
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+40 - 11PNGELE (Wrapped [PNG]-[ELE] PGL) Price: $0.34 TVL: $164.34
+Staked: 428.6745 11PNGELE ($147.57)
+ELE Per Week: 25.28 ($1.92)
+APR: Day 0.19% Week 1.30% Year 67.60%
+You are staking 0.00 11PNGELE ($0.00), 0.00% of the pool.
+Stake 0.00 11PNGELE
+Unstake 0.00 11PNGELE
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+41 - 11JOEWAVAX (Wrapped [JOE]-[WAVAX] JLP) Price: $26.78 TVL: $646.51
+Staked: 15.6674 11JOEWAVAX ($419.54)
+ELE Per Week: 6.32 ($0.48)
+APR: Day 0.02% Week 0.11% Year 5.94%
+You are staking 0.00 11JOEWAVAX ($0.00), 0.00% of the pool.
+Stake 0.00 11JOEWAVAX
+Unstake 0.00 11JOEWAVAX
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+42 - 11PNGWAVAX (Wrapped [PNG]-[WAVAX] JLP) Price: $21.75 TVL: $1.33
+Staked: 0.0000 11PNGWAVAX ($0.00)
+ELE Per Week: 1.26 ($0.10)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 11PNGWAVAX ($0.00), NaN% of the pool.
+Stake 0.00 11PNGWAVAX
+Unstake 0.00 11PNGWAVAX
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+43 - 11WAVAXXAVA (Wrapped [WAVAX]-[XAVA] JLP) Price: $NaN.N TVL: $NaN.N
+Staked: 0.0000 11WAVAXXAVA ($0.00)
+ELE Per Week: 1.26 ($0.10)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 11WAVAXXAVA ($0.00), NaN% of the pool.
+Stake 0.00 11WAVAXXAVA
+Unstake 0.00 11WAVAXXAVA
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+44 - 11WAVAXSNOB (Wrapped [WAVAX]-[SNOB] JLP) Price: $10.30 TVL: $7,276.37
+Staked: 281.0980 11WAVAXSNOB ($2,896.62)
+ELE Per Week: 1.26 ($0.10)
+APR: Day 0.00% Week 0.00% Year 0.17%
+You are staking 0.00 11WAVAXSNOB ($0.00), 0.00% of the pool.
+Stake 0.00 11WAVAXSNOB
+Unstake 0.00 11WAVAXSNOB
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+45 - 11WAVAXPEFI (Wrapped [WAVAX]-[PEFI] JLP) Price: $12.20 TVL: $3,575.72
+Staked: 0.0000 11WAVAXPEFI ($0.00)
+ELE Per Week: 1.26 ($0.10)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 11WAVAXPEFI ($0.00), NaN% of the pool.
+Stake 0.00 11WAVAXPEFI
+Unstake 0.00 11WAVAXPEFI
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+46 - 11VSOWAVAX (Wrapped [VSO]-[WAVAX] JLP) Price: $4.46 TVL: $0.80
+Staked: 0.0000 11VSOWAVAX ($0.00)
+ELE Per Week: 1.26 ($0.10)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 11VSOWAVAX ($0.00), NaN% of the pool.
+Stake 0.00 11VSOWAVAX
+Unstake 0.00 11VSOWAVAX
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+47 - 11WAVAXELK (Wrapped [WAVAX]-[ELK] JLP) Price: $45.71 TVL: $2,238.70
+Staked: 8.4151 11WAVAXELK ($384.62)
+ELE Per Week: 1.26 ($0.10)
+APR: Day 0.00% Week 0.02% Year 1.30%
+You are staking 0.00 11WAVAXELK ($0.00), 0.00% of the pool.
+Stake 0.00 11WAVAXELK
+Unstake 0.00 11WAVAXELK
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+48 - 11HUSKYWAVAX (Wrapped [HUSKY]-[WAVAX] JLP) Price: $0.01 TVL: $3.55
+Staked: 0.0000 11HUSKYWAVAX ($0.00)
+ELE Per Week: 1.26 ($0.10)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 11HUSKYWAVAX ($0.00), NaN% of the pool.
+Stake 0.00 11HUSKYWAVAX
+Unstake 0.00 11HUSKYWAVAX
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+49 - 11WETWAVAX (Wrapped [WET]-[WAVAX] JLP) Price: $240.08 TVL: $64.85
+Staked: 0.0000 11WETWAVAX ($0.00)
+ELE Per Week: 1.26 ($0.10)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 11WETWAVAX ($0.00), NaN% of the pool.
+Stake 0.00 11WETWAVAX
+Unstake 0.00 11WETWAVAX
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+50 - 11SHERPAWAVAX (Wrapped [SHERPA]-[WAVAX] JLP) Price: $24.59 TVL: $1.91
+Staked: 0.0000 11SHERPAWAVAX ($0.00)
+ELE Per Week: 1.26 ($0.10)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 11SHERPAWAVAX ($0.00), NaN% of the pool.
+Stake 0.00 11SHERPAWAVAX
+Unstake 0.00 11SHERPAWAVAX
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+51 - 11YAKWAVAX (Wrapped [YAK]-[WAVAX] JLP) Price: $24,988.63 TVL: $394.33
+Staked: 0.0000 11YAKWAVAX ($0.00)
+ELE Per Week: 1.26 ($0.10)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 11YAKWAVAX ($0.00), NaN% of the pool.
+Stake 0.00 11YAKWAVAX
+Unstake 0.00 11YAKWAVAX
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+55 - 11LINK.eWAVAX (Wrapped [LINK.e]-[WAVAX] JLP) Price: $802.58 TVL: $94.55
+Staked: 0.0000 11LINK.eWAVAX ($0.00)
+ELE Per Week: 1.26 ($0.10)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 11LINK.eWAVAX ($0.00), NaN% of the pool.
+Stake 0.00 11LINK.eWAVAX
+Unstake 0.00 11LINK.eWAVAX
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+56 - 11JOEUSDT.e (Wrapped [JOE]-[USDT.e] JLP) Price: $3,541,851.87 TVL: $27,938.90
+Staked: 0.0049 11JOEUSDT.e ($17,440.31)
+ELE Per Week: 6.32 ($0.48)
+APR: Day 0.00% Week 0.00% Year 0.14%
+You are staking 0.00 11JOEUSDT.e ($0.00), 0.00% of the pool.
+Stake 0.00 11JOEUSDT.e
+Unstake 0.00 11JOEUSDT.e
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+60 - 11LINK.eUSDT.e (Wrapped [LINK.e]-[USDT.e] JLP) Price: $491,242,899.72 TVL: $1,875.40
+Staked: 0.0000 11LINK.eUSDT.e ($0.00)
+ELE Per Week: 2.53 ($0.19)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 11LINK.eUSDT.e ($0.00), NaN% of the pool.
+Stake 0.00 11LINK.eUSDT.e
+Unstake 0.00 11LINK.eUSDT.e
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+61 - 11WAVAXDAI.e (Wrapped [WAVAX]-[DAI.e] JLP) Price: $35.98 TVL: $3.11
+Staked: 0.0000 11WAVAXDAI.e ($0.00)
+ELE Per Week: 2.53 ($0.19)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 11WAVAXDAI.e ($0.00), NaN% of the pool.
+Stake 0.00 11WAVAXDAI.e
+Unstake 0.00 11WAVAXDAI.e
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+62 - 11SHIBXWAVAX (Wrapped [SHIBX]-[WAVAX] JLP) Price: $0.44 TVL: $203.26
+Staked: 290.5398 11SHIBXWAVAX ($126.52)
+ELE Per Week: 1.26 ($0.10)
+APR: Day 0.01% Week 0.08% Year 3.94%
+You are staking 0.00 11SHIBXWAVAX ($0.00), 0.00% of the pool.
+Stake 0.00 11SHIBXWAVAX
+Unstake 0.00 11SHIBXWAVAX
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+63 - 11USDC.eWAVAX (Wrapped [USDC.e]-[WAVAX] JLP) Price: $25,876,046.12 TVL: $1.57
+Staked: 0.0000 11USDC.eWAVAX ($0.00)
+ELE Per Week: 2.53 ($0.19)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 11USDC.eWAVAX ($0.00), NaN% of the pool.
+Stake 0.00 11USDC.eWAVAX
+Unstake 0.00 11USDC.eWAVAX
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+64 - 11USDC.eDAI.e (Wrapped [USDC.e]-[DAI.e] JLP) Price: $213,798,618.78 TVL: $10,582.30
+Staked: 0.0000 11USDC.eDAI.e ($22.49)
+ELE Per Week: 6.32 ($0.48)
+APR: Day 0.30% Week 2.13% Year 110.87%
+You are staking 0.00 11USDC.eDAI.e ($0.00), 0.00% of the pool.
+Stake 0.00 11USDC.eDAI.e
+Unstake 0.00 11USDC.eDAI.e
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+65 - 11QIWAVAX (Wrapped [QI]-[WAVAX] JLP) Price: $5.41 TVL: $4,834.45
+Staked: 702.5025 11QIWAVAX ($3,803.74)
+ELE Per Week: 2.53 ($0.19)
+APR: Day 0.00% Week 0.01% Year 0.26%
+You are staking 0.00 11QIWAVAX ($0.00), 0.00% of the pool.
+Stake 0.00 11QIWAVAX
+Unstake 0.00 11QIWAVAX
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+66 - DUMMY Price: $0.00 Market Cap: $0.00 
+Staked: 1.0000 DUMMY ($0.00)
+ELE Per Week: 189.57 ($14.39)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 DUMMY ($0.00), NaN% of the pool.
+Stake 0.00 DUMMY
+Unstake 0.00 DUMMY
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+67 - 11ELEWAVAX (Wrapped [ELE]-[WAVAX] JLP) Price: $5.85 TVL: $5,251.89
+Staked: 698.0483 11ELEWAVAX ($4,082.71)
+ELE Per Week: 758.27 ($57.55)
+APR: Day 0.20% Week 1.41% Year 73.30%
+You are staking 0.00 11ELEWAVAX ($0.00), 0.00% of the pool.
+Stake 0.00 11ELEWAVAX
+Unstake 0.00 11ELEWAVAX
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+68 - 11XJOE Price: $0.00 Market Cap: $0.00 
+Staked: 5504.6214 11XJOE ($0.00)
+ELE Per Week: 50.55 ($3.84)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 11XJOE ($0.00), NaN% of the pool.
+Stake 0.00 11XJOE
+Unstake 0.00 11XJOE
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+69 - eleUSDT.e Price: $0.00 Market Cap: $0.00 
+Staked: 87847.9957 eleUSDT.e ($0.00)
+ELE Per Week: 2527.58 ($191.84)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 eleUSDT.e ($0.00), NaN% of the pool.
+Stake 0.00 eleUSDT.e
+Unstake 0.00 eleUSDT.e
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+70 - eleWAVAX Price: $0.00 Market Cap: $0.00 
+Staked: 1302.8676 eleWAVAX ($0.00)
+ELE Per Week: 631.90 ($47.96)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 eleWAVAX ($0.00), NaN% of the pool.
+Stake 0.00 eleWAVAX
+Unstake 0.00 eleWAVAX
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+71 - eleWBTC Price: $0.00 Market Cap: $0.00 
+Staked: 0.9866 eleWBTC ($0.00)
+ELE Per Week: 315.95 ($23.98)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 eleWBTC ($0.00), NaN% of the pool.
+Stake 0.00 eleWBTC
+Unstake 0.00 eleWBTC
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+72 - eleWETH Price: $0.00 Market Cap: $0.00 
+Staked: 14.1340 eleWETH ($0.00)
+ELE Per Week: 315.95 ($23.98)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 eleWETH ($0.00), NaN% of the pool.
+Stake 0.00 eleWETH
+Unstake 0.00 eleWETH
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+74 - eleMIM Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 eleMIM ($0.00)
+ELE Per Week: 1.26 ($0.10)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 eleMIM ($0.00), NaN% of the pool.
+Stake 0.00 eleMIM
+Unstake 0.00 eleMIM
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $31,956.22
+
+11ELEWAVAX (Wrapped [ELE]-[WAVAX] JLP) Price: $5.85 TVL: $5,251.89
+You are staking 0.0000 11ELEWAVAX (Wrapped [ELE]-[WAVAX] JLP) ($0.00), 0.00% of the pool.
+
+11ELEWAVAX (Wrapped [ELE]-[WAVAX] PGL) Price: $4.82 TVL: $283.88
+You are staking 0.0000 11ELEWAVAX (Wrapped [ELE]-[WAVAX] PGL) ($0.00), 0.00% of the pool.
+
+11PNGELE (Wrapped [PNG]-[ELE] PGL) Price: $0.34 TVL: $164.34
+You are staking 0.0000 11PNGELE (Wrapped [PNG]-[ELE] PGL) ($0.00), 0.00% of the pool.
+
+undefined Price: $0.00 TVL: $0.00
+You are staking 0.0000 undefined ($0.00), NaN% of the pool.
+
+11JOEWAVAX (Wrapped [JOE]-[WAVAX] JLP) Price: $26.78 TVL: $646.51
+You are staking 0.0000 11JOEWAVAX (Wrapped [JOE]-[WAVAX] JLP) ($0.00), 0.00% of the pool.
+
+11PNGWAVAX (Wrapped [PNG]-[WAVAX] JLP) Price: $21.75 TVL: $1.33
+You are staking 0.0000 11PNGWAVAX (Wrapped [PNG]-[WAVAX] JLP) ($0.00), 0.00% of the pool.
+
+11WAVAXSNOB (Wrapped [WAVAX]-[SNOB] JLP) Price: $10.30 TVL: $7,276.37
+You are staking 0.0000 11WAVAXSNOB (Wrapped [WAVAX]-[SNOB] JLP) ($0.00), 0.00% of the pool.
+
+11WAVAXPEFI (Wrapped [WAVAX]-[PEFI] JLP) Price: $12.20 TVL: $3,575.72
+You are staking 0.0000 11WAVAXPEFI (Wrapped [WAVAX]-[PEFI] JLP) ($0.00), 0.00% of the pool.
+
+11VSOWAVAX (Wrapped [VSO]-[WAVAX] JLP) Price: $4.46 TVL: $0.80
+You are staking 0.0000 11VSOWAVAX (Wrapped [VSO]-[WAVAX] JLP) ($0.00), 0.00% of the pool.
+
+11WAVAXELK (Wrapped [WAVAX]-[ELK] JLP) Price: $45.71 TVL: $2,238.70
+You are staking 0.0000 11WAVAXELK (Wrapped [WAVAX]-[ELK] JLP) ($0.00), 0.00% of the pool.
+
+11HUSKYWAVAX (Wrapped [HUSKY]-[WAVAX] JLP) Price: $0.01 TVL: $3.55
+You are staking 0.0000 11HUSKYWAVAX (Wrapped [HUSKY]-[WAVAX] JLP) ($0.00), 0.00% of the pool.
+
+11WETWAVAX (Wrapped [WET]-[WAVAX] JLP) Price: $240.08 TVL: $64.85
+You are staking 0.0000 11WETWAVAX (Wrapped [WET]-[WAVAX] JLP) ($0.00), 0.00% of the pool.
+
+11SHERPAWAVAX (Wrapped [SHERPA]-[WAVAX] JLP) Price: $24.59 TVL: $1.91
+You are staking 0.0000 11SHERPAWAVAX (Wrapped [SHERPA]-[WAVAX] JLP) ($0.00), 0.00% of the pool.
+
+11YAKWAVAX (Wrapped [YAK]-[WAVAX] JLP) Price: $24,988.63 TVL: $394.33
+You are staking 0.0000 11YAKWAVAX (Wrapped [YAK]-[WAVAX] JLP) ($0.00), 0.00% of the pool.
+
+11WETH.eWAVAX (Wrapped [WETH.e]-[WAVAX] JLP) Price: $1,233.88 TVL: $35.26
+You are staking 0.0000 11WETH.eWAVAX (Wrapped [WETH.e]-[WAVAX] JLP) ($0.00), 0.00% of the pool.
+
+11WBTC.eWAVAX (Wrapped [WBTC.e]-[WAVAX] JLP) Price: $59,251,703,790.89 TVL: $24,028.59
+You are staking 0.0000 11WBTC.eWAVAX (Wrapped [WBTC.e]-[WAVAX] JLP) ($0.00), 0.00% of the pool.
+
+11WAVAXUSDT.e (Wrapped [WAVAX]-[USDT.e] JLP) Price: $22,582,834.06 TVL: $628,411.46
+You are staking 0.0000 11WAVAXUSDT.e (Wrapped [WAVAX]-[USDT.e] JLP) ($0.00), 0.00% of the pool.
+
+11LINK.eWAVAX (Wrapped [LINK.e]-[WAVAX] JLP) Price: $802.58 TVL: $94.55
+You are staking 0.0000 11LINK.eWAVAX (Wrapped [LINK.e]-[WAVAX] JLP) ($0.00), 0.00% of the pool.
+
+11JOEUSDT.e (Wrapped [JOE]-[USDT.e] JLP) Price: $3,541,851.87 TVL: $27,938.90
+You are staking 0.0000 11JOEUSDT.e (Wrapped [JOE]-[USDT.e] JLP) ($0.00), 0.00% of the pool.
+
+11USDT.eDAI.e (Wrapped [USDT.e]-[DAI.e] JLP) Price: $2,306,957.99 TVL: $4,746.50
+You are staking 0.0000 11USDT.eDAI.e (Wrapped [USDT.e]-[DAI.e] JLP) ($0.00), 0.00% of the pool.
+
+11WBTC.eUSDT.e (Wrapped [WBTC.e]-[USDT.e] JLP) Price: $59,849,291,776,491.88 TVL: $17.34
+You are staking 0.0000 11WBTC.eUSDT.e (Wrapped [WBTC.e]-[USDT.e] JLP) ($0.00), 0.00% of the pool.
+
+11WETH.eUSDT.e (Wrapped [WETH.e]-[USDT.e] JLP) Price: $112,892,112.66 TVL: $672.68
+You are staking 0.0000 11WETH.eUSDT.e (Wrapped [WETH.e]-[USDT.e] JLP) ($0.00), 0.00% of the pool.
+
+11LINK.eUSDT.e (Wrapped [LINK.e]-[USDT.e] JLP) Price: $491,242,899.72 TVL: $1,875.40
+You are staking 0.0000 11LINK.eUSDT.e (Wrapped [LINK.e]-[USDT.e] JLP) ($0.00), 0.00% of the pool.
+
+11WAVAXDAI.e (Wrapped [WAVAX]-[DAI.e] JLP) Price: $35.98 TVL: $3.11
+You are staking 0.0000 11WAVAXDAI.e (Wrapped [WAVAX]-[DAI.e] JLP) ($0.00), 0.00% of the pool.
+
+11SHIBXWAVAX (Wrapped [SHIBX]-[WAVAX] JLP) Price: $0.44 TVL: $203.26
+You are staking 0.0000 11SHIBXWAVAX (Wrapped [SHIBX]-[WAVAX] JLP) ($0.00), 0.00% of the pool.
+
+11USDC.eWAVAX (Wrapped [USDC.e]-[WAVAX] JLP) Price: $25,876,047.45 TVL: $1.57
+You are staking 0.0000 11USDC.eWAVAX (Wrapped [USDC.e]-[WAVAX] JLP) ($0.00), 0.00% of the pool.
+
+11USDC.eDAI.e (Wrapped [USDC.e]-[DAI.e] JLP) Price: $213,798,636.61 TVL: $10,582.30
+You are staking 0.0000 11USDC.eDAI.e (Wrapped [USDC.e]-[DAI.e] JLP) ($0.00), 0.00% of the pool.
+
+11QIWAVAX (Wrapped [QI]-[WAVAX] JLP) Price: $5.41 TVL: $4,834.45
+You are staking 0.0000 11QIWAVAX (Wrapped [QI]-[WAVAX] JLP) ($0.00), 0.00% of the pool.
+
+11ELEWAVAX (Wrapped [ELE]-[WAVAX] PGL) Price: $4.82 TVL: $283.88
+You are staking 0.0000 11ELEWAVAX (Wrapped [ELE]-[WAVAX] PGL) ($0.00), 0.00% of the pool.
+
+11PNGELE (Wrapped [PNG]-[ELE] PGL) Price: $0.34 TVL: $164.34
+You are staking 0.0000 11PNGELE (Wrapped [PNG]-[ELE] PGL) ($0.00), 0.00% of the pool.
+
+11PNGWAVAX (Wrapped [PNG]-[WAVAX] PGL) Price: $27.63 TVL: $44.06
+You are staking 0.0000 11PNGWAVAX (Wrapped [PNG]-[WAVAX] PGL) ($0.00), 0.00% of the pool.
+
+11WETH.eWAVAX (Wrapped [WETH.e]-[WAVAX] PGL) Price: $984.74 TVL: $140.05
+You are staking 0.0000 11WETH.eWAVAX (Wrapped [WETH.e]-[WAVAX] PGL) ($0.00), 0.00% of the pool.
+
+11WAVAXUSDT.e (Wrapped [WAVAX]-[USDT.e] PGL) Price: $15,441,095,300.74 TVL: $221,474.62
+You are staking 0.0000 11WAVAXUSDT.e (Wrapped [WAVAX]-[USDT.e] PGL) ($0.00), 0.00% of the pool.
+
+11WBTC.eWAVAX (Wrapped [WBTC.e]-[WAVAX] PGL) Price: $1,554,104,451.23 TVL: $23.11
+You are staking 0.0000 11WBTC.eWAVAX (Wrapped [WBTC.e]-[WAVAX] PGL) ($0.00), 0.00% of the pool.
+
+11LINK.eWAVAX (Wrapped [LINK.e]-[WAVAX] PGL) Price: $158.87 TVL: $3.88
+You are staking 0.0000 11LINK.eWAVAX (Wrapped [LINK.e]-[WAVAX] PGL) ($0.00), 0.00% of the pool.
+
+11WAVAXDAI.e (Wrapped [WAVAX]-[DAI.e] PGL) Price: $9,831.60 TVL: $99,072.53
+You are staking 0.0000 11WAVAXDAI.e (Wrapped [WAVAX]-[DAI.e] PGL) ($0.00), 0.00% of the pool.
+
+11UNI.eWAVAX (Wrapped [UNI.e]-[WAVAX] PGL) Price: $84.70 TVL: $1.25
+You are staking 0.0000 11UNI.eWAVAX (Wrapped [UNI.e]-[WAVAX] PGL) ($0.00), 0.00% of the pool.
+
+11SUSHI.eWAVAX (Wrapped [SUSHI.e]-[WAVAX] PGL) Price: $221.27 TVL: $18.69
+You are staking 0.0000 11SUSHI.eWAVAX (Wrapped [SUSHI.e]-[WAVAX] PGL) ($0.00), 0.00% of the pool.
+
+11AAVE.eWAVAX (Wrapped [AAVE.e]-[WAVAX] PGL) Price: $771.59 TVL: $7.47
+You are staking 0.0000 11AAVE.eWAVAX (Wrapped [AAVE.e]-[WAVAX] PGL) ($0.00), 0.00% of the pool.
+
+11YFI.eWAVAX (Wrapped [YFI.e]-[WAVAX] PGL) Price: $22,577.47 TVL: $52.02
+You are staking 0.0000 11YFI.eWAVAX (Wrapped [YFI.e]-[WAVAX] PGL) ($0.00), 0.00% of the pool.
+
+11WAVAXSNOB (Wrapped [WAVAX]-[SNOB] PGL) Price: $93.90 TVL: $29.69
+You are staking 0.0000 11WAVAXSNOB (Wrapped [WAVAX]-[SNOB] PGL) ($0.00), 0.00% of the pool.
+
+11VSOWAVAX (Wrapped [VSO]-[WAVAX] PGL) Price: $15.82 TVL: $9.42
+You are staking 0.0000 11VSOWAVAX (Wrapped [VSO]-[WAVAX] PGL) ($0.00), 0.00% of the pool.
+
+11SPOREWAVAX (Wrapped [SPORE]-[WAVAX] PGL) Price: $11.91 TVL: $1.86
+You are staking 0.0000 11SPOREWAVAX (Wrapped [SPORE]-[WAVAX] PGL) ($0.00), 0.00% of the pool.
+
+11WAVAXBIFI (Wrapped [WAVAX]-[BIFI] PGL) Price: $949.17 TVL: $1.95
+You are staking 0.0000 11WAVAXBIFI (Wrapped [WAVAX]-[BIFI] PGL) ($0.00), 0.00% of the pool.
+
+11BNBWAVAX (Wrapped [BNB]-[WAVAX] PGL) Price: $407.45 TVL: $62.51
+You are staking 0.0000 11BNBWAVAX (Wrapped [BNB]-[WAVAX] PGL) ($0.00), 0.00% of the pool.
+
+11WAVAXXAVA (Wrapped [WAVAX]-[XAVA] PGL) Price: $257.89 TVL: $20.44
+You are staking 0.0000 11WAVAXXAVA (Wrapped [WAVAX]-[XAVA] PGL) ($0.00), 0.00% of the pool.
+
+11TRYBWAVAX (Wrapped [TRYB]-[WAVAX] PGL) Price: $8,502,591.83 TVL: $1.43
+You are staking 0.0000 11TRYBWAVAX (Wrapped [TRYB]-[WAVAX] PGL) ($0.00), 0.00% of the pool.
+
+11SHERPAWAVAX (Wrapped [SHERPA]-[WAVAX] PGL) Price: $91.55 TVL: $2.22
+You are staking 0.0000 11SHERPAWAVAX (Wrapped [SHERPA]-[WAVAX] PGL) ($0.00), 0.00% of the pool.
+
+11YAKWAVAX (Wrapped [YAK]-[WAVAX] PGL) Price: $2,248.73 TVL: $2.49
+You are staking 0.0000 11YAKWAVAX (Wrapped [YAK]-[WAVAX] PGL) ($0.00), 0.00% of the pool.
+
+11WETH.ePNG (Wrapped [WETH.e]-[PNG] PGL) Price: $87.93 TVL: $1.28
+You are staking 0.0000 11WETH.ePNG (Wrapped [WETH.e]-[PNG] PGL) ($0.00), 0.00% of the pool.
+
+11PNGUSDT.e (Wrapped [PNG]-[USDT.e] PGL) Price: $35,064,530.01 TVL: $82.32
+You are staking 0.0000 11PNGUSDT.e (Wrapped [PNG]-[USDT.e] PGL) ($0.00), 0.00% of the pool.
+
+11WBTC.ePNG (Wrapped [WBTC.e]-[PNG] PGL) Price: $89,973,762.11 TVL: $4.35
+You are staking 0.0000 11WBTC.ePNG (Wrapped [WBTC.e]-[PNG] PGL) ($0.00), 0.00% of the pool.
+
+11LINK.ePNG (Wrapped [LINK.e]-[PNG] PGL) Price: $22.41 TVL: $5.36
+You are staking 0.0000 11LINK.ePNG (Wrapped [LINK.e]-[PNG] PGL) ($0.00), 0.00% of the pool.
+
+11PNGDAI.e (Wrapped [PNG]-[DAI.e] PGL) Price: $1.44 TVL: $1,380.01
+You are staking 0.0000 11PNGDAI.e (Wrapped [PNG]-[DAI.e] PGL) ($0.00), 0.00% of the pool.
+
+11PNGUNI.e (Wrapped [PNG]-[UNI.e] PGL) Price: $12.37 TVL: $2.22
+You are staking 0.0000 11PNGUNI.e (Wrapped [PNG]-[UNI.e] PGL) ($0.00), 0.00% of the pool.
+
+11SUSHI.ePNG (Wrapped [SUSHI.e]-[PNG] PGL) Price: $3.66 TVL: $832.81
+You are staking 0.0000 11SUSHI.ePNG (Wrapped [SUSHI.e]-[PNG] PGL) ($0.00), 0.00% of the pool.
+
+11PNGAAVE.e (Wrapped [PNG]-[AAVE.e] PGL) Price: $32.65 TVL: $1.23
+You are staking 0.0000 11PNGAAVE.e (Wrapped [PNG]-[AAVE.e] PGL) ($0.00), 0.00% of the pool.
+
+11PNGYFI.e (Wrapped [PNG]-[YFI.e] PGL) Price: $176.41 TVL: $269.46
+You are staking 0.0000 11PNGYFI.e (Wrapped [PNG]-[YFI.e] PGL) ($0.00), 0.00% of the pool.
+
+11PNGSNOB (Wrapped [PNG]-[SNOB] PGL) Price: $1.10 TVL: $0.35
+You are staking 0.0000 11PNGSNOB (Wrapped [PNG]-[SNOB] PGL) ($0.00), 0.00% of the pool.
+
+11PNGVSO (Wrapped [PNG]-[VSO] PGL) Price: $2.08 TVL: $14.49
+You are staking 0.0000 11PNGVSO (Wrapped [PNG]-[VSO] PGL) ($0.00), 0.00% of the pool.
+
+11PNGSPORE (Wrapped [PNG]-[SPORE] PGL) Price: $0.45 TVL: $4.29
+You are staking 0.0000 11PNGSPORE (Wrapped [PNG]-[SPORE] PGL) ($0.00), 0.00% of the pool.
+
+11PNGBIFI (Wrapped [PNG]-[BIFI] PGL) Price: $63.86 TVL: $0.14
+You are staking 0.0000 11PNGBIFI (Wrapped [PNG]-[BIFI] PGL) ($0.00), 0.00% of the pool.
+
+11BNBPNG (Wrapped [BNB]-[PNG] PGL) Price: $35.30 TVL: $28.78
+You are staking 0.0000 11BNBPNG (Wrapped [BNB]-[PNG] PGL) ($0.00), 0.00% of the pool.
+
+11PNGXAVA (Wrapped [PNG]-[XAVA] PGL) Price: $3.68 TVL: $0.60
+You are staking 0.0000 11PNGXAVA (Wrapped [PNG]-[XAVA] PGL) ($0.00), 0.00% of the pool.
+
+11PNGPEFI (Wrapped [PNG]-[PEFI] PGL) Price: $5.07 TVL: $209.66
+You are staking 0.0000 11PNGPEFI (Wrapped [PNG]-[PEFI] PGL) ($0.00), 0.00% of the pool.
+
+11TRYBPNG (Wrapped [TRYB]-[PNG] PGL) Price: $310,953.20 TVL: $503.61
+You are staking 0.0000 11TRYBPNG (Wrapped [TRYB]-[PNG] PGL) ($0.00), 0.00% of the pool.
+
+11PNGSHERPA (Wrapped [PNG]-[SHERPA] PGL) Price: $8.21 TVL: $15.46
+You are staking 0.0000 11PNGSHERPA (Wrapped [PNG]-[SHERPA] PGL) ($0.00), 0.00% of the pool.
+
+11YAKPNG (Wrapped [YAK]-[PNG] PGL) Price: $628.22 TVL: $28.16
+You are staking 0.0000 11YAKPNG (Wrapped [YAK]-[PNG] PGL) ($0.00), 0.00% of the pool.
+
+Total Value Locked: $1,048,152.03

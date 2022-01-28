@@ -1,0 +1,47 @@
+*************** 👨‍🌾 UNOFFICIAL ALADDIN FARMING CALCULATOR 👨‍🌾 *******************
+INFO  : https://app.aladdin.club
+********************************************************************************
+
+Thu Jan 27 2022 20:04:09 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 6 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+4 - [USDC]-[ALD] Uni LP [+] [-] [<=>] Price: $530,308.18 TVL: $776,981.00
+USDC Price: $1.00
+ALD Price: $0.06
+Staked: 1.3967 UNI-V2 ($740,684.90)
+ALD Per Week: 116533.76 ($7,434.62)
+APR: Day 0.14% Week 1.00% Year 52.19%
+You are staking 0.00000000 [USDC]-[ALD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[ALD] Uni LP
+Unstake 0.00 [USDC]-[ALD] Uni LP
+Claim 0.00 ALD ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [ALD]-[WETH] Uni LP [+] [-] [<=>] Price: $33.19 TVL: $880,155.10
+ALD Price: $0.06
+WETH Price: $2,475.23
+Staked: 17193.0127 UNI-V2 ($570,633.44)
+ALD Per Week: 116533.76 ($7,434.62)
+APR: Day 0.19% Week 1.30% Year 67.75%
+You are staking 0.00000000 [ALD]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ALD]-[WETH] Uni LP
+Unstake 0.00 [ALD]-[WETH] Uni LP
+Claim 0.00 ALD ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $1,311,318.34
+
+Please use the official site in order to Deposit, Withdraw or Claim
+ALD Price: $0.06 Total Supply: 121657452.8206, $7,761,502.18
+xALD Price: $0.06
+There is a total of 61654304.89, $(3,933,421.34) ALD staked
+You are staking a total of 0.00 ALD, $0.00
+You have 0.00 ALD to stake
+Earnings: 0, $0.00

@@ -1,0 +1,49 @@
+*************** 👨‍🌾 UNOFFICIAL WSBDAPP FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://farm.wsbdapp.com
+************************************************************************************
+
+Thu Jan 27 2022 20:49:43 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 3 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+WSB Price: $0.007100 Market Cap: $7,099,775.05 [%]
+Staked: 132113903.3519 WSB ($937,978.99)
+WSB Per Week: 72916.67 ($517.69)
+APR: Day 0.01% Week 0.06% Year 2.87%
+You are staking 0.00 WSB ($0.00), 0.00% of the pool.
+Stake 0.00 WSB
+Unstake 0.00 WSB
+Claim 0.00 WSB ($0.00)
+Staking or unstaking also claims rewards.
+
+[WSB]-[WBNB] Cake LP [+] [-] [<=>] Price: $3.92 TVL: $417,182.84
+WSB Price: $0.007100
+WBNB Price: $370.49
+Staked: 98710.2861 Cake-LP ($387,330.85)
+WSB Per Week: 145833.33 ($1,035.38)
+APR: Day 0.04% Week 0.27% Year 13.90%
+You are staking 0.00 [WSB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WSB]-[WBNB] Cake LP
+Unstake 0.00 [WSB]-[WBNB] Cake LP
+Claim 0.00 WSB ($0.00)
+Staking or unstaking also claims rewards.
+
+[WSB]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.18 TVL: $429,231.49
+WSB Price: $0.007100
+BUSD Price: $1.00
+Staked: 2358186.4088 Cake-LP ($419,120.49)
+WSB Per Week: 145833.33 ($1,035.38)
+APR: Day 0.04% Week 0.25% Year 12.85%
+You are staking 0.00 [WSB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WSB]-[BUSD] Cake LP
+Unstake 0.00 [WSB]-[BUSD] Cake LP
+Claim 0.00 WSB ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $1,744,430.33

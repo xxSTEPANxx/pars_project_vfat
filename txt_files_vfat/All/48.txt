@@ -1,0 +1,25 @@
+*************** 👨‍🌾 UNOFFICIAL SANDBOX FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://staking.sandbox.game
+****************************************************************************
+
+Thu Jan 27 2022 19:32:15 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+[SAND]-[WETH] Uni LP [+] [-] [<=>] Price: $258.28 TVL: $38,912,953.23
+SAND Price: $3.42
+WETH Price: $2,463.78
+Staked: 126382.0552 UNI-V2 ($32,642,485.22)
+SAND Per Week: 50166.67 ($171,570.00)
+APR: Day 0.08% Week 0.53% Year 27.33%
+You are staking 0.000000 [SAND]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [SAND]-[WETH] Uni LP
+Unstake 0.000000 [SAND]-[WETH] Uni LP
+Claim 0.000000 SAND ($0.00)
+Revoke (set approval to 0)
+Exit
+
+Total staked: $32,642,485.22

@@ -1,0 +1,215 @@
+*************** 👨‍🌾 UNOFFICIAL OOLONGSWAP FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://oolongswap.com
+*******************************************************************************
+
+Wed Dec 22 2021 18:23:32 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 19 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [USDC]-[WETH] Oolong LP Token [+] [-] [<=>] Price: $129,035,713.41 TVL: $59,680,170.89
+USDC Price: $1.01
+WETH Price: $4,031.19
+Staked: 0.4583 OLP ($59,131,314.05)
+OLO Per Week: 1313274.78 ($20,166.22)
+APR: Day 0.00% Week 0.03% Year 1.77%
+You are staking 0.00 [USDC]-[WETH] Oolong LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] Oolong LP Token
+Unstake 0.00 [USDC]-[WETH] Oolong LP Token
+Claim 0.00 OLO ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WBTC]-[WETH] Oolong LP Token [+] [-] [<=>] Price: $2,785,177,352.36 TVL: $15,399,447.13
+WBTC Price: $47,952.18
+WETH Price: $4,031.19
+Staked: 0.0055 OLP ($15,353,375.01)
+OLO Per Week: 656637.39 ($10,083.11)
+APR: Day 0.01% Week 0.07% Year 3.42%
+You are staking 0.00 [WBTC]-[WETH] Oolong LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[WETH] Oolong LP Token
+Unstake 0.00 [WBTC]-[WETH] Oolong LP Token
+Claim 0.00 OLO ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [USDT]-[WETH] Oolong LP Token [+] [-] [<=>] Price: $128,333,989.76 TVL: $11,436,381.94
+USDT Price: $1.01
+WETH Price: $4,031.19
+Staked: 0.0885 OLP ($11,360,618.98)
+OLO Per Week: 656637.39 ($10,083.11)
+APR: Day 0.01% Week 0.09% Year 4.62%
+You are staking 0.00 [USDT]-[WETH] Oolong LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WETH] Oolong LP Token
+Unstake 0.00 [USDT]-[WETH] Oolong LP Token
+Claim 0.00 OLO ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDC]-[DAI] Oolong LP Token [+] [-] [<=>] Price: $64,123,263.38 TVL: $6,595,652.82
+USDC Price: $1.01
+DAI Price: $1.01
+Staked: 0.0993 OLP ($6,366,064.38)
+OLO Per Week: 196991.22 ($3,024.93)
+APR: Day 0.01% Week 0.05% Year 2.47%
+You are staking 0.00 [USDC]-[DAI] Oolong LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAI] Oolong LP Token
+Unstake 0.00 [USDC]-[DAI] Oolong LP Token
+Claim 0.00 OLO ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [WETH]-[OMG] Oolong LP Token [+] [-] [<=>] Price: $331.74 TVL: $3,204,795.18
+WETH Price: $4,031.19
+OMG Price: $6.36
+Staked: 9624.2446 OLP ($3,192,713.32)
+OLO Per Week: 262654.96 ($4,033.24)
+APR: Day 0.02% Week 0.13% Year 6.57%
+You are staking 0.00 [WETH]-[OMG] Oolong LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[OMG] Oolong LP Token
+Unstake 0.00 [WETH]-[OMG] Oolong LP Token
+Claim 0.00 OLO ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WETH]-[AVAX] Oolong LP Token [+] [-] [<=>] Price: $1,416.81 TVL: $4,637,169.70
+WETH Price: $4,031.19
+AVAX Price: $123.61
+Staked: 3248.6102 OLP ($4,602,672.07)
+OLO Per Week: 262654.96 ($4,033.24)
+APR: Day 0.01% Week 0.09% Year 4.56%
+You are staking 0.00 [WETH]-[AVAX] Oolong LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[AVAX] Oolong LP Token
+Unstake 0.00 [WETH]-[AVAX] Oolong LP Token
+Claim 0.00 OLO ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [BNB]-[WETH] Oolong LP Token [+] [-] [<=>] Price: $2,930.98 TVL: $551,263.22
+BNB Price: $530.91
+WETH Price: $4,031.19
+Staked: 184.8053 OLP ($541,660.94)
+OLO Per Week: 131327.48 ($2,016.62)
+APR: Day 0.05% Week 0.37% Year 19.36%
+You are staking 0.00 [BNB]-[WETH] Oolong LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [BNB]-[WETH] Oolong LP Token
+Unstake 0.00 [BNB]-[WETH] Oolong LP Token
+Claim 0.00 OLO ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [WETH]-[FTM] Oolong LP Token [+] [-] [<=>] Price: $163.52 TVL: $820,510.75
+WETH Price: $4,031.19
+FTM Price: $1.63
+Staked: 4968.2878 OLP ($812,438.37)
+OLO Per Week: 131327.48 ($2,016.62)
+APR: Day 0.04% Week 0.25% Year 12.91%
+You are staking 0.00 [WETH]-[FTM] Oolong LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[FTM] Oolong LP Token
+Unstake 0.00 [WETH]-[FTM] Oolong LP Token
+Claim 0.00 OLO ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [MATIC]-[WETH] Oolong LP Token [+] [-] [<=>] Price: $206.52 TVL: $1,841,583.94
+MATIC Price: $2.62
+WETH Price: $4,031.19
+Staked: 8876.2144 OLP ($1,833,073.81)
+OLO Per Week: 131327.48 ($2,016.62)
+APR: Day 0.02% Week 0.11% Year 5.72%
+You are staking 0.00 [MATIC]-[WETH] Oolong LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [MATIC]-[WETH] Oolong LP Token
+Unstake 0.00 [MATIC]-[WETH] Oolong LP Token
+Claim 0.00 OLO ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [BOBA]-[WETH] Oolong LP Token [+] [-] [<=>] Price: $244.27 TVL: $15,149,490.47
+BOBA Price: $3.58
+WETH Price: $4,031.19
+Staked: 60957.8097 OLP ($14,890,269.06)
+OLO Per Week: 984956.08 ($15,124.66)
+APR: Day 0.01% Week 0.10% Year 5.28%
+You are staking 0.00 [BOBA]-[WETH] Oolong LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [BOBA]-[WETH] Oolong LP Token
+Unstake 0.00 [BOBA]-[WETH] Oolong LP Token
+Claim 0.00 OLO ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [OLO]-[WETH] Oolong LP Token [+] [-] [<=>] Price: $16.69 TVL: $1,596,002.95
+OLO Price: $0.02
+WETH Price: $4,031.19
+Staked: 92389.7793 OLP ($1,541,862.98)
+OLO Per Week: 5253099.10 ($80,664.87)
+APR: Day 0.75% Week 5.23% Year 272.05%
+You are staking 0.00 [OLO]-[WETH] Oolong LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [OLO]-[WETH] Oolong LP Token
+Unstake 0.00 [OLO]-[WETH] Oolong LP Token
+Claim 0.00 OLO ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - BSW Price: $0.00 Market Cap: $0.00 
+Staked: 1.0000 BSW ($0.00)
+OLO Per Week: 32175232.01 ($494,072.30)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BSW ($0.00), NaN% of the pool.
+Stake 0.00 BSW
+Unstake 0.00 BSW
+Claim 0.00 OLO ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [BDoge]-[WETH] Oolong LP Token [+] [-] [<=>] Price: $0.02 TVL: $137,650.61
+BDoge Price: $0.0000000332
+WETH Price: $4,031.19
+Staked: 4254618.7878 OLP ($103,453.91)
+OLO Per Week: 13132.75 ($201.66)
+APR: Day 0.03% Week 0.19% Year 10.14%
+You are staking 0.00 [BDoge]-[WETH] Oolong LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [BDoge]-[WETH] Oolong LP Token
+Unstake 0.00 [BDoge]-[WETH] Oolong LP Token
+Claim 0.00 OLO ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [OLO]-[USDC] Oolong LP Token [+] [-] [<=>] Price: $253,594.45 TVL: $474,496.96
+OLO Price: $0.02
+USDC Price: $1.01
+Staked: 1.8283 OLP ($463,641.43)
+OLO Per Week: 1969912.16 ($30,249.32)
+APR: Day 0.93% Week 6.52% Year 339.26%
+You are staking 0.00 [OLO]-[USDC] Oolong LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [OLO]-[USDC] Oolong LP Token
+Unstake 0.00 [OLO]-[USDC] Oolong LP Token
+Claim 0.00 OLO ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [BUSD]-[USDC] Oolong LP Token [+] [-] [<=>] Price: $2,024,524.80 TVL: $1,485,666.11
+BUSD Price: $1.01
+USDC Price: $1.01
+Staked: 0.7336 OLP ($1,485,129.91)
+OLO Per Week: 262654.96 ($4,033.24)
+APR: Day 0.04% Week 0.27% Year 14.12%
+You are staking 0.00 [BUSD]-[USDC] Oolong LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [BUSD]-[USDC] Oolong LP Token
+Unstake 0.00 [BUSD]-[USDC] Oolong LP Token
+Claim 0.00 OLO ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - BSW Price: $0.00 Market Cap: $0.00 
+Staked: 1.0000 BSW ($0.00)
+OLO Per Week: 4924780.41 ($75,623.31)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BSW ($0.00), NaN% of the pool.
+Stake 0.00 BSW
+Unstake 0.00 BSW
+Claim 0.00 OLO ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [BORING]-[WETH] Oolong LP Token [+] [-] [<=>] Price: $27.10 TVL: $437,362.33
+BORING Price: $0.05
+WETH Price: $4,031.19
+Staked: 16129.1111 OLP ($437,172.95)
+OLO Per Week: 13132.75 ($201.66)
+APR: Day 0.01% Week 0.05% Year 2.40%
+You are staking 0.00 [BORING]-[WETH] Oolong LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [BORING]-[WETH] Oolong LP Token
+Unstake 0.00 [BORING]-[WETH] Oolong LP Token
+Claim 0.00 OLO ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $122,115,461.18

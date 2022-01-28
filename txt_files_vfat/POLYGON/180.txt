@@ -6,19 +6,31 @@ INFO  : https://www.cupidswap.com
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Fri Dec 17 2021 10:47:34 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 22:53:38 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
-Found 12 pools.
-Showing incentivized pools only.
 {
   "code": -32603,
-  "message": "Non-200 status code: '403'",
+  "message": "JsonRpcEngine: Response has no error or result for request:\n{\n  \"method\": \"eth_call\",\n  \"params\": [\n    {\n      \"to\": \"0xfad621fb82310e87611c7904dc51a135beca36c4\",\n      \"data\": \"0x081e3eda\"\n    },\n    \"0x171d676\"\n  ],\n  \"jsonrpc\": \"2.0\",\n  \"id\": 2987882185,\n  \"origin\": \"https://vfat.tools\",\n  \"tabId\": 2\n}",
   "data": {
-    "message": "Forbidden"
-  }
+    "request": {
+      "method": "eth_call",
+      "params": [
+        {
+          "to": "0xfad621fb82310e87611c7904dc51a135beca36c4",
+          "data": "0x081e3eda"
+        },
+        "0x171d676"
+      ],
+      "jsonrpc": "2.0",
+      "id": 2987882185,
+      "origin": "https://vfat.tools",
+      "tabId": 2
+    }
+  },
+  "stack": "{\n  \"code\": -32603,\n  \"message\": \"JsonRpcEngine: Response has no error or result for request:\\n{\\n  \\\"method\\\": \\\"eth_call\\\",\\n  \\\"params\\\": [\\n    {\\n      \\\"to\\\": \\\"0xfad621fb82310e87611c7904dc51a135beca36c4\\\",\\n      \\\"data\\\": \\\"0x081e3eda\\\"\\n    },\\n    \\\"0x171d676\\\"\\n  ],\\n  \\\"jsonrpc\\\": \\\"2.0\\\",\\n  \\\"id\\\": 2987882185,\\n  \\\"origin\\\": \\\"https://vfat.tools\\\",\\n  \\\"tabId\\\": 2\\n}\",\n  \"data\": {\n    \"request\": {\n      \"method\": \"eth_call\",\n      \"params\": [\n        {\n          \"to\": \"0xfad621fb82310e87611c7904dc51a135beca36c4\",\n          \"data\": \"0x081e3eda\"\n        },\n        \"0x171d676\"\n      ],\n      \"jsonrpc\": \"2.0\",\n      \"id\": 2987882185,\n      \"origin\": \"https://vfat.tools\",\n      \"tabId\": 2\n    }\n  },\n  \"stack\": \"Error: JsonRpcEngine: Response has no error or result for request:\\n{\\n  \\\"method\\\": \\\"eth_call\\\",\\n  \\\"params\\\": [\\n    {\\n      \\\"to\\\": \\\"0xfad621fb82310e87611c7904dc51a135beca36c4\\\",\\n      \\\"data\\\": \\\"0x081e3eda\\\"\\n    },\\n    \\\"0x171d676\\\"\\n  ],\\n  \\\"jsonrpc\\\": \\\"2.0\\\",\\n  \\\"id\\\": 2987882185,\\n  \\\"origin\\\": \\\"https://vfat.tools\\\",\\n  \\\"tabId\\\": 2\\n}\\n    at new o (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/common-1.js:16:24204)\\n    at Function._checkForCompletion (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:305269)\\n    at a._processRequest (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304461)\\n    at async a._handle (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304249)\"\n}\n  at new o (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/common-1.js:16:24204)\n  at Function._checkForCompletion (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:305269)\n  at a._processRequest (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304461)\n  at async a._handle (chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/background-0.js:1:304249)"
 }
 Oops something went wrong. Try refreshing the page.

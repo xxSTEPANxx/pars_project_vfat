@@ -1,0 +1,26 @@
+*************** 👨‍🌾 UNOFFICIAL CYCLONE FARMING CALCULATOR 👨‍🌾 ************
+INFO  : https://cyclone.xyz/eth
+*************************************************************************
+
+Thu Jan 27 2022 19:51:58 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Showing incentivized pools only.
+Finished reading smart contracts.
+[CYC]-[WETH] Uni LP [+] [-] [<=>] Price: $1,204.43 TVL: $436,289.07
+CYC Price: $137.05
+WETH Price: $2,482.23
+Staked: 357.0419 UNI-V2 ($430,033.30)
+CYC Per Week: 33.70 ($4,619.20)
+APR: Day 0.15% Week 1.07% Year 55.86%
+You are staking 0.00 [CYC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CYC]-[WETH] Uni LP
+Unstake 0.00 [CYC]-[WETH] Uni LP
+Claim 0.00 CYC ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $430,033.30

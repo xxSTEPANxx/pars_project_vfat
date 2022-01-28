@@ -1,0 +1,167 @@
+*************** 👨‍🌾 UNOFFICIAL CROFARM FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://crofarm.app
+********************************************************************************
+
+Wed Dec 22 2021 18:18:16 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 14 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [CRF]-[USDC] Uni LP [+] [-] [<=>] Price: $3,749,600.67 TVL: $19,425.83
+CRF Price: $3.10
+USDC Price: $1.01
+Staked: 0.0041 UNI-V2 ($15,355.95)
+CRF Per Week: 322.56 ($999.82)
+APR: Day 0.93% Week 6.51% Year 338.57%
+You are staking 0.00 [CRF]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CRF]-[USDC] Uni LP
+Unstake 0.00 [CRF]-[USDC] Uni LP
+Claim 0.00 CRF ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [CRF]-[WCRO] Uni LP [+] [-] [<=>] Price: $2.74 TVL: $16,987.98
+CRF Price: $3.10
+WCRO Price: $0.54
+Staked: 6170.4298 UNI-V2 ($16,918.89)
+CRF Per Week: 322.56 ($999.82)
+APR: Day 0.84% Week 5.91% Year 307.29%
+You are staking 0.00 [CRF]-[WCRO] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CRF]-[WCRO] Uni LP
+Unstake 0.00 [CRF]-[WCRO] Uni LP
+Claim 0.00 CRF ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WCRO]-[USDC] Uni LP [+] [-] [<=>] Price: $1,606,408.91 TVL: $352,056.14
+WCRO Price: $0.54
+USDC Price: $1.01
+Staked: 0.0061 UNI-V2 ($9,779.64)
+CRF Per Week: 120.96 ($374.93)
+APR: Day 0.55% Week 3.83% Year 199.36%
+You are staking 0.00 [WCRO]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WCRO]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [WCRO]-[USDC] Uni LP
+Claim 0.00 CRF ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WCRO]-[WETH] Uni LP [+] [-] [<=>] Price: $95.12 TVL: $170,006.31
+WCRO Price: $0.54
+WETH Price: $4,030.89
+Staked: 107.7916 UNI-V2 ($10,252.88)
+CRF Per Week: 120.96 ($374.93)
+APR: Day 0.52% Week 3.66% Year 190.16%
+You are staking 0.00 [WCRO]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WCRO]-[WETH] Uni LP - Fee 4%
+Unstake 0.00 [WCRO]-[WETH] Uni LP
+Claim 0.00 CRF ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDT]-[USDC] Uni LP [+] [-] [<=>] Price: $2,056,548,843,122.19 TVL: $2,025,588.56
+USDT Price: $1.01
+USDC Price: $1.01
+Staked: 0.0000 UNI-V2 ($73,956.34)
+CRF Per Week: 120.96 ($374.93)
+APR: Day 0.07% Week 0.51% Year 26.36%
+You are staking 0.00 [USDT]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[USDC] Uni LP - Fee 4%
+Unstake 0.00 [USDT]-[USDC] Uni LP
+Claim 0.00 CRF ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WCRO]-[CRX] Uni LP [+] [-] [<=>] Price: $91,621.04 TVL: $2,174,204.87
+WCRO Price: $0.54
+CRX Price: $86.39
+Staked: 0.0341 UNI-V2 ($3,125.25)
+CRF Per Week: 120.96 ($374.93)
+APR: Day 1.71% Week 12.00% Year 623.84%
+You are staking 0.00 [WCRO]-[CRX] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WCRO]-[CRX] Uni LP - Fee 4%
+Unstake 0.00 [WCRO]-[CRX] Uni LP
+Claim 0.00 CRF ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - CRF Price: $3.10 Market Cap: $34,922.81 
+Staked: 4084.4956 CRF ($12,660.43)
+CRF Per Week: 282.24 ($874.84)
+APR: Day 0.99% Week 6.91% Year 359.32%
+You are staking 0.00 CRF ($0.00), 0.00% of the pool.
+Stake 0.00 CRF
+Unstake 0.00 CRF
+Claim 0.00 CRF ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - USDC Price: $1.01 Market Cap: $540,350,000.00 
+Staked: 15044.4549 USDC ($15,194.90)
+CRF Per Week: 100.80 ($312.44)
+APR: Day 0.29% Week 2.06% Year 106.92%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 CRF ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - WCRO Price: $0.54 Market Cap: $412,024,457.62 
+Staked: 62413.4510 WCRO ($33,614.45)
+CRF Per Week: 100.80 ($312.44)
+APR: Day 0.13% Week 0.93% Year 48.33%
+You are staking 0.00 WCRO ($0.00), 0.00% of the pool.
+Stake 0.00 WCRO - Fee 4%
+Unstake 0.00 WCRO
+Claim 0.00 CRF ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - USDT Price: $1.01 Market Cap: $380,770,000.00 
+Staked: 17953.3369 USDT ($18,132.87)
+CRF Per Week: 100.80 ($312.44)
+APR: Day 0.25% Week 1.72% Year 89.60%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 CRF ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - WETH Price: $4,030.89 Market Cap: $277,905,680.16 
+Staked: 2.9336 WETH ($11,825.15)
+CRF Per Week: 100.80 ($312.44)
+APR: Day 0.38% Week 2.64% Year 137.39%
+You are staking 0.00 WETH ($0.00), 0.00% of the pool.
+Stake 0.00 WETH - Fee 4%
+Unstake 0.00 WETH
+Claim 0.00 CRF ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - WBTC Price: $49,270.00 Market Cap: $268,915,660.00 
+Staked: 0.6644 WBTC ($32,736.25)
+CRF Per Week: 100.80 ($312.44)
+APR: Day 0.14% Week 0.95% Year 49.63%
+You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
+Stake 0.00 WBTC - Fee 4%
+Unstake 0.00 WBTC
+Claim 0.00 CRF ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - CRX Price: $86.39 Market Cap: $8,639,397.45 
+Staked: 19.3079 CRX ($1,668.09)
+CRF Per Week: 100.80 ($312.44)
+APR: Day 2.68% Week 18.73% Year 973.99%
+You are staking 0.00 CRX ($0.00), 0.00% of the pool.
+Stake 0.00 CRX - Fee 4%
+Unstake 0.00 CRX
+Claim 0.00 CRF ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - VVS Price: $0.0000576100 Market Cap: $2,121,111,093.97 
+Staked: 64145599.8842 VVS ($3,695.43)
+CRF Per Week: 100.80 ($312.44)
+APR: Day 1.21% Week 8.45% Year 439.65%
+You are staking 0.00 VVS ($0.00), 0.00% of the pool.
+Stake 0.00 VVS - Fee 4%
+Unstake 0.00 VVS
+Claim 0.00 CRF ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $258,916.51

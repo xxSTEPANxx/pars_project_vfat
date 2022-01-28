@@ -1,0 +1,145 @@
+*************** 👨‍🌾 UNOFFICIAL ROBOBUDDY.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://robobuddy.finance
+**************************************************************************************
+
+Thu Jan 27 2022 21:27:43 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 12 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - ROBO Price: $0.02 Market Cap: $261.56 [%]
+Staked: 9921.1240 ROBO ($210.50)
+ROBO Per Week: 695.17 ($14.75)
+APR: Day 1.00% Week 7.01% Year 364.36%
+You are staking 0.00 ROBO ($0.00), 0.00% of the pool.
+Stake 0.00 ROBO
+Unstake 0.00 ROBO
+Claim 0.00 ROBO ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [DAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.08 TVL: $16,848,429.45
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+ROBO Per Week: 139.03 ($2.95)
+APR: Day 2105785.61% Week 14740499.28% Year 766505962.62%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 ROBO ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.40 TVL: $345,840,984.13
+WBNB Price: $368.40
+BUSD Price: $1.00
+Staked: 0.5472 Cake-LP ($25.94)
+ROBO Per Week: 139.03 ($2.95)
+APR: Day 1.62% Week 11.37% Year 591.45%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 ROBO ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - BTCB Price: $36,136.00 Market Cap: $4,065,336,136.00 [%]
+Staked: 0.0000 BTCB ($0.00)
+ROBO Per Week: 139.03 ($2.95)
+APR: Day 5706320.45% Week 39944243.17% Year 2077100644.88%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 ROBO ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [ETH]-[BTCB] Cake LP [+] [-] [<=>] Price: $19,669.98 TVL: $62,191,153.13
+ETH Price: $2,435.59
+BTCB Price: $36,136.00
+Staked: 0.0000 Cake-LP ($0.00)
+ROBO Per Week: 139.03 ($2.95)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [ETH]-[BTCB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [ETH]-[BTCB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[BTCB] Cake LP
+Claim 0.00 ROBO ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - LTC Price: $106.71 Market Cap: $66,693,750.00 [%]
+Staked: 0.0000 LTC ($0.00)
+ROBO Per Week: 139.03 ($2.95)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 LTC ($0.00), NaN% of the pool.
+Stake 0.00 LTC - Fee 4%
+Unstake 0.00 LTC
+Claim 0.00 ROBO ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - ETH Price: $2,435.59 Market Cap: $3,422,003,950.00 [%]
+Staked: 0.0012 ETH ($2.86)
+ROBO Per Week: 139.03 ($2.95)
+APR: Day 14.73% Week 103.09% Year 5360.81%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 ROBO ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - WBNB Price: $368.40 Market Cap: $1,922,578,301.15 [%]
+Staked: 0.0442 WBNB ($16.30)
+ROBO Per Week: 139.03 ($2.95)
+APR: Day 2.59% Week 18.10% Year 941.29%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 ROBO ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [ROBO]-[USDC] Cake LP [+] [-] [<=>] Price: $0.29 TVL: $0.51
+ROBO Price: $0.02
+USDC Price: $1.00
+Staked: 1.0000 Cake-LP ($0.29)
+ROBO Per Week: 695.17 ($14.75)
+APR: Day 721.40% Week 5049.80% Year 262589.59%
+You are staking 0.00 [ROBO]-[USDC] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ROBO]-[USDC] Cake LP
+Unstake 0.00 [ROBO]-[USDC] Cake LP
+Claim 0.00 ROBO ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - ADA Price: $1.03 Market Cap: $288,400,000.00 [%]
+Staked: 1.6175 ADA ($1.67)
+ROBO Per Week: 556.14 ($11.80)
+APR: Day 101.18% Week 708.26% Year 36829.38%
+You are staking 0.00 ADA ($0.00), 0.00% of the pool.
+Stake 0.00 ADA - Fee 4%
+Unstake 0.00 ADA
+Claim 0.00 ROBO ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [USDT]-[USDC] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $53,841,315.38
+USDT Price: $1.00
+USDC Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+ROBO Per Week: 556.14 ($11.80)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDT]-[USDC] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDT]-[USDC] Cake LP - Fee 3.5%
+Unstake 0.00 [USDT]-[USDC] Cake LP
+Claim 0.00 ROBO ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - USDT Price: $1.00 Market Cap: $3,879,997,922.18 [%]
+Staked: 1.1096 USDT ($1.11)
+ROBO Per Week: 556.14 ($11.80)
+APR: Day 151.93% Week 1063.48% Year 55301.10%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 3.5%
+Unstake 0.00 USDT
+Claim 0.00 ROBO ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $258.67

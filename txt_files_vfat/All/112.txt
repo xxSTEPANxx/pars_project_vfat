@@ -1,0 +1,662 @@
+*************** 👨‍🌾 UNOFFICIAL UNIC.LY FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://www.app.unic.ly/#/farm
+****************************************************************************
+
+Thu Jan 27 2022 19:57:15 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 38 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [UNIC]-[WETH] Unic Swap LP [+] [-] [<=>] Price: $886.29 TVL: $1,551,883.11
+UNIC Price: $73.26
+WETH Price: $2,483.85
+Staked: 1734.1336 UPT ($1,536,945.48)
+UNIC Per Week: 182.52 ($13,371.67)
+APR: Day 0.12% Week 0.87% Year 45.24%
+You are staking 0.00 [UNIC]-[WETH] Unic Swap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UNIC]-[WETH] Unic Swap LP
+Unstake 0.00 [UNIC]-[WETH] Unic Swap LP
+Claim 0.00 UNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [uDOKI]-[WETH] Unic Swap LP [+] [-] [<=>] Price: $1.35 TVL: $131,423.20
+uDOKI Price: $0.000178
+WETH Price: $2,483.85
+Staked: 96247.7549 UPT ($129,641.00)
+UNIC Per Week: 1.60 ($117.00)
+APR: Day 0.01% Week 0.09% Year 4.69%
+You are staking 0.00 [uDOKI]-[WETH] Unic Swap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [uDOKI]-[WETH] Unic Swap LP
+Unstake 0.00 [uDOKI]-[WETH] Unic Swap LP
+Claim 0.00 UNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [uMASK]-[WETH] Unic Swap LP [+] [-] [<=>] Price: $22.89 TVL: $1,454,088.84
+uMASK Price: $0.05
+WETH Price: $2,483.85
+Staked: 63486.7058 UPT ($1,453,286.99)
+UNIC Per Week: 45.17 ($3,309.49)
+APR: Day 0.03% Week 0.23% Year 11.84%
+You are staking 0.00 [uMASK]-[WETH] Unic Swap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [uMASK]-[WETH] Unic Swap LP
+Unstake 0.00 [uMASK]-[WETH] Unic Swap LP
+Claim 0.00 UNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [uAXIE]-[WETH] Unic Swap LP [+] [-] [<=>] Price: $47.08 TVL: $729,238.28
+uAXIE Price: $0.22
+WETH Price: $2,483.85
+Staked: 15377.5935 UPT ($723,934.57)
+UNIC Per Week: 28.75 ($2,106.04)
+APR: Day 0.04% Week 0.29% Year 15.13%
+You are staking 0.00 [uAXIE]-[WETH] Unic Swap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [uAXIE]-[WETH] Unic Swap LP
+Unstake 0.00 [uAXIE]-[WETH] Unic Swap LP
+Claim 0.00 UNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [uCM]-[WETH] Unic Swap LP [+] [-] [<=>] Price: $42.37 TVL: $88,798.38
+uCM Price: $0.18
+WETH Price: $2,483.85
+Staked: 2094.0587 UPT ($88,716.56)
+UNIC Per Week: 1.28 ($93.60)
+APR: Day 0.02% Week 0.11% Year 5.49%
+You are staking 0.00 [uCM]-[WETH] Unic Swap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [uCM]-[WETH] Unic Swap LP
+Unstake 0.00 [uCM]-[WETH] Unic Swap LP
+Claim 0.00 UNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [uWAIFU]-[WETH] Unic Swap LP [+] [-] [<=>] Price: $85.92 TVL: $25,118.32
+uWAIFU Price: $0.26
+WETH Price: $2,483.85
+Staked: 275.6358 UPT ($23,683.56)
+UNIC Per Week: 0.09 ($6.69)
+APR: Day 0.00% Week 0.03% Year 1.47%
+You are staking 0.00 [uWAIFU]-[WETH] Unic Swap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [uWAIFU]-[WETH] Unic Swap LP
+Unstake 0.00 [uWAIFU]-[WETH] Unic Swap LP
+Claim 0.00 UNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [uUNICLY]-[WETH] Unic Swap LP [+] [-] [<=>] Price: $25.08 TVL: $63,238.85
+uUNICLY Price: $0.06
+WETH Price: $2,483.85
+Staked: 2382.8041 UPT ($59,766.20)
+UNIC Per Week: 1.23 ($90.26)
+APR: Day 0.02% Week 0.15% Year 7.85%
+You are staking 0.00 [uUNICLY]-[WETH] Unic Swap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [uUNICLY]-[WETH] Unic Swap LP
+Unstake 0.00 [uUNICLY]-[WETH] Unic Swap LP
+Claim 0.00 UNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [uMOON]-[WETH] Unic Swap LP [+] [-] [<=>] Price: $17.82 TVL: $126,794.25
+uMOON Price: $0.03
+WETH Price: $2,483.85
+Staked: 574.9413 UPT ($10,245.90)
+UNIC Per Week: 7.30 ($534.87)
+APR: Day 0.75% Week 5.22% Year 271.46%
+You are staking 0.00 [uMOON]-[WETH] Unic Swap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [uMOON]-[WETH] Unic Swap LP
+Unstake 0.00 [uMOON]-[WETH] Unic Swap LP
+Claim 0.00 UNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [uJORDAN]-[WETH] Unic Swap LP [+] [-] [<=>] Price: $74.09 TVL: $75,855.24
+uJORDAN Price: $0.54
+WETH Price: $2,483.85
+Staked: 1023.3035 UPT ($75,818.01)
+UNIC Per Week: 1.14 ($83.57)
+APR: Day 0.02% Week 0.11% Year 5.73%
+You are staking 0.00 [uJORDAN]-[WETH] Unic Swap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [uJORDAN]-[WETH] Unic Swap LP
+Unstake 0.00 [uJORDAN]-[WETH] Unic Swap LP
+Claim 0.00 UNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [WETH]-[uGONE] Unic Swap LP [+] [-] [<=>] Price: $1,048.13 TVL: $75,672.52
+WETH Price: $2,483.85
+uGONE Price: $0.76
+Staked: 0.0000 UPT ($0.00)
+UNIC Per Week: 0.68 ($50.14)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WETH]-[uGONE] Unic Swap LP ($0.00), NaN% of the pool.
+Stake 0.00 [WETH]-[uGONE] Unic Swap LP
+Unstake 0.00 [WETH]-[uGONE] Unic Swap LP
+Claim 0.00 UNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [WETH]-[uGLYPH] Unic Swap LP [+] [-] [<=>] Price: $20.72 TVL: $379,484.83
+WETH Price: $2,483.85
+uGLYPH Price: $0.04
+Staked: 5084.8078 UPT ($105,350.51)
+UNIC Per Week: 15.97 ($1,170.02)
+APR: Day 0.16% Week 1.11% Year 57.75%
+You are staking 0.00 [WETH]-[uGLYPH] Unic Swap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[uGLYPH] Unic Swap LP
+Unstake 0.00 [WETH]-[uGLYPH] Unic Swap LP
+Claim 0.00 UNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [uPAK]-[WETH] Unic Swap LP [+] [-] [<=>] Price: $17.06 TVL: $204,392.88
+uPAK Price: $0.03
+WETH Price: $2,483.85
+Staked: 11974.2503 UPT ($204,250.50)
+UNIC Per Week: 8.21 ($601.73)
+APR: Day 0.04% Week 0.29% Year 15.32%
+You are staking 0.00 [uPAK]-[WETH] Unic Swap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [uPAK]-[WETH] Unic Swap LP
+Unstake 0.00 [uPAK]-[WETH] Unic Swap LP
+Claim 0.00 UNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [uREVV]-[WETH] Unic Swap LP [+] [-] [<=>] Price: $53.85 TVL: $153,269.73
+uREVV Price: $0.29
+WETH Price: $2,483.85
+Staked: 2846.0499 UPT ($153,269.73)
+UNIC Per Week: 1.64 ($120.35)
+APR: Day 0.01% Week 0.08% Year 4.08%
+You are staking 0.00 [uREVV]-[WETH] Unic Swap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [uREVV]-[WETH] Unic Swap LP
+Unstake 0.00 [uREVV]-[WETH] Unic Swap LP
+Claim 0.00 UNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [uARC]-[WETH] Unic Swap LP [+] [-] [<=>] Price: $100.31 TVL: $21,579.10
+uARC Price: $0.91
+WETH Price: $2,483.85
+Staked: 214.8852 UPT ($21,555.30)
+UNIC Per Week: 0.46 ($33.43)
+APR: Day 0.02% Week 0.16% Year 8.06%
+You are staking 0.00 [uARC]-[WETH] Unic Swap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [uARC]-[WETH] Unic Swap LP
+Unstake 0.00 [uARC]-[WETH] Unic Swap LP
+Claim 0.00 UNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [uJENNY]-[WETH] Unic Swap LP [+] [-] [<=>] Price: $87.10 TVL: $4,310,087.10
+uJENNY Price: $0.76
+WETH Price: $2,483.85
+Staked: 47445.0206 UPT ($4,132,685.53)
+UNIC Per Week: 175.68 ($12,870.24)
+APR: Day 0.04% Week 0.31% Year 16.19%
+You are staking 0.00 [uJENNY]-[WETH] Unic Swap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [uJENNY]-[WETH] Unic Swap LP
+Unstake 0.00 [uJENNY]-[WETH] Unic Swap LP
+Claim 0.00 UNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - FAUCETPROXY Price: $0.00 Market Cap: $0.00 
+Staked: 1.0000 FAUCETPROXY ($0.00)
+UNIC Per Week: 4358.02 ($319,268.80)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FAUCETPROXY ($0.00), NaN% of the pool.
+Stake 0.00 FAUCETPROXY
+Unstake 0.00 FAUCETPROXY
+Claim 0.00 UNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - [uPMON]-[WETH] Unic Swap LP [+] [-] [<=>] Price: $2.25 TVL: $281,947.58
+uPMON Price: $0.000504
+WETH Price: $2,483.85
+Staked: 125471.8311 UPT ($281,775.02)
+UNIC Per Week: 3.97 ($290.83)
+APR: Day 0.01% Week 0.10% Year 5.37%
+You are staking 0.00 [uPMON]-[WETH] Unic Swap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [uPMON]-[WETH] Unic Swap LP
+Unstake 0.00 [uPMON]-[WETH] Unic Swap LP
+Claim 0.00 UNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - [WETH]-[uGMC] Unic Swap LP [+] [-] [<=>] Price: $42.73 TVL: $789,894.91
+WETH Price: $2,483.85
+uGMC Price: $0.18
+Staked: 15600.2579 UPT ($666,660.23)
+UNIC Per Week: 45.63 ($3,342.92)
+APR: Day 0.07% Week 0.50% Year 26.08%
+You are staking 0.00 [WETH]-[uGMC] Unic Swap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[uGMC] Unic Swap LP
+Unstake 0.00 [WETH]-[uGMC] Unic Swap LP
+Claim 0.00 UNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - [UNIC]-[uJENNY] Unic Swap LP [+] [-] [<=>] Price: $14.96 TVL: $3,754.73
+UNIC Price: $73.26
+uJENNY Price: $0.76
+Staked: 216.0642 UPT ($3,233.29)
+UNIC Per Week: 4.56 ($334.29)
+APR: Day 1.48% Week 10.34% Year 537.63%
+You are staking 0.00 [UNIC]-[uJENNY] Unic Swap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UNIC]-[uJENNY] Unic Swap LP
+Unstake 0.00 [UNIC]-[uJENNY] Unic Swap LP
+Claim 0.00 UNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - [uUNICLY]-[UNIC] Unic Swap LP [+] [-] [<=>] Price: $4.23 TVL: $11,397.54
+uUNICLY Price: $0.06
+UNIC Price: $73.26
+Staked: 2693.6859 UPT ($11,396.65)
+UNIC Per Week: 0.41 ($30.09)
+APR: Day 0.04% Week 0.26% Year 13.73%
+You are staking 0.00 [uUNICLY]-[UNIC] Unic Swap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [uUNICLY]-[UNIC] Unic Swap LP
+Unstake 0.00 [uUNICLY]-[UNIC] Unic Swap LP
+Claim 0.00 UNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - [uCM]-[UNIC] Unic Swap LP [+] [-] [<=>] Price: $7.25 TVL: $202,319.15
+uCM Price: $0.18
+UNIC Price: $73.26
+Staked: 27908.9618 UPT ($202,318.18)
+UNIC Per Week: 2.56 ($187.20)
+APR: Day 0.01% Week 0.09% Year 4.81%
+You are staking 0.00 [uCM]-[UNIC] Unic Swap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [uCM]-[UNIC] Unic Swap LP
+Unstake 0.00 [uCM]-[UNIC] Unic Swap LP
+Claim 0.00 UNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+29 - [uAXIE]-[UNIC] Unic Swap LP [+] [-] [<=>] Price: $8.08 TVL: $102,100.23
+uAXIE Price: $0.22
+UNIC Price: $73.26
+Staked: 12635.5998 UPT ($102,086.62)
+UNIC Per Week: 2.74 ($200.58)
+APR: Day 0.03% Week 0.20% Year 10.22%
+You are staking 0.00 [uAXIE]-[UNIC] Unic Swap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [uAXIE]-[UNIC] Unic Swap LP
+Unstake 0.00 [uAXIE]-[UNIC] Unic Swap LP
+Claim 0.00 UNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+30 - [uMOON]-[UNIC] Unic Swap LP [+] [-] [<=>] Price: $3.06 TVL: $32,128.63
+uMOON Price: $0.03
+UNIC Price: $73.26
+Staked: 10503.3328 UPT ($32,119.69)
+UNIC Per Week: 1.37 ($100.29)
+APR: Day 0.04% Week 0.31% Year 16.24%
+You are staking 0.00 [uMOON]-[UNIC] Unic Swap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [uMOON]-[UNIC] Unic Swap LP
+Unstake 0.00 [uMOON]-[UNIC] Unic Swap LP
+Claim 0.00 UNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+31 - [uDOKI]-[UNIC] Unic Swap LP [+] [-] [<=>] Price: $0.23 TVL: $48,436.47
+uDOKI Price: $0.000178
+UNIC Price: $73.26
+Staked: 14520.2620 UPT ($3,332.16)
+UNIC Per Week: 1.37 ($100.29)
+APR: Day 0.43% Week 3.01% Year 156.50%
+You are staking 0.00 [uDOKI]-[UNIC] Unic Swap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [uDOKI]-[UNIC] Unic Swap LP
+Unstake 0.00 [uDOKI]-[UNIC] Unic Swap LP
+Claim 0.00 UNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+32 - XUNICPROXY2 Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 XUNICPROXY2 ($0.00)
+UNIC Per Week: 36.50 ($2,674.33)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 XUNICPROXY2 ($0.00), NaN% of the pool.
+Stake 0.00 XUNICPROXY2
+Unstake 0.00 XUNICPROXY2
+Claim 0.00 UNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+33 - [uAAH]-[WETH] Unic Swap LP [+] [-] [<=>] Price: $0.01 TVL: $1,724.67
+uAAH Price: $0.0000000102
+WETH Price: $2,483.85
+Staked: 168549.9767 UPT ($1,704.18)
+UNIC Per Week: 0.91 ($66.86)
+APR: Day 0.56% Week 3.92% Year 204.01%
+You are staking 0.00 [uAAH]-[WETH] Unic Swap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [uAAH]-[WETH] Unic Swap LP
+Unstake 0.00 [uAAH]-[WETH] Unic Swap LP
+Claim 0.00 UNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+35 - [UNIC]-[uLOOT] Unic Swap LP [+] [-] [<=>] Price: $329.16 TVL: $734,825.21
+UNIC Price: $73.26
+uLOOT Price: $369.44
+Staked: 2232.3527 UPT ($734,797.18)
+UNIC Per Week: 1.83 ($133.72)
+APR: Day 0.00% Week 0.02% Year 0.95%
+You are staking 0.00 [UNIC]-[uLOOT] Unic Swap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [UNIC]-[uLOOT] Unic Swap LP
+Unstake 0.00 [UNIC]-[uLOOT] Unic Swap LP
+Claim 0.00 UNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+36 - STAKINGPROXY Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 STAKINGPROXY ($0.00)
+UNIC Per Week: 146.02 ($10,697.34)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 STAKINGPROXY ($0.00), NaN% of the pool.
+Stake 0.00 STAKINGPROXY
+Unstake 0.00 STAKINGPROXY
+Claim 0.00 UNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+37 - [uPBOY]-[UNIC] Unic Swap LP [+] [-] [<=>] Price: $9.74 TVL: $9.88
+uPBOY Price: $0.32
+UNIC Price: $73.26
+Staked: 0.0000 UPT ($0.00)
+UNIC Per Week: 6.21 ($454.64)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [uPBOY]-[UNIC] Unic Swap LP ($0.00), NaN% of the pool.
+Stake 0.00 [uPBOY]-[UNIC] Unic Swap LP
+Unstake 0.00 [uPBOY]-[UNIC] Unic Swap LP
+Claim 0.00 UNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $10,758,573.04
+Staking Contract
+Found 34 vaults.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [UNIC]-[WETH] Unic Swap LP [+] [-] [<=>] Price: $886.25 TVL: $1,551,813.77
+UNIC Price: $73.26
+WETH Price: $2,483.63
+Staked: 1724.2933 UPT ($1,528,155.90)
+Stake 0.00 [UNIC]-[WETH] Unic Swap LP
+Unstake 0.00 [UNIC]-[WETH] Unic Swap LP
+Claim 0.00 XUNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [uGOTCHI]-[WETH] Unic Swap LP [+] [-] [<=>] Price: $85.61 TVL: $12,616.06
+uGOTCHI Price: $0.72
+WETH Price: $2,483.63
+Staked: 36.5789 UPT ($3,131.69)
+Stake 0.00 [uGOTCHI]-[WETH] Unic Swap LP
+Unstake 0.00 [uGOTCHI]-[WETH] Unic Swap LP
+Claim 0.00 XUNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [uDOKI]-[WETH] Unic Swap LP [+] [-] [<=>] Price: $1.35 TVL: $131,417.43
+uDOKI Price: $0.000178
+WETH Price: $2,483.63
+Staked: 95541.1165 UPT ($128,683.54)
+Stake 0.00 [uDOKI]-[WETH] Unic Swap LP
+Unstake 0.00 [uDOKI]-[WETH] Unic Swap LP
+Claim 0.00 XUNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [uPUNK]-[WETH] Unic Swap LP [+] [-] [<=>] Price: $18.22 TVL: $1,564,765.99
+uPUNK Price: $0.03
+WETH Price: $2,483.63
+Staked: 50886.2499 UPT ($927,378.51)
+Stake 0.00 [uPUNK]-[WETH] Unic Swap LP
+Unstake 0.00 [uPUNK]-[WETH] Unic Swap LP
+Claim 0.00 XUNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [uMASK]-[WETH] Unic Swap LP [+] [-] [<=>] Price: $22.89 TVL: $1,454,037.36
+uMASK Price: $0.05
+WETH Price: $2,483.63
+Staked: 55083.2068 UPT ($1,260,876.15)
+Stake 0.00 [uMASK]-[WETH] Unic Swap LP
+Unstake 0.00 [uMASK]-[WETH] Unic Swap LP
+Claim 0.00 XUNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [uAXIE]-[WETH] Unic Swap LP [+] [-] [<=>] Price: $47.08 TVL: $729,205.98
+uAXIE Price: $0.22
+WETH Price: $2,483.63
+Staked: 15283.3272 UPT ($719,464.90)
+Stake 0.00 [uAXIE]-[WETH] Unic Swap LP
+Unstake 0.00 [uAXIE]-[WETH] Unic Swap LP
+Claim 0.00 XUNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [uCM]-[WETH] Unic Swap LP [+] [-] [<=>] Price: $42.36 TVL: $88,794.54
+uCM Price: $0.18
+WETH Price: $2,483.63
+Staked: 2087.7118 UPT ($88,443.84)
+Stake 0.00 [uCM]-[WETH] Unic Swap LP
+Unstake 0.00 [uCM]-[WETH] Unic Swap LP
+Claim 0.00 XUNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [uWAIFU]-[WETH] Unic Swap LP [+] [-] [<=>] Price: $85.92 TVL: $25,118.10
+uWAIFU Price: $0.26
+WETH Price: $2,483.63
+Staked: 244.5882 UPT ($21,015.67)
+Stake 0.00 [uWAIFU]-[WETH] Unic Swap LP
+Unstake 0.00 [uWAIFU]-[WETH] Unic Swap LP
+Claim 0.00 XUNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [uUNICLY]-[WETH] Unic Swap LP [+] [-] [<=>] Price: $25.08 TVL: $63,236.02
+uUNICLY Price: $0.06
+WETH Price: $2,483.63
+Staked: 1968.9792 UPT ($49,384.31)
+Stake 0.00 [uUNICLY]-[WETH] Unic Swap LP
+Unstake 0.00 [uUNICLY]-[WETH] Unic Swap LP
+Claim 0.00 XUNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [WETH]-[uBEEPLE] Unic Swap LP [+] [-] [<=>] Price: $11.67 TVL: $8,604.31
+WETH Price: $2,483.63
+uBEEPLE Price: $0.01
+Staked: 0.0000 UPT ($0.00)
+Stake 0.00 [WETH]-[uBEEPLE] Unic Swap LP
+Unstake 0.00 [WETH]-[uBEEPLE] Unic Swap LP
+Claim 0.00 XUNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [uMOON]-[WETH] Unic Swap LP [+] [-] [<=>] Price: $17.82 TVL: $126,788.60
+uMOON Price: $0.03
+WETH Price: $2,483.63
+Staked: 570.5080 UPT ($10,166.45)
+Stake 0.00 [uMOON]-[WETH] Unic Swap LP
+Unstake 0.00 [uMOON]-[WETH] Unic Swap LP
+Claim 0.00 XUNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [uJORDAN]-[WETH] Unic Swap LP [+] [-] [<=>] Price: $74.09 TVL: $75,852.34
+uJORDAN Price: $0.54
+WETH Price: $2,483.63
+Staked: 1007.4721 UPT ($74,642.18)
+Stake 0.00 [uJORDAN]-[WETH] Unic Swap LP
+Unstake 0.00 [uJORDAN]-[WETH] Unic Swap LP
+Claim 0.00 XUNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [WETH]-[uGONE] Unic Swap LP [+] [-] [<=>] Price: $1,048.13 TVL: $75,672.51
+WETH Price: $2,483.63
+uGONE Price: $0.76
+Staked: 0.0000 UPT ($0.00)
+Stake 0.00 [WETH]-[uGONE] Unic Swap LP
+Unstake 0.00 [WETH]-[uGONE] Unic Swap LP
+Claim 0.00 XUNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [WETH]-[uGLYPH] Unic Swap LP [+] [-] [<=>] Price: $20.72 TVL: $379,471.31
+WETH Price: $2,483.63
+uGLYPH Price: $0.04
+Staked: 1596.6475 UPT ($33,079.25)
+Stake 0.00 [WETH]-[uGLYPH] Unic Swap LP
+Unstake 0.00 [WETH]-[uGLYPH] Unic Swap LP
+Claim 0.00 XUNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [uPAK]-[WETH] Unic Swap LP [+] [-] [<=>] Price: $17.06 TVL: $204,385.72
+uPAK Price: $0.03
+WETH Price: $2,483.63
+Staked: 11973.5411 UPT ($204,231.25)
+Stake 0.00 [uPAK]-[WETH] Unic Swap LP
+Unstake 0.00 [uPAK]-[WETH] Unic Swap LP
+Claim 0.00 XUNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [WETH]-[uARTBLOCKS] Unic Swap LP [+] [-] [<=>] Price: $12.91 TVL: $19,133.37
+WETH Price: $2,483.63
+uARTBLOCKS Price: $0.02
+Staked: 60.0475 UPT ($775.08)
+Stake 0.00 [WETH]-[uARTBLOCKS] Unic Swap LP
+Unstake 0.00 [WETH]-[uARTBLOCKS] Unic Swap LP
+Claim 0.00 XUNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [uREVV]-[WETH] Unic Swap LP [+] [-] [<=>] Price: $53.85 TVL: $153,262.82
+uREVV Price: $0.29
+WETH Price: $2,483.63
+Staked: 2846.0499 UPT ($153,262.82)
+Stake 0.00 [uREVV]-[WETH] Unic Swap LP
+Unstake 0.00 [uREVV]-[WETH] Unic Swap LP
+Claim 0.00 XUNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [uARC]-[WETH] Unic Swap LP [+] [-] [<=>] Price: $100.31 TVL: $21,578.44
+uARC Price: $0.91
+WETH Price: $2,483.63
+Staked: 214.8852 UPT ($21,554.64)
+Stake 0.00 [uARC]-[WETH] Unic Swap LP
+Unstake 0.00 [uARC]-[WETH] Unic Swap LP
+Claim 0.00 XUNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [uJENNY]-[WETH] Unic Swap LP [+] [-] [<=>] Price: $87.10 TVL: $4,309,895.21
+uJENNY Price: $0.76
+WETH Price: $2,483.63
+Staked: 38869.0174 UPT ($3,385,524.38)
+Stake 0.00 [uJENNY]-[WETH] Unic Swap LP
+Unstake 0.00 [uJENNY]-[WETH] Unic Swap LP
+Claim 0.00 XUNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [WETH]-[uAPE] Unic Swap LP [+] [-] [<=>] Price: $6.70 TVL: $1,558.63
+WETH Price: $2,483.63
+uAPE Price: $0.004469
+Staked: 0.0000 UPT ($0.00)
+Stake 0.00 [WETH]-[uAPE] Unic Swap LP
+Unstake 0.00 [WETH]-[uAPE] Unic Swap LP
+Claim 0.00 XUNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - [WETH]-[uFEWO] Unic Swap LP [+] [-] [<=>] Price: $10.08 TVL: $7,880.99
+WETH Price: $2,483.63
+uFEWO Price: $0.009744
+Staked: 46.3618 UPT ($467.19)
+Stake 0.00 [WETH]-[uFEWO] Unic Swap LP
+Unstake 0.00 [WETH]-[uFEWO] Unic Swap LP
+Claim 0.00 XUNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - [uAPE]-[WETH] Unic Swap LP [+] [-] [<=>] Price: $8.03 TVL: $1,462.15
+uAPE Price: $0.004532
+WETH Price: $2,483.63
+Staked: 0.0000 UPT ($0.00)
+Stake 0.00 [uAPE]-[WETH] Unic Swap LP
+Unstake 0.00 [uAPE]-[WETH] Unic Swap LP
+Claim 0.00 XUNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - XUNICPROXY Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 XUNICPROXY ($0.00)
+Stake 0.00 XUNICPROXY
+Unstake 0.00 XUNICPROXY
+Claim 0.00 XUNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - FAUCETPROXY Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 FAUCETPROXY ($0.00)
+Stake 0.00 FAUCETPROXY
+Unstake 0.00 FAUCETPROXY
+Claim 0.00 XUNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - [uPMON]-[WETH] Unic Swap LP [+] [-] [<=>] Price: $2.25 TVL: $281,922.61
+uPMON Price: $0.000504
+WETH Price: $2,483.63
+Staked: 125471.8311 UPT ($281,750.06)
+Stake 0.00 [uPMON]-[WETH] Unic Swap LP
+Unstake 0.00 [uPMON]-[WETH] Unic Swap LP
+Claim 0.00 XUNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - [WETH]-[uGMC] Unic Swap LP [+] [-] [<=>] Price: $42.73 TVL: $789,859.92
+WETH Price: $2,483.63
+uGMC Price: $0.18
+Staked: 15009.9360 UPT ($641,405.04)
+Stake 0.00 [WETH]-[uGMC] Unic Swap LP
+Unstake 0.00 [WETH]-[uGMC] Unic Swap LP
+Claim 0.00 XUNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - [UNIC]-[uJENNY] Unic Swap LP [+] [-] [<=>] Price: $14.96 TVL: $3,754.73
+UNIC Price: $73.26
+uJENNY Price: $0.76
+Staked: 216.0642 UPT ($3,233.29)
+Stake 0.00 [UNIC]-[uJENNY] Unic Swap LP
+Unstake 0.00 [UNIC]-[uJENNY] Unic Swap LP
+Claim 0.00 XUNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - [uUNICLY]-[UNIC] Unic Swap LP [+] [-] [<=>] Price: $4.23 TVL: $11,397.54
+uUNICLY Price: $0.06
+UNIC Price: $73.26
+Staked: 0.0000 UPT ($0.00)
+Stake 0.00 [uUNICLY]-[UNIC] Unic Swap LP
+Unstake 0.00 [uUNICLY]-[UNIC] Unic Swap LP
+Claim 0.00 XUNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - [uCM]-[UNIC] Unic Swap LP [+] [-] [<=>] Price: $7.25 TVL: $202,319.15
+uCM Price: $0.18
+UNIC Price: $73.26
+Staked: 27908.9618 UPT ($202,318.18)
+Stake 0.00 [uCM]-[UNIC] Unic Swap LP
+Unstake 0.00 [uCM]-[UNIC] Unic Swap LP
+Claim 0.00 XUNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+29 - [uAXIE]-[UNIC] Unic Swap LP [+] [-] [<=>] Price: $8.08 TVL: $102,100.23
+uAXIE Price: $0.22
+UNIC Price: $73.26
+Staked: 12635.5998 UPT ($102,086.62)
+Stake 0.00 [uAXIE]-[UNIC] Unic Swap LP
+Unstake 0.00 [uAXIE]-[UNIC] Unic Swap LP
+Claim 0.00 XUNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+30 - [uMOON]-[UNIC] Unic Swap LP [+] [-] [<=>] Price: $3.06 TVL: $32,128.63
+uMOON Price: $0.03
+UNIC Price: $73.26
+Staked: 10503.3328 UPT ($32,119.69)
+Stake 0.00 [uMOON]-[UNIC] Unic Swap LP
+Unstake 0.00 [uMOON]-[UNIC] Unic Swap LP
+Claim 0.00 XUNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+31 - [uDOKI]-[UNIC] Unic Swap LP [+] [-] [<=>] Price: $0.23 TVL: $48,436.47
+uDOKI Price: $0.000178
+UNIC Price: $73.26
+Staked: 14520.2620 UPT ($3,332.16)
+Stake 0.00 [uDOKI]-[UNIC] Unic Swap LP
+Unstake 0.00 [uDOKI]-[UNIC] Unic Swap LP
+Claim 0.00 XUNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+32 - XUNICPROXY2 Price: $0.00 Market Cap: $0.00 
+Staked: 0.0000 XUNICPROXY2 ($0.00)
+Stake 0.00 XUNICPROXY2
+Unstake 0.00 XUNICPROXY2
+Claim 0.00 XUNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+33 - [uAAH]-[WETH] Unic Swap LP [+] [-] [<=>] Price: $0.01 TVL: $1,724.51
+uAAH Price: $0.0000000102
+WETH Price: $2,483.63
+Staked: 168549.9767 UPT ($1,704.03)
+Stake 0.00 [uAAH]-[WETH] Unic Swap LP
+Unstake 0.00 [uAAH]-[WETH] Unic Swap LP
+Claim 0.00 XUNIC ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $9,878,186.84

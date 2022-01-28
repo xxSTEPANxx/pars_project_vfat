@@ -1,0 +1,34 @@
+*************** 👨‍🌾 UNOFFICIAL WILD.CREDIT FARMING CALCULATOR 👨‍🌾 *******************
+INFO  : https://wild.credit
+************************************************************************************
+
+Thu Jan 27 2022 19:58:38 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 1 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [WILD]-[WETH] Uni LP [+] [-] [<=>] Price: $65.39 TVL: $27,382.29
+WILD Price: $0.33
+WETH Price: $2,483.63
+Staked: 118.3097 UNI-V2 ($7,736.30)
+WILD Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WILD]-[WETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WILD]-[WETH] Uni LP
+Unstake 0.00 [WILD]-[WETH] Uni LP
+Claim 0.00 WILD ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $7,736.30
+xWild Staking Contract
+xWILD Price: $0.58 Total Supply: 641643.0374 TVL: $376,747.78
+WILD Price: $0.33
+There is a total of 1134860.72 WILD staked in xWILD
+Your balance is 0.00 xWILD (0.00 WILD), $0.00, 0.00% of the pool
+Stake 0.00 WILD
+Unstake 0.00 xWILD

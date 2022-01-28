@@ -1,0 +1,187 @@
+***************************** FANTOM NETWORK *************************************
+    
+***************  👨‍🌾  UNOFFICIAL BLACKGOAT FARMING CALCULATOR  👨‍🌾  *********************
+
+
+     Website: https://app.fanblackgoat.finance
+
+     Docs: https://docs.avaterra.finance
+
+
+***********************************************************************************
+
+Fri Jan 28 2022 00:57:34 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 15 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - GOAT Price: $0.00 Market Cap: $0.00 
+Staked: 142709.1368 GOAT ($0.00)
+GOAT Per Week: 4480.00 ($33.24)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 GOAT ($0.00), NaN% of the pool.
+Stake 0.00 GOAT
+Unstake 0.00 GOAT
+Claim 0.00 GOAT ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [USDC]-[GOAT] SPOOKY LP [+] [-] [<=>] Price: $178,996.87 TVL: $1,390.86
+USDC Price: $1.00
+GOAT Price: $0.007420
+Staked: 0.0074 spLP ($1,323.45)
+GOAT Per Week: 17920.00 ($132.97)
+APR: Day 1.44% Week 10.05% Year 522.46%
+You are staking 0.00 [USDC]-[GOAT] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[GOAT] SPOOKY LP
+Unstake 0.00 [USDC]-[GOAT] SPOOKY LP
+Claim 0.00 GOAT ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WFTM]-[GOAT] SPOOKY LP [+] [-] [<=>] Price: $0.25 TVL: $1,092.44
+WFTM Price: $2.04
+GOAT Price: $0.007420
+Staked: 4194.0347 spLP ($1,063.90)
+GOAT Per Week: 17920.00 ($132.97)
+APR: Day 1.79% Week 12.50% Year 649.92%
+You are staking 0.00 [WFTM]-[GOAT] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[GOAT] SPOOKY LP
+Unstake 0.00 [WFTM]-[GOAT] SPOOKY LP
+Claim 0.00 GOAT ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDC]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $4,373,725.10 TVL: $168,362,699.42
+USDC Price: $1.00
+WFTM Price: $2.04
+Staked: 0.0002 spLP ($659.42)
+GOAT Per Week: 2016.00 ($14.96)
+APR: Day 0.32% Week 2.27% Year 117.96%
+You are staking 0.00 [USDC]-[WFTM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WFTM] SPOOKY LP - Fee 4%
+Unstake 0.00 [USDC]-[WFTM] SPOOKY LP
+Claim 0.00 GOAT ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [WFTM]-[ETH] SPOOKY LP [+] [-] [<=>] Price: $158.14 TVL: $42,879,312.98
+WFTM Price: $2.04
+ETH Price: $2,374.23
+Staked: 3.3269 spLP ($526.11)
+GOAT Per Week: 2016.00 ($14.96)
+APR: Day 0.41% Week 2.84% Year 147.85%
+You are staking 0.00 [WFTM]-[ETH] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ETH] SPOOKY LP - Fee 4%
+Unstake 0.00 [WFTM]-[ETH] SPOOKY LP
+Claim 0.00 GOAT ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [USDC]-[fUSDT] SPOOKY LP [+] [-] [<=>] Price: $2,101,826,796,792.41 TVL: $2,004,741.97
+USDC Price: $1.00
+fUSDT Price: $1.01
+Staked: 0.0000 spLP ($14,937.75)
+GOAT Per Week: 2016.00 ($14.96)
+APR: Day 0.01% Week 0.10% Year 5.21%
+You are staking 0.00 [USDC]-[fUSDT] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[fUSDT] SPOOKY LP - Fee 4%
+Unstake 0.00 [USDC]-[fUSDT] SPOOKY LP
+Claim 0.00 GOAT ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - WFTM Price: $2.04 Market Cap: $1,472,662,903.83 
+Staked: 348.6560 WFTM ($711.26)
+GOAT Per Week: 1568.00 ($11.63)
+APR: Day 0.23% Week 1.64% Year 85.06%
+You are staking 0.00 WFTM ($0.00), 0.00% of the pool.
+Stake 0.00 WFTM - Fee 4%
+Unstake 0.00 WFTM
+Claim 0.00 GOAT ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - ETH Price: $2,374.23 Market Cap: $1,132,694,423.03 
+Staked: 3.4613 ETH ($8,218.02)
+GOAT Per Week: 1568.00 ($11.63)
+APR: Day 0.02% Week 0.14% Year 7.36%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 GOAT ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - BTC Price: $36,392.00 Market Cap: $626,190,089.76 
+Staked: 0.1920 BTC ($6,987.26)
+GOAT Per Week: 1568.00 ($11.63)
+APR: Day 0.02% Week 0.17% Year 8.66%
+You are staking 0.00 BTC ($0.00), 0.00% of the pool.
+Stake 0.00 BTC - Fee 4%
+Unstake 0.00 BTC
+Claim 0.00 GOAT ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - fUSDT Price: $1.01 Market Cap: $353,946,320.35 
+Staked: 2000.4504 fUSDT ($2,020.45)
+GOAT Per Week: 1568.00 ($11.63)
+APR: Day 0.08% Week 0.58% Year 29.94%
+You are staking 0.00 fUSDT ($0.00), 0.00% of the pool.
+Stake 0.00 fUSDT - Fee 4%
+Unstake 0.00 fUSDT
+Claim 0.00 GOAT ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - USDC Price: $1.00 Market Cap: $1,726,930,300.93 
+Staked: 17.2874 USDC ($17.29)
+GOAT Per Week: 1568.00 ($11.63)
+APR: Day 9.61% Week 67.30% Year 3499.74%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 GOAT ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - DAI Price: $1.00 Market Cap: $703,467,481.12 
+Staked: 1774.7656 DAI ($1,774.77)
+GOAT Per Week: 1568.00 ($11.63)
+APR: Day 0.09% Week 0.66% Year 34.09%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 GOAT ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - BOO Price: $25.32 Market Cap: $213,630,090.49 
+Staked: 53.3102 BOO ($1,349.81)
+GOAT Per Week: 1568.00 ($11.63)
+APR: Day 0.12% Week 0.86% Year 44.82%
+You are staking 0.00 BOO ($0.00), 0.00% of the pool.
+Stake 0.00 BOO - Fee 4%
+Unstake 0.00 BOO
+Claim 0.00 GOAT ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [USDC]-[FLUAN] SPOOKY LP [+] [-] [<=>] Price: $1,593,034.63 TVL: $1,587.97
+USDC Price: $1.00
+FLUAN Price: $0.60
+Staked: 0.0004 spLP ($715.74)
+GOAT Per Week: 1568.00 ($11.63)
+APR: Day 0.23% Week 1.63% Year 84.53%
+You are staking 0.00 [USDC]-[FLUAN] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[FLUAN] SPOOKY LP - Fee 4%
+Unstake 0.00 [USDC]-[FLUAN] SPOOKY LP
+Claim 0.00 GOAT ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [USDC]-[FTERRA] SPOOKY LP [+] [-] [<=>] Price: $914,751.07 TVL: $1,323.97
+USDC Price: $1.00
+FTERRA Price: $0.18
+Staked: 0.0004 spLP ($367.77)
+GOAT Per Week: 1568.00 ($11.63)
+APR: Day 0.45% Week 3.16% Year 164.51%
+You are staking 0.00 [USDC]-[FTERRA] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[FTERRA] SPOOKY LP - Fee 4%
+Unstake 0.00 [USDC]-[FTERRA] SPOOKY LP
+Claim 0.00 GOAT ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $40,672.99

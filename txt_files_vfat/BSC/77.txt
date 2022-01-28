@@ -1,0 +1,113 @@
+*************** 👨‍🌾 UNOFFICIAL BISCUIT.FINANCE FARMING CALCULATOR 👨‍🌾 *****************
+INFO  : https://biscuitfarm.finance
+**************************************************************************************
+
+Thu Jan 27 2022 20:28:07 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 13 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+WBNB Price: $370.65 Market Cap: $1,935,324,534.65 [%]
+Staked: 0.9584 WBNB ($355.23)
+BCU Per Week: 3665.45 ($2.54)
+APR: Day 0.10% Week 0.71% Year 37.14%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB
+Unstake 0.00 WBNB
+Claim 0.00 BCU ($0.00)
+Staking or unstaking also claims rewards.
+
+BUSD Price: $1.00 Market Cap: $4,833,841,403.79 [%]
+Staked: 866.5838 BUSD ($863.52)
+BCU Per Week: 3665.45 ($2.54)
+APR: Day 0.04% Week 0.29% Year 15.28%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD
+Unstake 0.00 BUSD
+Claim 0.00 BCU ($0.00)
+Staking or unstaking also claims rewards.
+
+USDT Price: $1.00 Market Cap: $3,871,547,286.70 [%]
+Staked: 636.9868 USDT ($635.60)
+BCU Per Week: 3665.45 ($2.54)
+APR: Day 0.06% Week 0.40% Year 20.76%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT
+Unstake 0.00 USDT
+Claim 0.00 BCU ($0.00)
+Staking or unstaking also claims rewards.
+
+BTCB Price: $36,472.00 Market Cap: $4,103,136,472.00 [%]
+Staked: 0.0038 BTCB ($138.75)
+BCU Per Week: 3665.45 ($2.54)
+APR: Day 0.26% Week 1.83% Year 95.08%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB
+Unstake 0.00 BTCB
+Claim 0.00 BCU ($0.00)
+Staking or unstaking also claims rewards.
+
+ETH Price: $2,456.12 Market Cap: $3,450,848,600.00 [%]
+Staked: 0.1635 ETH ($401.61)
+BCU Per Week: 3665.45 ($2.54)
+APR: Day 0.09% Week 0.63% Year 32.85%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH
+Unstake 0.00 ETH
+Claim 0.00 BCU ($0.00)
+Staking or unstaking also claims rewards.
+
+[WBNB]-[BCU] Cake LP [+] [-] [<=>] Price: $1.09 TVL: $607.17
+WBNB Price: $370.65
+BCU Price: $0.000692
+Staked: 497.9323 Cake-LP ($540.31)
+BCU Per Week: 73309.09 ($50.74)
+APR: Day 1.34% Week 9.39% Year 488.31%
+You are staking 0.00 [WBNB]-[BCU] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BCU] Cake LP
+Unstake 0.00 [WBNB]-[BCU] Cake LP
+Claim 0.00 BCU ($0.00)
+Staking or unstaking also claims rewards.
+
+[BCU]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.05 TVL: $600.46
+BCU Price: $0.000692
+BUSD Price: $1.00
+Staked: 7275.0723 Cake-LP ($390.27)
+BCU Per Week: 91636.36 ($63.42)
+APR: Day 2.32% Week 16.25% Year 845.04%
+You are staking 0.00 [BCU]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BCU]-[BUSD] Cake LP
+Unstake 0.00 [BCU]-[BUSD] Cake LP
+Claim 0.00 BCU ($0.00)
+Staking or unstaking also claims rewards.
+
+[Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $124.17 TVL: $3,352,932.50
+Cake Price: $7.18
+WBNB Price: $370.65
+Staked: 0.4903 Cake-LP ($60.88)
+BCU Per Week: 10996.36 ($7.61)
+APR: Day 1.79% Week 12.50% Year 650.06%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 BCU ($0.00)
+Staking or unstaking also claims rewards.
+
+[WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $65.94 TVL: $2,133,931.77
+WBNB Price: $370.65
+BUSD Price: $1.00
+Staked: 0.4633 Cake-LP ($30.55)
+BCU Per Week: 7330.91 ($5.07)
+APR: Day 2.37% Week 16.61% Year 863.54%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 BCU ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $3,416.72

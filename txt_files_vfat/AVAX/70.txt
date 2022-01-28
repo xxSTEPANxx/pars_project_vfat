@@ -1,0 +1,41 @@
+***************************** AVALANCHE ******************************************
+    
+*************** 👨‍🌾 UNOFFICIAL STABILIZE.FINANCE FARMING CALCULATOR 👨‍🌾 ***********
+INFO  : https://app.stabilize.fi
+**********************************************************************************
+
+Fri Jan 28 2022 00:28:03 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+[USDC.e]-[SUSD] JLP [+] [-] [<=>] Price: $1,973,397.70 TVL: $10,064.32
+USDC.e Price: $1.00
+SUSD Price: $0.92
+Staked: 0.0038 JLP ($7,480.76)
+SET Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [USDC.e]-[SUSD] JLP $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [USDC.e]-[SUSD] JLP
+Unstake 0.000000 [USDC.e]-[SUSD] JLP
+Claim 0.000000 SET ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[SET]-[USDC.e] JLP [+] [-] [<=>] Price: $207,851.14 TVL: $40,438.83
+SET Price: $0.01
+USDC.e Price: $1.00
+Staked: 0.0854 JLP ($17,746.85)
+SET Per Week: 143835.62 ($1,450.77)
+APR: Day 1.17% Week 8.17% Year 425.09%
+You are staking 0.000000 [SET]-[USDC.e] JLP $0.00 (0.00% of the pool).
+Explorer
+Stake 0.000000 [SET]-[USDC.e] JLP
+Unstake 0.000000 [SET]-[USDC.e] JLP
+Claim 0.000000 SET ($0.00)
+Revoke (set approval to 0)
+Exit
+
+Total staked: $25,227.62

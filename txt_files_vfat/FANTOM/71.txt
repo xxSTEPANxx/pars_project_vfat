@@ -1,0 +1,179 @@
+*************** 👨‍🌾 UNOFFICIAL DEGEN APE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://www.degenapefarm.com/
+**************************************************************************************
+
+Fri Jan 28 2022 00:48:26 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 15 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [USDC]-[DAPE] SPOOKY LP [+] [-] [<=>] Price: $239,891.66 TVL: $10.47
+USDC Price: $1.00
+DAPE Price: $0.01
+Staked: 0.0000 spLP ($10.45)
+DAPE Per Week: 85.18 ($1.21)
+APR: Day 1.66% Week 11.60% Year 603.10%
+You are staking 0.00 [USDC]-[DAPE] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAPE] SPOOKY LP
+Unstake 0.00 [USDC]-[DAPE] SPOOKY LP
+Claim 0.00 DAPE ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WFTM]-[DAPE] SPOOKY LP [+] [-] [<=>] Price: $0.38 TVL: $0.22
+WFTM Price: $2.03
+DAPE Price: $0.01
+Staked: 0.4155 spLP ($0.16)
+DAPE Per Week: 85.18 ($1.21)
+APR: Day 110.62% Week 774.35% Year 40266.24%
+You are staking 0.00 [WFTM]-[DAPE] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[DAPE] SPOOKY LP
+Unstake 0.00 [WFTM]-[DAPE] SPOOKY LP
+Claim 0.00 DAPE ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [USDC]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $4,362,900.96 TVL: $167,956,546.82
+USDC Price: $1.00
+WFTM Price: $2.03
+Staked: 0.0000 spLP ($0.00)
+DAPE Per Week: 42.59 ($0.61)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[WFTM] SPOOKY LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[WFTM] SPOOKY LP - Fee 3.5%
+Unstake 0.00 [USDC]-[WFTM] SPOOKY LP
+Claim 0.00 DAPE ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WFTM]-[ETH] SPOOKY LP [+] [-] [<=>] Price: $157.04 TVL: $42,580,854.48
+WFTM Price: $2.03
+ETH Price: $2,352.96
+Staked: 0.0000 spLP ($0.00)
+DAPE Per Week: 42.59 ($0.61)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WFTM]-[ETH] SPOOKY LP ($0.00), NaN% of the pool.
+Stake 0.00 [WFTM]-[ETH] SPOOKY LP - Fee 3.5%
+Unstake 0.00 [WFTM]-[ETH] SPOOKY LP
+Claim 0.00 DAPE ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [WFTM]-[BTC] SPOOKY LP [+] [-] [<=>] Price: $11,287,541,035.45 TVL: $21,860,549.57
+WFTM Price: $2.03
+BTC Price: $35,995.00
+Staked: 0.0000 spLP ($0.00)
+DAPE Per Week: 42.59 ($0.61)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WFTM]-[BTC] SPOOKY LP ($0.00), NaN% of the pool.
+Stake 0.00 [WFTM]-[BTC] SPOOKY LP - Fee 3.5%
+Unstake 0.00 [WFTM]-[BTC] SPOOKY LP
+Claim 0.00 DAPE ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WFTM]-[BOO] SPOOKY LP [+] [-] [<=>] Price: $14.94 TVL: $63,285,380.89
+WFTM Price: $2.03
+BOO Price: $25.16
+Staked: 0.0000 spLP ($0.00)
+DAPE Per Week: 42.59 ($0.61)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WFTM]-[BOO] SPOOKY LP ($0.00), NaN% of the pool.
+Stake 0.00 [WFTM]-[BOO] SPOOKY LP - Fee 3.5%
+Unstake 0.00 [WFTM]-[BOO] SPOOKY LP
+Claim 0.00 DAPE ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - DAPE Price: $0.01 Market Cap: $46.91 
+Staked: 77.7082 DAPE ($1.11)
+DAPE Per Week: 42.59 ($0.61)
+APR: Day 7.83% Week 54.81% Year 2850.10%
+You are staking 0.00 DAPE ($0.00), 0.00% of the pool.
+Stake 0.00 DAPE
+Unstake 0.00 DAPE
+Claim 0.00 DAPE ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - WFTM Price: $2.03 Market Cap: $1,466,258,792.51 
+Staked: 0.3075 WFTM ($0.62)
+DAPE Per Week: 25.55 ($0.36)
+APR: Day 8.32% Week 58.27% Year 3029.99%
+You are staking 0.00 WFTM ($0.00), 0.00% of the pool.
+Stake 0.00 WFTM - Fee 3.5%
+Unstake 0.00 WFTM
+Claim 0.00 DAPE ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - BOO Price: $25.16 Market Cap: $212,278,137.34 
+Staked: 0.0371 BOO ($0.93)
+DAPE Per Week: 25.55 ($0.36)
+APR: Day 5.57% Week 38.99% Year 2027.41%
+You are staking 0.00 BOO ($0.00), 0.00% of the pool.
+Stake 0.00 BOO - Fee 3.5%
+Unstake 0.00 BOO
+Claim 0.00 DAPE ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - USDC Price: $1.00 Market Cap: $1,729,178,327.80 
+Staked: 0.9624 USDC ($0.96)
+DAPE Per Week: 25.55 ($0.36)
+APR: Day 5.40% Week 37.79% Year 1965.18%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 3.5%
+Unstake 0.00 USDC
+Claim 0.00 DAPE ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - ETH Price: $2,352.96 Market Cap: $1,122,592,759.09 
+Staked: 0.0000 ETH ($0.00)
+DAPE Per Week: 25.55 ($0.36)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 ETH ($0.00), NaN% of the pool.
+Stake 0.00 ETH - Fee 3.5%
+Unstake 0.00 ETH
+Claim 0.00 DAPE ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - BTC Price: $35,995.00 Market Cap: $619,358,987.71 
+Staked: 0.0000 BTC ($0.00)
+DAPE Per Week: 25.55 ($0.36)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 BTC ($0.00), NaN% of the pool.
+Stake 0.00 BTC - Fee 3.5%
+Unstake 0.00 BTC
+Claim 0.00 DAPE ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - TOMB Price: $2.01 Market Cap: $360,561,425.70 
+Staked: 0.0000 TOMB ($0.00)
+DAPE Per Week: 25.55 ($0.36)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 TOMB ($0.00), NaN% of the pool.
+Stake 0.00 TOMB - Fee 3.5%
+Unstake 0.00 TOMB
+Claim 0.00 DAPE ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - SCREAM Price: $74.36 Market Cap: $148,720,000.00 
+Staked: 0.0072 SCREAM ($0.54)
+DAPE Per Week: 25.55 ($0.36)
+APR: Day 9.70% Week 67.90% Year 3530.72%
+You are staking 0.00 SCREAM ($0.00), 0.00% of the pool.
+Stake 0.00 SCREAM - Fee 3.5%
+Unstake 0.00 SCREAM
+Claim 0.00 DAPE ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [USDC]-[ETH] SPOOKY LP [+] [-] [<=>] Price: $1,290,680,559.00 TVL: $985.33
+USDC Price: $1.00
+ETH Price: $2,352.96
+Staked: 0.0000 spLP ($0.00)
+DAPE Per Week: 42.59 ($0.61)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[ETH] SPOOKY LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[ETH] SPOOKY LP - Fee 3.5%
+Unstake 0.00 [USDC]-[ETH] SPOOKY LP
+Claim 0.00 DAPE ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $14.77

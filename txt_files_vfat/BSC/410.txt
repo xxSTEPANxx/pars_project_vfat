@@ -1,0 +1,49 @@
+*************** 👨‍🌾 UNOFFICIAL MIXSWAP.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://app.mixswap.finance
+******************************************************************************
+
+Thu Jan 27 2022 21:25:30 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 17 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [MXS]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.22 TVL: $4,359.93
+MXS Price: $0.01
+BUSD Price: $1.00
+Staked: 3677.2515 Cake-LP ($797.04)
+MXS Per Week: 7330.91 ($83.67)
+APR: Day 1.50% Week 10.50% Year 545.88%
+You are staking 0.00 [MXS]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MXS]-[BUSD] Cake LP
+Unstake 0.00 [MXS]-[BUSD] Cake LP
+Claim 0.00 MXS ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [MXS]-[WBNB] Cake LP [+] [-] [<=>] Price: $4.15 TVL: $4,371.00
+MXS Price: $0.01
+WBNB Price: $367.92
+Staked: 83.9522 Cake-LP ($348.58)
+MXS Per Week: 7330.91 ($83.67)
+APR: Day 3.43% Week 24.00% Year 1248.16%
+You are staking 0.00 [MXS]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MXS]-[WBNB] Cake LP
+Unstake 0.00 [MXS]-[WBNB] Cake LP
+Claim 0.00 MXS ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - MXS Price: $0.01 Market Cap: $8,673.08 [%]
+Staked: 239684.8504 MXS ($2,735.63)
+MXS Per Week: 5498.18 ($62.75)
+APR: Day 0.33% Week 2.29% Year 119.28%
+You are staking 0.00 MXS ($0.00), 0.00% of the pool.
+Stake 0.00 MXS
+Unstake 0.00 MXS
+Claim 0.00 MXS ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $3,881.25

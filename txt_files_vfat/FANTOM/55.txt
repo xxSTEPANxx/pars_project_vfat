@@ -1,0 +1,318 @@
+*************** 👨‍🌾 UNOFFICIAL ELEVEN.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://eleven.finance
+***********************************************************************************
+
+Fri Jan 28 2022 00:44:13 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 40 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+1 - 11ZOOWFTM (Wrapped [ZOO]-[WFTM] SPIRIT LP) Price: $457,170,038.40 TVL: $23.69
+Staked: 0.0000 11ZOOWFTM ($19.99)
+ELE Per Week: 9.68 ($0.69)
+APR: Day 0.49% Week 3.45% Year 179.33%
+You are staking 0.00 11ZOOWFTM ($0.00), 0.00% of the pool.
+Stake 0.00 11ZOOWFTM
+Unstake 0.00 11ZOOWFTM
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - 11WFTMICE (Wrapped [WFTM]-[ICE] SPIRIT LP) Price: $8.26 TVL: $12.90
+Staked: 1.1849 11WFTMICE ($9.79)
+ELE Per Week: 9.68 ($0.69)
+APR: Day 1.01% Week 7.04% Year 366.29%
+You are staking 0.00 11WFTMICE ($0.00), 0.00% of the pool.
+Stake 0.00 11WFTMICE
+Unstake 0.00 11WFTMICE
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - 11WFTMCREAM (Wrapped [WFTM]-[CREAM] SPIRIT LP) Price: $255.06 TVL: $7.37
+Staked: 0.0000 11WFTMCREAM ($0.00)
+ELE Per Week: 9.68 ($0.69)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 11WFTMCREAM ($0.00), NaN% of the pool.
+Stake 0.00 11WFTMCREAM
+Unstake 0.00 11WFTMCREAM
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - 11CRVWFTM (Wrapped [CRV]-[WFTM] SPIRIT LP) Price: $6.05 TVL: $10,521.03
+Staked: 1348.1472 11CRVWFTM ($8,151.63)
+ELE Per Week: 9.68 ($0.69)
+APR: Day 0.00% Week 0.01% Year 0.44%
+You are staking 0.00 11CRVWFTM ($0.00), 0.00% of the pool.
+Stake 0.00 11CRVWFTM
+Unstake 0.00 11CRVWFTM
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - 11WFTMYFI (Wrapped [WFTM]-[YFI] SPIRIT LP) Price: $347,927.09 TVL: $15,852.65
+Staked: 0.0001 11WFTMYFI ($21.91)
+ELE Per Week: 9.68 ($0.69)
+APR: Day 0.45% Week 3.15% Year 163.61%
+You are staking 0.00 11WFTMYFI ($0.00), 0.00% of the pool.
+Stake 0.00 11WFTMYFI
+Unstake 0.00 11WFTMYFI
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - 11FXSFRAX (Wrapped [FXS]-[FRAX] SPIRIT LP) Price: $NaN.N TVL: $NaN.N
+Staked: 0.0000 11FXSFRAX ($0.00)
+ELE Per Week: 9.68 ($0.69)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 11FXSFRAX ($0.00), NaN% of the pool.
+Stake 0.00 11FXSFRAX
+Unstake 0.00 11FXSFRAX
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - 11WFTMANY (Wrapped [WFTM]-[ANY] SPIRIT LP) Price: $28.77 TVL: $51,866.23
+Staked: 863.9888 11WFTMANY ($24,860.92)
+ELE Per Week: 9.68 ($0.69)
+APR: Day 0.00% Week 0.00% Year 0.14%
+You are staking 0.00 11WFTMANY ($0.00), 0.00% of the pool.
+Stake 0.00 11WFTMANY
+Unstake 0.00 11WFTMANY
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - 11SPIRITBNB (Wrapped [SPIRIT]-[BNB] SPIRIT LP) Price: $NaN.N TVL: $NaN.N
+Staked: 0.0000 11SPIRITBNB ($0.00)
+ELE Per Week: 9.68 ($0.69)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 11SPIRITBNB ($0.00), NaN% of the pool.
+Stake 0.00 11SPIRITBNB
+Unstake 0.00 11SPIRITBNB
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - 11YFIWOOFY (Wrapped [YFI]-[WOOFY] SPIRIT LP) Price: $NaN.N TVL: $NaN.N
+Staked: 0.0000 11YFIWOOFY ($0.00)
+ELE Per Week: 9.68 ($0.69)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 11YFIWOOFY ($0.00), NaN% of the pool.
+Stake 0.00 11YFIWOOFY
+Unstake 0.00 11YFIWOOFY
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - 11USDCGTON (Wrapped [USDC]-[GTON] SPIRIT LP) Price: $NaN.N TVL: $NaN.N
+Staked: 0.0000 11USDCGTON ($0.00)
+ELE Per Week: 9.68 ($0.69)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 11USDCGTON ($0.00), NaN% of the pool.
+Stake 0.00 11USDCGTON
+Unstake 0.00 11USDCGTON
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - 11DISWFTM (Wrapped [DIS]-[WFTM] SPIRIT LP) Price: $77.93 TVL: $0.27
+Staked: 0.0000 11DISWFTM ($0.00)
+ELE Per Week: 9.68 ($0.69)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 11DISWFTM ($0.00), NaN% of the pool.
+Stake 0.00 11DISWFTM
+Unstake 0.00 11DISWFTM
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - 11LQDRSPIRIT (Wrapped [LQDR]-[SPIRIT] SPIRIT LP) Price: $NaN.N TVL: $NaN.N
+Staked: 0.0000 11LQDRSPIRIT ($0.00)
+ELE Per Week: 9.68 ($0.69)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 11LQDRSPIRIT ($0.00), NaN% of the pool.
+Stake 0.00 11LQDRSPIRIT
+Unstake 0.00 11LQDRSPIRIT
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - 11SPIRITxSTEAK (Wrapped [SPIRIT]-[xSTEAK] SPIRIT LP) Price: $0.09 TVL: $1.45
+Staked: 12.6214 11SPIRITxSTEAK ($1.10)
+ELE Per Week: 9.68 ($0.69)
+APR: Day 8.97% Week 62.78% Year 3264.38%
+You are staking 0.00 11SPIRITxSTEAK ($0.00), 0.00% of the pool.
+Stake 0.00 11SPIRITxSTEAK
+Unstake 0.00 11SPIRITxSTEAK
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - 11UNIDXSPIRIT (Wrapped [UNIDX]-[SPIRIT] SPIRIT LP) Price: $NaN.N TVL: $NaN.N
+Staked: 0.0000 11UNIDXSPIRIT ($0.00)
+ELE Per Week: 9.68 ($0.69)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 11UNIDXSPIRIT ($0.00), NaN% of the pool.
+Stake 0.00 11UNIDXSPIRIT
+Unstake 0.00 11UNIDXSPIRIT
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - 11WFTMJUST (Wrapped [WFTM]-[JUST] SPIRIT LP) Price: $1,390.97 TVL: $75.22
+Staked: 0.0479 11WFTMJUST ($66.65)
+ELE Per Week: 9.68 ($0.69)
+APR: Day 0.15% Week 1.03% Year 53.78%
+You are staking 0.00 11WFTMJUST ($0.00), 0.00% of the pool.
+Stake 0.00 11WFTMJUST
+Unstake 0.00 11WFTMJUST
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - 11WFTMRAI (Wrapped [WFTM]-[RAI] SPIRIT LP) Price: $5.58 TVL: $9.71
+Staked: 1.4913 11WFTMRAI ($8.33)
+ELE Per Week: 9.68 ($0.69)
+APR: Day 1.18% Week 8.28% Year 430.52%
+You are staking 0.00 11WFTMRAI ($0.00), 0.00% of the pool.
+Stake 0.00 11WFTMRAI
+Unstake 0.00 11WFTMRAI
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - 11SPIRITSTART (Wrapped [SPIRIT]-[START] SPIRIT LP) Price: $1.58 TVL: $175.81
+Staked: 33.5363 11SPIRITSTART ($52.98)
+ELE Per Week: 9.68 ($0.69)
+APR: Day 0.19% Week 1.30% Year 67.65%
+You are staking 0.00 11SPIRITSTART ($0.00), 0.00% of the pool.
+Stake 0.00 11SPIRITSTART
+Unstake 0.00 11SPIRITSTART
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - 11GINSPIRITSPIRIT (Wrapped [GINSPIRIT]-[SPIRIT] SPIRIT LP) Price: $0.33 TVL: $66.99
+Staked: 146.3641 11GINSPIRITSPIRIT ($47.96)
+ELE Per Week: 9.68 ($0.69)
+APR: Day 0.21% Week 1.44% Year 74.74%
+You are staking 0.00 11GINSPIRITSPIRIT ($0.00), 0.00% of the pool.
+Stake 0.00 11GINSPIRITSPIRIT
+Unstake 0.00 11GINSPIRITSPIRIT
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - 11SPIRITDeath (Wrapped [SPIRIT]-[Death] SPIRIT LP) Price: $242.49 TVL: $1.44
+Staked: 0.0000 11SPIRITDeath ($0.00)
+ELE Per Week: 9.68 ($0.69)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 11SPIRITDeath ($0.00), NaN% of the pool.
+Stake 0.00 11SPIRITDeath
+Unstake 0.00 11SPIRITDeath
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+29 - 11fUSDTSPELL (Wrapped [fUSDT]-[SPELL] SPIRIT LP) Price: $NaN.N TVL: $NaN.N
+Staked: 0.0000 11fUSDTSPELL ($0.00)
+ELE Per Week: 9.68 ($0.69)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 11fUSDTSPELL ($0.00), NaN% of the pool.
+Stake 0.00 11fUSDTSPELL
+Unstake 0.00 11fUSDTSPELL
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+30 - 11WFTMELE (Wrapped [WFTM]-[ELE] SPIRIT LP) Price: $1.03 TVL: $4,885.06
+Staked: 3543.2578 11WFTMELE ($3,634.13)
+ELE Per Week: 387.18 ($27.57)
+APR: Day 0.11% Week 0.76% Year 39.45%
+You are staking 0.00 11WFTMELE ($0.00), 0.00% of the pool.
+Stake 0.00 11WFTMELE
+Unstake 0.00 11WFTMELE
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+33 - eleUSDC Price: $0.00 Market Cap: $0.00 
+Staked: 179988.4149 eleUSDC ($0.00)
+ELE Per Week: 1219.63 ($86.85)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 eleUSDC ($0.00), NaN% of the pool.
+Stake 0.00 eleUSDC
+Unstake 0.00 eleUSDC
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+34 - eleWBTC Price: $0.00 Market Cap: $0.00 
+Staked: 11.4404 eleWBTC ($0.00)
+ELE Per Week: 203.27 ($14.48)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 eleWBTC ($0.00), NaN% of the pool.
+Stake 0.00 eleWBTC
+Unstake 0.00 eleWBTC
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+35 - eleWETH Price: $0.00 Market Cap: $0.00 
+Staked: 86.4931 eleWETH ($0.00)
+ELE Per Week: 203.27 ($14.48)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 eleWETH ($0.00), NaN% of the pool.
+Stake 0.00 eleWETH
+Unstake 0.00 eleWETH
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+36 - eleWFTM Price: $0.00 Market Cap: $0.00 
+Staked: 40588.0399 eleWFTM ($0.00)
+ELE Per Week: 406.54 ($28.95)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 eleWFTM ($0.00), NaN% of the pool.
+Stake 0.00 eleWFTM
+Unstake 0.00 eleWFTM
+Claim 0.00 ELE ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $36,875.36
+
+11WFTMELE (Wrapped [WFTM]-[ELE] SPIRIT LP) Price: $1.03 TVL: $4,885.06
+You are staking 0.0000 11WFTMELE (Wrapped [WFTM]-[ELE] SPIRIT LP) ($0.00), 0.00% of the pool.
+
+11IS3USD (Wrapped IS3USD) Price: $0.00 TVL: $0.00
+You are staking 0.0000 11IS3USD (Wrapped IS3USD) ($0.00), NaN% of the pool.
+
+11USDCWFTM (Wrapped [USDC]-[WFTM] SPIRIT LP) Price: $4,958,929.44 TVL: $244,547.64
+You are staking 0.0000 11USDCWFTM (Wrapped [USDC]-[WFTM] SPIRIT LP) ($0.00), 0.00% of the pool.
+
+11WFTMBNB (Wrapped [WFTM]-[BNB] SPOOKY LP) Price: $113.55 TVL: $6,792.95
+You are staking 0.0000 11WFTMBNB (Wrapped [WFTM]-[BNB] SPOOKY LP) ($0.00), 0.00% of the pool.
+
+11WFTMBTC (Wrapped [WFTM]-[BTC] SPOOKY LP) Price: $19,803,432,146.50 TVL: $8,961.61
+You are staking 0.0000 11WFTMBTC (Wrapped [WFTM]-[BTC] SPOOKY LP) ($0.00), 0.00% of the pool.
+
+11WFTMETH (Wrapped [WFTM]-[ETH] SPOOKY LP) Price: $232.25 TVL: $1,134.51
+You are staking 0.0000 11WFTMETH (Wrapped [WFTM]-[ETH] SPOOKY LP) ($0.00), 0.00% of the pool.
+
+11ZOOWFTM (Wrapped [ZOO]-[WFTM] SPIRIT LP) Price: $457,170,038.40 TVL: $23.69
+You are staking 0.0000 11ZOOWFTM (Wrapped [ZOO]-[WFTM] SPIRIT LP) ($0.00), 0.00% of the pool.
+
+11WFTMICE (Wrapped [WFTM]-[ICE] SPIRIT LP) Price: $8.26 TVL: $12.90
+You are staking 0.0000 11WFTMICE (Wrapped [WFTM]-[ICE] SPIRIT LP) ($0.00), 0.00% of the pool.
+
+11WFTMSUSHI (Wrapped [WFTM]-[SUSHI] SPIRIT LP) Price: $9.07 TVL: $7,270.51
+You are staking 0.0000 11WFTMSUSHI (Wrapped [WFTM]-[SUSHI] SPIRIT LP) ($0.00), 0.00% of the pool.
+
+11CRVWFTM (Wrapped [CRV]-[WFTM] SPIRIT LP) Price: $6.05 TVL: $10,521.03
+You are staking 0.0000 11CRVWFTM (Wrapped [CRV]-[WFTM] SPIRIT LP) ($0.00), 0.00% of the pool.
+
+11WFTMLINK (Wrapped [WFTM]-[LINK] SPIRIT LP) Price: $1,386.80 TVL: $814.32
+You are staking 0.0000 11WFTMLINK (Wrapped [WFTM]-[LINK] SPIRIT LP) ($0.00), 0.00% of the pool.
+
+11WFTMYFI (Wrapped [WFTM]-[YFI] SPIRIT LP) Price: $347,927.09 TVL: $15,852.65
+You are staking 0.0000 11WFTMYFI (Wrapped [WFTM]-[YFI] SPIRIT LP) ($0.00), 0.00% of the pool.
+
+11fUSDTWFTM (Wrapped [fUSDT]-[WFTM] SPIRIT LP) Price: $4,707,087.03 TVL: $113,923.26
+You are staking 0.0000 11fUSDTWFTM (Wrapped [fUSDT]-[WFTM] SPIRIT LP) ($0.00), 0.00% of the pool.
+
+11WFTMANY (Wrapped [WFTM]-[ANY] SPIRIT LP) Price: $28.77 TVL: $51,866.23
+You are staking 0.0000 11WFTMANY (Wrapped [WFTM]-[ANY] SPIRIT LP) ($0.00), 0.00% of the pool.
+
+11WFTMMIM (Wrapped [WFTM]-[MIM] SPIRIT LP) Price: $4.20 TVL: $2,913.07
+You are staking 0.0000 11WFTMMIM (Wrapped [WFTM]-[MIM] SPIRIT LP) ($0.00), 0.00% of the pool.
+
+11WFTMJUST (Wrapped [WFTM]-[JUST] SPIRIT LP) Price: $1,390.97 TVL: $75.22
+You are staking 0.0000 11WFTMJUST (Wrapped [WFTM]-[JUST] SPIRIT LP) ($0.00), 0.00% of the pool.
+
+11GINSPIRITSPIRIT (Wrapped [GINSPIRIT]-[SPIRIT] SPIRIT LP) Price: $0.33 TVL: $66.99
+You are staking 0.0000 11GINSPIRITSPIRIT (Wrapped [GINSPIRIT]-[SPIRIT] SPIRIT LP) ($0.00), 0.00% of the pool.
+
+Total Value Locked: $469,661.64

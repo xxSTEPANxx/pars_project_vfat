@@ -1,0 +1,193 @@
+*************** 👨‍🌾 UNOFFICIAL OPERASWAP.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://www.operaswap.finance
+**************************************************************************************
+
+Fri Jan 28 2022 00:36:24 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 15 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - OPERA Price: $0.0000452175 Market Cap: $346.11 
+Staked: 509005.5889 OPERA ($23.02)
+OPERA Per Week: 39789.47 ($1.80)
+APR: Day 1.12% Week 7.82% Year 406.49%
+You are staking 0.00 OPERA ($0.00), 0.00% of the pool.
+Stake 0.00 OPERA
+Unstake 0.00 OPERA
+Claim 0.00 OPERA ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WFTM]-[OPERA] Opera Swap LP [+] [-] [<=>] Price: $0.02 TVL: $281.99
+WFTM Price: $2.02
+OPERA Price: $0.0000452175
+Staked: 8423.3683 OperaSwap-LP ($161.07)
+OPERA Per Week: 159157.89 ($7.20)
+APR: Day 0.64% Week 4.47% Year 232.34%
+You are staking 0.00 [WFTM]-[OPERA] Opera Swap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[OPERA] Opera Swap LP
+Unstake 0.00 [WFTM]-[OPERA] Opera Swap LP
+Claim 0.00 OPERA ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WFTM]-[FUSD] Opera Swap LP [+] [-] [<=>] Price: $2.15 TVL: $379.12
+WFTM Price: $2.02
+FUSD Price: $0.55
+Staked: 104.4791 OperaSwap-LP ($224.19)
+OPERA Per Week: 7957.89 ($0.36)
+APR: Day 0.02% Week 0.16% Year 8.35%
+You are staking 0.00 [WFTM]-[FUSD] Opera Swap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[FUSD] Opera Swap LP - Fee 4%
+Unstake 0.00 [WFTM]-[FUSD] Opera Swap LP
+Claim 0.00 OPERA ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WFTM]-[BTC] Opera Swap LP [+] [-] [<=>] Price: $54,156,927.90 TVL: $1,043.74
+WFTM Price: $2.02
+BTC Price: $35,807.00
+Staked: 0.0000 OperaSwap-LP ($1,024.51)
+OPERA Per Week: 13263.16 ($0.60)
+APR: Day 0.01% Week 0.06% Year 3.04%
+You are staking 0.00 [WFTM]-[BTC] Opera Swap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BTC] Opera Swap LP - Fee 4%
+Unstake 0.00 [WFTM]-[BTC] Opera Swap LP
+Claim 0.00 OPERA ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [WFTM]-[ETH] Opera Swap LP [+] [-] [<=>] Price: $138.17 TVL: $860.17
+WFTM Price: $2.02
+ETH Price: $2,344.08
+Staked: 5.1149 OperaSwap-LP ($706.72)
+OPERA Per Week: 13263.16 ($0.60)
+APR: Day 0.01% Week 0.08% Year 4.41%
+You are staking 0.00 [WFTM]-[ETH] Opera Swap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ETH] Opera Swap LP - Fee 4%
+Unstake 0.00 [WFTM]-[ETH] Opera Swap LP
+Claim 0.00 OPERA ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [USDC]-[WFTM] Opera Swap LP [+] [-] [<=>] Price: $2,909,201.32 TVL: $803.01
+USDC Price: $1.00
+WFTM Price: $2.02
+Staked: 0.0002 OperaSwap-LP ($710.13)
+OPERA Per Week: 7957.89 ($0.36)
+APR: Day 0.01% Week 0.05% Year 2.63%
+You are staking 0.00 [USDC]-[WFTM] Opera Swap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WFTM] Opera Swap LP - Fee 4%
+Unstake 0.00 [USDC]-[WFTM] Opera Swap LP
+Claim 0.00 OPERA ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [WFTM]-[BNB] Opera Swap LP [+] [-] [<=>] Price: $54.74 TVL: $768.55
+WFTM Price: $2.02
+BNB Price: $363.12
+Staked: 13.8111 OperaSwap-LP ($756.01)
+OPERA Per Week: 7957.89 ($0.36)
+APR: Day 0.01% Week 0.05% Year 2.48%
+You are staking 0.00 [WFTM]-[BNB] Opera Swap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BNB] Opera Swap LP - Fee 4%
+Unstake 0.00 [WFTM]-[BNB] Opera Swap LP
+Claim 0.00 OPERA ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [WFTM]-[LINK] Opera Swap LP [+] [-] [<=>] Price: $10.98 TVL: $635.45
+WFTM Price: $2.02
+LINK Price: $14.66
+Staked: 54.4160 OperaSwap-LP ($597.33)
+OPERA Per Week: 5305.26 ($0.24)
+APR: Day 0.01% Week 0.04% Year 2.09%
+You are staking 0.00 [WFTM]-[LINK] Opera Swap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[LINK] Opera Swap LP - Fee 4%
+Unstake 0.00 [WFTM]-[LINK] Opera Swap LP
+Claim 0.00 OPERA ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [WFTM]-[SUSHI] Opera Swap LP [+] [-] [<=>] Price: $5.67 TVL: $715.93
+WFTM Price: $2.02
+SUSHI Price: $3.88
+Staked: 82.7591 OperaSwap-LP ($469.03)
+OPERA Per Week: 5305.26 ($0.24)
+APR: Day 0.01% Week 0.05% Year 2.66%
+You are staking 0.00 [WFTM]-[SUSHI] Opera Swap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[SUSHI] Opera Swap LP - Fee 4%
+Unstake 0.00 [WFTM]-[SUSHI] Opera Swap LP
+Claim 0.00 OPERA ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [WFTM]-[YFI] Opera Swap LP [+] [-] [<=>] Price: $438.54 TVL: $549.43
+WFTM Price: $2.02
+YFI Price: $23,293.00
+Staked: 1.2315 OperaSwap-LP ($540.06)
+OPERA Per Week: 5305.26 ($0.24)
+APR: Day 0.01% Week 0.04% Year 2.31%
+You are staking 0.00 [WFTM]-[YFI] Opera Swap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[YFI] Opera Swap LP - Fee 4%
+Unstake 0.00 [WFTM]-[YFI] Opera Swap LP
+Claim 0.00 OPERA ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [WFTM]-[ANY] Opera Swap LP [+] [-] [<=>] Price: $13.02 TVL: $19,798.53
+WFTM Price: $2.02
+ANY Price: $19.75
+Staked: 1517.8558 OperaSwap-LP ($19,756.09)
+OPERA Per Week: 5305.26 ($0.24)
+APR: Day 0.00% Week 0.00% Year 0.06%
+You are staking 0.00 [WFTM]-[ANY] Opera Swap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ANY] Opera Swap LP - Fee 4%
+Unstake 0.00 [WFTM]-[ANY] Opera Swap LP
+Claim 0.00 OPERA ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [CRV]-[WFTM] Opera Swap LP [+] [-] [<=>] Price: $4.76 TVL: $785.01
+CRV Price: $2.73
+WFTM Price: $2.02
+Staked: 162.1633 OperaSwap-LP ($771.56)
+OPERA Per Week: 7957.89 ($0.36)
+APR: Day 0.01% Week 0.05% Year 2.43%
+You are staking 0.00 [CRV]-[WFTM] Opera Swap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CRV]-[WFTM] Opera Swap LP - Fee 4%
+Unstake 0.00 [CRV]-[WFTM] Opera Swap LP
+Claim 0.00 OPERA ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [WFTM]-[DAI] Opera Swap LP [+] [-] [<=>] Price: $2.93 TVL: $3,764.69
+WFTM Price: $2.02
+DAI Price: $1.00
+Staked: 1257.6144 OperaSwap-LP ($3,680.89)
+OPERA Per Week: 7957.89 ($0.36)
+APR: Day 0.00% Week 0.01% Year 0.51%
+You are staking 0.00 [WFTM]-[DAI] Opera Swap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[DAI] Opera Swap LP - Fee 4%
+Unstake 0.00 [WFTM]-[DAI] Opera Swap LP
+Claim 0.00 OPERA ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [WFTM]-[AAVE] Opera Swap LP [+] [-] [<=>] Price: $33.44 TVL: $476.07
+WFTM Price: $2.02
+AAVE Price: $135.47
+Staked: 13.9729 OperaSwap-LP ($467.27)
+OPERA Per Week: 7957.89 ($0.36)
+APR: Day 0.01% Week 0.08% Year 4.00%
+You are staking 0.00 [WFTM]-[AAVE] Opera Swap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[AAVE] Opera Swap LP - Fee 4%
+Unstake 0.00 [WFTM]-[AAVE] Opera Swap LP
+Claim 0.00 OPERA ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [fUSDT]-[WFTM] Opera Swap LP [+] [-] [<=>] Price: $2,881,261.53 TVL: $465.07
+fUSDT Price: $1.00
+WFTM Price: $2.02
+Staked: 0.0001 OperaSwap-LP ($376.06)
+OPERA Per Week: 7957.89 ($0.36)
+APR: Day 0.01% Week 0.10% Year 4.98%
+You are staking 0.00 [fUSDT]-[WFTM] Opera Swap LP ($0.00), 0.00% of the pool.
+Stake 0.00 [fUSDT]-[WFTM] Opera Swap LP - Fee 4%
+Unstake 0.00 [fUSDT]-[WFTM] Opera Swap LP
+Claim 0.00 OPERA ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $30,263.92

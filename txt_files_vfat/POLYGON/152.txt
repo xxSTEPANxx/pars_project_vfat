@@ -7,113 +7,17 @@ INFO  : https://www.astrobunny.finance
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Fri Dec 17 2021 10:33:24 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 22:46:30 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
-Found 10 pools.
-Showing incentivized pools only.
-Finished reading smart contracts.
-0 - [USDC]-[ABUNNY] Uni LP [+] [-] [<=>] Price: $6,432.43 TVL: $0.21
-USDC Price: $1.00
-ABUNNY Price: $0.0000087633
-Staked: 0.0000 UNI-V2 ($0.08)
-ABUNNY Per Week: 3251.61 ($0.03)
-APR: Day 5.17% Week 36.18% Year 1881.21%
-You are staking 0.00 [USDC]-[ABUNNY] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[ABUNNY] Uni LP
-Unstake 0.00 [USDC]-[ABUNNY] Uni LP
-Claim 0.00 ABUNNY ($0.00)
-Staking or unstaking also claims rewards.
-
-1 - [WMATIC]-[ABUNNY] Uni LP [+] [-] [<=>] Price: $0.01 TVL: $0.19
-WMATIC Price: $2.04
-ABUNNY Price: $0.0000087633
-Staked: 18.1875 UNI-V2 ($0.17)
-ABUNNY Per Week: 3251.61 ($0.03)
-APR: Day 2.38% Week 16.65% Year 865.82%
-You are staking 0.00 [WMATIC]-[ABUNNY] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[ABUNNY] Uni LP
-Unstake 0.00 [WMATIC]-[ABUNNY] Uni LP
-Claim 0.00 ABUNNY ($0.00)
-Staking or unstaking also claims rewards.
-
-2 - [USDC]-[WETH] Uni LP [+] [-] [<=>] Price: $184,518,801.75 TVL: $80,304,763.61
-USDC Price: $1.00
-WETH Price: $3,892.34
-Staked: 0.0000 UNI-V2 ($1,442.89)
-ABUNNY Per Week: 325.16 ($0.00)
-APR: Day 0.00% Week 0.00% Year 0.01%
-You are staking 0.00 [USDC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[WETH] Uni LP - Fee 4%
-Unstake 0.00 [USDC]-[WETH] Uni LP
-Claim 0.00 ABUNNY ($0.00)
-Staking or unstaking also claims rewards.
-
-3 - [WMATIC]-[USDC] Uni LP [+] [-] [<=>] Price: $5,722,840.49 TVL: $51,014,416.36
-WMATIC Price: $2.04
-USDC Price: $1.00
-Staked: 0.0000 UNI-V2 ($0.53)
-ABUNNY Per Week: 325.16 ($0.00)
-APR: Day 0.08% Week 0.54% Year 28.00%
-You are staking 0.00 [WMATIC]-[USDC] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[USDC] Uni LP - Fee 4%
-Unstake 0.00 [WMATIC]-[USDC] Uni LP
-Claim 0.00 ABUNNY ($0.00)
-Staking or unstaking also claims rewards.
-
-4 - ABUNNY Price: $0.0000087633 Market Cap: $0.72 [%]
-Staked: 49286.5259 ABUNNY ($0.43)
-ABUNNY Per Week: 975.48 ($0.01)
-APR: Day 0.28% Week 1.98% Year 102.92%
-You are staking 0.00 ABUNNY ($0.00), 0.00% of the pool.
-Stake 0.00 ABUNNY
-Unstake 0.00 ABUNNY
-Claim 0.00 ABUNNY ($0.00)
-Staking or unstaking also claims rewards.
-
-5 - WBTC Price: $46,989.00 Market Cap: $474,769,152.24 [%]
-Staked: 0.0014 WBTC ($63.74)
-ABUNNY Per Week: 650.32 ($0.01)
-APR: Day 0.00% Week 0.01% Year 0.46%
-You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
-Stake 0.00 WBTC - Fee 4%
-Unstake 0.00 WBTC
-Claim 0.00 ABUNNY ($0.00)
-Staking or unstaking also claims rewards.
-
-6 - [WBTC]-[WETH] Uni LP [+] [-] [<=>] Price: $1,367,399,224,114.10 TVL: $50,729,386.58
-WBTC Price: $46,989.00
-WETH Price: $3,892.34
-Staked: 0.0000 UNI-V2 ($0.00)
-ABUNNY Per Week: 650.32 ($0.01)
-APR: Day 4961.58% Week 34731.06% Year 1806015.26%
-You are staking 0.00 [WBTC]-[WETH] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WBTC]-[WETH] Uni LP - Fee 4%
-Unstake 0.00 [WBTC]-[WETH] Uni LP
-Claim 0.00 ABUNNY ($0.00)
-Staking or unstaking also claims rewards.
-
-7 - AAVE Price: $171.37 Market Cap: $46,637,459.10 [%]
-Staked: 0.0000 AAVE ($0.00)
-ABUNNY Per Week: 325.16 ($0.00)
-APR: Day 237537299588644.81% Week 1662761097120513.75% Year 86463577050266720.00%
-You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
-Stake 0.00 AAVE - Fee 4%
-Unstake 0.00 AAVE
-Claim 0.00 ABUNNY ($0.00)
-Staking or unstaking also claims rewards.
-
-8 - QUICK Price: $241.10 Market Cap: $230,380,310.98 [%]
-Staked: 0.0002 QUICK ($0.05)
-ABUNNY Per Week: 325.16 ($0.00)
-APR: Day 0.76% Week 5.35% Year 278.11%
-You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
-Stake 0.00 QUICK - Fee 4%
-Unstake 0.00 QUICK
-Claim 0.00 ABUNNY ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $1,507.89
+{
+  "code": -32603,
+  "message": "Non-200 status code: '400'",
+  "data": {
+    "error": "Unable to verify your data submission."
+  }
+}
+Oops something went wrong. Try refreshing the page.

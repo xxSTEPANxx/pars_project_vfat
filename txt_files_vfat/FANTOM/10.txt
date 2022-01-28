@@ -1,0 +1,355 @@
+*************** 👨‍🌾 UNOFFICIAL LIQUIDDRIVER.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://www.liquiddriver.finance
+*****************************************************************************************
+
+Fri Jan 28 2022 00:33:05 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 36 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [LQDR]-[WFTM] SPIRIT LP [+] [-] [<=>] Price: $21.72 TVL: $18,327,518.38
+LQDR Price: $29.24
+WFTM Price: $2.01
+Staked: 801652.4068 SPIRIT-LP ($17,409,735.56)
+LQDR Per Week: 12310.81 ($359,968.01)
+APR: Day 0.30% Week 2.07% Year 107.52%
+You are staking 0.00 [LQDR]-[WFTM] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [LQDR]-[WFTM] SPIRIT LP
+Unstake 0.00 [LQDR]-[WFTM] SPIRIT LP
+Claim 0.00 LQDR ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [fUSDT]-[WFTM] SPIRIT LP [+] [-] [<=>] Price: $3,805,090.59 TVL: $13,872,519.53
+fUSDT Price: $1.00
+WFTM Price: $2.01
+Staked: 1.8365 SPIRIT-LP ($6,988,219.44)
+LQDR Per Week: 2238.33 ($65,448.73)
+APR: Day 0.13% Week 0.94% Year 48.70%
+You are staking 0.00 [fUSDT]-[WFTM] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [fUSDT]-[WFTM] SPIRIT LP
+Unstake 0.00 [fUSDT]-[WFTM] SPIRIT LP
+Claim 0.00 LQDR ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [WFTM]-[BTC] SPIRIT LP [+] [-] [<=>] Price: $60,398,789.43 TVL: $10,147,546.85
+WFTM Price: $2.01
+BTC Price: $35,807.00
+Staked: 0.1442 SPIRIT-LP ($8,708,947.98)
+LQDR Per Week: 2238.33 ($65,448.73)
+APR: Day 0.11% Week 0.75% Year 39.08%
+You are staking 0.00 [WFTM]-[BTC] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BTC] SPIRIT LP
+Unstake 0.00 [WFTM]-[BTC] SPIRIT LP
+Claim 0.00 LQDR ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [USDC]-[WFTM] SPIRIT LP [+] [-] [<=>] Price: $4,300,936.55 TVL: $38,230,297.98
+USDC Price: $1.00
+WFTM Price: $2.01
+Staked: 3.0346 SPIRIT-LP ($13,051,715.52)
+LQDR Per Week: 2797.91 ($81,810.91)
+APR: Day 0.09% Week 0.63% Year 32.59%
+You are staking 0.00 [USDC]-[WFTM] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WFTM] SPIRIT LP
+Unstake 0.00 [USDC]-[WFTM] SPIRIT LP
+Claim 0.00 LQDR ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [WFTM]-[ETH] SPIRIT LP [+] [-] [<=>] Price: $161.25 TVL: $10,293,524.95
+WFTM Price: $2.01
+ETH Price: $2,337.92
+Staked: 52266.4597 SPIRIT-LP ($8,427,706.61)
+LQDR Per Week: 2238.33 ($65,448.73)
+APR: Day 0.11% Week 0.78% Year 40.38%
+You are staking 0.00 [WFTM]-[ETH] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ETH] SPIRIT LP
+Unstake 0.00 [WFTM]-[ETH] SPIRIT LP
+Claim 0.00 LQDR ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [WFTM]-[MIM] SPIRIT LP [+] [-] [<=>] Price: $3.45 TVL: $15,129,407.06
+WFTM Price: $2.01
+MIM Price: $1.00
+Staked: 2675825.3007 SPIRIT-LP ($9,226,552.47)
+LQDR Per Week: 2238.33 ($65,448.73)
+APR: Day 0.10% Week 0.71% Year 36.89%
+You are staking 0.00 [WFTM]-[MIM] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[MIM] SPIRIT LP
+Unstake 0.00 [WFTM]-[MIM] SPIRIT LP
+Claim 0.00 LQDR ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [WFTM]-[SUSHI] SPIRIT LP [+] [-] [<=>] Price: $6.08 TVL: $1,643,289.40
+WFTM Price: $2.01
+SUSHI Price: $3.88
+Staked: 220472.9954 SPIRIT-LP ($1,339,747.08)
+LQDR Per Week: 559.58 ($16,362.18)
+APR: Day 0.17% Week 1.22% Year 63.51%
+You are staking 0.00 [WFTM]-[SUSHI] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[SUSHI] SPIRIT LP
+Unstake 0.00 [WFTM]-[SUSHI] SPIRIT LP
+Claim 0.00 LQDR ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [WFTM]-[LINK] SPIRIT LP [+] [-] [<=>] Price: $11.80 TVL: $6,465,442.10
+WFTM Price: $2.01
+LINK Price: $14.61
+Staked: 284284.7553 SPIRIT-LP ($3,355,088.98)
+LQDR Per Week: 1398.96 ($40,905.46)
+APR: Day 0.17% Week 1.22% Year 63.40%
+You are staking 0.00 [WFTM]-[LINK] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[LINK] SPIRIT LP
+Unstake 0.00 [WFTM]-[LINK] SPIRIT LP
+Claim 0.00 LQDR ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [WFTM]-[BOO] SPOOKY LP [+] [-] [<=>] Price: $14.96 TVL: $63,366,092.73
+WFTM Price: $2.01
+BOO Price: $25.48
+Staked: 426385.4193 spLP ($6,378,227.54)
+LQDR Per Week: 2797.91 ($81,810.91)
+APR: Day 0.18% Week 1.28% Year 66.70%
+You are staking 0.00 [WFTM]-[BOO] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BOO] SPOOKY LP
+Unstake 0.00 [WFTM]-[BOO] SPOOKY LP
+Claim 0.00 LQDR ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [USDC]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $4,341,219.48 TVL: $166,837,132.72
+USDC Price: $1.00
+WFTM Price: $2.01
+Staked: 4.5906 spLP ($19,928,919.80)
+LQDR Per Week: 2797.91 ($81,810.91)
+APR: Day 0.06% Week 0.41% Year 21.35%
+You are staking 0.00 [USDC]-[WFTM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WFTM] SPOOKY LP
+Unstake 0.00 [USDC]-[WFTM] SPOOKY LP
+Claim 0.00 LQDR ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [WFTM]-[DAI] SPOOKY LP [+] [-] [<=>] Price: $3.73 TVL: $43,526,344.03
+WFTM Price: $2.01
+DAI Price: $1.00
+Staked: 4106601.8119 spLP ($15,327,606.41)
+LQDR Per Week: 2797.91 ($81,810.91)
+APR: Day 0.08% Week 0.53% Year 27.75%
+You are staking 0.00 [WFTM]-[DAI] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[DAI] SPOOKY LP
+Unstake 0.00 [WFTM]-[DAI] SPOOKY LP
+Claim 0.00 LQDR ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [WFTM]-[SUSHI] SPOOKY LP [+] [-] [<=>] Price: $6.02 TVL: $7,463,442.04
+WFTM Price: $2.01
+SUSHI Price: $3.88
+Staked: 824572.1499 spLP ($4,960,813.54)
+LQDR Per Week: 2238.33 ($65,448.73)
+APR: Day 0.19% Week 1.32% Year 68.60%
+You are staking 0.00 [WFTM]-[SUSHI] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[SUSHI] SPOOKY LP
+Unstake 0.00 [WFTM]-[SUSHI] SPOOKY LP
+Claim 0.00 LQDR ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [WFTM]-[LINK] SPOOKY LP [+] [-] [<=>] Price: $11.73 TVL: $11,844,922.22
+WFTM Price: $2.01
+LINK Price: $14.61
+Staked: 586683.9867 spLP ($6,881,574.59)
+LQDR Per Week: 2797.91 ($81,810.91)
+APR: Day 0.17% Week 1.19% Year 61.82%
+You are staking 0.00 [WFTM]-[LINK] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[LINK] SPOOKY LP
+Unstake 0.00 [WFTM]-[LINK] SPOOKY LP
+Claim 0.00 LQDR ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [WFTM]-[ETH] SPOOKY LP [+] [-] [<=>] Price: $155.76 TVL: $42,234,318.19
+WFTM Price: $2.01
+ETH Price: $2,337.92
+Staked: 85037.5314 spLP ($13,245,322.66)
+LQDR Per Week: 2797.91 ($81,810.91)
+APR: Day 0.09% Week 0.62% Year 32.12%
+You are staking 0.00 [WFTM]-[ETH] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ETH] SPOOKY LP
+Unstake 0.00 [WFTM]-[ETH] SPOOKY LP
+Claim 0.00 LQDR ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [fUSDT]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $3,765,366.39 TVL: $36,987,559.44
+fUSDT Price: $1.00
+WFTM Price: $2.01
+Staked: 3.2821 spLP ($12,358,478.82)
+LQDR Per Week: 2797.91 ($81,810.91)
+APR: Day 0.09% Week 0.66% Year 34.42%
+You are staking 0.00 [fUSDT]-[WFTM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [fUSDT]-[WFTM] SPOOKY LP
+Unstake 0.00 [fUSDT]-[WFTM] SPOOKY LP
+Claim 0.00 LQDR ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [WFTM]-[MIM] SPOOKY LP [+] [-] [<=>] Price: $3.48 TVL: $22,087,718.14
+WFTM Price: $2.01
+MIM Price: $1.00
+Staked: 2825765.2067 spLP ($9,836,215.52)
+LQDR Per Week: 2238.33 ($65,448.73)
+APR: Day 0.10% Week 0.67% Year 34.60%
+You are staking 0.00 [WFTM]-[MIM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[MIM] SPOOKY LP
+Unstake 0.00 [WFTM]-[MIM] SPOOKY LP
+Claim 0.00 LQDR ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - DummyT Price: $0.00 Market Cap: $0.00 
+Staked: 9.0000 DummyT ($0.00)
+LQDR Per Week: 559.58 ($16,362.18)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 DummyT ($0.00), NaN% of the pool.
+Stake 0.00 DummyT
+Unstake 0.00 DummyT
+Claim 0.00 LQDR ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [WFTM]-[SCREAM] SPOOKY LP [+] [-] [<=>] Price: $25.43 TVL: $16,658,121.71
+WFTM Price: $2.01
+SCREAM Price: $74.62
+Staked: 53856.6066 spLP ($1,369,358.33)
+LQDR Per Week: 1119.16 ($32,724.36)
+APR: Day 0.34% Week 2.39% Year 124.27%
+You are staking 0.00 [WFTM]-[SCREAM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[SCREAM] SPOOKY LP
+Unstake 0.00 [WFTM]-[SCREAM] SPOOKY LP
+Claim 0.00 LQDR ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - XXX Price: $0.00 Market Cap: $0.00 
+Staked: 1.2000 XXX ($0.00)
+LQDR Per Week: 6714.99 ($196,346.19)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 XXX ($0.00), NaN% of the pool.
+Stake 0.00 XXX
+Unstake 0.00 XXX
+Claim 0.00 LQDR ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - 3poolV2-f Price: $1.04 Market Cap: $82,124,196.33 
+Staked: 8014504.3757 3poolV2-f ($8,311,176.03)
+LQDR Per Week: 1119.16 ($32,724.36)
+APR: Day 0.06% Week 0.39% Year 20.47%
+You are staking 0.00 3poolV2-f ($0.00), 0.00% of the pool.
+Stake 0.00 3poolV2-f
+Unstake 0.00 3poolV2-f
+Claim 0.00 LQDR ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - BPT_LINSPIRIT Price: $0.00 Market Cap: $0.00 
+Staked: 30409779.8847 BPT_LINSPIRIT ($0.00)
+LQDR Per Week: 2238.33 ($65,448.73)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BPT_LINSPIRIT ($0.00), NaN% of the pool.
+Stake 0.00 BPT_LINSPIRIT
+Unstake 0.00 BPT_LINSPIRIT
+Claim 0.00 LQDR ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - [WFTM]-[SPIRIT] SPIRIT LP [+] [-] [<=>] Price: $1.23 TVL: $35,987,525.77
+WFTM Price: $2.01
+SPIRIT Price: $0.13
+Staked: 8568848.5623 SPIRIT-LP ($10,527,519.20)
+LQDR Per Week: 4476.66 ($130,897.46)
+APR: Day 0.18% Week 1.24% Year 64.66%
+You are staking 0.00 [WFTM]-[SPIRIT] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[SPIRIT] SPIRIT LP
+Unstake 0.00 [WFTM]-[SPIRIT] SPIRIT LP
+Claim 0.00 LQDR ($0.00)
+Staking or unstaking also claims rewards.
+
+29 - BeetXLP_MIM_USDC_USDT Price: $0.00 Market Cap: $0.00 
+Staked: 50.5232 BeetXLP_MIM_USDC_USDT ($0.00)
+LQDR Per Week: 5.60 ($163.62)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BeetXLP_MIM_USDC_USDT ($0.00), NaN% of the pool.
+Stake 0.00 BeetXLP_MIM_USDC_USDT
+Unstake 0.00 BeetXLP_MIM_USDC_USDT
+Claim 0.00 LQDR ($0.00)
+Staking or unstaking also claims rewards.
+
+30 - [WFTM]-[ICE] SPIRIT LP [+] [-] [<=>] Price: $6.24 TVL: $1,435,617.18
+WFTM Price: $2.01
+ICE Price: $3.83
+Staked: 118464.8373 SPIRIT-LP ($739,437.19)
+LQDR Per Week: 2238.33 ($65,448.73)
+APR: Day 1.26% Week 8.85% Year 460.26%
+You are staking 0.00 [WFTM]-[ICE] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ICE] SPIRIT LP
+Unstake 0.00 [WFTM]-[ICE] SPIRIT LP
+Claim 0.00 LQDR ($0.00)
+Staking or unstaking also claims rewards.
+
+31 - [USDC 25.00%]-[WFTM 25.00%]-[BTC 25.00%]-[ETH 25.00%] BPT Price: $117.56 TVL: $12,823,858.28
+USDC Price: $1.00
+WFTM Price: $2.01
+BTC Price: $35,807.00
+ETH Price: $2,337.92
+Staked: 75687.2278 [USDC 25.00%]-[WFTM 25.00%]-[BTC 25.00%]-[ETH 25.00%] ($8,897,689.63)
+LQDR Per Week: 2238.33 ($65,448.73)
+APR: Day 0.11% Week 0.74% Year 38.25%
+You are staking 0.00 [USDC 25.00%]-[WFTM 25.00%]-[BTC 25.00%]-[ETH 25.00%] ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC 25.00%]-[WFTM 25.00%]-[BTC 25.00%]-[ETH 25.00%]
+Unstake 0.00 [USDC 25.00%]-[WFTM 25.00%]-[BTC 25.00%]-[ETH 25.00%]
+Claim 0.00 LQDR ($0.00)
+Staking or unstaking also claims rewards.
+
+32 - [USDC 30.00%]-[WFTM 70.00%] BPT Price: $1.59 TVL: $27,336,690.02
+USDC Price: $1.00
+WFTM Price: $2.01
+Staked: 3301868.3891 [USDC 30.00%]-[WFTM 70.00%] ($5,255,781.37)
+LQDR Per Week: 2238.33 ($65,448.73)
+APR: Day 0.18% Week 1.25% Year 64.75%
+You are staking 0.00 [USDC 30.00%]-[WFTM 70.00%] ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC 30.00%]-[WFTM 70.00%]
+Unstake 0.00 [USDC 30.00%]-[WFTM 70.00%]
+Claim 0.00 LQDR ($0.00)
+Staking or unstaking also claims rewards.
+
+33 - [WFTM]-[FRAX] SPIRIT LP [+] [-] [<=>] Price: $3.04 TVL: $7,696,437.01
+WFTM Price: $2.01
+FRAX Price: $1.00
+Staked: 1772129.0195 SPIRIT-LP ($5,396,043.60)
+LQDR Per Week: 2238.33 ($65,448.73)
+APR: Day 0.17% Week 1.21% Year 63.07%
+You are staking 0.00 [WFTM]-[FRAX] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[FRAX] SPIRIT LP
+Unstake 0.00 [WFTM]-[FRAX] SPIRIT LP
+Claim 0.00 LQDR ($0.00)
+Staking or unstaking also claims rewards.
+
+34 - [WFTM]-[SPELL] SPIRIT LP [+] [-] [<=>] Price: $0.25 TVL: $750,236.96
+WFTM Price: $2.01
+SPELL Price: $0.005174
+Staked: 2680250.1675 SPIRIT-LP ($661,540.99)
+LQDR Per Week: 559.58 ($16,362.18)
+APR: Day 0.35% Week 2.47% Year 128.61%
+You are staking 0.00 [WFTM]-[SPELL] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[SPELL] SPIRIT LP
+Unstake 0.00 [WFTM]-[SPELL] SPIRIT LP
+Claim 0.00 LQDR ($0.00)
+Staking or unstaking also claims rewards.
+
+35 - [WFTM]-[PILLS] SPIRIT LP [+] [-] [<=>] Price: $2.96 TVL: $1,735,248.83
+WFTM Price: $2.01
+PILLS Price: $0.96
+Staked: 497757.5674 SPIRIT-LP ($1,472,395.55)
+LQDR Per Week: 1958.54 ($57,267.64)
+APR: Day 0.56% Week 3.89% Year 202.25%
+You are staking 0.00 [WFTM]-[PILLS] SPIRIT LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[PILLS] SPIRIT LP
+Unstake 0.00 [WFTM]-[PILLS] SPIRIT LP
+Claim 0.00 LQDR ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $200,055,814.42

@@ -1,0 +1,37 @@
+*************** 👨‍🌾 UNOFFICIAL EMPTYSET.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://app.emptyset.finance/dollar
+*************************************************************************************
+
+Thu Jan 27 2022 20:03:06 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+DSU3CRV-f Price: $0.97 Market Cap: $19,409.26 
+Staked: 18569.2550 DSU3CRV-f ($18,051.78)
+ESS Per Week: 632862.72 ($187.31)
+APR: Day 0.15% Week 1.04% Year 53.96%
+You are staking 0.000000 DSU3CRV-f $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 DSU3CRV-f
+Unstake 0.000000 DSU3CRV-f
+Claim 0.000000 ESS ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[ESS]-[DSU] Uni LP [+] [-] [<=>] Price: $0.03 TVL: $10,492.22
+ESS Price: $0.000296
+DSU Price: $0.97
+Staked: 260072.3156 UNI-V2 ($8,951.97)
+ESS Per Week: 316431.36 ($93.66)
+APR: Day 0.15% Week 1.05% Year 54.40%
+You are staking 0.000000 [ESS]-[DSU] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [ESS]-[DSU] Uni LP
+Unstake 0.000000 [ESS]-[DSU] Uni LP
+Claim 0.000000 ESS ($0.00)
+Revoke (set approval to 0)
+Exit
+
+Total staked: $27,003.75

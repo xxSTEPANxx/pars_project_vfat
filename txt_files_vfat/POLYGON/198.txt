@@ -6,181 +6,20 @@ INFO  : https://polygonfarm.finance
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Fri Dec 17 2021 10:56:04 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 23:00:01 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
+Staking Contract
 Found 17 pools.
 Showing incentivized pools only.
-Finished reading smart contracts.
-0 - SPADE Price: $0.07 Market Cap: $30,635.52 [%]
-Staked: 133122.9135 SPADE ($9,221.29)
-SPADE Per Week: 1711.89 ($118.58)
-APR: Day 0.18% Week 1.29% Year 66.87%
-You are staking 0.00 SPADE ($0.00), 0.00% of the pool.
-Stake 0.00 SPADE
-Unstake 0.00 SPADE
-Claim 0.00 SPADE ($0.00)
-Staking or unstaking also claims rewards.
-
-1 - WMATIC Price: $2.03 Market Cap: $619,484,740.49 [%]
-Staked: 79727.1004 WMATIC ($161,846.01)
-SPADE Per Week: 563.92 ($39.06)
-APR: Day 0.00% Week 0.02% Year 1.26%
-You are staking 0.00 WMATIC ($0.00), 0.00% of the pool.
-Stake 0.00 WMATIC - Fee 4%
-Unstake 0.00 WMATIC
-Claim 0.00 SPADE ($0.00)
-Staking or unstaking also claims rewards.
-
-2 - WETH Price: $3,883.47 Market Cap: $1,724,300,695.18 [%]
-Staked: 13.1162 WETH ($50,936.21)
-SPADE Per Week: 624.34 ($43.25)
-APR: Day 0.01% Week 0.08% Year 4.42%
-You are staking 0.00 WETH ($0.00), 0.00% of the pool.
-Stake 0.00 WETH - Fee 4%
-Unstake 0.00 WETH
-Claim 0.00 SPADE ($0.00)
-Staking or unstaking also claims rewards.
-
-3 - USDC Price: $1.00 Market Cap: $952,294,882.74 [%]
-Staked: 19969.1209 USDC ($19,969.12)
-SPADE Per Week: 563.92 ($39.06)
-APR: Day 0.03% Week 0.20% Year 10.17%
-You are staking 0.00 USDC ($0.00), 0.00% of the pool.
-Stake 0.00 USDC - Fee 4%
-Unstake 0.00 USDC
-Claim 0.00 SPADE ($0.00)
-Staking or unstaking also claims rewards.
-
-4 - DAI Price: $1.00 Market Cap: $367,636,078.88 [%]
-Staked: 14424.9784 DAI ($14,424.52)
-SPADE Per Week: 563.92 ($39.06)
-APR: Day 0.04% Week 0.27% Year 14.08%
-You are staking 0.00 DAI ($0.00), 0.00% of the pool.
-Stake 0.00 DAI - Fee 4%
-Unstake 0.00 DAI
-Claim 0.00 SPADE ($0.00)
-Staking or unstaking also claims rewards.
-
-5 - USDT Price: $1.00 Market Cap: $319,590,942.83 [%]
-Staked: 23248.1475 USDT ($23,236.55)
-SPADE Per Week: 563.92 ($39.06)
-APR: Day 0.02% Week 0.17% Year 8.74%
-You are staking 0.00 USDT ($0.00), 0.00% of the pool.
-Stake 0.00 USDT - Fee 4%
-Unstake 0.00 USDT
-Claim 0.00 SPADE ($0.00)
-Staking or unstaking also claims rewards.
-
-6 - WBTC Price: $47,017.00 Market Cap: $475,366,888.30 [%]
-Staked: 1.0652 WBTC ($50,082.80)
-SPADE Per Week: 604.20 ($41.85)
-APR: Day 0.01% Week 0.08% Year 4.35%
-You are staking 0.00 WBTC ($0.00), 0.00% of the pool.
-Stake 0.00 WBTC - Fee 4%
-Unstake 0.00 WBTC
-Claim 0.00 SPADE ($0.00)
-Staking or unstaking also claims rewards.
-
-7 - LINK Price: $18.92 Market Cap: $32,900,960.92 [%]
-Staked: 1995.7136 LINK ($37,758.90)
-SPADE Per Week: 644.48 ($44.64)
-APR: Day 0.02% Week 0.12% Year 6.15%
-You are staking 0.00 LINK ($0.00), 0.00% of the pool.
-Stake 0.00 LINK - Fee 4%
-Unstake 0.00 LINK
-Claim 0.00 SPADE ($0.00)
-Staking or unstaking also claims rewards.
-
-8 - SUSHI Price: $5.59 Market Cap: $3,154,328.59 [%]
-Staked: 377.8311 SUSHI ($2,112.08)
-SPADE Per Week: 201.40 ($13.95)
-APR: Day 0.09% Week 0.66% Year 34.35%
-You are staking 0.00 SUSHI ($0.00), 0.00% of the pool.
-Stake 0.00 SUSHI - Fee 4%
-Unstake 0.00 SUSHI
-Claim 0.00 SPADE ($0.00)
-Staking or unstaking also claims rewards.
-
-9 - AAVE Price: $170.97 Market Cap: $46,528,601.17 [%]
-Staked: 163.1006 AAVE ($27,885.31)
-SPADE Per Week: 241.68 ($16.74)
-APR: Day 0.01% Week 0.06% Year 3.12%
-You are staking 0.00 AAVE ($0.00), 0.00% of the pool.
-Stake 0.00 AAVE - Fee 4%
-Unstake 0.00 AAVE
-Claim 0.00 SPADE ($0.00)
-Staking or unstaking also claims rewards.
-
-10 - QUICK Price: $240.39 Market Cap: $229,701,878.71 [%]
-Staked: 33.3596 QUICK ($8,019.32)
-SPADE Per Week: 201.40 ($13.95)
-APR: Day 0.02% Week 0.17% Year 9.05%
-You are staking 0.00 QUICK ($0.00), 0.00% of the pool.
-Stake 0.00 QUICK - Fee 4%
-Unstake 0.00 QUICK
-Claim 0.00 SPADE ($0.00)
-Staking or unstaking also claims rewards.
-
-11 - [WMATIC]-[SPADE] SLP [+] [-] [<=>] Price: $0.87 TVL: $19,480.22
-WMATIC Price: $2.03
-SPADE Price: $0.07
-Staked: 20894.7659 SLP ($18,093.85)
-SPADE Per Week: 5034.97 ($348.77)
-APR: Day 0.28% Week 1.93% Year 100.23%
-You are staking 0.00 [WMATIC]-[SPADE] SLP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[SPADE] SLP
-Unstake 0.00 [WMATIC]-[SPADE] SLP
-Claim 0.00 SPADE ($0.00)
-Staking or unstaking also claims rewards.
-
-12 - [USDC]-[SPADE] SLP [+] [-] [<=>] Price: $607,518.16 TVL: $13,216.04
-USDC Price: $1.00
-SPADE Price: $0.07
-Staked: 0.0165 SLP ($10,002.53)
-SPADE Per Week: 5890.91 ($408.06)
-APR: Day 0.58% Week 4.08% Year 212.14%
-You are staking 0.00 [USDC]-[SPADE] SLP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[SPADE] SLP
-Unstake 0.00 [USDC]-[SPADE] SLP
-Claim 0.00 SPADE ($0.00)
-Staking or unstaking also claims rewards.
-
-13 - BONE Price: $0.00 Market Cap: $0.00 
-Staked: 129.7948 BONE ($0.00)
-SPADE Per Week: 20.14 ($1.40)
-APR: Day NaN% Week NaN% Year NaN%
-You are staking 0.00 BONE ($0.00), NaN% of the pool.
-Stake 0.00 BONE - Fee 4%
-Unstake 0.00 BONE
-Claim 0.00 SPADE ($0.00)
-Staking or unstaking also claims rewards.
-
-15 - [WMATIC]-[SPADE] Uni LP [+] [-] [<=>] Price: $0.81 TVL: $1,069.64
-WMATIC Price: $2.03
-SPADE Price: $0.07
-Staked: 1223.3004 UNI-V2 ($991.78)
-SPADE Per Week: 664.62 ($46.04)
-APR: Day 0.66% Week 4.64% Year 241.38%
-You are staking 0.00 [WMATIC]-[SPADE] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[SPADE] Uni LP
-Unstake 0.00 [WMATIC]-[SPADE] Uni LP
-Claim 0.00 SPADE ($0.00)
-Staking or unstaking also claims rewards.
-
-16 - [ALPHA]-[USDC] Uni LP [+] [-] [<=>] Price: $1,986,167.14 TVL: $2,754.15
-ALPHA Price: $0.89
-USDC Price: $1.00
-Staked: 0.0002 pWINGS-LP ($392.10)
-SPADE Per Week: 2064.34 ($142.99)
-APR: Day 5.21% Week 36.47% Year 1896.39%
-You are staking 0.00 [ALPHA]-[USDC] Uni LP ($0.00), 0.00% of the pool.
-Stake 0.00 [ALPHA]-[USDC] Uni LP
-Unstake 0.00 [ALPHA]-[USDC] Uni LP
-Claim 0.00 SPADE ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $434,972.37
+{
+  "code": -32603,
+  "message": "Non-200 status code: '400'",
+  "data": {
+    "error": "Unable to verify your data submission."
+  }
+}
+Oops something went wrong. Try refreshing the page.

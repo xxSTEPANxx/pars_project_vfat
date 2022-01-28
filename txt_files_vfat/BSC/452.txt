@@ -1,0 +1,64 @@
+*************** 👨‍🌾 UNOFFICIAL ZOOGAME FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://zoogame.app
+****************************************************************************
+
+Thu Jan 27 2022 21:31:40 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 13 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+7 - [Zoo]-[WBNB] Cake LP [+] [-] [<=>] Price: $15.31 TVL: $1,229,796.68
+Zoo Price: $0.11
+WBNB Price: $368.61
+Staked: 629.1498 Cake-LP ($9,633.73)
+KEY Per Week: 6828.39 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [Zoo]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Zoo]-[WBNB] Cake LP
+Unstake 0.00 [Zoo]-[WBNB] Cake LP
+Claim 0.00 KEY ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [Zoo]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.80 TVL: $1,265,547.45
+Zoo Price: $0.11
+BUSD Price: $1.00
+Staked: 22703.3436 Cake-LP ($18,071.41)
+KEY Per Week: 6828.39 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [Zoo]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Zoo]-[BUSD] Cake LP
+Unstake 0.00 [Zoo]-[BUSD] Cake LP
+Claim 0.00 KEY ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - PRST Price: $0.00 Market Cap: $0.00 
+Staked: 1.0000 PRST ($0.00)
+KEY Per Week: 5462.71 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 PRST ($0.00), NaN% of the pool.
+Stake 0.00 PRST
+Unstake 0.00 PRST
+Claim 0.00 KEY ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - DRST Price: $0.00 Market Cap: $0.00 
+Staked: 1.0000 DRST ($0.00)
+KEY Per Week: 2048.52 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 DRST ($0.00), NaN% of the pool.
+Stake 0.00 DRST
+Unstake 0.00 DRST
+Claim 0.00 KEY ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $27,705.15
+Staking Contract
+Found 5 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+Total Staked: $0.00

@@ -1,0 +1,409 @@
+*************** 👨‍🌾 UNOFFICIAL SOULSWAP.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://app.soulswap.finance/
+*************************************************************************************
+
+Fri Jan 28 2022 00:45:49 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 48 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - SOUL Price: $0.07 Market Cap: $2,609,454.46 
+Staked: 18574878.6030 SOUL ($1,240,827.54)
+SOUL Per Week: 175000.00 ($11,690.24)
+APR: Day 0.13% Week 0.94% Year 48.99%
+You are staking 0.00 SOUL ($0.00), 0.00% of the pool.
+Stake 0.00 SOUL
+Unstake 0.00 SOUL
+Claim 0.00 SOUL ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WFTM]-[SOUL] Soulswap LP Token [+] [-] [<=>] Price: $0.80 TVL: $518,441.84
+WFTM Price: $2.02
+SOUL Price: $0.07
+Staked: 337667.3003 SOUL-LP ($268,778.34)
+SOUL Per Week: 74666.67 ($4,987.84)
+APR: Day 0.27% Week 1.86% Year 96.50%
+You are staking 0.00 [WFTM]-[SOUL] Soulswap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[SOUL] Soulswap LP Token
+Unstake 0.00 [WFTM]-[SOUL] Soulswap LP Token
+Claim 0.00 SOUL ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [USDC]-[WFTM] Soulswap LP Token [+] [-] [<=>] Price: $3,008,677.52 TVL: $247,494.64
+USDC Price: $1.00
+WFTM Price: $2.02
+Staked: 0.0372 SOUL-LP ($112,020.29)
+SOUL Per Week: 14000.00 ($935.22)
+APR: Day 0.12% Week 0.83% Year 43.41%
+You are staking 0.00 [USDC]-[WFTM] Soulswap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WFTM] Soulswap LP Token
+Unstake 0.00 [USDC]-[WFTM] Soulswap LP Token
+Claim 0.00 SOUL ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [WFTM]-[ETH] Soulswap LP Token [+] [-] [<=>] Price: $139.91 TVL: $206,564.71
+WFTM Price: $2.02
+ETH Price: $2,322.13
+Staked: 688.9491 SOUL-LP ($96,393.17)
+SOUL Per Week: 14000.00 ($935.22)
+APR: Day 0.14% Week 0.97% Year 50.45%
+You are staking 0.00 [WFTM]-[ETH] Soulswap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ETH] Soulswap LP Token
+Unstake 0.00 [WFTM]-[ETH] Soulswap LP Token
+Claim 0.00 SOUL ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [SEANCE]-[SOUL] Soulswap LP Token [+] [-] [<=>] Price: $0.12 TVL: $231,561.85
+SEANCE Price: $0.05
+SOUL Price: $0.07
+Staked: 1979001.1824 SOUL-LP ($227,797.18)
+SOUL Per Week: 37333.33 ($2,493.92)
+APR: Day 0.16% Week 1.09% Year 56.93%
+You are staking 0.00 [SEANCE]-[SOUL] Soulswap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [SEANCE]-[SOUL] Soulswap LP Token
+Unstake 0.00 [SEANCE]-[SOUL] Soulswap LP Token
+Claim 0.00 SOUL ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [USDC]-[FUSD] Soulswap LP Token [+] [-] [<=>] Price: $1,584,333.36 TVL: $91,863.02
+USDC Price: $1.00
+FUSD Price: $0.55
+Staked: 0.0555 SOUL-LP ($87,917.81)
+SOUL Per Week: 4666.67 ($311.74)
+APR: Day 0.05% Week 0.35% Year 18.44%
+You are staking 0.00 [USDC]-[FUSD] Soulswap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[FUSD] Soulswap LP Token
+Unstake 0.00 [USDC]-[FUSD] Soulswap LP Token
+Claim 0.00 SOUL ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [USDC]-[SEANCE] Soulswap LP Token [+] [-] [<=>] Price: $450,158.93 TVL: $80,553.35
+USDC Price: $1.00
+SEANCE Price: $0.05
+Staked: 0.1763 SOUL-LP ($79,363.28)
+SOUL Per Week: 23333.33 ($1,558.70)
+APR: Day 0.28% Week 1.96% Year 102.13%
+You are staking 0.00 [USDC]-[SEANCE] Soulswap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[SEANCE] Soulswap LP Token
+Unstake 0.00 [USDC]-[SEANCE] Soulswap LP Token
+Claim 0.00 SOUL ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [BTC]-[ETH] Soulswap LP Token [+] [-] [<=>] Price: $1,834,018,202.66 TVL: $288,504.84
+BTC Price: $35,903.00
+ETH Price: $2,322.13
+Staked: 0.0002 SOUL-LP ($286,790.01)
+SOUL Per Week: 14000.00 ($935.22)
+APR: Day 0.05% Week 0.33% Year 16.96%
+You are staking 0.00 [BTC]-[ETH] Soulswap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [BTC]-[ETH] Soulswap LP Token
+Unstake 0.00 [BTC]-[ETH] Soulswap LP Token
+Claim 0.00 SOUL ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [USDC]-[fUSDT] Soulswap LP Token [+] [-] [<=>] Price: $2,007,651,848,658.81 TVL: $130,103.63
+USDC Price: $1.00
+fUSDT Price: $1.00
+Staked: 0.0000 SOUL-LP ($128,018.59)
+SOUL Per Week: 4666.67 ($311.74)
+APR: Day 0.03% Week 0.24% Year 12.66%
+You are staking 0.00 [USDC]-[fUSDT] Soulswap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[fUSDT] Soulswap LP Token
+Unstake 0.00 [USDC]-[fUSDT] Soulswap LP Token
+Claim 0.00 SOUL ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [SEANCE]-[WFTM] Soulswap LP Token [+] [-] [<=>] Price: $0.64 TVL: $224,313.44
+SEANCE Price: $0.05
+WFTM Price: $2.02
+Staked: 193109.4604 SOUL-LP ($123,717.49)
+SOUL Per Week: 46666.67 ($3,117.40)
+APR: Day 0.36% Week 2.52% Year 131.03%
+You are staking 0.00 [SEANCE]-[WFTM] Soulswap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [SEANCE]-[WFTM] Soulswap LP Token
+Unstake 0.00 [SEANCE]-[WFTM] Soulswap LP Token
+Claim 0.00 SOUL ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [WFTM]-[GRIM] Soulswap LP Token [+] [-] [<=>] Price: $1.16 TVL: $15,679.82
+WFTM Price: $2.02
+GRIM Price: $0.005787
+Staked: 11073.5659 SOUL-LP ($12,878.07)
+SOUL Per Week: 2333.33 ($155.87)
+APR: Day 0.17% Week 1.21% Year 62.94%
+You are staking 0.00 [WFTM]-[GRIM] Soulswap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[GRIM] Soulswap LP Token
+Unstake 0.00 [WFTM]-[GRIM] Soulswap LP Token
+Claim 0.00 SOUL ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [REAPER]-[WFTM] Soulswap LP Token [+] [-] [<=>] Price: $0.56 TVL: $18,800.96
+REAPER Price: $0.04
+WFTM Price: $2.02
+Staked: 23643.1449 SOUL-LP ($13,191.30)
+SOUL Per Week: 2333.33 ($155.87)
+APR: Day 0.17% Week 1.18% Year 61.44%
+You are staking 0.00 [REAPER]-[WFTM] Soulswap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [REAPER]-[WFTM] Soulswap LP Token
+Unstake 0.00 [REAPER]-[WFTM] Soulswap LP Token
+Claim 0.00 SOUL ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [WFTM]-[BTC] Soulswap LP Token [+] [-] [<=>] Price: $54,643,936.31 TVL: $215,012.07
+WFTM Price: $2.02
+BTC Price: $35,903.00
+Staked: 0.0015 SOUL-LP ($83,193.85)
+SOUL Per Week: 14000.00 ($935.22)
+APR: Day 0.16% Week 1.12% Year 58.46%
+You are staking 0.00 [WFTM]-[BTC] Soulswap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BTC] Soulswap LP Token
+Unstake 0.00 [WFTM]-[BTC] Soulswap LP Token
+Claim 0.00 SOUL ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [fUSDT]-[WFTM] Soulswap LP Token [+] [-] [<=>] Price: $2,944,979.68 TVL: $95,011.95
+fUSDT Price: $1.00
+WFTM Price: $2.02
+Staked: 0.0315 SOUL-LP ($92,665.39)
+SOUL Per Week: 14000.00 ($935.22)
+APR: Day 0.14% Week 1.01% Year 52.48%
+You are staking 0.00 [fUSDT]-[WFTM] Soulswap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [fUSDT]-[WFTM] Soulswap LP Token
+Unstake 0.00 [fUSDT]-[WFTM] Soulswap LP Token
+Claim 0.00 SOUL ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [USDC]-[ETH] Soulswap LP Token [+] [-] [<=>] Price: $97,679,852.39 TVL: $148,511.32
+USDC Price: $1.00
+ETH Price: $2,322.13
+Staked: 0.0015 SOUL-LP ($148,037.26)
+SOUL Per Week: 9333.33 ($623.48)
+APR: Day 0.06% Week 0.42% Year 21.90%
+You are staking 0.00 [USDC]-[ETH] Soulswap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[ETH] Soulswap LP Token
+Unstake 0.00 [USDC]-[ETH] Soulswap LP Token
+Claim 0.00 SOUL ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [DAI]-[BNB] Soulswap LP Token [+] [-] [<=>] Price: $38.88 TVL: $51,913.25
+DAI Price: $1.00
+BNB Price: $363.95
+Staked: 1291.3816 SOUL-LP ($50,212.78)
+SOUL Per Week: 9333.33 ($623.48)
+APR: Day 0.18% Week 1.24% Year 64.57%
+You are staking 0.00 [DAI]-[BNB] Soulswap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BNB] Soulswap LP Token
+Unstake 0.00 [DAI]-[BNB] Soulswap LP Token
+Claim 0.00 SOUL ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [WFTM]-[BNB] Soulswap LP Token [+] [-] [<=>] Price: $55.29 TVL: $203,301.26
+WFTM Price: $2.02
+BNB Price: $363.95
+Staked: 1771.2477 SOUL-LP ($97,925.99)
+SOUL Per Week: 14000.00 ($935.22)
+APR: Day 0.14% Week 0.96% Year 49.66%
+You are staking 0.00 [WFTM]-[BNB] Soulswap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[BNB] Soulswap LP Token
+Unstake 0.00 [WFTM]-[BNB] Soulswap LP Token
+Claim 0.00 SOUL ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [WFTM]-[MIM] Soulswap LP Token [+] [-] [<=>] Price: $2.94 TVL: $111,240.66
+WFTM Price: $2.02
+MIM Price: $1.00
+Staked: 37240.3039 SOUL-LP ($109,587.98)
+SOUL Per Week: 14000.00 ($935.22)
+APR: Day 0.12% Week 0.85% Year 44.38%
+You are staking 0.00 [WFTM]-[MIM] Soulswap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[MIM] Soulswap LP Token
+Unstake 0.00 [WFTM]-[MIM] Soulswap LP Token
+Claim 0.00 SOUL ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - [USDC]-[BTC] Soulswap LP Token [+] [-] [<=>] Price: $38,247,310,435,822.02 TVL: $120,319.43
+USDC Price: $1.00
+BTC Price: $35,903.00
+Staked: 0.0000 SOUL-LP ($119,696.14)
+SOUL Per Week: 9333.33 ($623.48)
+APR: Day 0.07% Week 0.52% Year 27.09%
+You are staking 0.00 [USDC]-[BTC] Soulswap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BTC] Soulswap LP Token
+Unstake 0.00 [USDC]-[BTC] Soulswap LP Token
+Claim 0.00 SOUL ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - [USDC]-[DAI] Soulswap LP Token [+] [-] [<=>] Price: $64,075,677.21 TVL: $331,862.48
+USDC Price: $1.00
+DAI Price: $1.00
+Staked: 0.0022 SOUL-LP ($140,495.74)
+SOUL Per Week: 4666.67 ($311.74)
+APR: Day 0.03% Week 0.22% Year 11.54%
+You are staking 0.00 [USDC]-[DAI] Soulswap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAI] Soulswap LP Token
+Unstake 0.00 [USDC]-[DAI] Soulswap LP Token
+Claim 0.00 SOUL ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - [USDC]-[SOUL] Soulswap LP Token [+] [-] [<=>] Price: $550,922.76 TVL: $163,079.04
+USDC Price: $1.00
+SOUL Price: $0.07
+Staked: 0.1078 SOUL-LP ($59,373.27)
+SOUL Per Week: 28000.00 ($1,870.44)
+APR: Day 0.45% Week 3.15% Year 163.82%
+You are staking 0.00 [USDC]-[SOUL] Soulswap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[SOUL] Soulswap LP Token
+Unstake 0.00 [USDC]-[SOUL] Soulswap LP Token
+Claim 0.00 SOUL ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [WFTM]-[DAI] Soulswap LP Token [+] [-] [<=>] Price: $2.95 TVL: $298,436.10
+WFTM Price: $2.02
+DAI Price: $1.00
+Staked: 33788.5627 SOUL-LP ($99,827.74)
+SOUL Per Week: 14000.00 ($935.22)
+APR: Day 0.13% Week 0.94% Year 48.72%
+You are staking 0.00 [WFTM]-[DAI] Soulswap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[DAI] Soulswap LP Token
+Unstake 0.00 [WFTM]-[DAI] Soulswap LP Token
+Claim 0.00 SOUL ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - [SEANCE]-[UNIDX] Soulswap LP Token [+] [-] [<=>] Price: $0.43 TVL: $21,627.60
+SEANCE Price: $0.05
+UNIDX Price: $0.97
+Staked: 47725.0196 SOUL-LP ($20,558.37)
+SOUL Per Week: 9333.33 ($623.48)
+APR: Day 0.43% Week 3.03% Year 157.70%
+You are staking 0.00 [SEANCE]-[UNIDX] Soulswap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [SEANCE]-[UNIDX] Soulswap LP Token
+Unstake 0.00 [SEANCE]-[UNIDX] Soulswap LP Token
+Claim 0.00 SOUL ($0.00)
+Staking or unstaking also claims rewards.
+
+36 - [ETH]-[SOUL] Soulswap LP Token [+] [-] [<=>] Price: $25.39 TVL: $67,628.23
+ETH Price: $2,322.13
+SOUL Price: $0.07
+Staked: 2560.6157 SOUL-LP ($65,018.74)
+SOUL Per Week: 42000.00 ($2,805.66)
+APR: Day 0.62% Week 4.32% Year 224.39%
+You are staking 0.00 [ETH]-[SOUL] Soulswap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[SOUL] Soulswap LP Token
+Unstake 0.00 [ETH]-[SOUL] Soulswap LP Token
+Claim 0.00 SOUL ($0.00)
+Staking or unstaking also claims rewards.
+
+37 - [BTC]-[SOUL] Soulswap LP Token [+] [-] [<=>] Price: $9,953,923.46 TVL: $73,232.63
+BTC Price: $35,903.00
+SOUL Price: $0.07
+Staked: 0.0072 SOUL-LP ($71,841.49)
+SOUL Per Week: 42000.00 ($2,805.66)
+APR: Day 0.56% Week 3.91% Year 203.08%
+You are staking 0.00 [BTC]-[SOUL] Soulswap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [BTC]-[SOUL] Soulswap LP Token
+Unstake 0.00 [BTC]-[SOUL] Soulswap LP Token
+Claim 0.00 SOUL ($0.00)
+Staking or unstaking also claims rewards.
+
+38 - [WFTM]-[FUSD] Soulswap LP Token [+] [-] [<=>] Price: $2.23 TVL: $33,430.86
+WFTM Price: $2.02
+FUSD Price: $0.55
+Staked: 14858.4313 SOUL-LP ($33,170.08)
+SOUL Per Week: 7000.00 ($467.61)
+APR: Day 0.20% Week 1.41% Year 73.31%
+You are staking 0.00 [WFTM]-[FUSD] Soulswap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[FUSD] Soulswap LP Token
+Unstake 0.00 [WFTM]-[FUSD] Soulswap LP Token
+Claim 0.00 SOUL ($0.00)
+Staking or unstaking also claims rewards.
+
+39 - [WFTM]-[ICE] Soulswap LP Token [+] [-] [<=>] Price: $5.59 TVL: $21,683.26
+WFTM Price: $2.02
+ICE Price: $3.80
+Staked: 3718.3074 SOUL-LP ($20,789.93)
+SOUL Per Week: 7000.00 ($467.61)
+APR: Day 0.32% Week 2.25% Year 116.96%
+You are staking 0.00 [WFTM]-[ICE] Soulswap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ICE] Soulswap LP Token
+Unstake 0.00 [WFTM]-[ICE] Soulswap LP Token
+Claim 0.00 SOUL ($0.00)
+Staking or unstaking also claims rewards.
+
+40 - [WFTM]-[ANY] Soulswap LP Token [+] [-] [<=>] Price: $12.87 TVL: $50,966.23
+WFTM Price: $2.02
+ANY Price: $19.75
+Staked: 3762.0403 SOUL-LP ($48,428.91)
+SOUL Per Week: 7000.00 ($467.61)
+APR: Day 0.14% Week 0.97% Year 50.21%
+You are staking 0.00 [WFTM]-[ANY] Soulswap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[ANY] Soulswap LP Token
+Unstake 0.00 [WFTM]-[ANY] Soulswap LP Token
+Claim 0.00 SOUL ($0.00)
+Staking or unstaking also claims rewards.
+
+41 - [CRV]-[WFTM] Soulswap LP Token [+] [-] [<=>] Price: $4.73 TVL: $40,799.28
+CRV Price: $2.73
+WFTM Price: $2.02
+Staked: 8534.8332 SOUL-LP ($40,390.39)
+SOUL Per Week: 7000.00 ($467.61)
+APR: Day 0.17% Week 1.16% Year 60.20%
+You are staking 0.00 [CRV]-[WFTM] Soulswap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [CRV]-[WFTM] Soulswap LP Token
+Unstake 0.00 [CRV]-[WFTM] Soulswap LP Token
+Claim 0.00 SOUL ($0.00)
+Staking or unstaking also claims rewards.
+
+42 - [WFTM]-[SPELL] Soulswap LP Token [+] [-] [<=>] Price: $0.21 TVL: $23,656.30
+WFTM Price: $2.02
+SPELL Price: $0.005129
+Staked: 110180.0016 SOUL-LP ($22,862.60)
+SOUL Per Week: 7000.00 ($467.61)
+APR: Day 0.29% Week 2.05% Year 106.36%
+You are staking 0.00 [WFTM]-[SPELL] Soulswap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[SPELL] Soulswap LP Token
+Unstake 0.00 [WFTM]-[SPELL] Soulswap LP Token
+Claim 0.00 SOUL ($0.00)
+Staking or unstaking also claims rewards.
+
+43 - [fUSDT]-[DAI] Soulswap LP Token [+] [-] [<=>] Price: $2,005,065.08 TVL: $115,395.46
+fUSDT Price: $1.00
+DAI Price: $1.00
+Staked: 0.0575 SOUL-LP ($115,353.09)
+SOUL Per Week: 4666.67 ($311.74)
+APR: Day 0.04% Week 0.27% Year 14.05%
+You are staking 0.00 [fUSDT]-[DAI] Soulswap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [fUSDT]-[DAI] Soulswap LP Token
+Unstake 0.00 [fUSDT]-[DAI] Soulswap LP Token
+Claim 0.00 SOUL ($0.00)
+Staking or unstaking also claims rewards.
+
+46 - [LUX]-[SOUL] Soulswap LP Token [+] [-] [<=>] Price: $193,558.43 TVL: $22,480.56
+LUX Price: $133.91
+SOUL Price: $0.07
+Staked: 0.1153 SOUL-LP ($22,313.17)
+SOUL Per Week: 11666.67 ($779.35)
+APR: Day 0.50% Week 3.49% Year 181.62%
+You are staking 0.00 [LUX]-[SOUL] Soulswap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [LUX]-[SOUL] Soulswap LP Token
+Unstake 0.00 [LUX]-[SOUL] Soulswap LP Token
+Claim 0.00 SOUL ($0.00)
+Staking or unstaking also claims rewards.
+
+47 - [WFTM]-[wLUM] Soulswap LP Token [+] [-] [<=>] Price: $4,642,039.58 TVL: $37,290.89
+WFTM Price: $2.02
+wLUM Price: $2,635.26
+Staked: 0.0080 SOUL-LP ($36,916.97)
+SOUL Per Week: 11666.67 ($779.35)
+APR: Day 0.30% Week 2.11% Year 109.78%
+You are staking 0.00 [WFTM]-[wLUM] Soulswap LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[wLUM] Soulswap LP Token
+Unstake 0.00 [WFTM]-[wLUM] Soulswap LP Token
+Claim 0.00 SOUL ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $4,176,352.96

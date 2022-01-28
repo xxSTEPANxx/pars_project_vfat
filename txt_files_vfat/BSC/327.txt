@@ -1,0 +1,227 @@
+*************** 👨‍🌾 UNOFFICIAL ELEPHANTSWAP FINANCE FARMING CALCULATOR 👨‍🌾 *****************
+INFO  : https://app.elephantswap.finance
+*******************************************************************************************
+
+Thu Jan 27 2022 21:13:40 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 24 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [ELEPHANT]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.04 TVL: $282.57
+ELEPHANT Price: $0.000253
+BUSD Price: $1.00
+Staked: 6348.1675 Cake-LP ($279.19)
+ELEPHANT Per Week: 54486.49 ($13.77)
+APR: Day 0.70% Week 4.93% Year 256.47%
+You are staking 0.00 [ELEPHANT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ELEPHANT]-[BUSD] Cake LP
+Unstake 0.00 [ELEPHANT]-[BUSD] Cake LP
+Claim 0.00 ELEPHANT ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [ELEPHANT]-[WBNB] Cake LP [+] [-] [<=>] Price: $0.81 TVL: $487.84
+ELEPHANT Price: $0.000253
+WBNB Price: $368.51
+Staked: 116.2575 Cake-LP ($94.55)
+ELEPHANT Per Week: 50400.00 ($12.74)
+APR: Day 1.92% Week 13.47% Year 700.56%
+You are staking 0.00 [ELEPHANT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ELEPHANT]-[WBNB] Cake LP
+Unstake 0.00 [ELEPHANT]-[WBNB] Cake LP
+Claim 0.00 ELEPHANT ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.39 TVL: $345,719,073.54
+WBNB Price: $368.51
+BUSD Price: $1.00
+Staked: 0.4609 Cake-LP ($21.84)
+ELEPHANT Per Week: 8172.97 ($2.07)
+APR: Day 1.35% Week 9.46% Year 491.76%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 ELEPHANT ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $105.04 TVL: $199,989,496.82
+Cake Price: $6.94
+WBNB Price: $368.51
+Staked: 0.5000 Cake-LP ($52.52)
+ELEPHANT Per Week: 6810.81 ($1.72)
+APR: Day 0.47% Week 3.28% Year 170.42%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 ELEPHANT ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $296,508,304.80
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 155.1240 Cake-LP ($324.34)
+ELEPHANT Per Week: 2724.32 ($0.69)
+APR: Day 0.03% Week 0.21% Year 11.04%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 ELEPHANT ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.08 TVL: $131,129,984.08
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 7.8711 Cake-LP ($16.41)
+ELEPHANT Per Week: 2724.32 ($0.69)
+APR: Day 0.60% Week 4.20% Year 218.20%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 ELEPHANT ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [DAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.08 TVL: $16,826,057.62
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 82.2141 Cake-LP ($171.16)
+ELEPHANT Per Week: 2724.32 ($0.69)
+APR: Day 0.06% Week 0.40% Year 20.92%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 ELEPHANT ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [Cake]-[BUSD] Cake LP [+] [-] [<=>] Price: $7.76 TVL: $11,436,445.87
+Cake Price: $6.94
+BUSD Price: $1.00
+Staked: 4.6604 Cake-LP ($36.19)
+ELEPHANT Per Week: 5448.65 ($1.38)
+APR: Day 0.54% Week 3.81% Year 197.88%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 ELEPHANT ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - ELEPHANT Price: $0.000253 Market Cap: $1,366.05 [%]
+Staked: 3363726.2291 ELEPHANT ($850.12)
+ELEPHANT Per Week: 21794.59 ($5.51)
+APR: Day 0.09% Week 0.65% Year 33.69%
+You are staking 0.00 ELEPHANT ($0.00), 0.00% of the pool.
+Stake 0.00 ELEPHANT
+Unstake 0.00 ELEPHANT
+Claim 0.00 ELEPHANT ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - WBNB Price: $368.51 Market Cap: $1,923,825,558.80 [%]
+Staked: 0.9405 WBNB ($346.60)
+ELEPHANT Per Week: 6810.81 ($1.72)
+APR: Day 0.07% Week 0.50% Year 25.82%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 ELEPHANT ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - BUSD Price: $1.00 Market Cap: $4,834,239,185.74 [%]
+Staked: 112.6867 BUSD ($112.30)
+ELEPHANT Per Week: 6810.81 ($1.72)
+APR: Day 0.22% Week 1.53% Year 79.71%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 ELEPHANT ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - ETH Price: $2,438.01 Market Cap: $3,425,404,050.00 [%]
+Staked: 0.0003 ETH ($0.84)
+ELEPHANT Per Week: 4086.49 ($1.03)
+APR: Day 17.47% Week 122.28% Year 6358.55%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 ELEPHANT ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - BTCB Price: $36,216.00 Market Cap: $4,074,336,216.00 [%]
+Staked: 0.0002 BTCB ($8.43)
+ELEPHANT Per Week: 4086.49 ($1.03)
+APR: Day 1.75% Week 12.25% Year 636.75%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 ELEPHANT ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - Cake Price: $6.94 Market Cap: $4,267,835,195.44 [%]
+Staked: 2.3965 Cake ($16.63)
+ELEPHANT Per Week: 5448.65 ($1.38)
+APR: Day 1.18% Week 8.28% Year 430.54%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 ELEPHANT ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - USDT Price: $1.00 Market Cap: $3,873,626,965.59 [%]
+Staked: 26.1057 USDT ($26.06)
+ELEPHANT Per Week: 2724.32 ($0.69)
+APR: Day 0.38% Week 2.64% Year 137.37%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 ELEPHANT ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - DAI Price: $1.00 Market Cap: $261,564,556.00 [%]
+Staked: 91.2000 DAI ($91.05)
+ELEPHANT Per Week: 2724.32 ($0.69)
+APR: Day 0.11% Week 0.76% Year 39.32%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 ELEPHANT ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - [JAGUAR]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $31.88
+JAGUAR Price: $0.0000000076
+BUSD Price: $1.00
+Staked: 60.6733 Cake-LP ($0.01)
+ELEPHANT Per Week: 5448.65 ($1.38)
+APR: Day 1402.10% Week 9814.67% Year 510362.79%
+You are staking 0.00 [JAGUAR]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [JAGUAR]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [JAGUAR]-[BUSD] Cake LP
+Claim 0.00 ELEPHANT ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,037.09 TVL: $74,215,735.17
+ETH Price: $2,438.01
+WBNB Price: $368.51
+Staked: 0.0505 Cake-LP ($102.93)
+ELEPHANT Per Week: 4086.49 ($1.03)
+APR: Day 0.14% Week 1.00% Year 52.17%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 ELEPHANT ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $7,739.63 TVL: $68,443,122.88
+BTCB Price: $36,216.00
+WBNB Price: $368.51
+Staked: 0.0007 Cake-LP ($5.45)
+ELEPHANT Per Week: 4086.49 ($1.03)
+APR: Day 2.71% Week 18.96% Year 985.79%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 ELEPHANT ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $2,556.63

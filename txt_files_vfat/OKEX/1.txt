@@ -1,0 +1,87 @@
+*************** 👨‍🌾 UNOFFICIAL SAKESWAP.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://okapp.sakeswap.fi
+*************************************************************************************
+
+Fri Jan 28 2022 01:06:53 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 6 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [SAKE]-[WOKT] SLP [+] [-] [<=>] Price: $0.57 TVL: $22.24
+SAKE Price: $0.002005
+WOKT Price: $40.72
+Staked: 37.7250 SLP ($21.59)
+SAKE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [SAKE]-[WOKT] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [SAKE]-[WOKT] SLP - Fee 0.9%
+Unstake 0.00 [SAKE]-[WOKT] SLP
+Claim 0.00 SAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [USDT]-[WOKT] SLP [+] [-] [<=>] Price: $12.92 TVL: $75.14
+USDT Price: $1.01
+WOKT Price: $40.72
+Staked: 1.0471 SLP ($13.53)
+SAKE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDT]-[WOKT] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WOKT] SLP - Fee 233.64%
+Unstake 0.00 [USDT]-[WOKT] SLP
+Claim 0.00 SAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [BTCK]-[WOKT] SLP [+] [-] [<=>] Price: $2,418.94 TVL: $12.68
+BTCK Price: $35,896.00
+WOKT Price: $40.72
+Staked: 0.0044 SLP ($10.66)
+SAKE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [BTCK]-[WOKT] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCK]-[WOKT] SLP - Fee 222.4%
+Unstake 0.00 [BTCK]-[WOKT] SLP
+Claim 0.00 SAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WOKT]-[ETHK] SLP [+] [-] [<=>] Price: $632.35 TVL: $5.01
+WOKT Price: $40.72
+ETHK Price: $2,450.71
+Staked: 0.0000 SLP ($0.00)
+SAKE Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [WOKT]-[ETHK] SLP ($0.00), NaN% of the pool.
+Stake 0.00 [WOKT]-[ETHK] SLP - Fee 480.77%
+Unstake 0.00 [WOKT]-[ETHK] SLP
+Claim 0.00 SAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDT]-[NULS] SLP [+] [-] [<=>] Price: $152,334.24 TVL: $0.31
+USDT Price: $1.01
+NULS Price: $0.57
+Staked: 0.0000 SLP ($0.00)
+SAKE Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [USDT]-[NULS] SLP ($0.00), NaN% of the pool.
+Stake 0.00 [USDT]-[NULS] SLP - Fee 532.03%
+Unstake 0.00 [USDT]-[NULS] SLP
+Claim 0.00 SAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [USDT]-[NVT] SLP [+] [-] [<=>] Price: $11,708.29 TVL: $0.94
+USDT Price: $1.01
+NVT Price: $0.003324
+Staked: 0.0001 SLP ($0.68)
+SAKE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDT]-[NVT] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[NVT] SLP - Fee 411.33%
+Unstake 0.00 [USDT]-[NVT] SLP
+Claim 0.00 SAKE ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $46.45

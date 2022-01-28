@@ -1,0 +1,52 @@
+*************** 👨‍🌾 UNOFFICIAL NILDAO FARMING CALCULATOR 👨‍🌾 ******************
+INFO  : https://www.nildao.xyz
+******************************************************************************
+
+Thu Jan 27 2022 20:08:35 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+NIL Price: $3.20 Market Cap: $1,805,515.06 [%]
+Staked: 198643.8754 NIL ($635,660.40)
+NIL Per Week: 0.02 ($0.06)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 NIL $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 NIL
+Unstake 0.000000 NIL
+Claim 0.000000 NIL ($0.00)
+Revoke (set approval to 0)
+Exit
+
+Staked Token : N Total Supply (8888)
+NIL Per Week: 1.90 ($6.08)
+You are staking 0.000000 N $0.00 (NaN% of the pool).
+Etherscan
+Stake 0.000000 N
+Unstake 0.000000 N
+Claim 0.000000 NIL ($0.00)
+Revoke (set approval to 0)
+Exit
+
+Total staked: $635,660.40
+Staking Contract
+Finished reading smart contracts.
+[NIL]-[WETH] SLP [+] [-] [<=>] Price: $183.47 TVL: $238,781.85
+NIL Price: $3.20
+WETH Price: $2,475.46
+Staked: 1285.3179 SLP ($235,820.75)
+SUSHI Per Week: 41.73 ($174.83)
+NIL Per Week: 2100.00 ($6,720.00)
+APR SUSHI: Day 0.01% Week 0.07% Year 3.86%
+APR NIL: Day 0.41% Week 2.85% Year 148.18%
+Total Per Week: $6,894.83
+Total APR: Day 0.4177% Week 2.92% Year 152.04%
+You are staking 0.00 [NIL]-[WETH] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [NIL]-[WETH] SLP
+Unstake 0.00 [NIL]-[WETH] SLP
+Claim 0.00 SUSHI ($0.00) + 0.00 NIL ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $235,820.75

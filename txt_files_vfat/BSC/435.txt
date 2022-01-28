@@ -1,0 +1,265 @@
+*************** 👨‍🌾 UNOFFICIAL MACARONSWAP.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://www.macaronswap.finance
+*****************************************************************************************
+
+Thu Jan 27 2022 21:28:27 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading tasty smart contracts...
+Staking Contract
+Found 32 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - MCRN Price: $0.00 Market Cap: $0.00 
+Staked: 1306952.0394 MCRN ($0.00)
+MCRN Per Week: 17136.00 ($14,424.61)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 MCRN ($0.00), NaN% of the pool.
+Stake 0.00 MCRN
+Unstake 0.00 MCRN
+Claim 0.00 MCRN ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $296,908,497.60
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+MCRN Per Week: 916.98 ($771.89)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 MCRN ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [MCRN]-[WBNB] Cake LP [+] [-] [<=>] Price: $36.86 TVL: $572,487.01
+MCRN Price: $0.84
+WBNB Price: $368.43
+Staked: 15331.8245 Cake-LP ($565,122.43)
+MCRN Per Week: 11462.21 ($9,648.57)
+APR: Day 0.24% Week 1.71% Year 88.78%
+You are staking 0.00 [MCRN]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MCRN]-[WBNB] Cake LP
+Unstake 0.00 [MCRN]-[WBNB] Cake LP
+Claim 0.00 MCRN ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $105.26 TVL: $200,400,288.79
+Cake Price: $6.97
+WBNB Price: $368.43
+Staked: 0.0000 Cake-LP ($0.00)
+MCRN Per Week: 1948.58 ($1,640.26)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 MCRN ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.41 TVL: $345,869,839.51
+WBNB Price: $368.43
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+MCRN Per Week: 687.73 ($578.91)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 MCRN ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $7,729.92 TVL: $68,358,446.35
+BTCB Price: $36,133.00
+WBNB Price: $368.43
+Staked: 0.0000 Cake-LP ($0.00)
+MCRN Per Week: 229.24 ($192.97)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 MCRN ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,035.87 TVL: $74,171,249.54
+ETH Price: $2,435.59
+WBNB Price: $368.43
+Staked: 0.0000 Cake-LP ($0.00)
+MCRN Per Week: 114.62 ($96.49)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 MCRN ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [TWT]-[WBNB] Cake LP [+] [-] [<=>] Price: $29.42 TVL: $2,140,831.45
+TWT Price: $0.50
+WBNB Price: $368.43
+Staked: 0.0000 Cake-LP ($0.00)
+MCRN Per Week: 91.70 ($77.19)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [TWT]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [TWT]-[WBNB] Cake LP
+Unstake 0.00 [TWT]-[WBNB] Cake LP
+Claim 0.00 MCRN ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [DOGE]-[WBNB] Cake LP [+] [-] [<=>] Price: $1,655,773.50 TVL: $5,591,979.76
+DOGE Price: $0.14
+WBNB Price: $368.43
+Staked: 0.0000 Cake-LP ($0.00)
+MCRN Per Week: 22.92 ($19.30)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [DOGE]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [DOGE]-[WBNB] Cake LP
+Unstake 0.00 [DOGE]-[WBNB] Cake LP
+Claim 0.00 MCRN ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [Cake]-[BUSD] Cake LP [+] [-] [<=>] Price: $7.79 TVL: $11,467,711.94
+Cake Price: $6.97
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+MCRN Per Week: 91.70 ($77.19)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 MCRN ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [WBNB]-[LINK] Cake LP [+] [-] [<=>] Price: $155.70 TVL: $10,357,231.39
+WBNB Price: $368.43
+LINK Price: $14.98
+Staked: 0.0000 Cake-LP ($0.00)
+MCRN Per Week: 45.85 ($38.59)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WBNB]-[LINK] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBNB]-[LINK] Cake LP
+Unstake 0.00 [WBNB]-[LINK] Cake LP
+Claim 0.00 MCRN ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [ADA]-[WBNB] Cake LP [+] [-] [<=>] Price: $42.30 TVL: $12,078,074.94
+ADA Price: $1.03
+WBNB Price: $368.43
+Staked: 0.0000 Cake-LP ($0.00)
+MCRN Per Week: 45.85 ($38.59)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 MCRN ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - [DOT]-[WBNB] Cake LP [+] [-] [<=>] Price: $172.36 TVL: $17,694,672.03
+DOT Price: $17.91
+WBNB Price: $368.43
+Staked: 0.0000 Cake-LP ($0.00)
+MCRN Per Week: 45.85 ($38.59)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 MCRN ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $131,317,921.25
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+MCRN Per Week: 22.92 ($19.30)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 MCRN ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - [TRX]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.51 TVL: $15,888,943.74
+TRX Price: $0.06
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+MCRN Per Week: 22.92 ($19.30)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [TRX]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [TRX]-[BUSD] Cake LP
+Unstake 0.00 [TRX]-[BUSD] Cake LP
+Claim 0.00 MCRN ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - [DUEL]-[WBNB] Cake LP [+] [-] [<=>] Price: $10.84 TVL: $170,689.07
+DUEL Price: $0.07
+WBNB Price: $368.43
+Staked: 2960.2036 Cake-LP ($32,100.68)
+MCRN Per Week: 343.87 ($289.46)
+APR: Day 0.13% Week 0.90% Year 46.89%
+You are staking 0.00 [DUEL]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DUEL]-[WBNB] Cake LP
+Unstake 0.00 [DUEL]-[WBNB] Cake LP
+Claim 0.00 MCRN ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - [BANANA]-[WBNB] APE LP [+] [-] [<=>] Price: $34.21 TVL: $12,917,633.94
+BANANA Price: $0.61
+WBNB Price: $368.43
+Staked: 0.0000 APE-LP ($0.00)
+MCRN Per Week: 171.93 ($144.73)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [BANANA]-[WBNB] APE LP ($0.00), NaN% of the pool.
+Stake 0.00 [BANANA]-[WBNB] APE LP
+Unstake 0.00 [BANANA]-[WBNB] APE LP
+Claim 0.00 MCRN ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - [AVAX]-[WBNB] APE LP [+] [-] [<=>] Price: $331.31 TVL: $1,607,931.50
+AVAX Price: $64.72
+WBNB Price: $368.43
+Staked: 0.0000 APE-LP ($0.00)
+MCRN Per Week: 229.24 ($192.97)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [AVAX]-[WBNB] APE LP ($0.00), NaN% of the pool.
+Stake 0.00 [AVAX]-[WBNB] APE LP
+Unstake 0.00 [AVAX]-[WBNB] APE LP
+Claim 0.00 MCRN ($0.00)
+Staking or unstaking also claims rewards.
+
+29 - [WBNB]-[MATIC] APE LP [+] [-] [<=>] Price: $53.72 TVL: $2,322,397.47
+WBNB Price: $368.43
+MATIC Price: $1.59
+Staked: 0.0000 APE-LP ($0.00)
+MCRN Per Week: 45.85 ($38.59)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [WBNB]-[MATIC] APE LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBNB]-[MATIC] APE LP
+Unstake 0.00 [WBNB]-[MATIC] APE LP
+Claim 0.00 MCRN ($0.00)
+Staking or unstaking also claims rewards.
+
+30 - [XRP]-[WBNB] Cake LP [+] [-] [<=>] Price: $31.61 TVL: $6,960,863.12
+XRP Price: $0.60
+WBNB Price: $368.43
+Staked: 0.0000 Cake-LP ($0.00)
+MCRN Per Week: 22.92 ($19.30)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [XRP]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [XRP]-[WBNB] Cake LP
+Unstake 0.00 [XRP]-[WBNB] Cake LP
+Claim 0.00 MCRN ($0.00)
+Staking or unstaking also claims rewards.
+
+31 - [WBNB]-[TAPE] Cake LP [+] [-] [<=>] Price: $2.60 TVL: $19,396.90
+WBNB Price: $368.43
+TAPE Price: $0.002659
+Staked: 7352.9470 Cake-LP ($19,142.84)
+MCRN Per Week: 573.11 ($482.43)
+APR: Day 0.36% Week 2.52% Year 131.05%
+You are staking 0.00 [WBNB]-[TAPE] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[TAPE] Cake LP
+Unstake 0.00 [WBNB]-[TAPE] Cake LP
+Claim 0.00 MCRN ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $616,365.96

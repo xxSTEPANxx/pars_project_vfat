@@ -1,0 +1,277 @@
+*************** 👨‍🌾 UNOFFICIAL CASHCOWSWAP FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://cashcowswap.org
+********************************************************************************
+
+Thu Jan 27 2022 21:03:14 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 24 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - CCDI Price: $0.000398 Market Cap: $230.20 [%]
+Staked: 178105.8657 CCDI ($70.81)
+CCDI Per Week: 2943.07 ($1.17)
+APR: Day 0.24% Week 1.65% Year 85.93%
+You are staking 0.00 CCDI ($0.00), 0.00% of the pool.
+Stake 0.00 CCDI
+Unstake 0.00 CCDI
+Claim 0.00 CCDI ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - SPON Price: $0.00 Market Cap: $0.00 
+Staked: 2446.0450 SPON ($0.00)
+CCDI Per Week: 1765.84 ($0.70)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 SPON ($0.00), NaN% of the pool.
+Stake 0.00 SPON
+Unstake 0.00 SPON
+Claim 0.00 CCDI ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - BUSD Price: $1.00 Market Cap: $4,850,999,388.63 [%]
+Staked: 453.9098 BUSD ($453.91)
+CCDI Per Week: 588.61 ($0.23)
+APR: Day 0.01% Week 0.05% Year 2.68%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 CCDI ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - WBNB Price: $369.34 Market Cap: $1,928,136,411.24 [%]
+Staked: 0.1470 WBNB ($54.29)
+CCDI Per Week: 588.61 ($0.23)
+APR: Day 0.06% Week 0.43% Year 22.42%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 CCDI ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - USDT Price: $1.00 Market Cap: $3,879,997,922.18 [%]
+Staked: 0.0000 USDT ($0.00)
+CCDI Per Week: 294.31 ($0.12)
+APR: Day 173421.13% Week 1213947.88% Year 63125289.98%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 CCDI ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - USDC Price: $1.00 Market Cap: $1,779,000,000.00 [%]
+Staked: 42.2097 USDC ($42.21)
+CCDI Per Week: 294.31 ($0.12)
+APR: Day 0.04% Week 0.28% Year 14.42%
+You are staking 0.00 USDC ($0.00), 0.00% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 CCDI ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - DAI Price: $1.00 Market Cap: $261,980,612.00 [%]
+Staked: 33.0103 DAI ($33.01)
+CCDI Per Week: 294.31 ($0.12)
+APR: Day 0.05% Week 0.35% Year 18.43%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 CCDI ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - BTCB Price: $36,305.00 Market Cap: $4,084,348,805.00 [%]
+Staked: 0.0000 BTCB ($0.00)
+CCDI Per Week: 588.61 ($0.23)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 BTCB ($0.00), NaN% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 CCDI ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - ETH Price: $2,458.64 Market Cap: $3,454,389,200.00 [%]
+Staked: 0.0010 ETH ($2.43)
+CCDI Per Week: 588.61 ($0.23)
+APR: Day 1.37% Week 9.61% Year 499.96%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 CCDI ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - DOT Price: $18.08 Market Cap: $289,279,999.84 [%]
+Staked: 0.0010 DOT ($0.02)
+CCDI Per Week: 294.31 ($0.12)
+APR: Day 92.46% Week 647.20% Year 33654.19%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 CCDI ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - Cake Price: $7.01 Market Cap: $4,310,862,327.36 [%]
+Staked: 0.2880 Cake ($2.02)
+CCDI Per Week: 294.31 ($0.12)
+APR: Day 0.83% Week 5.80% Year 301.39%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 CCDI ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - BELT Price: $0.00 Market Cap: $0.00 
+Staked: 0.0100 BELT ($0.00)
+CCDI Per Week: 294.31 ($0.12)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BELT ($0.00), NaN% of the pool.
+Stake 0.00 BELT - Fee 4%
+Unstake 0.00 BELT
+Claim 0.00 CCDI ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [WBNB]-[CCDI] Cake LP [+] [-] [<=>] Price: $0.94 TVL: $142.75
+WBNB Price: $369.34
+CCDI Price: $0.000398
+Staked: 109.7720 Cake-LP ($102.81)
+CCDI Per Week: 10300.73 ($4.10)
+APR: Day 0.57% Week 3.98% Year 207.15%
+You are staking 0.00 [WBNB]-[CCDI] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[CCDI] Cake LP
+Unstake 0.00 [WBNB]-[CCDI] Cake LP
+Claim 0.00 CCDI ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [CCDI]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.05 TVL: $33.17
+CCDI Price: $0.000398
+BUSD Price: $1.00
+Staked: 227.7454 Cake-LP ($11.46)
+CCDI Per Week: 7357.66 ($2.93)
+APR: Day 3.65% Week 25.53% Year 1327.55%
+You are staking 0.00 [CCDI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CCDI]-[BUSD] Cake LP
+Unstake 0.00 [CCDI]-[BUSD] Cake LP
+Claim 0.00 CCDI ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.52 TVL: $346,705,021.33
+WBNB Price: $369.34
+BUSD Price: $1.00
+Staked: 23.8436 Cake-LP ($1,133.07)
+CCDI Per Week: 1765.84 ($0.70)
+APR: Day 0.01% Week 0.06% Year 3.22%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 CCDI ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.10 TVL: $297,265,740.90
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 17.8960 Cake-LP ($37.51)
+CCDI Per Week: 1177.23 ($0.47)
+APR: Day 0.18% Week 1.25% Year 64.88%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 CCDI ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $131,523,845.61
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0001 Cake-LP ($0.00)
+CCDI Per Week: 1177.23 ($0.47)
+APR: Day 33311.12% Week 233177.86% Year 12125248.53%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 CCDI ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [DAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $16,868,591.36
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0010 Cake-LP ($0.00)
+CCDI Per Week: 1177.23 ($0.47)
+APR: Day 3337.07% Week 23359.47% Year 1214692.63%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 CCDI ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $7,757.85 TVL: $68,836,745.11
+BTCB Price: $36,305.00
+WBNB Price: $369.34
+Staked: 0.0000 Cake-LP ($0.00)
+CCDI Per Week: 1765.84 ($0.70)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 CCDI ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,048.00 TVL: $74,612,919.02
+ETH Price: $2,458.64
+WBNB Price: $369.34
+Staked: 0.0000 Cake-LP ($0.00)
+CCDI Per Week: 1765.84 ($0.70)
+APR: Day 102403.11% Week 716821.76% Year 37274731.74%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 CCDI ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - [DOT]-[WBNB] Cake LP [+] [-] [<=>] Price: $173.39 TVL: $17,800,352.73
+DOT Price: $18.08
+WBNB Price: $369.34
+Staked: 0.0055 Cake-LP ($0.95)
+CCDI Per Week: 1471.53 ($0.59)
+APR: Day 8.79% Week 61.54% Year 3200.29%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 CCDI ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - [Cake]-[BUSD] Cake LP [+] [-] [<=>] Price: $7.82 TVL: $11,513,643.76
+Cake Price: $7.01
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+CCDI Per Week: 588.61 ($0.23)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 CCDI ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $105.69 TVL: $201,224,748.53
+Cake Price: $7.01
+WBNB Price: $369.34
+Staked: 0.0000 Cake-LP ($0.00)
+CCDI Per Week: 1765.84 ($0.70)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 CCDI ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - 4Belt Price: $0.00 Market Cap: $0.00 
+Staked: 9.9243 4Belt ($0.00)
+CCDI Per Week: 1177.23 ($0.47)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 4Belt ($0.00), NaN% of the pool.
+Stake 0.00 4Belt - Fee 4%
+Unstake 0.00 4Belt
+Claim 0.00 CCDI ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $1,944.50

@@ -1,0 +1,57 @@
+*************** 👨‍🌾 UNOFFICIAL KEEP FINANCE CALCULATOR 👨‍🌾 ************
+INFO  : https://dashboard.keep.network/liquidity
+**********************************************************************
+
+Thu Jan 27 2022 19:45:22 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+[KEEP]-[WETH] Uni LP [+] [-] [<=>] Price: $98.10 TVL: $10,855,395.38
+KEEP Price: $0.41
+WETH Price: $2,484.77
+Staked: 88833.3359 UNI-V2 ($8,714,927.99)
+KEEP Per Week: 170000.00 ($70,215.95)
+APR: Day 0.12% Week 0.81% Year 41.90%
+You are staking 0.000000 [KEEP]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [KEEP]-[WETH] Uni LP
+Unstake 0.000000 [KEEP]-[WETH] Uni LP
+Claim 0.000000 KEEP ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[TBTC]-[WETH] Uni LP [+] [-] [<=>] Price: $20,307.96 TVL: $23,734.93
+TBTC Price: $36,524.00
+WETH Price: $2,484.77
+Staked: 0.7363 UNI-V2 ($14,953.00)
+KEEP Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [TBTC]-[WETH] Uni LP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [TBTC]-[WETH] Uni LP
+Unstake 0.000000 [TBTC]-[WETH] Uni LP
+Claim 0.000000 KEEP ($0.00)
+Revoke (set approval to 0)
+Exit
+
+saddleTWRenSBTC Price: $37,283.63 Market Cap: $1,122,076.91 
+Staked: 20.5087 saddleTWRenSBTC ($764,639.19)
+KEEP Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 saddleTWRenSBTC $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 saddleTWRenSBTC
+Unstake 0.000000 saddleTWRenSBTC
+Claim 0.000000 KEEP ($0.00)
+Revoke (set approval to 0)
+Exit
+
+Total staked: $9,494,520.18
+KEEP Price: $0.413035 TVL: $397,381.77
+Staked: 962101.93
+KEEP Per Week: 23333.33 ($9,637.48)
+APR: Day 0.35% Week 2.43% Year 126.11%
+You are staking 0.00 KEEP ($0.00), 0.00% of the pool.
+Unstake 0.00 KEEP

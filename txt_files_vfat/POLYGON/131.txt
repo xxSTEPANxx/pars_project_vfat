@@ -6,117 +6,17 @@ INFO  : https://takodefi.com
 
 *** If you are being rate limited, please select a different RPC URL from here https://docs.matic.network/docs/develop/network-details/network/ ***
 
-Fri Dec 17 2021 10:22:27 GMT+0300 (Москва, стандартное время)
+Thu Jan 27 2022 22:42:37 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
 Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
 Reading smart contracts...
-Found 9 pools.
-Showing incentivized pools only.
-Finished reading smart contracts.
-0 - [WMATIC]-[TAKO] APE LP [+] [-] [<=>] Price: $0.55 TVL: $7,894.85
-WMATIC Price: $2.04
-TAKO Price: $0.04
-Staked: 7570.7195 APE-LP ($4,170.79)
-TAKO Per Week: 1874.44 ($66.84)
-APR: Day 0.23% Week 1.60% Year 83.33%
-You are staking 0.00 [WMATIC]-[TAKO] APE LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[TAKO] APE LP
-Unstake 0.00 [WMATIC]-[TAKO] APE LP
-Claim 0.00 TAKO ($0.00)
-Staking or unstaking also claims rewards.
-
-1 - [WMATIC]-[WETH] APE LP [+] [-] [<=>] Price: $180.95 TVL: $16,322,991.72
-WMATIC Price: $2.04
-WETH Price: $3,892.79
-Staked: 12.1729 APE-LP ($2,202.63)
-TAKO Per Week: 1499.55 ($53.47)
-APR: Day 0.35% Week 2.43% Year 126.24%
-You are staking 0.00 [WMATIC]-[WETH] APE LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[WETH] APE LP - Fee 1.5%
-Unstake 0.00 [WMATIC]-[WETH] APE LP
-Claim 0.00 TAKO ($0.00)
-Staking or unstaking also claims rewards.
-
-2 - [WMATIC]-[USDT] APE LP [+] [-] [<=>] Price: $2,942,489.96 TVL: $2,966,662.80
-WMATIC Price: $2.04
-USDT Price: $1.00
-Staked: 0.0004 APE-LP ($1,252.91)
-TAKO Per Week: 1499.55 ($53.47)
-APR: Day 0.61% Week 4.27% Year 221.93%
-You are staking 0.00 [WMATIC]-[USDT] APE LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[USDT] APE LP - Fee 1.5%
-Unstake 0.00 [WMATIC]-[USDT] APE LP
-Claim 0.00 TAKO ($0.00)
-Staking or unstaking also claims rewards.
-
-3 - [USDC]-[USDT] APE LP [+] [-] [<=>] Price: $2,011,399,670,108.55 TVL: $17,211.90
-USDC Price: $1.00
-USDT Price: $1.00
-Staked: 0.0000 APE-LP ($3,411.81)
-TAKO Per Week: 749.78 ($26.74)
-APR: Day 0.11% Week 0.78% Year 40.75%
-You are staking 0.00 [USDC]-[USDT] APE LP ($0.00), 0.00% of the pool.
-Stake 0.00 [USDC]-[USDT] APE LP - Fee 1.5%
-Unstake 0.00 [USDC]-[USDT] APE LP
-Claim 0.00 TAKO ($0.00)
-Staking or unstaking also claims rewards.
-
-4 - [BANANA]-[WETH] APE LP [+] [-] [<=>] Price: $129.91 TVL: $110,235.62
-BANANA Price: $1.06
-WETH Price: $3,892.79
-Staked: 45.6515 APE-LP ($5,930.56)
-TAKO Per Week: 1124.66 ($40.10)
-APR: Day 0.10% Week 0.68% Year 35.16%
-You are staking 0.00 [BANANA]-[WETH] APE LP ($0.00), 0.00% of the pool.
-Stake 0.00 [BANANA]-[WETH] APE LP - Fee 1.5%
-Unstake 0.00 [BANANA]-[WETH] APE LP
-Claim 0.00 TAKO ($0.00)
-Staking or unstaking also claims rewards.
-
-5 - [WMATIC]-[CRYSTL] APE LP [+] [-] [<=>] Price: $1.41 TVL: $554,842.92
-WMATIC Price: $2.04
-CRYSTL Price: $0.23
-Staked: 3707.7841 APE-LP ($5,221.02)
-TAKO Per Week: 937.22 ($33.42)
-APR: Day 0.09% Week 0.64% Year 33.29%
-You are staking 0.00 [WMATIC]-[CRYSTL] APE LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[CRYSTL] APE LP
-Unstake 0.00 [WMATIC]-[CRYSTL] APE LP
-Claim 0.00 TAKO ($0.00)
-Staking or unstaking also claims rewards.
-
-6 - [WMATIC]-[INKU] APE LP [+] [-] [<=>] Price: $1.90 TVL: $1,619.67
-WMATIC Price: $2.04
-INKU Price: $0.43
-Staked: 663.2084 APE-LP ($1,262.68)
-TAKO Per Week: 1124.66 ($40.10)
-APR: Day 0.45% Week 3.18% Year 165.16%
-You are staking 0.00 [WMATIC]-[INKU] APE LP ($0.00), 0.00% of the pool.
-Stake 0.00 [WMATIC]-[INKU] APE LP
-Unstake 0.00 [WMATIC]-[INKU] APE LP
-Claim 0.00 TAKO ($0.00)
-Staking or unstaking also claims rewards.
-
-7 - TAKO Price: $0.04 Market Cap: $16,162.89 [%]
-Staked: 90518.3748 TAKO ($3,227.74)
-TAKO Per Week: 1124.66 ($40.10)
-APR: Day 0.18% Week 1.24% Year 64.61%
-You are staking 0.00 TAKO ($0.00), 0.00% of the pool.
-Stake 0.00 TAKO
-Unstake 0.00 TAKO
-Claim 0.00 TAKO ($0.00)
-Staking or unstaking also claims rewards.
-
-8 - INKU Price: $0.43 Market Cap: $7,315.75 [%]
-Staked: 4882.3006 INKU ($2,098.27)
-TAKO Per Week: 1124.66 ($40.10)
-APR: Day 0.27% Week 1.91% Year 99.39%
-You are staking 0.00 INKU ($0.00), 0.00% of the pool.
-Stake 0.00 INKU
-Unstake 0.00 INKU
-Claim 0.00 TAKO ($0.00)
-Staking or unstaking also claims rewards.
-
-Total Staked: $28,778.40
+{
+  "code": -32603,
+  "message": "Non-200 status code: '400'",
+  "data": {
+    "error": "Unable to verify your data submission."
+  }
+}
+Oops something went wrong. Try refreshing the page.

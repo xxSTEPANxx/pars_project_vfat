@@ -1,0 +1,20 @@
+*************** 👨‍🌾 UNOFFICIAL Genesis Finance FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://genesisfinance.app/
+********************************************************************************
+
+Wed Dec 22 2021 18:19:01 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+{
+  "code": -32603,
+  "message": "Internal JSON-RPC error.",
+  "data": {
+    "code": 3,
+    "message": "execution reverted",
+    "data": "0x"
+  }
+}
+Oops something went wrong. Try refreshing the page.

@@ -1,0 +1,435 @@
+*************** 👨‍🌾 UNOFFICIAL BEETHOVENX FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://app.beethovenx.io
+*******************************************************************************
+
+Fri Jan 28 2022 00:46:37 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 41 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+1 - [WFTM 33.33%]-[BTC 33.33%]-[ETH 33.33%] BPT Price: $569.69 TVL: $15,800,322.62
+WFTM Price: $2.02
+BTC Price: $35,904.00
+ETH Price: $2,343.74
+Staked: 27705.7141 [WFTM 33.33%]-[BTC 33.33%]-[ETH 33.33%] ($15,783,673.31)
+BEETS Per Week: 183254.40 ($97,223.79)
+APR: Day 0.09% Week 0.62% Year 32.03%
+You are staking 0.00 [WFTM 33.33%]-[BTC 33.33%]-[ETH 33.33%] ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM 33.33%]-[BTC 33.33%]-[ETH 33.33%]
+Unstake 0.00 [WFTM 33.33%]-[BTC 33.33%]-[ETH 33.33%]
+Claim 0.00 BEETS ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDC 10.00%]-[CRV 10.00%]-[WFTM 40.00%]-[SPIRIT 10.00%]-[BOO 10.00%]-[LINK 10.00%]-[SCREAM 10.00%] BPT Price: $2.90 TVL: $580,439.22
+USDC Price: $1.00
+CRV Price: $2.73
+WFTM Price: $2.02
+SPIRIT Price: $0.13
+BOO Price: $25.19
+LINK Price: $14.68
+SCREAM Price: $74.31
+Staked: 195968.1702 [USDC 10.00%]-[CRV 10.00%]-[WFTM 40.00%]-[SPIRIT 10.00%]-[BOO 10.00%]-[LINK 10.00%]-[SCREAM 10.00%] ($568,645.47)
+BEETS Per Week: 907.20 ($481.31)
+APR: Day 0.01% Week 0.08% Year 4.40%
+You are staking 0.00 [USDC 10.00%]-[CRV 10.00%]-[WFTM 40.00%]-[SPIRIT 10.00%]-[BOO 10.00%]-[LINK 10.00%]-[SCREAM 10.00%] ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC 10.00%]-[CRV 10.00%]-[WFTM 40.00%]-[SPIRIT 10.00%]-[BOO 10.00%]-[LINK 10.00%]-[SCREAM 10.00%]
+Unstake 0.00 [USDC 10.00%]-[CRV 10.00%]-[WFTM 40.00%]-[SPIRIT 10.00%]-[BOO 10.00%]-[LINK 10.00%]-[SCREAM 10.00%]
+Claim 0.00 BEETS ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDC 40.00%]-[ETH 60.00%] BPT Price: $105.53 TVL: $1,586,708.96
+USDC Price: $1.00
+ETH Price: $2,343.74
+Staked: 15027.2299 [USDC 40.00%]-[ETH 60.00%] ($1,585,896.68)
+BEETS Per Week: 7257.60 ($3,850.45)
+APR: Day 0.03% Week 0.24% Year 12.63%
+You are staking 0.00 [USDC 40.00%]-[ETH 60.00%] ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC 40.00%]-[ETH 60.00%]
+Unstake 0.00 [USDC 40.00%]-[ETH 60.00%]
+Claim 0.00 BEETS ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [USDC 40.00%]-[BTC 60.00%] BPT Price: $538.47 TVL: $2,129,020.33
+USDC Price: $1.00
+BTC Price: $35,904.00
+Staked: 3949.6289 [USDC 40.00%]-[BTC 60.00%] ($2,126,746.31)
+BEETS Per Week: 7257.60 ($3,850.45)
+APR: Day 0.03% Week 0.18% Year 9.41%
+You are staking 0.00 [USDC 40.00%]-[BTC 60.00%] ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC 40.00%]-[BTC 60.00%]
+Unstake 0.00 [USDC 40.00%]-[BTC 60.00%]
+Claim 0.00 BEETS ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [USDC 20.00%]-[BTC 50.00%]-[ETH 30.00%] BPT Price: $1,839.28 TVL: $1,107,753.74
+USDC Price: $1.00
+BTC Price: $35,904.00
+ETH Price: $2,343.74
+Staked: 602.0375 [USDC 20.00%]-[BTC 50.00%]-[ETH 30.00%] ($1,107,316.96)
+BEETS Per Week: 7257.60 ($3,850.45)
+APR: Day 0.05% Week 0.35% Year 18.08%
+You are staking 0.00 [USDC 20.00%]-[BTC 50.00%]-[ETH 30.00%] ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC 20.00%]-[BTC 50.00%]-[ETH 30.00%]
+Unstake 0.00 [USDC 20.00%]-[BTC 50.00%]-[ETH 30.00%]
+Claim 0.00 BEETS ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [USDC 30.00%]-[WFTM 70.00%] BPT Price: $1.60 TVL: $27,432,030.52
+USDC Price: $1.00
+WFTM Price: $2.02
+Staked: 15952495.0913 [USDC 30.00%]-[WFTM 70.00%] ($25,481,100.41)
+BEETS Per Week: 366508.80 ($194,447.58)
+APR: Day 0.11% Week 0.76% Year 39.68%
+You are staking 0.00 [USDC 30.00%]-[WFTM 70.00%] ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC 30.00%]-[WFTM 70.00%]
+Unstake 0.00 [USDC 30.00%]-[WFTM 70.00%]
+Claim 0.00 BEETS ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - BeetXLP_MIM_USDC_USDT Price: $0.00 Market Cap: $0.00 
+Staked: 17220259.2152 BeetXLP_MIM_USDC_USDT ($0.00)
+BEETS Per Week: 21772.80 ($11,551.34)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BeetXLP_MIM_USDC_USDT ($0.00), NaN% of the pool.
+Stake 0.00 BeetXLP_MIM_USDC_USDT
+Unstake 0.00 BeetXLP_MIM_USDC_USDT
+Claim 0.00 BEETS ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [WFTM 15.00%]-[SPELL 30.00%]-[MIM 15.00%]-[wMEMO 20.00%]-[ICE 20.00%] BPT Price: $2.30 TVL: $274,864.42
+WFTM Price: $2.02
+SPELL Price: $0.01
+MIM Price: $1.00
+wMEMO Price: $19,943.14
+ICE Price: $3.80
+Staked: 117370.5062 [WFTM 15.00%]-[SPELL 30.00%]-[MIM 15.00%]-[wMEMO 20.00%]-[ICE 20.00%] ($270,533.29)
+BEETS Per Week: 9979.20 ($5,294.36)
+APR: Day 0.28% Week 1.96% Year 101.76%
+You are staking 0.00 [WFTM 15.00%]-[SPELL 30.00%]-[MIM 15.00%]-[wMEMO 20.00%]-[ICE 20.00%] ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM 15.00%]-[SPELL 30.00%]-[MIM 15.00%]-[wMEMO 20.00%]-[ICE 20.00%]
+Unstake 0.00 [WFTM 15.00%]-[SPELL 30.00%]-[MIM 15.00%]-[wMEMO 20.00%]-[ICE 20.00%]
+Claim 0.00 BEETS ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [WFTM 30.00%]-[mooFantomBIFI 25.00%]-[BIFI 15.00%]-[BEETS 30.00%] BPT Price: $21.39 TVL: $262,836.48
+WFTM Price: $2.02
+mooFantomBIFI Price: $2,114.01
+BIFI Price: $1,832.08
+BEETS Price: $0.53
+Staked: 12268.5750 [WFTM 30.00%]-[mooFantomBIFI 25.00%]-[BIFI 15.00%]-[BEETS 30.00%] ($262,483.22)
+BEETS Per Week: 1814.40 ($962.61)
+APR: Day 0.05% Week 0.37% Year 19.07%
+You are staking 0.00 [WFTM 30.00%]-[mooFantomBIFI 25.00%]-[BIFI 15.00%]-[BEETS 30.00%] ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM 30.00%]-[mooFantomBIFI 25.00%]-[BIFI 15.00%]-[BEETS 30.00%]
+Unstake 0.00 [WFTM 30.00%]-[mooFantomBIFI 25.00%]-[BIFI 15.00%]-[BEETS 30.00%]
+Claim 0.00 BEETS ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [WFTM 25.00%]-[SPIRIT 12.00%]-[BOO 12.00%]-[TAROT 12.00%]-[ANY 12.00%]-[SCREAM 12.00%]-[BEETS 15.00%] BPT Price: $3.02 TVL: $2,802,391.23
+WFTM Price: $2.02
+SPIRIT Price: $0.13
+BOO Price: $25.19
+TAROT Price: $0.66
+ANY Price: $19.65
+SCREAM Price: $74.31
+BEETS Price: $0.53
+Staked: 895918.3313 [WFTM 25.00%]-[SPIRIT 12.00%]-[BOO 12.00%]-[TAROT 12.00%]-[ANY 12.00%]-[SCREAM 12.00%]-[BEETS 15.00%] ($2,701,280.25)
+BEETS Per Week: 29030.40 ($15,401.79)
+APR: Day 0.08% Week 0.57% Year 29.65%
+You are staking 0.00 [WFTM 25.00%]-[SPIRIT 12.00%]-[BOO 12.00%]-[TAROT 12.00%]-[ANY 12.00%]-[SCREAM 12.00%]-[BEETS 15.00%] ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM 25.00%]-[SPIRIT 12.00%]-[BOO 12.00%]-[TAROT 12.00%]-[ANY 12.00%]-[SCREAM 12.00%]-[BEETS 15.00%]
+Unstake 0.00 [WFTM 25.00%]-[SPIRIT 12.00%]-[BOO 12.00%]-[TAROT 12.00%]-[ANY 12.00%]-[SCREAM 12.00%]-[BEETS 15.00%]
+Claim 0.00 BEETS ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - BPT-GUQINQI Price: $0.00 Market Cap: $0.00 
+Staked: 29446169.0645 BPT-GUQINQI ($0.00)
+BEETS Per Week: 19051.20 ($10,107.42)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BPT-GUQINQI ($0.00), NaN% of the pool.
+Stake 0.00 BPT-GUQINQI
+Unstake 0.00 BPT-GUQINQI
+Claim 0.00 BEETS ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - [USDC 25.00%]-[WFTM 25.00%]-[BTC 25.00%]-[ETH 25.00%] BPT Price: $117.86 TVL: $12,856,517.09
+USDC Price: $1.00
+WFTM Price: $2.02
+BTC Price: $35,904.00
+ETH Price: $2,343.74
+Staked: 107008.1577 [USDC 25.00%]-[WFTM 25.00%]-[BTC 25.00%]-[ETH 25.00%] ($12,611,773.49)
+BEETS Per Week: 122472.00 ($64,976.29)
+APR: Day 0.07% Week 0.52% Year 26.79%
+You are staking 0.00 [USDC 25.00%]-[WFTM 25.00%]-[BTC 25.00%]-[ETH 25.00%] ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC 25.00%]-[WFTM 25.00%]-[BTC 25.00%]-[ETH 25.00%]
+Unstake 0.00 [USDC 25.00%]-[WFTM 25.00%]-[BTC 25.00%]-[ETH 25.00%]
+Claim 0.00 BEETS ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [WFTM 25.00%]-[SPELL 25.00%]-[MIM 25.00%]-[ICE 25.00%] BPT Price: $0.51 TVL: $1,295,904.91
+WFTM Price: $2.02
+SPELL Price: $0.01
+MIM Price: $1.00
+ICE Price: $3.80
+Staked: 1945474.2141 [WFTM 25.00%]-[SPELL 25.00%]-[MIM 25.00%]-[ICE 25.00%] ($987,913.09)
+BEETS Per Week: 100699.20 ($53,424.95)
+APR: Day 0.77% Week 5.41% Year 281.21%
+You are staking 0.00 [WFTM 25.00%]-[SPELL 25.00%]-[MIM 25.00%]-[ICE 25.00%] ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM 25.00%]-[SPELL 25.00%]-[MIM 25.00%]-[ICE 25.00%]
+Unstake 0.00 [WFTM 25.00%]-[SPELL 25.00%]-[MIM 25.00%]-[ICE 25.00%]
+Claim 0.00 BEETS ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [USDC 25.00%]-[CRV 25.00%]-[WFTM 25.00%]-[LINK 25.00%] BPT Price: $3.16 TVL: $1,158,645.74
+USDC Price: $1.00
+CRV Price: $2.73
+WFTM Price: $2.02
+LINK Price: $14.68
+Staked: 365877.4563 [USDC 25.00%]-[CRV 25.00%]-[WFTM 25.00%]-[LINK 25.00%] ($1,155,952.69)
+BEETS Per Week: 18144.00 ($9,626.12)
+APR: Day 0.12% Week 0.83% Year 43.30%
+You are staking 0.00 [USDC 25.00%]-[CRV 25.00%]-[WFTM 25.00%]-[LINK 25.00%] ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC 25.00%]-[CRV 25.00%]-[WFTM 25.00%]-[LINK 25.00%]
+Unstake 0.00 [USDC 25.00%]-[CRV 25.00%]-[WFTM 25.00%]-[LINK 25.00%]
+Claim 0.00 BEETS ($0.00)
+Staking or unstaking also claims rewards.
+
+[USDC 20.00%]-[HND 60.00%]-[WFTM 20.00%] BPT Price: $1.50 TVL: $5,440,806.82
+USDC Price: $1.00
+HND Price: $1.75
+WFTM Price: $2.02
+Staked: 3554261.7263 [USDC 20.00%]-[HND 60.00%]-[WFTM 20.00%] ($5,332,385.10)
+BEETS Per Week: 137894.40 ($73,158.49)
+HND Per Week: 25000.00 ($43,750.00)
+APR BEETS: Day 0.20% Week 1.37% Year 71.34%
+APR HND: Day 0.12% Week 0.82% Year 42.66%
+Total Per Week: $116,908.49
+Total APR: Day 0.3132% Week 2.19% Year 114.01%
+You are staking 0.00 [USDC 20.00%]-[HND 60.00%]-[WFTM 20.00%] ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC 20.00%]-[HND 60.00%]-[WFTM 20.00%]
+Unstake 0.00 [USDC 20.00%]-[HND 60.00%]-[WFTM 20.00%]
+Claim 0.00 BEETS ($0.00) + 0.00 HND ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - [USDC 25.00%]-[WFTM 25.00%]-[BNB 50.00%] BPT Price: $22.13 TVL: $1,955,547.08
+USDC Price: $1.00
+WFTM Price: $2.02
+BNB Price: $363.96
+Staked: 88337.4365 [USDC 25.00%]-[WFTM 25.00%]-[BNB 50.00%] ($1,954,941.43)
+BEETS Per Week: 28123.20 ($14,920.48)
+APR: Day 0.11% Week 0.76% Year 39.69%
+You are staking 0.00 [USDC 25.00%]-[WFTM 25.00%]-[BNB 50.00%] ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC 25.00%]-[WFTM 25.00%]-[BNB 50.00%]
+Unstake 0.00 [USDC 25.00%]-[WFTM 25.00%]-[BNB 50.00%]
+Claim 0.00 BEETS ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - fBEETS Price: $0.00 Market Cap: $0.00 
+Staked: 30133514.7463 fBEETS ($0.00)
+BEETS Per Week: 907200.00 ($481,305.89)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 fBEETS ($0.00), NaN% of the pool.
+Stake 0.00 fBEETS
+Unstake 0.00 fBEETS
+Claim 0.00 BEETS ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [WFTM 50.00%]-[DAI 50.00%] BPT Price: $1.46 TVL: $2,287,610.61
+WFTM Price: $2.02
+DAI Price: $1.00
+Staked: 1536576.8968 [WFTM 50.00%]-[DAI 50.00%] ($2,243,206.12)
+BEETS Per Week: 47174.40 ($25,027.91)
+APR: Day 0.16% Week 1.12% Year 58.02%
+You are staking 0.00 [WFTM 50.00%]-[DAI 50.00%] ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM 50.00%]-[DAI 50.00%]
+Unstake 0.00 [WFTM 50.00%]-[DAI 50.00%]
+Claim 0.00 BEETS ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - [USDC 25.00%]-[WFTM 25.00%]-[SOL 50.00%] BPT Price: $10.83 TVL: $1,177,108.88
+USDC Price: $1.00
+WFTM Price: $2.02
+SOL Price: $87.44
+Staked: 108604.0014 [USDC 25.00%]-[WFTM 25.00%]-[SOL 50.00%] ($1,176,705.10)
+BEETS Per Week: 19051.20 ($10,107.42)
+APR: Day 0.12% Week 0.86% Year 44.67%
+You are staking 0.00 [USDC 25.00%]-[WFTM 25.00%]-[SOL 50.00%] ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC 25.00%]-[WFTM 25.00%]-[SOL 50.00%]
+Unstake 0.00 [USDC 25.00%]-[WFTM 25.00%]-[SOL 50.00%]
+Claim 0.00 BEETS ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - BPT-MIMUSDCUST Price: $0.00 Market Cap: $0.00 
+Staked: 8892085.0613 BPT-MIMUSDCUST ($0.00)
+BEETS Per Week: 19051.20 ($10,107.42)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BPT-MIMUSDCUST ($0.00), NaN% of the pool.
+Stake 0.00 BPT-MIMUSDCUST
+Unstake 0.00 BPT-MIMUSDCUST
+Claim 0.00 BEETS ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - [WFTM 20.00%]-[MATIC 16.00%]-[SOL 16.00%]-[AVAX 16.00%]-[LUNA 16.00%]-[BNB 16.00%] BPT Price: $25.34 TVL: $7,131,816.19
+WFTM Price: $2.02
+MATIC Price: $1.53
+SOL Price: $87.44
+AVAX Price: $62.00
+LUNA Price: $54.94
+BNB Price: $363.96
+Staked: 277907.4128 [WFTM 20.00%]-[MATIC 16.00%]-[SOL 16.00%]-[AVAX 16.00%]-[LUNA 16.00%]-[BNB 16.00%] ($7,041,572.07)
+BEETS Per Week: 136987.20 ($72,677.19)
+APR: Day 0.15% Week 1.03% Year 53.67%
+You are staking 0.00 [WFTM 20.00%]-[MATIC 16.00%]-[SOL 16.00%]-[AVAX 16.00%]-[LUNA 16.00%]-[BNB 16.00%] ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM 20.00%]-[MATIC 16.00%]-[SOL 16.00%]-[AVAX 16.00%]-[LUNA 16.00%]-[BNB 16.00%]
+Unstake 0.00 [WFTM 20.00%]-[MATIC 16.00%]-[SOL 16.00%]-[AVAX 16.00%]-[LUNA 16.00%]-[BNB 16.00%]
+Claim 0.00 BEETS ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - BPT-asUSDC Price: $0.00 Market Cap: $0.00 
+Staked: 19875430.4750 BPT-asUSDC ($0.00)
+BEETS Per Week: 18144.00 ($9,626.12)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BPT-asUSDC ($0.00), NaN% of the pool.
+Stake 0.00 BPT-asUSDC
+Unstake 0.00 BPT-asUSDC
+Claim 0.00 BEETS ($0.00)
+Staking or unstaking also claims rewards.
+
+29 - [WFTM 10.00%]-[SPELL 20.00%]-[MIM 10.00%]-[SUSHI 20.00%]-[wMEMO 20.00%]-[ICE 20.00%] BPT Price: $4.77 TVL: $1,046,414.93
+WFTM Price: $2.02
+SPELL Price: $0.01
+MIM Price: $1.00
+SUSHI Price: $3.91
+wMEMO Price: $19,943.14
+ICE Price: $3.80
+Staked: 211659.2500 [WFTM 10.00%]-[SPELL 20.00%]-[MIM 10.00%]-[SUSHI 20.00%]-[wMEMO 20.00%]-[ICE 20.00%] ($1,010,278.67)
+BEETS Per Week: 6350.40 ($3,369.14)
+APR: Day 0.05% Week 0.33% Year 17.34%
+You are staking 0.00 [WFTM 10.00%]-[SPELL 20.00%]-[MIM 10.00%]-[SUSHI 20.00%]-[wMEMO 20.00%]-[ICE 20.00%] ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM 10.00%]-[SPELL 20.00%]-[MIM 10.00%]-[SUSHI 20.00%]-[wMEMO 20.00%]-[ICE 20.00%]
+Unstake 0.00 [WFTM 10.00%]-[SPELL 20.00%]-[MIM 10.00%]-[SUSHI 20.00%]-[wMEMO 20.00%]-[ICE 20.00%]
+Claim 0.00 BEETS ($0.00)
+Staking or unstaking also claims rewards.
+
+30 - [WFTM 20.00%]-[BELUGA 80.00%] BPT Price: $188.26 TVL: $413,796.63
+WFTM Price: $2.02
+BELUGA Price: $687.40
+Staked: 2003.4983 [WFTM 20.00%]-[BELUGA 80.00%] ($377,177.27)
+BEETS Per Week: 24494.40 ($12,995.26)
+APR: Day 0.49% Week 3.45% Year 179.16%
+You are staking 0.00 [WFTM 20.00%]-[BELUGA 80.00%] ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM 20.00%]-[BELUGA 80.00%]
+Unstake 0.00 [WFTM 20.00%]-[BELUGA 80.00%]
+Claim 0.00 BEETS ($0.00)
+Staking or unstaking also claims rewards.
+
+32 - [WFTM 20.00%]-[BTC 20.00%]-[ETH 20.00%]-[WSTA 30.00%]-[BEETS 10.00%] BPT Price: $532.12 TVL: $332,870.97
+WFTM Price: $2.02
+BTC Price: $35,904.00
+ETH Price: $2,343.74
+WSTA Price: $0.02
+BEETS Price: $0.53
+Staked: 621.5201 [WFTM 20.00%]-[BTC 20.00%]-[ETH 20.00%]-[WSTA 30.00%]-[BEETS 10.00%] ($330,724.15)
+BEETS Per Week: 21772.80 ($11,551.34)
+APR: Day 0.50% Week 3.49% Year 181.62%
+You are staking 0.00 [WFTM 20.00%]-[BTC 20.00%]-[ETH 20.00%]-[WSTA 30.00%]-[BEETS 10.00%] ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM 20.00%]-[BTC 20.00%]-[ETH 20.00%]-[WSTA 30.00%]-[BEETS 10.00%]
+Unstake 0.00 [WFTM 20.00%]-[BTC 20.00%]-[ETH 20.00%]-[WSTA 30.00%]-[BEETS 10.00%]
+Claim 0.00 BEETS ($0.00)
+Staking or unstaking also claims rewards.
+
+33 - BPT-STABEET Price: $0.00 Market Cap: $0.00 
+Staked: 48502627.3641 BPT-STABEET ($0.00)
+BEETS Per Week: 94348.80 ($50,055.81)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BPT-STABEET ($0.00), NaN% of the pool.
+Stake 0.00 BPT-STABEET
+Unstake 0.00 BPT-STABEET
+Claim 0.00 BEETS ($0.00)
+Staking or unstaking also claims rewards.
+
+34 - OHMYBEETS Price: $0.00 Market Cap: $0.00 
+Staked: 5.0000 OHMYBEETS ($0.00)
+BEETS Per Week: 136080.00 ($72,195.88)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 OHMYBEETS ($0.00), NaN% of the pool.
+Stake 0.00 OHMYBEETS
+Unstake 0.00 OHMYBEETS
+Claim 0.00 BEETS ($0.00)
+Staking or unstaking also claims rewards.
+
+35 - [USDC 20.00%]-[WFTM 20.00%]-[BOO 60.00%] BPT Price: $6.94 TVL: $622,250.33
+USDC Price: $1.00
+WFTM Price: $2.02
+BOO Price: $25.19
+Staked: 89286.9994 [USDC 20.00%]-[WFTM 20.00%]-[BOO 60.00%] ($619,978.84)
+BEETS Per Week: 19051.20 ($10,107.42)
+APR: Day 0.23% Week 1.63% Year 84.77%
+You are staking 0.00 [USDC 20.00%]-[WFTM 20.00%]-[BOO 60.00%] ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC 20.00%]-[WFTM 20.00%]-[BOO 60.00%]
+Unstake 0.00 [USDC 20.00%]-[WFTM 20.00%]-[BOO 60.00%]
+Claim 0.00 BEETS ($0.00)
+Staking or unstaking also claims rewards.
+
+36 - [LQDR 80.00%]-[WFTM 20.00%] BPT Price: $14.21 TVL: $798,620.75
+LQDR Price: $29.05
+WFTM Price: $2.02
+Staked: 54290.8689 [LQDR 80.00%]-[WFTM 20.00%] ($771,674.33)
+BEETS Per Week: 67132.80 ($35,616.64)
+APR: Day 0.66% Week 4.62% Year 240.01%
+You are staking 0.00 [LQDR 80.00%]-[WFTM 20.00%] ($0.00), 0.00% of the pool.
+Stake 0.00 [LQDR 80.00%]-[WFTM 20.00%]
+Unstake 0.00 [LQDR 80.00%]-[WFTM 20.00%]
+Claim 0.00 BEETS ($0.00)
+Staking or unstaking also claims rewards.
+
+37 - [WFTM 20.00%]-[EXOD 20.00%]-[gOHM 20.00%]-[wsEXOD 20.00%]-[miMATIC 20.00%] BPT Price: $68.65 TVL: $1,258,375.96
+WFTM Price: $2.02
+EXOD Price: $147.43
+gOHM Price: $4,570.39
+wsEXOD Price: $991.68
+miMATIC Price: $1.00
+Staked: 18026.8557 [WFTM 20.00%]-[EXOD 20.00%]-[gOHM 20.00%]-[wsEXOD 20.00%]-[miMATIC 20.00%] ($1,237,607.23)
+BEETS Per Week: 118843.20 ($63,051.07)
+APR: Day 0.73% Week 5.09% Year 264.92%
+You are staking 0.00 [WFTM 20.00%]-[EXOD 20.00%]-[gOHM 20.00%]-[wsEXOD 20.00%]-[miMATIC 20.00%] ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM 20.00%]-[EXOD 20.00%]-[gOHM 20.00%]-[wsEXOD 20.00%]-[miMATIC 20.00%]
+Unstake 0.00 [WFTM 20.00%]-[EXOD 20.00%]-[gOHM 20.00%]-[wsEXOD 20.00%]-[miMATIC 20.00%]
+Claim 0.00 BEETS ($0.00)
+Staking or unstaking also claims rewards.
+
+38 - [USDC 20.00%]-[WFTM 20.00%]-[BRUSH 60.00%] BPT Price: $0.22 TVL: $151,892.66
+USDC Price: $1.00
+WFTM Price: $2.02
+BRUSH Price: $0.08
+Staked: 633337.9428 [USDC 20.00%]-[WFTM 20.00%]-[BRUSH 60.00%] ($142,459.89)
+BEETS Per Week: 6350.40 ($3,369.14)
+APR: Day 0.34% Week 2.36% Year 122.98%
+You are staking 0.00 [USDC 20.00%]-[WFTM 20.00%]-[BRUSH 60.00%] ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC 20.00%]-[WFTM 20.00%]-[BRUSH 60.00%]
+Unstake 0.00 [USDC 20.00%]-[WFTM 20.00%]-[BRUSH 60.00%]
+Claim 0.00 BEETS ($0.00)
+Staking or unstaking also claims rewards.
+
+[WFTM 20.00%]-[gOHM 80.00%] BPT Price: $804.57 TVL: $47,787.93
+WFTM Price: $2.02
+gOHM Price: $4,570.39
+Staked: 21.2397 [WFTM 20.00%]-[gOHM 80.00%] ($17,088.78)
+BEETS Per Week: 18144.00 ($9,626.12)
+gOHM Per Week: 3.50 ($16,004.56)
+APR BEETS: Day 8.05% Week 56.33% Year 2929.16%
+APR gOHM: Day 13.38% Week 93.66% Year 4870.08%
+Total Per Week: $25,630.67
+Total APR: Day 21.4265% Week 149.99% Year 7799.24%
+You are staking 0.00 [WFTM 20.00%]-[gOHM 80.00%] ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM 20.00%]-[gOHM 80.00%]
+Unstake 0.00 [WFTM 20.00%]-[gOHM 80.00%]
+Claim 0.00 BEETS ($0.00) + 0.00 gOHM ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $86,899,114.17

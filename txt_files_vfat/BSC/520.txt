@@ -1,0 +1,53 @@
+*************** 👨‍🌾 Stake USDT to Earn SLD token 👨‍🌾 ***************
+INFO: https://shieldex.io/dds.html#/mining
+********************************************************************************************
+
+Thu Jan 27 2022 21:40:59 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+
+  ______   __        __            __        __        _______                        __                                    __ 
+ /      \ /  |      /  |          /  |      /  |      /       \                      /  |                                  /  |
+/$$$$$$  |$$ |____  $$/   ______  $$ |  ____$$ |      $$$$$$$  | ______    ______   _$$ |_     ______    _______   ______  $$ |
+$$ \__$$/ $$      \ /  | /      \ $$ | /    $$ |      $$ |__$$ |/      \  /      \ / $$   |   /      \  /       | /      \ $$ |
+$$      \ $$$$$$$  |$$ |/$$$$$$  |$$ |/$$$$$$$ |      $$    $$//$$$$$$  |/$$$$$$  |$$$$$$/   /$$$$$$  |/$$$$$$$/ /$$$$$$  |$$ |
+ $$$$$$  |$$ |  $$ |$$ |$$    $$ |$$ |$$ |  $$ |      $$$$$$$/ $$ |  $$/ $$ |  $$ |  $$ | __ $$ |  $$ |$$ |      $$ |  $$ |$$ |
+/  \__$$ |$$ |  $$ |$$ |$$$$$$$$/ $$ |$$ \__$$ |      $$ |     $$ |      $$ \__$$ |  $$ |/  |$$ \__$$ |$$ \_____ $$ \__$$ |$$ |
+$$    $$/ $$ |  $$ |$$ |$$       |$$ |$$    $$ |      $$ |     $$ |      $$    $$/   $$  $$/ $$    $$/ $$       |$$    $$/ $$ |
+ $$$$$$/  $$/   $$/ $$/  $$$$$$$/ $$/  $$$$$$$/       $$/      $$/        $$$$$$/     $$$$/   $$$$$$/   $$$$$$$/  $$$$$$/  $$/ 
+
+Finished reading smart contracts.
+********************* Shield Token(SLD) Info **********************
+Contract Address
+SLD Price: $0.1571
+Total Mined: 183872.2781 SLD ($28894.32)
+*******************************************************************
+
+*********************** Mining Instructions ***********************
+  - Firstly, provide USDT to get reUSDT via USDT public pool.
+  - Secondly, lock reUSDT in reward pool to earn SLD token.
+*******************************************************************
+
+USDT Public Pool
+-----------------------
+Total Provided: 75588.1245 USDT ($75588.12)
+You are providing: 0.00 USDT ($0.00)
+Contract Address
+Provide 0.0000 USDT to get 0.0000 reUSDT
+Withdraw 0.0000 reUSDT to redeem 0.0000 USDT
+-----------------------
+
+Reward Pool
+-----------------------
+Total Locked: 75235.8400 reUSDT ($75235.84)
+SLD token Mined Per Week: 3024.0000 ($475.20)
+APR: Day 0.09% Week 0.63% Year 32.93%
+You are locking 0.0000 reUSDT ($0.00), 0.00% of the pool.
+Contract Address
+Lock 0.0000 reUSDT
+Unlock 0.0000 reUSDT
+Claim 0.0000 SLD ($0.00).
+Lock or unlock also claims SLD rewards.

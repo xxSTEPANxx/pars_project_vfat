@@ -1,0 +1,291 @@
+*************** 👨‍🌾 UNOFFICIAL MARMELADE.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://marmelade.finance
+**************************************************************************************
+
+Thu Jan 27 2022 21:12:38 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 29 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [MARMEL]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.05 TVL: $32.40
+MARMEL Price: $0.000553
+BUSD Price: $1.00
+Staked: 618.0573 Cake-LP ($30.73)
+MARMEL Per Week: 11766.54 ($6.51)
+APR: Day 3.03% Week 21.19% Year 1101.71%
+You are staking 0.00 [MARMEL]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MARMEL]-[BUSD] Cake LP
+Unstake 0.00 [MARMEL]-[BUSD] Cake LP
+Claim 0.00 MARMEL ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [WBNB]-[MARMEL] Cake LP [+] [-] [<=>] Price: $0.97 TVL: $51.77
+WBNB Price: $369.08
+MARMEL Price: $0.000553
+Staked: 51.2391 Cake-LP ($49.91)
+MARMEL Per Week: 11766.54 ($6.51)
+APR: Day 1.86% Week 13.04% Year 678.31%
+You are staking 0.00 [WBNB]-[MARMEL] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[MARMEL] Cake LP
+Unstake 0.00 [WBNB]-[MARMEL] Cake LP
+Claim 0.00 MARMEL ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [BTCB]-[MARMEL] Cake LP [+] [-] [<=>] Price: $9.24 TVL: $63.44
+BTCB Price: $36,216.00
+MARMEL Price: $0.000553
+Staked: 5.9246 Cake-LP ($54.74)
+MARMEL Per Week: 11766.54 ($6.51)
+APR: Day 1.70% Week 11.89% Year 618.49%
+You are staking 0.00 [BTCB]-[MARMEL] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[MARMEL] Cake LP
+Unstake 0.00 [BTCB]-[MARMEL] Cake LP
+Claim 0.00 MARMEL ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,038.67 TVL: $74,273,152.09
+ETH Price: $2,438.01
+WBNB Price: $369.08
+Staked: 0.0036 Cake-LP ($7.24)
+MARMEL Per Week: 784.44 ($0.43)
+APR: Day 0.86% Week 5.99% Year 311.60%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 3%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 MARMEL ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $7,745.61 TVL: $68,496,030.99
+BTCB Price: $36,216.00
+WBNB Price: $369.08
+Staked: 0.0004 Cake-LP ($3.37)
+MARMEL Per Week: 784.44 ($0.43)
+APR: Day 1.84% Week 12.89% Year 670.46%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 3%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 MARMEL ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $105.12 TVL: $200,142,969.61
+Cake Price: $6.94
+WBNB Price: $369.08
+Staked: 0.0991 Cake-LP ($10.42)
+MARMEL Per Week: 784.44 ($0.43)
+APR: Day 0.59% Week 4.16% Year 216.55%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 3%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 MARMEL ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [ETH]-[BETH] Cake LP [+] [-] [<=>] Price: $4,799.52 TVL: $312,942.40
+ETH Price: $2,438.01
+BETH Price: $2,291.60
+Staked: 0.0000 Cake-LP ($0.00)
+MARMEL Per Week: 784.44 ($0.43)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [ETH]-[BETH] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [ETH]-[BETH] Cake LP - Fee 3%
+Unstake 0.00 [ETH]-[BETH] Cake LP
+Claim 0.00 MARMEL ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.43 TVL: $346,033,388.49
+WBNB Price: $369.08
+BUSD Price: $1.00
+Staked: 0.2649 Cake-LP ($12.57)
+MARMEL Per Week: 588.33 ($0.33)
+APR: Day 0.37% Week 2.59% Year 134.71%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 3%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 MARMEL ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [USDT]-[WBNB] Cake LP [+] [-] [<=>] Price: $48.74 TVL: $190,421,583.34
+USDT Price: $1.00
+WBNB Price: $369.08
+Staked: 0.0507 Cake-LP ($2.47)
+MARMEL Per Week: 588.33 ($0.33)
+APR: Day 1.88% Week 13.17% Year 685.03%
+You are staking 0.00 [USDT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WBNB] Cake LP - Fee 3%
+Unstake 0.00 [USDT]-[WBNB] Cake LP
+Claim 0.00 MARMEL ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - MARMEL Price: $0.000553 Market Cap: $361.64 [%]
+Staked: 383144.9213 MARMEL ($212.01)
+MARMEL Per Week: 5883.27 ($3.26)
+APR: Day 0.22% Week 1.54% Year 79.85%
+You are staking 0.00 MARMEL ($0.00), 0.00% of the pool.
+Stake 0.00 MARMEL
+Unstake 0.00 MARMEL
+Claim 0.00 MARMEL ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - BUSD Price: $1.00 Market Cap: $4,835,544,104.58 [%]
+Staked: 1185.5303 BUSD ($1,181.75)
+MARMEL Per Week: 196.11 ($0.11)
+APR: Day 0.00% Week 0.01% Year 0.48%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 3%
+Unstake 0.00 BUSD
+Claim 0.00 MARMEL ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - WBNB Price: $369.08 Market Cap: $1,926,801,025.31 [%]
+Staked: 1.8721 WBNB ($690.95)
+MARMEL Per Week: 392.22 ($0.22)
+APR: Day 0.00% Week 0.03% Year 1.63%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 3%
+Unstake 0.00 WBNB
+Claim 0.00 MARMEL ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - USDT Price: $1.00 Market Cap: $3,873,626,965.59 [%]
+Staked: 6.9400 USDT ($6.93)
+MARMEL Per Week: 196.11 ($0.11)
+APR: Day 0.22% Week 1.57% Year 81.44%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 3%
+Unstake 0.00 USDT
+Claim 0.00 MARMEL ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - USDC Price: $1.00 Market Cap: $1,774,490,235.00 [%]
+Staked: 0.0000 USDC ($0.00)
+MARMEL Per Week: 196.11 ($0.11)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 USDC ($0.00), NaN% of the pool.
+Stake 0.00 USDC - Fee 3%
+Unstake 0.00 USDC
+Claim 0.00 MARMEL ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - DAI Price: $1.00 Market Cap: $261,564,556.00 [%]
+Staked: 5.2742 DAI ($5.27)
+MARMEL Per Week: 196.11 ($0.11)
+APR: Day 0.29% Week 2.06% Year 107.17%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 3%
+Unstake 0.00 DAI
+Claim 0.00 MARMEL ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - BTCB Price: $36,216.00 Market Cap: $4,074,336,216.00 [%]
+Staked: 0.0000 BTCB ($0.00)
+MARMEL Per Week: 392.22 ($0.22)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 BTCB ($0.00), NaN% of the pool.
+Stake 0.00 BTCB - Fee 3%
+Unstake 0.00 BTCB
+Claim 0.00 MARMEL ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - ETH Price: $2,438.01 Market Cap: $3,425,404,050.00 [%]
+Staked: 0.0000 ETH ($0.00)
+MARMEL Per Week: 392.22 ($0.22)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 ETH ($0.00), NaN% of the pool.
+Stake 0.00 ETH - Fee 3%
+Unstake 0.00 ETH
+Claim 0.00 MARMEL ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - Cake Price: $6.94 Market Cap: $4,267,833,740.72 [%]
+Staked: 0.4850 Cake ($3.37)
+MARMEL Per Week: 392.22 ($0.22)
+APR: Day 0.92% Week 6.45% Year 335.29%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 3%
+Unstake 0.00 Cake
+Claim 0.00 MARMEL ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $296,548,277.45
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 4.8500 Cake-LP ($10.14)
+MARMEL Per Week: 392.22 ($0.22)
+APR: Day 0.31% Week 2.14% Year 111.28%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 3%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 MARMEL ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.08 TVL: $131,147,674.77
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 9.4749 Cake-LP ($19.75)
+MARMEL Per Week: 392.22 ($0.22)
+APR: Day 0.16% Week 1.10% Year 57.13%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 3%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 MARMEL ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - [DAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.08 TVL: $16,828,327.23
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+MARMEL Per Week: 392.22 ($0.22)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 3%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 MARMEL ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - [Cake]-[BUSD] Cake LP [+] [-] [<=>] Price: $7.77 TVL: $11,437,882.80
+Cake Price: $6.94
+BUSD Price: $1.00
+Staked: 0.0000 Cake-LP ($0.00)
+MARMEL Per Week: 588.33 ($0.33)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP - Fee 3%
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 MARMEL ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - DOT Price: $17.98 Market Cap: $287,679,999.84 [%]
+Staked: 0.9700 DOT ($17.44)
+MARMEL Per Week: 392.22 ($0.22)
+APR: Day 0.18% Week 1.24% Year 64.71%
+You are staking 0.00 DOT ($0.00), 0.00% of the pool.
+Stake 0.00 DOT - Fee 3%
+Unstake 0.00 DOT
+Claim 0.00 MARMEL ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - TUSD Price: $1.00 Market Cap: $810,365,880.00 [%]
+Staked: 0.0000 TUSD ($0.00)
+MARMEL Per Week: 196.11 ($0.11)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 TUSD ($0.00), NaN% of the pool.
+Stake 0.00 TUSD - Fee 3%
+Unstake 0.00 TUSD
+Claim 0.00 MARMEL ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - UST Price: $1.00 Market Cap: $22,954,411.57 [%]
+Staked: 0.0000 UST ($0.00)
+MARMEL Per Week: 196.11 ($0.11)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 UST ($0.00), NaN% of the pool.
+Stake 0.00 UST - Fee 3%
+Unstake 0.00 UST
+Claim 0.00 MARMEL ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $2,319.07

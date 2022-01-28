@@ -1,0 +1,123 @@
+*************** 👨‍🌾 PLANET SWAP FARMING CALCULATOR 👨‍🌾 ***************
+
+Docs  : https://docs.planetswap.app
+
+********************************************************************************************
+
+Thu Jan 27 2022 21:28:34 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading tasty smart contracts...
+Staking Contract
+Found 10 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [WBNB]-[MERCURY] Cake LP [+] [-] [<=>] Price: $0.34 TVL: $29.04
+WBNB Price: $368.43
+MERCURY Price: $0.0000604424
+Staked: 34.5449 Cake-LP ($11.88)
+MERCURY Per Week: 30622.78 ($1.85)
+APR: Day 2.23% Week 15.59% Year 810.47%
+You are staking 0.00 [WBNB]-[MERCURY] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[MERCURY] Cake LP
+Unstake 0.00 [WBNB]-[MERCURY] Cake LP
+Claim 0.00 MERCURY ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [MERCURY]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.02 TVL: $11.39
+MERCURY Price: $0.0000604424
+BUSD Price: $1.00
+Staked: 451.5086 Cake-LP ($8.21)
+MERCURY Per Week: 30622.78 ($1.85)
+APR: Day 3.22% Week 22.56% Year 1172.89%
+You are staking 0.00 [MERCURY]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [MERCURY]-[BUSD] Cake LP
+Unstake 0.00 [MERCURY]-[BUSD] Cake LP
+Claim 0.00 MERCURY ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - MERCURY Price: $0.0000604424 Market Cap: $100.37 [%]
+Staked: 614321.1835 MERCURY ($37.13)
+MERCURY Per Week: 22329.11 ($1.35)
+APR: Day 0.52% Week 3.63% Year 189.01%
+You are staking 0.00 MERCURY ($0.00), 0.00% of the pool.
+Stake 0.00 MERCURY
+Unstake 0.00 MERCURY
+Claim 0.00 MERCURY ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - BUSD Price: $1.00 Market Cap: $4,839,454,010.08 [%]
+Staked: 605.5626 BUSD ($604.12)
+MERCURY Per Week: 15949.37 ($0.96)
+APR: Day 0.02% Week 0.16% Year 8.30%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 3.5%
+Unstake 0.00 BUSD
+Claim 0.00 MERCURY ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - WBNB Price: $368.43 Market Cap: $1,922,750,746.86 [%]
+Staked: 2.8533 WBNB ($1,051.24)
+MERCURY Per Week: 15949.37 ($0.96)
+APR: Day 0.01% Week 0.09% Year 4.77%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 3.5%
+Unstake 0.00 WBNB
+Claim 0.00 MERCURY ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - Cake Price: $6.97 Market Cap: $4,286,313,342.50 [%]
+Staked: 0.0236 Cake ($0.16)
+MERCURY Per Week: 15949.37 ($0.96)
+APR: Day 83.90% Week 587.28% Year 30538.40%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 3.5%
+Unstake 0.00 Cake
+Claim 0.00 MERCURY ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - ETH Price: $2,435.59 Market Cap: $3,422,003,950.00 [%]
+Staked: 0.2178 ETH ($530.48)
+MERCURY Per Week: 15949.37 ($0.96)
+APR: Day 0.03% Week 0.18% Year 9.45%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 3.5%
+Unstake 0.00 ETH
+Claim 0.00 MERCURY ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - BTCB Price: $36,133.00 Market Cap: $4,064,998,633.00 [%]
+Staked: 0.0028 BTCB ($99.63)
+MERCURY Per Week: 15949.37 ($0.96)
+APR: Day 0.14% Week 0.97% Year 50.32%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 3.5%
+Unstake 0.00 BTCB
+Claim 0.00 MERCURY ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.41 TVL: $345,869,858.69
+WBNB Price: $368.43
+BUSD Price: $1.00
+Staked: 6.6148 Cake-LP ($313.58)
+MERCURY Per Week: 22329.11 ($1.35)
+APR: Day 0.06% Week 0.43% Year 22.38%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 3.5%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 MERCURY ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - USDT Price: $1.00 Market Cap: $3,879,997,922.18 [%]
+Staked: 103.0198 USDT ($103.02)
+MERCURY Per Week: 15949.37 ($0.96)
+APR: Day 0.13% Week 0.94% Year 48.66%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 3.5%
+Unstake 0.00 USDT
+Claim 0.00 MERCURY ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $2,759.45

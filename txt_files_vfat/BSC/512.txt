@@ -1,0 +1,176 @@
+*************** 👨‍🌾 UNOFFICIAL BYIELD.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://www.byieldfinance.com/
+****************************************************************************************
+
+Thu Jan 27 2022 21:40:03 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 14 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [bYield]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.26 TVL: $1,275.57
+bYield Price: $0.02
+BUSD Price: $1.00
+Staked: 530.2647 Cake-LP ($138.09)
+BYIELD Per Week: 3073.17 ($49.98)
+APR: Day 5.17% Week 36.19% Year 1881.97%
+You are staking 0.00 [bYield]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [bYield]-[BUSD] Cake LP
+Unstake 0.00 [bYield]-[BUSD] Cake LP
+Claim 0.00 BYIELD ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [bYield]-[WBNB] Cake LP [+] [-] [<=>] Price: $5.01 TVL: $2,271.49
+bYield Price: $0.02
+WBNB Price: $368.53
+Staked: 185.1420 Cake-LP ($927.23)
+BYIELD Per Week: 3073.17 ($49.98)
+APR: Day 0.77% Week 5.39% Year 280.29%
+You are staking 0.00 [bYield]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [bYield]-[WBNB] Cake LP
+Unstake 0.00 [bYield]-[WBNB] Cake LP
+Claim 0.00 BYIELD ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.46 TVL: $346,249,395.00
+WBNB Price: $368.53
+BUSD Price: $1.00
+Staked: 27.9100 Cake-LP ($1,324.56)
+BYIELD Per Week: 245.85 ($4.00)
+APR: Day 0.04% Week 0.30% Year 15.70%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 BYIELD ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.10 TVL: $297,193,147.05
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 9.2285 Cake-LP ($19.34)
+BYIELD Per Week: 245.85 ($4.00)
+APR: Day 2.95% Week 20.67% Year 1075.02%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 BYIELD ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $7,727.97 TVL: $68,341,257.53
+BTCB Price: $36,105.00
+WBNB Price: $368.53
+Staked: 0.2595 Cake-LP ($2,005.67)
+BYIELD Per Week: 245.85 ($4.00)
+APR: Day 0.03% Week 0.20% Year 10.37%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 BYIELD ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,027.59 TVL: $73,868,151.60
+ETH Price: $2,415.14
+WBNB Price: $368.53
+Staked: 0.7041 Cake-LP ($1,427.61)
+BYIELD Per Week: 245.85 ($4.00)
+APR: Day 0.04% Week 0.28% Year 14.56%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 BYIELD ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $131,499,884.55
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 45.5939 Cake-LP ($95.31)
+BYIELD Per Week: 245.85 ($4.00)
+APR: Day 0.60% Week 4.20% Year 218.14%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 BYIELD ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $105.50 TVL: $200,863,703.58
+Cake Price: $7.00
+WBNB Price: $368.53
+Staked: 1.1566 Cake-LP ($122.02)
+BYIELD Per Week: 245.85 ($4.00)
+APR: Day 0.47% Week 3.28% Year 170.39%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 BYIELD ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - bYield Price: $0.02 Market Cap: $4,069.30 [%]
+Staked: 54400.0384 bYield ($884.71)
+BYIELD Per Week: 1229.27 ($19.99)
+APR: Day 0.32% Week 2.26% Year 117.50%
+You are staking 0.00 bYield ($0.00), 0.00% of the pool.
+Stake 0.00 bYield
+Unstake 0.00 bYield
+Claim 0.00 BYIELD ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - BUSD Price: $1.00 Market Cap: $4,848,738,822.91 [%]
+Staked: 2800.3290 BUSD ($2,799.02)
+BYIELD Per Week: 245.85 ($4.00)
+APR: Day 0.02% Week 0.14% Year 7.43%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 BYIELD ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - WBNB Price: $368.53 Market Cap: $1,923,756,108.13 [%]
+Staked: 19.5414 WBNB ($7,201.61)
+BYIELD Per Week: 245.85 ($4.00)
+APR: Day 0.01% Week 0.06% Year 2.89%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 BYIELD ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - USDT Price: $1.00 Market Cap: $3,879,997,922.18 [%]
+Staked: 560.9090 USDT ($560.91)
+BYIELD Per Week: 245.85 ($4.00)
+APR: Day 0.10% Week 0.71% Year 37.07%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 BYIELD ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - BTCB Price: $36,105.00 Market Cap: $4,061,848,605.00 [%]
+Staked: 0.0004 BTCB ($15.92)
+BYIELD Per Week: 245.85 ($4.00)
+APR: Day 3.59% Week 25.11% Year 1305.96%
+You are staking 0.00 BTCB ($0.00), 0.00% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 BYIELD ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - ETH Price: $2,415.14 Market Cap: $3,393,271,700.00 [%]
+Staked: 0.4320 ETH ($1,043.34)
+BYIELD Per Week: 245.85 ($4.00)
+APR: Day 0.05% Week 0.38% Year 19.93%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 BYIELD ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $18,565.34
+Staking Contract
+Found 6 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+Total Staked: $0.00

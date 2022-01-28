@@ -1,0 +1,121 @@
+*************** 👨‍🌾 UNOFFICIAL SWAPPERCHAN FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://swapperchan.com
+********************************************************************************
+
+Wed Dec 22 2021 18:23:58 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 9 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [USDC]-[WETH] SwapperChan LP Token [+] [-] [<=>] Price: $127,849,873.83 TVL: $164,541.20
+USDC Price: $1.01
+WETH Price: $4,031.19
+Staked: 0.0013 SCLP ($162,761.97)
+WAIFU Per Week: 264600.00 ($16,752.21)
+APR: Day 1.47% Week 10.29% Year 535.21%
+You are staking 0.00 [USDC]-[WETH] SwapperChan LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WETH] SwapperChan LP Token
+Unstake 0.00 [USDC]-[WETH] SwapperChan LP Token
+Claim 0.00 WAIFU ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [USDT]-[WETH] SwapperChan LP Token [+] [-] [<=>] Price: $128,589,245.03 TVL: $45,288.36
+USDT Price: $1.02
+WETH Price: $4,031.19
+Staked: 0.0003 SCLP ($44,497.16)
+WAIFU Per Week: 264600.00 ($16,752.21)
+APR: Day 5.38% Week 37.65% Year 1957.69%
+You are staking 0.00 [USDT]-[WETH] SwapperChan LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WETH] SwapperChan LP Token
+Unstake 0.00 [USDT]-[WETH] SwapperChan LP Token
+Claim 0.00 WAIFU ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WETH]-[DAI] SwapperChan LP Token [+] [-] [<=>] Price: $130.29 TVL: $121,546.04
+WETH Price: $4,031.19
+DAI Price: $1.00
+Staked: 915.1092 SCLP ($119,232.37)
+WAIFU Per Week: 264600.00 ($16,752.21)
+APR: Day 2.01% Week 14.05% Year 730.60%
+You are staking 0.00 [WETH]-[DAI] SwapperChan LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WETH]-[DAI] SwapperChan LP Token
+Unstake 0.00 [WETH]-[DAI] SwapperChan LP Token
+Claim 0.00 WAIFU ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WBTC]-[WETH] SwapperChan LP Token [+] [-] [<=>] Price: $2,771,791,411.04 TVL: $75,779.15
+WBTC Price: $47,600.15
+WETH Price: $4,031.19
+Staked: 0.0000 SCLP ($75,488.62)
+WAIFU Per Week: 132300.00 ($8,376.11)
+APR: Day 1.59% Week 11.10% Year 576.98%
+You are staking 0.00 [WBTC]-[WETH] SwapperChan LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[WETH] SwapperChan LP Token
+Unstake 0.00 [WBTC]-[WETH] SwapperChan LP Token
+Claim 0.00 WAIFU ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDC]-[DAI] SwapperChan LP Token [+] [-] [<=>] Price: $2,008,021.90 TVL: $714,795.21
+USDC Price: $1.01
+DAI Price: $1.00
+Staked: 0.3533 SCLP ($709,388.51)
+WAIFU Per Week: 132300.00 ($8,376.11)
+APR: Day 0.17% Week 1.18% Year 61.40%
+You are staking 0.00 [USDC]-[DAI] SwapperChan LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[DAI] SwapperChan LP Token
+Unstake 0.00 [USDC]-[DAI] SwapperChan LP Token
+Claim 0.00 WAIFU ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [USDT]-[USDC] SwapperChan LP Token [+] [-] [<=>] Price: $2,033,245,320,852.96 TVL: $196,745.85
+USDT Price: $1.02
+USDC Price: $1.01
+Staked: 0.0000 SCLP ($196,241.10)
+WAIFU Per Week: 132300.00 ($8,376.11)
+APR: Day 0.61% Week 4.27% Year 221.95%
+You are staking 0.00 [USDT]-[USDC] SwapperChan LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[USDC] SwapperChan LP Token
+Unstake 0.00 [USDT]-[USDC] SwapperChan LP Token
+Claim 0.00 WAIFU ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [BOBA]-[WETH] SwapperChan LP Token [+] [-] [<=>] Price: $237.91 TVL: $60,934.30
+BOBA Price: $3.48
+WETH Price: $4,031.19
+Staked: 252.4476 SCLP ($60,060.77)
+WAIFU Per Week: 132300.00 ($8,376.11)
+APR: Day 1.99% Week 13.95% Year 725.19%
+You are staking 0.00 [BOBA]-[WETH] SwapperChan LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [BOBA]-[WETH] SwapperChan LP Token
+Unstake 0.00 [BOBA]-[WETH] SwapperChan LP Token
+Claim 0.00 WAIFU ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [WAIFU]-[WETH] SwapperChan LP Token [+] [-] [<=>] Price: $32.39 TVL: $222,420.68
+WAIFU Price: $0.06
+WETH Price: $4,031.19
+Staked: 6829.5048 SCLP ($221,180.22)
+WAIFU Per Week: 1701000.00 ($107,692.79)
+APR: Day 6.96% Week 48.69% Year 2531.88%
+You are staking 0.00 [WAIFU]-[WETH] SwapperChan LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [WAIFU]-[WETH] SwapperChan LP Token
+Unstake 0.00 [WAIFU]-[WETH] SwapperChan LP Token
+Claim 0.00 WAIFU ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - xWAIFU Price: $0.00 Market Cap: $0.00 
+Staked: 2128709.7033 xWAIFU ($0.00)
+WAIFU Per Week: 756000.00 ($47,863.46)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 xWAIFU ($0.00), NaN% of the pool.
+Stake 0.00 xWAIFU
+Unstake 0.00 xWAIFU
+Claim 0.00 WAIFU ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $1,588,850.73

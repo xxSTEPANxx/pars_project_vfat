@@ -1,0 +1,253 @@
+*************** 👨‍🌾 UNOFFICIAL PIZZA FINANCE FARMING CALCULATOR 👨‍🌾 *****************
+INFO  : https://pizzafinance.app
+****************************************************************************************
+
+Thu Jan 27 2022 20:40:43 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 21 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - PIZZA Price: $0.00 Market Cap: $0.00 
+Staked: 175697.5902 PIZZA ($0.00)
+PIZZA Per Week: 2772.00 ($188.78)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 PIZZA ($0.00), NaN% of the pool.
+Stake 0.00 PIZZA
+Unstake 0.00 PIZZA
+Claim 0.00 PIZZA ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [PIZZA]-[WBNB] Uni LP [+] [-] [<=>] Price: $12.57 TVL: $7,888.80
+PIZZA Price: $0.07
+WBNB Price: $369.82
+Staked: 599.4369 Cheese-LP ($7,534.23)
+PIZZA Per Week: 1320.00 ($89.90)
+APR: Day 0.17% Week 1.19% Year 62.04%
+You are staking 0.00 [PIZZA]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PIZZA]-[WBNB] Uni LP
+Unstake 0.00 [PIZZA]-[WBNB] Uni LP
+Claim 0.00 PIZZA ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [PIZZA]-[BUSD] Uni LP [+] [-] [<=>] Price: $0.59 TVL: $1,180.84
+PIZZA Price: $0.07
+BUSD Price: $1.00
+Staked: 2009.4973 Cheese-LP ($1,175.71)
+PIZZA Per Week: 880.00 ($59.93)
+APR: Day 0.73% Week 5.10% Year 265.06%
+You are staking 0.00 [PIZZA]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PIZZA]-[BUSD] Uni LP
+Unstake 0.00 [PIZZA]-[BUSD] Uni LP
+Claim 0.00 PIZZA ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [PIZZA]-[CHS] Uni LP [+] [-] [<=>] Price: $0.09 TVL: $1,314.25
+PIZZA Price: $0.07
+CHS Price: $0.03
+Staked: 9921.0830 Cheese-LP ($890.30)
+PIZZA Per Week: 880.00 ($59.93)
+APR: Day 0.96% Week 6.73% Year 350.04%
+You are staking 0.00 [PIZZA]-[CHS] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PIZZA]-[CHS] Uni LP
+Unstake 0.00 [PIZZA]-[CHS] Uni LP
+Claim 0.00 PIZZA ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [CHS]-[WBNB] Uni LP [+] [-] [<=>] Price: $8.00 TVL: $15,109.69
+CHS Price: $0.03
+WBNB Price: $369.82
+Staked: 347.2699 Cheese-LP ($2,776.55)
+PIZZA Per Week: 220.00 ($14.98)
+APR: Day 0.08% Week 0.54% Year 28.06%
+You are staking 0.00 [CHS]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [CHS]-[WBNB] Uni LP
+Unstake 0.00 [CHS]-[WBNB] Uni LP
+Claim 0.00 PIZZA ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WBNB]-[BUSD] Uni LP [+] [-] [<=>] Price: $54.33 TVL: $1,173.87
+WBNB Price: $369.82
+BUSD Price: $1.00
+Staked: 8.0803 Cheese-LP ($438.98)
+PIZZA Per Week: 88.00 ($5.99)
+APR: Day 0.20% Week 1.37% Year 70.99%
+You are staking 0.00 [WBNB]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Uni LP
+Unstake 0.00 [WBNB]-[BUSD] Uni LP
+Claim 0.00 PIZZA ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [USDT]-[WBNB] Uni LP [+] [-] [<=>] Price: $47.04 TVL: $18,209.61
+USDT Price: $1.00
+WBNB Price: $369.82
+Staked: 322.1621 Cheese-LP ($15,155.84)
+PIZZA Per Week: 88.00 ($5.99)
+APR: Day 0.01% Week 0.04% Year 2.06%
+You are staking 0.00 [USDT]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[WBNB] Uni LP
+Unstake 0.00 [USDT]-[WBNB] Uni LP
+Claim 0.00 PIZZA ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [ETH]-[BUSD] Uni LP [+] [-] [<=>] Price: $102.59 TVL: $2,288.74
+ETH Price: $2,457.16
+BUSD Price: $1.00
+Staked: 16.3531 Cheese-LP ($1,677.59)
+PIZZA Per Week: 88.00 ($5.99)
+APR: Day 0.05% Week 0.36% Year 18.58%
+You are staking 0.00 [ETH]-[BUSD] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[BUSD] Uni LP
+Unstake 0.00 [ETH]-[BUSD] Uni LP
+Claim 0.00 PIZZA ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [DAI]-[WBNB] Uni LP [+] [-] [<=>] Price: $40.69 TVL: $4,918.01
+DAI Price: $1.00
+WBNB Price: $369.82
+Staked: 60.3086 Cheese-LP ($2,454.12)
+PIZZA Per Week: 88.00 ($5.99)
+APR: Day 0.03% Week 0.24% Year 12.70%
+You are staking 0.00 [DAI]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[WBNB] Uni LP
+Unstake 0.00 [DAI]-[WBNB] Uni LP
+Claim 0.00 PIZZA ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [USDC]-[WBNB] Uni LP [+] [-] [<=>] Price: $42.51 TVL: $2,364.86
+USDC Price: $1.00
+WBNB Price: $369.82
+Staked: 36.8155 Cheese-LP ($1,564.90)
+PIZZA Per Week: 88.00 ($5.99)
+APR: Day 0.05% Week 0.38% Year 19.91%
+You are staking 0.00 [USDC]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WBNB] Uni LP
+Unstake 0.00 [USDC]-[WBNB] Uni LP
+Claim 0.00 PIZZA ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [KP3RB]-[WBNB] Uni LP [+] [-] [<=>] Price: $31.29 TVL: $7,738.40
+KP3RB Price: $0.48
+WBNB Price: $369.82
+Staked: 55.5321 Cheese-LP ($1,737.62)
+PIZZA Per Week: 220.00 ($14.98)
+APR: Day 0.12% Week 0.86% Year 44.84%
+You are staking 0.00 [KP3RB]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [KP3RB]-[WBNB] Uni LP
+Unstake 0.00 [KP3RB]-[WBNB] Uni LP
+Claim 0.00 PIZZA ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [PIZZA]-[USDT] Uni LP [+] [-] [<=>] Price: $0.57 TVL: $4,676.73
+PIZZA Price: $0.07
+USDT Price: $1.00
+Staked: 7262.3729 Cheese-LP ($4,142.47)
+PIZZA Per Week: 880.00 ($59.93)
+APR: Day 0.21% Week 1.45% Year 75.23%
+You are staking 0.00 [PIZZA]-[USDT] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PIZZA]-[USDT] Uni LP
+Unstake 0.00 [PIZZA]-[USDT] Uni LP
+Claim 0.00 PIZZA ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [Cake]-[WBNB] Uni LP [+] [-] [<=>] Price: $113.33 TVL: $2,580.31
+Cake Price: $7.10
+WBNB Price: $369.82
+Staked: 18.5212 Cheese-LP ($2,099.01)
+PIZZA Per Week: 44.00 ($3.00)
+APR: Day 0.02% Week 0.14% Year 7.42%
+You are staking 0.00 [Cake]-[WBNB] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[WBNB] Uni LP
+Unstake 0.00 [Cake]-[WBNB] Uni LP
+Claim 0.00 PIZZA ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [PIZZA]-[USDC] Uni LP [+] [-] [<=>] Price: $0.55 TVL: $3,473.36
+PIZZA Price: $0.07
+USDC Price: $1.00
+Staked: 5713.8484 Cheese-LP ($3,138.65)
+PIZZA Per Week: 880.00 ($59.93)
+APR: Day 0.27% Week 1.91% Year 99.29%
+You are staking 0.00 [PIZZA]-[USDC] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [PIZZA]-[USDC] Uni LP
+Unstake 0.00 [PIZZA]-[USDC] Uni LP
+Claim 0.00 PIZZA ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [DAI]-[PIZZA] Uni LP [+] [-] [<=>] Price: $0.54 TVL: $1,149.73
+DAI Price: $1.00
+PIZZA Price: $0.07
+Staked: 2124.5814 Cheese-LP ($1,147.73)
+PIZZA Per Week: 880.00 ($59.93)
+APR: Day 0.75% Week 5.22% Year 271.53%
+You are staking 0.00 [DAI]-[PIZZA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[PIZZA] Uni LP
+Unstake 0.00 [DAI]-[PIZZA] Uni LP
+Claim 0.00 PIZZA ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [ETH]-[BETH] Uni LP [+] [-] [<=>] Price: $4,782.91 TVL: $146,621.21
+ETH Price: $2,457.16
+BETH Price: $2,306.82
+Staked: 28.5111 Cheese-LP ($136,366.14)
+PIZZA Per Week: 44.00 ($3.00)
+APR: Day 0.00% Week 0.00% Year 0.11%
+You are staking 0.00 [ETH]-[BETH] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[BETH] Uni LP
+Unstake 0.00 [ETH]-[BETH] Uni LP
+Claim 0.00 PIZZA ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [BETH]-[PIZZA] Uni LP [+] [-] [<=>] Price: $25.88 TVL: $974.01
+BETH Price: $2,306.82
+PIZZA Price: $0.07
+Staked: 37.5857 Cheese-LP ($972.72)
+PIZZA Per Week: 440.00 ($29.97)
+APR: Day 0.44% Week 3.08% Year 160.19%
+You are staking 0.00 [BETH]-[PIZZA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BETH]-[PIZZA] Uni LP
+Unstake 0.00 [BETH]-[PIZZA] Uni LP
+Claim 0.00 PIZZA ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [Cake]-[PIZZA] Uni LP [+] [-] [<=>] Price: $1.43 TVL: $409.02
+Cake Price: $7.10
+PIZZA Price: $0.07
+Staked: 253.7633 Cheese-LP ($364.13)
+PIZZA Per Week: 88.00 ($5.99)
+APR: Day 0.24% Week 1.65% Year 85.58%
+You are staking 0.00 [Cake]-[PIZZA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[PIZZA] Uni LP
+Unstake 0.00 [Cake]-[PIZZA] Uni LP
+Claim 0.00 PIZZA ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [WBNB]-[Cake-LP] Uni LP [+] [-] [<=>] Price: $134.12 TVL: $4,614.57
+WBNB Price: $369.82
+Cake-LP Price: $11.84
+Staked: 34.3344 Cheese-LP ($4,605.05)
+PIZZA Per Week: 660.00 ($44.95)
+APR: Day 0.14% Week 0.98% Year 50.75%
+You are staking 0.00 [WBNB]-[Cake-LP] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[Cake-LP] Uni LP
+Unstake 0.00 [WBNB]-[Cake-LP] Uni LP
+Claim 0.00 PIZZA ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - [ETH]-[PIZZA] Uni LP [+] [-] [<=>] Price: $26.95 TVL: $1,284.27
+ETH Price: $2,457.16
+PIZZA Price: $0.07
+Staked: 44.2216 Cheese-LP ($1,191.98)
+PIZZA Per Week: 440.00 ($29.97)
+APR: Day 0.36% Week 2.51% Year 130.72%
+You are staking 0.00 [ETH]-[PIZZA] Uni LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[PIZZA] Uni LP
+Unstake 0.00 [ETH]-[PIZZA] Uni LP
+Claim 0.00 PIZZA ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $189,433.72

@@ -1,0 +1,133 @@
+*************** 👨‍🌾 UNOFFICIAL CCSWAP FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://app.ccswap.org
+***************************************************************************
+
+Thu Jan 27 2022 21:39:46 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 10 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - CC Price: $0.05 Market Cap: $2,875,487.12 [%]
+Staked: 8840932.6781 CC ($456,801.23)
+CC Per Week: 39997.44 ($2,066.62)
+APR: Day 0.06% Week 0.45% Year 23.53%
+You are staking NaN CC ($0.00), NaN% of the pool.
+Stake 0.00 CC
+Unstake NaN CC
+Claim 0.00 CC ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [ETH]-[CC] Uni LP [+] [-] [<=>] Price: $22.67 TVL: $210,988.39
+ETH Price: $2,415.14
+CC Price: $0.05
+Staked: 9277.7248 CCSWAP ($210,350.99)
+CC Per Week: 199987.20 ($10,333.12)
+APR: Day 0.70% Week 4.91% Year 255.44%
+You are staking NaN [ETH]-[CC] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [ETH]-[CC] Uni LP
+Unstake NaN [ETH]-[CC] Uni LP
+Claim 0.00 CC ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [CC]-[BUSD] Uni LP [+] [-] [<=>] Price: $0.48 TVL: $103,334.73
+CC Price: $0.05
+BUSD Price: $1.00
+Staked: 214584.3852 CCSWAP ($101,997.72)
+CC Per Week: 39997.44 ($2,066.62)
+APR: Day 0.29% Week 2.03% Year 105.36%
+You are staking NaN [CC]-[BUSD] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [CC]-[BUSD] Uni LP
+Unstake NaN [CC]-[BUSD] Uni LP
+Claim 0.00 CC ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [CC]-[WBNB] Uni LP [+] [-] [<=>] Price: $9.04 TVL: $25,895.35
+CC Price: $0.05
+WBNB Price: $368.53
+Staked: 2826.3125 CCSWAP ($25,549.24)
+CC Per Week: 19998.72 ($1,033.31)
+APR: Day 0.58% Week 4.04% Year 210.31%
+You are staking NaN [CC]-[WBNB] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [CC]-[WBNB] Uni LP
+Unstake NaN [CC]-[WBNB] Uni LP
+Claim 0.00 CC ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDT]-[BUSD] Uni LP [+] [-] [<=>] Price: $2.02 TVL: $167,569.43
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 31308.7883 CCSWAP ($63,141.78)
+CC Per Week: 9999.36 ($516.66)
+APR: Day 0.12% Week 0.82% Year 42.55%
+You are staking NaN [USDT]-[BUSD] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [USDT]-[BUSD] Uni LP
+Unstake NaN [USDT]-[BUSD] Uni LP
+Claim 0.00 CC ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [WBNB]-[BUSD] Uni LP [+] [-] [<=>] Price: $41.17 TVL: $11,686.62
+WBNB Price: $368.53
+BUSD Price: $1.00
+Staked: 274.7997 CCSWAP ($11,312.72)
+CC Per Week: 4999.68 ($258.33)
+APR: Day 0.33% Week 2.28% Year 118.74%
+You are staking NaN [WBNB]-[BUSD] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Uni LP
+Unstake NaN [WBNB]-[BUSD] Uni LP
+Claim 0.00 CC ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [Cake]-[CC] Uni LP [+] [-] [<=>] Price: $1.22 TVL: $4,283.51
+Cake Price: $7.00
+CC Price: $0.05
+Staked: 3468.9990 CCSWAP ($4,242.69)
+CC Per Week: 2499.84 ($129.16)
+APR: Day 0.43% Week 3.04% Year 158.31%
+You are staking NaN [Cake]-[CC] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [Cake]-[CC] Uni LP
+Unstake NaN [Cake]-[CC] Uni LP
+Claim 0.00 CC ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [CC]-[BUNNY] Uni LP [+] [-] [<=>] Price: $0.36 TVL: $1,268.36
+CC Price: $0.05
+BUNNY Price: $0.57
+Staked: 2959.3927 CCSWAP ($1,071.01)
+CC Per Week: 2499.84 ($129.16)
+APR: Day 1.72% Week 12.06% Year 627.12%
+You are staking NaN [CC]-[BUNNY] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [CC]-[BUNNY] Uni LP
+Unstake NaN [CC]-[BUNNY] Uni LP
+Claim 0.00 CC ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [ALPACA]-[CC] Uni LP [+] [-] [<=>] Price: $0.28 TVL: $4,987.07
+ALPACA Price: $0.34
+CC Price: $0.05
+Staked: 16216.8874 CCSWAP ($4,472.97)
+CC Per Week: 2499.84 ($129.16)
+APR: Day 0.41% Week 2.89% Year 150.16%
+You are staking NaN [ALPACA]-[CC] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [ALPACA]-[CC] Uni LP
+Unstake NaN [ALPACA]-[CC] Uni LP
+Claim 0.00 CC ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [CC]-[XVS] Uni LP [+] [-] [<=>] Price: $1.34 TVL: $2,511.80
+CC Price: $0.05
+XVS Price: $8.05
+Staked: 1861.9763 CCSWAP ($2,501.87)
+CC Per Week: 2499.84 ($129.16)
+APR: Day 0.74% Week 5.16% Year 268.46%
+You are staking NaN [CC]-[XVS] Uni LP ($0.00), NaN% of the pool.
+Stake 0.00 [CC]-[XVS] Uni LP
+Unstake NaN [CC]-[XVS] Uni LP
+Claim 0.00 CC ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $881,442.22

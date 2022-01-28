@@ -1,0 +1,349 @@
+*************** 👨‍🌾 UNOFFICIAL ADAMANT ETERNITY FARMING CALCULATOR 👨‍🌾 *****************
+INFO  : https://adamant.eternity.money
+***************************************************************************************
+
+Thu Jan 27 2022 21:36:32 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 30 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [ETY]-[BUSD] Cake LP [+] [-] [<=>] Price: $71,936.13 TVL: $229.08
+ETY Price: $0.000897
+BUSD Price: $1.00
+Staked: 0.0020 Cake-LP ($145.69)
+ADAMANT Per Week: 11.92 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.05%
+You are staking 0.00 [ETY]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETY]-[BUSD] Cake LP - Fee 1%
+Unstake 0.00 [ETY]-[BUSD] Cake LP
+Claim 0.00 ADAMANT ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [BUSD]-[SILVER] Cake LP [+] [-] [<=>] Price: $0.04 TVL: $150.75
+BUSD Price: $1.00
+SILVER Price: $0.000358
+Staked: 2120.6603 Cake-LP ($88.12)
+ADAMANT Per Week: 11.92 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.09%
+You are staking 0.00 [BUSD]-[SILVER] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUSD]-[SILVER] Cake LP - Fee 1%
+Unstake 0.00 [BUSD]-[SILVER] Cake LP
+Claim 0.00 ADAMANT ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - ADAMANT Price: $0.000126 Market Cap: $57.50 [%]
+Staked: 201043.2427 ADAMANT ($25.26)
+ADAMANT Per Week: 35.06 ($0.00)
+APR: Day 0.00% Week 0.02% Year 0.91%
+You are staking 0.00 ADAMANT ($0.00), 0.00% of the pool.
+Stake 0.00 ADAMANT
+Unstake 0.00 ADAMANT
+Claim 0.00 ADAMANT ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [WBNB]-[BUSD] Cake LP [+] [-] [<=>] Price: $47.41 TVL: $345,866,962.50
+WBNB Price: $368.18
+BUSD Price: $1.00
+Staked: 0.1934 Cake-LP ($9.17)
+ADAMANT Per Week: 8.41 ($0.00)
+APR: Day 0.00% Week 0.01% Year 0.60%
+You are staking 0.00 [WBNB]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [WBNB]-[BUSD] Cake LP
+Claim 0.00 ADAMANT ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [BTCB]-[WBNB] Cake LP [+] [-] [<=>] Price: $7,724.30 TVL: $68,308,791.31
+BTCB Price: $36,105.00
+WBNB Price: $368.18
+Staked: 0.0001 Cake-LP ($0.78)
+ADAMANT Per Week: 7.01 ($0.00)
+APR: Day 0.02% Week 0.11% Year 5.88%
+You are staking 0.00 [BTCB]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [BTCB]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [BTCB]-[WBNB] Cake LP
+Claim 0.00 ADAMANT ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [ETH]-[WBNB] Cake LP [+] [-] [<=>] Price: $2,024.93 TVL: $73,773,021.29
+ETH Price: $2,411.10
+WBNB Price: $368.18
+Staked: 0.0110 Cake-LP ($22.37)
+ADAMANT Per Week: 7.01 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.20%
+You are staking 0.00 [ETH]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ETH]-[WBNB] Cake LP
+Claim 0.00 ADAMANT ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [Cake]-[WBNB] Cake LP [+] [-] [<=>] Price: $105.22 TVL: $200,336,650.49
+Cake Price: $6.97
+WBNB Price: $368.18
+Staked: 0.0000 Cake-LP ($0.00)
+ADAMANT Per Week: 4.91 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [Cake]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [Cake]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[WBNB] Cake LP
+Claim 0.00 ADAMANT ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [Cake]-[BUSD] Cake LP [+] [-] [<=>] Price: $7.79 TVL: $11,471,834.56
+Cake Price: $6.97
+BUSD Price: $1.00
+Staked: 1.7826 Cake-LP ($13.88)
+ADAMANT Per Week: 4.91 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.23%
+You are staking 0.00 [Cake]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [Cake]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [Cake]-[BUSD] Cake LP
+Claim 0.00 ADAMANT ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [DOT]-[WBNB] Cake LP [+] [-] [<=>] Price: $172.35 TVL: $17,693,605.33
+DOT Price: $17.92
+WBNB Price: $368.18
+Staked: 0.0000 Cake-LP ($0.00)
+ADAMANT Per Week: 4.91 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [DOT]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [DOT]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [DOT]-[WBNB] Cake LP
+Claim 0.00 ADAMANT ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [ADA]-[WBNB] Cake LP [+] [-] [<=>] Price: $42.28 TVL: $12,074,004.73
+ADA Price: $1.03
+WBNB Price: $368.18
+Staked: 0.0000 Cake-LP ($0.00)
+ADAMANT Per Week: 4.91 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 [ADA]-[WBNB] Cake LP ($0.00), NaN% of the pool.
+Stake 0.00 [ADA]-[WBNB] Cake LP - Fee 4%
+Unstake 0.00 [ADA]-[WBNB] Cake LP
+Claim 0.00 ADAMANT ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $297,006,838.14
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 5.3813 Cake-LP ($11.27)
+ADAMANT Per Week: 6.31 ($0.00)
+APR: Day 0.00% Week 0.01% Year 0.37%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 ADAMANT ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [DAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $16,854,723.66
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 4.7187 Cake-LP ($9.84)
+ADAMANT Per Week: 6.31 ($0.00)
+APR: Day 0.00% Week 0.01% Year 0.42%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 ADAMANT ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.05 TVL: $129,173,153.84
+USDC Price: $0.97
+BUSD Price: $1.00
+Staked: 0.5189 Cake-LP ($1.07)
+ADAMANT Per Week: 6.31 ($0.00)
+APR: Day 0.01% Week 0.07% Year 3.87%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 4%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 ADAMANT ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - BUSD Price: $1.00 Market Cap: $4,842,660,520.68 [%]
+Staked: 0.0096 BUSD ($0.01)
+ADAMANT Per Week: 4.91 ($0.00)
+APR: Day 0.92% Week 6.43% Year 334.59%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 4%
+Unstake 0.00 BUSD
+Claim 0.00 ADAMANT ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - USDT Price: $1.00 Market Cap: $3,879,997,922.18 [%]
+Staked: 24.0000 USDT ($24.00)
+ADAMANT Per Week: 4.91 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.13%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 4%
+Unstake 0.00 USDT
+Claim 0.00 ADAMANT ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - WBNB Price: $368.18 Market Cap: $1,921,926,897.90 [%]
+Staked: 0.0020 WBNB ($0.72)
+ADAMANT Per Week: 4.91 ($0.00)
+APR: Day 0.01% Week 0.09% Year 4.46%
+You are staking 0.00 WBNB ($0.00), 0.00% of the pool.
+Stake 0.00 WBNB - Fee 4%
+Unstake 0.00 WBNB
+Claim 0.00 ADAMANT ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - BTCB Price: $36,105.00 Market Cap: $4,061,848,605.00 [%]
+Staked: 0.0000 BTCB ($0.00)
+ADAMANT Per Week: 2.80 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 BTCB ($0.00), NaN% of the pool.
+Stake 0.00 BTCB - Fee 4%
+Unstake 0.00 BTCB
+Claim 0.00 ADAMANT ($0.00)
+Staking or unstaking also claims rewards.
+
+17 - ETH Price: $2,411.10 Market Cap: $3,387,595,500.00 [%]
+Staked: 0.0029 ETH ($6.94)
+ADAMANT Per Week: 2.80 ($0.00)
+APR: Day 0.00% Week 0.01% Year 0.26%
+You are staking 0.00 ETH ($0.00), 0.00% of the pool.
+Stake 0.00 ETH - Fee 4%
+Unstake 0.00 ETH
+Claim 0.00 ADAMANT ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - Cake Price: $6.97 Market Cap: $4,286,328,637.04 [%]
+Staked: 0.4800 Cake ($3.35)
+ADAMANT Per Week: 2.80 ($0.00)
+APR: Day 0.00% Week 0.01% Year 0.55%
+You are staking 0.00 Cake ($0.00), 0.00% of the pool.
+Stake 0.00 Cake - Fee 4%
+Unstake 0.00 Cake
+Claim 0.00 ADAMANT ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - DAI Price: $1.00 Market Cap: $262,000,000.00 [%]
+Staked: 1.8233 DAI ($1.82)
+ADAMANT Per Week: 2.80 ($0.00)
+APR: Day 0.00% Week 0.02% Year 1.00%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 4%
+Unstake 0.00 DAI
+Claim 0.00 ADAMANT ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - USDC Price: $0.97 Market Cap: $1,718,286,288.00 [%]
+Staked: 0.0000 USDC ($0.00)
+ADAMANT Per Week: 2.80 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 USDC ($0.00), NaN% of the pool.
+Stake 0.00 USDC - Fee 4%
+Unstake 0.00 USDC
+Claim 0.00 ADAMANT ($0.00)
+Staking or unstaking also claims rewards.
+
+21 - DOT Price: $17.92 Market Cap: $286,719,999.84 [%]
+Staked: 0.0000 DOT ($0.00)
+ADAMANT Per Week: 2.80 ($0.00)
+APR: Day Infinity% Week Infinity% Year Infinity%
+You are staking 0.00 DOT ($0.00), NaN% of the pool.
+Stake 0.00 DOT - Fee 4%
+Unstake 0.00 DOT
+Claim 0.00 ADAMANT ($0.00)
+Staking or unstaking also claims rewards.
+
+22 - MATIC Price: $1.59 Market Cap: $477,000,000.00 [%]
+Staked: 0.0048 MATIC ($0.01)
+ADAMANT Per Week: 2.80 ($0.00)
+APR: Day 0.66% Week 4.62% Year 240.08%
+You are staking 0.00 MATIC ($0.00), 0.00% of the pool.
+Stake 0.00 MATIC - Fee 4%
+Unstake 0.00 MATIC
+Claim 0.00 ADAMANT ($0.00)
+Staking or unstaking also claims rewards.
+
+23 - TRX Price: $0.06 Market Cap: $181,177,160.00 [%]
+Staked: 292.1399 TRX ($16.39)
+ADAMANT Per Week: 2.80 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.11%
+You are staking 0.00 TRX ($0.00), 0.00% of the pool.
+Stake 0.00 TRX - Fee 4%
+Unstake 0.00 TRX
+Claim 0.00 ADAMANT ($0.00)
+Staking or unstaking also claims rewards.
+
+24 - ADA Price: $1.03 Market Cap: $288,400,000.00 [%]
+Staked: 0.6720 ADA ($0.69)
+ADAMANT Per Week: 2.80 ($0.00)
+APR: Day 0.01% Week 0.05% Year 2.65%
+You are staking 0.00 ADA ($0.00), 0.00% of the pool.
+Stake 0.00 ADA - Fee 4%
+Unstake 0.00 ADA
+Claim 0.00 ADAMANT ($0.00)
+Staking or unstaking also claims rewards.
+
+25 - [RUBIN]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.01 TVL: $33.62
+RUBIN Price: $0.0000282536
+BUSD Price: $1.00
+Staked: 2194.3435 Cake-LP ($25.79)
+ADAMANT Per Week: 11.92 ($0.00)
+APR: Day 0.00% Week 0.01% Year 0.30%
+You are staking 0.00 [RUBIN]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [RUBIN]-[BUSD] Cake LP - Fee 1%
+Unstake 0.00 [RUBIN]-[BUSD] Cake LP
+Claim 0.00 ADAMANT ($0.00)
+Staking or unstaking also claims rewards.
+
+26 - [ADAMANT]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.02 TVL: $25.74
+ADAMANT Price: $0.000126
+BUSD Price: $1.00
+Staked: 679.2870 Cake-LP ($15.66)
+ADAMANT Per Week: 56.09 ($0.01)
+APR: Day 0.01% Week 0.05% Year 2.34%
+You are staking 0.00 [ADAMANT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADAMANT]-[BUSD] Cake LP
+Unstake 0.00 [ADAMANT]-[BUSD] Cake LP
+Claim 0.00 ADAMANT ($0.00)
+Staking or unstaking also claims rewards.
+
+27 - [ADAMANT]-[WBNB] Cake LP [+] [-] [<=>] Price: $0.44 TVL: $10.76
+ADAMANT Price: $0.000126
+WBNB Price: $368.18
+Staked: 21.8376 Cake-LP ($9.71)
+ADAMANT Per Week: 49.08 ($0.01)
+APR: Day 0.01% Week 0.06% Year 3.30%
+You are staking 0.00 [ADAMANT]-[WBNB] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADAMANT]-[WBNB] Cake LP
+Unstake 0.00 [ADAMANT]-[WBNB] Cake LP
+Claim 0.00 ADAMANT ($0.00)
+Staking or unstaking also claims rewards.
+
+28 - [ADAMANT]-[ETY] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $0.36
+ADAMANT Price: $0.000126
+ETY Price: $0.000897
+Staked: 488.1114 Cake-LP ($0.35)
+ADAMANT Per Week: 42.07 ($0.01)
+APR: Day 0.21% Week 1.50% Year 77.80%
+You are staking 0.00 [ADAMANT]-[ETY] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [ADAMANT]-[ETY] Cake LP
+Unstake 0.00 [ADAMANT]-[ETY] Cake LP
+Claim 0.00 ADAMANT ($0.00)
+Staking or unstaking also claims rewards.
+
+29 - [WBNB]-[SugarRush] Cake LP [+] [-] [<=>] Price: $0.00 TVL: $181.35
+WBNB Price: $368.18
+SugarRush Price: $0.0000000059
+Staked: 573.1621 Cake-LP ($1.76)
+ADAMANT Per Week: 7.01 ($0.00)
+APR: Day 0.01% Week 0.05% Year 2.61%
+You are staking 0.00 [WBNB]-[SugarRush] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBNB]-[SugarRush] Cake LP - Fee 2%
+Unstake 0.00 [WBNB]-[SugarRush] Cake LP
+Claim 0.00 ADAMANT ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $434.64

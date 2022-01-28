@@ -1,0 +1,163 @@
+*************** 👨‍🌾 UNOFFICIAL STABLEFARMS.FINANCE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://www.stablefarms.finance
+****************************************************************************************
+
+Thu Jan 27 2022 21:35:49 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 13 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - FST Price: $0.009194 Market Cap: $9,614.19 [%]
+Staked: 993733.9315 FST ($9,136.50)
+FSTABLE Per Week: 16000.00 ($147.11)
+APR: Day 0.23% Week 1.61% Year 83.72%
+You are staking 0.00 FST ($0.00), 0.00% of the pool.
+Stake 0.00 FST
+Unstake 0.00 FST
+Claim 0.00 FSTABLE ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - USDT Price: $1.00 Market Cap: $3,879,997,922.18 [%]
+Staked: 0.2357 USDT ($0.24)
+FSTABLE Per Week: 5600.00 ($51.49)
+APR: Day 3120.07% Week 21840.47% Year 1135704.57%
+You are staking 0.00 USDT ($0.00), 0.00% of the pool.
+Stake 0.00 USDT - Fee 3%
+Unstake 0.00 USDT
+Claim 0.00 FSTABLE ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - BUSD Price: $1.00 Market Cap: $4,842,660,520.68 [%]
+Staked: 0.4900 BUSD ($0.49)
+FSTABLE Per Week: 4800.00 ($44.13)
+APR: Day 1288.86% Week 9021.99% Year 469143.42%
+You are staking 0.00 BUSD ($0.00), 0.00% of the pool.
+Stake 0.00 BUSD - Fee 3%
+Unstake 0.00 BUSD
+Claim 0.00 FSTABLE ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - DAI Price: $1.00 Market Cap: $262,000,000.00 [%]
+Staked: 0.4333 DAI ($0.43)
+FSTABLE Per Week: 3200.00 ($29.42)
+APR: Day 970.06% Week 6790.43% Year 353102.32%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 3%
+Unstake 0.00 DAI
+Claim 0.00 FSTABLE ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [USDT]-[FST] Cake LP [+] [-] [<=>] Price: $0.21 TVL: $90.44
+USDT Price: $1.00
+FST Price: $0.009194
+Staked: 1.4986 Cake-LP ($0.32)
+FSTABLE Per Week: 16000.00 ($147.11)
+APR: Day 6628.31% Week 46398.18% Year 2412705.20%
+You are staking 0.00 [USDT]-[FST] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[FST] Cake LP
+Unstake 0.00 [USDT]-[FST] Cake LP
+Claim 0.00 FSTABLE ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [FST]-[BUSD] Cake LP [+] [-] [<=>] Price: $0.24 TVL: $0.26
+FST Price: $0.009194
+BUSD Price: $1.00
+Staked: 0.9084 Cake-LP ($0.21)
+FSTABLE Per Week: 16000.00 ($147.11)
+APR: Day 9797.48% Week 68582.35% Year 3566282.01%
+You are staking 0.00 [FST]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [FST]-[BUSD] Cake LP
+Unstake 0.00 [FST]-[BUSD] Cake LP
+Claim 0.00 FSTABLE ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [DRIP]-[FST] Cake LP [+] [-] [<=>] Price: $1.49 TVL: $9.49
+DRIP Price: $53.68
+FST Price: $0.009194
+Staked: 5.9984 Cake-LP ($8.95)
+FSTABLE Per Week: 16000.00 ($147.11)
+APR: Day 234.89% Week 1644.23% Year 85499.87%
+You are staking 0.00 [DRIP]-[FST] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DRIP]-[FST] Cake LP
+Unstake 0.00 [DRIP]-[FST] Cake LP
+Claim 0.00 FSTABLE ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [USDT]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $297,006,826.59
+USDT Price: $1.00
+BUSD Price: $1.00
+Staked: 0.2202 Cake-LP ($0.46)
+FSTABLE Per Week: 4800.00 ($44.13)
+APR: Day 1367.26% Week 9570.80% Year 497681.48%
+You are staking 0.00 [USDT]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[BUSD] Cake LP - Fee 3%
+Unstake 0.00 [USDT]-[BUSD] Cake LP
+Claim 0.00 FSTABLE ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [USDC]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $131,417,475.49
+USDC Price: $1.00
+BUSD Price: $1.00
+Staked: 2.1008 Cake-LP ($4.39)
+FSTABLE Per Week: 4800.00 ($44.13)
+APR: Day 143.65% Week 1005.53% Year 52287.75%
+You are staking 0.00 [USDC]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[BUSD] Cake LP - Fee 3%
+Unstake 0.00 [USDC]-[BUSD] Cake LP
+Claim 0.00 FSTABLE ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [USDT]-[USDC] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $53,870,679.14
+USDT Price: $1.00
+USDC Price: $1.00
+Staked: 0.1100 Cake-LP ($0.23)
+FSTABLE Per Week: 4000.00 ($36.78)
+APR: Day 2287.90% Week 16015.33% Year 832796.99%
+You are staking 0.00 [USDT]-[USDC] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[USDC] Cake LP - Fee 3%
+Unstake 0.00 [USDT]-[USDC] Cake LP
+Claim 0.00 FSTABLE ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [DAI]-[USDT] Cake LP [+] [-] [<=>] Price: $2.68 TVL: $125,782.10
+DAI Price: $1.00
+USDT Price: $1.00
+Staked: 0.9086 Cake-LP ($2.43)
+FSTABLE Per Week: 3200.00 ($29.42)
+APR: Day 172.67% Week 1208.72% Year 62853.25%
+You are staking 0.00 [DAI]-[USDT] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[USDT] Cake LP - Fee 3%
+Unstake 0.00 [DAI]-[USDT] Cake LP
+Claim 0.00 FSTABLE ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [DAI]-[BUSD] Cake LP [+] [-] [<=>] Price: $2.09 TVL: $16,854,723.66
+DAI Price: $1.00
+BUSD Price: $1.00
+Staked: 0.0546 Cake-LP ($0.11)
+FSTABLE Per Week: 3200.00 ($29.42)
+APR: Day 3690.64% Week 25834.45% Year 1343391.31%
+You are staking 0.00 [DAI]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[BUSD] Cake LP - Fee 3%
+Unstake 0.00 [DAI]-[BUSD] Cake LP
+Claim 0.00 FSTABLE ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [DRIP]-[BUSD] Cake LP [+] [-] [<=>] Price: $29.50 TVL: $18,308,070.58
+DRIP Price: $53.68
+BUSD Price: $1.00
+Staked: 0.0586 Cake-LP ($1.73)
+FSTABLE Per Week: 3200.00 ($29.42)
+APR: Day 243.30% Week 1703.12% Year 88562.24%
+You are staking 0.00 [DRIP]-[BUSD] Cake LP ($0.00), 0.00% of the pool.
+Stake 0.00 [DRIP]-[BUSD] Cake LP - Fee 3%
+Unstake 0.00 [DRIP]-[BUSD] Cake LP
+Claim 0.00 FSTABLE ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $9,156.49

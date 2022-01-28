@@ -1,0 +1,217 @@
+*************** 👨‍🌾 UNOFFICIAL SOLARBEAM FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://solarbeam.io
+******************************************************************************
+
+Fri Jan 28 2022 01:13:25 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Staking Contract
+Found 22 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [SOLAR]-[WMOVR] SLP [+] [-] [<=>] Price: $17.66 TVL: $3,105,157.92
+SOLAR Price: $0.98
+WMOVR Price: $71.69
+Staked: 174134.7410 SLP ($3,074,704.38)
+SOLAR Per Week: 62473.58 ($60,927.81)
+APR: Day 0.28% Week 1.98% Year 103.04%
+You are staking 0.00 [SOLAR]-[WMOVR] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [SOLAR]-[WMOVR] SLP
+Unstake 0.00 [SOLAR]-[WMOVR] SLP
+Claim 0.00 SOLAR ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - WMOVR Price: $71.69 Market Cap: $14,254,836.30 
+Staked: 9794.5094 WMOVR ($702,168.38)
+SOLAR Per Week: 3812.41 ($3,718.08)
+APR: Day 0.08% Week 0.53% Year 27.53%
+You are staking 0.00 WMOVR ($0.00), 0.00% of the pool.
+Stake 0.00 WMOVR - Fee 2.5%
+Unstake 0.00 WMOVR
+Claim 0.00 SOLAR ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [WMOVR]-[RIB] SLP [+] [-] [<=>] Price: $388.25 TVL: $62,234.78
+WMOVR Price: $71.69
+RIB Price: $464.20
+Staked: 158.6336 SLP ($61,588.80)
+SOLAR Per Week: 637.49 ($621.71)
+APR: Day 0.14% Week 1.01% Year 52.49%
+You are staking 0.00 [WMOVR]-[RIB] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMOVR]-[RIB] SLP
+Unstake 0.00 [WMOVR]-[RIB] SLP
+Claim 0.00 SOLAR ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - [WMOVR]-[USDC] SLP [+] [-] [<=>] Price: $21,741,454.71 TVL: $3,779,112.45
+WMOVR Price: $71.69
+USDC Price: $1.00
+Staked: 0.1735 SLP ($3,772,961.86)
+SOLAR Per Week: 22849.48 ($22,284.12)
+APR: Day 0.08% Week 0.59% Year 30.71%
+You are staking 0.00 [WMOVR]-[USDC] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMOVR]-[USDC] SLP
+Unstake 0.00 [WMOVR]-[USDC] SLP
+Claim 0.00 SOLAR ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - [SOLAR]-[USDC] SLP [+] [-] [<=>] Price: $2,137,797.14 TVL: $793,569.69
+SOLAR Price: $0.98
+USDC Price: $1.00
+Staked: 0.3447 SLP ($736,851.41)
+SOLAR Per Week: 22849.48 ($22,284.12)
+APR: Day 0.43% Week 3.02% Year 157.26%
+You are staking 0.00 [SOLAR]-[USDC] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [SOLAR]-[USDC] SLP
+Unstake 0.00 [SOLAR]-[USDC] SLP
+Claim 0.00 SOLAR ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - [DAI]-[USDC] SLP [+] [-] [<=>] Price: $2,025,578.96 TVL: $2,543,616.15
+DAI Price: $1.00
+USDC Price: $1.00
+Staked: 1.2465 SLP ($2,524,864.52)
+SOLAR Per Week: 2537.44 ($2,474.66)
+APR: Day 0.01% Week 0.10% Year 5.10%
+You are staking 0.00 [DAI]-[USDC] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [DAI]-[USDC] SLP
+Unstake 0.00 [DAI]-[USDC] SLP
+Claim 0.00 SOLAR ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - [BUSD]-[USDC] SLP [+] [-] [<=>] Price: $2,063,253.26 TVL: $5,469,376.55
+BUSD Price: $1.00
+USDC Price: $1.00
+Staked: 2.5588 SLP ($5,279,383.38)
+SOLAR Per Week: 3812.41 ($3,718.08)
+APR: Day 0.01% Week 0.07% Year 3.66%
+You are staking 0.00 [BUSD]-[USDC] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [BUSD]-[USDC] SLP
+Unstake 0.00 [BUSD]-[USDC] SLP
+Claim 0.00 SOLAR ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - [ETH]-[USDC] SLP [+] [-] [<=>] Price: $99,719,680.98 TVL: $304,992.44
+ETH Price: $2,235.70
+USDC Price: $1.00
+Staked: 0.0025 SLP ($248,335.04)
+SOLAR Per Week: 1274.97 ($1,243.42)
+APR: Day 0.07% Week 0.50% Year 26.04%
+You are staking 0.00 [ETH]-[USDC] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [ETH]-[USDC] SLP
+Unstake 0.00 [ETH]-[USDC] SLP
+Claim 0.00 SOLAR ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - [BNB]-[BUSD] SLP [+] [-] [<=>] Price: $39.38 TVL: $181,020.73
+BNB Price: $371.19
+BUSD Price: $1.00
+Staked: 4574.9665 SLP ($180,157.70)
+SOLAR Per Week: 1274.97 ($1,243.42)
+APR: Day 0.10% Week 0.69% Year 35.89%
+You are staking 0.00 [BNB]-[BUSD] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [BNB]-[BUSD] SLP
+Unstake 0.00 [BNB]-[BUSD] SLP
+Claim 0.00 SOLAR ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - [WBTC]-[USDC] SLP [+] [-] [<=>] Price: $37,944,422,288,818.14 TVL: $774,602.80
+WBTC Price: $34,955.00
+USDC Price: $1.00
+Staked: 0.0000 SLP ($774,281.94)
+SOLAR Per Week: 1274.97 ($1,243.42)
+APR: Day 0.02% Week 0.16% Year 8.35%
+You are staking 0.00 [WBTC]-[USDC] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WBTC]-[USDC] SLP
+Unstake 0.00 [WBTC]-[USDC] SLP
+Claim 0.00 SOLAR ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [USDT]-[USDC] SLP [+] [-] [<=>] Price: $2,027,670,385,636.79 TVL: $2,681,763.91
+USDT Price: $1.00
+USDC Price: $1.00
+Staked: 0.0000 SLP ($2,680,035.63)
+SOLAR Per Week: 2537.44 ($2,474.66)
+APR: Day 0.01% Week 0.09% Year 4.80%
+You are staking 0.00 [USDT]-[USDC] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDT]-[USDC] SLP
+Unstake 0.00 [USDT]-[USDC] SLP
+Claim 0.00 SOLAR ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - [MATIC]-[WMOVR] SLP [+] [-] [<=>] Price: $21.72 TVL: $408,235.85
+MATIC Price: $1.54
+WMOVR Price: $71.69
+Staked: 18735.2750 SLP ($406,849.14)
+SOLAR Per Week: 1274.97 ($1,243.42)
+APR: Day 0.04% Week 0.31% Year 15.89%
+You are staking 0.00 [MATIC]-[WMOVR] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [MATIC]-[WMOVR] SLP
+Unstake 0.00 [MATIC]-[WMOVR] SLP
+Claim 0.00 SOLAR ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [AVAX]-[WMOVR] SLP [+] [-] [<=>] Price: $138.69 TVL: $557,273.80
+AVAX Price: $61.99
+WMOVR Price: $71.69
+Staked: 4015.5106 SLP ($556,914.21)
+SOLAR Per Week: 2537.44 ($2,474.66)
+APR: Day 0.06% Week 0.44% Year 23.11%
+You are staking 0.00 [AVAX]-[WMOVR] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [AVAX]-[WMOVR] SLP
+Unstake 0.00 [AVAX]-[WMOVR] SLP
+Claim 0.00 SOLAR ($0.00)
+Staking or unstaking also claims rewards.
+
+16 - [WMOVR]-[RELAY] SLP [+] [-] [<=>] Price: $17.42 TVL: $51,838.69
+WMOVR Price: $71.69
+RELAY Price: $0.98
+Staked: 2967.4931 SLP ($51,694.03)
+SOLAR Per Week: 637.49 ($621.71)
+APR: Day 0.17% Week 1.20% Year 62.54%
+You are staking 0.00 [WMOVR]-[RELAY] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMOVR]-[RELAY] SLP
+Unstake 0.00 [WMOVR]-[RELAY] SLP
+Claim 0.00 SOLAR ($0.00)
+Staking or unstaking also claims rewards.
+
+18 - [WMOVR]-[FTM] SLP [+] [-] [<=>] Price: $24.95 TVL: $242,693.12
+WMOVR Price: $71.69
+FTM Price: $2.01
+Staked: 9673.2228 SLP ($241,354.91)
+SOLAR Per Week: 1274.97 ($1,243.42)
+APR: Day 0.07% Week 0.52% Year 26.79%
+You are staking 0.00 [WMOVR]-[FTM] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [WMOVR]-[FTM] SLP
+Unstake 0.00 [WMOVR]-[FTM] SLP
+Claim 0.00 SOLAR ($0.00)
+Staking or unstaking also claims rewards.
+
+19 - [MIM]-[USDC] SLP [+] [-] [<=>] Price: $2,056,664.26 TVL: $307,480.09
+MIM Price: $0.99
+USDC Price: $1.00
+Staked: 0.1487 SLP ($305,776.72)
+SOLAR Per Week: 312.49 ($304.76)
+APR: Day 0.01% Week 0.10% Year 5.18%
+You are staking 0.00 [MIM]-[USDC] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [MIM]-[USDC] SLP
+Unstake 0.00 [MIM]-[USDC] SLP
+Claim 0.00 SOLAR ($0.00)
+Staking or unstaking also claims rewards.
+
+20 - [PETS]-[WMOVR] SLP [+] [-] [<=>] Price: $5.59 TVL: $41,438.00
+PETS Price: $0.10
+WMOVR Price: $71.69
+Staked: 6288.3545 SLP ($35,158.16)
+SOLAR Per Week: 637.49 ($621.71)
+APR: Day 0.25% Week 1.77% Year 91.95%
+You are staking 0.00 [PETS]-[WMOVR] SLP ($0.00), 0.00% of the pool.
+Stake 0.00 [PETS]-[WMOVR] SLP
+Unstake 0.00 [PETS]-[WMOVR] SLP
+Claim 0.00 SOLAR ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $21,633,080.20

@@ -1,0 +1,78 @@
+*************** 👨‍🌾 UNOFFICIAL FOOL FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://lootswap.finance/guilds/fool
+*************************************************************************
+
+Rewards are 25% locked up until block 25150000
+
+There is a deposit fee in some pools, please check the site.
+
+Fri Jan 28 2022 01:05:33 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+Found 7 pools.
+Showing incentivized pools only.
+Finished reading smart contracts.
+0 - [FOOL]-[WONE] Loot LP Token [+] [-] [<=>] Price: $0.05 TVL: $30,537.08
+FOOL Price: $0.003050
+WONE Price: $0.18
+Staked: 385307.3965 LOOT-LP ($18,052.64)
+FOOL Per Week: 490378.38 ($1,495.78)
+APR: Day 1.18% Week 8.29% Year 430.85%
+You are staking 0.00 [FOOL]-[WONE] Loot LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [FOOL]-[WONE] Loot LP Token
+Unstake 0.00 [FOOL]-[WONE] Loot LP Token
+Claim 0.00 FOOL ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [bscBUSD]-[BUSD] Loot LP Token [+] [-] [<=>] Price: $2.04 TVL: $3,865.37
+bscBUSD Price: $1.01
+BUSD Price: $1.01
+Staked: 1844.3079 LOOT-LP ($3,769.13)
+FOOL Per Week: 27243.24 ($83.10)
+APR: Day 0.31% Week 2.20% Year 114.65%
+You are staking 0.00 [bscBUSD]-[BUSD] Loot LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [bscBUSD]-[BUSD] Loot LP Token
+Unstake 0.00 [bscBUSD]-[BUSD] Loot LP Token
+Claim 0.00 FOOL ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [bscUSDC]-[1USDC] Loot LP Token [+] [-] [<=>] Price: $2,190,971.78 TVL: $2,996.73
+bscUSDC Price: $1.00
+1USDC Price: $1.00
+Staked: 0.0013 LOOT-LP ($2,776.51)
+FOOL Per Week: 27243.24 ($83.10)
+APR: Day 0.43% Week 2.99% Year 155.63%
+You are staking 0.00 [bscUSDC]-[1USDC] Loot LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [bscUSDC]-[1USDC] Loot LP Token
+Unstake 0.00 [bscUSDC]-[1USDC] Loot LP Token
+Claim 0.00 FOOL ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [1CRV]-[FOOL] Loot LP Token [+] [-] [<=>] Price: $0.19 TVL: $1,041.48
+1CRV Price: $2.75
+FOOL Price: $0.003050
+Staked: 5278.3939 LOOT-LP ($979.69)
+FOOL Per Week: 32691.89 ($99.72)
+APR: Day 1.45% Week 10.18% Year 529.29%
+You are staking 0.00 [1CRV]-[FOOL] Loot LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [1CRV]-[FOOL] Loot LP Token
+Unstake 0.00 [1CRV]-[FOOL] Loot LP Token
+Claim 0.00 FOOL ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [1USDC]-[BUSD] Loot LP Token [+] [-] [<=>] Price: $2,136,045.76 TVL: $6,218.42
+1USDC Price: $1.00
+BUSD Price: $1.01
+Staked: 0.0028 LOOT-LP ($5,957.69)
+FOOL Per Week: 27243.24 ($83.10)
+APR: Day 0.20% Week 1.39% Year 72.53%
+You are staking 0.00 [1USDC]-[BUSD] Loot LP Token ($0.00), 0.00% of the pool.
+Stake 0.00 [1USDC]-[BUSD] Loot LP Token
+Unstake 0.00 [1USDC]-[BUSD] Loot LP Token
+Claim 0.00 FOOL ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $31,535.67

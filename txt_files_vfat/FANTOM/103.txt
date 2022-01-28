@@ -10,7 +10,7 @@
 
 ***********************************************************************************
 
-Thu Dec 16 2021 07:57:16 GMT+0300 (Москва, стандартное время)
+Fri Jan 28 2022 00:55:09 GMT+0300 (Москва, стандартное время)
 
 [CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
 
@@ -19,3 +19,179 @@ Reading smart contracts...
 Staking Contract
 Found 16 pools.
 Showing incentivized pools only.
+Finished reading smart contracts.
+0 - FLUAN Price: $0.00 Market Cap: $0.00 
+Staked: 81.6844 FLUAN ($0.00)
+FLUAN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 FLUAN ($0.00), NaN% of the pool.
+Stake 0.00 FLUAN
+Unstake 0.00 FLUAN
+Claim 0.00 FLUAN ($0.00)
+Staking or unstaking also claims rewards.
+
+1 - [USDC]-[FLUAN] SPOOKY LP [+] [-] [<=>] Price: $1,593,034.63 TVL: $1,587.97
+USDC Price: $1.00
+FLUAN Price: $0.60
+Staked: 0.0000 spLP ($54.80)
+FLUAN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDC]-[FLUAN] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[FLUAN] SPOOKY LP
+Unstake 0.00 [USDC]-[FLUAN] SPOOKY LP
+Claim 0.00 FLUAN ($0.00)
+Staking or unstaking also claims rewards.
+
+2 - [WFTM]-[FLUAN] SPOOKY LP [+] [-] [<=>] Price: $2.27 TVL: $22.19
+WFTM Price: $2.04
+FLUAN Price: $0.60
+Staked: 0.2797 spLP ($0.63)
+FLUAN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [WFTM]-[FLUAN] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [WFTM]-[FLUAN] SPOOKY LP
+Unstake 0.00 [WFTM]-[FLUAN] SPOOKY LP
+Claim 0.00 FLUAN ($0.00)
+Staking or unstaking also claims rewards.
+
+3 - [USDC]-[WFTM] SPOOKY LP [+] [-] [<=>] Price: $4,373,761.26 TVL: $168,364,091.45
+USDC Price: $1.00
+WFTM Price: $2.04
+Staked: 0.0000 spLP ($5.43)
+FLUAN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDC]-[WFTM] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[WFTM] SPOOKY LP - Fee 3%
+Unstake 0.00 [USDC]-[WFTM] SPOOKY LP
+Claim 0.00 FLUAN ($0.00)
+Staking or unstaking also claims rewards.
+
+4 - [WFTM]-[ETH] SPOOKY LP [+] [-] [<=>] Price: $158.12 TVL: $42,873,554.89
+WFTM Price: $2.04
+ETH Price: $2,373.59
+Staked: 0.0000 spLP ($0.00)
+FLUAN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 [WFTM]-[ETH] SPOOKY LP ($0.00), NaN% of the pool.
+Stake 0.00 [WFTM]-[ETH] SPOOKY LP - Fee 3%
+Unstake 0.00 [WFTM]-[ETH] SPOOKY LP
+Claim 0.00 FLUAN ($0.00)
+Staking or unstaking also claims rewards.
+
+5 - [USDC]-[fUSDT] SPOOKY LP [+] [-] [<=>] Price: $2,101,829,269,189.59 TVL: $2,004,744.33
+USDC Price: $1.00
+fUSDT Price: $1.01
+Staked: 0.0000 spLP ($3.09)
+FLUAN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDC]-[fUSDT] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[fUSDT] SPOOKY LP - Fee 3%
+Unstake 0.00 [USDC]-[fUSDT] SPOOKY LP
+Claim 0.00 FLUAN ($0.00)
+Staking or unstaking also claims rewards.
+
+6 - WFTM Price: $2.04 Market Cap: $1,473,231,981.64 
+Staked: 1565.6227 WFTM ($3,193.87)
+FLUAN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 WFTM ($0.00), 0.00% of the pool.
+Stake 0.00 WFTM - Fee 3%
+Unstake 0.00 WFTM
+Claim 0.00 FLUAN ($0.00)
+Staking or unstaking also claims rewards.
+
+7 - ETH Price: $2,373.59 Market Cap: $1,132,389,092.70 
+Staked: 0.0000 ETH ($0.00)
+FLUAN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 ETH ($0.00), NaN% of the pool.
+Stake 0.00 ETH - Fee 3%
+Unstake 0.00 ETH
+Claim 0.00 FLUAN ($0.00)
+Staking or unstaking also claims rewards.
+
+8 - BTC Price: $36,339.00 Market Cap: $625,278,129.03 
+Staked: 0.0000 BTC ($0.00)
+FLUAN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 BTC ($0.00), NaN% of the pool.
+Stake 0.00 BTC - Fee 3%
+Unstake 0.00 BTC
+Claim 0.00 FLUAN ($0.00)
+Staking or unstaking also claims rewards.
+
+9 - fUSDT Price: $1.01 Market Cap: $353,946,320.35 
+Staked: 6.1818 fUSDT ($6.24)
+FLUAN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 fUSDT ($0.00), 0.00% of the pool.
+Stake 0.00 fUSDT - Fee 3%
+Unstake 0.00 fUSDT
+Claim 0.00 FLUAN ($0.00)
+Staking or unstaking also claims rewards.
+
+10 - USDC Price: $1.00 Market Cap: $1,727,500,711.93 
+Staked: 0.0000 USDC ($0.00)
+FLUAN Per Week: 0.00 ($0.00)
+APR: Day NaN% Week NaN% Year NaN%
+You are staking 0.00 USDC ($0.00), NaN% of the pool.
+Stake 0.00 USDC - Fee 3%
+Unstake 0.00 USDC
+Claim 0.00 FLUAN ($0.00)
+Staking or unstaking also claims rewards.
+
+11 - DAI Price: $1.01 Market Cap: $711,512,155.93 
+Staked: 4.8500 DAI ($4.90)
+FLUAN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 DAI ($0.00), 0.00% of the pool.
+Stake 0.00 DAI - Fee 3%
+Unstake 0.00 DAI
+Claim 0.00 FLUAN ($0.00)
+Staking or unstaking also claims rewards.
+
+12 - BOO Price: $25.32 Market Cap: $213,628,933.93 
+Staked: 0.3282 BOO ($8.31)
+FLUAN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 BOO ($0.00), 0.00% of the pool.
+Stake 0.00 BOO - Fee 3%
+Unstake 0.00 BOO
+Claim 0.00 FLUAN ($0.00)
+Staking or unstaking also claims rewards.
+
+13 - [USDC]-[FTERRA] SPOOKY LP [+] [-] [<=>] Price: $914,751.07 TVL: $1,323.97
+USDC Price: $1.00
+FTERRA Price: $0.18
+Staked: 0.0004 spLP ($327.38)
+FLUAN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [USDC]-[FTERRA] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [USDC]-[FTERRA] SPOOKY LP - Fee 1%
+Unstake 0.00 [USDC]-[FTERRA] SPOOKY LP
+Claim 0.00 FLUAN ($0.00)
+Staking or unstaking also claims rewards.
+
+14 - FTERRA Price: $0.18 Market Cap: $2,004.59 
+Staked: 852.5599 FTERRA ($155.37)
+FLUAN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 FTERRA ($0.00), 0.00% of the pool.
+Stake 0.00 FTERRA
+Unstake 0.00 FTERRA
+Claim 0.00 FLUAN ($0.00)
+Staking or unstaking also claims rewards.
+
+15 - [fUSDT]-[FLUAN] SPOOKY LP [+] [-] [<=>] Price: $1,570,371.16 TVL: $21.89
+fUSDT Price: $1.01
+FLUAN Price: $0.60
+Staked: 0.0000 spLP ($0.12)
+FLUAN Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.00 [fUSDT]-[FLUAN] SPOOKY LP ($0.00), 0.00% of the pool.
+Stake 0.00 [fUSDT]-[FLUAN] SPOOKY LP
+Unstake 0.00 [fUSDT]-[FLUAN] SPOOKY LP
+Claim 0.00 FLUAN ($0.00)
+Staking or unstaking also claims rewards.
+
+Total Staked: $3,760.15

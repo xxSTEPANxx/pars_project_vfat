@@ -1,0 +1,22 @@
+*************** 👨‍🌾 UNOFFICIAL BADGER FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://app.badger.finance
+***************************************************************************
+
+The below APRs do not include underlying rewards such as from curve, sushi or fees. They are only BADGER/DIGG farming APRs.
+
+Thu Jan 27 2022 21:28:04 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+bCake-LP (Wrapped [BTCB]-[WBNB] Cake LP) Price: $8,288.14 TVL: $29.23
+You are staking 0.0000 bCake-LP (Wrapped [BTCB]-[WBNB] Cake LP) ($0.00), 0.00% of the pool.
+
+bCake-LP (Wrapped [bBADGER]-[BTCB] Cake LP) Price: $1,521.80 TVL: $11,189.16
+You are staking 0.0000 bCake-LP (Wrapped [bBADGER]-[BTCB] Cake LP) ($0.00), 0.00% of the pool.
+
+bCake-LP (Wrapped [bDIGG]-[BTCB] Cake LP) Price: $37,504.28 TVL: $121,770.47
+You are staking 0.0000 bCake-LP (Wrapped [bDIGG]-[BTCB] Cake LP) ($0.00), 0.00% of the pool.
+
+Total Value Locked: $132,988.87

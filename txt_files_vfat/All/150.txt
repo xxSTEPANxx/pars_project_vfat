@@ -1,0 +1,75 @@
+*************** 👨‍🌾 UNOFFICIAL ANGLE FARMING CALCULATOR 👨‍🌾 ***************
+INFO  : https://app.angle.money
+**************************************************************************
+
+Thu Jan 27 2022 20:07:56 GMT+0300 (Москва, стандартное время)
+
+[CHANGE WALLET] -=- [CLEAR BROWSER STORAGE]
+
+Initialized 0x9fc94f19a42067a4620a9885808aeee8b1b9a444
+Reading smart contracts...
+sanUSDC_EUR (Wrapped USD Coin) Price: $1.00 TVL: $52,469,446.11
+Staked: 733860.7411 sanUSDC_EUR ($733,860.74)
+ANGLE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 sanUSDC_EUR $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 sanUSDC_EUR
+Unstake 0.000000 sanUSDC_EUR
+Claim 0.000000 ANGLE ($0.00)
+Revoke (set approval to 0)
+Exit
+
+sanDAI_EUR (Wrapped Dai Stablecoin) Price: $1.00 TVL: $10,648,360.09
+Staked: 688849.0595 sanDAI_EUR ($688,849.06)
+ANGLE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 sanDAI_EUR $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 sanDAI_EUR
+Unstake 0.000000 sanDAI_EUR
+Claim 0.000000 ANGLE ($0.00)
+Revoke (set approval to 0)
+Exit
+
+agEUR Price: $1.12 Market Cap: $129,569,478.14 [%]
+Staked: 10171626.8029 agEUR ($11,392,222.02)
+ANGLE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 agEUR $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 agEUR
+Unstake 0.000000 agEUR
+Claim 0.000000 ANGLE ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[Gelato Uniswap agEUR/USDC LP] Price: $146,192.83 TVL: $37,484,128.72
+agEUR Price: $1.12
+USDC Price: $1.00
+Staked: 10.5877 G-UNI ($1,547,850.45)
+ANGLE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [Gelato Uniswap agEUR/USDC LP] $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [Gelato Uniswap agEUR/USDC LP]
+Unstake 0.000000 [Gelato Uniswap agEUR/USDC LP]
+Claim 0.000000 ANGLE ($0.00)
+Revoke (set approval to 0)
+Exit
+
+[agEUR]-[ANGLE] SLP [+] [-] [<=>] Price: $1.34 TVL: $8,829,052.88
+agEUR Price: $1.12
+ANGLE Price: $0.39
+Staked: 687116.0330 SLP ($919,423.27)
+ANGLE Per Week: 0.00 ($0.00)
+APR: Day 0.00% Week 0.00% Year 0.00%
+You are staking 0.000000 [agEUR]-[ANGLE] SLP $0.00 (0.00% of the pool).
+Etherscan
+Stake 0.000000 [agEUR]-[ANGLE] SLP
+Unstake 0.000000 [agEUR]-[ANGLE] SLP
+Claim 0.000000 ANGLE ($0.00)
+Revoke (set approval to 0)
+Exit
+
+Total staked: $15,282,205.54
